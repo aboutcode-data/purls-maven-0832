@@ -1,0 +1,2 @@
+- pkg:maven/org.rdfhdt/hdt-java-cli@1.1
+- pkg:maven/org.rdfhdt/hdt-java-cli@1.1?classifier=sources

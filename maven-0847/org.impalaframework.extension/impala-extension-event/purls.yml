@@ -1,0 +1,2 @@
+- pkg:maven/org.impalaframework.extension/impala-extension-event@1.0.2
+- pkg:maven/org.impalaframework.extension/impala-extension-event@1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wicketstuff/browserid@1.5-RC7
+- pkg:maven/org.wicketstuff/browserid@1.5-RC7?classifier=sources

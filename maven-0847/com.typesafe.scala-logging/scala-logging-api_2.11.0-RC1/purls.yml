@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.scala-logging/scala-logging-api_2.11.0-RC1@2.0.0
+- pkg:maven/com.typesafe.scala-logging/scala-logging-api_2.11.0-RC1@2.0.0?classifier=sources

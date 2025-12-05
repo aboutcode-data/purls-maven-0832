@@ -1,0 +1,4 @@
+- pkg:maven/uk.org.lidalia/lidalia-slf4j-ext@1.0.0
+- pkg:maven/uk.org.lidalia/lidalia-slf4j-ext@1.0.0-jdk6
+- pkg:maven/uk.org.lidalia/lidalia-slf4j-ext@1.0.0-jdk6?classifier=sources
+- pkg:maven/uk.org.lidalia/lidalia-slf4j-ext@1.0.0?classifier=sources

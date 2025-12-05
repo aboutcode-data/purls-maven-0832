@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.spark/spark-ganglia-lgpl_2.10@0.9.1
+- pkg:maven/org.apache.spark/spark-ganglia-lgpl_2.10@0.9.1?classifier=sources

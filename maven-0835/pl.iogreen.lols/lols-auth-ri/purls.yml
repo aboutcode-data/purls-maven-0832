@@ -1,0 +1,2 @@
+- pkg:maven/pl.iogreen.lols/lols-auth-ri@0.1.0
+- pkg:maven/pl.iogreen.lols/lols-auth-ri@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.osgi/arquillian-osgi-felix-embedded@2.1.0.CR1
+- pkg:maven/org.jboss.arquillian.osgi/arquillian-osgi-felix-embedded@2.1.0.CR1?classifier=sources

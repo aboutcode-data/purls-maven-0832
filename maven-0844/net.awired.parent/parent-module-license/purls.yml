@@ -1,0 +1,6 @@
+- pkg:maven/net.awired.parent/parent-module-license@1.12
+- pkg:maven/net.awired.parent/parent-module-license@1.12?classifier=sources
+- pkg:maven/net.awired.parent/parent-module-license@1.13
+- pkg:maven/net.awired.parent/parent-module-license@1.13?classifier=sources
+- pkg:maven/net.awired.parent/parent-module-license@1.14
+- pkg:maven/net.awired.parent/parent-module-license@1.14?classifier=sources

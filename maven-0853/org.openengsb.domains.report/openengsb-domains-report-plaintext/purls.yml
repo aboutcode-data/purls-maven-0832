@@ -1,0 +1,2 @@
+- pkg:maven/org.openengsb.domains.report/openengsb-domains-report-plaintext@1.0.0.M6
+- pkg:maven/org.openengsb.domains.report/openengsb-domains-report-plaintext@1.0.0.M6?classifier=sources

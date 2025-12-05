@@ -1,0 +1,6 @@
+- pkg:maven/displaytag/displaytag-export-poi@1.1
+- pkg:maven/displaytag/displaytag-export-poi@1.1.1
+- pkg:maven/displaytag/displaytag-export-poi@1.1.1?classifier=sources
+- pkg:maven/displaytag/displaytag-export-poi@1.1?classifier=sources
+- pkg:maven/displaytag/displaytag-export-poi@1.2
+- pkg:maven/displaytag/displaytag-export-poi@1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cloudbees.cloud_resource/cloudbees-jersey-auth@1.0
+- pkg:maven/com.cloudbees.cloud_resource/cloudbees-jersey-auth@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.jonas.camel/camel-jonas5-integration-tests@1.0.0
+- pkg:maven/org.ow2.jonas.camel/camel-jonas5-integration-tests@1.0.0?classifier=sources
+- pkg:maven/org.ow2.jonas.camel/camel-jonas5-integration-tests@1.0.1
+- pkg:maven/org.ow2.jonas.camel/camel-jonas5-integration-tests@1.0.1?classifier=sources

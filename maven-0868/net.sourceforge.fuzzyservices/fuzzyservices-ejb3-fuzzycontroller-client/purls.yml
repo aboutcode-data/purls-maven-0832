@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.fuzzyservices/fuzzyservices-ejb3-fuzzycontroller-client@1.0
+- pkg:maven/net.sourceforge.fuzzyservices/fuzzyservices-ejb3-fuzzycontroller-client@1.0?classifier=sources

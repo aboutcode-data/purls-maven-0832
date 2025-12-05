@@ -1,0 +1,2 @@
+- pkg:maven/net.wetheinter/xapi-jre-reflect@0.3
+- pkg:maven/net.wetheinter/xapi-jre-reflect@0.3?classifier=sources

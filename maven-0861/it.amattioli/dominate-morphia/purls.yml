@@ -1,0 +1,4 @@
+- pkg:maven/it.amattioli/dominate-morphia@0.8
+- pkg:maven/it.amattioli/dominate-morphia@0.8?classifier=sources
+- pkg:maven/it.amattioli/dominate-morphia@1.0.7
+- pkg:maven/it.amattioli/dominate-morphia@1.0.7?classifier=sources

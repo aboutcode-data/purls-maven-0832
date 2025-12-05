@@ -1,0 +1,5 @@
+- pkg:maven/org.picketlink/sales-saml11@2.0.0.final?type=war
+- pkg:maven/org.picketlink/sales-saml11@2.0.1.1.final?type=war
+- pkg:maven/org.picketlink/sales-saml11@2.0.1.final?type=war
+- pkg:maven/org.picketlink/sales-saml11@2.0.2.Final?type=war
+- pkg:maven/org.picketlink/sales-saml11@2.0.3.Final?type=war

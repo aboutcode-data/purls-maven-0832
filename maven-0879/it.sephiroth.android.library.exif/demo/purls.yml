@@ -1,0 +1,4 @@
+- pkg:maven/it.sephiroth.android.library.exif/demo@2.97.1?classifier=sources
+- pkg:maven/it.sephiroth.android.library.exif/demo@2.97.3?classifier=sources
+- pkg:maven/it.sephiroth.android.library.exif/demo@2.97.4?classifier=sources
+- pkg:maven/it.sephiroth.android.library.exif/demo@2.97?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.codehaus.plexus.security/plexus-security-acegi-integration@1.0-alpha-6
+- pkg:maven/org.codehaus.plexus.security/plexus-security-acegi-integration@1.0-alpha-6?classifier=sources
+- pkg:maven/org.codehaus.plexus.security/plexus-security-acegi-integration@1.0-alpha-7
+- pkg:maven/org.codehaus.plexus.security/plexus-security-acegi-integration@1.0-alpha-7?classifier=sources
+- pkg:maven/org.codehaus.plexus.security/plexus-security-acegi-integration@1.0-alpha-8
+- pkg:maven/org.codehaus.plexus.security/plexus-security-acegi-integration@1.0-alpha-8?classifier=sources
+- pkg:maven/org.codehaus.plexus.security/plexus-security-acegi-integration@1.0-alpha-9
+- pkg:maven/org.codehaus.plexus.security/plexus-security-acegi-integration@1.0-alpha-9?classifier=sources

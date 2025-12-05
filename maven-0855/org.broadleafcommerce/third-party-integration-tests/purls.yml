@@ -1,0 +1,2 @@
+- pkg:maven/org.broadleafcommerce/third-party-integration-tests@1.6.0-GA
+- pkg:maven/org.broadleafcommerce/third-party-integration-tests@1.6.0-GA?classifier=sources

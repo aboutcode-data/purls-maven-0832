@@ -1,0 +1,2 @@
+- pkg:maven/org.elasticmq/elasticmq-spi_2.10@0.6.3
+- pkg:maven/org.elasticmq/elasticmq-spi_2.10@0.6.3?classifier=sources

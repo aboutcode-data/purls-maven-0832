@@ -1,0 +1,2 @@
+- pkg:maven/com.prezi.spaghetti/spaghetti-haxe-support@1.4
+- pkg:maven/com.prezi.spaghetti/spaghetti-haxe-support@1.4?classifier=sources

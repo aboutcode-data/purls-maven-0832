@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.juddi/uddi-client@3.0.0.alpha
+- pkg:maven/org.apache.juddi/uddi-client@3.0.0.beta
+- pkg:maven/org.apache.juddi/uddi-client@3.0.0.beta?classifier=sources
+- pkg:maven/org.apache.juddi/uddi-client@3.0.0.rc1
+- pkg:maven/org.apache.juddi/uddi-client@3.0.0.rc1?classifier=sources

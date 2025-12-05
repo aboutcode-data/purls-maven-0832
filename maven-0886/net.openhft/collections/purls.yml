@@ -1,0 +1,14 @@
+- pkg:maven/net.openhft/collections@2.0
+- pkg:maven/net.openhft/collections@2.0?classifier=sources
+- pkg:maven/net.openhft/collections@3.0.2
+- pkg:maven/net.openhft/collections@3.0.2?classifier=sources
+- pkg:maven/net.openhft/collections@3.0a
+- pkg:maven/net.openhft/collections@3.0a?classifier=sources
+- pkg:maven/net.openhft/collections@3.0b
+- pkg:maven/net.openhft/collections@3.0b?classifier=sources
+- pkg:maven/net.openhft/collections@3.0c
+- pkg:maven/net.openhft/collections@3.0c?classifier=sources
+- pkg:maven/net.openhft/collections@3.0d
+- pkg:maven/net.openhft/collections@3.0d?classifier=sources
+- pkg:maven/net.openhft/collections@3.0e
+- pkg:maven/net.openhft/collections@3.0e?classifier=sources

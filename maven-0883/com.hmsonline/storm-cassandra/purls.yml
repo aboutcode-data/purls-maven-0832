@@ -1,0 +1,14 @@
+- pkg:maven/com.hmsonline/storm-cassandra@0.1.2
+- pkg:maven/com.hmsonline/storm-cassandra@0.1.2?classifier=sources
+- pkg:maven/com.hmsonline/storm-cassandra@0.1.3
+- pkg:maven/com.hmsonline/storm-cassandra@0.1.3?classifier=sources
+- pkg:maven/com.hmsonline/storm-cassandra@0.3.0
+- pkg:maven/com.hmsonline/storm-cassandra@0.3.0?classifier=sources
+- pkg:maven/com.hmsonline/storm-cassandra@0.4.0-rc1
+- pkg:maven/com.hmsonline/storm-cassandra@0.4.0-rc1?classifier=sources
+- pkg:maven/com.hmsonline/storm-cassandra@0.4.0-rc2
+- pkg:maven/com.hmsonline/storm-cassandra@0.4.0-rc2?classifier=sources
+- pkg:maven/com.hmsonline/storm-cassandra@0.4.0-rc3
+- pkg:maven/com.hmsonline/storm-cassandra@0.4.0-rc3?classifier=sources
+- pkg:maven/com.hmsonline/storm-cassandra@0.4.0-rc4
+- pkg:maven/com.hmsonline/storm-cassandra@0.4.0-rc4?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.copper-engine/copper-spring@3.0
+- pkg:maven/org.copper-engine/copper-spring@3.0-RC.2
+- pkg:maven/org.copper-engine/copper-spring@3.0-RC.2?classifier=sources
+- pkg:maven/org.copper-engine/copper-spring@3.0-RC.3
+- pkg:maven/org.copper-engine/copper-spring@3.0-RC.3?classifier=sources
+- pkg:maven/org.copper-engine/copper-spring@3.0-RC.4
+- pkg:maven/org.copper-engine/copper-spring@3.0-RC.4?classifier=sources
+- pkg:maven/org.copper-engine/copper-spring@3.0?classifier=sources
+- pkg:maven/org.copper-engine/copper-spring@3.1.0
+- pkg:maven/org.copper-engine/copper-spring@3.1.0?classifier=sources
+- pkg:maven/org.copper-engine/copper-spring@3.1.0_pre2
+- pkg:maven/org.copper-engine/copper-spring@3.1.0_pre2?classifier=sources

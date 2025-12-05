@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.timetracker/timetracker-ejb3-web@3.4?classifier=sources
+- pkg:maven/org.andromda.timetracker/timetracker-ejb3-web@3.4?type=war

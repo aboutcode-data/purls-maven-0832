@@ -1,0 +1,2 @@
+- pkg:maven/org.xqdoc/xqdoc-conversion@1.6
+- pkg:maven/org.xqdoc/xqdoc-conversion@1.6?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.jasmine.probe/jasmine-probe-itests-rest@1.2.1
+- pkg:maven/org.ow2.jasmine.probe/jasmine-probe-itests-rest@1.2.3
+- pkg:maven/org.ow2.jasmine.probe/jasmine-probe-itests-rest@1.2.4
+- pkg:maven/org.ow2.jasmine.probe/jasmine-probe-itests-rest@1.3.0

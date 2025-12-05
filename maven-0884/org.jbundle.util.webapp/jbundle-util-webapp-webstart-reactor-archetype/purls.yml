@@ -1,0 +1,4 @@
+- pkg:maven/org.jbundle.util.webapp/jbundle-util-webapp-webstart-reactor-archetype@0.9.1?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/jbundle-util-webapp-webstart-reactor-archetype@0.9.4?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/jbundle-util-webapp-webstart-reactor-archetype@1.0.0?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/jbundle-util-webapp-webstart-reactor-archetype@1.0.1?classifier=sources

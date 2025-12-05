@@ -1,0 +1,2 @@
+- pkg:maven/org.tranql/tranql-connector-sqlserver2008@1.0?classifier=source-release&type=zip
+- pkg:maven/org.tranql/tranql-connector-sqlserver2008@1.1?classifier=source-release&type=zip

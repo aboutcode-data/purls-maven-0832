@@ -1,0 +1,4 @@
+- pkg:maven/org.robolectric/android-res@4.1.2_r1_rc
+- pkg:maven/org.robolectric/android-res@4.1.2_r1_rc?classifier=sources
+- pkg:maven/org.robolectric/android-res@4.3_r2.robolectric-0
+- pkg:maven/org.robolectric/android-res@4.3_r2.robolectric-0?classifier=sources

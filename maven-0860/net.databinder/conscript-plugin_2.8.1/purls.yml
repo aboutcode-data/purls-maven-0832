@@ -1,0 +1,6 @@
+- pkg:maven/net.databinder/conscript-plugin_2.8.1@0.3.0
+- pkg:maven/net.databinder/conscript-plugin_2.8.1@0.3.0?classifier=sources
+- pkg:maven/net.databinder/conscript-plugin_2.8.1@0.3.1
+- pkg:maven/net.databinder/conscript-plugin_2.8.1@0.3.1?classifier=sources
+- pkg:maven/net.databinder/conscript-plugin_2.8.1@0.3.1_sbt0.10.1
+- pkg:maven/net.databinder/conscript-plugin_2.8.1@0.3.1_sbt0.10.1?classifier=sources

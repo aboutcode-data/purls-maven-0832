@@ -1,0 +1,2 @@
+- pkg:maven/com.github.verylazyboy/sablecc-maven-port@3.7
+- pkg:maven/com.github.verylazyboy/sablecc-maven-port@3.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.opencoweb/cowebx-apps@0.4?classifier=sources
+- pkg:maven/org.opencoweb/cowebx-apps@0.4?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.okhttp/okhttp@20120626
+- pkg:maven/com.google.okhttp/okhttp@20120626?classifier=sources

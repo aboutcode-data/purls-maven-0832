@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-layouts@2.0?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-layouts@2.1.3?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-layouts@2.1.4?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-layouts@2.2.0?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-layouts@2.2.1?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-layouts@2.2.2?type=war

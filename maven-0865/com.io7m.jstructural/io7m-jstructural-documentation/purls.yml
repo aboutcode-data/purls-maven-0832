@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@2.0.0?classifier=sources
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@2.0.0?type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/de.fuberlin.wiwiss.silk/silk-server@2.5.3?type=war
+- pkg:maven/de.fuberlin.wiwiss.silk/silk-server@2.5?type=war

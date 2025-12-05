@@ -1,0 +1,2 @@
+- pkg:maven/org.ff4j/ff4j-jmx@1.1.0
+- pkg:maven/org.ff4j/ff4j-jmx@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.solr-geonames/solr-geonames-server@1.0?classifier=sources
+- pkg:maven/com.googlecode.solr-geonames/solr-geonames-server@1.0?type=war

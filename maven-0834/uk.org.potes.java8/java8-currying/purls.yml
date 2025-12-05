@@ -1,0 +1,2 @@
+- pkg:maven/uk.org.potes.java8/java8-currying@0.0.1
+- pkg:maven/uk.org.potes.java8/java8-currying@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.osgi/org.eclipse.osgi.util@3.2.100.v20100503
+- pkg:maven/org.eclipse.osgi/org.eclipse.osgi.util@3.2.100.v20100503?classifier=sources

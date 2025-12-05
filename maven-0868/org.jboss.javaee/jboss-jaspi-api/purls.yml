@@ -1,0 +1,12 @@
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0-BETA1
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0-BETA1?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.BETA1-20070913080910
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.BETA1-20070913080910?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.Beta3Update1
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.Beta3Update1?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.CR1
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.CR2
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.CR2?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.GA
+- pkg:maven/org.jboss.javaee/jboss-jaspi-api@1.0.0.GA?classifier=sources

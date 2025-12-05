@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.uportal/uportal-war@2.6.0-GA?type=war
+- pkg:maven/org.jasig.uportal/uportal-war@2.6.1-GA?type=war

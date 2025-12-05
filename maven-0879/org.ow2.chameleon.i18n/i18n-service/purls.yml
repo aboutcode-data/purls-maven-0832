@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.chameleon.i18n/i18n-service@0.2.0
+- pkg:maven/org.ow2.chameleon.i18n/i18n-service@0.2.0?classifier=sources

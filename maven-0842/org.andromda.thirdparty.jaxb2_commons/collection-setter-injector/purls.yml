@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/collection-setter-injector@1.0
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/collection-setter-injector@1.0?classifier=sources

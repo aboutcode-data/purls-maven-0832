@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.main.deployment.jsr-88/sun-as-jsr88-dm@3.1.2
+- pkg:maven/org.glassfish.main.deployment.jsr-88/sun-as-jsr88-dm@3.1.2.2
+- pkg:maven/org.glassfish.main.deployment.jsr-88/sun-as-jsr88-dm@3.1.2.2?classifier=sources
+- pkg:maven/org.glassfish.main.deployment.jsr-88/sun-as-jsr88-dm@3.1.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.leacox.dagger.example/jersey-simple@1.0.0?classifier=sources
+- pkg:maven/com.leacox.dagger.example/jersey-simple@1.0.0?type=war
+- pkg:maven/com.leacox.dagger.example/jersey-simple@1.0.1?classifier=sources
+- pkg:maven/com.leacox.dagger.example/jersey-simple@1.0.1?type=war

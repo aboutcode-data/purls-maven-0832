@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.onami.logging/org.apache.onami.logging.log4j@3.4.0-incubating
+- pkg:maven/org.apache.onami.logging/org.apache.onami.logging.log4j@3.4.0-incubating?classifier=sources

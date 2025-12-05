@@ -1,0 +1,8 @@
+- pkg:maven/nl.cloudfarming.client/crop-model@1.0.18?classifier=sources
+- pkg:maven/nl.cloudfarming.client/crop-model@12.10-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/crop-model@12.10.1-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/crop-model@12.11-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/crop-model@12.12-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/crop-model@13.01-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/crop-model@13.02-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/crop-model@13.03-beta?classifier=sources

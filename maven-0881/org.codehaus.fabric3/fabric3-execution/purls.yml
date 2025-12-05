@@ -1,0 +1,10 @@
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@1.9
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@1.9.5
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@1.9.5?classifier=sources
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@1.9.6
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@1.9.6?classifier=sources
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@1.9?classifier=sources
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@2.0.0
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@2.0.0?classifier=sources
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@2.0.1
+- pkg:maven/org.codehaus.fabric3/fabric3-execution@2.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.boofcv/boofcv@0.12
+- pkg:maven/org.boofcv/boofcv@0.12?classifier=sources
+- pkg:maven/org.boofcv/boofcv@0.13
+- pkg:maven/org.boofcv/boofcv@0.13?classifier=sources
+- pkg:maven/org.boofcv/boofcv@0.15
+- pkg:maven/org.boofcv/boofcv@0.15?classifier=sources

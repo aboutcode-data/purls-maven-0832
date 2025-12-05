@@ -1,0 +1,6 @@
+- pkg:maven/org.crazyyak.dev/yak-dev-amazon@1.2.0-50
+- pkg:maven/org.crazyyak.dev/yak-dev-amazon@1.2.0-50?classifier=sources
+- pkg:maven/org.crazyyak.dev/yak-dev-amazon@1.2.0-51
+- pkg:maven/org.crazyyak.dev/yak-dev-amazon@1.2.0-51?classifier=sources
+- pkg:maven/org.crazyyak.dev/yak-dev-amazon@1.2.1
+- pkg:maven/org.crazyyak.dev/yak-dev-amazon@1.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/in.uncod.android.bypass/functional-test@1.0?classifier=sources
+- pkg:maven/in.uncod.android.bypass/functional-test@1.1?classifier=sources

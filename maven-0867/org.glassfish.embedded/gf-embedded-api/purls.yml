@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.embedded/gf-embedded-api@1.0-alpha-2?classifier=sources
+- pkg:maven/org.glassfish.embedded/gf-embedded-api@1.0-alpha-3?classifier=sources
+- pkg:maven/org.glassfish.embedded/gf-embedded-api@1.0-alpha-4
+- pkg:maven/org.glassfish.embedded/gf-embedded-api@1.0-alpha-4?classifier=sources

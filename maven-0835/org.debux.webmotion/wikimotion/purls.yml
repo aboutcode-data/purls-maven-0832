@@ -1,0 +1,6 @@
+- pkg:maven/org.debux.webmotion/wikimotion@2.3.2?classifier=sources
+- pkg:maven/org.debux.webmotion/wikimotion@2.3.2?type=war
+- pkg:maven/org.debux.webmotion/wikimotion@2.3.3?classifier=sources
+- pkg:maven/org.debux.webmotion/wikimotion@2.3.3?type=war
+- pkg:maven/org.debux.webmotion/wikimotion@2.4?classifier=sources
+- pkg:maven/org.debux.webmotion/wikimotion@2.4?type=war

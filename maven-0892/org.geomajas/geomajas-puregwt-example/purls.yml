@@ -1,0 +1,2 @@
+- pkg:maven/org.geomajas/geomajas-puregwt-example@1.0.0-M6?classifier=sources
+- pkg:maven/org.geomajas/geomajas-puregwt-example@1.0.0-M6?type=war

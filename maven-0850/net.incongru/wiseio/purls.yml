@@ -1,0 +1,2 @@
+- pkg:maven/net.incongru/wiseio@1.0-rc1
+- pkg:maven/net.incongru/wiseio@1.0-rc1?classifier=sources

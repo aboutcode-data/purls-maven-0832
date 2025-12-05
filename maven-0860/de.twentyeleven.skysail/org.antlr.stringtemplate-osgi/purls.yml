@@ -1,0 +1,2 @@
+- pkg:maven/de.twentyeleven.skysail/org.antlr.stringtemplate-osgi@4.0.2
+- pkg:maven/de.twentyeleven.skysail/org.antlr.stringtemplate-osgi@4.0.2?classifier=sources

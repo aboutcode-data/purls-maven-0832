@@ -1,0 +1,10 @@
+- pkg:maven/com.senseidb/sensei-war@1.0.0?classifier=sources
+- pkg:maven/com.senseidb/sensei-war@1.0.0?type=war
+- pkg:maven/com.senseidb/sensei-war@1.5.0?classifier=sources
+- pkg:maven/com.senseidb/sensei-war@1.5.0?type=war
+- pkg:maven/com.senseidb/sensei-war@1.6.0?classifier=sources
+- pkg:maven/com.senseidb/sensei-war@1.6.0?type=war
+- pkg:maven/com.senseidb/sensei-war@2.0.0?classifier=sources
+- pkg:maven/com.senseidb/sensei-war@2.0.0?type=war
+- pkg:maven/com.senseidb/sensei-war@2.0.1?classifier=sources
+- pkg:maven/com.senseidb/sensei-war@2.0.1?type=war

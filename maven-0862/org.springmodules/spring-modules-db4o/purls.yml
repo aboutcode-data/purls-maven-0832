@@ -1,0 +1,2 @@
+- pkg:maven/org.springmodules/spring-modules-db4o@0.8a
+- pkg:maven/org.springmodules/spring-modules-db4o@0.8a?classifier=sources

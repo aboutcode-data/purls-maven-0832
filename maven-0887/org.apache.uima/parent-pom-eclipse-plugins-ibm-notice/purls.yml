@@ -1,0 +1,3 @@
+- pkg:maven/org.apache.uima/parent-pom-eclipse-plugins-ibm-notice@2?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom-eclipse-plugins-ibm-notice@3?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom-eclipse-plugins-ibm-notice@4?classifier=source-release&type=zip

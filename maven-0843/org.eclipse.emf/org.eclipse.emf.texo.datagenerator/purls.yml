@@ -1,0 +1,8 @@
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.texo.datagenerator@0.1.0-v201210251502
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.texo.datagenerator@0.1.0-v201210251502?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.texo.datagenerator@0.1.0-v201301102333
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.texo.datagenerator@0.1.0-v201301102333?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.texo.datagenerator@0.1.0-v201304010838
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.texo.datagenerator@0.1.0-v201304010838?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.texo.datagenerator@0.1.0-v201310021216
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.texo.datagenerator@0.1.0-v201310021216?classifier=sources

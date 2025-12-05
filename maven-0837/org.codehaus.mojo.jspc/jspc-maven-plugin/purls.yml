@@ -1,0 +1,6 @@
+- pkg:maven/org.codehaus.mojo.jspc/jspc-maven-plugin@2.0-alpha-1
+- pkg:maven/org.codehaus.mojo.jspc/jspc-maven-plugin@2.0-alpha-1?classifier=sources
+- pkg:maven/org.codehaus.mojo.jspc/jspc-maven-plugin@2.0-alpha-2
+- pkg:maven/org.codehaus.mojo.jspc/jspc-maven-plugin@2.0-alpha-2?classifier=sources
+- pkg:maven/org.codehaus.mojo.jspc/jspc-maven-plugin@2.0-alpha-3
+- pkg:maven/org.codehaus.mojo.jspc/jspc-maven-plugin@2.0-alpha-3?classifier=sources

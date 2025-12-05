@@ -1,0 +1,2 @@
+- pkg:maven/org.chafed/chafed_2.9.2@0.2.1
+- pkg:maven/org.chafed/chafed_2.9.2@0.2.1?classifier=sources

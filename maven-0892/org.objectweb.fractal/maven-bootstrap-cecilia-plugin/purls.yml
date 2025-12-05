@@ -1,0 +1,3 @@
+- pkg:maven/org.objectweb.fractal/maven-bootstrap-cecilia-plugin@1.0
+- pkg:maven/org.objectweb.fractal/maven-bootstrap-cecilia-plugin@1.1
+- pkg:maven/org.objectweb.fractal/maven-bootstrap-cecilia-plugin@1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars/bootstrap-multiselect@0.9.1
+- pkg:maven/org.webjars/bootstrap-multiselect@0.9.1?classifier=sources
+- pkg:maven/org.webjars/bootstrap-multiselect@0a857a085d
+- pkg:maven/org.webjars/bootstrap-multiselect@0a857a085d?classifier=sources

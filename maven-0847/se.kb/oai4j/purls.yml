@@ -1,0 +1,2 @@
+- pkg:maven/se.kb/oai4j@0.6b1
+- pkg:maven/se.kb/oai4j@0.6b1?classifier=sources

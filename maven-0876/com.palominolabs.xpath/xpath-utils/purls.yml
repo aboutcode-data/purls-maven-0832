@@ -1,0 +1,2 @@
+- pkg:maven/com.palominolabs.xpath/xpath-utils@1.0.1
+- pkg:maven/com.palominolabs.xpath/xpath-utils@1.0.1?classifier=sources

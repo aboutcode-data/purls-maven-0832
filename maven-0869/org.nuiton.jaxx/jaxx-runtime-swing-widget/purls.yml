@@ -1,0 +1,2 @@
+- pkg:maven/org.nuiton.jaxx/jaxx-runtime-swing-widget@1.7.1
+- pkg:maven/org.nuiton.jaxx/jaxx-runtime-swing-widget@1.7.1?classifier=sources

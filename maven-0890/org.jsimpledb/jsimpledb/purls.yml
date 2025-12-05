@@ -1,0 +1,2 @@
+- pkg:maven/org.jsimpledb/jsimpledb@1.0.86
+- pkg:maven/org.jsimpledb/jsimpledb@1.0.86?classifier=sources

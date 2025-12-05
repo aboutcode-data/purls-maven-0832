@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.geronimo.specs/geronimo-interceptor_1.1_spec@1.0
+- pkg:maven/org.apache.geronimo.specs/geronimo-interceptor_1.1_spec@1.0.0-beta
+- pkg:maven/org.apache.geronimo.specs/geronimo-interceptor_1.1_spec@1.0.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.specs/geronimo-interceptor_1.1_spec@1.0.0-beta?classifier=sources
+- pkg:maven/org.apache.geronimo.specs/geronimo-interceptor_1.1_spec@1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.specs/geronimo-interceptor_1.1_spec@1.0?classifier=sources

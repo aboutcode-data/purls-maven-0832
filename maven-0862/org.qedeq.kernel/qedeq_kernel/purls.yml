@@ -1,0 +1,6 @@
+- pkg:maven/org.qedeq.kernel/qedeq_kernel@0.04.05
+- pkg:maven/org.qedeq.kernel/qedeq_kernel@0.04.05?classifier=sources
+- pkg:maven/org.qedeq.kernel/qedeq_kernel@0.04.06
+- pkg:maven/org.qedeq.kernel/qedeq_kernel@0.04.06?classifier=sources
+- pkg:maven/org.qedeq.kernel/qedeq_kernel@0.04.07
+- pkg:maven/org.qedeq.kernel/qedeq_kernel@0.04.07?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.openejb.patch/openjpa-kernel@2.3.0-nonfinal-1540826
+- pkg:maven/org.apache.openejb.patch/openjpa-kernel@2.3.0-nonfinal-1540826?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jibx.config.3rdparty.org.eclipse/org.eclipse.jdt.core@3.7.0.v_B61
+- pkg:maven/org.jibx.config.3rdparty.org.eclipse/org.eclipse.jdt.core@3.7.0.v_B61?classifier=sources

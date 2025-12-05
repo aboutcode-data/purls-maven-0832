@@ -1,0 +1,2 @@
+- pkg:maven/fr.opensagres.xdocreport.appengine-awt/appengine-awt@1.0.0
+- pkg:maven/fr.opensagres.xdocreport.appengine-awt/appengine-awt@1.0.0?classifier=sources

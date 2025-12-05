@@ -1,0 +1,4 @@
+- pkg:maven/com.indoles.clj/withLockedFile@0.1.0
+- pkg:maven/com.indoles.clj/withLockedFile@0.1.0-standalone
+- pkg:maven/com.indoles.clj/withLockedFile@0.1.0-standalone?classifier=sources
+- pkg:maven/com.indoles.clj/withLockedFile@0.1.0?classifier=sources

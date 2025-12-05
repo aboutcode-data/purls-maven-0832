@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kristofa/mock-http-server-json-matcher@1.0
+- pkg:maven/com.github.kristofa/mock-http-server-json-matcher@1.0?classifier=sources

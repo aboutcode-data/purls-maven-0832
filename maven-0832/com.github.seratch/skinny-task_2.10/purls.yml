@@ -1,0 +1,14 @@
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.10
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.10?classifier=sources
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.11
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.11?classifier=sources
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.12
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.12?classifier=sources
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.13
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.13?classifier=sources
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.14
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.14?classifier=sources
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.15
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.15?classifier=sources
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.9
+- pkg:maven/com.github.seratch/skinny-task_2.10@0.9.9?classifier=sources

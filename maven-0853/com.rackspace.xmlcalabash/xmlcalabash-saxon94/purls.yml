@@ -1,0 +1,2 @@
+- pkg:maven/com.rackspace.xmlcalabash/xmlcalabash-saxon94@1.0.16
+- pkg:maven/com.rackspace.xmlcalabash/xmlcalabash-saxon94@1.0.16?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.databinder/unfiltered-directives_2.11@0.7.1
+- pkg:maven/net.databinder/unfiltered-directives_2.11@0.7.1?classifier=sources

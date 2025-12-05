@@ -1,0 +1,7 @@
+- pkg:maven/org.graniteds/granite-flex45-swc@2.3.0.GA?classifier=sources
+- pkg:maven/org.graniteds/granite-flex45-swc@2.3.0.RC1?classifier=sources
+- pkg:maven/org.graniteds/granite-flex45-swc@2.3.1.GA?classifier=sources
+- pkg:maven/org.graniteds/granite-flex45-swc@2.3.2.GA?classifier=sources
+- pkg:maven/org.graniteds/granite-flex45-swc@3.0.0.M1?classifier=sources
+- pkg:maven/org.graniteds/granite-flex45-swc@3.0.0.M2?classifier=sources
+- pkg:maven/org.graniteds/granite-flex45-swc@3.0.0.M3?classifier=sources

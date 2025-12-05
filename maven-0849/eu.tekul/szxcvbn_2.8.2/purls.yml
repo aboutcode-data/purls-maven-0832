@@ -1,0 +1,4 @@
+- pkg:maven/eu.tekul/szxcvbn_2.8.2@0.1
+- pkg:maven/eu.tekul/szxcvbn_2.8.2@0.1?classifier=sources
+- pkg:maven/eu.tekul/szxcvbn_2.8.2@0.2
+- pkg:maven/eu.tekul/szxcvbn_2.8.2@0.2?classifier=sources

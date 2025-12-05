@@ -1,0 +1,2 @@
+- pkg:maven/org.axonframework.samples/axon-addressbook-flexui-war@0.5?classifier=sources
+- pkg:maven/org.axonframework.samples/axon-addressbook-flexui-war@0.5?type=war

@@ -1,0 +1,9 @@
+- pkg:maven/org.apache.servicemix.samples.cxf-wsdl-first/wsdl-first-cxfbc-su@3.2.1?classifier=sources
+- pkg:maven/org.apache.servicemix.samples.cxf-wsdl-first/wsdl-first-cxfbc-su@3.2.2?classifier=sources
+- pkg:maven/org.apache.servicemix.samples.cxf-wsdl-first/wsdl-first-cxfbc-su@3.2.3?classifier=sources
+- pkg:maven/org.apache.servicemix.samples.cxf-wsdl-first/wsdl-first-cxfbc-su@3.2?classifier=sources
+- pkg:maven/org.apache.servicemix.samples.cxf-wsdl-first/wsdl-first-cxfbc-su@3.3.1?classifier=sources
+- pkg:maven/org.apache.servicemix.samples.cxf-wsdl-first/wsdl-first-cxfbc-su@3.3.2?classifier=sources
+- pkg:maven/org.apache.servicemix.samples.cxf-wsdl-first/wsdl-first-cxfbc-su@3.3?classifier=sources
+- pkg:maven/org.apache.servicemix.samples.cxf-wsdl-first/wsdl-first-cxfbc-su@3.4.0?classifier=sources
+- pkg:maven/org.apache.servicemix.samples.cxf-wsdl-first/wsdl-first-cxfbc-su@3.4.1?classifier=sources

@@ -1,0 +1,7 @@
+- pkg:maven/com.hp.hpl.jena/arq-extra@2.1
+- pkg:maven/com.hp.hpl.jena/arq-extra@2.2
+- pkg:maven/com.hp.hpl.jena/arq-extra@2.3
+- pkg:maven/com.hp.hpl.jena/arq-extra@2.4
+- pkg:maven/com.hp.hpl.jena/arq-extra@2.5.0
+- pkg:maven/com.hp.hpl.jena/arq-extra@2.6.0
+- pkg:maven/com.hp.hpl.jena/arq-extra@2.7.0

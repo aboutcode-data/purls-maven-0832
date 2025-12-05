@@ -1,0 +1,8 @@
+- pkg:maven/org.ow2.bonita/bonita-server-env@4.0.1
+- pkg:maven/org.ow2.bonita/bonita-server-env@4.0.1?classifier=sources
+- pkg:maven/org.ow2.bonita/bonita-server-env@4.1
+- pkg:maven/org.ow2.bonita/bonita-server-env@4.1.1
+- pkg:maven/org.ow2.bonita/bonita-server-env@4.1.1?classifier=sources
+- pkg:maven/org.ow2.bonita/bonita-server-env@4.1?classifier=sources
+- pkg:maven/org.ow2.bonita/bonita-server-env@5.0.M2
+- pkg:maven/org.ow2.bonita/bonita-server-env@5.0.M2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xuwei-k/httpz-native-client_2.10@0.2.10-RC2-scalaz70
+- pkg:maven/com.github.xuwei-k/httpz-native-client_2.10@0.2.10-RC2-scalaz70?classifier=sources

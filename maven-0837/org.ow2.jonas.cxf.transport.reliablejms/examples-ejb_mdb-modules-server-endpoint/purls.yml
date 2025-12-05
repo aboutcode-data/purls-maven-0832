@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.jonas.cxf.transport.reliablejms/examples-ejb_mdb-modules-server-endpoint@0.1
+- pkg:maven/org.ow2.jonas.cxf.transport.reliablejms/examples-ejb_mdb-modules-server-endpoint@0.1?classifier=sources

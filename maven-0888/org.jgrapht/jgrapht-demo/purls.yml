@@ -1,0 +1,2 @@
+- pkg:maven/org.jgrapht/jgrapht-demo@0.9.0
+- pkg:maven/org.jgrapht/jgrapht-demo@0.9.0?classifier=sources

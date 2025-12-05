@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.sling/sling@10?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@11?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@12?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@13?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@14?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@15?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@16?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@17?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@18?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@19?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@8?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@9?classifier=source-release&type=zip

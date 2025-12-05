@@ -1,0 +1,6 @@
+- pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@1.0.0-M2?classifier=sources
+- pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@1.0.0-M2?type=war
+- pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@1.0.0-M3?classifier=sources
+- pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@1.0.0-M3?type=war
+- pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@1.0.0-M4?classifier=sources
+- pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@1.0.0-M4?type=war

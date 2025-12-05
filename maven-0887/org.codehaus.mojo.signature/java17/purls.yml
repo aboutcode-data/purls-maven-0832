@@ -1,0 +1,1 @@
+- pkg:maven/org.codehaus.mojo.signature/java17@1.0?classifier=source-release&type=zip

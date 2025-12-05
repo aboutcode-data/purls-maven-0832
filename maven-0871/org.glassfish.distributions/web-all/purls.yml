@@ -1,0 +1,7 @@
+- pkg:maven/org.glassfish.distributions/web-all@10.0-build-20080427
+- pkg:maven/org.glassfish.distributions/web-all@10.0-build-20080430
+- pkg:maven/org.glassfish.distributions/web-all@10.0-build-20080724
+- pkg:maven/org.glassfish.distributions/web-all@10.0-build-20080803
+- pkg:maven/org.glassfish.distributions/web-all@10.0-build-20080804
+- pkg:maven/org.glassfish.distributions/web-all@10.0-build-20080806
+- pkg:maven/org.glassfish.distributions/web-all@10.0-build-20080812

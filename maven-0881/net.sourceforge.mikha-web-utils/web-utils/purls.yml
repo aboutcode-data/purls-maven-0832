@@ -1,0 +1,6 @@
+- pkg:maven/net.sourceforge.mikha-web-utils/web-utils@1.0
+- pkg:maven/net.sourceforge.mikha-web-utils/web-utils@1.0-alpha3
+- pkg:maven/net.sourceforge.mikha-web-utils/web-utils@1.0?classifier=sources
+- pkg:maven/net.sourceforge.mikha-web-utils/web-utils@1.1
+- pkg:maven/net.sourceforge.mikha-web-utils/web-utils@1.2
+- pkg:maven/net.sourceforge.mikha-web-utils/web-utils@1.2?classifier=sources

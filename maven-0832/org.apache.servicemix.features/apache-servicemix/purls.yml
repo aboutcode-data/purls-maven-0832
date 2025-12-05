@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.features/apache-servicemix@4.0-m1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.features/apache-servicemix@4.0-m1?classifier=src&type=zip

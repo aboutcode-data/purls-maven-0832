@@ -1,0 +1,3 @@
+- pkg:maven/org.ow2.util.maven.osgi/ow2-bnd-ipojo-plugin@1.0.0
+- pkg:maven/org.ow2.util.maven.osgi/ow2-bnd-ipojo-plugin@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.util.maven.osgi/ow2-bnd-ipojo-plugin@1.0.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.deephacks/confit-tck@0.16.0
+- pkg:maven/org.deephacks/confit-tck@0.16.0?classifier=sources
+- pkg:maven/org.deephacks/confit-tck@0.16.1
+- pkg:maven/org.deephacks/confit-tck@0.16.1?classifier=sources
+- pkg:maven/org.deephacks/confit-tck@0.16.2
+- pkg:maven/org.deephacks/confit-tck@0.16.2?classifier=sources
+- pkg:maven/org.deephacks/confit-tck@0.16.3
+- pkg:maven/org.deephacks/confit-tck@0.16.3?classifier=sources
+- pkg:maven/org.deephacks/confit-tck@0.17.0
+- pkg:maven/org.deephacks/confit-tck@0.17.0?classifier=sources

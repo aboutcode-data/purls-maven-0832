@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang/scala-actors-migration_2.11.0-M5@1.0.0
+- pkg:maven/org.scala-lang/scala-actors-migration_2.11.0-M5@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.ext.tomcat/tomcat-parent-7.0.19@7.0.19.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.ext.tomcat/tomcat-parent-7.0.19@7.0.19.2?classifier=source-release&type=zip

@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.stanbol/source-assembly@0.10.0-incubating
+- pkg:maven/org.apache.stanbol/source-assembly@0.10.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.stanbol/source-assembly@0.10.0-incubating?classifier=sources
+- pkg:maven/org.apache.stanbol/source-assembly@1.0.0
+- pkg:maven/org.apache.stanbol/source-assembly@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.stanbol/source-assembly@1.0.0?classifier=sources
+- pkg:maven/org.apache.stanbol/source-assembly@1.0.1
+- pkg:maven/org.apache.stanbol/source-assembly@1.0.1?classifier=sources

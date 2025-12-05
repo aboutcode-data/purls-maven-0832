@@ -1,0 +1,2 @@
+- pkg:maven/net.dharwin.common.tools.cli/cli-api@1.0
+- pkg:maven/net.dharwin.common.tools.cli/cli-api@1.0?classifier=sources

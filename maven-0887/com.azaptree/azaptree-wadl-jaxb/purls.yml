@@ -1,0 +1,2 @@
+- pkg:maven/com.azaptree/azaptree-wadl-jaxb@0.0.3
+- pkg:maven/com.azaptree/azaptree-wadl-jaxb@0.0.3?classifier=sources

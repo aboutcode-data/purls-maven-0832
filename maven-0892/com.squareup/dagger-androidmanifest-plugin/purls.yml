@@ -1,0 +1,4 @@
+- pkg:maven/com.squareup/dagger-androidmanifest-plugin@0.9
+- pkg:maven/com.squareup/dagger-androidmanifest-plugin@0.9.1
+- pkg:maven/com.squareup/dagger-androidmanifest-plugin@0.9.1?classifier=sources
+- pkg:maven/com.squareup/dagger-androidmanifest-plugin@0.9?classifier=sources

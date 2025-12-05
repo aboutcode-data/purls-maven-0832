@@ -1,0 +1,4 @@
+- pkg:maven/org.scalaj/scalaj-http_2.11.0-M6@0.3.13
+- pkg:maven/org.scalaj/scalaj-http_2.11.0-M6@0.3.13?classifier=sources
+- pkg:maven/org.scalaj/scalaj-http_2.11.0-M6@0.3.14
+- pkg:maven/org.scalaj/scalaj-http_2.11.0-M6@0.3.14?classifier=sources

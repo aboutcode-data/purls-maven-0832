@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.as.plugins/jboss-as-deploy-plugin@7.0.0.Beta3
+- pkg:maven/org.jboss.as.plugins/jboss-as-deploy-plugin@7.0.0.Beta3?classifier=sources

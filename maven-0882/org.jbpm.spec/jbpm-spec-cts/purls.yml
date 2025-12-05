@@ -1,0 +1,2 @@
+- pkg:maven/org.jbpm.spec/jbpm-spec-cts@1.0.0-Alpha1?classifier=sources
+- pkg:maven/org.jbpm.spec/jbpm-spec-cts@1.0.0-Alpha1?type=zip

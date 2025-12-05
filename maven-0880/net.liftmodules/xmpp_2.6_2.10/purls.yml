@@ -1,0 +1,2 @@
+- pkg:maven/net.liftmodules/xmpp_2.6_2.10@1.2
+- pkg:maven/net.liftmodules/xmpp_2.6_2.10@1.2?classifier=sources

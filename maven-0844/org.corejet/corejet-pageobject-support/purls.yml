@@ -1,0 +1,2 @@
+- pkg:maven/org.corejet/corejet-pageobject-support@0.21
+- pkg:maven/org.corejet/corejet-pageobject-support@0.21?classifier=sources

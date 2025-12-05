@@ -1,0 +1,2 @@
+- pkg:maven/com.barchart.wrap/barchart-wrap-json@1.0.0-build001
+- pkg:maven/com.barchart.wrap/barchart-wrap-json@1.0.0-build001?classifier=sources

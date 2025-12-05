@@ -1,0 +1,2 @@
+- pkg:maven/de.learnlib.testsupport/learnlib-learner-it-support@0.10.0
+- pkg:maven/de.learnlib.testsupport/learnlib-learner-it-support@0.10.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.cert-support/ahc-cert-spi@0.1
+- pkg:maven/org.sonatype.cert-support/ahc-cert-spi@0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.novell.ldap/jldap@2009-10-07
+- pkg:maven/com.novell.ldap/jldap@2009-10-07?classifier=sources
+- pkg:maven/com.novell.ldap/jldap@4.3
+- pkg:maven/com.novell.ldap/jldap@4.3?classifier=sources

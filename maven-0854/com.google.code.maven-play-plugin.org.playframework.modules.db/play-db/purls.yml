@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.db/play-db@1.1.1
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.db/play-db@1.1.1?classifier=sources

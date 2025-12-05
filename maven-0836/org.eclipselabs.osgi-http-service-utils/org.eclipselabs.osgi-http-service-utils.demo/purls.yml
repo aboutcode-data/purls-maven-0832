@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipselabs.osgi-http-service-utils/org.eclipselabs.osgi-http-service-utils.demo@0.3.0
+- pkg:maven/org.eclipselabs.osgi-http-service-utils/org.eclipselabs.osgi-http-service-utils.demo@0.3.1
+- pkg:maven/org.eclipselabs.osgi-http-service-utils/org.eclipselabs.osgi-http-service-utils.demo@0.3.2
+- pkg:maven/org.eclipselabs.osgi-http-service-utils/org.eclipselabs.osgi-http-service-utils.demo@0.3.2?classifier=sources
+- pkg:maven/org.eclipselabs.osgi-http-service-utils/org.eclipselabs.osgi-http-service-utils.demo@0.4.0
+- pkg:maven/org.eclipselabs.osgi-http-service-utils/org.eclipselabs.osgi-http-service-utils.demo@0.4.0?classifier=sources

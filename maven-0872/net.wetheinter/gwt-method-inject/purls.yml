@@ -1,0 +1,2 @@
+- pkg:maven/net.wetheinter/gwt-method-inject@2.5.1
+- pkg:maven/net.wetheinter/gwt-method-inject@2.5.1?classifier=sources

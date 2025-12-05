@@ -1,0 +1,7 @@
+- pkg:maven/org.opencoweb/coweb-build@0.8.1?type=war
+- pkg:maven/org.opencoweb/coweb-build@0.8.2?type=war
+- pkg:maven/org.opencoweb/coweb-build@0.8.3.1?type=war
+- pkg:maven/org.opencoweb/coweb-build@0.8.3?type=war
+- pkg:maven/org.opencoweb/coweb-build@0.8.4?type=war
+- pkg:maven/org.opencoweb/coweb-build@0.8?type=war
+- pkg:maven/org.opencoweb/coweb-build@1.0?type=war

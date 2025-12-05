@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay.portal/portal-kernel@5.2.3
+- pkg:maven/com.liferay.portal/portal-kernel@5.2.3?classifier=sources

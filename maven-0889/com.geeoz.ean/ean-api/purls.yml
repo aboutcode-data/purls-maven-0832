@@ -1,0 +1,2 @@
+- pkg:maven/com.geeoz.ean/ean-api@3.25.0d1
+- pkg:maven/com.geeoz.ean/ean-api@3.25.0d1?classifier=sources

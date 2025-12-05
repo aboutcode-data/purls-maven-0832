@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.ws/jbossws-jboss500CR2@3.0.4.GA
+- pkg:maven/org.jboss.ws/jbossws-jboss500CR2@3.0.4.GA?classifier=sources

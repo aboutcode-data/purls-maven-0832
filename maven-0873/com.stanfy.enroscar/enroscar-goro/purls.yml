@@ -1,0 +1,2 @@
+- pkg:maven/com.stanfy.enroscar/enroscar-goro@1.2
+- pkg:maven/com.stanfy.enroscar/enroscar-goro@1.2?classifier=sources

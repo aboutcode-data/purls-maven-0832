@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.maven.shared/maven-reporting-impl@2.0.4.1
+- pkg:maven/org.apache.maven.shared/maven-reporting-impl@2.0.4.1?classifier=sources

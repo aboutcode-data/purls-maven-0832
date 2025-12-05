@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/xjc-if-ins@1.0
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/xjc-if-ins@1.0?classifier=sources

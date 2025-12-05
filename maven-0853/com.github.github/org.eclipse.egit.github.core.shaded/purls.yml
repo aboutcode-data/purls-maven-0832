@@ -1,0 +1,2 @@
+- pkg:maven/com.github.github/org.eclipse.egit.github.core.shaded@1.1.2
+- pkg:maven/com.github.github/org.eclipse.egit.github.core.shaded@1.1.2?classifier=sources

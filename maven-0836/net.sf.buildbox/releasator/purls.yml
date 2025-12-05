@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.buildbox/releasator@1.0.0
+- pkg:maven/net.sf.buildbox/releasator@1.0.0-rc
+- pkg:maven/net.sf.buildbox/releasator@1.0.0-rc-1
+- pkg:maven/net.sf.buildbox/releasator@1.0.0-rc-2
+- pkg:maven/net.sf.buildbox/releasator@1.0.1
+- pkg:maven/net.sf.buildbox/releasator@1.0.1?classifier=sources

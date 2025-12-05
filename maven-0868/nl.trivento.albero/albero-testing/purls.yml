@@ -1,0 +1,2 @@
+- pkg:maven/nl.trivento.albero/albero-testing@0.2
+- pkg:maven/nl.trivento.albero/albero-testing@0.2?classifier=sources

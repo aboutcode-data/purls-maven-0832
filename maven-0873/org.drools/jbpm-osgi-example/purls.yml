@@ -1,0 +1,4 @@
+- pkg:maven/org.drools/jbpm-osgi-example@6.0.0.Beta4
+- pkg:maven/org.drools/jbpm-osgi-example@6.0.0.Beta4?classifier=sources
+- pkg:maven/org.drools/jbpm-osgi-example@6.0.0.Beta5
+- pkg:maven/org.drools/jbpm-osgi-example@6.0.0.Beta5?classifier=sources

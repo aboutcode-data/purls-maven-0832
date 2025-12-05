@@ -1,0 +1,2 @@
+- pkg:maven/eu.agrosense.server/machine@14.02-beta
+- pkg:maven/eu.agrosense.server/machine@14.02-beta?classifier=sources

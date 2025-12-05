@@ -1,0 +1,4 @@
+- pkg:maven/org.hashtree.jbrainhoney/jbrainhoney-core@0.10.3
+- pkg:maven/org.hashtree.jbrainhoney/jbrainhoney-core@0.10.3?classifier=sources
+- pkg:maven/org.hashtree.jbrainhoney/jbrainhoney-core@0.10.4
+- pkg:maven/org.hashtree.jbrainhoney/jbrainhoney-core@0.10.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.fcrepo/fcrepo-generate@3.5
+- pkg:maven/org.fcrepo/fcrepo-generate@3.5?classifier=sources

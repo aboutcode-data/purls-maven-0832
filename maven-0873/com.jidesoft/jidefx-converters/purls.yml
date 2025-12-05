@@ -1,0 +1,4 @@
+- pkg:maven/com.jidesoft/jidefx-converters@0.9.1
+- pkg:maven/com.jidesoft/jidefx-converters@0.9.1-b128
+- pkg:maven/com.jidesoft/jidefx-converters@0.9.1-b128?classifier=sources
+- pkg:maven/com.jidesoft/jidefx-converters@0.9.1?classifier=sources

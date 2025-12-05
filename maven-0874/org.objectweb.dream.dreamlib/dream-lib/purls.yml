@@ -1,0 +1,8 @@
+- pkg:maven/org.objectweb.dream.dreamlib/dream-lib@0.1
+- pkg:maven/org.objectweb.dream.dreamlib/dream-lib@2.0
+- pkg:maven/org.objectweb.dream.dreamlib/dream-lib@2.1
+- pkg:maven/org.objectweb.dream.dreamlib/dream-lib@2.1?classifier=sources
+- pkg:maven/org.objectweb.dream.dreamlib/dream-lib@2.2
+- pkg:maven/org.objectweb.dream.dreamlib/dream-lib@2.2?classifier=sources
+- pkg:maven/org.objectweb.dream.dreamlib/dream-lib@2.3
+- pkg:maven/org.objectweb.dream.dreamlib/dream-lib@2.3?classifier=sources

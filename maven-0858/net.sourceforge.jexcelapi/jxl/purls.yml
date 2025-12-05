@@ -1,0 +1,6 @@
+- pkg:maven/net.sourceforge.jexcelapi/jxl@2.5.7
+- pkg:maven/net.sourceforge.jexcelapi/jxl@2.6
+- pkg:maven/net.sourceforge.jexcelapi/jxl@2.6.10
+- pkg:maven/net.sourceforge.jexcelapi/jxl@2.6.12
+- pkg:maven/net.sourceforge.jexcelapi/jxl@2.6.12?classifier=sources
+- pkg:maven/net.sourceforge.jexcelapi/jxl@2.6.3

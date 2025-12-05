@@ -1,0 +1,2 @@
+- pkg:maven/org.scalaz/scalaz-iterv_2.10.0-RC3@7.0.0-M5
+- pkg:maven/org.scalaz/scalaz-iterv_2.10.0-RC3@7.0.0-M5?classifier=sources

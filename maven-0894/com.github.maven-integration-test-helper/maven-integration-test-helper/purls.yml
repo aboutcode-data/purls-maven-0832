@@ -1,0 +1,2 @@
+- pkg:maven/com.github.maven-integration-test-helper/maven-integration-test-helper@1.0
+- pkg:maven/com.github.maven-integration-test-helper/maven-integration-test-helper@1.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.servicemix/servicemix-smpp@2009.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-smpp@2009.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-smpp@2010.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-smpp@2010.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-smpp@2011.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-smpp@2011.02.1?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-smpp@2011.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-smpp@2013.01?classifier=sources

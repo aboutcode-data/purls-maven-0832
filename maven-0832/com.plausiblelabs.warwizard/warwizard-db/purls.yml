@@ -1,0 +1,2 @@
+- pkg:maven/com.plausiblelabs.warwizard/warwizard-db@0.4.5
+- pkg:maven/com.plausiblelabs.warwizard/warwizard-db@0.4.5?classifier=sources

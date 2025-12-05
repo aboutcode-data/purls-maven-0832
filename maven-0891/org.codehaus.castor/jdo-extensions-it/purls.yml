@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.castor/jdo-extensions-it@1.3
+- pkg:maven/org.codehaus.castor/jdo-extensions-it@1.3?classifier=sources

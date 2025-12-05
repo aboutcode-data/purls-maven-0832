@@ -1,0 +1,14 @@
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d1
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d1?classifier=sources
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d2
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d2?classifier=sources
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d3
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d3?classifier=sources
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d4
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d4?classifier=sources
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d5
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d5?classifier=sources
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d6
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d6?classifier=sources
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d7
+- pkg:maven/com.geeoz.pawl/pawl-jbehave@1.0d7?classifier=sources

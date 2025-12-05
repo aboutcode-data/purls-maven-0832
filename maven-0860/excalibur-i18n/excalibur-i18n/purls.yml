@@ -1,0 +1,5 @@
+- pkg:maven/excalibur-i18n/excalibur-i18n@1.0
+- pkg:maven/excalibur-i18n/excalibur-i18n@1.1-RC1?classifier=src&type=tar.gz
+- pkg:maven/excalibur-i18n/excalibur-i18n@1.1-RC1?classifier=src&type=zip
+- pkg:maven/excalibur-i18n/excalibur-i18n@1.1?classifier=src&type=tar.gz
+- pkg:maven/excalibur-i18n/excalibur-i18n@1.1?classifier=src&type=zip

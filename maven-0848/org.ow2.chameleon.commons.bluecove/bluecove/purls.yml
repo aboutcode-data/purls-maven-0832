@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.chameleon.commons.bluecove/bluecove@2.1.1-63
+- pkg:maven/org.ow2.chameleon.commons.bluecove/bluecove@2.1.1-63?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.wefika.gradle/gradle-hipchat-plugin@0.1.0
+- pkg:maven/com.wefika.gradle/gradle-hipchat-plugin@0.1.0?classifier=sources

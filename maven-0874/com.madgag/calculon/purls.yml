@@ -1,0 +1,8 @@
+- pkg:maven/com.madgag/calculon@1.0-UNOFFICIAL-BUILD
+- pkg:maven/com.madgag/calculon@1.0-UNOFFICIAL-BUILD?classifier=sources
+- pkg:maven/com.madgag/calculon@1.0.2-UNOFFICIAL-BUILD
+- pkg:maven/com.madgag/calculon@1.0.2-UNOFFICIAL-BUILD?classifier=sources
+- pkg:maven/com.madgag/calculon@1.0.4-UNOFFICIAL-BUILD
+- pkg:maven/com.madgag/calculon@1.0.4-UNOFFICIAL-BUILD?classifier=sources
+- pkg:maven/com.madgag/calculon@1.0.5-UNOFFICIAL-BUILD
+- pkg:maven/com.madgag/calculon@1.0.5-UNOFFICIAL-BUILD?classifier=sources

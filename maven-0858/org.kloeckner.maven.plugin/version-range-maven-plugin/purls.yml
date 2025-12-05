@@ -1,0 +1,2 @@
+- pkg:maven/org.kloeckner.maven.plugin/version-range-maven-plugin@0.1
+- pkg:maven/org.kloeckner.maven.plugin/version-range-maven-plugin@0.1?classifier=sources

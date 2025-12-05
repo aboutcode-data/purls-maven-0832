@@ -1,0 +1,8 @@
+- pkg:maven/org.codehaus.mevenide/grammar@2.1?classifier=sources
+- pkg:maven/org.codehaus.mevenide/grammar@2.2?classifier=sources
+- pkg:maven/org.codehaus.mevenide/grammar@2.3?classifier=sources
+- pkg:maven/org.codehaus.mevenide/grammar@3.0.10?classifier=sources
+- pkg:maven/org.codehaus.mevenide/grammar@3.0.12?classifier=sources
+- pkg:maven/org.codehaus.mevenide/grammar@3.0.9?classifier=sources
+- pkg:maven/org.codehaus.mevenide/grammar@3.1.1?classifier=sources
+- pkg:maven/org.codehaus.mevenide/grammar@3.1.4?classifier=sources

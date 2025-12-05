@@ -1,0 +1,7 @@
+- pkg:maven/org.hornetq/hornetq-jopr-plugin@1.0.0.BETA1
+- pkg:maven/org.hornetq/hornetq-jopr-plugin@1.0.0.CR1
+- pkg:maven/org.hornetq/hornetq-jopr-plugin@1.0.0.CR2
+- pkg:maven/org.hornetq/hornetq-jopr-plugin@1.0.0.Final
+- pkg:maven/org.hornetq/hornetq-jopr-plugin@2.0.0.CR1
+- pkg:maven/org.hornetq/hornetq-jopr-plugin@2.0.0.CR2
+- pkg:maven/org.hornetq/hornetq-jopr-plugin@2.0.0.Final

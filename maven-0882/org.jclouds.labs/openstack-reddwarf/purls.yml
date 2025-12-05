@@ -1,0 +1,4 @@
+- pkg:maven/org.jclouds.labs/openstack-reddwarf@1.6.0
+- pkg:maven/org.jclouds.labs/openstack-reddwarf@1.6.0-rc.5
+- pkg:maven/org.jclouds.labs/openstack-reddwarf@1.6.0-rc.5?classifier=sources
+- pkg:maven/org.jclouds.labs/openstack-reddwarf@1.6.0?classifier=sources

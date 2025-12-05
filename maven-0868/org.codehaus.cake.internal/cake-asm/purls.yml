@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.cake.internal/cake-asm@3.1
+- pkg:maven/org.codehaus.cake.internal/cake-asm@3.1?classifier=sources

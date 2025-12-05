@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.jbi/org.apache.servicemix.jbi.api@1.0-m1
+- pkg:maven/org.apache.servicemix.jbi/org.apache.servicemix.jbi.api@1.0-m1?classifier=sources

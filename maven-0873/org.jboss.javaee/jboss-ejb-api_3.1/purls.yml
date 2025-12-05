@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.javaee/jboss-ejb-api_3.1@1.0-alpha-1
+- pkg:maven/org.jboss.javaee/jboss-ejb-api_3.1@1.0-alpha-1?classifier=sources

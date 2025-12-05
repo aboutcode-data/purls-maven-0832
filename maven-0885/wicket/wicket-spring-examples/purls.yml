@@ -1,0 +1,3 @@
+- pkg:maven/wicket/wicket-spring-examples@1.2.1?type=war
+- pkg:maven/wicket/wicket-spring-examples@1.2.6?type=war
+- pkg:maven/wicket/wicket-spring-examples@1.2.7?type=war

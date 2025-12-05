@@ -1,0 +1,12 @@
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.27
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.27-RC1
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.27-RC1?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.27-RC2
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.27-RC2?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.27?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.28
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.28-RC1
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.28-RC1?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.28-RC2
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.28-RC2?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-swagger@1.28?classifier=sources

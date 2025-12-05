@@ -1,0 +1,4 @@
+- pkg:maven/com.hack23.cia/data-riksdagen-se@1.0-alpha-3
+- pkg:maven/com.hack23.cia/data-riksdagen-se@1.0-alpha-3?classifier=sources
+- pkg:maven/com.hack23.cia/data-riksdagen-se@1.0-alpha-4
+- pkg:maven/com.hack23.cia/data-riksdagen-se@1.0-alpha-4?classifier=sources

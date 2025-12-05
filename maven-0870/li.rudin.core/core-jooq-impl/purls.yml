@@ -1,0 +1,2 @@
+- pkg:maven/li.rudin.core/core-jooq-impl@1.8
+- pkg:maven/li.rudin.core/core-jooq-impl@1.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.nakedobjects.plugins/berkeley-persistor@1.0-beta-1
+- pkg:maven/org.nakedobjects.plugins/berkeley-persistor@1.0-beta-1?classifier=sources

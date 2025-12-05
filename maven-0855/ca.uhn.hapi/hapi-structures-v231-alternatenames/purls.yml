@@ -1,0 +1,2 @@
+- pkg:maven/ca.uhn.hapi/hapi-structures-v231-alternatenames@2.1
+- pkg:maven/ca.uhn.hapi/hapi-structures-v231-alternatenames@2.1?classifier=sources

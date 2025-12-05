@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.cake.ops/cake-ops@0.1
+- pkg:maven/org.codehaus.cake.ops/cake-ops@0.1?classifier=sources

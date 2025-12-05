@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oscache@2.4.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oscache@2.4.1_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oscache@2.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oscache@2.4_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oscache@2.4_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oscache@2.4_5

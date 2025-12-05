@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.cobol2j/cobol2j@1.5.4
+- pkg:maven/net.sf.cobol2j/cobol2j@1.5.4?classifier=sources

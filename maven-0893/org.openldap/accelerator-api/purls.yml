@@ -1,0 +1,2 @@
+- pkg:maven/org.openldap/accelerator-api@1.0-RC35
+- pkg:maven/org.openldap/accelerator-api@1.0-RC35?classifier=sources

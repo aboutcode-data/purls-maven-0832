@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/lucredata-mutable-views_2.9.1@0.20
+- pkg:maven/de.sciss/lucredata-mutable-views_2.9.1@0.20?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.mattunderscore/shh-user-agent@0.2.7
+- pkg:maven/com.mattunderscore/shh-user-agent@0.2.7?classifier=sources

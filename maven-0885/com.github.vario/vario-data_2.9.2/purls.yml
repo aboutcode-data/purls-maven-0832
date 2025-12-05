@@ -1,0 +1,4 @@
+- pkg:maven/com.github.vario/vario-data_2.9.2@0.4.3
+- pkg:maven/com.github.vario/vario-data_2.9.2@0.4.3?classifier=sources
+- pkg:maven/com.github.vario/vario-data_2.9.2@0.4.4
+- pkg:maven/com.github.vario/vario-data_2.9.2@0.4.4?classifier=sources

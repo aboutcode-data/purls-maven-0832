@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson/vijava@2120100824
+- pkg:maven/org.jvnet.hudson/vijava@2120100824?classifier=sources

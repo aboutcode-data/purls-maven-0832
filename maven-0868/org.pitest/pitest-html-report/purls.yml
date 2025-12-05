@@ -1,0 +1,4 @@
+- pkg:maven/org.pitest/pitest-html-report@0.32
+- pkg:maven/org.pitest/pitest-html-report@0.32?classifier=sources
+- pkg:maven/org.pitest/pitest-html-report@0.33
+- pkg:maven/org.pitest/pitest-html-report@0.33?classifier=sources

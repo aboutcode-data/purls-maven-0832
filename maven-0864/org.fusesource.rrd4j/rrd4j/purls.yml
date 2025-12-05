@@ -1,0 +1,2 @@
+- pkg:maven/org.fusesource.rrd4j/rrd4j@2.0.7
+- pkg:maven/org.fusesource.rrd4j/rrd4j@2.0.7?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.sonatype.runtime/runtime-assembler@0.1.0
+- pkg:maven/org.sonatype.runtime/runtime-assembler@0.1.0?classifier=sources
+- pkg:maven/org.sonatype.runtime/runtime-assembler@0.1.1
+- pkg:maven/org.sonatype.runtime/runtime-assembler@0.1.2
+- pkg:maven/org.sonatype.runtime/runtime-assembler@0.1.3

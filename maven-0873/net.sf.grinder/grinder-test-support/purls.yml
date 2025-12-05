@@ -1,0 +1,10 @@
+- pkg:maven/net.sf.grinder/grinder-test-support@3.10
+- pkg:maven/net.sf.grinder/grinder-test-support@3.10?classifier=sources
+- pkg:maven/net.sf.grinder/grinder-test-support@3.11
+- pkg:maven/net.sf.grinder/grinder-test-support@3.11?classifier=sources
+- pkg:maven/net.sf.grinder/grinder-test-support@3.7.1
+- pkg:maven/net.sf.grinder/grinder-test-support@3.7.1?classifier=sources
+- pkg:maven/net.sf.grinder/grinder-test-support@3.8
+- pkg:maven/net.sf.grinder/grinder-test-support@3.8?classifier=sources
+- pkg:maven/net.sf.grinder/grinder-test-support@3.9.1
+- pkg:maven/net.sf.grinder/grinder-test-support@3.9.1?classifier=sources

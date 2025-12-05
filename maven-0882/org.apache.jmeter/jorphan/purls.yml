@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.jmeter/jorphan@2.10
+- pkg:maven/org.apache.jmeter/jorphan@2.11
+- pkg:maven/org.apache.jmeter/jorphan@2.6
+- pkg:maven/org.apache.jmeter/jorphan@2.7
+- pkg:maven/org.apache.jmeter/jorphan@2.8
+- pkg:maven/org.apache.jmeter/jorphan@2.9

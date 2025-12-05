@@ -1,0 +1,2 @@
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-caching-infinispan@2.0.0
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-caching-infinispan@2.0.0?classifier=sources

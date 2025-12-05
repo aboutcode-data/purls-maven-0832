@@ -1,0 +1,2 @@
+- pkg:maven/org.hibersap/hibersap-jca@1.2.0-Beta03
+- pkg:maven/org.hibersap/hibersap-jca@1.2.0-Beta03?classifier=sources

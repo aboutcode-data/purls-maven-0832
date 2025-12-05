@@ -1,0 +1,8 @@
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.1.0
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.1.0?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.2.0
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.2.0?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.3.0
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.3.0?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.4.0
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.4.0?classifier=sources

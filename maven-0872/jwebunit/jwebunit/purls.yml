@@ -1,0 +1,3 @@
+- pkg:maven/jwebunit/jwebunit@1.1.1
+- pkg:maven/jwebunit/jwebunit@1.2
+- pkg:maven/jwebunit/jwebunit@1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.netaporter.gatling/gatling-app@2.0.0-M4-NAP
+- pkg:maven/com.netaporter.gatling/gatling-app@2.0.0-M4-NAP?classifier=sources

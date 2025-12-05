@@ -1,0 +1,2 @@
+- pkg:maven/com.foursquare/slashem_2.9.2@0.15.7
+- pkg:maven/com.foursquare/slashem_2.9.2@0.15.7?classifier=sources

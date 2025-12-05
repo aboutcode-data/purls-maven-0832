@@ -1,0 +1,4 @@
+- pkg:maven/eu.cedarsoft.commons/actions@1.0
+- pkg:maven/eu.cedarsoft.commons/actions@1.0?classifier=sources
+- pkg:maven/eu.cedarsoft.commons/actions@1.1
+- pkg:maven/eu.cedarsoft.commons/actions@1.1?classifier=sources

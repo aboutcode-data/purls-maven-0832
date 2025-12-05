@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.schlep/schlep-sqs@0.1
+- pkg:maven/com.netflix.schlep/schlep-sqs@0.1?classifier=sources

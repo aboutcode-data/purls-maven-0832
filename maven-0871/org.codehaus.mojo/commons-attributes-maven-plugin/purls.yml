@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.mojo/commons-attributes-maven-plugin@1.0
+- pkg:maven/org.codehaus.mojo/commons-attributes-maven-plugin@1.0?classifier=sources

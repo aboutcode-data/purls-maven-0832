@@ -1,0 +1,4 @@
+- pkg:maven/org.kuali.rice/rice-master-db@1.0.3
+- pkg:maven/org.kuali.rice/rice-master-db@1.0.3.2
+- pkg:maven/org.kuali.rice/rice-master-db@1.0.3.2?classifier=sources
+- pkg:maven/org.kuali.rice/rice-master-db@1.0.3?classifier=sources

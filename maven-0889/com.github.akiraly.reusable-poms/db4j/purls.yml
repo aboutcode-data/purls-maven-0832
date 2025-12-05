@@ -1,0 +1,2 @@
+- pkg:maven/com.github.akiraly.reusable-poms/db4j@4
+- pkg:maven/com.github.akiraly.reusable-poms/db4j@4?classifier=sources

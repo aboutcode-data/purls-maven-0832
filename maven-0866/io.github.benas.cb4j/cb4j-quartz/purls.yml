@@ -1,0 +1,2 @@
+- pkg:maven/io.github.benas.cb4j/cb4j-quartz@1.4.0
+- pkg:maven/io.github.benas.cb4j/cb4j-quartz@1.4.0?classifier=sources

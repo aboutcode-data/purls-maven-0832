@@ -1,0 +1,4 @@
+- pkg:maven/org.gaelyk/gaelyk-bootstrap-resources@2.0
+- pkg:maven/org.gaelyk/gaelyk-bootstrap-resources@2.0.3
+- pkg:maven/org.gaelyk/gaelyk-bootstrap-resources@2.0.3?classifier=sources
+- pkg:maven/org.gaelyk/gaelyk-bootstrap-resources@2.0?classifier=sources

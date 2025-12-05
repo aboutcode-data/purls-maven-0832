@@ -1,0 +1,4 @@
+- pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.43-RELEASE
+- pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.43-RELEASE?classifier=sources
+- pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.43.1
+- pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.43.1?classifier=sources

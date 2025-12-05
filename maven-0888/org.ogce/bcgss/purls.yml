@@ -1,0 +1,2 @@
+- pkg:maven/org.ogce/bcgss@146
+- pkg:maven/org.ogce/bcgss@146?classifier=sources

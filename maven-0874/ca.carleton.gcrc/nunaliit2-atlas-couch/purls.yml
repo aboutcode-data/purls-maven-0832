@@ -1,0 +1,17 @@
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@0.1.6?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@0.1.7?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@0.1.8.1?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@0.1.8?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@0.1.9?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@0.2.0?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@0.2.1?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.0.0?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.0.1?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.0.2?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.0.3?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.1.0?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.1.1?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.1.2?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.1.3?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.1.4?type=war
+- pkg:maven/ca.carleton.gcrc/nunaliit2-atlas-couch@2.1.5?type=war

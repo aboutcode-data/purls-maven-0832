@@ -1,0 +1,2 @@
+- pkg:maven/org.openl.rules/openl-maven-plugin@5.12.0
+- pkg:maven/org.openl.rules/openl-maven-plugin@5.12.0?classifier=sources

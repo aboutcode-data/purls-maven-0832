@@ -1,0 +1,5 @@
+- pkg:maven/org.rhq/rhq-code-coverage@4.10.0
+- pkg:maven/org.rhq/rhq-code-coverage@4.6.0
+- pkg:maven/org.rhq/rhq-code-coverage@4.7.0
+- pkg:maven/org.rhq/rhq-code-coverage@4.8.0
+- pkg:maven/org.rhq/rhq-code-coverage@4.9.0

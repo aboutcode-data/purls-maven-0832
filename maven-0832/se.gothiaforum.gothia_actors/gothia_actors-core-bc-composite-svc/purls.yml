@@ -1,0 +1,2 @@
+- pkg:maven/se.gothiaforum.gothia_actors/gothia_actors-core-bc-composite-svc@1.0
+- pkg:maven/se.gothiaforum.gothia_actors/gothia_actors-core-bc-composite-svc@1.0?classifier=sources

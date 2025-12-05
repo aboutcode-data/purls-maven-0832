@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cloudfoundry-community/cf-component@0.1
+- pkg:maven/com.github.cloudfoundry-community/cf-component@0.1?classifier=sources

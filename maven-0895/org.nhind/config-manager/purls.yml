@@ -1,0 +1,2 @@
+- pkg:maven/org.nhind/config-manager@1.0.1?classifier=sources
+- pkg:maven/org.nhind/config-manager@1.0?classifier=sources

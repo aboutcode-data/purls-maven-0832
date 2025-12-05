@@ -1,0 +1,2 @@
+- pkg:maven/org.wandledi/wandledi-scala_2.8.2@0.9.0
+- pkg:maven/org.wandledi/wandledi-scala_2.8.2@0.9.0?classifier=sources

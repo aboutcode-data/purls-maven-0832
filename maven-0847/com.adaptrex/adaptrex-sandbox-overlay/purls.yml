@@ -1,0 +1,5 @@
+- pkg:maven/com.adaptrex/adaptrex-sandbox-overlay@0.9.13?type=war
+- pkg:maven/com.adaptrex/adaptrex-sandbox-overlay@0.9.14?type=war
+- pkg:maven/com.adaptrex/adaptrex-sandbox-overlay@1.0-Alpha2?type=war
+- pkg:maven/com.adaptrex/adaptrex-sandbox-overlay@1.0-Alpha3?type=war
+- pkg:maven/com.adaptrex/adaptrex-sandbox-overlay@1.0-Alpha?type=war

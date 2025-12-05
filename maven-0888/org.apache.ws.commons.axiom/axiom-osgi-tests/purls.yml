@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.ws.commons.axiom/axiom-osgi-tests@1.2.13
+- pkg:maven/org.apache.ws.commons.axiom/axiom-osgi-tests@1.2.13?classifier=sources
+- pkg:maven/org.apache.ws.commons.axiom/axiom-osgi-tests@1.2.14
+- pkg:maven/org.apache.ws.commons.axiom/axiom-osgi-tests@1.2.14?classifier=sources

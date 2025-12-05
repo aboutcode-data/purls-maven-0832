@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.play/play-commons-eventformat@1.0
+- pkg:maven/org.ow2.play/play-commons-eventformat@1.0?classifier=sources
+- pkg:maven/org.ow2.play/play-commons-eventformat@1.1
+- pkg:maven/org.ow2.play/play-commons-eventformat@1.1?classifier=sources

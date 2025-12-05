@@ -1,0 +1,2 @@
+- pkg:maven/com.github.plecong/hogan-groovy@3.0
+- pkg:maven/com.github.plecong/hogan-groovy@3.0?classifier=sources

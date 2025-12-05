@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.accesslog/play-accesslog@1.2
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.accesslog/play-accesslog@1.2?classifier=sources

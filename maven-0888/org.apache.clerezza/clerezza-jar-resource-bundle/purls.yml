@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza/clerezza-jar-resource-bundle@1
+- pkg:maven/org.apache.clerezza/clerezza-jar-resource-bundle@1?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.10.0-incubating
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.10.0-incubating?classifier=sources
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.11.0-incubating
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.11.0-incubating?classifier=sources
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.13.1
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.13.1?classifier=sources
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.14
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.14?classifier=sources
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.15.0
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.15.0?classifier=sources
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.9.1-incubating
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.9.1-incubating?classifier=sources
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.9.2-incubating
+- pkg:maven/org.apache.wookie/wookie-java-connector@0.9.2-incubating?classifier=sources
+- pkg:maven/org.apache.wookie/wookie-java-connector@1.0.0
+- pkg:maven/org.apache.wookie/wookie-java-connector@1.0.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/net.debasishg/redisclient_2.8.1@2.0.4
+- pkg:maven/net.debasishg/redisclient_2.8.1@2.0.4?classifier=sources
+- pkg:maven/net.debasishg/redisclient_2.8.1@2.1
+- pkg:maven/net.debasishg/redisclient_2.8.1@2.1?classifier=sources
+- pkg:maven/net.debasishg/redisclient_2.8.1@2.3
+- pkg:maven/net.debasishg/redisclient_2.8.1@2.3.1
+- pkg:maven/net.debasishg/redisclient_2.8.1@2.3.1?classifier=sources
+- pkg:maven/net.debasishg/redisclient_2.8.1@2.3?classifier=sources

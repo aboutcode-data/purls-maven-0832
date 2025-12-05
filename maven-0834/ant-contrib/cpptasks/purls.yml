@@ -1,0 +1,4 @@
+- pkg:maven/ant-contrib/cpptasks@1.0b3
+- pkg:maven/ant-contrib/cpptasks@1.0b5
+- pkg:maven/ant-contrib/cpptasks@1.0b5?classifier=sources
+- pkg:maven/ant-contrib/cpptasks@20030309.134440

@@ -1,0 +1,2 @@
+- pkg:maven/com.sangupta/amass@0.1.2
+- pkg:maven/com.sangupta/amass@0.1.2?classifier=sources

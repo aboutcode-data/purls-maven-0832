@@ -1,0 +1,4 @@
+- pkg:maven/org.mozilla/rhino@1.7R3
+- pkg:maven/org.mozilla/rhino@1.7R3?classifier=sources
+- pkg:maven/org.mozilla/rhino@1.7R4
+- pkg:maven/org.mozilla/rhino@1.7R4?classifier=sources

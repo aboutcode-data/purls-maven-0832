@@ -1,0 +1,4 @@
+- pkg:maven/com.jolira/stateless-demo@1.0.6?classifier=sources
+- pkg:maven/com.jolira/stateless-demo@1.0.6?type=war
+- pkg:maven/com.jolira/stateless-demo@1.0.8?classifier=sources
+- pkg:maven/com.jolira/stateless-demo@1.0.8?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.modules/geronimo-tomcat-builder@1.2-beta
+- pkg:maven/org.apache.geronimo.modules/geronimo-tomcat-builder@1.2-beta?classifier=sources

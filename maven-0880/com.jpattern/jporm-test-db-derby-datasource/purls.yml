@@ -1,0 +1,11 @@
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@4.3.0
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@4.4.0
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@4.4.1
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@4.4.2
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@4.5.0
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@5.0.0-rc2
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@5.0.0.RC1
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@5.1.0
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@5.1.1
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@5.2.0
+- pkg:maven/com.jpattern/jporm-test-db-derby-datasource@5.3.0

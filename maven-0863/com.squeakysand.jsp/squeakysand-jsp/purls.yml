@@ -1,0 +1,6 @@
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp@0.3.0
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp@0.3.0?classifier=sources
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp@0.4.0
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp@0.4.0?classifier=sources
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp@0.6.0
+- pkg:maven/com.squeakysand.jsp/squeakysand-jsp@0.6.0?classifier=sources

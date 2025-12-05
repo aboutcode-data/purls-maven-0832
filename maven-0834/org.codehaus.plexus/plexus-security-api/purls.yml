@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.plexus/plexus-security-api@1.0-alpha-3
+- pkg:maven/org.codehaus.plexus/plexus-security-api@1.0-alpha-3?classifier=sources

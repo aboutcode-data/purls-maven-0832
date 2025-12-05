@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.jbossas.snmp/snmp-deployer@5.1.0
+- pkg:maven/org.jboss.jbossas.snmp/snmp-deployer@5.1.0?classifier=sources

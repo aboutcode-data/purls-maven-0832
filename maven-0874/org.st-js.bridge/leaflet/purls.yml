@@ -1,0 +1,2 @@
+- pkg:maven/org.st-js.bridge/leaflet@0.7.1.bv0
+- pkg:maven/org.st-js.bridge/leaflet@0.7.1.bv0?classifier=sources

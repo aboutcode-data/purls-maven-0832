@@ -1,0 +1,16 @@
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.0.2?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.0.2?type=zip
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.0.3?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.0.3?type=zip
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.1.0?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.1.0?type=zip
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.2.0?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.2.0?type=zip
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.3.0?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.3.0?type=zip
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.4.0?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.4.0?type=zip
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.5.0?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@0.5.0?type=zip
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@1.0.0?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/fsriver@1.0.0?type=zip

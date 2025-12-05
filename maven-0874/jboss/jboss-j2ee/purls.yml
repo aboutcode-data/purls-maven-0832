@@ -1,0 +1,6 @@
+- pkg:maven/jboss/jboss-j2ee@3.2.1
+- pkg:maven/jboss/jboss-j2ee@3.2.3
+- pkg:maven/jboss/jboss-j2ee@4.0.0
+- pkg:maven/jboss/jboss-j2ee@4.0.0DR4
+- pkg:maven/jboss/jboss-j2ee@4.0.2
+- pkg:maven/jboss/jboss-j2ee@4.2.2.GA

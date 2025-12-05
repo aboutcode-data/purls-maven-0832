@@ -1,0 +1,2 @@
+- pkg:maven/com.bizo/mighty-csv_2.9.1@0.2
+- pkg:maven/com.bizo/mighty-csv_2.9.1@0.2?classifier=sources

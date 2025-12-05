@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.orchestra.common/gwt-soapui@4.9.0
+- pkg:maven/org.ow2.orchestra.common/gwt-soapui@4.9.0?classifier=sources

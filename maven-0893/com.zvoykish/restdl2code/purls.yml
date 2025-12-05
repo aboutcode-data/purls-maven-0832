@@ -1,0 +1,2 @@
+- pkg:maven/com.zvoykish/restdl2code@0.1.1
+- pkg:maven/com.zvoykish/restdl2code@0.1.1?classifier=sources

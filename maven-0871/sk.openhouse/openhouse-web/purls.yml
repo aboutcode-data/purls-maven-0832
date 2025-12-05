@@ -1,0 +1,2 @@
+- pkg:maven/sk.openhouse/openhouse-web@1.0.0
+- pkg:maven/sk.openhouse/openhouse-web@1.0.0?classifier=sources

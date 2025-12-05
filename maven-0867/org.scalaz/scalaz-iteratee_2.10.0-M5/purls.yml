@@ -1,0 +1,2 @@
+- pkg:maven/org.scalaz/scalaz-iteratee_2.10.0-M5@7.0.0-M1
+- pkg:maven/org.scalaz/scalaz-iteratee_2.10.0-M5@7.0.0-M1?classifier=sources

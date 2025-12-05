@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.griffon/jsilhouette-geom@0.4
+- pkg:maven/org.codehaus.griffon/jsilhouette-geom@0.4?classifier=sources

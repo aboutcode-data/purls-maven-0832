@@ -1,0 +1,2 @@
+- pkg:maven/net.java.truelicense/truelicense-xml@2.0-rc2
+- pkg:maven/net.java.truelicense/truelicense-xml@2.0-rc2?classifier=sources

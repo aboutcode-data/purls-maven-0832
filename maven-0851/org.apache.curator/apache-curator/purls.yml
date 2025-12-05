@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.curator/apache-curator@2.0.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@2.0.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@2.1.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@2.2.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@2.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@2.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@2.4.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@2.4.2?classifier=source-release&type=zip

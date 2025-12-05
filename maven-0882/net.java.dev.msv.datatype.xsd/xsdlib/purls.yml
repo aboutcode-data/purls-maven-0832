@@ -1,0 +1,6 @@
+- pkg:maven/net.java.dev.msv.datatype.xsd/xsdlib@20060614
+- pkg:maven/net.java.dev.msv.datatype.xsd/xsdlib@20060614?classifier=sources
+- pkg:maven/net.java.dev.msv.datatype.xsd/xsdlib@20060615
+- pkg:maven/net.java.dev.msv.datatype.xsd/xsdlib@20060615?classifier=sources
+- pkg:maven/net.java.dev.msv.datatype.xsd/xsdlib@2009.1
+- pkg:maven/net.java.dev.msv.datatype.xsd/xsdlib@2009.1?classifier=sources

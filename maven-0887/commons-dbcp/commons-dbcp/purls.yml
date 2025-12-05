@@ -1,0 +1,17 @@
+- pkg:maven/commons-dbcp/commons-dbcp@1.0
+- pkg:maven/commons-dbcp/commons-dbcp@1.0-dev-20020806
+- pkg:maven/commons-dbcp/commons-dbcp@1.1
+- pkg:maven/commons-dbcp/commons-dbcp@1.1-RC1
+- pkg:maven/commons-dbcp/commons-dbcp@1.1-RC2
+- pkg:maven/commons-dbcp/commons-dbcp@1.2
+- pkg:maven/commons-dbcp/commons-dbcp@1.2.1
+- pkg:maven/commons-dbcp/commons-dbcp@1.2.1-nojdbc3?classifier=sources
+- pkg:maven/commons-dbcp/commons-dbcp@1.2.1?classifier=sources
+- pkg:maven/commons-dbcp/commons-dbcp@1.2.2
+- pkg:maven/commons-dbcp/commons-dbcp@1.3
+- pkg:maven/commons-dbcp/commons-dbcp@1.3?classifier=sources
+- pkg:maven/commons-dbcp/commons-dbcp@1.4
+- pkg:maven/commons-dbcp/commons-dbcp@1.4?classifier=sources
+- pkg:maven/commons-dbcp/commons-dbcp@20030818.201141
+- pkg:maven/commons-dbcp/commons-dbcp@20030821.193421
+- pkg:maven/commons-dbcp/commons-dbcp@20030825.184428

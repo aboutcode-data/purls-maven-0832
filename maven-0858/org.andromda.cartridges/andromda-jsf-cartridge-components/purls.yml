@@ -1,0 +1,4 @@
+- pkg:maven/org.andromda.cartridges/andromda-jsf-cartridge-components@3.2
+- pkg:maven/org.andromda.cartridges/andromda-jsf-cartridge-components@3.3
+- pkg:maven/org.andromda.cartridges/andromda-jsf-cartridge-components@3.4
+- pkg:maven/org.andromda.cartridges/andromda-jsf-cartridge-components@3.4?classifier=sources

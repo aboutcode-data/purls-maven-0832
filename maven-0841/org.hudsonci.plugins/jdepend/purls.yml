@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins/jdepend@1.2.4-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/jdepend@1.2.4-h-2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.ratpack/ratpack-pac4j@0.9.3
+- pkg:maven/io.ratpack/ratpack-pac4j@0.9.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pl.ais.commons/ais-commons-domain-us@1.0.1
+- pkg:maven/pl.ais.commons/ais-commons-domain-us@1.0.1?classifier=sources

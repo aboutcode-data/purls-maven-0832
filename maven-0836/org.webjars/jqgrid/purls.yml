@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/jqgrid@4.4.5
+- pkg:maven/org.webjars/jqgrid@4.4.5?classifier=sources

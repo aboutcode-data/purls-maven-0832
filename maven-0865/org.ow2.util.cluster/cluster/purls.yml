@@ -1,0 +1,1 @@
+- pkg:maven/org.ow2.util.cluster/cluster@2.0.0?classifier=source-release&type=zip

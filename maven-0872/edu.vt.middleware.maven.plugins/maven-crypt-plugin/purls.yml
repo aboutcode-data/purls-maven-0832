@@ -1,0 +1,2 @@
+- pkg:maven/edu.vt.middleware.maven.plugins/maven-crypt-plugin@2.1.1
+- pkg:maven/edu.vt.middleware.maven.plugins/maven-crypt-plugin@2.1.1?classifier=sources

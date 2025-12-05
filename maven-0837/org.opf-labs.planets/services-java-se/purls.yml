@@ -1,0 +1,2 @@
+- pkg:maven/org.opf-labs.planets/services-java-se@1.0.1?classifier=sources
+- pkg:maven/org.opf-labs.planets/services-java-se@1.0.1?type=war

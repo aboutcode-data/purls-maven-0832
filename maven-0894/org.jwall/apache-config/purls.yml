@@ -1,0 +1,4 @@
+- pkg:maven/org.jwall/apache-config@0.4.7
+- pkg:maven/org.jwall/apache-config@0.4.7?classifier=sources
+- pkg:maven/org.jwall/apache-config@0.4.8
+- pkg:maven/org.jwall/apache-config@0.4.8?classifier=sources

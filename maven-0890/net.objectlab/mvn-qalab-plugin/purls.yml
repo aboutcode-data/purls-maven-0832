@@ -1,0 +1,2 @@
+- pkg:maven/net.objectlab/mvn-qalab-plugin@2.2
+- pkg:maven/net.objectlab/mvn-qalab-plugin@2.2?classifier=sources

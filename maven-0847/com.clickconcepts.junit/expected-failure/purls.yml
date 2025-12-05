@@ -1,0 +1,2 @@
+- pkg:maven/com.clickconcepts.junit/expected-failure@0.0.9
+- pkg:maven/com.clickconcepts.junit/expected-failure@0.0.9?classifier=sources

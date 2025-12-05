@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/org-netbeans-modules-editor-lib@4.0
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/org-netbeans-modules-editor-lib@4.0?classifier=sources

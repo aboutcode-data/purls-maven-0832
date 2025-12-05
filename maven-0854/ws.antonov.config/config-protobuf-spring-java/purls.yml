@@ -1,0 +1,2 @@
+- pkg:maven/ws.antonov.config/config-protobuf-spring-java@0.1
+- pkg:maven/ws.antonov.config/config-protobuf-spring-java@0.1?classifier=sources

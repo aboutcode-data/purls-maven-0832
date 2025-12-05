@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cxf.dosgi.systests/cxf-dosgi-ri-systests-singlebundle-distro@1.0
+- pkg:maven/org.apache.cxf.dosgi.systests/cxf-dosgi-ri-systests-singlebundle-distro@1.1

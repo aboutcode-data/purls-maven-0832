@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza/platform.scripting@0.4-incubating
+- pkg:maven/org.apache.clerezza/platform.scripting@0.4-incubating?classifier=sources

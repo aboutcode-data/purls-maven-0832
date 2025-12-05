@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.extension/arquillian-performance-impl@1.0.0.CR1
+- pkg:maven/org.jboss.arquillian.extension/arquillian-performance-impl@1.0.0.CR1?classifier=sources

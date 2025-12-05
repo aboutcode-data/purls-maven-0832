@@ -1,0 +1,6 @@
+- pkg:maven/com.clickconcepts.geb/geb-overridable-page-module@0.01
+- pkg:maven/com.clickconcepts.geb/geb-overridable-page-module@0.01?classifier=sources
+- pkg:maven/com.clickconcepts.geb/geb-overridable-page-module@0.02
+- pkg:maven/com.clickconcepts.geb/geb-overridable-page-module@0.02?classifier=sources
+- pkg:maven/com.clickconcepts.geb/geb-overridable-page-module@0.03
+- pkg:maven/com.clickconcepts.geb/geb-overridable-page-module@0.03?classifier=sources

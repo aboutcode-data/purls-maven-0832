@@ -1,0 +1,6 @@
+- pkg:maven/com.workingmouse/scalaz@2.2
+- pkg:maven/com.workingmouse/scalaz@2.3
+- pkg:maven/com.workingmouse/scalaz@2.4
+- pkg:maven/com.workingmouse/scalaz@2.5
+- pkg:maven/com.workingmouse/scalaz@3.0
+- pkg:maven/com.workingmouse/scalaz@3.0?classifier=sources

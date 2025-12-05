@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.openjpa@1.2.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.openjpa@1.2.1_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.openjpa@1.2.1_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.openjpa@1.2.1_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.openjpa@1.2.1_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.openjpa@2.0.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.openjpa@2.0.0_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.openjpa@2.0.0_3

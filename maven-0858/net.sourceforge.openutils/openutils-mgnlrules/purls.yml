@@ -1,0 +1,6 @@
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlrules@1.0.0
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlrules@1.0.0?classifier=sources
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlrules@4.5.0
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlrules@4.5.0?classifier=sources
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlrules@5.0.10
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlrules@5.0.10?classifier=sources

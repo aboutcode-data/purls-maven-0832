@@ -1,0 +1,2 @@
+- pkg:maven/org.daisy.pipeline.modules.braille/liblouis-tables@2.5.3
+- pkg:maven/org.daisy.pipeline.modules.braille/liblouis-tables@2.5.3?classifier=sources

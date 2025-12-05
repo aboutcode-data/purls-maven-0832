@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.fastergt/play-fastergt@1.7_1
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.fastergt/play-fastergt@1.7_1?classifier=sources

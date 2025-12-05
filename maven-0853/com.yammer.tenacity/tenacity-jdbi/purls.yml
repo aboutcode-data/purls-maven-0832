@@ -1,0 +1,4 @@
+- pkg:maven/com.yammer.tenacity/tenacity-jdbi@0.2.3
+- pkg:maven/com.yammer.tenacity/tenacity-jdbi@0.2.3?classifier=sources
+- pkg:maven/com.yammer.tenacity/tenacity-jdbi@0.2.4
+- pkg:maven/com.yammer.tenacity/tenacity-jdbi@0.2.4?classifier=sources

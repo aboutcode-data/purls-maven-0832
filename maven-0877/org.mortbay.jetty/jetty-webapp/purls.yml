@@ -1,0 +1,4 @@
+- pkg:maven/org.mortbay.jetty/jetty-webapp@7.0.0.pre4
+- pkg:maven/org.mortbay.jetty/jetty-webapp@7.0.0.pre4?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-webapp@7.0.0.pre5
+- pkg:maven/org.mortbay.jetty/jetty-webapp@7.0.0.pre5?classifier=sources

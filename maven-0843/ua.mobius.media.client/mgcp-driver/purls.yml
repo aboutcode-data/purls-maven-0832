@@ -1,0 +1,2 @@
+- pkg:maven/ua.mobius.media.client/mgcp-driver@4.0.0
+- pkg:maven/ua.mobius.media.client/mgcp-driver@4.0.0?classifier=sources

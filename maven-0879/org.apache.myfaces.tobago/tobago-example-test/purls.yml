@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-test@1.0.9?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-test@1.0.9?type=war

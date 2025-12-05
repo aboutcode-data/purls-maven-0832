@@ -1,0 +1,2 @@
+- pkg:maven/be.redlab.logback/aaa-logback-webfragment@1.0.1
+- pkg:maven/be.redlab.logback/aaa-logback-webfragment@1.0.1?classifier=sources

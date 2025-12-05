@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza/platform.security@0.8-incubating
+- pkg:maven/org.apache.clerezza/platform.security@0.8-incubating?classifier=sources

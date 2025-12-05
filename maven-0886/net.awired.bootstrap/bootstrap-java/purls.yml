@@ -1,0 +1,2 @@
+- pkg:maven/net.awired.bootstrap/bootstrap-java@1.0
+- pkg:maven/net.awired.bootstrap/bootstrap-java@1.0?classifier=sources

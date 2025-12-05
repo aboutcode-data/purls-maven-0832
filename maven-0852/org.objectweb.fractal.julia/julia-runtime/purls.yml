@@ -1,0 +1,5 @@
+- pkg:maven/org.objectweb.fractal.julia/julia-runtime@2.1.3
+- pkg:maven/org.objectweb.fractal.julia/julia-runtime@2.1.5
+- pkg:maven/org.objectweb.fractal.julia/julia-runtime@2.5
+- pkg:maven/org.objectweb.fractal.julia/julia-runtime@2.5.1
+- pkg:maven/org.objectweb.fractal.julia/julia-runtime@2.5.2

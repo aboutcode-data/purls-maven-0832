@@ -1,0 +1,4 @@
+- pkg:maven/org.opencms.modules/org.opencms.workplace.tools.publishqueue@8.0.1
+- pkg:maven/org.opencms.modules/org.opencms.workplace.tools.publishqueue@8.0.1?classifier=sources
+- pkg:maven/org.opencms.modules/org.opencms.workplace.tools.publishqueue@8.5.0
+- pkg:maven/org.opencms.modules/org.opencms.workplace.tools.publishqueue@8.5.0?classifier=sources

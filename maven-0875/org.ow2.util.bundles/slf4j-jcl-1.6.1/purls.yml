@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.util.bundles/slf4j-jcl-1.6.1@1.0.0
+- pkg:maven/org.ow2.util.bundles/slf4j-jcl-1.6.1@1.0.0?classifier=sources

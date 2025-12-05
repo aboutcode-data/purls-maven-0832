@@ -1,0 +1,2 @@
+- pkg:maven/org.xeustechnologies/esl4j-commons-logging@1.0
+- pkg:maven/org.xeustechnologies/esl4j-commons-logging@1.0?classifier=sources

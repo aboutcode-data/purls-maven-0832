@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.core/org.eclipse.core.variables@3.2.400.v20100505
+- pkg:maven/org.eclipse.core/org.eclipse.core.variables@3.2.400.v20100505?classifier=sources

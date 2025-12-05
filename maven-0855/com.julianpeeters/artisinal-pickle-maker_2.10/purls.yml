@@ -1,0 +1,4 @@
+- pkg:maven/com.julianpeeters/artisinal-pickle-maker_2.10@0.3
+- pkg:maven/com.julianpeeters/artisinal-pickle-maker_2.10@0.3?classifier=sources
+- pkg:maven/com.julianpeeters/artisinal-pickle-maker_2.10@0.5
+- pkg:maven/com.julianpeeters/artisinal-pickle-maker_2.10@0.5?classifier=sources

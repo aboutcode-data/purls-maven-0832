@@ -1,0 +1,5 @@
+- pkg:maven/org.ow2.jasmine.jade/jadenode@2.0.1
+- pkg:maven/org.ow2.jasmine.jade/jadenode@2.0.1?classifier=sources
+- pkg:maven/org.ow2.jasmine.jade/jadenode@2.0.2
+- pkg:maven/org.ow2.jasmine.jade/jadenode@2.0.2?classifier=sources
+- pkg:maven/org.ow2.jasmine.jade/jadenode@2.0.3

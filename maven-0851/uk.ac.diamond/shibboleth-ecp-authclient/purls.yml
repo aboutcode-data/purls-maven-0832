@@ -1,0 +1,4 @@
+- pkg:maven/uk.ac.diamond/shibboleth-ecp-authclient@1.0.0
+- pkg:maven/uk.ac.diamond/shibboleth-ecp-authclient@1.0.0?classifier=sources
+- pkg:maven/uk.ac.diamond/shibboleth-ecp-authclient@1.1.0
+- pkg:maven/uk.ac.diamond/shibboleth-ecp-authclient@1.1.0?classifier=sources

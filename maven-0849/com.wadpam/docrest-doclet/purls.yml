@@ -1,0 +1,4 @@
+- pkg:maven/com.wadpam/docrest-doclet@1.22
+- pkg:maven/com.wadpam/docrest-doclet@1.22?classifier=sources
+- pkg:maven/com.wadpam/docrest-doclet@1.23
+- pkg:maven/com.wadpam/docrest-doclet@1.23?classifier=sources

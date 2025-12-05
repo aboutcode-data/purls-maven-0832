@@ -1,0 +1,12 @@
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.1
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.1-RC1
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.1-RC1?classifier=sources
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.1-RC2
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.1-RC2?classifier=sources
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.1-RC3
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.1-RC3?classifier=sources
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.1?classifier=sources
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.2-RC1
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.2-RC1?classifier=sources
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.2-RC2
+- pkg:maven/com.azavea.geotrellis/geotrellis-server_2.10@0.8.2-RC2?classifier=sources

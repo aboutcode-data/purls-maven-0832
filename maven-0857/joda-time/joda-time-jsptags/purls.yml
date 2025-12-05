@@ -1,0 +1,8 @@
+- pkg:maven/joda-time/joda-time-jsptags@1.0
+- pkg:maven/joda-time/joda-time-jsptags@1.0.1
+- pkg:maven/joda-time/joda-time-jsptags@1.0.2
+- pkg:maven/joda-time/joda-time-jsptags@1.0.2?classifier=sources
+- pkg:maven/joda-time/joda-time-jsptags@1.1
+- pkg:maven/joda-time/joda-time-jsptags@1.1.1
+- pkg:maven/joda-time/joda-time-jsptags@1.1.1?classifier=sources
+- pkg:maven/joda-time/joda-time-jsptags@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.simonvt.messagebar/messagebar@1.0.2?classifier=sources
+- pkg:maven/net.simonvt.messagebar/messagebar@1.0.2?type=aar

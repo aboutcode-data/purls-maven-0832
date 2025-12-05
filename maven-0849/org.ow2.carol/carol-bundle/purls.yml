@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.carol/carol-bundle@3.0.10
+- pkg:maven/org.ow2.carol/carol-bundle@3.0.10?classifier=sources
+- pkg:maven/org.ow2.carol/carol-bundle@3.0.9
+- pkg:maven/org.ow2.carol/carol-bundle@3.0.9?classifier=sources

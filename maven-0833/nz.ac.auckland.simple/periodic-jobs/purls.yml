@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.simple/periodic-jobs@2.1
+- pkg:maven/nz.ac.auckland.simple/periodic-jobs@2.1?classifier=sources

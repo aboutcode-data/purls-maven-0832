@@ -1,0 +1,8 @@
+- pkg:maven/org.jboss.forge/forge-jboss-modules@1
+- pkg:maven/org.jboss.forge/forge-jboss-modules@1?classifier=sources
+- pkg:maven/org.jboss.forge/forge-jboss-modules@2
+- pkg:maven/org.jboss.forge/forge-jboss-modules@2?classifier=sources
+- pkg:maven/org.jboss.forge/forge-jboss-modules@3
+- pkg:maven/org.jboss.forge/forge-jboss-modules@3?classifier=sources
+- pkg:maven/org.jboss.forge/forge-jboss-modules@4
+- pkg:maven/org.jboss.forge/forge-jboss-modules@4?classifier=sources

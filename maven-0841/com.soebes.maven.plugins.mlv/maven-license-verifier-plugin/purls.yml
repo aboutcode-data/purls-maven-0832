@@ -1,0 +1,4 @@
+- pkg:maven/com.soebes.maven.plugins.mlv/maven-license-verifier-plugin@0.3
+- pkg:maven/com.soebes.maven.plugins.mlv/maven-license-verifier-plugin@0.3?classifier=sources
+- pkg:maven/com.soebes.maven.plugins.mlv/maven-license-verifier-plugin@0.4
+- pkg:maven/com.soebes.maven.plugins.mlv/maven-license-verifier-plugin@0.4?classifier=sources

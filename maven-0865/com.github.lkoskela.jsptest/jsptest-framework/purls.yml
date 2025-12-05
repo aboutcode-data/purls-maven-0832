@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lkoskela.jsptest/jsptest-framework@0.21
+- pkg:maven/com.github.lkoskela.jsptest/jsptest-framework@0.21?classifier=sources

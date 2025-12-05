@@ -1,0 +1,6 @@
+- pkg:maven/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-tests-one@0.2.GA
+- pkg:maven/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-tests-one@0.2.GA?classifier=sources
+- pkg:maven/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-tests-one@0.2.RC1
+- pkg:maven/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-tests-one@0.2.RC1?classifier=sources
+- pkg:maven/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-tests-one@0.3
+- pkg:maven/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-tests-one@0.3?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.0.GA
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.0.GA?classifier=sources
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.1.GA
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.1.GA?classifier=sources
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.2.GA
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.2.GA?classifier=sources
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.4.GA
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.4.GA?classifier=sources
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.5.GA
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.5.GA?classifier=sources
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.7.GA
+- pkg:maven/com.github.inspektr/inspektr-error@1.0.7.GA?classifier=sources
+- pkg:maven/com.github.inspektr/inspektr-error@1.1.GA
+- pkg:maven/com.github.inspektr/inspektr-error@1.1.GA?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.sitebricks/sitebricks-async@0.8.6
+- pkg:maven/com.google.sitebricks/sitebricks-async@0.8.6?classifier=sources

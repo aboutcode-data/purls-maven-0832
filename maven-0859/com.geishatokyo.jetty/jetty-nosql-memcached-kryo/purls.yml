@@ -1,0 +1,4 @@
+- pkg:maven/com.geishatokyo.jetty/jetty-nosql-memcached-kryo@0.2.1
+- pkg:maven/com.geishatokyo.jetty/jetty-nosql-memcached-kryo@0.2.1?classifier=sources
+- pkg:maven/com.geishatokyo.jetty/jetty-nosql-memcached-kryo@0.3.0
+- pkg:maven/com.geishatokyo.jetty/jetty-nosql-memcached-kryo@0.3.0?classifier=sources

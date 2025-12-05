@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.sample-fragment@0.3.2
+- pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.sample-fragment@0.3.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.sample-fragment@0.3.2?classifier=sources
+- pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.sample-fragment@1.0.0
+- pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.sample-fragment@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.blueprint/org.apache.aries.blueprint.sample-fragment@1.0.0?classifier=sources

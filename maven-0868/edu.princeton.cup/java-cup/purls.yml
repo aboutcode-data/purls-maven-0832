@@ -1,0 +1,2 @@
+- pkg:maven/edu.princeton.cup/java-cup@10k
+- pkg:maven/edu.princeton.cup/java-cup@10k?classifier=sources

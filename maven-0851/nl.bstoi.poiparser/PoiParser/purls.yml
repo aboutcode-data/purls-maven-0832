@@ -1,0 +1,14 @@
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.10
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.10?classifier=sources
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.11
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.11?classifier=sources
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.12
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.12?classifier=sources
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.13
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.13?classifier=sources
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.9
+- pkg:maven/nl.bstoi.poiparser/PoiParser@1.9?classifier=sources
+- pkg:maven/nl.bstoi.poiparser/PoiParser@2.0
+- pkg:maven/nl.bstoi.poiparser/PoiParser@2.0?classifier=sources
+- pkg:maven/nl.bstoi.poiparser/PoiParser@2.1
+- pkg:maven/nl.bstoi.poiparser/PoiParser@2.1?classifier=sources

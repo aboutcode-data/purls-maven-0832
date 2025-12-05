@@ -1,0 +1,2 @@
+- pkg:maven/org.openengsb.forks/org.odlabs.wiquery@1.2.4.w1
+- pkg:maven/org.openengsb.forks/org.odlabs.wiquery@1.2.4.w1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/li.rudin.jjst/jjst-api@2.0
+- pkg:maven/li.rudin.jjst/jjst-api@2.0?classifier=sources

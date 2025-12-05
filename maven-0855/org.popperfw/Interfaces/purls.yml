@@ -1,0 +1,2 @@
+- pkg:maven/org.popperfw/Interfaces@0.1.1
+- pkg:maven/org.popperfw/Interfaces@0.1.1?classifier=sources

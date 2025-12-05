@@ -1,0 +1,4 @@
+- pkg:maven/org.springframework/springloaded@1.1.5.RELEASE
+- pkg:maven/org.springframework/springloaded@1.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework/springloaded@1.2.0.RELEASE
+- pkg:maven/org.springframework/springloaded@1.2.0.RELEASE?classifier=sources

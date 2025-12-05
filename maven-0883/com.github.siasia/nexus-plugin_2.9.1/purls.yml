@@ -1,0 +1,8 @@
+- pkg:maven/com.github.siasia/nexus-plugin_2.9.1@0.11.0-0.1
+- pkg:maven/com.github.siasia/nexus-plugin_2.9.1@0.11.0-0.1?classifier=sources
+- pkg:maven/com.github.siasia/nexus-plugin_2.9.1@0.11.1-0.1
+- pkg:maven/com.github.siasia/nexus-plugin_2.9.1@0.11.1-0.1?classifier=sources
+- pkg:maven/com.github.siasia/nexus-plugin_2.9.1@0.11.2-0.1
+- pkg:maven/com.github.siasia/nexus-plugin_2.9.1@0.11.2-0.1?classifier=sources
+- pkg:maven/com.github.siasia/nexus-plugin_2.9.1@0.11.3-0.1
+- pkg:maven/com.github.siasia/nexus-plugin_2.9.1@0.11.3-0.1?classifier=sources

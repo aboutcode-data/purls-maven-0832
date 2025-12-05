@@ -1,0 +1,12 @@
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.29
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.29?classifier=sources
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.46
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.46?classifier=sources
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.51
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.51?classifier=sources
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.56
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.56?classifier=sources
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.59
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.2.59?classifier=sources
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.4.0
+- pkg:maven/com.googlecode.mycontainer/maven-mycontainer-plugin@1.4.0?classifier=sources

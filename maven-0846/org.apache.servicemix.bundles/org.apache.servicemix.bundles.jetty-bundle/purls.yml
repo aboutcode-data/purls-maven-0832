@@ -1,0 +1,16 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.12rc1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.14_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.14_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.14_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.14_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.19_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.19_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.19_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.22_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.22_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.22_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.22_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.24_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.24_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.24_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty-bundle@6.1.24_4

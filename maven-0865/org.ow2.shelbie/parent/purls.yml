@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.shelbie/parent@2.0-M3?classifier=source-release&type=zip
+- pkg:maven/org.ow2.shelbie/parent@2.0?classifier=source-release&type=zip

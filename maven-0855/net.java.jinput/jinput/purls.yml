@@ -1,0 +1,4 @@
+- pkg:maven/net.java.jinput/jinput@2.0.4
+- pkg:maven/net.java.jinput/jinput@2.0.4?classifier=sources
+- pkg:maven/net.java.jinput/jinput@2.0.5
+- pkg:maven/net.java.jinput/jinput@2.0.5?classifier=sources

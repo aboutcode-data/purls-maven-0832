@@ -1,0 +1,4 @@
+- pkg:maven/de.flapdoodle/de.flapdoodle.logparser@1.0
+- pkg:maven/de.flapdoodle/de.flapdoodle.logparser@1.0?classifier=sources
+- pkg:maven/de.flapdoodle/de.flapdoodle.logparser@1.1
+- pkg:maven/de.flapdoodle/de.flapdoodle.logparser@1.1?classifier=sources

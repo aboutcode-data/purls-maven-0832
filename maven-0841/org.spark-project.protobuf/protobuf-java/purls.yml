@@ -1,0 +1,2 @@
+- pkg:maven/org.spark-project.protobuf/protobuf-java@2.4.1-shaded
+- pkg:maven/org.spark-project.protobuf/protobuf-java@2.4.1-shaded?classifier=sources

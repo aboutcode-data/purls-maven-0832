@@ -1,0 +1,3 @@
+- pkg:maven/com.github.kw3r/com.github.kw3r.tmdb@0.0.1
+- pkg:maven/com.github.kw3r/com.github.kw3r.tmdb@0.0.5
+- pkg:maven/com.github.kw3r/com.github.kw3r.tmdb@0.0.5?classifier=sources

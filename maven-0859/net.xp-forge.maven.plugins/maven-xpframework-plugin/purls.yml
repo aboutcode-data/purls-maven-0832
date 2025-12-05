@@ -1,0 +1,2 @@
+- pkg:maven/net.xp-forge.maven.plugins/maven-xpframework-plugin@2.0.0
+- pkg:maven/net.xp-forge.maven.plugins/maven-xpframework-plugin@2.0.0?classifier=sources

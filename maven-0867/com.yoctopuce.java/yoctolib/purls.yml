@@ -1,0 +1,4 @@
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.15881
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.15881?classifier=sources
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.15882
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.15882?classifier=sources

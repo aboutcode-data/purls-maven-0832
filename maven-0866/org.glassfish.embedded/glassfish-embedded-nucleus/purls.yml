@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-nucleus@3.0-Prelude-Embedded-m2
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-nucleus@3.0-Prelude-Embedded-m2?classifier=sources

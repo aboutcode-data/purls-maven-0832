@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jga/jga@0.8.3
+- pkg:maven/net.sf.jga/jga@0.8.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.oval/net.sf.oval@0.8
+- pkg:maven/net.sf.oval/net.sf.oval@0.8?classifier=sources

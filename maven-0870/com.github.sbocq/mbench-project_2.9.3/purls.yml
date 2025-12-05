@@ -1,0 +1,5 @@
+- pkg:maven/com.github.sbocq/mbench-project_2.9.3@0.1?classifier=sources
+- pkg:maven/com.github.sbocq/mbench-project_2.9.3@0.2.1?classifier=sources
+- pkg:maven/com.github.sbocq/mbench-project_2.9.3@0.2.3?classifier=sources
+- pkg:maven/com.github.sbocq/mbench-project_2.9.3@0.2.4?classifier=sources
+- pkg:maven/com.github.sbocq/mbench-project_2.9.3@0.2?classifier=sources

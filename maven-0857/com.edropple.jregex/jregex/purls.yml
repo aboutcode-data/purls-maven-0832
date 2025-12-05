@@ -1,0 +1,2 @@
+- pkg:maven/com.edropple.jregex/jregex@1.2_01
+- pkg:maven/com.edropple.jregex/jregex@1.2_01?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.aranea-apps.android.libs/android-logger@1.0.10
+- pkg:maven/com.aranea-apps.android.libs/android-logger@1.0.10?classifier=sources
+- pkg:maven/com.aranea-apps.android.libs/android-logger@1.0.8
+- pkg:maven/com.aranea-apps.android.libs/android-logger@1.0.8?classifier=sources

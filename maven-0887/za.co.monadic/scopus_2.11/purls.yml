@@ -1,0 +1,2 @@
+- pkg:maven/za.co.monadic/scopus_2.11@0.1.3
+- pkg:maven/za.co.monadic/scopus_2.11@0.1.3?classifier=sources

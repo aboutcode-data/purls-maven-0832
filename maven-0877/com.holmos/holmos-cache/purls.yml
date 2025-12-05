@@ -1,0 +1,6 @@
+- pkg:maven/com.holmos/holmos-cache@1.0.2u10
+- pkg:maven/com.holmos/holmos-cache@1.0.2u10?classifier=sources
+- pkg:maven/com.holmos/holmos-cache@1.0.2u8
+- pkg:maven/com.holmos/holmos-cache@1.0.2u8?classifier=sources
+- pkg:maven/com.holmos/holmos-cache@1.0.2u9
+- pkg:maven/com.holmos/holmos-cache@1.0.2u9?classifier=sources

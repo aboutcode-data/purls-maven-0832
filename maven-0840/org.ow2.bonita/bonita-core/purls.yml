@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.bonita/bonita-core@4.0
+- pkg:maven/org.ow2.bonita/bonita-core@4.0.RC3
+- pkg:maven/org.ow2.bonita/bonita-core@4.0.RC3?classifier=sources
+- pkg:maven/org.ow2.bonita/bonita-core@4.0?classifier=sources

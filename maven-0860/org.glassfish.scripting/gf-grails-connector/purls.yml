@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.scripting/gf-grails-connector@1.1?classifier=sources
+- pkg:maven/org.glassfish.scripting/gf-grails-connector@1.2?classifier=sources

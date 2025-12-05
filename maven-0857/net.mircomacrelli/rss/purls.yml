@@ -1,0 +1,4 @@
+- pkg:maven/net.mircomacrelli/rss@1.2
+- pkg:maven/net.mircomacrelli/rss@1.2?classifier=sources
+- pkg:maven/net.mircomacrelli/rss@2.0
+- pkg:maven/net.mircomacrelli/rss@2.0?classifier=sources

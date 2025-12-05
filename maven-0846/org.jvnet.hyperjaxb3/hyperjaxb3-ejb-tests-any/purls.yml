@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-tests-any@0.3
+- pkg:maven/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-tests-any@0.3?classifier=sources

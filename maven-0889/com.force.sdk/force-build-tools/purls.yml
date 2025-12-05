@@ -1,0 +1,16 @@
+- pkg:maven/com.force.sdk/force-build-tools@22.0.2-BETA
+- pkg:maven/com.force.sdk/force-build-tools@22.0.2-BETA?classifier=sources
+- pkg:maven/com.force.sdk/force-build-tools@22.0.3-BETA
+- pkg:maven/com.force.sdk/force-build-tools@22.0.3-BETA?classifier=sources
+- pkg:maven/com.force.sdk/force-build-tools@22.0.4-BETA
+- pkg:maven/com.force.sdk/force-build-tools@22.0.4-BETA?classifier=sources
+- pkg:maven/com.force.sdk/force-build-tools@22.0.5-BETA
+- pkg:maven/com.force.sdk/force-build-tools@22.0.5-BETA?classifier=sources
+- pkg:maven/com.force.sdk/force-build-tools@22.0.6-BETA
+- pkg:maven/com.force.sdk/force-build-tools@22.0.6-BETA?classifier=sources
+- pkg:maven/com.force.sdk/force-build-tools@22.0.7-BETA
+- pkg:maven/com.force.sdk/force-build-tools@22.0.7-BETA?classifier=sources
+- pkg:maven/com.force.sdk/force-build-tools@22.0.8-BETA
+- pkg:maven/com.force.sdk/force-build-tools@22.0.8-BETA?classifier=sources
+- pkg:maven/com.force.sdk/force-build-tools@22.0.9-BETA
+- pkg:maven/com.force.sdk/force-build-tools@22.0.9-BETA?classifier=sources

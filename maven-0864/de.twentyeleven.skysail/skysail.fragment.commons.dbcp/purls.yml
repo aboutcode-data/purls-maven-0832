@@ -1,0 +1,2 @@
+- pkg:maven/de.twentyeleven.skysail/skysail.fragment.commons.dbcp@0.0.1
+- pkg:maven/de.twentyeleven.skysail/skysail.fragment.commons.dbcp@0.0.1?classifier=sources

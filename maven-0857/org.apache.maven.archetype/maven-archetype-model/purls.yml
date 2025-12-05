@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.maven.archetype/maven-archetype-model@1.0-alpha-4
+- pkg:maven/org.apache.maven.archetype/maven-archetype-model@1.0-alpha-4?classifier=sources
+- pkg:maven/org.apache.maven.archetype/maven-archetype-model@1.0-alpha-7
+- pkg:maven/org.apache.maven.archetype/maven-archetype-model@1.0-alpha-7?classifier=sources

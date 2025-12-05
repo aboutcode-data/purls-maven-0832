@@ -1,0 +1,2 @@
+- pkg:maven/com.manydesigns/portofino-war-archetype@4.1.beta5?classifier=sources
+- pkg:maven/com.manydesigns/portofino-war-archetype@4.1.beta6?classifier=sources

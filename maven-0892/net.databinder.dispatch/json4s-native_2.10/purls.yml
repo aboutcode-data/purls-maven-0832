@@ -1,0 +1,2 @@
+- pkg:maven/net.databinder.dispatch/json4s-native_2.10@0.9.5
+- pkg:maven/net.databinder.dispatch/json4s-native_2.10@0.9.5?classifier=sources

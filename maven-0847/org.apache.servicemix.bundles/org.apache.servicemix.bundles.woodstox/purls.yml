@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.woodstox@3.2.7_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.woodstox@3.2.8_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.woodstox@3.2.8_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.woodstox@3.2.8_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.woodstox@3.2.9_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.woodstox@3.2.9_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.woodstox@3.2.9_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.woodstox@3.2.9_3?classifier=sources

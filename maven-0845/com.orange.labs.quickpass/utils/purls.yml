@@ -1,0 +1,2 @@
+- pkg:maven/com.orange.labs.quickpass/utils@1.6.1
+- pkg:maven/com.orange.labs.quickpass/utils@1.6.1?classifier=sources

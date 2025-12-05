@@ -1,0 +1,14 @@
+- pkg:maven/org.apache.gora/gora@0.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.gora/gora@0.1.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.gora/gora@0.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.gora/gora@0.2.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora@0.2.1?classifier=src&type=zip
+- pkg:maven/org.apache.gora/gora@0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.gora/gora@0.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora@0.2?classifier=src&type=zip
+- pkg:maven/org.apache.gora/gora@0.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.gora/gora@0.3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora@0.3?classifier=src&type=zip
+- pkg:maven/org.apache.gora/gora@0.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.gora/gora@0.4?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora@0.4?classifier=src&type=zip

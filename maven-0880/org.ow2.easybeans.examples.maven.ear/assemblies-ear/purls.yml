@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/assemblies-ear@1.2.0-M1?classifier=sources
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/assemblies-ear@1.2.0-M2?classifier=sources

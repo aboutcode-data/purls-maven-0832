@@ -1,0 +1,2 @@
+- pkg:maven/org.scalaj/scalaj-time_2.10.0-M7@0.6
+- pkg:maven/org.scalaj/scalaj-time_2.10.0-M7@0.6?classifier=sources

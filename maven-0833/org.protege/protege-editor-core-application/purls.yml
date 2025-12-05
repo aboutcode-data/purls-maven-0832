@@ -1,0 +1,2 @@
+- pkg:maven/org.protege/protege-editor-core-application@4.1.0
+- pkg:maven/org.protege/protege-editor-core-application@4.1.0?classifier=sources

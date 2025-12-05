@@ -1,0 +1,13 @@
+- pkg:maven/org.apache.syncope/syncope-root@1.0.0-RC1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.0-RC2-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.0-RC3-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.2-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.3-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope-root@1.0.9?classifier=source-release&type=zip

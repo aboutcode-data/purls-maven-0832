@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.core/org.eclipse.core.runtime.compatibility.auth@3.2.200.v20100517
+- pkg:maven/org.eclipse.core/org.eclipse.core.runtime.compatibility.auth@3.2.200.v20100517?classifier=sources

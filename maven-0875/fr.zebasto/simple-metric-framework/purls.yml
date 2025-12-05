@@ -1,0 +1,2 @@
+- pkg:maven/fr.zebasto/simple-metric-framework@1.0.0
+- pkg:maven/fr.zebasto/simple-metric-framework@1.0.0?classifier=sources

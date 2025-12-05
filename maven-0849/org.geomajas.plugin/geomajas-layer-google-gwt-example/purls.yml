@@ -1,0 +1,4 @@
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt-example@2.0.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt-example@2.0.0?type=war
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt-example@2.1.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt-example@2.1.0?type=war

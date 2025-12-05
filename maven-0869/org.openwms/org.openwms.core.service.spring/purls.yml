@@ -1,0 +1,2 @@
+- pkg:maven/org.openwms/org.openwms.core.service.spring@0.1
+- pkg:maven/org.openwms/org.openwms.core.service.spring@0.1?classifier=sources

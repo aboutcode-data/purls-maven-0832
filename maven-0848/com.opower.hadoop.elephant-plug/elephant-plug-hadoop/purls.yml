@@ -1,0 +1,2 @@
+- pkg:maven/com.opower.hadoop.elephant-plug/elephant-plug-hadoop@1.0.0
+- pkg:maven/com.opower.hadoop.elephant-plug/elephant-plug-hadoop@1.0.0?classifier=sources

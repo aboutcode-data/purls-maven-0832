@@ -1,0 +1,10 @@
+- pkg:maven/org.brillien/clearity@11.04
+- pkg:maven/org.brillien/clearity@11.04?classifier=sources
+- pkg:maven/org.brillien/clearity@11.09
+- pkg:maven/org.brillien/clearity@11.09?classifier=sources
+- pkg:maven/org.brillien/clearity@12.01
+- pkg:maven/org.brillien/clearity@12.01?classifier=sources
+- pkg:maven/org.brillien/clearity@12.05
+- pkg:maven/org.brillien/clearity@12.05?classifier=sources
+- pkg:maven/org.brillien/clearity@12.10
+- pkg:maven/org.brillien/clearity@12.10?classifier=sources

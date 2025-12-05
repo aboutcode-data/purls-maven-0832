@@ -1,0 +1,2 @@
+- pkg:maven/net.elehack.argparse4s/argparse4s_2.9.3@0.2.2
+- pkg:maven/net.elehack.argparse4s/argparse4s_2.9.3@0.2.2?classifier=sources

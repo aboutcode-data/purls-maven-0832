@@ -1,0 +1,10 @@
+- pkg:maven/com.wordnik/swagger-core@1.0
+- pkg:maven/com.wordnik/swagger-core@1.0?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.111219
+- pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.111219?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.120103
+- pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.120103?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.121026
+- pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.121026?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.121130
+- pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.121130?classifier=sources

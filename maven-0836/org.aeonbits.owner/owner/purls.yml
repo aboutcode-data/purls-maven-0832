@@ -1,0 +1,12 @@
+- pkg:maven/org.aeonbits.owner/owner@1.0.2
+- pkg:maven/org.aeonbits.owner/owner@1.0.2?classifier=sources
+- pkg:maven/org.aeonbits.owner/owner@1.0.3
+- pkg:maven/org.aeonbits.owner/owner@1.0.3.1
+- pkg:maven/org.aeonbits.owner/owner@1.0.3.1?classifier=sources
+- pkg:maven/org.aeonbits.owner/owner@1.0.3?classifier=sources
+- pkg:maven/org.aeonbits.owner/owner@1.0.4
+- pkg:maven/org.aeonbits.owner/owner@1.0.4.1
+- pkg:maven/org.aeonbits.owner/owner@1.0.4.1?classifier=sources
+- pkg:maven/org.aeonbits.owner/owner@1.0.4?classifier=sources
+- pkg:maven/org.aeonbits.owner/owner@1.0.5
+- pkg:maven/org.aeonbits.owner/owner@1.0.5?classifier=sources

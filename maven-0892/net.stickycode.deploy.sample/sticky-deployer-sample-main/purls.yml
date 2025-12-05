@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.deploy.sample/sticky-deployer-sample-main@1.2
+- pkg:maven/net.stickycode.deploy.sample/sticky-deployer-sample-main@1.2?classifier=sources

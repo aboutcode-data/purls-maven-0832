@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.sarasvati.thirdparty.netbeans/org-openide-util@7.3
+- pkg:maven/com.googlecode.sarasvati.thirdparty.netbeans/org-openide-util@7.3?classifier=sources

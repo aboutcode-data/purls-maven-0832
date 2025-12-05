@@ -1,0 +1,2 @@
+- pkg:maven/com.github.apetrelli.gwtintegration/gwt-integration-remote-logging@1.0.0-alpha2
+- pkg:maven/com.github.apetrelli.gwtintegration/gwt-integration-remote-logging@1.0.0-alpha2?classifier=sources

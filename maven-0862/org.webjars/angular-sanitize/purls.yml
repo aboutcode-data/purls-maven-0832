@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars/angular-sanitize@1.0.7
+- pkg:maven/org.webjars/angular-sanitize@1.0.7?classifier=sources
+- pkg:maven/org.webjars/angular-sanitize@1.2.15
+- pkg:maven/org.webjars/angular-sanitize@1.2.15?classifier=sources

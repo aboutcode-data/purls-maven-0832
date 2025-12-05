@@ -1,0 +1,2 @@
+- pkg:maven/uk.org.subtrack.imaging/image-servlet-scala@1.1.0-beta2
+- pkg:maven/uk.org.subtrack.imaging/image-servlet-scala@1.1.0-beta2?classifier=sources

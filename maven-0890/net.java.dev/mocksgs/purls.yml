@@ -1,0 +1,4 @@
+- pkg:maven/net.java.dev/mocksgs@1.0.1
+- pkg:maven/net.java.dev/mocksgs@1.0.1?classifier=sources
+- pkg:maven/net.java.dev/mocksgs@1.0.2
+- pkg:maven/net.java.dev/mocksgs@1.0.2?classifier=sources
