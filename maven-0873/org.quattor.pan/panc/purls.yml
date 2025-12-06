@@ -4,6 +4,8 @@
 - pkg:maven/org.quattor.pan/panc@10.1?type=zip
 - pkg:maven/org.quattor.pan/panc@10.2?classifier=sources
 - pkg:maven/org.quattor.pan/panc@10.2?type=zip
+- pkg:maven/org.quattor.pan/panc@10.3?classifier=sources
+- pkg:maven/org.quattor.pan/panc@10.3?type=zip
 - pkg:maven/org.quattor.pan/panc@9.0.0-RC1?classifier=sources
 - pkg:maven/org.quattor.pan/panc@9.0.0-RC1?type=zip
 - pkg:maven/org.quattor.pan/panc@9.0.0-RC2?classifier=sources

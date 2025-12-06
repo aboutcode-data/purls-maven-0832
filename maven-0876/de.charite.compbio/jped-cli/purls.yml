@@ -2,3 +2,5 @@
 - pkg:maven/de.charite.compbio/jped-cli@0.14?classifier=sources
 - pkg:maven/de.charite.compbio/jped-cli@0.15
 - pkg:maven/de.charite.compbio/jped-cli@0.15?classifier=sources
+- pkg:maven/de.charite.compbio/jped-cli@0.16
+- pkg:maven/de.charite.compbio/jped-cli@0.16?classifier=sources

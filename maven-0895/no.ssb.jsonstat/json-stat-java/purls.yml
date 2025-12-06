@@ -1,0 +1,2 @@
+- pkg:maven/no.ssb.jsonstat/json-stat-java@0.1.3
+- pkg:maven/no.ssb.jsonstat/json-stat-java@0.1.3?classifier=sources

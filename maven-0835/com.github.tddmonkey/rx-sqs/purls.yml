@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tddmonkey/rx-sqs@0.0.1
+- pkg:maven/com.github.tddmonkey/rx-sqs@0.0.1?classifier=sources

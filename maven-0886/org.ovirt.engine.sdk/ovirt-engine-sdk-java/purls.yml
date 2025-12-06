@@ -72,3 +72,7 @@
 - pkg:maven/org.ovirt.engine.sdk/ovirt-engine-sdk-java@3.6.0.1?classifier=sources
 - pkg:maven/org.ovirt.engine.sdk/ovirt-engine-sdk-java@3.6.0.3
 - pkg:maven/org.ovirt.engine.sdk/ovirt-engine-sdk-java@3.6.0.3?classifier=sources
+- pkg:maven/org.ovirt.engine.sdk/ovirt-engine-sdk-java@3.6.3.0
+- pkg:maven/org.ovirt.engine.sdk/ovirt-engine-sdk-java@3.6.3.0?classifier=sources
+- pkg:maven/org.ovirt.engine.sdk/ovirt-engine-sdk-java@3.6.8.0
+- pkg:maven/org.ovirt.engine.sdk/ovirt-engine-sdk-java@3.6.8.0?classifier=sources

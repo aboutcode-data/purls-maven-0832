@@ -1,5 +1,8 @@
 - pkg:maven/org.apache.felix/org.apache.felix.deploymentadmin@0.9.0
 - pkg:maven/org.apache.felix/org.apache.felix.deploymentadmin@0.9.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.deploymentadmin@0.9.10
+- pkg:maven/org.apache.felix/org.apache.felix.deploymentadmin@0.9.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.deploymentadmin@0.9.10?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.deploymentadmin@0.9.4
 - pkg:maven/org.apache.felix/org.apache.felix.deploymentadmin@0.9.4?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.deploymentadmin@0.9.5

@@ -1,0 +1,2 @@
+- pkg:maven/org.daisy.libs/io.bit3.jsass@4.1.0-p1
+- pkg:maven/org.daisy.libs/io.bit3.jsass@4.1.0-p1?classifier=sources

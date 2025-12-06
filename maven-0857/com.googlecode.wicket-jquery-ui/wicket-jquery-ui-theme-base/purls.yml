@@ -1,0 +1,8 @@
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@6.24.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@6.24.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.3.1
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.3.1?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.4.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.4.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.0.0-M1
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.0.0-M1?classifier=sources

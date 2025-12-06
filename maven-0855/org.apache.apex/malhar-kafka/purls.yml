@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.apex/malhar-kafka@3.3.1-incubating
+- pkg:maven/org.apache.apex/malhar-kafka@3.3.1-incubating?classifier=sources
+- pkg:maven/org.apache.apex/malhar-kafka@3.4.0
+- pkg:maven/org.apache.apex/malhar-kafka@3.4.0?classifier=sources
+- pkg:maven/org.apache.apex/malhar-kafka@3.5.0
+- pkg:maven/org.apache.apex/malhar-kafka@3.5.0?classifier=sources

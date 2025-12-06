@@ -1,0 +1,2 @@
+- pkg:maven/net.gotev/sipservice@1.0?classifier=sources
+- pkg:maven/net.gotev/sipservice@1.0?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/pako@0.2.7
 - pkg:maven/org.webjars.npm/pako@0.2.7?classifier=sources
+- pkg:maven/org.webjars.npm/pako@1.0.3
+- pkg:maven/org.webjars.npm/pako@1.0.3?classifier=sources

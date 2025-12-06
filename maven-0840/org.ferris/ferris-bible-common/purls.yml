@@ -1,0 +1,2 @@
+- pkg:maven/org.ferris/ferris-bible-common@0.0.5
+- pkg:maven/org.ferris/ferris-bible-common@0.0.5?classifier=sources

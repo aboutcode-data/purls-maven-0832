@@ -1,2 +1,4 @@
 - pkg:maven/org.ansj/ansj_seg@0.9
 - pkg:maven/org.ansj/ansj_seg@0.9?classifier=sources
+- pkg:maven/org.ansj/ansj_seg@5.0.2
+- pkg:maven/org.ansj/ansj_seg@5.0.2?classifier=sources

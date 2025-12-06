@@ -1,0 +1,2 @@
+- pkg:maven/com.optimaize.anythingworks.client.rest/anythingworks-client-rest@0.5
+- pkg:maven/com.optimaize.anythingworks.client.rest/anythingworks-client-rest@0.5?classifier=sources

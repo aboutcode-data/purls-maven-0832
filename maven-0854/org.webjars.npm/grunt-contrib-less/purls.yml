@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/grunt-contrib-less@0.12.0
+- pkg:maven/org.webjars.npm/grunt-contrib-less@0.12.0?classifier=sources

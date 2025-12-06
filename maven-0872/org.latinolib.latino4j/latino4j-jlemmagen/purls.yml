@@ -1,0 +1,4 @@
+- pkg:maven/org.latinolib.latino4j/latino4j-jlemmagen@0.1.2
+- pkg:maven/org.latinolib.latino4j/latino4j-jlemmagen@0.1.2?classifier=sources
+- pkg:maven/org.latinolib.latino4j/latino4j-jlemmagen@0.1.3
+- pkg:maven/org.latinolib.latino4j/latino4j-jlemmagen@0.1.3?classifier=sources

@@ -8,6 +8,12 @@
 - pkg:maven/org.scalanlp/breeze-parent_2.11@0.11.2
 - pkg:maven/org.scalanlp/breeze-parent_2.11@0.11.2?classifier=sources
 - pkg:maven/org.scalanlp/breeze-parent_2.11@0.11?classifier=sources
+- pkg:maven/org.scalanlp/breeze-parent_2.11@0.12
+- pkg:maven/org.scalanlp/breeze-parent_2.11@0.12?classifier=sources
+- pkg:maven/org.scalanlp/breeze-parent_2.11@0.13-RC1
+- pkg:maven/org.scalanlp/breeze-parent_2.11@0.13-RC1?classifier=sources
+- pkg:maven/org.scalanlp/breeze-parent_2.11@0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7
+- pkg:maven/org.scalanlp/breeze-parent_2.11@0.13-d8f39f658cbc49f81c7a4f0c27e048af916262a7?classifier=sources
 - pkg:maven/org.scalanlp/breeze-parent_2.11@0.8
 - pkg:maven/org.scalanlp/breeze-parent_2.11@0.8.1
 - pkg:maven/org.scalanlp/breeze-parent_2.11@0.8.1?classifier=sources

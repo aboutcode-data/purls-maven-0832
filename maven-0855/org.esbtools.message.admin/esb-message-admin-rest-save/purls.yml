@@ -1,0 +1,2 @@
+- pkg:maven/org.esbtools.message.admin/esb-message-admin-rest-save@0.9.0?classifier=sources
+- pkg:maven/org.esbtools.message.admin/esb-message-admin-rest-save@0.9.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/dk.nodes.utils/nutils@0.1?classifier=sources
+- pkg:maven/dk.nodes.utils/nutils@0.1?type=aar

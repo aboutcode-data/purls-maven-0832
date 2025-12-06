@@ -1,0 +1,2 @@
+- pkg:maven/com.kodroid/pilot@0.6.2?classifier=sources
+- pkg:maven/com.kodroid/pilot@0.6.2?type=aar

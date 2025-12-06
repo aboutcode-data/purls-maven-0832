@@ -52,3 +52,11 @@
 - pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.0?classifier=sources
 - pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.1-foradilma
 - pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.1-foradilma?classifier=sources
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.2
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.2?classifier=sources
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.3-foralula
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.3-foralula?classifier=sources
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.4
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.4?classifier=sources
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.5.0
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/uk.nhs.ciao/ciao-core@0.1
+- pkg:maven/uk.nhs.ciao/ciao-core@0.1?classifier=sources

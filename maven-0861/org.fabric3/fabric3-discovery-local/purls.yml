@@ -1,0 +1,2 @@
+- pkg:maven/org.fabric3/fabric3-discovery-local@3.0.0
+- pkg:maven/org.fabric3/fabric3-discovery-local@3.0.0?classifier=sources

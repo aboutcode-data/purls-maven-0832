@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/angular-chart.js@0.5.2
 - pkg:maven/org.webjars/angular-chart.js@0.5.3
 - pkg:maven/org.webjars/angular-chart.js@0.7.1
+- pkg:maven/org.webjars/angular-chart.js@0.8.8

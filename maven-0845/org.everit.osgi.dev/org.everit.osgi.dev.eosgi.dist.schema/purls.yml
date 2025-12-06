@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.eosgi.dist.schema@1.0.0
+- pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.eosgi.dist.schema@1.0.0?classifier=sources

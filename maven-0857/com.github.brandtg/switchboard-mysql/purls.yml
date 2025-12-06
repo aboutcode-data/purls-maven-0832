@@ -1,0 +1,2 @@
+- pkg:maven/com.github.brandtg/switchboard-mysql@0.0.1
+- pkg:maven/com.github.brandtg/switchboard-mysql@0.0.1?classifier=sources

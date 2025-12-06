@@ -14,3 +14,6 @@
 - pkg:maven/org.ow2.easywsdl/easywsdl-ext-sawsdl@2.2?classifier=sources
 - pkg:maven/org.ow2.easywsdl/easywsdl-ext-sawsdl@2.3
 - pkg:maven/org.ow2.easywsdl/easywsdl-ext-sawsdl@2.3?classifier=sources
+- pkg:maven/org.ow2.easywsdl/easywsdl-ext-sawsdl@2.4.0
+- pkg:maven/org.ow2.easywsdl/easywsdl-ext-sawsdl@2.4.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.easywsdl/easywsdl-ext-sawsdl@2.4.0?classifier=sources

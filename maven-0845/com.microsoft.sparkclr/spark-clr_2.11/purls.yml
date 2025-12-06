@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.sparkclr/spark-clr_2.11@2.0.000-PREVIEW-1
+- pkg:maven/com.microsoft.sparkclr/spark-clr_2.11@2.0.000-PREVIEW-1?classifier=sources

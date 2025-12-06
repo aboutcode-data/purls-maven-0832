@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.jdk.javaagent/org.everit.jdk.javaagent.shutdown@1.0.0
+- pkg:maven/org.everit.jdk.javaagent/org.everit.jdk.javaagent.shutdown@1.0.0?classifier=sources

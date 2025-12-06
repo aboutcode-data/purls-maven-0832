@@ -10,3 +10,5 @@
 - pkg:maven/net.javapla.jawn/jawn-server-jetty@0.8.9-b01?classifier=sources
 - pkg:maven/net.javapla.jawn/jawn-server-jetty@0.8.9-b02
 - pkg:maven/net.javapla.jawn/jawn-server-jetty@0.8.9-b02?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-server-jetty@0.9.0
+- pkg:maven/net.javapla.jawn/jawn-server-jetty@0.9.0?classifier=sources

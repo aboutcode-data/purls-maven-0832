@@ -1,0 +1,2 @@
+- pkg:maven/com.mgmtp.perfload.core/perfload-test-utils@4.8.0
+- pkg:maven/com.mgmtp.perfload.core/perfload-test-utils@4.8.0?classifier=sources

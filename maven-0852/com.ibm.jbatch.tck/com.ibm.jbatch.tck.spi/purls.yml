@@ -8,3 +8,5 @@
 - pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.1-b01?classifier=sources
 - pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.1-b02
 - pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.1-b02?classifier=sources
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.1-b03
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.1-b03?classifier=sources

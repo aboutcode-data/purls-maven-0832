@@ -4,3 +4,5 @@
 - pkg:maven/com.github.mathieudebrito/utils@0.0.3?type=aar
 - pkg:maven/com.github.mathieudebrito/utils@0.0.4?classifier=sources
 - pkg:maven/com.github.mathieudebrito/utils@0.0.4?type=aar
+- pkg:maven/com.github.mathieudebrito/utils@2.2.0?classifier=sources
+- pkg:maven/com.github.mathieudebrito/utils@2.2.0?type=aar

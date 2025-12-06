@@ -1,0 +1,2 @@
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java.vdsm-jsonrpc-java-client.1.1.6.client.org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.1.6
+- pkg:maven/org.ovirt.vdsm-jsonrpc-java.vdsm-jsonrpc-java-client.1.1.6.client.org.ovirt.vdsm-jsonrpc-java/vdsm-jsonrpc-java-client@1.1.6?classifier=sources

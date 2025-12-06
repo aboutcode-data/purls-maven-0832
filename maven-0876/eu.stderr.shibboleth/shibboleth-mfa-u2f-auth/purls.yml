@@ -1,0 +1,2 @@
+- pkg:maven/eu.stderr.shibboleth/shibboleth-mfa-u2f-auth@1.0
+- pkg:maven/eu.stderr.shibboleth/shibboleth-mfa-u2f-auth@1.0?classifier=sources

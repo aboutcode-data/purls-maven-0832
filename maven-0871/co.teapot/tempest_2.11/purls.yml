@@ -1,0 +1,10 @@
+- pkg:maven/co.teapot/tempest_2.11@0.10.1
+- pkg:maven/co.teapot/tempest_2.11@0.10.1?classifier=sources
+- pkg:maven/co.teapot/tempest_2.11@0.10.2
+- pkg:maven/co.teapot/tempest_2.11@0.10.2?classifier=sources
+- pkg:maven/co.teapot/tempest_2.11@0.10.4
+- pkg:maven/co.teapot/tempest_2.11@0.10.4?classifier=sources
+- pkg:maven/co.teapot/tempest_2.11@0.8.0
+- pkg:maven/co.teapot/tempest_2.11@0.8.0?classifier=sources
+- pkg:maven/co.teapot/tempest_2.11@0.9.0
+- pkg:maven/co.teapot/tempest_2.11@0.9.0?classifier=sources

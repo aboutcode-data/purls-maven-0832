@@ -1,5 +1,11 @@
 - pkg:maven/net.razorvine/pyrolite@4.10
 - pkg:maven/net.razorvine/pyrolite@4.10?classifier=sources
+- pkg:maven/net.razorvine/pyrolite@4.11
+- pkg:maven/net.razorvine/pyrolite@4.11?classifier=sources
+- pkg:maven/net.razorvine/pyrolite@4.12
+- pkg:maven/net.razorvine/pyrolite@4.12?classifier=sources
+- pkg:maven/net.razorvine/pyrolite@4.13
+- pkg:maven/net.razorvine/pyrolite@4.13?classifier=sources
 - pkg:maven/net.razorvine/pyrolite@4.4
 - pkg:maven/net.razorvine/pyrolite@4.4?classifier=sources
 - pkg:maven/net.razorvine/pyrolite@4.6

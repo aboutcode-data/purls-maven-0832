@@ -1,0 +1,16 @@
+- pkg:maven/org.jlot/jlot-stats-client@0.105
+- pkg:maven/org.jlot/jlot-stats-client@0.105?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@0.106
+- pkg:maven/org.jlot/jlot-stats-client@0.106?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@0.107
+- pkg:maven/org.jlot/jlot-stats-client@0.107?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@0.108
+- pkg:maven/org.jlot/jlot-stats-client@0.108?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@0.109
+- pkg:maven/org.jlot/jlot-stats-client@0.109?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@0.110
+- pkg:maven/org.jlot/jlot-stats-client@0.110?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@0.111
+- pkg:maven/org.jlot/jlot-stats-client@0.111?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@0.112
+- pkg:maven/org.jlot/jlot-stats-client@0.112?classifier=sources

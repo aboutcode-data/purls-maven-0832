@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-hyper-resource@0.2.2
+- pkg:maven/org.webjars.bower/angular-hyper-resource@0.2.2?classifier=sources

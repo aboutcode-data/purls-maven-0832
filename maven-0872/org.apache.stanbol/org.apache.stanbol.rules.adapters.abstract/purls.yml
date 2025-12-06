@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.rules.adapters.abstract@0.12.0
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.rules.adapters.abstract@0.12.0?classifier=sources
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.rules.adapters.abstract@1.0.0
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.rules.adapters.abstract@1.0.0?classifier=sources

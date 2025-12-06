@@ -1,0 +1,4 @@
+- pkg:maven/org.beiter.michael.eaudit4j.processors/timestamp@1.0
+- pkg:maven/org.beiter.michael.eaudit4j.processors/timestamp@1.0?classifier=sources
+- pkg:maven/org.beiter.michael.eaudit4j.processors/timestamp@1.1
+- pkg:maven/org.beiter.michael.eaudit4j.processors/timestamp@1.1?classifier=sources

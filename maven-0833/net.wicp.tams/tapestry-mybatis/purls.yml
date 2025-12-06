@@ -1,2 +1,4 @@
 - pkg:maven/net.wicp.tams/tapestry-mybatis@1.0.0
 - pkg:maven/net.wicp.tams/tapestry-mybatis@1.0.0?classifier=sources
+- pkg:maven/net.wicp.tams/tapestry-mybatis@1.1.0
+- pkg:maven/net.wicp.tams/tapestry-mybatis@1.1.0?classifier=sources

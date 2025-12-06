@@ -4,3 +4,5 @@
 - pkg:maven/com.jakewharton.rxbinding/rxbinding@0.2.0?type=aar
 - pkg:maven/com.jakewharton.rxbinding/rxbinding@0.3.0?classifier=sources
 - pkg:maven/com.jakewharton.rxbinding/rxbinding@0.3.0?type=aar
+- pkg:maven/com.jakewharton.rxbinding/rxbinding@0.4.0?classifier=sources
+- pkg:maven/com.jakewharton.rxbinding/rxbinding@0.4.0?type=aar

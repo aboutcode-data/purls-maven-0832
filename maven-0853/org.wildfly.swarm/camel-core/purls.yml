@@ -1,0 +1,17 @@
+- pkg:maven/org.wildfly.swarm/camel-core@1.0.0
+- pkg:maven/org.wildfly.swarm/camel-core@1.0.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/camel-core@1.0.1
+- pkg:maven/org.wildfly.swarm/camel-core@1.0.2
+- pkg:maven/org.wildfly.swarm/camel-core@1.0.3
+- pkg:maven/org.wildfly.swarm/camel-core@1.0.4
+- pkg:maven/org.wildfly.swarm/camel-core@1.0.4?classifier=sources
+- pkg:maven/org.wildfly.swarm/camel-core@1.1.0
+- pkg:maven/org.wildfly.swarm/camel-core@1.1.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/camel-core@2016.10.0
+- pkg:maven/org.wildfly.swarm/camel-core@2016.10.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/camel-core@2016.8
+- pkg:maven/org.wildfly.swarm/camel-core@2016.8.1
+- pkg:maven/org.wildfly.swarm/camel-core@2016.8.1?classifier=sources
+- pkg:maven/org.wildfly.swarm/camel-core@2016.8?classifier=sources
+- pkg:maven/org.wildfly.swarm/camel-core@2016.9
+- pkg:maven/org.wildfly.swarm/camel-core@2016.9?classifier=sources

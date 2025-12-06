@@ -1,0 +1,2 @@
+- pkg:maven/io.cloudslang.content/cs-azure@0.0.1
+- pkg:maven/io.cloudslang.content/cs-azure@0.0.1?classifier=sources

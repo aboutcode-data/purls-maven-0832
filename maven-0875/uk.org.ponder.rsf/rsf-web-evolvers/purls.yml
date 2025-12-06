@@ -1,2 +1,4 @@
 - pkg:maven/uk.org.ponder.rsf/rsf-web-evolvers@1.0
 - pkg:maven/uk.org.ponder.rsf/rsf-web-evolvers@1.0?classifier=sources
+- pkg:maven/uk.org.ponder.rsf/rsf-web-evolvers@1.1
+- pkg:maven/uk.org.ponder.rsf/rsf-web-evolvers@1.1?classifier=sources

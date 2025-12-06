@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.commons/commons-collections4@4.0?classifier=sources
 - pkg:maven/org.apache.commons/commons-collections4@4.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.commons/commons-collections4@4.0?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-collections4@4.1
+- pkg:maven/org.apache.commons/commons-collections4@4.1?classifier=sources

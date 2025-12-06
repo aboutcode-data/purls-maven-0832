@@ -1,0 +1,4 @@
+- pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.0.10
+- pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.0.10?classifier=sources
+- pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.0.5
+- pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.0.5?classifier=sources

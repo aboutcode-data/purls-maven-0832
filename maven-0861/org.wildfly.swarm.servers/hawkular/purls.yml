@@ -1,0 +1,3 @@
+- pkg:maven/org.wildfly.swarm.servers/hawkular@1.0.0.Alpha6
+- pkg:maven/org.wildfly.swarm.servers/hawkular@1.0.0.Alpha7
+- pkg:maven/org.wildfly.swarm.servers/hawkular@1.0.0.Alpha8

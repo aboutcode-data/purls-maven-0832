@@ -16,3 +16,9 @@
 - pkg:maven/org.apache.maven.indexer/indexer-artifact@5.1.0?classifier=sources
 - pkg:maven/org.apache.maven.indexer/indexer-artifact@5.1.1
 - pkg:maven/org.apache.maven.indexer/indexer-artifact@5.1.1?classifier=sources
+- pkg:maven/org.apache.maven.indexer/indexer-artifact@5.1.2-4333789
+- pkg:maven/org.apache.maven.indexer/indexer-artifact@5.1.2-4333789?classifier=sources
+- pkg:maven/org.apache.maven.indexer/indexer-artifact@5.1.2-816025a
+- pkg:maven/org.apache.maven.indexer/indexer-artifact@5.1.2-816025a?classifier=sources
+- pkg:maven/org.apache.maven.indexer/indexer-artifact@5.1.2-ea1205e
+- pkg:maven/org.apache.maven.indexer/indexer-artifact@5.1.2-ea1205e?classifier=sources

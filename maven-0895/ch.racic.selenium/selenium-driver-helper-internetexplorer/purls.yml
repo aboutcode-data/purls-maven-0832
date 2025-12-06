@@ -1,0 +1,6 @@
+- pkg:maven/ch.racic.selenium/selenium-driver-helper-internetexplorer@2.45.0
+- pkg:maven/ch.racic.selenium/selenium-driver-helper-internetexplorer@2.45.0?classifier=sources
+- pkg:maven/ch.racic.selenium/selenium-driver-helper-internetexplorer@2.53.0
+- pkg:maven/ch.racic.selenium/selenium-driver-helper-internetexplorer@2.53.0?classifier=sources
+- pkg:maven/ch.racic.selenium/selenium-driver-helper-internetexplorer@2.53.1
+- pkg:maven/ch.racic.selenium/selenium-driver-helper-internetexplorer@2.53.1?classifier=sources

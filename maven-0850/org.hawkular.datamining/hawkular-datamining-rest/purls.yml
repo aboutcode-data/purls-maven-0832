@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.datamining/hawkular-datamining-rest@0.1.0.Final?classifier=sources
+- pkg:maven/org.hawkular.datamining/hawkular-datamining-rest@0.1.0.Final?type=war
+- pkg:maven/org.hawkular.datamining/hawkular-datamining-rest@0.2.0.Final?classifier=sources
+- pkg:maven/org.hawkular.datamining/hawkular-datamining-rest@0.2.0.Final?type=war

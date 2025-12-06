@@ -30,6 +30,12 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.21.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.21.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.22.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.22.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.23.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.23.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.24.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.24.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.4.0
@@ -54,3 +60,11 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.1.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.0.0-M1?classifier=sources

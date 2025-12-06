@@ -1,0 +1,6 @@
+- pkg:maven/com.truward.brikar/brikar-persistence-util@1.3.20
+- pkg:maven/com.truward.brikar/brikar-persistence-util@1.3.20?classifier=sources
+- pkg:maven/com.truward.brikar/brikar-persistence-util@1.3.21
+- pkg:maven/com.truward.brikar/brikar-persistence-util@1.3.21?classifier=sources
+- pkg:maven/com.truward.brikar/brikar-persistence-util@1.4.22
+- pkg:maven/com.truward.brikar/brikar-persistence-util@1.4.22?classifier=sources

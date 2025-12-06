@@ -1,0 +1,4 @@
+- pkg:maven/com.kuassivi.october/october-compiler@0.5.38
+- pkg:maven/com.kuassivi.october/october-compiler@0.5.38?classifier=sources
+- pkg:maven/com.kuassivi.october/october-compiler@0.5.40
+- pkg:maven/com.kuassivi.october/october-compiler@0.5.40?classifier=sources

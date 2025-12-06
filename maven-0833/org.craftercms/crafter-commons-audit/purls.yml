@@ -10,6 +10,10 @@
 - pkg:maven/org.craftercms/crafter-commons-audit@2.5.0.e
 - pkg:maven/org.craftercms/crafter-commons-audit@2.5.0.e?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-audit@2.5.0?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-audit@2.5.1
+- pkg:maven/org.craftercms/crafter-commons-audit@2.5.1-RC1
+- pkg:maven/org.craftercms/crafter-commons-audit@2.5.1-RC1?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-audit@2.5.1?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-audit@v2.5.0-Beta4
 - pkg:maven/org.craftercms/crafter-commons-audit@v2.5.0-Beta4?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-audit@v2.5.0-Beta5

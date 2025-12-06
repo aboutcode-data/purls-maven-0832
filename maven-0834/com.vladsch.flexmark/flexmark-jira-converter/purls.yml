@@ -1,0 +1,2 @@
+- pkg:maven/com.vladsch.flexmark/flexmark-jira-converter@0.5.0
+- pkg:maven/com.vladsch.flexmark/flexmark-jira-converter@0.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.tangjiabao/headb-springjdbc@0.18
+- pkg:maven/cn.tangjiabao/headb-springjdbc@0.18?classifier=sources

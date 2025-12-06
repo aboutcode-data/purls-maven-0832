@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.bundles.intermediaries/person-query-service-criminal-history-intermediary@1.0.2
+- pkg:maven/org.ojbc.bundles.intermediaries/person-query-service-criminal-history-intermediary@1.0.2?classifier=sources

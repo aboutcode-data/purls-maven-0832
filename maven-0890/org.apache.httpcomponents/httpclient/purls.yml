@@ -77,4 +77,6 @@
 - pkg:maven/org.apache.httpcomponents/httpclient@4.5
 - pkg:maven/org.apache.httpcomponents/httpclient@4.5.1
 - pkg:maven/org.apache.httpcomponents/httpclient@4.5.1?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpclient@4.5.2
+- pkg:maven/org.apache.httpcomponents/httpclient@4.5.2?classifier=sources
 - pkg:maven/org.apache.httpcomponents/httpclient@4.5?classifier=sources

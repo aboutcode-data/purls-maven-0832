@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jquery-knob@1.2.13
+- pkg:maven/org.webjars.bower/jquery-knob@1.2.13?classifier=sources

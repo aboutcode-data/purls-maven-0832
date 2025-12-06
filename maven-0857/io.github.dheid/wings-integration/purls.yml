@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dheid/wings-integration@3.3.1
+- pkg:maven/io.github.dheid/wings-integration@3.3.1?classifier=sources

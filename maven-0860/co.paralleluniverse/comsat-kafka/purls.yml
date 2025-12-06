@@ -1,0 +1,4 @@
+- pkg:maven/co.paralleluniverse/comsat-kafka@0.6.0
+- pkg:maven/co.paralleluniverse/comsat-kafka@0.6.0?classifier=sources
+- pkg:maven/co.paralleluniverse/comsat-kafka@0.7.0
+- pkg:maven/co.paralleluniverse/comsat-kafka@0.7.0?classifier=sources

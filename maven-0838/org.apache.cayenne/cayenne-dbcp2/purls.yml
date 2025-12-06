@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cayenne/cayenne-dbcp2@4.0.M3
+- pkg:maven/org.apache.cayenne/cayenne-dbcp2@4.0.M3?classifier=sources

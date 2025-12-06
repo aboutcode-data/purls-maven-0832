@@ -1,0 +1,2 @@
+- pkg:maven/be.nille.jwt/jwt-components@1.0.0
+- pkg:maven/be.nille.jwt/jwt-components@1.0.0?classifier=sources

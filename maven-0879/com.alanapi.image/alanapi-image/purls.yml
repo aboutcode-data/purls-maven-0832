@@ -1,0 +1,2 @@
+- pkg:maven/com.alanapi.image/alanapi-image@0.0.1?classifier=sources
+- pkg:maven/com.alanapi.image/alanapi-image@0.0.1?type=aar

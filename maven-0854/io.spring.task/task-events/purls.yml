@@ -1,0 +1,2 @@
+- pkg:maven/io.spring.task/task-events@1.0.0.RELEASE
+- pkg:maven/io.spring.task/task-events@1.0.0.RELEASE?classifier=sources

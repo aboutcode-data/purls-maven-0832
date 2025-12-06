@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/got@2.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/got@4.1.1
 - pkg:maven/org.webjars.npm/got@4.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/got@5.6.0
+- pkg:maven/org.webjars.npm/got@5.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/got@6.3.0
+- pkg:maven/org.webjars.npm/got@6.3.0?classifier=sources

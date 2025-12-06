@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/gulp-uglify@1.2.0
 - pkg:maven/org.webjars.npm/gulp-uglify@1.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/gulp-uglify@1.5.3
+- pkg:maven/org.webjars.npm/gulp-uglify@1.5.3?classifier=sources

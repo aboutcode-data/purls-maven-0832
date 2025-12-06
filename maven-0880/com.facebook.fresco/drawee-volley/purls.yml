@@ -1,5 +1,15 @@
 - pkg:maven/com.facebook.fresco/drawee-volley@0.1.0?classifier=sources
 - pkg:maven/com.facebook.fresco/drawee-volley@0.1.0?type=aar
+- pkg:maven/com.facebook.fresco/drawee-volley@0.10.0?classifier=sources
+- pkg:maven/com.facebook.fresco/drawee-volley@0.10.0?type=aar
+- pkg:maven/com.facebook.fresco/drawee-volley@0.11.0?classifier=sources
+- pkg:maven/com.facebook.fresco/drawee-volley@0.11.0?type=aar
+- pkg:maven/com.facebook.fresco/drawee-volley@0.12.0?classifier=sources
+- pkg:maven/com.facebook.fresco/drawee-volley@0.12.0?type=aar
+- pkg:maven/com.facebook.fresco/drawee-volley@0.13.0?classifier=sources
+- pkg:maven/com.facebook.fresco/drawee-volley@0.13.0?type=aar
+- pkg:maven/com.facebook.fresco/drawee-volley@0.14.0?classifier=sources
+- pkg:maven/com.facebook.fresco/drawee-volley@0.14.0?type=aar
 - pkg:maven/com.facebook.fresco/drawee-volley@0.2.0?classifier=sources
 - pkg:maven/com.facebook.fresco/drawee-volley@0.2.0?type=aar
 - pkg:maven/com.facebook.fresco/drawee-volley@0.3.0?classifier=sources
@@ -24,3 +34,5 @@
 - pkg:maven/com.facebook.fresco/drawee-volley@0.8.0?type=aar
 - pkg:maven/com.facebook.fresco/drawee-volley@0.8.1?classifier=sources
 - pkg:maven/com.facebook.fresco/drawee-volley@0.8.1?type=aar
+- pkg:maven/com.facebook.fresco/drawee-volley@0.9.0?classifier=sources
+- pkg:maven/com.facebook.fresco/drawee-volley@0.9.0?type=aar

@@ -1,0 +1,10 @@
+- pkg:maven/org.paleozogt/republish-plugin@0.0.10
+- pkg:maven/org.paleozogt/republish-plugin@0.0.10?classifier=sources
+- pkg:maven/org.paleozogt/republish-plugin@0.0.11
+- pkg:maven/org.paleozogt/republish-plugin@0.0.11?classifier=sources
+- pkg:maven/org.paleozogt/republish-plugin@0.0.9
+- pkg:maven/org.paleozogt/republish-plugin@0.0.9?classifier=sources
+- pkg:maven/org.paleozogt/republish-plugin@0.1.0
+- pkg:maven/org.paleozogt/republish-plugin@0.1.0?classifier=sources
+- pkg:maven/org.paleozogt/republish-plugin@0.1.1
+- pkg:maven/org.paleozogt/republish-plugin@0.1.1?classifier=sources

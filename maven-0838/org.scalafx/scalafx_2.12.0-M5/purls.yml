@@ -1,0 +1,2 @@
+- pkg:maven/org.scalafx/scalafx_2.12.0-M5@8.0.102-R11
+- pkg:maven/org.scalafx/scalafx_2.12.0-M5@8.0.102-R11?classifier=sources

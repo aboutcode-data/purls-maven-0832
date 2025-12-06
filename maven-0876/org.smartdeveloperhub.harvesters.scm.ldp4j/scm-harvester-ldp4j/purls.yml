@@ -1,0 +1,4 @@
+- pkg:maven/org.smartdeveloperhub.harvesters.scm.ldp4j/scm-harvester-ldp4j@0.2.0?classifier=sources
+- pkg:maven/org.smartdeveloperhub.harvesters.scm.ldp4j/scm-harvester-ldp4j@0.2.0?type=war
+- pkg:maven/org.smartdeveloperhub.harvesters.scm.ldp4j/scm-harvester-ldp4j@0.3.0
+- pkg:maven/org.smartdeveloperhub.harvesters.scm.ldp4j/scm-harvester-ldp4j@0.3.0?classifier=sources

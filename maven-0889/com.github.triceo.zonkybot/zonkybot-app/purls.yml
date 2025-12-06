@@ -1,0 +1,2 @@
+- pkg:maven/com.github.triceo.zonkybot/zonkybot-app@1.0.0.Beta1
+- pkg:maven/com.github.triceo.zonkybot/zonkybot-app@1.0.0.Beta1?classifier=sources

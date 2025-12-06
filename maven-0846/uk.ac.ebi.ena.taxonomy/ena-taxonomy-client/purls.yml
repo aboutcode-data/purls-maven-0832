@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.ebi.ena.taxonomy/ena-taxonomy-client@2.1.2
+- pkg:maven/uk.ac.ebi.ena.taxonomy/ena-taxonomy-client@2.1.2?classifier=sources

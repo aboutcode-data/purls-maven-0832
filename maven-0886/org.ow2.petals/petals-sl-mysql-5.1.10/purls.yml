@@ -1,2 +1,3 @@
 - pkg:maven/org.ow2.petals/petals-sl-mysql-5.1.10@1.2.0?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-sl-mysql-5.1.10@1.2.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-sl-mysql-5.1.10@1.2.1?classifier=source-release&type=zip

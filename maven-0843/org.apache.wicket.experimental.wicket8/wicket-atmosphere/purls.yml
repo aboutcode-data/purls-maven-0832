@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.wicket.experimental.wicket8/wicket-atmosphere@0.24
+- pkg:maven/org.apache.wicket.experimental.wicket8/wicket-atmosphere@0.24?classifier=sources

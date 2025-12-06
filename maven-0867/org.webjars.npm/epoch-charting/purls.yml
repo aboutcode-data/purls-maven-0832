@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/epoch-charting@0.8.4
+- pkg:maven/org.webjars.npm/epoch-charting@0.8.4?classifier=sources

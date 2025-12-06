@@ -1,0 +1,6 @@
+- pkg:maven/io.verizon.knobs/zookeeper_2.10@3.10.20
+- pkg:maven/io.verizon.knobs/zookeeper_2.10@3.10.20?classifier=sources
+- pkg:maven/io.verizon.knobs/zookeeper_2.10@3.10.21
+- pkg:maven/io.verizon.knobs/zookeeper_2.10@3.10.21?classifier=sources
+- pkg:maven/io.verizon.knobs/zookeeper_2.10@3.10.21a
+- pkg:maven/io.verizon.knobs/zookeeper_2.10@3.10.21a?classifier=sources

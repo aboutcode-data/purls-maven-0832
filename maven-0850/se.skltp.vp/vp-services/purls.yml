@@ -19,3 +19,13 @@
 - pkg:maven/se.skltp.vp/vp-services@2.2.8?classifier=sources
 - pkg:maven/se.skltp.vp/vp-services@2.2.9?classifier=sources
 - pkg:maven/se.skltp.vp/vp-services@2.3.0?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.0-RC1?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.0-RC2?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.0-RC3?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.0-RC4?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.0-RC5?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.0?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.1?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.2?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.3-RC1?classifier=sources
+- pkg:maven/se.skltp.vp/vp-services@3.0.3?classifier=sources

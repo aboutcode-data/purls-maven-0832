@@ -185,6 +185,10 @@
 - pkg:maven/nz.co.gregs/dbvolution@0.9.46?classifier=sources
 - pkg:maven/nz.co.gregs/dbvolution@0.9.47
 - pkg:maven/nz.co.gregs/dbvolution@0.9.47?classifier=sources
+- pkg:maven/nz.co.gregs/dbvolution@0.9.48-Byzanium
+- pkg:maven/nz.co.gregs/dbvolution@0.9.48-Byzanium?classifier=sources
+- pkg:maven/nz.co.gregs/dbvolution@0.9.49
+- pkg:maven/nz.co.gregs/dbvolution@0.9.49?classifier=sources
 - pkg:maven/nz.co.gregs/dbvolution@0.9.4?classifier=sources
 - pkg:maven/nz.co.gregs/dbvolution@0.9.5
 - pkg:maven/nz.co.gregs/dbvolution@0.9.5?classifier=sources
@@ -196,3 +200,7 @@
 - pkg:maven/nz.co.gregs/dbvolution@0.9.8?classifier=sources
 - pkg:maven/nz.co.gregs/dbvolution@0.9.9
 - pkg:maven/nz.co.gregs/dbvolution@0.9.9?classifier=sources
+- pkg:maven/nz.co.gregs/dbvolution@1.0.0
+- pkg:maven/nz.co.gregs/dbvolution@1.0.0?classifier=sources
+- pkg:maven/nz.co.gregs/dbvolution@1.0.1
+- pkg:maven/nz.co.gregs/dbvolution@1.0.1?classifier=sources

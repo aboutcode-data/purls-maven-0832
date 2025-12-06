@@ -1,0 +1,2 @@
+- pkg:maven/de.otto.edison/edison-cache@0.76.0
+- pkg:maven/de.otto.edison/edison-cache@0.76.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.tascape/reactor-ui@1.2.0
+- pkg:maven/com.tascape/reactor-ui@1.2.0?classifier=sources

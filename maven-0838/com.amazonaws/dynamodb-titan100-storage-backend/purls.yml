@@ -1,0 +1,2 @@
+- pkg:maven/com.amazonaws/dynamodb-titan100-storage-backend@1.0.0
+- pkg:maven/com.amazonaws/dynamodb-titan100-storage-backend@1.0.0?classifier=sources

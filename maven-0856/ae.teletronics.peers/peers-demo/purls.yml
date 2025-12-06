@@ -1,0 +1,4 @@
+- pkg:maven/ae.teletronics.peers/peers-demo@0.5.1
+- pkg:maven/ae.teletronics.peers/peers-demo@0.5.1?classifier=sources
+- pkg:maven/ae.teletronics.peers/peers-demo@0.5.2
+- pkg:maven/ae.teletronics.peers/peers-demo@0.5.2?classifier=sources

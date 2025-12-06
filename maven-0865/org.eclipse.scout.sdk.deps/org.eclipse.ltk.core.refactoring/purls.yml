@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ltk.core.refactoring@3.6.200.v20140826-0859
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ltk.core.refactoring@3.6.200.v20140826-0859?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ltk.core.refactoring@3.7.0.v20160419-0705
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ltk.core.refactoring@3.7.0.v20160419-0705?classifier=sources

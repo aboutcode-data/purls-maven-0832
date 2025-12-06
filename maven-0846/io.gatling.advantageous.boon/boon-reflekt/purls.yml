@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling.advantageous.boon/boon-reflekt@0.5.7-RC1
+- pkg:maven/io.gatling.advantageous.boon/boon-reflekt@0.5.7-RC1?classifier=sources

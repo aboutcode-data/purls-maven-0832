@@ -1,0 +1,4 @@
+- pkg:maven/dk.langli/esso@1.0.0
+- pkg:maven/dk.langli/esso@1.0.0?classifier=sources
+- pkg:maven/dk.langli/esso@1.0.1
+- pkg:maven/dk.langli/esso@1.0.1?classifier=sources

@@ -29,3 +29,7 @@
 - pkg:maven/org.jacoco/org.jacoco.report@0.7.4.201502262128?classifier=sources
 - pkg:maven/org.jacoco/org.jacoco.report@0.7.5.201505241946
 - pkg:maven/org.jacoco/org.jacoco.report@0.7.5.201505241946?classifier=sources
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.6.201602180812
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.6.201602180812?classifier=sources
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.7.201606060606
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.7.201606060606?classifier=sources

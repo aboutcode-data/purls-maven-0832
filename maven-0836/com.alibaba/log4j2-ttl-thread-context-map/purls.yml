@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba/log4j2-ttl-thread-context-map@1.1.0
+- pkg:maven/com.alibaba/log4j2-ttl-thread-context-map@1.1.0?classifier=sources

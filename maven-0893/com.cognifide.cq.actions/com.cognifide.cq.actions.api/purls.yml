@@ -1,2 +1,6 @@
 - pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.api@3.0.0
 - pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.api@3.0.0?classifier=sources
+- pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.api@4.0.0
+- pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.api@4.0.0?classifier=sources
+- pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.api@5.0.0
+- pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.api@5.0.0?classifier=sources

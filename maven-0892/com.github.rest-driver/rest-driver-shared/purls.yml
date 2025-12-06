@@ -48,3 +48,11 @@
 - pkg:maven/com.github.rest-driver/rest-driver-shared@1.1.41?classifier=sources
 - pkg:maven/com.github.rest-driver/rest-driver-shared@1.1.42
 - pkg:maven/com.github.rest-driver/rest-driver-shared@1.1.42?classifier=sources
+- pkg:maven/com.github.rest-driver/rest-driver-shared@1.1.43
+- pkg:maven/com.github.rest-driver/rest-driver-shared@1.1.43?classifier=sources
+- pkg:maven/com.github.rest-driver/rest-driver-shared@1.1.44
+- pkg:maven/com.github.rest-driver/rest-driver-shared@1.1.44?classifier=sources
+- pkg:maven/com.github.rest-driver/rest-driver-shared@1.1.45
+- pkg:maven/com.github.rest-driver/rest-driver-shared@1.1.45?classifier=sources
+- pkg:maven/com.github.rest-driver/rest-driver-shared@2.0.0
+- pkg:maven/com.github.rest-driver/rest-driver-shared@2.0.0?classifier=sources

@@ -5,3 +5,9 @@
 - pkg:maven/org.jboss.windup.ast/windup-java-ast-tests@2.4.0.CR3
 - pkg:maven/org.jboss.windup.ast/windup-java-ast-tests@2.4.0.Final
 - pkg:maven/org.jboss.windup.ast/windup-java-ast-tests@2.4.1.Final
+- pkg:maven/org.jboss.windup.ast/windup-java-ast-tests@2.5.0.CR1
+- pkg:maven/org.jboss.windup.ast/windup-java-ast-tests@2.5.0.CR2
+- pkg:maven/org.jboss.windup.ast/windup-java-ast-tests@2.5.0.CR3
+- pkg:maven/org.jboss.windup.ast/windup-java-ast-tests@2.5.0.Final
+- pkg:maven/org.jboss.windup.ast/windup-java-ast-tests@2.6.0.Final
+- pkg:maven/org.jboss.windup.ast/windup-java-ast-tests@2.7.0.Final

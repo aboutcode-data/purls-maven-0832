@@ -6,3 +6,5 @@
 - pkg:maven/com.netflix.netflix-commons/netflix-commons-util@0.1.2?classifier=sources
 - pkg:maven/com.netflix.netflix-commons/netflix-commons-util@0.2.0
 - pkg:maven/com.netflix.netflix-commons/netflix-commons-util@0.2.0?classifier=sources
+- pkg:maven/com.netflix.netflix-commons/netflix-commons-util@0.3.0
+- pkg:maven/com.netflix.netflix-commons/netflix-commons-util@0.3.0?classifier=sources

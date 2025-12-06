@@ -42,3 +42,5 @@
 - pkg:maven/com.jetdrone/yoke.middleware.pac4j@2.0.8?classifier=sources
 - pkg:maven/com.jetdrone/yoke.middleware.pac4j@2.0.9
 - pkg:maven/com.jetdrone/yoke.middleware.pac4j@2.0.9?classifier=sources
+- pkg:maven/com.jetdrone/yoke.middleware.pac4j@3.0.0
+- pkg:maven/com.jetdrone/yoke.middleware.pac4j@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.ws/jbossws-wildfly902-server-integration@5.1.1.Final
+- pkg:maven/org.jboss.ws/jbossws-wildfly902-server-integration@5.1.1.Final?classifier=sources

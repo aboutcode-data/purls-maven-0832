@@ -1,0 +1,4 @@
+- pkg:maven/com.github.salat/salat-core_2.11@1.10.0
+- pkg:maven/com.github.salat/salat-core_2.11@1.10.0?classifier=sources
+- pkg:maven/com.github.salat/salat-core_2.11@1.9.10
+- pkg:maven/com.github.salat/salat-core_2.11@1.9.10?classifier=sources

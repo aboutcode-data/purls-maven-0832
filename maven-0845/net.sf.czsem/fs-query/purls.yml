@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.czsem/fs-query@3.0-alpha1
+- pkg:maven/net.sf.czsem/fs-query@3.0-alpha1?classifier=sources

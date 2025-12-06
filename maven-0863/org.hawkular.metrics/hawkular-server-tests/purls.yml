@@ -1,0 +1,6 @@
+- pkg:maven/org.hawkular.metrics/hawkular-server-tests@0.12.0.Final
+- pkg:maven/org.hawkular.metrics/hawkular-server-tests@0.12.0.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-server-tests@0.12.1.Final
+- pkg:maven/org.hawkular.metrics/hawkular-server-tests@0.12.1.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-server-tests@0.13.0.Final
+- pkg:maven/org.hawkular.metrics/hawkular-server-tests@0.13.0.Final?classifier=sources

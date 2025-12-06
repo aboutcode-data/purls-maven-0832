@@ -1,0 +1,2 @@
+- pkg:maven/com.github.brunoabdon/abd-commons-dal@1.2
+- pkg:maven/com.github.brunoabdon/abd-commons-dal@1.2?classifier=sources

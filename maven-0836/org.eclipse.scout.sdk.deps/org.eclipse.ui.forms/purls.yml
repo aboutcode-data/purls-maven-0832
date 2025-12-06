@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.forms@3.6.200.v20150506-2029
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.forms@3.6.200.v20150506-2029?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.forms@3.7.0.v20160518-1929
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.forms@3.7.0.v20160518-1929?classifier=sources

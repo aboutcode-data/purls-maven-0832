@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ignaciotcrespo/android-backdoor-bdd-annotations@0.0.1
+- pkg:maven/com.github.ignaciotcrespo/android-backdoor-bdd-annotations@0.0.1?classifier=sources

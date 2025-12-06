@@ -32,7 +32,17 @@
 - pkg:maven/com.linkedin.pegasus/restli-example-client@1.9.5?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-example-client@2.1.0
 - pkg:maven/com.linkedin.pegasus/restli-example-client@2.1.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-example-client@2.12.7
+- pkg:maven/com.linkedin.pegasus/restli-example-client@2.12.7?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-example-client@2.2.5
 - pkg:maven/com.linkedin.pegasus/restli-example-client@2.2.5?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-example-client@2.6.0
 - pkg:maven/com.linkedin.pegasus/restli-example-client@2.6.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-example-client@3.1.1
+- pkg:maven/com.linkedin.pegasus/restli-example-client@3.1.1?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-example-client@3.1.2
+- pkg:maven/com.linkedin.pegasus/restli-example-client@3.1.2?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-example-client@5.0.19
+- pkg:maven/com.linkedin.pegasus/restli-example-client@5.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-example-client@6.0.12
+- pkg:maven/com.linkedin.pegasus/restli-example-client@6.0.12?classifier=sources

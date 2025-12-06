@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/event-system-rest-client@3.6.0
+- pkg:maven/de.alpharogroup/event-system-rest-client@3.6.0?classifier=sources

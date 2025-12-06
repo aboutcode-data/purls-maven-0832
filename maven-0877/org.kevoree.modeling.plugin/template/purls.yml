@@ -1,0 +1,2 @@
+- pkg:maven/org.kevoree.modeling.plugin/template@4.27.0
+- pkg:maven/org.kevoree.modeling.plugin/template@4.27.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.connexta.libero.distribution/libero-distribution@1.0.1?classifier=sources
+- pkg:maven/com.connexta.libero.distribution/libero-distribution@1.1.0?classifier=sources

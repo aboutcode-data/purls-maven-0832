@@ -1,0 +1,2 @@
+- pkg:maven/ca.bbd/build-tools@0.1.0
+- pkg:maven/ca.bbd/build-tools@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.apigee.trireme/apigee-edge-like-launcher@0.8.9
+- pkg:maven/io.apigee.trireme/apigee-edge-like-launcher@0.8.9?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.1.CR2?classifier=sources
 - pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.1.Final
 - pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.1.Final?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.2.Final
+- pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.2.Final?classifier=sources

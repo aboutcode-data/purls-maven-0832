@@ -1,0 +1,2 @@
+- pkg:maven/com.manywho.sdk/sdk-example@2.0.0-SNAPSHOT-7
+- pkg:maven/com.manywho.sdk/sdk-example@2.0.0-SNAPSHOT-7?classifier=sources

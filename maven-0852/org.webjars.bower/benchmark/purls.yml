@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/benchmark@1.0.0
 - pkg:maven/org.webjars.bower/benchmark@1.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/benchmark@2.0.0
+- pkg:maven/org.webjars.bower/benchmark@2.0.0?classifier=sources

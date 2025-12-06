@@ -8,3 +8,5 @@
 - pkg:maven/guru.benson/pinch-library@1.2.2?type=aar
 - pkg:maven/guru.benson/pinch-library@1.2?classifier=sources
 - pkg:maven/guru.benson/pinch-library@1.2?type=aar
+- pkg:maven/guru.benson/pinch-library@1.4?classifier=sources
+- pkg:maven/guru.benson/pinch-library@1.4?type=aar

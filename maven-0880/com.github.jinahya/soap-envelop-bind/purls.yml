@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jinahya/soap-envelop-bind@0.1
+- pkg:maven/com.github.jinahya/soap-envelop-bind@0.1?classifier=sources

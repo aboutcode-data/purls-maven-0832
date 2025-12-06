@@ -1,0 +1,2 @@
+- pkg:maven/de.dentrassi.eclipse.neoscada.hmi/org.eclipse.scada.ca.ui.importer@0.3.0
+- pkg:maven/de.dentrassi.eclipse.neoscada.hmi/org.eclipse.scada.ca.ui.importer@0.3.0?classifier=sources

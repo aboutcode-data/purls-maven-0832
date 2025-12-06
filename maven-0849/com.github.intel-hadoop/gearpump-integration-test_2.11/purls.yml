@@ -1,0 +1,2 @@
+- pkg:maven/com.github.intel-hadoop/gearpump-integration-test_2.11@0.7.0
+- pkg:maven/com.github.intel-hadoop/gearpump-integration-test_2.11@0.7.0?classifier=sources

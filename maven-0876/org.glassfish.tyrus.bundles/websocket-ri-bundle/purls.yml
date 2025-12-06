@@ -4,9 +4,13 @@
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.10
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.10?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.11
+- pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.11.1
+- pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.11.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.11?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.12
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.12?classifier=sources
+- pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.13
+- pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.13?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.2
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.2.1

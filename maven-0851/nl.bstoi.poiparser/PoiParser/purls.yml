@@ -24,3 +24,5 @@
 - pkg:maven/nl.bstoi.poiparser/PoiParser@3.1?classifier=sources
 - pkg:maven/nl.bstoi.poiparser/PoiParser@3.2
 - pkg:maven/nl.bstoi.poiparser/PoiParser@3.2?classifier=sources
+- pkg:maven/nl.bstoi.poiparser/PoiParser@3.3
+- pkg:maven/nl.bstoi.poiparser/PoiParser@3.3?classifier=sources

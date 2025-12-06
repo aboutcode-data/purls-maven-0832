@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-telephone-input@3.5.0
+- pkg:maven/org.webjars.npm/react-telephone-input@3.5.0?classifier=sources

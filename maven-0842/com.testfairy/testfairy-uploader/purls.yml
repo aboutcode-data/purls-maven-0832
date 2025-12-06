@@ -1,0 +1,10 @@
+- pkg:maven/com.testfairy/testfairy-uploader@1.0.0
+- pkg:maven/com.testfairy/testfairy-uploader@1.0.0?classifier=sources
+- pkg:maven/com.testfairy/testfairy-uploader@1.1.0
+- pkg:maven/com.testfairy/testfairy-uploader@1.1.0?classifier=sources
+- pkg:maven/com.testfairy/testfairy-uploader@1.1.1
+- pkg:maven/com.testfairy/testfairy-uploader@1.1.1?classifier=sources
+- pkg:maven/com.testfairy/testfairy-uploader@1.1.2
+- pkg:maven/com.testfairy/testfairy-uploader@1.1.2?classifier=sources
+- pkg:maven/com.testfairy/testfairy-uploader@1.1.6
+- pkg:maven/com.testfairy/testfairy-uploader@1.1.6?classifier=sources

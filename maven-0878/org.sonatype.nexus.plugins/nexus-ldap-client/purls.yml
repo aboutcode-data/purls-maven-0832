@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.nexus.plugins/nexus-ldap-client@3.0.0-b2015020701
+- pkg:maven/org.sonatype.nexus.plugins/nexus-ldap-client@3.0.0-b2015020701?classifier=sources

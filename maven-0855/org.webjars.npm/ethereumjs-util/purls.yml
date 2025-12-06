@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ethereumjs-util@4.5.0
+- pkg:maven/org.webjars.npm/ethereumjs-util@4.5.0?classifier=sources

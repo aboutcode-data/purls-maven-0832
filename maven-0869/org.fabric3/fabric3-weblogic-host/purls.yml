@@ -6,3 +6,5 @@
 - pkg:maven/org.fabric3/fabric3-weblogic-host@2.5.2?type=war
 - pkg:maven/org.fabric3/fabric3-weblogic-host@2.5.3?classifier=sources
 - pkg:maven/org.fabric3/fabric3-weblogic-host@2.5.3?type=war
+- pkg:maven/org.fabric3/fabric3-weblogic-host@3.0.0?classifier=sources
+- pkg:maven/org.fabric3/fabric3-weblogic-host@3.0.0?type=war

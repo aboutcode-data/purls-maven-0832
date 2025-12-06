@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/stompjs@2.3.3
+- pkg:maven/org.webjars.npm/stompjs@2.3.3?classifier=sources

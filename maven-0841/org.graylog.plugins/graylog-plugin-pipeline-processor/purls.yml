@@ -1,0 +1,4 @@
+- pkg:maven/org.graylog.plugins/graylog-plugin-pipeline-processor@1.1.0
+- pkg:maven/org.graylog.plugins/graylog-plugin-pipeline-processor@1.1.0?classifier=sources
+- pkg:maven/org.graylog.plugins/graylog-plugin-pipeline-processor@1.1.1
+- pkg:maven/org.graylog.plugins/graylog-plugin-pipeline-processor@1.1.1?classifier=sources

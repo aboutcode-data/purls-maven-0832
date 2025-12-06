@@ -16,3 +16,4 @@
 - pkg:maven/com.helpshift/android-aar@3.9.1?type=aar
 - pkg:maven/com.helpshift/android-aar@4.1.0?type=aar
 - pkg:maven/com.helpshift/android-aar@4.1.1-support?type=aar
+- pkg:maven/com.helpshift/android-aar@4.2.0-support?type=aar

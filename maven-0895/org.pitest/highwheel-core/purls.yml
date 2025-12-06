@@ -1,2 +1,4 @@
 - pkg:maven/org.pitest/highwheel-core@1.0
 - pkg:maven/org.pitest/highwheel-core@1.0?classifier=sources
+- pkg:maven/org.pitest/highwheel-core@1.2
+- pkg:maven/org.pitest/highwheel-core@1.2?classifier=sources

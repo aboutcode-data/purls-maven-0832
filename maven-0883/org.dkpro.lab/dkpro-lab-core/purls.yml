@@ -1,0 +1,2 @@
+- pkg:maven/org.dkpro.lab/dkpro-lab-core@0.12.0
+- pkg:maven/org.dkpro.lab/dkpro-lab-core@0.12.0?classifier=sources

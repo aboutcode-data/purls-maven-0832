@@ -27,6 +27,10 @@
 - pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.1-RC3?classifier=sources
 - pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.1-RC5
 - pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.1-RC5?classifier=sources
+- pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.11
+- pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.11?classifier=sources
+- pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.12
+- pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.12?classifier=sources
 - pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.1?classifier=sources
 - pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.2
 - pkg:maven/com.typesafe.sbt/incremental-compiler@0.13.2-M1

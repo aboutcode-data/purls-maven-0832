@@ -10,3 +10,5 @@
 - pkg:maven/com.mycila.guice.extensions/mycila-guice-service@3.5.ga?classifier=sources
 - pkg:maven/com.mycila.guice.extensions/mycila-guice-service@3.6.ga
 - pkg:maven/com.mycila.guice.extensions/mycila-guice-service@3.6.ga?classifier=sources
+- pkg:maven/com.mycila.guice.extensions/mycila-guice-service@4.0.rc1
+- pkg:maven/com.mycila.guice.extensions/mycila-guice-service@4.0.rc1?classifier=sources

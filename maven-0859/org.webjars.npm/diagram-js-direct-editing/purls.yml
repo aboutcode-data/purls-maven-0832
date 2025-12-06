@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/diagram-js-direct-editing@0.15.1
+- pkg:maven/org.webjars.npm/diagram-js-direct-editing@0.15.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pw.prok/kDiff@2.0.0?classifier=sources
+- pkg:maven/pw.prok/kDiff@2.1.0?classifier=sources

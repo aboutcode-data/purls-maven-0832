@@ -64,3 +64,5 @@
 - pkg:maven/com.helpshift/android-sdk@4.1.0?classifier=sources
 - pkg:maven/com.helpshift/android-sdk@4.1.1-support
 - pkg:maven/com.helpshift/android-sdk@4.1.1-support?classifier=sources
+- pkg:maven/com.helpshift/android-sdk@4.2.0-support
+- pkg:maven/com.helpshift/android-sdk@4.2.0-support?classifier=sources

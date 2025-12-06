@@ -20,9 +20,17 @@
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.5.2-rc3
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.5.2-rc3?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.5.2?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.0
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.0-rc1
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.0-rc1?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.0-rc2
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.0-rc2?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.0-rc3
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.0-rc3?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.0?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.1
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.1-rc1
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.1-rc1?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.1-rc2
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.1-rc2?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.6.1?classifier=sources

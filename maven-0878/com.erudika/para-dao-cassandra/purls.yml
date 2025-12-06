@@ -1,0 +1,4 @@
+- pkg:maven/com.erudika/para-dao-cassandra@1.20.0
+- pkg:maven/com.erudika/para-dao-cassandra@1.20.0?classifier=sources
+- pkg:maven/com.erudika/para-dao-cassandra@1.20.1
+- pkg:maven/com.erudika/para-dao-cassandra@1.20.1?classifier=sources

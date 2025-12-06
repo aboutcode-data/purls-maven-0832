@@ -1,0 +1,4 @@
+- pkg:maven/org.infinispan/infinispan-avro-hotrod@1.0
+- pkg:maven/org.infinispan/infinispan-avro-hotrod@1.0.Final
+- pkg:maven/org.infinispan/infinispan-avro-hotrod@1.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-avro-hotrod@1.0?classifier=sources

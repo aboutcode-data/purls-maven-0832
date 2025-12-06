@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tototoshi/scala-fixture-play_2.11@0.2.0
+- pkg:maven/com.github.tototoshi/scala-fixture-play_2.11@0.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jquery.stellar@0.6.2
+- pkg:maven/org.webjars.npm/jquery.stellar@0.6.2?classifier=sources

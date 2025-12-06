@@ -1,0 +1,2 @@
+- pkg:maven/com.divinecloud/dc-common@1.4.1
+- pkg:maven/com.divinecloud/dc-common@1.4.1?classifier=sources

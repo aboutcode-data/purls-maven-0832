@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/shelljs@0.3.0
+- pkg:maven/org.webjars.npm/shelljs@0.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/shelljs@0.6.0
+- pkg:maven/org.webjars.npm/shelljs@0.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/shelljs@0.7.0
+- pkg:maven/org.webjars.npm/shelljs@0.7.0?classifier=sources

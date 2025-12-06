@@ -1,0 +1,4 @@
+- pkg:maven/me.aflak.libraries/bluetooth@1.2.4?classifier=sources
+- pkg:maven/me.aflak.libraries/bluetooth@1.2.4?type=aar
+- pkg:maven/me.aflak.libraries/bluetooth@1.2?classifier=sources
+- pkg:maven/me.aflak.libraries/bluetooth@1.2?type=aar

@@ -1,5 +1,15 @@
 - pkg:maven/org.everrest/everrest-integration-spring@1.10.0
 - pkg:maven/org.everrest/everrest-integration-spring@1.10.0?classifier=sources
+- pkg:maven/org.everrest/everrest-integration-spring@1.11.0
+- pkg:maven/org.everrest/everrest-integration-spring@1.11.0?classifier=sources
+- pkg:maven/org.everrest/everrest-integration-spring@1.12.0
+- pkg:maven/org.everrest/everrest-integration-spring@1.12.0?classifier=sources
+- pkg:maven/org.everrest/everrest-integration-spring@1.12.1
+- pkg:maven/org.everrest/everrest-integration-spring@1.12.1?classifier=sources
+- pkg:maven/org.everrest/everrest-integration-spring@1.12.2
+- pkg:maven/org.everrest/everrest-integration-spring@1.12.2?classifier=sources
+- pkg:maven/org.everrest/everrest-integration-spring@1.12.3
+- pkg:maven/org.everrest/everrest-integration-spring@1.12.3?classifier=sources
 - pkg:maven/org.everrest/everrest-integration-spring@1.4.0
 - pkg:maven/org.everrest/everrest-integration-spring@1.4.0?classifier=sources
 - pkg:maven/org.everrest/everrest-integration-spring@1.5.0

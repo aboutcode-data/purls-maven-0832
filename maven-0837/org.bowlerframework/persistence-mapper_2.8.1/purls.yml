@@ -1,0 +1,14 @@
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.2
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.2.1
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.2.1?classifier=sources
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.2.2
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.2.2?classifier=sources
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.2?classifier=sources
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.3
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.3.1
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.3.1?classifier=sources
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.3?classifier=sources
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.4
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.4.1
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.4.1?classifier=sources
+- pkg:maven/org.bowlerframework/persistence-mapper_2.8.1@0.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.dataart/spreadsheetanalytics-functions@0.7.0.3.dev
+- pkg:maven/com.dataart/spreadsheetanalytics-functions@0.7.0.3.dev?classifier=sources
+- pkg:maven/com.dataart/spreadsheetanalytics-functions@0.7.0.4.dev
+- pkg:maven/com.dataart/spreadsheetanalytics-functions@0.7.0.4.dev?classifier=sources
+- pkg:maven/com.dataart/spreadsheetanalytics-functions@0.7.0.5.dev
+- pkg:maven/com.dataart/spreadsheetanalytics-functions@0.7.0.5.dev?classifier=sources

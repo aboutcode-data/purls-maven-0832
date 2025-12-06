@@ -36,3 +36,11 @@
 - pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.5.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.6.0
 - pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.6.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.7.0
+- pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.7.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.8.0
+- pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.8.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.9.0
+- pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.9.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.9.1
+- pkg:maven/org.ops4j.pax.exam/exam-maven-plugin@4.9.1?classifier=sources

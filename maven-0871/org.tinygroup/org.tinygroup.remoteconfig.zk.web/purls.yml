@@ -1,0 +1,2 @@
+- pkg:maven/org.tinygroup/org.tinygroup.remoteconfig.zk.web@2.3.0
+- pkg:maven/org.tinygroup/org.tinygroup.remoteconfig.zk.web@2.3.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.npm/plugin-typescript@4.0.10
+- pkg:maven/org.webjars.npm/plugin-typescript@4.0.10?classifier=sources
+- pkg:maven/org.webjars.npm/plugin-typescript@4.0.16
+- pkg:maven/org.webjars.npm/plugin-typescript@4.0.16?classifier=sources
+- pkg:maven/org.webjars.npm/plugin-typescript@4.0.17
+- pkg:maven/org.webjars.npm/plugin-typescript@4.0.17?classifier=sources
+- pkg:maven/org.webjars.npm/plugin-typescript@5.1.2
+- pkg:maven/org.webjars.npm/plugin-typescript@5.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/plugin-typescript@5.2.4
+- pkg:maven/org.webjars.npm/plugin-typescript@5.2.4?classifier=sources

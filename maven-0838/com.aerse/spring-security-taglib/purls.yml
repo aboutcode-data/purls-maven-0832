@@ -1,0 +1,2 @@
+- pkg:maven/com.aerse/spring-security-taglib@1.1
+- pkg:maven/com.aerse/spring-security-taglib@1.1?classifier=sources

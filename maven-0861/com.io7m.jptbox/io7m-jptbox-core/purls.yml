@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jptbox/io7m-jptbox-core@0.1.0
+- pkg:maven/com.io7m.jptbox/io7m-jptbox-core@0.1.0?classifier=sources

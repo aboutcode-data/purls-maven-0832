@@ -1,2 +1,4 @@
 - pkg:maven/net.hamnaberg.rest/scala-json-collection_2.11@2.3
 - pkg:maven/net.hamnaberg.rest/scala-json-collection_2.11@2.3?classifier=sources
+- pkg:maven/net.hamnaberg.rest/scala-json-collection_2.11@2.4
+- pkg:maven/net.hamnaberg.rest/scala-json-collection_2.11@2.4?classifier=sources

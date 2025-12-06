@@ -1,0 +1,2 @@
+- pkg:maven/org.terracotta.management/cluster-messaging@2.5.0
+- pkg:maven/org.terracotta.management/cluster-messaging@2.5.0?classifier=sources

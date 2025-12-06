@@ -1,0 +1,2 @@
+- pkg:maven/com.jonganhf.horizontaltimeline/HorizontalTimeline@0.0.1?classifier=sources
+- pkg:maven/com.jonganhf.horizontaltimeline/HorizontalTimeline@0.0.1?type=aar

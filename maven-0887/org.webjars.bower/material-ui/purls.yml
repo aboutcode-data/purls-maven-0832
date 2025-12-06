@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.bower/material-ui@0.13.3
 - pkg:maven/org.webjars.bower/material-ui@0.13.3?classifier=sources
+- pkg:maven/org.webjars.bower/material-ui@0.14.4
+- pkg:maven/org.webjars.bower/material-ui@0.14.4?classifier=sources
+- pkg:maven/org.webjars.bower/material-ui@0.15.0
+- pkg:maven/org.webjars.bower/material-ui@0.15.0?classifier=sources

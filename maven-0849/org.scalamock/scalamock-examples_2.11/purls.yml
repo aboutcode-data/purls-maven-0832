@@ -12,3 +12,5 @@
 - pkg:maven/org.scalamock/scalamock-examples_2.11@3.2.2
 - pkg:maven/org.scalamock/scalamock-examples_2.11@3.2.2?classifier=sources
 - pkg:maven/org.scalamock/scalamock-examples_2.11@3.2?classifier=sources
+- pkg:maven/org.scalamock/scalamock-examples_2.11@3.3.0
+- pkg:maven/org.scalamock/scalamock-examples_2.11@3.3.0?classifier=sources

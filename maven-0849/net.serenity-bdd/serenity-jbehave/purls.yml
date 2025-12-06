@@ -26,3 +26,17 @@
 - pkg:maven/net.serenity-bdd/serenity-jbehave@1.0.9?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-jbehave@1.1.0
 - pkg:maven/net.serenity-bdd/serenity-jbehave@1.1.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.11.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.11.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.12.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.12.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.13.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.13.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.5.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.5.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.6.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.6.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.8.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.8.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.9.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.9.0?classifier=sources

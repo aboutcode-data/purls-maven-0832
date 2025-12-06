@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rjolly/pdf-renderer@140
+- pkg:maven/com.github.rjolly/pdf-renderer@140?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/uk.ac.cam.ch.opsin/opsin-inchi@1.6.0?classifier=sources
 - pkg:maven/uk.ac.cam.ch.opsin/opsin-inchi@2.0.0
 - pkg:maven/uk.ac.cam.ch.opsin/opsin-inchi@2.0.0?classifier=sources
+- pkg:maven/uk.ac.cam.ch.opsin/opsin-inchi@2.1.0
+- pkg:maven/uk.ac.cam.ch.opsin/opsin-inchi@2.1.0?classifier=sources

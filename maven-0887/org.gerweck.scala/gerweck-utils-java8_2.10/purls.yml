@@ -16,3 +16,9 @@
 - pkg:maven/org.gerweck.scala/gerweck-utils-java8_2.10@1.5.7?classifier=sources
 - pkg:maven/org.gerweck.scala/gerweck-utils-java8_2.10@1.5.8
 - pkg:maven/org.gerweck.scala/gerweck-utils-java8_2.10@1.5.8?classifier=sources
+- pkg:maven/org.gerweck.scala/gerweck-utils-java8_2.10@1.6.0
+- pkg:maven/org.gerweck.scala/gerweck-utils-java8_2.10@1.6.0?classifier=sources
+- pkg:maven/org.gerweck.scala/gerweck-utils-java8_2.10@1.7.0
+- pkg:maven/org.gerweck.scala/gerweck-utils-java8_2.10@1.7.0?classifier=sources
+- pkg:maven/org.gerweck.scala/gerweck-utils-java8_2.10@1.7.1
+- pkg:maven/org.gerweck.scala/gerweck-utils-java8_2.10@1.7.1?classifier=sources

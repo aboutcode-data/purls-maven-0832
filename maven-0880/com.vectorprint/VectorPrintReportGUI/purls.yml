@@ -1,0 +1,10 @@
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@1.1
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@1.1?classifier=sources
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@1.7
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@1.7?classifier=sources
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@1.8
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@1.8?classifier=sources
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@2.1
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@2.1?classifier=sources
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@3.0
+- pkg:maven/com.vectorprint/VectorPrintReportGUI@3.0?classifier=sources

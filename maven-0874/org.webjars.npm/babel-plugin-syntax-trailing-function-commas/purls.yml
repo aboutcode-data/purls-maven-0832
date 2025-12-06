@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-trailing-function-commas@6.3.13
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-trailing-function-commas@6.3.13?classifier=sources

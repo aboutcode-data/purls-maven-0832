@@ -12,3 +12,5 @@
 - pkg:maven/org.infinispan.arquillian.container/infinispan-arquillian-impl@1.2.0.Alpha2?classifier=sources
 - pkg:maven/org.infinispan.arquillian.container/infinispan-arquillian-impl@1.2.0.Alpha3
 - pkg:maven/org.infinispan.arquillian.container/infinispan-arquillian-impl@1.2.0.Alpha3?classifier=sources
+- pkg:maven/org.infinispan.arquillian.container/infinispan-arquillian-impl@1.2.0.Beta1
+- pkg:maven/org.infinispan.arquillian.container/infinispan-arquillian-impl@1.2.0.Beta1?classifier=sources

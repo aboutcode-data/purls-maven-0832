@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zouyq/common@2.2
+- pkg:maven/com.github.zouyq/common@2.2?classifier=sources

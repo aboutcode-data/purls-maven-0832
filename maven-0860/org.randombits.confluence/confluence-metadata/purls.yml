@@ -27,3 +27,4 @@
 - pkg:maven/org.randombits.confluence/confluence-metadata@8.0.0?classifier=sources
 - pkg:maven/org.randombits.confluence/confluence-metadata@8.0.1?classifier=sources
 - pkg:maven/org.randombits.confluence/confluence-metadata@8.0.2?classifier=sources
+- pkg:maven/org.randombits.confluence/confluence-metadata@8.1.0?classifier=sources

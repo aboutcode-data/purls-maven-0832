@@ -83,6 +83,16 @@
 - pkg:maven/org.testng/testng@6.8.8
 - pkg:maven/org.testng/testng@6.8.8?classifier=sources
 - pkg:maven/org.testng/testng@6.8?classifier=sources
+- pkg:maven/org.testng/testng@6.9.10
+- pkg:maven/org.testng/testng@6.9.10?classifier=sources
+- pkg:maven/org.testng/testng@6.9.13.3
+- pkg:maven/org.testng/testng@6.9.13.3?classifier=sources
+- pkg:maven/org.testng/testng@6.9.13.4
+- pkg:maven/org.testng/testng@6.9.13.4?classifier=sources
+- pkg:maven/org.testng/testng@6.9.13.5
+- pkg:maven/org.testng/testng@6.9.13.5?classifier=sources
+- pkg:maven/org.testng/testng@6.9.13.6
+- pkg:maven/org.testng/testng@6.9.13.6?classifier=sources
 - pkg:maven/org.testng/testng@6.9.4
 - pkg:maven/org.testng/testng@6.9.4?classifier=sources
 - pkg:maven/org.testng/testng@6.9.5

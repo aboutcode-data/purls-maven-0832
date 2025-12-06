@@ -1,0 +1,2 @@
+- pkg:maven/com.smartydroid/android-mupdf@1.9a%2B%28git%2Bbuild%29?classifier=sources
+- pkg:maven/com.smartydroid/android-mupdf@1.9a%2B%28git%2Bbuild%29?type=aar

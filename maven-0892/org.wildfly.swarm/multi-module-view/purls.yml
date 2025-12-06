@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.swarm/multi-module-view@2016.10.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/multi-module-view@2016.10.0?type=war

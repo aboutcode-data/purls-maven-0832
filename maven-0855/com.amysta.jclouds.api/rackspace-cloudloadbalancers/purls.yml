@@ -1,0 +1,2 @@
+- pkg:maven/com.amysta.jclouds.api/rackspace-cloudloadbalancers@2.0.0
+- pkg:maven/com.amysta.jclouds.api/rackspace-cloudloadbalancers@2.0.0?classifier=sources

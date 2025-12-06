@@ -32,3 +32,5 @@
 - pkg:maven/com.github.nill14.utils/java8-utils@0.3.1?classifier=sources
 - pkg:maven/com.github.nill14.utils/java8-utils@0.3.3
 - pkg:maven/com.github.nill14.utils/java8-utils@0.3.3?classifier=sources
+- pkg:maven/com.github.nill14.utils/java8-utils@0.4.0
+- pkg:maven/com.github.nill14.utils/java8-utils@0.4.0?classifier=sources

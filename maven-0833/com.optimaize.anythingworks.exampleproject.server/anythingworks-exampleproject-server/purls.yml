@@ -1,0 +1,2 @@
+- pkg:maven/com.optimaize.anythingworks.exampleproject.server/anythingworks-exampleproject-server@0.5
+- pkg:maven/com.optimaize.anythingworks.exampleproject.server/anythingworks-exampleproject-server@0.5?classifier=sources

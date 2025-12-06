@@ -1,0 +1,6 @@
+- pkg:maven/com.torodb/common@0.40
+- pkg:maven/com.torodb/common@0.40-alpha2
+- pkg:maven/com.torodb/common@0.40-alpha2?classifier=sources
+- pkg:maven/com.torodb/common@0.40-alpha3
+- pkg:maven/com.torodb/common@0.40-alpha3?classifier=sources
+- pkg:maven/com.torodb/common@0.40?classifier=sources

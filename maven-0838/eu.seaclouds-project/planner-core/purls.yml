@@ -1,2 +1,4 @@
 - pkg:maven/eu.seaclouds-project/planner-core@0.7.0-M19
 - pkg:maven/eu.seaclouds-project/planner-core@0.7.0-M19?classifier=sources
+- pkg:maven/eu.seaclouds-project/planner-core@1.0.0
+- pkg:maven/eu.seaclouds-project/planner-core@1.0.0?classifier=sources

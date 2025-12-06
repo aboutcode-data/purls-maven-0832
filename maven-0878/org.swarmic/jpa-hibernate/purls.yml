@@ -1,0 +1,2 @@
+- pkg:maven/org.swarmic/jpa-hibernate@1.0.0.Alpha1
+- pkg:maven/org.swarmic/jpa-hibernate@1.0.0.Alpha1?classifier=sources

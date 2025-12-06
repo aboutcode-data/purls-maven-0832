@@ -1,0 +1,2 @@
+- pkg:maven/com.theworkshop/swagger-compat-spec-parser@1.0.22
+- pkg:maven/com.theworkshop/swagger-compat-spec-parser@1.0.22?classifier=sources

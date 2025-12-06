@@ -1,2 +1,4 @@
 - pkg:maven/fr.norad.jaxrs.doc/jaxrs-doc-swagger@0.2
 - pkg:maven/fr.norad.jaxrs.doc/jaxrs-doc-swagger@0.2?classifier=sources
+- pkg:maven/fr.norad.jaxrs.doc/jaxrs-doc-swagger@0.3
+- pkg:maven/fr.norad.jaxrs.doc/jaxrs-doc-swagger@0.3?classifier=sources

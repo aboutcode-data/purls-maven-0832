@@ -1,0 +1,4 @@
+- pkg:maven/run.smt.f/definition@1.0.0
+- pkg:maven/run.smt.f/definition@1.0.0?classifier=sources
+- pkg:maven/run.smt.f/definition@1.1.0
+- pkg:maven/run.smt.f/definition@1.1.0?classifier=sources

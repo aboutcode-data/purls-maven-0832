@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.metrics/automated-metrics-api@1.0.3.Final
+- pkg:maven/org.jboss.metrics/automated-metrics-api@1.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.metrics/automated-metrics-api@1.0.4.Final
+- pkg:maven/org.jboss.metrics/automated-metrics-api@1.0.4.Final?classifier=sources

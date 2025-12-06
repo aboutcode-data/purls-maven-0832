@@ -1,2 +1,4 @@
 - pkg:maven/io.packagecloud/client@1.0.7
 - pkg:maven/io.packagecloud/client@1.0.7?classifier=sources
+- pkg:maven/io.packagecloud/client@2.0.0
+- pkg:maven/io.packagecloud/client@2.0.0?classifier=sources

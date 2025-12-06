@@ -1,0 +1,2 @@
+- pkg:maven/com.thesett.archetype/dropwizard_archetype@0.9.102?classifier=sources
+- pkg:maven/com.thesett.archetype/dropwizard_archetype@0.9.84?classifier=sources

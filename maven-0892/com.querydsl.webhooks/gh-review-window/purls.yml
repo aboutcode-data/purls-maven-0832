@@ -1,0 +1,2 @@
+- pkg:maven/com.querydsl.webhooks/gh-review-window@0.1
+- pkg:maven/com.querydsl.webhooks/gh-review-window@0.1?classifier=sources

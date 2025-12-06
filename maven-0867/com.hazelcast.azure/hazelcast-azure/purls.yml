@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast.azure/hazelcast-azure@1.0-RC1
+- pkg:maven/com.hazelcast.azure/hazelcast-azure@1.0-RC1?classifier=sources

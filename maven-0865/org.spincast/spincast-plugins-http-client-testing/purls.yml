@@ -1,0 +1,3 @@
+- pkg:maven/org.spincast/spincast-plugins-http-client-testing@0.9.7
+- pkg:maven/org.spincast/spincast-plugins-http-client-testing@0.9.8
+- pkg:maven/org.spincast/spincast-plugins-http-client-testing@0.9.9

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.gemini.blueprint/gemini-blueprint-test@2.0.0.RELEASE
+- pkg:maven/org.eclipse.gemini.blueprint/gemini-blueprint-test@2.0.0.RELEASE?classifier=sources

@@ -8,3 +8,9 @@
 - pkg:maven/org.slieb/kute@0.6?classifier=sources
 - pkg:maven/org.slieb/kute@0.7
 - pkg:maven/org.slieb/kute@0.7?classifier=sources
+- pkg:maven/org.slieb/kute@1.0
+- pkg:maven/org.slieb/kute@1.0?classifier=sources
+- pkg:maven/org.slieb/kute@2.0
+- pkg:maven/org.slieb/kute@2.0?classifier=sources
+- pkg:maven/org.slieb/kute@2.1
+- pkg:maven/org.slieb/kute@2.1?classifier=sources

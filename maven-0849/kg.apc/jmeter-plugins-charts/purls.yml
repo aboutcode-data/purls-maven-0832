@@ -1,0 +1,2 @@
+- pkg:maven/kg.apc/jmeter-plugins-charts@0.1
+- pkg:maven/kg.apc/jmeter-plugins-charts@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.graphql-java/graphql-java-servlet@0.6.3?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-servlet@0.6.4?classifier=sources

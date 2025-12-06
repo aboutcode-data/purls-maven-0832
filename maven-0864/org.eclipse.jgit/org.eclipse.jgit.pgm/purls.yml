@@ -36,3 +36,11 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.0.3.201509231615-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.1.0.201509280440-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.1.1.201511131810-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.1.2.201602141800-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.2.0.201601211800-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.3.0.201604071810-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.3.1.201605051710-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.4.0.201605250940-rc1?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.4.0.201606070830-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.4.1.201607150455-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@4.5.0.201609210915-r?classifier=sources

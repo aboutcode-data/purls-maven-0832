@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.lagom/lagom_2.10@1.0.0-M1
+- pkg:maven/com.lightbend.lagom/lagom_2.10@1.0.0-M1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.planet57.gossip/gossip-bootstrap-slf4j@2.0.0
+- pkg:maven/com.planet57.gossip/gossip-bootstrap-slf4j@2.0.0?classifier=sources

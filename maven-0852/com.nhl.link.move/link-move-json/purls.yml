@@ -1,0 +1,6 @@
+- pkg:maven/com.nhl.link.move/link-move-json@1.7
+- pkg:maven/com.nhl.link.move/link-move-json@1.7?classifier=sources
+- pkg:maven/com.nhl.link.move/link-move-json@2.0
+- pkg:maven/com.nhl.link.move/link-move-json@2.0?classifier=sources
+- pkg:maven/com.nhl.link.move/link-move-json@2.1
+- pkg:maven/com.nhl.link.move/link-move-json@2.1?classifier=sources

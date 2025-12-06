@@ -1,0 +1,2 @@
+- pkg:maven/org.maptalks/proj4m@1.0.0
+- pkg:maven/org.maptalks/proj4m@1.0.0?classifier=sources

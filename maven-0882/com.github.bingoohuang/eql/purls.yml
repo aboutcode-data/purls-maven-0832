@@ -106,3 +106,7 @@
 - pkg:maven/com.github.bingoohuang/eql@0.0.68?classifier=sources
 - pkg:maven/com.github.bingoohuang/eql@0.0.69
 - pkg:maven/com.github.bingoohuang/eql@0.0.69?classifier=sources
+- pkg:maven/com.github.bingoohuang/eql@0.0.71
+- pkg:maven/com.github.bingoohuang/eql@0.0.71?classifier=sources
+- pkg:maven/com.github.bingoohuang/eql@0.0.72
+- pkg:maven/com.github.bingoohuang/eql@0.0.72?classifier=sources

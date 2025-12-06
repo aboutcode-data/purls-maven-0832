@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel-plugin-transform-es2015-constants@6.0.15
+- pkg:maven/org.webjars.npm/babel-plugin-transform-es2015-constants@6.0.15?classifier=sources

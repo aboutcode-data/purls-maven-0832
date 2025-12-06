@@ -1,0 +1,9 @@
+- pkg:maven/info.yemi.updateapp/UpdateApp@0.0.1?classifier=sources
+- pkg:maven/info.yemi.updateapp/UpdateApp@0.0.1?type=aar
+- pkg:maven/info.yemi.updateapp/UpdateApp@0.0.2?classifier=sources
+- pkg:maven/info.yemi.updateapp/UpdateApp@0.0.2?type=aar
+- pkg:maven/info.yemi.updateapp/UpdateApp@0.0.3?classifier=sources
+- pkg:maven/info.yemi.updateapp/UpdateApp@0.0.3?type=aar
+- pkg:maven/info.yemi.updateapp/UpdateApp@0.0.4?classifier=sources
+- pkg:maven/info.yemi.updateapp/UpdateApp@0.0.4?type=aar
+- pkg:maven/info.yemi.updateapp/UpdateApp@1.0

@@ -1,3 +1,11 @@
+- pkg:maven/com.github.sogyf/goja-rapid@0.1.10
+- pkg:maven/com.github.sogyf/goja-rapid@0.1.10?classifier=sources
+- pkg:maven/com.github.sogyf/goja-rapid@0.1.11
+- pkg:maven/com.github.sogyf/goja-rapid@0.1.11?classifier=sources
+- pkg:maven/com.github.sogyf/goja-rapid@0.1.12
+- pkg:maven/com.github.sogyf/goja-rapid@0.1.12?classifier=sources
+- pkg:maven/com.github.sogyf/goja-rapid@0.1.14
+- pkg:maven/com.github.sogyf/goja-rapid@0.1.14?classifier=sources
 - pkg:maven/com.github.sogyf/goja-rapid@0.1.3
 - pkg:maven/com.github.sogyf/goja-rapid@0.1.3?classifier=sources
 - pkg:maven/com.github.sogyf/goja-rapid@0.1.4

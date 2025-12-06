@@ -1,0 +1,2 @@
+- pkg:maven/org.terracotta.management/sequence-generator@2.5.0
+- pkg:maven/org.terracotta.management/sequence-generator@2.5.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.mauricioaniche/springlint-maven-plugin@0.3
+- pkg:maven/com.github.mauricioaniche/springlint-maven-plugin@0.3?classifier=sources
+- pkg:maven/com.github.mauricioaniche/springlint-maven-plugin@0.4
+- pkg:maven/com.github.mauricioaniche/springlint-maven-plugin@0.4?classifier=sources

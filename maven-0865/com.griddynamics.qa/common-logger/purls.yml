@@ -4,3 +4,5 @@
 - pkg:maven/com.griddynamics.qa/common-logger@0.1.2?classifier=sources
 - pkg:maven/com.griddynamics.qa/common-logger@1.2.3
 - pkg:maven/com.griddynamics.qa/common-logger@1.2.3?classifier=sources
+- pkg:maven/com.griddynamics.qa/common-logger@1.2.4
+- pkg:maven/com.griddynamics.qa/common-logger@1.2.4?classifier=sources

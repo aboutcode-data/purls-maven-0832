@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-select-search@0.3.10
+- pkg:maven/org.webjars.npm/react-select-search@0.3.10?classifier=sources

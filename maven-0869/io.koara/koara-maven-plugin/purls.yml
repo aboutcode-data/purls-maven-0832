@@ -1,0 +1,2 @@
+- pkg:maven/io.koara/koara-maven-plugin@0.1.0
+- pkg:maven/io.koara/koara-maven-plugin@0.1.0?classifier=sources

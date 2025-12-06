@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/algebra-laws_sjs0.6_2.10@0.5.0
+- pkg:maven/org.typelevel/algebra-laws_sjs0.6_2.10@0.5.0?classifier=sources
+- pkg:maven/org.typelevel/algebra-laws_sjs0.6_2.10@0.5.1
+- pkg:maven/org.typelevel/algebra-laws_sjs0.6_2.10@0.5.1?classifier=sources

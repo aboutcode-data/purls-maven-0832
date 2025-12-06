@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tslamic.weakexecutor/library@0.9
+- pkg:maven/com.github.tslamic.weakexecutor/library@0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.browserstack/automate-client-java@0.2
+- pkg:maven/com.browserstack/automate-client-java@0.2?classifier=sources

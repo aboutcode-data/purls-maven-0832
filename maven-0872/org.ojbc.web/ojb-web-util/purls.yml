@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.web/ojb-web-util@1.0.0?classifier=sources
+- pkg:maven/org.ojbc.web/ojb-web-util@1.0.0?type=war

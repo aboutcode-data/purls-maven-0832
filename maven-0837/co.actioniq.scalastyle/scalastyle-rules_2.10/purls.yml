@@ -1,0 +1,4 @@
+- pkg:maven/co.actioniq.scalastyle/scalastyle-rules_2.10@0.1
+- pkg:maven/co.actioniq.scalastyle/scalastyle-rules_2.10@0.1?classifier=sources
+- pkg:maven/co.actioniq.scalastyle/scalastyle-rules_2.10@0.2
+- pkg:maven/co.actioniq.scalastyle/scalastyle-rules_2.10@0.2?classifier=sources

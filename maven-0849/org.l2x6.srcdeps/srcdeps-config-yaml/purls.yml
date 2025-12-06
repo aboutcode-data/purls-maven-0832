@@ -1,0 +1,2 @@
+- pkg:maven/org.l2x6.srcdeps/srcdeps-config-yaml@1.0.0?classifier=sources
+- pkg:maven/org.l2x6.srcdeps/srcdeps-config-yaml@1.0.1?classifier=sources

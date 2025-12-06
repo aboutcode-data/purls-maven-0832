@@ -1,2 +1,4 @@
 - pkg:maven/com.beijunyi/parallelgit-utils@1.0.0
 - pkg:maven/com.beijunyi/parallelgit-utils@1.0.0?classifier=sources
+- pkg:maven/com.beijunyi/parallelgit-utils@2.0.0
+- pkg:maven/com.beijunyi/parallelgit-utils@2.0.0?classifier=sources

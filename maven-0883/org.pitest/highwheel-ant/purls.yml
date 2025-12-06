@@ -1,2 +1,4 @@
 - pkg:maven/org.pitest/highwheel-ant@1.0
 - pkg:maven/org.pitest/highwheel-ant@1.0?classifier=sources
+- pkg:maven/org.pitest/highwheel-ant@1.2
+- pkg:maven/org.pitest/highwheel-ant@1.2?classifier=sources

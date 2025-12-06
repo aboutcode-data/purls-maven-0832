@@ -4,3 +4,5 @@
 - pkg:maven/com.att.m2x/java@3.0.0?classifier=sources
 - pkg:maven/com.att.m2x/java@4.0.0
 - pkg:maven/com.att.m2x/java@4.0.0?classifier=sources
+- pkg:maven/com.att.m2x/java@5.0.0
+- pkg:maven/com.att.m2x/java@5.0.0?classifier=sources

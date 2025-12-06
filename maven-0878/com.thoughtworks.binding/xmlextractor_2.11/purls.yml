@@ -1,0 +1,4 @@
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.11@10.0.0-M2
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.11@10.0.0-M2?classifier=sources
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.11@10.0.0-M3
+- pkg:maven/com.thoughtworks.binding/xmlextractor_2.11@10.0.0-M3?classifier=sources

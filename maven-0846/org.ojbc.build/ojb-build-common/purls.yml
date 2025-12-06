@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.build/ojb-build-common@1.0.0
+- pkg:maven/org.ojbc.build/ojb-build-common@1.0.0?classifier=sources

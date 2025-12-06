@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.hive/hive-storage-api@2.0.0
+- pkg:maven/org.apache.hive/hive-storage-api@2.0.0?classifier=sources
+- pkg:maven/org.apache.hive/hive-storage-api@2.0.1
+- pkg:maven/org.apache.hive/hive-storage-api@2.0.1?classifier=sources
+- pkg:maven/org.apache.hive/hive-storage-api@2.1.0
+- pkg:maven/org.apache.hive/hive-storage-api@2.1.0-pre-orc
+- pkg:maven/org.apache.hive/hive-storage-api@2.1.0-pre-orc?classifier=sources
+- pkg:maven/org.apache.hive/hive-storage-api@2.1.0?classifier=sources
+- pkg:maven/org.apache.hive/hive-storage-api@2.1.1-pre-orc
+- pkg:maven/org.apache.hive/hive-storage-api@2.1.1-pre-orc?classifier=sources

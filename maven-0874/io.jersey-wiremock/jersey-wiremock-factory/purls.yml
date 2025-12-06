@@ -1,0 +1,2 @@
+- pkg:maven/io.jersey-wiremock/jersey-wiremock-factory@0.1
+- pkg:maven/io.jersey-wiremock/jersey-wiremock-factory@0.1?classifier=sources

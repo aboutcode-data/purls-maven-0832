@@ -2,3 +2,5 @@
 - pkg:maven/org.jasig.inspektr/inspektr-common@1.2.GA?classifier=sources
 - pkg:maven/org.jasig.inspektr/inspektr-common@1.3.GA
 - pkg:maven/org.jasig.inspektr/inspektr-common@1.3.GA?classifier=sources
+- pkg:maven/org.jasig.inspektr/inspektr-common@1.4.GA
+- pkg:maven/org.jasig.inspektr/inspektr-common@1.4.GA?classifier=sources

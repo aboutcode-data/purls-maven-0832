@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/odometer@0.4.7
+- pkg:maven/org.webjars.bower/odometer@0.4.7?classifier=sources

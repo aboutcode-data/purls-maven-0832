@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.maven.shared/maven-common-artifact-filters@1.4
 - pkg:maven/org.apache.maven.shared/maven-common-artifact-filters@1.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.shared/maven-common-artifact-filters@1.4?classifier=sources
+- pkg:maven/org.apache.maven.shared/maven-common-artifact-filters@3.0.0
+- pkg:maven/org.apache.maven.shared/maven-common-artifact-filters@3.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-common-artifact-filters@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.born2snipe/spring-mvc-checkstyle-rules@0.0.1
+- pkg:maven/com.github.born2snipe/spring-mvc-checkstyle-rules@0.0.1?classifier=sources

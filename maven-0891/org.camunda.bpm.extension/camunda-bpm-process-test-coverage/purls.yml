@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-process-test-coverage@0.2.8
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-process-test-coverage@0.2.8?classifier=sources

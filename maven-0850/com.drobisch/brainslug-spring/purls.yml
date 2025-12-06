@@ -1,0 +1,2 @@
+- pkg:maven/com.drobisch/brainslug-spring@0.22
+- pkg:maven/com.drobisch/brainslug-spring@0.22?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.lindbergframework.configuration/lindbergframework-xmlconfiguration@1.0
+- pkg:maven/org.lindbergframework.configuration/lindbergframework-xmlconfiguration@1.0?classifier=sources

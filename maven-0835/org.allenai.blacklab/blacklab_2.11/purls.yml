@@ -1,0 +1,2 @@
+- pkg:maven/org.allenai.blacklab/blacklab_2.11@1.0-ALLENAI-13
+- pkg:maven/org.allenai.blacklab/blacklab_2.11@1.0-ALLENAI-13?classifier=sources

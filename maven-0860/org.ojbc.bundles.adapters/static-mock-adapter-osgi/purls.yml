@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.bundles.adapters/static-mock-adapter-osgi@1.0.16
+- pkg:maven/org.ojbc.bundles.adapters/static-mock-adapter-osgi@1.0.16?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.viantinc.cachestore/cachestore-client@1.5.2
+- pkg:maven/com.viantinc.cachestore/cachestore-client@1.5.2?classifier=sources
+- pkg:maven/com.viantinc.cachestore/cachestore-client@1.5.6
+- pkg:maven/com.viantinc.cachestore/cachestore-client@1.5.6?classifier=sources
+- pkg:maven/com.viantinc.cachestore/cachestore-client@1.6.0
+- pkg:maven/com.viantinc.cachestore/cachestore-client@1.6.0?classifier=sources

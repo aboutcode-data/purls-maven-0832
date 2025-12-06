@@ -1,0 +1,2 @@
+- pkg:maven/org.ancoron.common/common-utils@1.0.0
+- pkg:maven/org.ancoron.common/common-utils@1.0.0?classifier=sources

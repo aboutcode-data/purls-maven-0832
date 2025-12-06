@@ -1,2 +1,6 @@
 - pkg:maven/org.everit.templating/org.everit.templating.text@1.0.0
 - pkg:maven/org.everit.templating/org.everit.templating.text@1.0.0?classifier=sources
+- pkg:maven/org.everit.templating/org.everit.templating.text@1.1.0
+- pkg:maven/org.everit.templating/org.everit.templating.text@1.1.0?classifier=sources
+- pkg:maven/org.everit.templating/org.everit.templating.text@1.1.1
+- pkg:maven/org.everit.templating/org.everit.templating.text@1.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.demoiselle.jee/demoiselle-configuration@3.0.0-BETA1
+- pkg:maven/org.demoiselle.jee/demoiselle-configuration@3.0.0-BETA1?classifier=sources

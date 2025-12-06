@@ -1,0 +1,2 @@
+- pkg:maven/cn.stackbox.archetypes/rest-with-oauth2@0.0.1
+- pkg:maven/cn.stackbox.archetypes/rest-with-oauth2@0.0.1?classifier=sources

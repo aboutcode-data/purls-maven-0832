@@ -12,3 +12,5 @@
 - pkg:maven/io.projectreactor/reactor-stream@2.0.6.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor/reactor-stream@2.0.7.RELEASE
 - pkg:maven/io.projectreactor/reactor-stream@2.0.7.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-stream@2.0.8.RELEASE
+- pkg:maven/io.projectreactor/reactor-stream@2.0.8.RELEASE?classifier=sources

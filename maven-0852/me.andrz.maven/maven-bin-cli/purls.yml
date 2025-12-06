@@ -1,0 +1,2 @@
+- pkg:maven/me.andrz.maven/maven-bin-cli@1.0.0
+- pkg:maven/me.andrz.maven/maven-bin-cli@1.0.0?classifier=sources

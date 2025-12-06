@@ -1,0 +1,10 @@
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.6.1.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.0.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.1.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.2.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.3.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.4.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.5.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.6.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.7.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.7.8.Final?type=war

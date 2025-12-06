@@ -1,0 +1,2 @@
+- pkg:maven/org.dynamoframework/dynamo-functional-domain@1.0.0
+- pkg:maven/org.dynamoframework/dynamo-functional-domain@1.0.0?classifier=sources

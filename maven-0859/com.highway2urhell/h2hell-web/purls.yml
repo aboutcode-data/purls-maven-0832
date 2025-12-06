@@ -4,3 +4,5 @@
 - pkg:maven/com.highway2urhell/h2hell-web@1.0.3?type=war
 - pkg:maven/com.highway2urhell/h2hell-web@1.0.4?classifier=sources
 - pkg:maven/com.highway2urhell/h2hell-web@1.0.4?type=war
+- pkg:maven/com.highway2urhell/h2hell-web@1.0.5?classifier=sources
+- pkg:maven/com.highway2urhell/h2hell-web@1.0.5?type=war

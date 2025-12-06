@@ -1,0 +1,2 @@
+- pkg:maven/org.rogach/scallop_2.12.0-M5@2.0.2
+- pkg:maven/org.rogach/scallop_2.12.0-M5@2.0.2?classifier=sources

@@ -22,3 +22,13 @@
 - pkg:maven/com.tenkiv.tekdaqc.android/android-library@1.1.2.7?type=aar
 - pkg:maven/com.tenkiv.tekdaqc.android/android-library@1.1.2.8?classifier=sources
 - pkg:maven/com.tenkiv.tekdaqc.android/android-library@1.1.2.8?type=aar
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.0.0.0?classifier=sources
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.0.0.0?type=aar
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.1.0.0?classifier=sources
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.1.0.0?type=aar
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.1.2.0?classifier=sources
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.1.2.0?type=aar
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.1.2.2?classifier=sources
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.1.2.2?type=aar
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.1.2.3?classifier=sources
+- pkg:maven/com.tenkiv.tekdaqc.android/android-library@2.1.2.3?type=aar

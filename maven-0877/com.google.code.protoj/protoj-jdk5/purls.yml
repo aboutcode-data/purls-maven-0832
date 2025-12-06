@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.protoj/protoj-jdk5@1.9.2
+- pkg:maven/com.google.code.protoj/protoj-jdk5@1.9.2?classifier=sources

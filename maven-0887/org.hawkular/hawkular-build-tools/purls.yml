@@ -4,6 +4,13 @@
 - pkg:maven/org.hawkular/hawkular-build-tools@12?classifier=sources
 - pkg:maven/org.hawkular/hawkular-build-tools@13
 - pkg:maven/org.hawkular/hawkular-build-tools@13?classifier=sources
+- pkg:maven/org.hawkular/hawkular-build-tools@14
+- pkg:maven/org.hawkular/hawkular-build-tools@14?classifier=sources
+- pkg:maven/org.hawkular/hawkular-build-tools@15
+- pkg:maven/org.hawkular/hawkular-build-tools@15?classifier=sources
+- pkg:maven/org.hawkular/hawkular-build-tools@16
+- pkg:maven/org.hawkular/hawkular-build-tools@16?classifier=sources
+- pkg:maven/org.hawkular/hawkular-build-tools@17
 - pkg:maven/org.hawkular/hawkular-build-tools@4
 - pkg:maven/org.hawkular/hawkular-build-tools@4?classifier=sources
 - pkg:maven/org.hawkular/hawkular-build-tools@5

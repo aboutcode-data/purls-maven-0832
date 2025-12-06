@@ -1,0 +1,2 @@
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-aerogear-standalone@1.2.0.Final?type=war
+- pkg:maven/org.hawkular.alerts/hawkular-alerts-actions-aerogear-standalone@1.2.1.Final?type=war

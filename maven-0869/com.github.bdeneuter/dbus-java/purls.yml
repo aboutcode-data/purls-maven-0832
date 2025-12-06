@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bdeneuter/dbus-java@2.7
+- pkg:maven/com.github.bdeneuter/dbus-java@2.7?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.pauldijou/jwt-play-json-legacy_2.10@0.4.0?classifier=sources
 - pkg:maven/com.pauldijou/jwt-play-json-legacy_2.10@0.4.1
 - pkg:maven/com.pauldijou/jwt-play-json-legacy_2.10@0.4.1?classifier=sources
+- pkg:maven/com.pauldijou/jwt-play-json-legacy_2.10@0.5.0
+- pkg:maven/com.pauldijou/jwt-play-json-legacy_2.10@0.5.0?classifier=sources
+- pkg:maven/com.pauldijou/jwt-play-json-legacy_2.10@0.5.1
+- pkg:maven/com.pauldijou/jwt-play-json-legacy_2.10@0.5.1?classifier=sources

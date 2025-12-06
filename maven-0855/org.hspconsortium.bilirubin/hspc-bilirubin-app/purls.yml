@@ -1,0 +1,4 @@
+- pkg:maven/org.hspconsortium.bilirubin/hspc-bilirubin-app@0.10?classifier=sources
+- pkg:maven/org.hspconsortium.bilirubin/hspc-bilirubin-app@0.10?type=war
+- pkg:maven/org.hspconsortium.bilirubin/hspc-bilirubin-app@0.9?classifier=sources
+- pkg:maven/org.hspconsortium.bilirubin/hspc-bilirubin-app@0.9?type=war

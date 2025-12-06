@@ -1,0 +1,8 @@
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.10
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.10?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.11
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.11?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.12
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.12?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.13
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.13?classifier=sources

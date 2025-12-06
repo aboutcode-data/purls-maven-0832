@@ -1,0 +1,2 @@
+- pkg:maven/org.uniknow.asciidoc/asciidoctor-site-diagram-activator@0.1.13
+- pkg:maven/org.uniknow.asciidoc/asciidoctor-site-diagram-activator@0.1.13?classifier=sources

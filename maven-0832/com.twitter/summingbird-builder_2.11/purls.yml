@@ -1,3 +1,9 @@
+- pkg:maven/com.twitter/summingbird-builder_2.11@0.10.0-RC1
+- pkg:maven/com.twitter/summingbird-builder_2.11@0.10.0-RC1?classifier=sources
+- pkg:maven/com.twitter/summingbird-builder_2.11@0.10.0-RC2
+- pkg:maven/com.twitter/summingbird-builder_2.11@0.10.0-RC2?classifier=sources
+- pkg:maven/com.twitter/summingbird-builder_2.11@0.11.0-RC1
+- pkg:maven/com.twitter/summingbird-builder_2.11@0.11.0-RC1?classifier=sources
 - pkg:maven/com.twitter/summingbird-builder_2.11@0.9.0
 - pkg:maven/com.twitter/summingbird-builder_2.11@0.9.0?classifier=sources
 - pkg:maven/com.twitter/summingbird-builder_2.11@0.9.1

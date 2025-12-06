@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@2.0.10?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@2.0.10?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@2.0.9?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@2.0.9?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-3?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-3?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-4?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-4?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-5?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-5?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-6?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-6?type=war

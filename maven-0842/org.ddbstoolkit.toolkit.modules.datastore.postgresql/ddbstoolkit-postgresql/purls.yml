@@ -1,0 +1,2 @@
+- pkg:maven/org.ddbstoolkit.toolkit.modules.datastore.postgresql/ddbstoolkit-postgresql@1.0.0-beta2
+- pkg:maven/org.ddbstoolkit.toolkit.modules.datastore.postgresql/ddbstoolkit-postgresql@1.0.0-beta2?classifier=sources

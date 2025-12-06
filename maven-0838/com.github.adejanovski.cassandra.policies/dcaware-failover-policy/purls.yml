@@ -1,0 +1,2 @@
+- pkg:maven/com.github.adejanovski.cassandra.policies/dcaware-failover-policy@1.1.0
+- pkg:maven/com.github.adejanovski.cassandra.policies/dcaware-failover-policy@1.1.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@2.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@3.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@5.0.0?classifier=sources

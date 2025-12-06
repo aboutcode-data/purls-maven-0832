@@ -1,0 +1,2 @@
+- pkg:maven/com.siemens.ct.exi/exificient-for-json@0.9.6
+- pkg:maven/com.siemens.ct.exi/exificient-for-json@0.9.6?classifier=sources

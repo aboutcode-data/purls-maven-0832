@@ -1,0 +1,6 @@
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.config@1.1.9
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.config@1.2.10
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.config@1.2.11
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.config@1.2.12
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.config@1.2.13
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.config@1.2.14

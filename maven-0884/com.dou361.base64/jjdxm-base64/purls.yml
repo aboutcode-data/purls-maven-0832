@@ -1,0 +1,2 @@
+- pkg:maven/com.dou361.base64/jjdxm-base64@1.0.0?classifier=sources
+- pkg:maven/com.dou361.base64/jjdxm-base64@1.0.0?type=aar

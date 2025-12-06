@@ -18,3 +18,7 @@
 - pkg:maven/org.json4s/json4s-native_2.11@3.3.0.RC6
 - pkg:maven/org.json4s/json4s-native_2.11@3.3.0.RC6?classifier=sources
 - pkg:maven/org.json4s/json4s-native_2.11@3.3.0?classifier=sources
+- pkg:maven/org.json4s/json4s-native_2.11@3.4.0
+- pkg:maven/org.json4s/json4s-native_2.11@3.4.0?classifier=sources
+- pkg:maven/org.json4s/json4s-native_2.11@3.4.1
+- pkg:maven/org.json4s/json4s-native_2.11@3.4.1?classifier=sources

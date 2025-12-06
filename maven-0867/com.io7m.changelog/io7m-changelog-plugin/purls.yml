@@ -2,3 +2,5 @@
 - pkg:maven/com.io7m.changelog/io7m-changelog-plugin@2.1.0?classifier=sources
 - pkg:maven/com.io7m.changelog/io7m-changelog-plugin@2.1.1
 - pkg:maven/com.io7m.changelog/io7m-changelog-plugin@2.1.1?classifier=sources
+- pkg:maven/com.io7m.changelog/io7m-changelog-plugin@2.1.2
+- pkg:maven/com.io7m.changelog/io7m-changelog-plugin@2.1.2?classifier=sources

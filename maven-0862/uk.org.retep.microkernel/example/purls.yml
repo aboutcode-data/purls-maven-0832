@@ -1,0 +1,11 @@
+- pkg:maven/uk.org.retep.microkernel/example@8.11.13
+- pkg:maven/uk.org.retep.microkernel/example@8.11.18
+- pkg:maven/uk.org.retep.microkernel/example@8.9.25
+- pkg:maven/uk.org.retep.microkernel/example@9.1.2
+- pkg:maven/uk.org.retep.microkernel/example@9.1.20
+- pkg:maven/uk.org.retep.microkernel/example@9.2
+- pkg:maven/uk.org.retep.microkernel/example@9.3
+- pkg:maven/uk.org.retep.microkernel/example@9.4
+- pkg:maven/uk.org.retep.microkernel/example@9.4.1
+- pkg:maven/uk.org.retep.microkernel/example@9.7
+- pkg:maven/uk.org.retep.microkernel/example@9.7?classifier=sources

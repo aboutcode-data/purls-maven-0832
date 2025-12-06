@@ -1,2 +1,4 @@
 - pkg:maven/org.kohsuke.sorcerer/sorcerer-gwt@0.10?classifier=sources
 - pkg:maven/org.kohsuke.sorcerer/sorcerer-gwt@0.10?type=war
+- pkg:maven/org.kohsuke.sorcerer/sorcerer-gwt@0.11?classifier=sources
+- pkg:maven/org.kohsuke.sorcerer/sorcerer-gwt@0.11?type=war

@@ -1,2 +1,6 @@
 - pkg:maven/de.svenkubiak/jBCrypt@0.4
+- pkg:maven/de.svenkubiak/jBCrypt@0.4.1
+- pkg:maven/de.svenkubiak/jBCrypt@0.4.1-RC1
+- pkg:maven/de.svenkubiak/jBCrypt@0.4.1-RC1?classifier=sources
+- pkg:maven/de.svenkubiak/jBCrypt@0.4.1?classifier=sources
 - pkg:maven/de.svenkubiak/jBCrypt@0.4?classifier=sources
