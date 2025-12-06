@@ -82,6 +82,16 @@
 - pkg:maven/com.newrelic.agent.android/class-rewriter@5.12.3?classifier=sources
 - pkg:maven/com.newrelic.agent.android/class-rewriter@5.13.0
 - pkg:maven/com.newrelic.agent.android/class-rewriter@5.13.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.14.0
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.14.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.15.0
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.15.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.15.1
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.15.1?classifier=sources
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.15.2
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.15.2?classifier=sources
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.16.0
+- pkg:maven/com.newrelic.agent.android/class-rewriter@5.16.0?classifier=sources
 - pkg:maven/com.newrelic.agent.android/class-rewriter@5.2.0
 - pkg:maven/com.newrelic.agent.android/class-rewriter@5.2.0?classifier=sources
 - pkg:maven/com.newrelic.agent.android/class-rewriter@5.2.1

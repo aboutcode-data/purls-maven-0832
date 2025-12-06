@@ -14,3 +14,5 @@
 - pkg:maven/com.github.michaelruocco/embedded-mysql-plugin@2.1.4?classifier=sources
 - pkg:maven/com.github.michaelruocco/embedded-mysql-plugin@2.1.5
 - pkg:maven/com.github.michaelruocco/embedded-mysql-plugin@2.1.5?classifier=sources
+- pkg:maven/com.github.michaelruocco/embedded-mysql-plugin@2.1.6
+- pkg:maven/com.github.michaelruocco/embedded-mysql-plugin@2.1.6?classifier=sources

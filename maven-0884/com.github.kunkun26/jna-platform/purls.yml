@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kunkun26/jna-platform@4.5.1
+- pkg:maven/com.github.kunkun26/jna-platform@4.5.1?classifier=sources

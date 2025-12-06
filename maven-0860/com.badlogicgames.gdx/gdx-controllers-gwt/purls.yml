@@ -62,3 +62,7 @@
 - pkg:maven/com.badlogicgames.gdx/gdx-controllers-gwt@1.9.5?classifier=sources
 - pkg:maven/com.badlogicgames.gdx/gdx-controllers-gwt@1.9.6
 - pkg:maven/com.badlogicgames.gdx/gdx-controllers-gwt@1.9.6?classifier=sources
+- pkg:maven/com.badlogicgames.gdx/gdx-controllers-gwt@1.9.7
+- pkg:maven/com.badlogicgames.gdx/gdx-controllers-gwt@1.9.7?classifier=sources
+- pkg:maven/com.badlogicgames.gdx/gdx-controllers-gwt@1.9.8
+- pkg:maven/com.badlogicgames.gdx/gdx-controllers-gwt@1.9.8?classifier=sources

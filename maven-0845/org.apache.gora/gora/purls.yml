@@ -24,3 +24,6 @@
 - pkg:maven/org.apache.gora/gora@0.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.gora/gora@0.7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.gora/gora@0.7?classifier=src&type=zip
+- pkg:maven/org.apache.gora/gora@0.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.gora/gora@0.8?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora@0.8?classifier=src&type=zip

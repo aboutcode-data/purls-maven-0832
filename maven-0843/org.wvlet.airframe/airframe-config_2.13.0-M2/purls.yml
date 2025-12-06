@@ -1,0 +1,14 @@
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.28
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.28?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.29
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.29?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.30
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.30?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.31
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.31?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.32
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.32?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.33
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.33?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.35
+- pkg:maven/org.wvlet.airframe/airframe-config_2.13.0-M2@0.35?classifier=sources

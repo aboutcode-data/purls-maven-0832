@@ -1,0 +1,2 @@
+- pkg:maven/de.golfgl.gdxcontrollerutils/gdx-controllerutils-android@0.1.0?classifier=sources
+- pkg:maven/de.golfgl.gdxcontrollerutils/gdx-controllerutils-android@0.1.0?type=aar

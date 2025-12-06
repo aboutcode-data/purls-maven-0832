@@ -2,7 +2,11 @@
 - pkg:maven/org.webjars.npm/prop-types@15.5.0-alpha.0
 - pkg:maven/org.webjars.npm/prop-types@15.5.0-alpha.0?classifier=sources
 - pkg:maven/org.webjars.npm/prop-types@15.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/prop-types@15.5.10
+- pkg:maven/org.webjars.npm/prop-types@15.5.10?classifier=sources
 - pkg:maven/org.webjars.npm/prop-types@15.5.6
 - pkg:maven/org.webjars.npm/prop-types@15.5.6?classifier=sources
 - pkg:maven/org.webjars.npm/prop-types@15.5.8
 - pkg:maven/org.webjars.npm/prop-types@15.5.8?classifier=sources
+- pkg:maven/org.webjars.npm/prop-types@15.6.0
+- pkg:maven/org.webjars.npm/prop-types@15.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ijson/in-mongo-spring-support@1.0.0
+- pkg:maven/com.ijson/in-mongo-spring-support@1.0.0?classifier=sources

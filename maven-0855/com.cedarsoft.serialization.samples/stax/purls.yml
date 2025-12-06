@@ -64,3 +64,11 @@
 - pkg:maven/com.cedarsoft.serialization.samples/stax@8.1.1?classifier=sources
 - pkg:maven/com.cedarsoft.serialization.samples/stax@8.2.0
 - pkg:maven/com.cedarsoft.serialization.samples/stax@8.2.0?classifier=sources
+- pkg:maven/com.cedarsoft.serialization.samples/stax@8.2.1
+- pkg:maven/com.cedarsoft.serialization.samples/stax@8.2.1?classifier=sources
+- pkg:maven/com.cedarsoft.serialization.samples/stax@8.3.0
+- pkg:maven/com.cedarsoft.serialization.samples/stax@8.3.0?classifier=sources
+- pkg:maven/com.cedarsoft.serialization.samples/stax@8.3.1
+- pkg:maven/com.cedarsoft.serialization.samples/stax@8.3.1?classifier=sources
+- pkg:maven/com.cedarsoft.serialization.samples/stax@8.4.0
+- pkg:maven/com.cedarsoft.serialization.samples/stax@8.4.0?classifier=sources

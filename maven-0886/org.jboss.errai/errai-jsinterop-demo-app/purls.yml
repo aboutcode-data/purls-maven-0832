@@ -18,3 +18,17 @@
 - pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.0.CR3?type=war
 - pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.0.Final?type=war
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.1.Beta1?classifier=sources
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.1.Beta1?type=war
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.1.Beta2?classifier=sources
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.1.Beta2?type=war
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.2.Final?type=war
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.0.3.Final?type=war
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.1.0.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.1.0.Final?type=war
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.1.1.Final?type=war
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.1.2.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-jsinterop-demo-app@4.1.2.Final?type=war

@@ -12,3 +12,5 @@
 - pkg:maven/net.razorvine/serpent@1.17?classifier=sources
 - pkg:maven/net.razorvine/serpent@1.18
 - pkg:maven/net.razorvine/serpent@1.18?classifier=sources
+- pkg:maven/net.razorvine/serpent@1.23
+- pkg:maven/net.razorvine/serpent@1.23?classifier=sources

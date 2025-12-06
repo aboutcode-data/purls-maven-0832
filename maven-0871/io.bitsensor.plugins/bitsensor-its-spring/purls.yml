@@ -1,0 +1,8 @@
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-spring@2.1.1
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-spring@2.1.1-RC1
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-spring@2.1.1-RC1?classifier=sources
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-spring@2.1.1-RC2
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-spring@2.1.1-RC2?classifier=sources
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-spring@2.1.1?classifier=sources
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-spring@2.1.2-RC1
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-spring@2.1.2-RC1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bower/tinymce@4.0.28
+- pkg:maven/org.webjars.bower/tinymce@4.0.28?classifier=sources
 - pkg:maven/org.webjars.bower/tinymce@4.2.6
 - pkg:maven/org.webjars.bower/tinymce@4.2.6?classifier=sources
 - pkg:maven/org.webjars.bower/tinymce@4.2.8
@@ -32,3 +34,15 @@
 - pkg:maven/org.webjars.bower/tinymce@4.5.5?classifier=sources
 - pkg:maven/org.webjars.bower/tinymce@4.5.6
 - pkg:maven/org.webjars.bower/tinymce@4.5.6?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce@4.5.8
+- pkg:maven/org.webjars.bower/tinymce@4.5.8?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce@4.6.5
+- pkg:maven/org.webjars.bower/tinymce@4.6.5?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce@4.7.0
+- pkg:maven/org.webjars.bower/tinymce@4.7.0?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce@4.7.1
+- pkg:maven/org.webjars.bower/tinymce@4.7.1?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce@4.7.3
+- pkg:maven/org.webjars.bower/tinymce@4.7.3?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce@4.7.4
+- pkg:maven/org.webjars.bower/tinymce@4.7.4?classifier=sources

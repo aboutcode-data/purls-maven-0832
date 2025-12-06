@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.8
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.8?classifier=sources

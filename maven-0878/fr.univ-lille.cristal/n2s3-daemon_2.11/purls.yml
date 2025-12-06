@@ -1,0 +1,4 @@
+- pkg:maven/fr.univ-lille.cristal/n2s3-daemon_2.11@1.1
+- pkg:maven/fr.univ-lille.cristal/n2s3-daemon_2.11@1.1.1
+- pkg:maven/fr.univ-lille.cristal/n2s3-daemon_2.11@1.1.1?classifier=sources
+- pkg:maven/fr.univ-lille.cristal/n2s3-daemon_2.11@1.1?classifier=sources

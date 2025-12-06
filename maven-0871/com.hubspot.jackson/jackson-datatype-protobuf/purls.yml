@@ -22,3 +22,17 @@
 - pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.2?classifier=sources
 - pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.3
 - pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.3?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.4
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.4?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.5
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.5?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.6-preJackson2.7
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.6-preJackson2.7?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.7-jackson2.7-proto2
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.7-jackson2.7-proto2?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.7-jackson2.8-proto2
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.7-jackson2.8-proto2?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.7-jackson2.9-proto2
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.7-jackson2.9-proto2?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.7-preJackson2.7-proto2
+- pkg:maven/com.hubspot.jackson/jackson-datatype-protobuf@0.9.7-preJackson2.7-proto2?classifier=sources

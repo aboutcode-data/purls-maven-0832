@@ -4,3 +4,9 @@
 - pkg:maven/org.softsmithy.lib/softsmithy-lib-time@0.5?classifier=sources
 - pkg:maven/org.softsmithy.lib/softsmithy-lib-time@0.6
 - pkg:maven/org.softsmithy.lib/softsmithy-lib-time@0.6?classifier=sources
+- pkg:maven/org.softsmithy.lib/softsmithy-lib-time@0.7
+- pkg:maven/org.softsmithy.lib/softsmithy-lib-time@0.7?classifier=sources
+- pkg:maven/org.softsmithy.lib/softsmithy-lib-time@0.8
+- pkg:maven/org.softsmithy.lib/softsmithy-lib-time@0.8?classifier=sources
+- pkg:maven/org.softsmithy.lib/softsmithy-lib-time@0.9
+- pkg:maven/org.softsmithy.lib/softsmithy-lib-time@0.9?classifier=sources

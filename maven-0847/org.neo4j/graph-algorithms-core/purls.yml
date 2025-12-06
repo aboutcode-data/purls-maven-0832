@@ -1,0 +1,4 @@
+- pkg:maven/org.neo4j/graph-algorithms-core@3.2.5.2
+- pkg:maven/org.neo4j/graph-algorithms-core@3.2.5.2?classifier=sources
+- pkg:maven/org.neo4j/graph-algorithms-core@3.3.0.0
+- pkg:maven/org.neo4j/graph-algorithms-core@3.3.0.0?classifier=sources

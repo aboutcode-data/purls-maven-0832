@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.ds@1.4.400
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.ds@1.4.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.ds@1.5.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.ds@1.5.0?classifier=sources

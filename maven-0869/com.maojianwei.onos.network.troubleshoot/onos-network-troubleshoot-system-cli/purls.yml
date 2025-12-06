@@ -1,0 +1,2 @@
+- pkg:maven/com.maojianwei.onos.network.troubleshoot/onos-network-troubleshoot-system-cli@1.10.0
+- pkg:maven/com.maojianwei.onos.network.troubleshoot/onos-network-troubleshoot-system-cli@1.10.0?classifier=sources

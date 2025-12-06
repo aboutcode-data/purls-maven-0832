@@ -1,5 +1,14 @@
 - pkg:maven/com.datomic/client-impl-cloud@0.8.1
 - pkg:maven/com.datomic/client-impl-cloud@0.8.10
+- pkg:maven/com.datomic/client-impl-cloud@0.8.16
+- pkg:maven/com.datomic/client-impl-cloud@0.8.18
 - pkg:maven/com.datomic/client-impl-cloud@0.8.2
+- pkg:maven/com.datomic/client-impl-cloud@0.8.21
+- pkg:maven/com.datomic/client-impl-cloud@0.8.22
+- pkg:maven/com.datomic/client-impl-cloud@0.8.25
+- pkg:maven/com.datomic/client-impl-cloud@0.8.30
+- pkg:maven/com.datomic/client-impl-cloud@0.8.32
+- pkg:maven/com.datomic/client-impl-cloud@0.8.33
+- pkg:maven/com.datomic/client-impl-cloud@0.8.35
 - pkg:maven/com.datomic/client-impl-cloud@0.8.4
 - pkg:maven/com.datomic/client-impl-cloud@0.8.5

@@ -4,3 +4,13 @@
 - pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@1.12-b2?classifier=sources
 - pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@1.12-b3
 - pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@1.12-b3?classifier=sources
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3.0-b1
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3.0-b1?classifier=sources
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3.0-b2
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3.0-b2?classifier=sources
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3.0-b3
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3.0-b3?classifier=sources
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3.1
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3.1?classifier=sources
+- pkg:maven/org.onosproject/onos-yang-compiler-plugin-utils@2.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.milanqiu.mimas/mimas-tpl-trial@1.1.0
 - pkg:maven/net.milanqiu.mimas/mimas-tpl-trial@1.1.0?classifier=sources
+- pkg:maven/net.milanqiu.mimas/mimas-tpl-trial@1.2.0
+- pkg:maven/net.milanqiu.mimas/mimas-tpl-trial@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jQuery-QueryBuilder@2.4.4
+- pkg:maven/org.webjars.npm/jQuery-QueryBuilder@2.4.4?classifier=sources

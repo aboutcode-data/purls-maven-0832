@@ -4,3 +4,11 @@
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@1.0.2.RELEASE?classifier=sources
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@1.1.0.RELEASE
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@1.1.0.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@2.0.0.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@2.0.0.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@2.1.0.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@2.1.0.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@2.1.1.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@2.1.1.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@2.1.2.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector@2.1.2.RELEASE?classifier=sources

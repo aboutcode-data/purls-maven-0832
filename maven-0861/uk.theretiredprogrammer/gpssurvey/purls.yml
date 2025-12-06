@@ -1,0 +1,2 @@
+- pkg:maven/uk.theretiredprogrammer/gpssurvey@2.0.0
+- pkg:maven/uk.theretiredprogrammer/gpssurvey@2.0.0?classifier=sources

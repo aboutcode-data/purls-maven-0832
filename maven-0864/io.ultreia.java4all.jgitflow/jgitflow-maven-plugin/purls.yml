@@ -1,0 +1,2 @@
+- pkg:maven/io.ultreia.java4all.jgitflow/jgitflow-maven-plugin@1.0.0-rc-1
+- pkg:maven/io.ultreia.java4all.jgitflow/jgitflow-maven-plugin@1.0.0-rc-1?classifier=sources

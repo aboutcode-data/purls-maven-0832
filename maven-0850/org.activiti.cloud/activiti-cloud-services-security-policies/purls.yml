@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-security-policies@7-201711-EA
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-security-policies@7-201711-EA?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.lenabrueder/context-aware-logging-macros_2.12@0.2
+- pkg:maven/de.lenabrueder/context-aware-logging-macros_2.12@0.2?classifier=sources
+- pkg:maven/de.lenabrueder/context-aware-logging-macros_2.12@0.3
+- pkg:maven/de.lenabrueder/context-aware-logging-macros_2.12@0.3?classifier=sources

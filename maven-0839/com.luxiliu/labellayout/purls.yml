@@ -1,0 +1,6 @@
+- pkg:maven/com.luxiliu/labellayout@1.0.4?classifier=sources
+- pkg:maven/com.luxiliu/labellayout@1.0.4?type=aar
+- pkg:maven/com.luxiliu/labellayout@1.1.0?classifier=sources
+- pkg:maven/com.luxiliu/labellayout@1.1.0?type=aar
+- pkg:maven/com.luxiliu/labellayout@1.2.0?classifier=sources
+- pkg:maven/com.luxiliu/labellayout@1.2.0?type=aar

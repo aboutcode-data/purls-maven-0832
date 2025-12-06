@@ -1,0 +1,8 @@
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-1
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-1?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-2
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-2?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-3
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-3?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-4
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.0-Alpha-4?classifier=sources

@@ -136,3 +136,15 @@
 - pkg:maven/com.github.bingoohuang/eql@0.0.84?classifier=sources
 - pkg:maven/com.github.bingoohuang/eql@0.0.85
 - pkg:maven/com.github.bingoohuang/eql@0.0.85?classifier=sources
+- pkg:maven/com.github.bingoohuang/eql@0.0.86
+- pkg:maven/com.github.bingoohuang/eql@0.0.86?classifier=sources
+- pkg:maven/com.github.bingoohuang/eql@0.0.87
+- pkg:maven/com.github.bingoohuang/eql@0.0.87?classifier=sources
+- pkg:maven/com.github.bingoohuang/eql@0.0.88
+- pkg:maven/com.github.bingoohuang/eql@0.0.88?classifier=sources
+- pkg:maven/com.github.bingoohuang/eql@0.0.89
+- pkg:maven/com.github.bingoohuang/eql@0.0.89?classifier=sources
+- pkg:maven/com.github.bingoohuang/eql@0.0.90
+- pkg:maven/com.github.bingoohuang/eql@0.0.90?classifier=sources
+- pkg:maven/com.github.bingoohuang/eql@0.0.91
+- pkg:maven/com.github.bingoohuang/eql@0.0.91?classifier=sources

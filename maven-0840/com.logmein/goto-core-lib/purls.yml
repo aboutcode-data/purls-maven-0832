@@ -1,0 +1,4 @@
+- pkg:maven/com.logmein/goto-core-lib@0.20.0
+- pkg:maven/com.logmein/goto-core-lib@0.20.0?classifier=sources
+- pkg:maven/com.logmein/goto-core-lib@1.00.0
+- pkg:maven/com.logmein/goto-core-lib@1.00.0?classifier=sources

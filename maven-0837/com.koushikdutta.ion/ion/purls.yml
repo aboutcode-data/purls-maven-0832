@@ -114,3 +114,7 @@
 - pkg:maven/com.koushikdutta.ion/ion@2.1.8?type=aar
 - pkg:maven/com.koushikdutta.ion/ion@2.1.9?classifier=sources
 - pkg:maven/com.koushikdutta.ion/ion@2.1.9?type=aar
+- pkg:maven/com.koushikdutta.ion/ion@2.2.0?classifier=sources
+- pkg:maven/com.koushikdutta.ion/ion@2.2.0?type=aar
+- pkg:maven/com.koushikdutta.ion/ion@2.2.1?classifier=sources
+- pkg:maven/com.koushikdutta.ion/ion@2.2.1?type=aar

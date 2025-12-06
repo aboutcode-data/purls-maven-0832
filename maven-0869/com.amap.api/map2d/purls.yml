@@ -6,3 +6,5 @@
 - pkg:maven/com.amap.api/map2d@2.9.3?classifier=sources
 - pkg:maven/com.amap.api/map2d@3.0.0
 - pkg:maven/com.amap.api/map2d@3.0.0?classifier=sources
+- pkg:maven/com.amap.api/map2d@5.2.0
+- pkg:maven/com.amap.api/map2d@5.2.0?classifier=sources

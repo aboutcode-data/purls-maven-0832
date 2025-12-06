@@ -1,0 +1,8 @@
+- pkg:maven/com.episode6.hackit.disposable/disposable-butterknife@0.0.4?classifier=sources
+- pkg:maven/com.episode6.hackit.disposable/disposable-butterknife@0.0.4?type=aar
+- pkg:maven/com.episode6.hackit.disposable/disposable-butterknife@0.0.5?classifier=sources
+- pkg:maven/com.episode6.hackit.disposable/disposable-butterknife@0.0.5?type=aar
+- pkg:maven/com.episode6.hackit.disposable/disposable-butterknife@0.0.6?classifier=sources
+- pkg:maven/com.episode6.hackit.disposable/disposable-butterknife@0.0.6?type=aar
+- pkg:maven/com.episode6.hackit.disposable/disposable-butterknife@0.0.7?classifier=sources
+- pkg:maven/com.episode6.hackit.disposable/disposable-butterknife@0.0.7?type=aar

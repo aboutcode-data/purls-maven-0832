@@ -6,3 +6,5 @@
 - pkg:maven/net.dongliu/gson-java8-datatype@1.0.2?classifier=sources
 - pkg:maven/net.dongliu/gson-java8-datatype@1.0.3
 - pkg:maven/net.dongliu/gson-java8-datatype@1.0.3?classifier=sources
+- pkg:maven/net.dongliu/gson-java8-datatype@1.1.0
+- pkg:maven/net.dongliu/gson-java8-datatype@1.1.0?classifier=sources

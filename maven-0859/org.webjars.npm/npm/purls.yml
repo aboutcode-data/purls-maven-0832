@@ -22,3 +22,13 @@
 - pkg:maven/org.webjars.npm/npm@4.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/npm@4.6.1
 - pkg:maven/org.webjars.npm/npm@4.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/npm@5.0.4
+- pkg:maven/org.webjars.npm/npm@5.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/npm@5.1.0
+- pkg:maven/org.webjars.npm/npm@5.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/npm@5.3.0
+- pkg:maven/org.webjars.npm/npm@5.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/npm@5.4.0
+- pkg:maven/org.webjars.npm/npm@5.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/npm@5.6.0
+- pkg:maven/org.webjars.npm/npm@5.6.0?classifier=sources

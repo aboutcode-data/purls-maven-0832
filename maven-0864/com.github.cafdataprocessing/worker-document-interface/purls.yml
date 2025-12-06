@@ -2,3 +2,13 @@
 - pkg:maven/com.github.cafdataprocessing/worker-document-interface@2.0.0-5?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-document-interface@2.1.0-15
 - pkg:maven/com.github.cafdataprocessing/worker-document-interface@2.1.0-15?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@2.2.0-41
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@2.2.0-41?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@3.0.0-53
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@3.0.0-53?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@3.1.0-68
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@3.1.0-68?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@3.1.1-71
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@3.1.1-71?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@3.2.0-100
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@3.2.0-100?classifier=sources

@@ -26,3 +26,9 @@
 - pkg:maven/org.webjars.npm/tslint@4.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/tslint@5.1.0
 - pkg:maven/org.webjars.npm/tslint@5.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/tslint@5.5.0
+- pkg:maven/org.webjars.npm/tslint@5.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/tslint@5.7.0
+- pkg:maven/org.webjars.npm/tslint@5.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/tslint@5.8.0
+- pkg:maven/org.webjars.npm/tslint@5.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.nactem.argo/argo-reader-archetype@1.1?classifier=sources
+- pkg:maven/uk.ac.nactem.argo/argo-reader-archetype@1.2?classifier=sources

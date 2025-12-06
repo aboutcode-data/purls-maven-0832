@@ -1,0 +1,4 @@
+- pkg:maven/it.bancaditalia.oss/sdmx@1.9.2
+- pkg:maven/it.bancaditalia.oss/sdmx@1.9.2?classifier=sources
+- pkg:maven/it.bancaditalia.oss/sdmx@2.0.0
+- pkg:maven/it.bancaditalia.oss/sdmx@2.0.0?classifier=sources

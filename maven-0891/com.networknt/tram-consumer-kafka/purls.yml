@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/tram-consumer-kafka@1.5.6
+- pkg:maven/com.networknt/tram-consumer-kafka@1.5.6?classifier=sources

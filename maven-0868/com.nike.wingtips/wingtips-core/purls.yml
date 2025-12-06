@@ -6,5 +6,15 @@
 - pkg:maven/com.nike.wingtips/wingtips-core@0.11.1?classifier=sources
 - pkg:maven/com.nike.wingtips/wingtips-core@0.11.2
 - pkg:maven/com.nike.wingtips/wingtips-core@0.11.2?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-core@0.12.0
+- pkg:maven/com.nike.wingtips/wingtips-core@0.12.0?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-core@0.12.1
+- pkg:maven/com.nike.wingtips/wingtips-core@0.12.1?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-core@0.13.0
+- pkg:maven/com.nike.wingtips/wingtips-core@0.13.0?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-core@0.14.0
+- pkg:maven/com.nike.wingtips/wingtips-core@0.14.0?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-core@0.14.1
+- pkg:maven/com.nike.wingtips/wingtips-core@0.14.1?classifier=sources
 - pkg:maven/com.nike.wingtips/wingtips-core@0.9.0.1
 - pkg:maven/com.nike.wingtips/wingtips-core@0.9.0.1?classifier=sources

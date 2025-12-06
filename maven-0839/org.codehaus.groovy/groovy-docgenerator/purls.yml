@@ -121,6 +121,10 @@
 - pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.10?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.11
 - pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.11?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.12
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.12?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.13
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.13?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.1?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.2
 - pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.2?classifier=sources
@@ -140,3 +144,13 @@
 - pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.4.9?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.5.0-alpha-1
 - pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.5.0-alpha-1?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.5.0-beta-1
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.5.0-beta-1?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.5.0-beta-2
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.5.0-beta-2?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.6.0-alpha-1
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.6.0-alpha-1?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.6.0-alpha-2
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@2.6.0-alpha-2?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@3.0.0-alpha-1
+- pkg:maven/org.codehaus.groovy/groovy-docgenerator@3.0.0-alpha-1?classifier=sources

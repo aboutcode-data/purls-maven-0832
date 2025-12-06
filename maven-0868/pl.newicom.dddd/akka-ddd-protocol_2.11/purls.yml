@@ -1,2 +1,4 @@
 - pkg:maven/pl.newicom.dddd/akka-ddd-protocol_2.11@1.6.0
 - pkg:maven/pl.newicom.dddd/akka-ddd-protocol_2.11@1.6.0?classifier=sources
+- pkg:maven/pl.newicom.dddd/akka-ddd-protocol_2.11@1.6.1
+- pkg:maven/pl.newicom.dddd/akka-ddd-protocol_2.11@1.6.1?classifier=sources

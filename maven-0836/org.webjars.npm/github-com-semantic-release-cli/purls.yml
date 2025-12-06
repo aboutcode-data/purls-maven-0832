@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-semantic-release-cli@0.0.0-development
+- pkg:maven/org.webjars.npm/github-com-semantic-release-cli@0.0.0-development?classifier=sources

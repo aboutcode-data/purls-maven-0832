@@ -4,3 +4,9 @@
 - pkg:maven/org.slinkyframework/slinky-repository-couchbase-parent@0.2.9
 - pkg:maven/org.slinkyframework/slinky-repository-couchbase-parent@0.3.0
 - pkg:maven/org.slinkyframework/slinky-repository-couchbase-parent@0.3.1
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase-parent@0.3.2
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase-parent@0.3.3
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase-parent@0.3.4
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase-parent@0.3.5
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase-parent@0.3.6
+- pkg:maven/org.slinkyframework/slinky-repository-couchbase-parent@0.3.7

@@ -8,6 +8,8 @@
 - pkg:maven/com.blazebit/blaze-mail-utils@0.1.13?classifier=sources
 - pkg:maven/com.blazebit/blaze-mail-utils@0.1.14
 - pkg:maven/com.blazebit/blaze-mail-utils@0.1.14?classifier=sources
+- pkg:maven/com.blazebit/blaze-mail-utils@0.1.15
+- pkg:maven/com.blazebit/blaze-mail-utils@0.1.15?classifier=sources
 - pkg:maven/com.blazebit/blaze-mail-utils@0.1.4
 - pkg:maven/com.blazebit/blaze-mail-utils@0.1.4?classifier=sources
 - pkg:maven/com.blazebit/blaze-mail-utils@0.1.5

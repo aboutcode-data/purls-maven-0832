@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/react-addons-create-fragment@0.14.7?classifier=sources
 - pkg:maven/org.webjars.npm/react-addons-create-fragment@15.3.2
 - pkg:maven/org.webjars.npm/react-addons-create-fragment@15.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/react-addons-create-fragment@15.5.4
+- pkg:maven/org.webjars.npm/react-addons-create-fragment@15.5.4?classifier=sources

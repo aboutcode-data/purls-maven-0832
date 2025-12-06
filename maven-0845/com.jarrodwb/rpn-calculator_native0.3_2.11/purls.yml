@@ -1,0 +1,2 @@
+- pkg:maven/com.jarrodwb/rpn-calculator_native0.3_2.11@0.3
+- pkg:maven/com.jarrodwb/rpn-calculator_native0.3_2.11@0.3?classifier=sources

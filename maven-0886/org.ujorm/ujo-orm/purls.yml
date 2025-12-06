@@ -53,3 +53,17 @@
 - pkg:maven/org.ujorm/ujo-orm@1.61?classifier=sources
 - pkg:maven/org.ujorm/ujo-orm@1.62
 - pkg:maven/org.ujorm/ujo-orm@1.62?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.70
+- pkg:maven/org.ujorm/ujo-orm@1.70?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.71
+- pkg:maven/org.ujorm/ujo-orm@1.71?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.72
+- pkg:maven/org.ujorm/ujo-orm@1.72?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.73
+- pkg:maven/org.ujorm/ujo-orm@1.73?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.74
+- pkg:maven/org.ujorm/ujo-orm@1.74?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.75
+- pkg:maven/org.ujorm/ujo-orm@1.75?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.76
+- pkg:maven/org.ujorm/ujo-orm@1.76?classifier=sources

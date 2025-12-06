@@ -22,3 +22,6 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-rio-compliance@2.1.6
 - pkg:maven/org.eclipse.rdf4j/rdf4j-rio-compliance@2.2
 - pkg:maven/org.eclipse.rdf4j/rdf4j-rio-compliance@2.2.1
+- pkg:maven/org.eclipse.rdf4j/rdf4j-rio-compliance@2.2.2
+- pkg:maven/org.eclipse.rdf4j/rdf4j-rio-compliance@2.2.3
+- pkg:maven/org.eclipse.rdf4j/rdf4j-rio-compliance@2.2.4

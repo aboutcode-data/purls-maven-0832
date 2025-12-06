@@ -1,0 +1,2 @@
+- pkg:maven/io.kamon/kamon-newrelic_2.12@0.6.8
+- pkg:maven/io.kamon/kamon-newrelic_2.12@0.6.8?classifier=sources

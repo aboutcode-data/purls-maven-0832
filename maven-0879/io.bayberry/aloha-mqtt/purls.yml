@@ -1,0 +1,2 @@
+- pkg:maven/io.bayberry/aloha-mqtt@1.0.4-alpha
+- pkg:maven/io.bayberry/aloha-mqtt@1.0.4-alpha?classifier=sources

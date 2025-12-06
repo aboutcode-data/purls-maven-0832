@@ -1,3 +1,4 @@
+- pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.0
 - pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.0-pre1
 - pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.0-pre1?classifier=sources
 - pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.0-pre2
@@ -8,6 +9,11 @@
 - pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.0-pre4?classifier=sources
 - pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.0-pre5
 - pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.0-pre5?classifier=sources
+- pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.0?classifier=sources
+- pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.1
+- pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.1?classifier=sources
+- pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.2
+- pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@0.4.2?classifier=sources
 - pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@2.2.2-1
 - pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@2.2.2-1?classifier=sources
 - pkg:maven/io.scalajs.npm/readable-stream_sjs0.6_2.11@2.2.2-2

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.6
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.6?classifier=source-release&type=zip

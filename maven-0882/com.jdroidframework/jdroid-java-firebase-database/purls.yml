@@ -8,5 +8,9 @@
 - pkg:maven/com.jdroidframework/jdroid-java-firebase-database@0.12.0?classifier=sources
 - pkg:maven/com.jdroidframework/jdroid-java-firebase-database@0.13.0
 - pkg:maven/com.jdroidframework/jdroid-java-firebase-database@0.13.0?classifier=sources
+- pkg:maven/com.jdroidframework/jdroid-java-firebase-database@0.14.0
+- pkg:maven/com.jdroidframework/jdroid-java-firebase-database@0.14.0?classifier=sources
+- pkg:maven/com.jdroidframework/jdroid-java-firebase-database@0.15.0
+- pkg:maven/com.jdroidframework/jdroid-java-firebase-database@0.15.0?classifier=sources
 - pkg:maven/com.jdroidframework/jdroid-java-firebase-database@0.9.6
 - pkg:maven/com.jdroidframework/jdroid-java-firebase-database@0.9.6?classifier=sources

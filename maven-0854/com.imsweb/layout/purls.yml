@@ -16,3 +16,5 @@
 - pkg:maven/com.imsweb/layout@1.5.1
 - pkg:maven/com.imsweb/layout@1.5.1?classifier=sources
 - pkg:maven/com.imsweb/layout@1.5?classifier=sources
+- pkg:maven/com.imsweb/layout@1.6
+- pkg:maven/com.imsweb/layout@1.6?classifier=sources

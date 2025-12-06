@@ -4,3 +4,5 @@
 - pkg:maven/nl.big-o/liqp@0.6.7?classifier=sources
 - pkg:maven/nl.big-o/liqp@0.6.8
 - pkg:maven/nl.big-o/liqp@0.6.8?classifier=sources
+- pkg:maven/nl.big-o/liqp@0.7.2
+- pkg:maven/nl.big-o/liqp@0.7.2?classifier=sources

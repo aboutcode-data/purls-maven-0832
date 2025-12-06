@@ -1,2 +1,8 @@
 - pkg:maven/br.com.progolden/vraptor-boilerplate-utils@1.0.0
 - pkg:maven/br.com.progolden/vraptor-boilerplate-utils@1.0.0?classifier=sources
+- pkg:maven/br.com.progolden/vraptor-boilerplate-utils@1.1.0-Alpha1
+- pkg:maven/br.com.progolden/vraptor-boilerplate-utils@1.1.0-Alpha1?classifier=sources
+- pkg:maven/br.com.progolden/vraptor-boilerplate-utils@1.1.0-Alpha2
+- pkg:maven/br.com.progolden/vraptor-boilerplate-utils@1.1.0-Alpha2?classifier=sources
+- pkg:maven/br.com.progolden/vraptor-boilerplate-utils@1.1.0-Alpha3
+- pkg:maven/br.com.progolden/vraptor-boilerplate-utils@1.1.0-Alpha3?classifier=sources

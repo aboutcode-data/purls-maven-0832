@@ -1,0 +1,6 @@
+- pkg:maven/com.tranxactive/j2pay@1.0.0
+- pkg:maven/com.tranxactive/j2pay@1.0.0?classifier=sources
+- pkg:maven/com.tranxactive/j2pay@2.3.0
+- pkg:maven/com.tranxactive/j2pay@2.3.0?classifier=sources
+- pkg:maven/com.tranxactive/j2pay@2.4.0
+- pkg:maven/com.tranxactive/j2pay@2.4.0?classifier=sources

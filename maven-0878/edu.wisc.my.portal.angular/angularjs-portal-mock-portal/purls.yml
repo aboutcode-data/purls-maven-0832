@@ -39,3 +39,5 @@
 - pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-mock-portal@6.4.1?type=war
 - pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-mock-portal@6.4.2?type=war
 - pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-mock-portal@6.5.0?type=war
+- pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-mock-portal@6.6.0?type=war
+- pkg:maven/edu.wisc.my.portal.angular/angularjs-portal-mock-portal@6.7.0?type=war

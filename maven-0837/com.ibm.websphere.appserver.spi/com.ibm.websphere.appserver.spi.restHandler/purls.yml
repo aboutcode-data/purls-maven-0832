@@ -7,3 +7,6 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@1.5.14
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@1.5.15
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@1.5.16
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@2.0.17
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@2.0.18
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@2.0.19

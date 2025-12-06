@@ -8,3 +8,7 @@
 - pkg:maven/org.sklsft.generator/generator-business-component@2.1.1?classifier=sources
 - pkg:maven/org.sklsft.generator/generator-business-component@2.1.2
 - pkg:maven/org.sklsft.generator/generator-business-component@2.1.2?classifier=sources
+- pkg:maven/org.sklsft.generator/generator-business-component@3.0.0-M1
+- pkg:maven/org.sklsft.generator/generator-business-component@3.0.0-M1?classifier=sources
+- pkg:maven/org.sklsft.generator/generator-business-component@3.0.0-M2
+- pkg:maven/org.sklsft.generator/generator-business-component@3.0.0-M2?classifier=sources

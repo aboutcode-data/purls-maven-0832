@@ -1,0 +1,4 @@
+- pkg:maven/com.ctosb/ctosb-ueditor@1.1.2
+- pkg:maven/com.ctosb/ctosb-ueditor@1.1.2-official
+- pkg:maven/com.ctosb/ctosb-ueditor@1.1.2-official?classifier=sources
+- pkg:maven/com.ctosb/ctosb-ueditor@1.1.2?classifier=sources

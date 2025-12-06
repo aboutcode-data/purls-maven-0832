@@ -1,2 +1,6 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.1.201
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.1.201?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.0
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.1
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.1?classifier=sources

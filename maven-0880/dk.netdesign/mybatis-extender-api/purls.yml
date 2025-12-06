@@ -1,0 +1,2 @@
+- pkg:maven/dk.netdesign/mybatis-extender-api@1.0.2
+- pkg:maven/dk.netdesign/mybatis-extender-api@1.0.2?classifier=sources

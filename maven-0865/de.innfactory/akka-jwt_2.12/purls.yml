@@ -1,0 +1,4 @@
+- pkg:maven/de.innfactory/akka-jwt_2.12@1.0.7
+- pkg:maven/de.innfactory/akka-jwt_2.12@1.0.7?classifier=sources
+- pkg:maven/de.innfactory/akka-jwt_2.12@1.1.1
+- pkg:maven/de.innfactory/akka-jwt_2.12@1.1.1?classifier=sources

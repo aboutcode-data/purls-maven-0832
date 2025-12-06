@@ -30,3 +30,7 @@
 - pkg:maven/com.samsix/s6-db@1.1.1?classifier=sources
 - pkg:maven/com.samsix/s6-db@1.2.0
 - pkg:maven/com.samsix/s6-db@1.2.0?classifier=sources
+- pkg:maven/com.samsix/s6-db@2.0.0
+- pkg:maven/com.samsix/s6-db@2.0.0?classifier=sources
+- pkg:maven/com.samsix/s6-db@2.0.1
+- pkg:maven/com.samsix/s6-db@2.0.1?classifier=sources

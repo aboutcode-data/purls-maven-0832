@@ -138,3 +138,5 @@
 - pkg:maven/org.ajoberstar/gradle-git@1.6.0-rc.5
 - pkg:maven/org.ajoberstar/gradle-git@1.6.0-rc.5?classifier=sources
 - pkg:maven/org.ajoberstar/gradle-git@1.6.0?classifier=sources
+- pkg:maven/org.ajoberstar/gradle-git@1.7.2
+- pkg:maven/org.ajoberstar/gradle-git@1.7.2?classifier=sources

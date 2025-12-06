@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi.registry/nifi-registry-data-model@0.1.0
+- pkg:maven/org.apache.nifi.registry/nifi-registry-data-model@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mule.services/mule-service-oauth@1.0.0-BETA.4?classifier=sources
+- pkg:maven/org.mule.services/mule-service-oauth@1.0.0-rc?classifier=sources

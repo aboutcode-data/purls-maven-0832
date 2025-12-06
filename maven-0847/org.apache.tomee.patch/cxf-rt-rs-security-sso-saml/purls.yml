@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.tomee.patch/cxf-rt-rs-security-sso-saml@2.6.17-TomEE

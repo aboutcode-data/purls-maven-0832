@@ -10,6 +10,8 @@
 - pkg:maven/org.webjars.bower/angular-ui-tinymce@0.0.17?classifier=sources
 - pkg:maven/org.webjars.bower/angular-ui-tinymce@0.0.18
 - pkg:maven/org.webjars.bower/angular-ui-tinymce@0.0.18?classifier=sources
+- pkg:maven/org.webjars.bower/angular-ui-tinymce@0.0.19
+- pkg:maven/org.webjars.bower/angular-ui-tinymce@0.0.19?classifier=sources
 - pkg:maven/org.webjars.bower/angular-ui-tinymce@0.0.8
 - pkg:maven/org.webjars.bower/angular-ui-tinymce@0.0.8?classifier=sources
 - pkg:maven/org.webjars.bower/angular-ui-tinymce@0.0.9

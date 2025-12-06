@@ -4,3 +4,9 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-mail@4.4.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-mail@4.5.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-mail@4.5.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@4.8.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@4.8.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@4.9.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@4.9.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@5.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@5.0.0?type=war

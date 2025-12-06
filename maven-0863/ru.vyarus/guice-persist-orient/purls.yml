@@ -32,3 +32,5 @@
 - pkg:maven/ru.vyarus/guice-persist-orient@3.1.1?classifier=sources
 - pkg:maven/ru.vyarus/guice-persist-orient@3.2.0
 - pkg:maven/ru.vyarus/guice-persist-orient@3.2.0?classifier=sources
+- pkg:maven/ru.vyarus/guice-persist-orient@3.3.0
+- pkg:maven/ru.vyarus/guice-persist-orient@3.3.0?classifier=sources

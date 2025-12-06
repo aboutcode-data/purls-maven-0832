@@ -1,0 +1,2 @@
+- pkg:maven/edu.washington.cs.dt/dt-fixer@1.0
+- pkg:maven/edu.washington.cs.dt/dt-fixer@1.0?classifier=sources

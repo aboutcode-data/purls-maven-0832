@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.feature@4.7.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.feature@4.7.8?classifier=source-release&type=zip

@@ -1,2 +1,8 @@
 - pkg:maven/com.satori/satori-rtm-sdk-jackson2@1.0.3
 - pkg:maven/com.satori/satori-rtm-sdk-jackson2@1.0.3?classifier=sources
+- pkg:maven/com.satori/satori-rtm-sdk-jackson2@1.1.0
+- pkg:maven/com.satori/satori-rtm-sdk-jackson2@1.1.0?classifier=sources
+- pkg:maven/com.satori/satori-rtm-sdk-jackson2@1.1.5
+- pkg:maven/com.satori/satori-rtm-sdk-jackson2@1.1.5?classifier=sources
+- pkg:maven/com.satori/satori-rtm-sdk-jackson2@1.1.6
+- pkg:maven/com.satori/satori-rtm-sdk-jackson2@1.1.6?classifier=sources

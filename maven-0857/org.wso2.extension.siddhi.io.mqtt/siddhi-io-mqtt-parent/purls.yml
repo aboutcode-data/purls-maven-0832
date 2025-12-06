@@ -1,0 +1,10 @@
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.11?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.13?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt-parent@1.0.9?classifier=source-release&type=zip

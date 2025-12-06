@@ -16,3 +16,5 @@
 - pkg:maven/com.uriio/beacons-android@1.5.0?type=aar
 - pkg:maven/com.uriio/beacons-android@1.5.1?classifier=sources
 - pkg:maven/com.uriio/beacons-android@1.5.1?type=aar
+- pkg:maven/com.uriio/beacons-android@1.5.2?classifier=sources
+- pkg:maven/com.uriio/beacons-android@1.5.2?type=aar

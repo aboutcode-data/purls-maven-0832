@@ -2,6 +2,7 @@
 - pkg:maven/io.fabric8/vertx-maven-plugin@0.1.2
 - pkg:maven/io.fabric8/vertx-maven-plugin@1.0.0
 - pkg:maven/io.fabric8/vertx-maven-plugin@1.0.1
+- pkg:maven/io.fabric8/vertx-maven-plugin@1.0.13
 - pkg:maven/io.fabric8/vertx-maven-plugin@1.0.2
 - pkg:maven/io.fabric8/vertx-maven-plugin@1.0.3
 - pkg:maven/io.fabric8/vertx-maven-plugin@1.0.4
@@ -9,3 +10,4 @@
 - pkg:maven/io.fabric8/vertx-maven-plugin@1.0.6
 - pkg:maven/io.fabric8/vertx-maven-plugin@1.0.7
 - pkg:maven/io.fabric8/vertx-maven-plugin@1.0.8
+- pkg:maven/io.fabric8/vertx-maven-plugin@1.0.9

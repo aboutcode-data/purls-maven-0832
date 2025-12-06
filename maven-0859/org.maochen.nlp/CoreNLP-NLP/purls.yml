@@ -58,3 +58,5 @@
 - pkg:maven/org.maochen.nlp/CoreNLP-NLP@1.0.9?classifier=sources
 - pkg:maven/org.maochen.nlp/CoreNLP-NLP@1.1
 - pkg:maven/org.maochen.nlp/CoreNLP-NLP@1.1?classifier=sources
+- pkg:maven/org.maochen.nlp/CoreNLP-NLP@1.2
+- pkg:maven/org.maochen.nlp/CoreNLP-NLP@1.2?classifier=sources

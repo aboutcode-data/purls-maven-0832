@@ -1,0 +1,2 @@
+- pkg:maven/nl.rabobank.rules/rule-engine-core_2.11@0.6.0
+- pkg:maven/nl.rabobank.rules/rule-engine-core_2.11@0.6.0?classifier=sources

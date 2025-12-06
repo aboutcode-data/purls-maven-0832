@@ -1,0 +1,4 @@
+- pkg:maven/me.tonyrice.oss/jsync.io@1.10.14
+- pkg:maven/me.tonyrice.oss/jsync.io@1.10.14?classifier=sources
+- pkg:maven/me.tonyrice.oss/jsync.io@1.10.15
+- pkg:maven/me.tonyrice.oss/jsync.io@1.10.15?classifier=sources

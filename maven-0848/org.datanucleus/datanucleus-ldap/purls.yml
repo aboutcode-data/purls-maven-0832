@@ -125,3 +125,7 @@
 - pkg:maven/org.datanucleus/datanucleus-ldap@5.0.0-release?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-ldap@5.0.1
 - pkg:maven/org.datanucleus/datanucleus-ldap@5.0.1?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-ldap@5.1.0-m1
+- pkg:maven/org.datanucleus/datanucleus-ldap@5.1.0-m1?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-ldap@5.1.0-release
+- pkg:maven/org.datanucleus/datanucleus-ldap@5.1.0-release?classifier=sources

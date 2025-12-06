@@ -2,3 +2,9 @@
 - pkg:maven/org.scala-js/scalajs-junit-test-runtime_2.13.0-M1@0.6.16?classifier=sources
 - pkg:maven/org.scala-js/scalajs-junit-test-runtime_2.13.0-M1@0.6.17
 - pkg:maven/org.scala-js/scalajs-junit-test-runtime_2.13.0-M1@0.6.17?classifier=sources
+- pkg:maven/org.scala-js/scalajs-junit-test-runtime_2.13.0-M1@0.6.18
+- pkg:maven/org.scala-js/scalajs-junit-test-runtime_2.13.0-M1@0.6.18?classifier=sources
+- pkg:maven/org.scala-js/scalajs-junit-test-runtime_2.13.0-M1@0.6.19
+- pkg:maven/org.scala-js/scalajs-junit-test-runtime_2.13.0-M1@0.6.19?classifier=sources
+- pkg:maven/org.scala-js/scalajs-junit-test-runtime_2.13.0-M1@1.0.0-M1
+- pkg:maven/org.scala-js/scalajs-junit-test-runtime_2.13.0-M1@1.0.0-M1?classifier=sources

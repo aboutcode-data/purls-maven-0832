@@ -18,3 +18,5 @@
 - pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin4?classifier=sources
 - pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin5
 - pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin5?classifier=sources
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin6
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin6?classifier=sources

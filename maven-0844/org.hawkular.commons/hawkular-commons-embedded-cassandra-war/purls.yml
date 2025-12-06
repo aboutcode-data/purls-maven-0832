@@ -17,3 +17,6 @@
 - pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.9.4.Final?type=war
 - pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.9.5.Final?type=war
 - pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.9.6.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.9.7.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.9.8.Final?type=war
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-war@0.9.8?type=war

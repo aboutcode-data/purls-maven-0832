@@ -1,0 +1,2 @@
+- pkg:maven/com.jtransc.gdx/gdx-gamecenter-jtransc@0.6.7
+- pkg:maven/com.jtransc.gdx/gdx-gamecenter-jtransc@0.6.7?classifier=sources

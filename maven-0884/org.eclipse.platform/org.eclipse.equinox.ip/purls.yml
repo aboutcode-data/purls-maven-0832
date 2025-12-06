@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.ip@1.1.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.ip@1.1.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.ip@1.1.400
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.ip@1.1.400?classifier=sources

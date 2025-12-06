@@ -1,0 +1,2 @@
+- pkg:maven/org.mellowtech/gapi-common_2.12@1.0
+- pkg:maven/org.mellowtech/gapi-common_2.12@1.0?classifier=sources

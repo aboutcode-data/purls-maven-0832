@@ -1,0 +1,4 @@
+- pkg:maven/se.oyabun.criters.test/criters-test-core-jpa@1.0.0
+- pkg:maven/se.oyabun.criters.test/criters-test-core-jpa@1.0.0?classifier=sources
+- pkg:maven/se.oyabun.criters.test/criters-test-core-jpa@1.0.1
+- pkg:maven/se.oyabun.criters.test/criters-test-core-jpa@1.0.1?classifier=sources

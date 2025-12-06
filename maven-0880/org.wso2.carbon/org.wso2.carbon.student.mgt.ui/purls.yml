@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.4.19
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.4.19?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.4.20
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.4.20?classifier=sources

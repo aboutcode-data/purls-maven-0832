@@ -6,3 +6,13 @@
 - pkg:maven/com.virgilsecurity.sdk/api@4.3.3?classifier=sources
 - pkg:maven/com.virgilsecurity.sdk/api@4.4.0-alpha
 - pkg:maven/com.virgilsecurity.sdk/api@4.4.0-alpha?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/api@4.5.0
+- pkg:maven/com.virgilsecurity.sdk/api@4.5.0-alpha
+- pkg:maven/com.virgilsecurity.sdk/api@4.5.0-alpha?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/api@4.5.0-rc1
+- pkg:maven/com.virgilsecurity.sdk/api@4.5.0-rc1?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/api@4.5.0-rc2
+- pkg:maven/com.virgilsecurity.sdk/api@4.5.0-rc2?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/api@4.5.0?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/api@4.6.0
+- pkg:maven/com.virgilsecurity.sdk/api@4.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.snowdrop/spring-cloud-stream-binder-artemis@1.0.0.Alpha1
+- pkg:maven/me.snowdrop/spring-cloud-stream-binder-artemis@1.0.0.Alpha1?classifier=sources

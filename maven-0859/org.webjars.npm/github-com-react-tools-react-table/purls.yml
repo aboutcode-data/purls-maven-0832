@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-react-tools-react-table@6.5.3
+- pkg:maven/org.webjars.npm/github-com-react-tools-react-table@6.5.3?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-react-tools-react-table@6.6.0
+- pkg:maven/org.webjars.npm/github-com-react-tools-react-table@6.6.0?classifier=sources

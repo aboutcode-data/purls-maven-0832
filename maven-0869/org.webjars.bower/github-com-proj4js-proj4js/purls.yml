@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-proj4js-proj4js@2.4.4-alpha
+- pkg:maven/org.webjars.bower/github-com-proj4js-proj4js@2.4.4-alpha?classifier=sources

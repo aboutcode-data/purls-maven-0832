@@ -10,3 +10,5 @@
 - pkg:maven/com.vanniktech/onactivityresult-annotations@0.5.0?classifier=sources
 - pkg:maven/com.vanniktech/onactivityresult-annotations@0.6.0
 - pkg:maven/com.vanniktech/onactivityresult-annotations@0.6.0?classifier=sources
+- pkg:maven/com.vanniktech/onactivityresult-annotations@0.7.0
+- pkg:maven/com.vanniktech/onactivityresult-annotations@0.7.0?classifier=sources

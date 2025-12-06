@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.jmeter/jorphan@3.0
 - pkg:maven/org.apache.jmeter/jorphan@3.1
 - pkg:maven/org.apache.jmeter/jorphan@3.2
+- pkg:maven/org.apache.jmeter/jorphan@3.3

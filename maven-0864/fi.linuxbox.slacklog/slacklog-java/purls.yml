@@ -1,0 +1,2 @@
+- pkg:maven/fi.linuxbox.slacklog/slacklog-java@0.9.4
+- pkg:maven/fi.linuxbox.slacklog/slacklog-java@0.9.4?classifier=sources

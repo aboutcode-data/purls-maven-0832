@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/ng-file-upload@12.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/ng-file-upload@12.2.12
 - pkg:maven/org.webjars.npm/ng-file-upload@12.2.12?classifier=sources
+- pkg:maven/org.webjars.npm/ng-file-upload@12.2.13
+- pkg:maven/org.webjars.npm/ng-file-upload@12.2.13?classifier=sources
 - pkg:maven/org.webjars.npm/ng-file-upload@12.2.5
 - pkg:maven/org.webjars.npm/ng-file-upload@12.2.5?classifier=sources
 - pkg:maven/org.webjars.npm/ng-file-upload@12.2.9

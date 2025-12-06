@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.config/provider-standalone@2.1.4
+- pkg:maven/org.wso2.carbon.config/provider-standalone@2.1.4?classifier=sources
+- pkg:maven/org.wso2.carbon.config/provider-standalone@2.1.5
+- pkg:maven/org.wso2.carbon.config/provider-standalone@2.1.5?classifier=sources

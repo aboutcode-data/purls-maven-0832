@@ -1,0 +1,2 @@
+- pkg:maven/com.plainflow.analytics.java/analytics-core@2.0.0-p1
+- pkg:maven/com.plainflow.analytics.java/analytics-core@2.0.0-p1?classifier=sources

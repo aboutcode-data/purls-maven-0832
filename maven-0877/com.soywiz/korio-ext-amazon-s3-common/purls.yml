@@ -1,0 +1,8 @@
+- pkg:maven/com.soywiz/korio-ext-amazon-s3-common@0.14.0
+- pkg:maven/com.soywiz/korio-ext-amazon-s3-common@0.14.0?classifier=sources
+- pkg:maven/com.soywiz/korio-ext-amazon-s3-common@0.15.0
+- pkg:maven/com.soywiz/korio-ext-amazon-s3-common@0.15.0?classifier=sources
+- pkg:maven/com.soywiz/korio-ext-amazon-s3-common@0.15.3
+- pkg:maven/com.soywiz/korio-ext-amazon-s3-common@0.15.3?classifier=sources
+- pkg:maven/com.soywiz/korio-ext-amazon-s3-common@0.18.0
+- pkg:maven/com.soywiz/korio-ext-amazon-s3-common@0.18.0?classifier=sources

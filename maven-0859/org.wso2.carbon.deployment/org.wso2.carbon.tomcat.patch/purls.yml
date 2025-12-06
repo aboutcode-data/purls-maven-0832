@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.tomcat.patch@4.7.7
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.tomcat.patch@4.7.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.tomcat.patch@4.7.8
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.tomcat.patch@4.7.8?classifier=source-release&type=zip

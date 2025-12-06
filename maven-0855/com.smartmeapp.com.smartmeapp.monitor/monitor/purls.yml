@@ -1,0 +1,2 @@
+- pkg:maven/com.smartmeapp.com.smartmeapp.monitor/monitor@1.0?classifier=sources
+- pkg:maven/com.smartmeapp.com.smartmeapp.monitor/monitor@1.0?type=aar

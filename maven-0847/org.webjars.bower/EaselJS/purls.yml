@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/EaselJS@0.8.0?classifier=sources
 - pkg:maven/org.webjars.bower/EaselJS@0.8.2
 - pkg:maven/org.webjars.bower/EaselJS@0.8.2?classifier=sources
+- pkg:maven/org.webjars.bower/EaselJS@1.0.2
+- pkg:maven/org.webjars.bower/EaselJS@1.0.2?classifier=sources

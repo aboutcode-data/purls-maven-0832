@@ -1,0 +1,10 @@
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.42?classifier=sources
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.42?type=war
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.43?classifier=sources
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.43?type=war
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.44?classifier=sources
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.2.44?type=war
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.4.19?classifier=sources
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.4.19?type=war
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.4.20?classifier=sources
+- pkg:maven/org.wso2.carbon.appmgt/org.wso2.carbon.appmgt.rest.api.publisher@1.4.20?type=war

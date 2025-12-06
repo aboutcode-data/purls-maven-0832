@@ -1,0 +1,4 @@
+- pkg:maven/io.kwy.boot/spring-boot@1.5.3.1.RELEASE
+- pkg:maven/io.kwy.boot/spring-boot@1.5.3.1.RELEASE?classifier=sources
+- pkg:maven/io.kwy.boot/spring-boot@1.5.3.RELEASE
+- pkg:maven/io.kwy.boot/spring-boot@1.5.3.RELEASE?classifier=sources

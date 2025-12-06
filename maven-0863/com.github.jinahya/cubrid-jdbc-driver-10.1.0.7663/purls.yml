@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jinahya/cubrid-jdbc-driver-10.1.0.7663@1.0.0
+- pkg:maven/com.github.jinahya/cubrid-jdbc-driver-10.1.0.7663@1.0.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.jdtaus/ISO-13616@2007.69?type=zip
 - pkg:maven/org.jdtaus/ISO-13616@2007.73?classifier=sources
 - pkg:maven/org.jdtaus/ISO-13616@2007.73?type=zip
+- pkg:maven/org.jdtaus/ISO-13616@2007.78?classifier=sources
+- pkg:maven/org.jdtaus/ISO-13616@2007.78?type=zip

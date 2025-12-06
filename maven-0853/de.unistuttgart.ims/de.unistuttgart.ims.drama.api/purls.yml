@@ -12,3 +12,5 @@
 - pkg:maven/de.unistuttgart.ims/de.unistuttgart.ims.drama.api@0.4.4?classifier=sources
 - pkg:maven/de.unistuttgart.ims/de.unistuttgart.ims.drama.api@0.5.0
 - pkg:maven/de.unistuttgart.ims/de.unistuttgart.ims.drama.api@0.5.0?classifier=sources
+- pkg:maven/de.unistuttgart.ims/de.unistuttgart.ims.drama.api@0.5.1
+- pkg:maven/de.unistuttgart.ims/de.unistuttgart.ims.drama.api@0.5.1?classifier=sources

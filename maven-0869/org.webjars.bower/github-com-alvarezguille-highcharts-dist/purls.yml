@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-alvarezguille-highcharts-dist@6.0.2
+- pkg:maven/org.webjars.bower/github-com-alvarezguille-highcharts-dist@6.0.2?classifier=sources

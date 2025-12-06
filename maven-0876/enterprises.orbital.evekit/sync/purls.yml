@@ -6,3 +6,13 @@
 - pkg:maven/enterprises.orbital.evekit/sync@2.1.0?classifier=sources
 - pkg:maven/enterprises.orbital.evekit/sync@3.0.0
 - pkg:maven/enterprises.orbital.evekit/sync@3.0.0?classifier=sources
+- pkg:maven/enterprises.orbital.evekit/sync@3.1.0
+- pkg:maven/enterprises.orbital.evekit/sync@3.1.0?classifier=sources
+- pkg:maven/enterprises.orbital.evekit/sync@4.0.0
+- pkg:maven/enterprises.orbital.evekit/sync@4.0.0?classifier=sources
+- pkg:maven/enterprises.orbital.evekit/sync@4.0.1
+- pkg:maven/enterprises.orbital.evekit/sync@4.0.1?classifier=sources
+- pkg:maven/enterprises.orbital.evekit/sync@4.0.2
+- pkg:maven/enterprises.orbital.evekit/sync@4.0.2?classifier=sources
+- pkg:maven/enterprises.orbital.evekit/sync@4.1.0
+- pkg:maven/enterprises.orbital.evekit/sync@4.1.0?classifier=sources

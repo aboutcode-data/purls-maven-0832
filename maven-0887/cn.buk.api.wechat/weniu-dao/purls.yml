@@ -1,0 +1,2 @@
+- pkg:maven/cn.buk.api.wechat/weniu-dao@1.2.30
+- pkg:maven/cn.buk.api.wechat/weniu-dao@1.2.30?classifier=sources

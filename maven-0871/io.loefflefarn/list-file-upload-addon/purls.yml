@@ -1,0 +1,4 @@
+- pkg:maven/io.loefflefarn/list-file-upload-addon@0.0.2
+- pkg:maven/io.loefflefarn/list-file-upload-addon@0.0.2?classifier=sources
+- pkg:maven/io.loefflefarn/list-file-upload-addon@1.0.0
+- pkg:maven/io.loefflefarn/list-file-upload-addon@1.0.0?classifier=sources

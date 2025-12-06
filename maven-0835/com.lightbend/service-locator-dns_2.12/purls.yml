@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend/service-locator-dns_2.12@2.2.2
+- pkg:maven/com.lightbend/service-locator-dns_2.12@2.2.2?classifier=sources

@@ -58,6 +58,12 @@
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.1.Final?classifier=sources
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.10.Final
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.10.Final?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.10.SP1
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.10.SP1?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.10.SP2
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.10.SP2?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.10.SP3
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.10.SP3?classifier=sources
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.11.Final
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.11.Final?classifier=sources
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@1.4.2.Final
@@ -92,3 +98,11 @@
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.0.Beta7?classifier=sources
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.0.Beta8
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.0.Beta8?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.0.CR1
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.0.Final
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.1.Final
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.2.Final
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.2.Final?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/software.purpledragon/poi4s-gpx_2.11@0.0.1
+- pkg:maven/software.purpledragon/poi4s-gpx_2.11@0.0.1?classifier=sources
+- pkg:maven/software.purpledragon/poi4s-gpx_2.11@0.0.2
+- pkg:maven/software.purpledragon/poi4s-gpx_2.11@0.0.2?classifier=sources

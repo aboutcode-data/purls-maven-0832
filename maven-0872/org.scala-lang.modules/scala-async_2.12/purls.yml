@@ -1,2 +1,4 @@
 - pkg:maven/org.scala-lang.modules/scala-async_2.12@0.9.6
 - pkg:maven/org.scala-lang.modules/scala-async_2.12@0.9.6?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-async_2.12@0.9.7
+- pkg:maven/org.scala-lang.modules/scala-async_2.12@0.9.7?classifier=sources

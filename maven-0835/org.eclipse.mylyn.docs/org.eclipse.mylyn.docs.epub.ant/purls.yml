@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.docs.epub.ant@4.0.5
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.docs.epub.ant@4.0.5?classifier=sources

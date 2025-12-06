@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.facebook/identity-outbound-auth-facebook@5.1.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.facebook/identity-outbound-auth-facebook@5.1.11?classifier=source-release&type=zip

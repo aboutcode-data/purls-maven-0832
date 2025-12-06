@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.1.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.1.11?classifier=source-release&type=zip

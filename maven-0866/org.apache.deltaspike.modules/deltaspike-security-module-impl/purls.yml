@@ -54,3 +54,5 @@
 - pkg:maven/org.apache.deltaspike.modules/deltaspike-security-module-impl@1.7.2?classifier=sources
 - pkg:maven/org.apache.deltaspike.modules/deltaspike-security-module-impl@1.8.0
 - pkg:maven/org.apache.deltaspike.modules/deltaspike-security-module-impl@1.8.0?classifier=sources
+- pkg:maven/org.apache.deltaspike.modules/deltaspike-security-module-impl@1.8.1
+- pkg:maven/org.apache.deltaspike.modules/deltaspike-security-module-impl@1.8.1?classifier=sources

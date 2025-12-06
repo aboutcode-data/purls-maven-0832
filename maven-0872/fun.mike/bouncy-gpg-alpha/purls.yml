@@ -1,0 +1,2 @@
+- pkg:maven/fun.mike/bouncy-gpg-alpha@0.0.1
+- pkg:maven/fun.mike/bouncy-gpg-alpha@0.0.1?classifier=sources

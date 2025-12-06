@@ -1,0 +1,6 @@
+- pkg:maven/uy.kohesive.keplin/keplin-core@1.0.0-BETA-11
+- pkg:maven/uy.kohesive.keplin/keplin-core@1.0.0-BETA-11?classifier=sources
+- pkg:maven/uy.kohesive.keplin/keplin-core@1.0.0-BETA-12
+- pkg:maven/uy.kohesive.keplin/keplin-core@1.0.0-BETA-12?classifier=sources
+- pkg:maven/uy.kohesive.keplin/keplin-core@1.0.0-BETA-14
+- pkg:maven/uy.kohesive.keplin/keplin-core@1.0.0-BETA-14?classifier=sources

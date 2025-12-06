@@ -46,3 +46,13 @@
 - pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.1?classifier=sources
 - pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.2
 - pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.2?classifier=sources
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3-RC1
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3-RC1?classifier=sources
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3-RC2
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3-RC2?classifier=sources
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3-RC3
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3-RC3?classifier=sources
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3-RC4
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3-RC4?classifier=sources
+- pkg:maven/se.skltp.ei/skltp-ei-composite-schema@2.1.3?classifier=sources

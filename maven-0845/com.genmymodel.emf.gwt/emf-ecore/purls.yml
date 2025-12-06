@@ -1,0 +1,2 @@
+- pkg:maven/com.genmymodel.emf.gwt/emf-ecore@2.12.4
+- pkg:maven/com.genmymodel.emf.gwt/emf-ecore@2.12.4?classifier=sources

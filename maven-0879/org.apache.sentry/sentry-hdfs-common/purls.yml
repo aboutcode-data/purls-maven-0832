@@ -1,1 +1,4 @@
 - pkg:maven/org.apache.sentry/sentry-hdfs-common@1.7.0
+- pkg:maven/org.apache.sentry/sentry-hdfs-common@1.7.1
+- pkg:maven/org.apache.sentry/sentry-hdfs-common@1.8.0
+- pkg:maven/org.apache.sentry/sentry-hdfs-common@2.0.0

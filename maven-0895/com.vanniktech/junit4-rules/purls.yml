@@ -1,0 +1,2 @@
+- pkg:maven/com.vanniktech/junit4-rules@0.1.0
+- pkg:maven/com.vanniktech/junit4-rules@0.1.0?classifier=sources

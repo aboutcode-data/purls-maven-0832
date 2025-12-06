@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars/jquery-blockui@2.65
 - pkg:maven/org.webjars/jquery-blockui@2.65?classifier=sources
+- pkg:maven/org.webjars/jquery-blockui@2.70
+- pkg:maven/org.webjars/jquery-blockui@2.70?classifier=sources

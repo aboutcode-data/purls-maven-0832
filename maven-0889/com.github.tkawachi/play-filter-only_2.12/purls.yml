@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tkawachi/play-filter-only_2.12@0.2.0
+- pkg:maven/com.github.tkawachi/play-filter-only_2.12@0.2.0?classifier=sources

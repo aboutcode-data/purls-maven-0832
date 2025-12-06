@@ -1,2 +1,6 @@
 - pkg:maven/info.cqframework/quick@1.0.0
 - pkg:maven/info.cqframework/quick@1.0.0?classifier=sources
+- pkg:maven/info.cqframework/quick@1.2.15
+- pkg:maven/info.cqframework/quick@1.2.15?classifier=sources
+- pkg:maven/info.cqframework/quick@1.2.16
+- pkg:maven/info.cqframework/quick@1.2.16?classifier=sources

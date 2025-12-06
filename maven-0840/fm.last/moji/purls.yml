@@ -12,3 +12,5 @@
 - pkg:maven/fm.last/moji@1.4.1?classifier=sources
 - pkg:maven/fm.last/moji@2.0.0
 - pkg:maven/fm.last/moji@2.0.0?classifier=sources
+- pkg:maven/fm.last/moji@3.0.0
+- pkg:maven/fm.last/moji@3.0.0?classifier=sources

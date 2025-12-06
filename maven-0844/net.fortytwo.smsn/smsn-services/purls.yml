@@ -1,0 +1,2 @@
+- pkg:maven/net.fortytwo.smsn/smsn-services@1.4
+- pkg:maven/net.fortytwo.smsn/smsn-services@1.4?classifier=sources

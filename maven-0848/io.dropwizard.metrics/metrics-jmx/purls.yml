@@ -1,0 +1,14 @@
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha1
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha1?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha2
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha2?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha3
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha3?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha4
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha4?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha5
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0-alpha5?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.0?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.1
+- pkg:maven/io.dropwizard.metrics/metrics-jmx@4.0.1?classifier=sources

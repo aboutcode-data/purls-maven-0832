@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/gen-db-core@0.9.3
+- pkg:maven/de.alpharogroup/gen-db-core@0.9.3?classifier=sources

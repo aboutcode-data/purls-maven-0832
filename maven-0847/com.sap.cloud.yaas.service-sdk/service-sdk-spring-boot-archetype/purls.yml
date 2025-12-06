@@ -1,3 +1,7 @@
 - pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-spring-boot-archetype@4.13.6?classifier=sources
 - pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-spring-boot-archetype@4.13.7?classifier=sources
 - pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-spring-boot-archetype@4.14.0?classifier=sources
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-spring-boot-archetype@4.15.0?classifier=sources
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-spring-boot-archetype@4.16.0?classifier=sources
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-spring-boot-archetype@4.17.0?classifier=sources
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-spring-boot-archetype@4.17.1?classifier=sources

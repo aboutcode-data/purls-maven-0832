@@ -16,3 +16,13 @@
 - pkg:maven/nl.grons/metrics-scala_2.12@3.5.7?classifier=sources
 - pkg:maven/nl.grons/metrics-scala_2.12@3.5.7_a2.4
 - pkg:maven/nl.grons/metrics-scala_2.12@3.5.7_a2.4?classifier=sources
+- pkg:maven/nl.grons/metrics-scala_2.12@3.5.8
+- pkg:maven/nl.grons/metrics-scala_2.12@3.5.8?classifier=sources
+- pkg:maven/nl.grons/metrics-scala_2.12@3.5.8_a2.4
+- pkg:maven/nl.grons/metrics-scala_2.12@3.5.8_a2.4?classifier=sources
+- pkg:maven/nl.grons/metrics-scala_2.12@3.5.9
+- pkg:maven/nl.grons/metrics-scala_2.12@3.5.9?classifier=sources
+- pkg:maven/nl.grons/metrics-scala_2.12@3.5.9_a2.4
+- pkg:maven/nl.grons/metrics-scala_2.12@3.5.9_a2.4?classifier=sources
+- pkg:maven/nl.grons/metrics-scala_2.12@4.0.0
+- pkg:maven/nl.grons/metrics-scala_2.12@4.0.0?classifier=sources

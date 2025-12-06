@@ -59,6 +59,10 @@
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.34?classifier=sources
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.35
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.35?classifier=sources
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.36
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.36?classifier=sources
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.37
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.37?classifier=sources
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.3?classifier=sources
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.4
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.4?classifier=sources
@@ -72,3 +76,7 @@
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.8?classifier=sources
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.9
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.4.9?classifier=sources
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.5.0
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.5.0?classifier=sources
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.5.1
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@0.5.1?classifier=sources

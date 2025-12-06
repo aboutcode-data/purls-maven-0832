@@ -56,3 +56,5 @@
 - pkg:maven/org.springframework.data/spring-yarn-boot-test@2.3.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-yarn-boot-test@2.4.0.RELEASE
 - pkg:maven/org.springframework.data/spring-yarn-boot-test@2.4.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-yarn-boot-test@2.5.0.RELEASE
+- pkg:maven/org.springframework.data/spring-yarn-boot-test@2.5.0.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mobicents.ussd/simulator-bootstrap@7.1.0-96
+- pkg:maven/org.mobicents.ussd/simulator-bootstrap@7.1.0-96?classifier=sources

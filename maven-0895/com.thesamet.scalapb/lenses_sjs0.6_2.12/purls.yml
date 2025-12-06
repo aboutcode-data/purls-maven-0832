@@ -1,0 +1,2 @@
+- pkg:maven/com.thesamet.scalapb/lenses_sjs0.6_2.12@0.7.0-test1
+- pkg:maven/com.thesamet.scalapb/lenses_sjs0.6_2.12@0.7.0-test1?classifier=sources

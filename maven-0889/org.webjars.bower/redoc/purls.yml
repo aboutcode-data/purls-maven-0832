@@ -1,3 +1,7 @@
+- pkg:maven/org.webjars.bower/redoc@1.17.0
+- pkg:maven/org.webjars.bower/redoc@1.17.0?classifier=sources
+- pkg:maven/org.webjars.bower/redoc@1.19.1
+- pkg:maven/org.webjars.bower/redoc@1.19.1?classifier=sources
 - pkg:maven/org.webjars.bower/redoc@1.4.1
 - pkg:maven/org.webjars.bower/redoc@1.4.1?classifier=sources
 - pkg:maven/org.webjars.bower/redoc@1.6.4

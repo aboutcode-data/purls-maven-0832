@@ -1,3 +1,5 @@
+- pkg:maven/org.iq80.leveldb/leveldb-benchmark@0.10
+- pkg:maven/org.iq80.leveldb/leveldb-benchmark@0.10?classifier=sources
 - pkg:maven/org.iq80.leveldb/leveldb-benchmark@0.7
 - pkg:maven/org.iq80.leveldb/leveldb-benchmark@0.7?classifier=sources
 - pkg:maven/org.iq80.leveldb/leveldb-benchmark@0.8

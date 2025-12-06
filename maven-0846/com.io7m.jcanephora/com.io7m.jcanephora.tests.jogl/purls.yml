@@ -1,1 +1,2 @@
 - pkg:maven/com.io7m.jcanephora/com.io7m.jcanephora.tests.jogl@0.60.0
+- pkg:maven/com.io7m.jcanephora/com.io7m.jcanephora.tests.jogl@0.61.0

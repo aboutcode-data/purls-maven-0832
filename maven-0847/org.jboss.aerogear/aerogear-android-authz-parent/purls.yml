@@ -4,3 +4,4 @@
 - pkg:maven/org.jboss.aerogear/aerogear-android-authz-parent@3.0.0?classifier=source-release&type=zip
 - pkg:maven/org.jboss.aerogear/aerogear-android-authz-parent@3.0.1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.aerogear/aerogear-android-authz-parent@3.1.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear/aerogear-android-authz-parent@3.1.1?classifier=source-release&type=zip

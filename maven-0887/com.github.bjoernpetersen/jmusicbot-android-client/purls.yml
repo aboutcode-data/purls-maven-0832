@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bjoernpetersen/jmusicbot-android-client@0.3.0
+- pkg:maven/com.github.bjoernpetersen/jmusicbot-android-client@0.3.0?classifier=sources

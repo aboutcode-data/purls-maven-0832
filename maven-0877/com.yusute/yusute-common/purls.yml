@@ -1,0 +1,2 @@
+- pkg:maven/com.yusute/yusute-common@1.0.0
+- pkg:maven/com.yusute/yusute-common@1.0.0?classifier=sources

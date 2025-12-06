@@ -1,1 +1,5 @@
 - pkg:maven/com.marvinformatics.formatter/formatter-maven-plugin-its@1.9.1.RC2
+- pkg:maven/com.marvinformatics.formatter/formatter-maven-plugin-its@1.9.2
+- pkg:maven/com.marvinformatics.formatter/formatter-maven-plugin-its@2.0.0
+- pkg:maven/com.marvinformatics.formatter/formatter-maven-plugin-its@2.1.1
+- pkg:maven/com.marvinformatics.formatter/formatter-maven-plugin-its@2.1.2

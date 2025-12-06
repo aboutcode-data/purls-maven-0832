@@ -24,3 +24,7 @@
 - pkg:maven/com.ing/baker_2.11@0.2.35?classifier=sources
 - pkg:maven/com.ing/baker_2.11@0.2.36
 - pkg:maven/com.ing/baker_2.11@0.2.36?classifier=sources
+- pkg:maven/com.ing/baker_2.11@0.2.37
+- pkg:maven/com.ing/baker_2.11@0.2.37?classifier=sources
+- pkg:maven/com.ing/baker_2.11@0.2.38
+- pkg:maven/com.ing/baker_2.11@0.2.38?classifier=sources

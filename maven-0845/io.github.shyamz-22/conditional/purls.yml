@@ -1,0 +1,4 @@
+- pkg:maven/io.github.shyamz-22/conditional@0.0.2
+- pkg:maven/io.github.shyamz-22/conditional@0.0.2?classifier=sources
+- pkg:maven/io.github.shyamz-22/conditional@unspecified
+- pkg:maven/io.github.shyamz-22/conditional@unspecified?classifier=sources

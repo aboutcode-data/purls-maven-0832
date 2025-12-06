@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.griffin/measure@0.1.5-incubating
+- pkg:maven/org.apache.griffin/measure@0.1.5-incubating?classifier=sources
+- pkg:maven/org.apache.griffin/measure@0.1.6-incubating
+- pkg:maven/org.apache.griffin/measure@0.1.6-incubating?classifier=sources

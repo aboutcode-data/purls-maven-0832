@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alexarchambault/shapeless_native0.3_2.11@2.3.3-pre-1
+- pkg:maven/com.github.alexarchambault/shapeless_native0.3_2.11@2.3.3-pre-1?classifier=sources

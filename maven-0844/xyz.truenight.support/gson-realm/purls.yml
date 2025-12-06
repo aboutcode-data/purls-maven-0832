@@ -1,0 +1,2 @@
+- pkg:maven/xyz.truenight.support/gson-realm@1.2.0?classifier=sources
+- pkg:maven/xyz.truenight.support/gson-realm@1.2.0?type=aar

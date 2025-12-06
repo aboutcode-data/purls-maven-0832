@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pityka/fileutils_2.12@1.1.1
+- pkg:maven/io.github.pityka/fileutils_2.12@1.1.1?classifier=sources

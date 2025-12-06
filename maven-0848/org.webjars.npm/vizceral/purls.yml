@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vizceral@4.5.5
+- pkg:maven/org.webjars.npm/vizceral@4.5.5?classifier=sources

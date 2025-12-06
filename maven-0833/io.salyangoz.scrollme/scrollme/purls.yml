@@ -1,0 +1,2 @@
+- pkg:maven/io.salyangoz.scrollme/scrollme@0.1.0?classifier=sources
+- pkg:maven/io.salyangoz.scrollme/scrollme@0.1.0?type=aar

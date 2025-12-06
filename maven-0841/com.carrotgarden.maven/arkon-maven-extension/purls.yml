@@ -1,0 +1,2 @@
+- pkg:maven/com.carrotgarden.maven/arkon-maven-extension@1.0.20171203233817
+- pkg:maven/com.carrotgarden.maven/arkon-maven-extension@1.0.20171203233817?classifier=sources

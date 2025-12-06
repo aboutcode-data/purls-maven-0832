@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tamaya.ext.examples/01-resources-example@0.3-incubating
+- pkg:maven/org.apache.tamaya.ext.examples/01-resources-example@0.3-incubating?classifier=sources

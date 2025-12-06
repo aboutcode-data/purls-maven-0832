@@ -1,0 +1,2 @@
+- pkg:maven/link.webarata3.dro.common/dro-validator7@0.3.1?classifier=sources
+- pkg:maven/link.webarata3.dro.common/dro-validator7@0.3.1?type=aar

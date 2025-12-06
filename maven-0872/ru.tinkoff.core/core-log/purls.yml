@@ -2,3 +2,5 @@
 - pkg:maven/ru.tinkoff.core/core-log@3.0.12?classifier=sources
 - pkg:maven/ru.tinkoff.core/core-log@3.0.13
 - pkg:maven/ru.tinkoff.core/core-log@3.0.13?classifier=sources
+- pkg:maven/ru.tinkoff.core/core-log@3.1.7
+- pkg:maven/ru.tinkoff.core/core-log@3.1.7?classifier=sources

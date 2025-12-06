@@ -1,0 +1,4 @@
+- pkg:maven/com.pushpopsoft/json-rpc-lib-server@0.0.1
+- pkg:maven/com.pushpopsoft/json-rpc-lib-server@0.0.1?classifier=sources
+- pkg:maven/com.pushpopsoft/json-rpc-lib-server@0.0.3
+- pkg:maven/com.pushpopsoft/json-rpc-lib-server@0.0.3?classifier=sources

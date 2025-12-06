@@ -2,3 +2,9 @@
 - pkg:maven/org.irenical.jindy/jindy-apacheconfig-impl@2.0.0?classifier=sources
 - pkg:maven/org.irenical.jindy/jindy-apacheconfig-impl@2.1.0
 - pkg:maven/org.irenical.jindy/jindy-apacheconfig-impl@2.1.0?classifier=sources
+- pkg:maven/org.irenical.jindy/jindy-apacheconfig-impl@3.0.0
+- pkg:maven/org.irenical.jindy/jindy-apacheconfig-impl@3.0.0?classifier=sources
+- pkg:maven/org.irenical.jindy/jindy-apacheconfig-impl@3.0.1
+- pkg:maven/org.irenical.jindy/jindy-apacheconfig-impl@3.0.1?classifier=sources
+- pkg:maven/org.irenical.jindy/jindy-apacheconfig-impl@3.0.2
+- pkg:maven/org.irenical.jindy/jindy-apacheconfig-impl@3.0.2?classifier=sources

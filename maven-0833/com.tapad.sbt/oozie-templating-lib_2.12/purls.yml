@@ -1,0 +1,2 @@
+- pkg:maven/com.tapad.sbt/oozie-templating-lib_2.12@0.1.0
+- pkg:maven/com.tapad.sbt/oozie-templating-lib_2.12@0.1.0?classifier=sources

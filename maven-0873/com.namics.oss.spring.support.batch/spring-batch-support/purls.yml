@@ -1,0 +1,2 @@
+- pkg:maven/com.namics.oss.spring.support.batch/spring-batch-support@1.0.2
+- pkg:maven/com.namics.oss.spring.support.batch/spring-batch-support@1.0.2?classifier=sources

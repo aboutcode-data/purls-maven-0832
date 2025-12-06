@@ -4,3 +4,5 @@
 - pkg:maven/int.esa.ccsds.mo/MOXML_Extra@1.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/MOXML_Extra@1.1
 - pkg:maven/int.esa.ccsds.mo/MOXML_Extra@1.1?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/MOXML_Extra@1.7
+- pkg:maven/int.esa.ccsds.mo/MOXML_Extra@1.7?classifier=sources

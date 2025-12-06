@@ -1,0 +1,2 @@
+- pkg:maven/org.mule.tests/smart-connector-using-core@4.0.0-BETA.4?classifier=sources
+- pkg:maven/org.mule.tests/smart-connector-using-core@4.0.0-rc?classifier=sources

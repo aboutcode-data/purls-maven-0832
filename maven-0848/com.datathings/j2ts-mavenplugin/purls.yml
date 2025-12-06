@@ -10,3 +10,11 @@
 - pkg:maven/com.datathings/j2ts-mavenplugin@87?classifier=sources
 - pkg:maven/com.datathings/j2ts-mavenplugin@88
 - pkg:maven/com.datathings/j2ts-mavenplugin@88?classifier=sources
+- pkg:maven/com.datathings/j2ts-mavenplugin@89
+- pkg:maven/com.datathings/j2ts-mavenplugin@89?classifier=sources
+- pkg:maven/com.datathings/j2ts-mavenplugin@90
+- pkg:maven/com.datathings/j2ts-mavenplugin@90?classifier=sources
+- pkg:maven/com.datathings/j2ts-mavenplugin@91
+- pkg:maven/com.datathings/j2ts-mavenplugin@91?classifier=sources
+- pkg:maven/com.datathings/j2ts-mavenplugin@92
+- pkg:maven/com.datathings/j2ts-mavenplugin@92?classifier=sources

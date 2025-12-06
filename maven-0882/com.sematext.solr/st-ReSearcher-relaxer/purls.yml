@@ -4,3 +4,7 @@
 - pkg:maven/com.sematext.solr/st-ReSearcher-relaxer@1.12.6.3.0?classifier=sources
 - pkg:maven/com.sematext.solr/st-ReSearcher-relaxer@1.12.6.5.1
 - pkg:maven/com.sematext.solr/st-ReSearcher-relaxer@1.12.6.5.1?classifier=sources
+- pkg:maven/com.sematext.solr/st-ReSearcher-relaxer@1.12.6.6.0
+- pkg:maven/com.sematext.solr/st-ReSearcher-relaxer@1.12.6.6.0?classifier=sources
+- pkg:maven/com.sematext.solr/st-ReSearcher-relaxer@1.12.7.1.0
+- pkg:maven/com.sematext.solr/st-ReSearcher-relaxer@1.12.7.1.0?classifier=sources

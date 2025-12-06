@@ -10,3 +10,7 @@
 - pkg:maven/de.hilling.maven.release/smart-release-plugin@3.8
 - pkg:maven/de.hilling.maven.release/smart-release-plugin@3.9
 - pkg:maven/de.hilling.maven.release/smart-release-plugin@3.9?classifier=sources
+- pkg:maven/de.hilling.maven.release/smart-release-plugin@4.0
+- pkg:maven/de.hilling.maven.release/smart-release-plugin@4.0?classifier=sources
+- pkg:maven/de.hilling.maven.release/smart-release-plugin@4.1
+- pkg:maven/de.hilling.maven.release/smart-release-plugin@4.1?classifier=sources

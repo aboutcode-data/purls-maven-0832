@@ -1,0 +1,2 @@
+- pkg:maven/hk.jerry.spg/core@1.0.4-snapshot?classifier=sources
+- pkg:maven/hk.jerry.spg/core@1.0.4-snapshot?type=aar

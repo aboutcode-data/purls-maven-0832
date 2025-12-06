@@ -2,6 +2,10 @@
 - pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.10?classifier=sources
 - pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.12
 - pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.12?classifier=sources
+- pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.14
+- pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.14?classifier=sources
+- pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.17
+- pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.17?classifier=sources
 - pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.2
 - pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.2?classifier=sources
 - pkg:maven/com.ddfplus.jaws/ddfplus-api@1.0.3

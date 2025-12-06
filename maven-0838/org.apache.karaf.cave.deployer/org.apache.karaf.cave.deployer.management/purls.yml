@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.cave.deployer/org.apache.karaf.cave.deployer.management@4.1.0
+- pkg:maven/org.apache.karaf.cave.deployer/org.apache.karaf.cave.deployer.management@4.1.0?classifier=sources

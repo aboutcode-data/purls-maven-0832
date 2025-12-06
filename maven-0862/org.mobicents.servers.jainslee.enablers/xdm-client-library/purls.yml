@@ -234,6 +234,10 @@
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@2.8.9?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@2.9.124
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@2.9.124?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@2.9.125
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@2.9.125?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@2.9.126
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@2.9.126?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@3.0.1
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@3.0.1?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@3.0.2
@@ -248,6 +252,14 @@
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.0.6?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.0.7
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.0.7?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.10
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.10?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.11
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.11?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.12
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.12?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.13
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.13?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.8
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.8?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-library@7.1.9

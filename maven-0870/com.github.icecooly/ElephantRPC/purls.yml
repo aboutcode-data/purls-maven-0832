@@ -1,0 +1,2 @@
+- pkg:maven/com.github.icecooly/ElephantRPC@1.0.0
+- pkg:maven/com.github.icecooly/ElephantRPC@1.0.0?classifier=sources

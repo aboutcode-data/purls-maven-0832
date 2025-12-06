@@ -1,0 +1,4 @@
+- pkg:maven/io.kubernetes/client-java-proto@0.2
+- pkg:maven/io.kubernetes/client-java-proto@0.2?classifier=sources
+- pkg:maven/io.kubernetes/client-java-proto@1.0.0-beta1
+- pkg:maven/io.kubernetes/client-java-proto@1.0.0-beta1?classifier=sources

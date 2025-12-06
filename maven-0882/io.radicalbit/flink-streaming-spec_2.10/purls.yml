@@ -1,0 +1,2 @@
+- pkg:maven/io.radicalbit/flink-streaming-spec_2.10@0.0.1
+- pkg:maven/io.radicalbit/flink-streaming-spec_2.10@0.0.1?classifier=sources

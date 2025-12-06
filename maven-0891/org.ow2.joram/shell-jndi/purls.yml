@@ -6,6 +6,8 @@
 - pkg:maven/org.ow2.joram/shell-jndi@5.12.0?classifier=sources
 - pkg:maven/org.ow2.joram/shell-jndi@5.13.0
 - pkg:maven/org.ow2.joram/shell-jndi@5.13.0?classifier=sources
+- pkg:maven/org.ow2.joram/shell-jndi@5.14.0
+- pkg:maven/org.ow2.joram/shell-jndi@5.14.0?classifier=sources
 - pkg:maven/org.ow2.joram/shell-jndi@5.8.0
 - pkg:maven/org.ow2.joram/shell-jndi@5.8.0?classifier=sources
 - pkg:maven/org.ow2.joram/shell-jndi@5.8.1

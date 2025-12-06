@@ -1,0 +1,2 @@
+- pkg:maven/net.openid/appauth@0.7.0?classifier=sources
+- pkg:maven/net.openid/appauth@0.7.0?type=aar

@@ -6,3 +6,5 @@
 - pkg:maven/com.lesfurets/jenkins-pipeline-unit@0.12?classifier=sources
 - pkg:maven/com.lesfurets/jenkins-pipeline-unit@1.0
 - pkg:maven/com.lesfurets/jenkins-pipeline-unit@1.0?classifier=sources
+- pkg:maven/com.lesfurets/jenkins-pipeline-unit@1.1
+- pkg:maven/com.lesfurets/jenkins-pipeline-unit@1.1?classifier=sources

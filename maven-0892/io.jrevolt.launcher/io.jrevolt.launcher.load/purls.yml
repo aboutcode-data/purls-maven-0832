@@ -1,0 +1,4 @@
+- pkg:maven/io.jrevolt.launcher/io.jrevolt.launcher.load@0.1-test14
+- pkg:maven/io.jrevolt.launcher/io.jrevolt.launcher.load@0.1-test14?classifier=sources
+- pkg:maven/io.jrevolt.launcher/io.jrevolt.launcher.load@0.1-test18
+- pkg:maven/io.jrevolt.launcher/io.jrevolt.launcher.load@0.1-test18?classifier=sources

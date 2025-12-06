@@ -1,2 +1,4 @@
 - pkg:maven/org.ejml/ejml-dsparse@0.31
 - pkg:maven/org.ejml/ejml-dsparse@0.31?classifier=sources
+- pkg:maven/org.ejml/ejml-dsparse@0.32
+- pkg:maven/org.ejml/ejml-dsparse@0.32?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-audit-jpa@7-201710-EA
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-audit-jpa@7-201710-EA?classifier=sources
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-audit-jpa@7-201711-EA
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-audit-jpa@7-201711-EA?classifier=sources

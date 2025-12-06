@@ -14,3 +14,7 @@
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR3
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR4
 - pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR5
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR6
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR7
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.1.Final

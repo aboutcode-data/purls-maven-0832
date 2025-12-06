@@ -1,0 +1,6 @@
+- pkg:maven/com.massisframework/nubes@1.4.4
+- pkg:maven/com.massisframework/nubes@1.4.4?classifier=sources
+- pkg:maven/com.massisframework/nubes@1.4.6
+- pkg:maven/com.massisframework/nubes@1.4.6?classifier=sources
+- pkg:maven/com.massisframework/nubes@1.4.7
+- pkg:maven/com.massisframework/nubes@1.4.7?classifier=sources

@@ -97,6 +97,8 @@
 - pkg:maven/net.jangaroo/jangaroo-utils@2.0.17?classifier=sources
 - pkg:maven/net.jangaroo/jangaroo-utils@2.0.18
 - pkg:maven/net.jangaroo/jangaroo-utils@2.0.18?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-utils@2.0.19
+- pkg:maven/net.jangaroo/jangaroo-utils@2.0.19?classifier=sources
 - pkg:maven/net.jangaroo/jangaroo-utils@2.0.1?classifier=sources
 - pkg:maven/net.jangaroo/jangaroo-utils@2.0.2
 - pkg:maven/net.jangaroo/jangaroo-utils@2.0.2?classifier=sources
@@ -146,3 +148,17 @@
 - pkg:maven/net.jangaroo/jangaroo-utils@4.0.47?classifier=sources
 - pkg:maven/net.jangaroo/jangaroo-utils@4.0.48
 - pkg:maven/net.jangaroo/jangaroo-utils@4.0.48?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.49
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.49?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.50
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.50?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.51
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.51?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.52
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.52?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.53
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.53?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.54
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.54?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.55
+- pkg:maven/net.jangaroo/jangaroo-utils@4.0.55?classifier=sources

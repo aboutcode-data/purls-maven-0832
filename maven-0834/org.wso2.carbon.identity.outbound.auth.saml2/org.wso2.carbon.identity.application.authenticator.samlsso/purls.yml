@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.8
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.8?classifier=sources

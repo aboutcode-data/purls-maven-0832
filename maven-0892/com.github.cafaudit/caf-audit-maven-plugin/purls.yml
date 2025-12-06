@@ -1,3 +1,4 @@
 - pkg:maven/com.github.cafaudit/caf-audit-maven-plugin@2.0.0-6?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-maven-plugin@3.0.0-33?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-maven-plugin@3.1.0-50?classifier=sources
+- pkg:maven/com.github.cafaudit/caf-audit-maven-plugin@3.2.0-83?classifier=sources

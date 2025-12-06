@@ -1,0 +1,2 @@
+- pkg:maven/com.indix/sparkplug_2.10@v0.2.0
+- pkg:maven/com.indix/sparkplug_2.10@v0.2.0?classifier=sources

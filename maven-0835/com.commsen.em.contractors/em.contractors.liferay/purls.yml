@@ -1,0 +1,2 @@
+- pkg:maven/com.commsen.em.contractors/em.contractors.liferay@7.0.3
+- pkg:maven/com.commsen.em.contractors/em.contractors.liferay@7.0.3?classifier=sources

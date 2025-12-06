@@ -16,3 +16,5 @@
 - pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@2.2.0?classifier=sources
 - pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@3.0.0
 - pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@3.0.0?classifier=sources
+- pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@3.0.1
+- pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@3.0.1?classifier=sources

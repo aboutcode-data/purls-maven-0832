@@ -2,3 +2,5 @@
 - pkg:maven/com.github.ustc-infinitelab/floodlightpof@1.0.1.onos?classifier=sources
 - pkg:maven/com.github.ustc-infinitelab/floodlightpof@1.0.2.onos
 - pkg:maven/com.github.ustc-infinitelab/floodlightpof@1.0.2.onos?classifier=sources
+- pkg:maven/com.github.ustc-infinitelab/floodlightpof@1.0.3.onos
+- pkg:maven/com.github.ustc-infinitelab/floodlightpof@1.0.3.onos?classifier=sources

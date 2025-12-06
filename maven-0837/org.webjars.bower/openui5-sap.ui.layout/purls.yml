@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/openui5-sap.ui.layout@1.48.6
+- pkg:maven/org.webjars.bower/openui5-sap.ui.layout@1.48.6?classifier=sources

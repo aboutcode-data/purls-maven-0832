@@ -1,1 +1,2 @@
 - pkg:maven/org.wikidata.query.rdf/blazegraph-service@0.2.4?type=war
+- pkg:maven/org.wikidata.query.rdf/blazegraph-service@0.2.5?type=war

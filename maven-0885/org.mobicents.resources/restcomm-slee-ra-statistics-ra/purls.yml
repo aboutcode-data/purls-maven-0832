@@ -1,3 +1,5 @@
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-statistics-ra@2.9.2
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-statistics-ra@2.9.2?classifier=sources
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-statistics-ra@7.0.67
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-statistics-ra@7.0.67?classifier=sources
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-statistics-ra@7.0.71

@@ -30,3 +30,7 @@
 - pkg:maven/com.sparkjava/spark-core@2.6.0.RC0
 - pkg:maven/com.sparkjava/spark-core@2.6.0.RC0?classifier=sources
 - pkg:maven/com.sparkjava/spark-core@2.6.0?classifier=sources
+- pkg:maven/com.sparkjava/spark-core@2.7.0
+- pkg:maven/com.sparkjava/spark-core@2.7.0?classifier=sources
+- pkg:maven/com.sparkjava/spark-core@2.7.1
+- pkg:maven/com.sparkjava/spark-core@2.7.1?classifier=sources

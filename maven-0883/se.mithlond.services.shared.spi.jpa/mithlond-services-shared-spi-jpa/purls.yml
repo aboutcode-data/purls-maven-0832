@@ -1,0 +1,2 @@
+- pkg:maven/se.mithlond.services.shared.spi.jpa/mithlond-services-shared-spi-jpa@1.0.1
+- pkg:maven/se.mithlond.services.shared.spi.jpa/mithlond-services-shared-spi-jpa@1.0.1?classifier=sources

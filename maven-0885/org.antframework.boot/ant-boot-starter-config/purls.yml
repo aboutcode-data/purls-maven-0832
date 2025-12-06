@@ -1,0 +1,2 @@
+- pkg:maven/org.antframework.boot/ant-boot-starter-config@1.0.0.RELEASE
+- pkg:maven/org.antframework.boot/ant-boot-starter-config@1.0.0.RELEASE?classifier=sources

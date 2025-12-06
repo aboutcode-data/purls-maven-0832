@@ -1,0 +1,2 @@
+- pkg:maven/io.snamp.osgi/snmp4j@2.5.3
+- pkg:maven/io.snamp.osgi/snmp4j@2.5.3?classifier=sources

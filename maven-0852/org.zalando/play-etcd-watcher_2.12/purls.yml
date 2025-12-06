@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando/play-etcd-watcher_2.12@2.6.0
+- pkg:maven/org.zalando/play-etcd-watcher_2.12@2.6.0?classifier=sources

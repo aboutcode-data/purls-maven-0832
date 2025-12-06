@@ -1,0 +1,2 @@
+- pkg:maven/com.sopranoworks/bolt_2.12@0.14
+- pkg:maven/com.sopranoworks/bolt_2.12@0.14?classifier=sources

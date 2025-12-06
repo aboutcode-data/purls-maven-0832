@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-reactivex-rxjs@5.0.0-alpha.7
 - pkg:maven/org.webjars.npm/github-com-reactivex-rxjs@5.0.0-alpha.7?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-reactivex-rxjs@5.5.5
+- pkg:maven/org.webjars.npm/github-com-reactivex-rxjs@5.5.5?classifier=sources

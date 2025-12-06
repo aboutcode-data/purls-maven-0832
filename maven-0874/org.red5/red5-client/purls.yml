@@ -1,3 +1,11 @@
+- pkg:maven/org.red5/red5-client@1.0.10-M1
+- pkg:maven/org.red5/red5-client@1.0.10-M1?classifier=sources
+- pkg:maven/org.red5/red5-client@1.0.10-M2
+- pkg:maven/org.red5/red5-client@1.0.10-M2?classifier=sources
+- pkg:maven/org.red5/red5-client@1.0.10-M3
+- pkg:maven/org.red5/red5-client@1.0.10-M3?classifier=sources
+- pkg:maven/org.red5/red5-client@1.0.10-M4
+- pkg:maven/org.red5/red5-client@1.0.10-M4?classifier=sources
 - pkg:maven/org.red5/red5-client@1.0.4-RELEASE
 - pkg:maven/org.red5/red5-client@1.0.4-RELEASE?classifier=sources
 - pkg:maven/org.red5/red5-client@1.0.5-RELEASE
@@ -64,3 +72,5 @@
 - pkg:maven/org.red5/red5-client@1.0.9-M8?classifier=sources
 - pkg:maven/org.red5/red5-client@1.0.9-M9
 - pkg:maven/org.red5/red5-client@1.0.9-M9?classifier=sources
+- pkg:maven/org.red5/red5-client@1.0.9-RELEASE
+- pkg:maven/org.red5/red5-client@1.0.9-RELEASE?classifier=sources

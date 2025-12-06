@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/scribejvm_2.11@1.4.4
+- pkg:maven/com.outr/scribejvm_2.11@1.4.4?classifier=sources

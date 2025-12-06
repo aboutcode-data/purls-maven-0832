@@ -1,5 +1,11 @@
 - pkg:maven/com.dev-smart/microdb-runtime@0.3.0
 - pkg:maven/com.dev-smart/microdb-runtime@0.3.0?classifier=sources
+- pkg:maven/com.dev-smart/microdb-runtime@0.3.11
+- pkg:maven/com.dev-smart/microdb-runtime@0.3.11?classifier=sources
+- pkg:maven/com.dev-smart/microdb-runtime@0.3.13
+- pkg:maven/com.dev-smart/microdb-runtime@0.3.13?classifier=sources
+- pkg:maven/com.dev-smart/microdb-runtime@0.3.14
+- pkg:maven/com.dev-smart/microdb-runtime@0.3.14?classifier=sources
 - pkg:maven/com.dev-smart/microdb-runtime@0.3.4
 - pkg:maven/com.dev-smart/microdb-runtime@0.3.4?classifier=sources
 - pkg:maven/com.dev-smart/microdb-runtime@0.3.7

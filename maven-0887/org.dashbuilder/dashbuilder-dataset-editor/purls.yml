@@ -66,3 +66,15 @@
 - pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.7.0.Beta1?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.7.0.Beta2
 - pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.7.0.Beta2?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.7.0.Beta3
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.7.0.Beta3?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.7.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.7.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.8.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.8.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.9.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@0.9.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@1.0.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@1.0.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@2.2.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-editor@2.2.0.Final?classifier=sources

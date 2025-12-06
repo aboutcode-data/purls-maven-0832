@@ -16,3 +16,5 @@
 - pkg:maven/com.github.blemale/scaffeine_2.11@2.1.0?classifier=sources
 - pkg:maven/com.github.blemale/scaffeine_2.11@2.2.0
 - pkg:maven/com.github.blemale/scaffeine_2.11@2.2.0?classifier=sources
+- pkg:maven/com.github.blemale/scaffeine_2.11@2.3.0
+- pkg:maven/com.github.blemale/scaffeine_2.11@2.3.0?classifier=sources

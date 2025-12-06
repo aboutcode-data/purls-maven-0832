@@ -16,3 +16,5 @@
 - pkg:maven/com.hannesdorfmann.mosby3/mvp@3.0.3?type=aar
 - pkg:maven/com.hannesdorfmann.mosby3/mvp@3.0.4?classifier=sources
 - pkg:maven/com.hannesdorfmann.mosby3/mvp@3.0.4?type=aar
+- pkg:maven/com.hannesdorfmann.mosby3/mvp@3.1.0?classifier=sources
+- pkg:maven/com.hannesdorfmann.mosby3/mvp@3.1.0?type=aar

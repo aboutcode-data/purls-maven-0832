@@ -1,0 +1,2 @@
+- pkg:maven/net.frett27/osm-gis-avro@0.1
+- pkg:maven/net.frett27/osm-gis-avro@0.1?classifier=sources
