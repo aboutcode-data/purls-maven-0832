@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.bower/angular-gridster@0.11.7
 - pkg:maven/org.webjars.bower/angular-gridster@0.11.7?classifier=sources
+- pkg:maven/org.webjars.bower/angular-gridster@0.13.15
+- pkg:maven/org.webjars.bower/angular-gridster@0.13.15?classifier=sources
 - pkg:maven/org.webjars.bower/angular-gridster@0.13.5
 - pkg:maven/org.webjars.bower/angular-gridster@0.13.5?classifier=sources

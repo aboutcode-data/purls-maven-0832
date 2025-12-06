@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/linkifyjs@1.1.7
 - pkg:maven/org.webjars.bower/linkifyjs@1.1.7?classifier=sources
+- pkg:maven/org.webjars.bower/linkifyjs@2.1.3
+- pkg:maven/org.webjars.bower/linkifyjs@2.1.3?classifier=sources

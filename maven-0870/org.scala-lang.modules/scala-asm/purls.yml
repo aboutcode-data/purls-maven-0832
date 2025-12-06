@@ -12,3 +12,5 @@
 - pkg:maven/org.scala-lang.modules/scala-asm@5.0.4-scala-3?classifier=sources
 - pkg:maven/org.scala-lang.modules/scala-asm@5.1.0-scala-1
 - pkg:maven/org.scala-lang.modules/scala-asm@5.1.0-scala-1?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-asm@5.1.0-scala-2
+- pkg:maven/org.scala-lang.modules/scala-asm@5.1.0-scala-2?classifier=sources

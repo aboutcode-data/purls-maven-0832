@@ -1,0 +1,2 @@
+- pkg:maven/com.apolunor/common-base@0.1.0?classifier=sources
+- pkg:maven/com.apolunor/common-base@0.1.0?type=aar

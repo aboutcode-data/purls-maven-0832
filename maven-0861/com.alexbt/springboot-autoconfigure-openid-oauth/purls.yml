@@ -1,0 +1,2 @@
+- pkg:maven/com.alexbt/springboot-autoconfigure-openid-oauth@1.0.9
+- pkg:maven/com.alexbt/springboot-autoconfigure-openid-oauth@1.0.9?classifier=sources

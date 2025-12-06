@@ -18,3 +18,9 @@
 - pkg:maven/io.fabric8.zipkin/zipkin-starter@0.1.4?classifier=sources
 - pkg:maven/io.fabric8.zipkin/zipkin-starter@0.1.5
 - pkg:maven/io.fabric8.zipkin/zipkin-starter@0.1.5?classifier=sources
+- pkg:maven/io.fabric8.zipkin/zipkin-starter@0.1.7
+- pkg:maven/io.fabric8.zipkin/zipkin-starter@0.1.7?classifier=sources
+- pkg:maven/io.fabric8.zipkin/zipkin-starter@0.1.8
+- pkg:maven/io.fabric8.zipkin/zipkin-starter@0.1.8?classifier=sources
+- pkg:maven/io.fabric8.zipkin/zipkin-starter@0.1.9
+- pkg:maven/io.fabric8.zipkin/zipkin-starter@0.1.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/svg2ttf@4.0.2
+- pkg:maven/org.webjars.npm/svg2ttf@4.0.2?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-test@1.2.0-alpha-1
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-test@1.2.0-alpha-2
+- pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-test@2.0.0
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-test@2.0.0-alpha-1
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-test@2.0.0-alpha-10
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-test@2.0.0-alpha-2

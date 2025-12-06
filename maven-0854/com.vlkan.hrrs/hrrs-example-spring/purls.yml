@@ -1,0 +1,2 @@
+- pkg:maven/com.vlkan.hrrs/hrrs-example-spring@0.1
+- pkg:maven/com.vlkan.hrrs/hrrs-example-spring@0.1?classifier=sources

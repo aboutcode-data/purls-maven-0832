@@ -1,0 +1,8 @@
+- pkg:maven/eu.freme-project.bservices.filters/logging@0.5
+- pkg:maven/eu.freme-project.bservices.filters/logging@0.5?classifier=sources
+- pkg:maven/eu.freme-project.bservices.filters/logging@1.0
+- pkg:maven/eu.freme-project.bservices.filters/logging@1.0?classifier=sources
+- pkg:maven/eu.freme-project.bservices.filters/logging@1.1
+- pkg:maven/eu.freme-project.bservices.filters/logging@1.1?classifier=sources
+- pkg:maven/eu.freme-project.bservices.filters/logging@1.2
+- pkg:maven/eu.freme-project.bservices.filters/logging@1.2?classifier=sources

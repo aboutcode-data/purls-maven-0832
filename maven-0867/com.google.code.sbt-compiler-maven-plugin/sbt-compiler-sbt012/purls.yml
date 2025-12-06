@@ -1,3 +1,4 @@
+- pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0
 - pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0-beta3
 - pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0-beta3?classifier=sources
 - pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0-beta4
@@ -12,3 +13,6 @@
 - pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0-beta8?classifier=sources
 - pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0-beta9
 - pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0-beta9?classifier=sources
+- pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0-rc1
+- pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0-rc1?classifier=sources
+- pkg:maven/com.google.code.sbt-compiler-maven-plugin/sbt-compiler-sbt012@1.0.0?classifier=sources

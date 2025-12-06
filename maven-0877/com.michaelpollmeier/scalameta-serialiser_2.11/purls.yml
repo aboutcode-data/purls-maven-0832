@@ -1,0 +1,2 @@
+- pkg:maven/com.michaelpollmeier/scalameta-serialiser_2.11@0.0.8
+- pkg:maven/com.michaelpollmeier/scalameta-serialiser_2.11@0.0.8?classifier=sources

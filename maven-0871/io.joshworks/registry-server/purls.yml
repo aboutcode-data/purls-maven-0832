@@ -1,0 +1,2 @@
+- pkg:maven/io.joshworks/registry-server@0.2
+- pkg:maven/io.joshworks/registry-server@0.2?classifier=sources

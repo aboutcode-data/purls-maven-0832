@@ -1,0 +1,2 @@
+- pkg:maven/org.testifyproject.resources/titan@0.9.2
+- pkg:maven/org.testifyproject.resources/titan@0.9.2?classifier=sources

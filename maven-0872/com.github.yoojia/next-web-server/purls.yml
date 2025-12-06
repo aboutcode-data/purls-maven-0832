@@ -2,3 +2,5 @@
 - pkg:maven/com.github.yoojia/next-web-server@1.0?classifier=sources
 - pkg:maven/com.github.yoojia/next-web-server@2.0-alpha
 - pkg:maven/com.github.yoojia/next-web-server@2.0-alpha?classifier=sources
+- pkg:maven/com.github.yoojia/next-web-server@2.r.3
+- pkg:maven/com.github.yoojia/next-web-server@2.r.3?classifier=sources

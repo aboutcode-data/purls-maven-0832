@@ -1,0 +1,2 @@
+- pkg:maven/com.jkoolcloud.tnt4j.logger/tnt4j-log4j12@0.2
+- pkg:maven/com.jkoolcloud.tnt4j.logger/tnt4j-log4j12@0.2?classifier=sources

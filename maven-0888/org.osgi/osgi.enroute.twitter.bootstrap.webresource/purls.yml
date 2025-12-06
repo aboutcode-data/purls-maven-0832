@@ -1,0 +1,2 @@
+- pkg:maven/org.osgi/osgi.enroute.twitter.bootstrap.webresource@3.3.5
+- pkg:maven/org.osgi/osgi.enroute.twitter.bootstrap.webresource@3.3.5?classifier=sources

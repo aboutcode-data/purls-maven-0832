@@ -2,3 +2,5 @@
 - pkg:maven/cewolf/cewolf@0.12.0
 - pkg:maven/cewolf/cewolf@1.0
 - pkg:maven/cewolf/cewolf@1.0?classifier=sources
+- pkg:maven/cewolf/cewolf@1.2.4-java7
+- pkg:maven/cewolf/cewolf@1.2.4-java7?classifier=sources

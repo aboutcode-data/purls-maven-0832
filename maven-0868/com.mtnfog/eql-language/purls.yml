@@ -1,0 +1,2 @@
+- pkg:maven/com.mtnfog/eql-language@1.0
+- pkg:maven/com.mtnfog/eql-language@1.0?classifier=sources

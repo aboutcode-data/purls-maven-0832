@@ -1,0 +1,2 @@
+- pkg:maven/com.capitalone.dashboard/gitlab-git-collector@2.0.4
+- pkg:maven/com.capitalone.dashboard/gitlab-git-collector@2.0.4?classifier=sources

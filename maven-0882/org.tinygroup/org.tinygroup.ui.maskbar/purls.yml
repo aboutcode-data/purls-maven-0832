@@ -22,3 +22,5 @@
 - pkg:maven/org.tinygroup/org.tinygroup.ui.maskbar@2.3.3?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.ui.maskbar@2.3.4
 - pkg:maven/org.tinygroup/org.tinygroup.ui.maskbar@2.3.4?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.ui.maskbar@2.3.5
+- pkg:maven/org.tinygroup/org.tinygroup.ui.maskbar@2.3.5?classifier=sources

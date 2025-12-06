@@ -12,6 +12,9 @@
 - pkg:maven/org.apache.maven.plugins/maven-changes-plugin@2.11?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-changes-plugin@2.11?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-changes-plugin@2.12
+- pkg:maven/org.apache.maven.plugins/maven-changes-plugin@2.12.1
+- pkg:maven/org.apache.maven.plugins/maven-changes-plugin@2.12.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-changes-plugin@2.12.1?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-changes-plugin@2.12?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-changes-plugin@2.12?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-changes-plugin@2.1?classifier=sources

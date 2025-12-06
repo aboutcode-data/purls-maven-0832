@@ -1,0 +1,3 @@
+- pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@1.2.20170404-163441.794de4c?classifier=sources
+- pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@1.2.20170417-120258.3e88a58?classifier=sources
+- pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@1.2.20170428-142845.cb63c9e?classifier=sources

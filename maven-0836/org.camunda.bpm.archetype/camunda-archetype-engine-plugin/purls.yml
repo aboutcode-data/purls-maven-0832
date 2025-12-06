@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.bpm.archetype/camunda-archetype-engine-plugin@7.6.0?classifier=sources
+- pkg:maven/org.camunda.bpm.archetype/camunda-archetype-engine-plugin@7.6.1?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@1.0-Alpha-9
 - pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@1.0-Alpha-9?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@1.0?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@2.0-Alpha-1
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@2.0-Alpha-1?classifier=sources

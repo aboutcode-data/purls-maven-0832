@@ -20,3 +20,6 @@
 - pkg:maven/org.apache.neethi/neethi@3.0.3
 - pkg:maven/org.apache.neethi/neethi@3.0.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.neethi/neethi@3.0.3?classifier=sources
+- pkg:maven/org.apache.neethi/neethi@3.1.0
+- pkg:maven/org.apache.neethi/neethi@3.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.neethi/neethi@3.1.0?classifier=sources

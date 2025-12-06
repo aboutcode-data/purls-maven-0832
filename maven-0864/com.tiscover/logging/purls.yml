@@ -6,3 +6,7 @@
 - pkg:maven/com.tiscover/logging@0.2?classifier=sources
 - pkg:maven/com.tiscover/logging@0.3
 - pkg:maven/com.tiscover/logging@0.3?classifier=sources
+- pkg:maven/com.tiscover/logging@1.3
+- pkg:maven/com.tiscover/logging@1.3?classifier=sources
+- pkg:maven/com.tiscover/logging@1.4
+- pkg:maven/com.tiscover/logging@1.4?classifier=sources

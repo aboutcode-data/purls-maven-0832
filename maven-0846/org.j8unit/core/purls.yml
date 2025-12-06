@@ -1,2 +1,4 @@
 - pkg:maven/org.j8unit/core@4.12
+- pkg:maven/org.j8unit/core@4.12.1
+- pkg:maven/org.j8unit/core@4.12.1?classifier=sources
 - pkg:maven/org.j8unit/core@4.12?classifier=sources

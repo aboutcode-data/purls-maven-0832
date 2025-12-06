@@ -1,0 +1,2 @@
+- pkg:maven/ru.noties.todo/processor@1.0.0
+- pkg:maven/ru.noties.todo/processor@1.0.0?classifier=sources

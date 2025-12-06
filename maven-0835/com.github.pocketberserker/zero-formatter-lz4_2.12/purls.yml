@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pocketberserker/zero-formatter-lz4_2.12@0.7.0
+- pkg:maven/com.github.pocketberserker/zero-formatter-lz4_2.12@0.7.0?classifier=sources

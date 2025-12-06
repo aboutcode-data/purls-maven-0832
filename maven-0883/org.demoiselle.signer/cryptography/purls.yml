@@ -1,0 +1,6 @@
+- pkg:maven/org.demoiselle.signer/cryptography@3.0.0
+- pkg:maven/org.demoiselle.signer/cryptography@3.0.0-BETA2
+- pkg:maven/org.demoiselle.signer/cryptography@3.0.0-BETA2?classifier=sources
+- pkg:maven/org.demoiselle.signer/cryptography@3.0.0?classifier=sources
+- pkg:maven/org.demoiselle.signer/cryptography@3.0.1
+- pkg:maven/org.demoiselle.signer/cryptography@3.0.1?classifier=sources

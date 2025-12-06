@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/apollo-client@0.4.20
 - pkg:maven/org.webjars.npm/apollo-client@0.4.20?classifier=sources
+- pkg:maven/org.webjars.npm/apollo-client@1.0.0-rc.2
+- pkg:maven/org.webjars.npm/apollo-client@1.0.0-rc.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-datastore-v1@0.1.5
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-datastore-v1@0.1.5?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.25.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.25.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.25.2.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.26.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.27.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.28.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.29.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.29.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.29.2.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.29.3.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@0.29.4.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR1
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR2
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR3
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR4
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-jmx-itest@1.0.0.CR5

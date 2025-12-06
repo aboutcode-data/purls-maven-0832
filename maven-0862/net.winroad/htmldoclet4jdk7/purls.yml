@@ -1,0 +1,2 @@
+- pkg:maven/net.winroad/htmldoclet4jdk7@1.1.0
+- pkg:maven/net.winroad/htmldoclet4jdk7@1.1.0?classifier=sources

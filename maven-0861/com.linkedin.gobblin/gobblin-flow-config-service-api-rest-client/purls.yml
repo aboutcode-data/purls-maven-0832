@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.gobblin/gobblin-flow-config-service-api-rest-client@0.10.0
+- pkg:maven/com.linkedin.gobblin/gobblin-flow-config-service-api-rest-client@0.10.0?classifier=sources

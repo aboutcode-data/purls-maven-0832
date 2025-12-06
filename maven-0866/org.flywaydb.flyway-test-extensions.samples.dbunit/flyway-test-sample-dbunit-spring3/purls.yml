@@ -6,3 +6,4 @@
 - pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@3.2.1.1
 - pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@4.0
 - pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@4.0.1
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@4.1.0

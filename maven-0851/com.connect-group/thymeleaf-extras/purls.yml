@@ -1,2 +1,4 @@
 - pkg:maven/com.connect-group/thymeleaf-extras@1.0
 - pkg:maven/com.connect-group/thymeleaf-extras@1.0?classifier=sources
+- pkg:maven/com.connect-group/thymeleaf-extras@2.0.1
+- pkg:maven/com.connect-group/thymeleaf-extras@2.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.thoughtworks.raii/invariant_2.12@1.0.0-M4
+- pkg:maven/com.thoughtworks.raii/invariant_2.12@1.0.0-M4?classifier=sources
+- pkg:maven/com.thoughtworks.raii/invariant_2.12@1.0.0-M5
+- pkg:maven/com.thoughtworks.raii/invariant_2.12@1.0.0-M5?classifier=sources

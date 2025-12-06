@@ -1,0 +1,2 @@
+- pkg:maven/org.wing4j.orm/wing4j-orm-mybatis-markdown@1.0.2
+- pkg:maven/org.wing4j.orm/wing4j-orm-mybatis-markdown@1.0.2?classifier=sources

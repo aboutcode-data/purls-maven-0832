@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jep42/robotframework-easycsvmap-remoteserver@0.0.2
+- pkg:maven/com.github.jep42/robotframework-easycsvmap-remoteserver@0.0.2?classifier=sources

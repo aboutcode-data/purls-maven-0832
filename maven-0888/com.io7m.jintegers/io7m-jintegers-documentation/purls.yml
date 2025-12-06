@@ -4,3 +4,5 @@
 - pkg:maven/com.io7m.jintegers/io7m-jintegers-documentation@1.0.1?type=zip
 - pkg:maven/com.io7m.jintegers/io7m-jintegers-documentation@1.0.2?classifier=sources
 - pkg:maven/com.io7m.jintegers/io7m-jintegers-documentation@1.0.2?type=zip
+- pkg:maven/com.io7m.jintegers/io7m-jintegers-documentation@1.1.0?classifier=sources
+- pkg:maven/com.io7m.jintegers/io7m-jintegers-documentation@1.1.0?type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/de.h2b.scala.lib.phys/si_2.12@1.0.0
+- pkg:maven/de.h2b.scala.lib.phys/si_2.12@1.0.0?classifier=sources

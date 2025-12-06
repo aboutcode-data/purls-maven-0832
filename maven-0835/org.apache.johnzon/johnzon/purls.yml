@@ -14,3 +14,6 @@
 - pkg:maven/org.apache.johnzon/johnzon@0.9.3-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@0.9.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@0.9.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.johnzon/johnzon@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.johnzon/johnzon@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.johnzon/johnzon@1.1.1?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.katujo/katujo-web-utils@0.0.1
+- pkg:maven/com.katujo/katujo-web-utils@0.0.1?classifier=sources

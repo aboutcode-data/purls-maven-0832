@@ -8,3 +8,5 @@
 - pkg:maven/org.codeartisans/org.json@20131017?classifier=sources
 - pkg:maven/org.codeartisans/org.json@20150729
 - pkg:maven/org.codeartisans/org.json@20150729?classifier=sources
+- pkg:maven/org.codeartisans/org.json@20161124
+- pkg:maven/org.codeartisans/org.json@20161124?classifier=sources

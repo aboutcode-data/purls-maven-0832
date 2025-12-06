@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/angular-native-dragdrop@1.1.0?classifier=sources
 - pkg:maven/org.webjars.bower/angular-native-dragdrop@1.1.2
 - pkg:maven/org.webjars.bower/angular-native-dragdrop@1.1.2?classifier=sources
+- pkg:maven/org.webjars.bower/angular-native-dragdrop@1.2.2
+- pkg:maven/org.webjars.bower/angular-native-dragdrop@1.2.2?classifier=sources

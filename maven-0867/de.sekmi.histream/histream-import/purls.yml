@@ -1,3 +1,11 @@
+- pkg:maven/de.sekmi.histream/histream-import@0.10
+- pkg:maven/de.sekmi.histream/histream-import@0.10?classifier=sources
+- pkg:maven/de.sekmi.histream/histream-import@0.11
+- pkg:maven/de.sekmi.histream/histream-import@0.11?classifier=sources
+- pkg:maven/de.sekmi.histream/histream-import@0.12
+- pkg:maven/de.sekmi.histream/histream-import@0.12.1
+- pkg:maven/de.sekmi.histream/histream-import@0.12.1?classifier=sources
+- pkg:maven/de.sekmi.histream/histream-import@0.12?classifier=sources
 - pkg:maven/de.sekmi.histream/histream-import@0.5
 - pkg:maven/de.sekmi.histream/histream-import@0.5?classifier=sources
 - pkg:maven/de.sekmi.histream/histream-import@0.6

@@ -1,0 +1,2 @@
+- pkg:maven/com.openthinks/easyweb@1.2
+- pkg:maven/com.openthinks/easyweb@1.2?classifier=sources

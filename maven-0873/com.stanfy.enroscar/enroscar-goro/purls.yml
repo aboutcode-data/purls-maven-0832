@@ -12,3 +12,5 @@
 - pkg:maven/com.stanfy.enroscar/enroscar-goro@3.0.0-RC1?type=aar
 - pkg:maven/com.stanfy.enroscar/enroscar-goro@3.0.0-RC2?classifier=sources
 - pkg:maven/com.stanfy.enroscar/enroscar-goro@3.0.0-RC2?type=aar
+- pkg:maven/com.stanfy.enroscar/enroscar-goro@3.0.0-RC3?classifier=sources
+- pkg:maven/com.stanfy.enroscar/enroscar-goro@3.0.0-RC3?type=aar

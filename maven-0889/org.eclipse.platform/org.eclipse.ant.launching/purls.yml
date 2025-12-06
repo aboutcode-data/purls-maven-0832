@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.1.201
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.1.201?classifier=sources

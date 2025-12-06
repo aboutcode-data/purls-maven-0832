@@ -14,3 +14,9 @@
 - pkg:maven/org.jlot/jlot-stats-client@0.111?classifier=sources
 - pkg:maven/org.jlot/jlot-stats-client@0.112
 - pkg:maven/org.jlot/jlot-stats-client@0.112?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@0.113
+- pkg:maven/org.jlot/jlot-stats-client@0.113?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@1.0
+- pkg:maven/org.jlot/jlot-stats-client@1.0?classifier=sources
+- pkg:maven/org.jlot/jlot-stats-client@1.2
+- pkg:maven/org.jlot/jlot-stats-client@1.2?classifier=sources

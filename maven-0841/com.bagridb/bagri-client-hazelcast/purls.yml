@@ -1,0 +1,6 @@
+- pkg:maven/com.bagridb/bagri-client-hazelcast@1.1.0
+- pkg:maven/com.bagridb/bagri-client-hazelcast@1.1.0-EA2
+- pkg:maven/com.bagridb/bagri-client-hazelcast@1.1.0-EA2?classifier=sources
+- pkg:maven/com.bagridb/bagri-client-hazelcast@1.1.0?classifier=sources
+- pkg:maven/com.bagridb/bagri-client-hazelcast@1.1.1
+- pkg:maven/com.bagridb/bagri-client-hazelcast@1.1.1?classifier=sources

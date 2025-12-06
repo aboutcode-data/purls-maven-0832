@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.jmeter/jorphan@2.8
 - pkg:maven/org.apache.jmeter/jorphan@2.9
 - pkg:maven/org.apache.jmeter/jorphan@3.0
+- pkg:maven/org.apache.jmeter/jorphan@3.1
+- pkg:maven/org.apache.jmeter/jorphan@3.2

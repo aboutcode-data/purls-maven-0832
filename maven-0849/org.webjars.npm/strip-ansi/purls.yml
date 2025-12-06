@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/strip-ansi@0.1.0
+- pkg:maven/org.webjars.npm/strip-ansi@0.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/strip-ansi@0.3.0
 - pkg:maven/org.webjars.npm/strip-ansi@0.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/strip-ansi@2.0.1

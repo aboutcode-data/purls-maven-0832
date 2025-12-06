@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-arquillian@0.10.0
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-arquillian@0.10.0?classifier=sources
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-arquillian@1.0.0
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-arquillian@1.0.0?classifier=sources

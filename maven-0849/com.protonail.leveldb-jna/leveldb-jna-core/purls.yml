@@ -1,2 +1,4 @@
 - pkg:maven/com.protonail.leveldb-jna/leveldb-jna-core@1.18.0
 - pkg:maven/com.protonail.leveldb-jna/leveldb-jna-core@1.18.0?classifier=sources
+- pkg:maven/com.protonail.leveldb-jna/leveldb-jna-core@1.18.1
+- pkg:maven/com.protonail.leveldb-jna/leveldb-jna-core@1.18.1?classifier=sources

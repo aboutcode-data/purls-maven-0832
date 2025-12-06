@@ -28,3 +28,15 @@
 - pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.1.4?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.1.5
 - pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.1.5?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.1.6
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.1.6?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.2.0
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.2.0-2-g54c7500
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.2.0-2-g54c7500?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.2.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.2.2
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.2.2?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.3.0
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.3.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.4.0
+- pkg:maven/de.heikoseeberger/akka-log4j_2.11@1.4.0?classifier=sources

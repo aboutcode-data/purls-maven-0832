@@ -1,0 +1,2 @@
+- pkg:maven/com.github.levkhomich/scatebot_2.11@0.2
+- pkg:maven/com.github.levkhomich/scatebot_2.11@0.2?classifier=sources

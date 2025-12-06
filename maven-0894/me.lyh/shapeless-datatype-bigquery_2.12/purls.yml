@@ -1,0 +1,2 @@
+- pkg:maven/me.lyh/shapeless-datatype-bigquery_2.12@0.1.2
+- pkg:maven/me.lyh/shapeless-datatype-bigquery_2.12@0.1.2?classifier=sources

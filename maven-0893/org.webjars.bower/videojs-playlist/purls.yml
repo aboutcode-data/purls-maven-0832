@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/videojs-playlist@3.0.0
+- pkg:maven/org.webjars.bower/videojs-playlist@3.0.0?classifier=sources

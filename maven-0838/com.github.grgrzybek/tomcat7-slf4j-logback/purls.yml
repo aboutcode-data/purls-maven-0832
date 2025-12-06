@@ -1,0 +1,2 @@
+- pkg:maven/com.github.grgrzybek/tomcat7-slf4j-logback@7.0.73
+- pkg:maven/com.github.grgrzybek/tomcat7-slf4j-logback@7.0.73?classifier=sources

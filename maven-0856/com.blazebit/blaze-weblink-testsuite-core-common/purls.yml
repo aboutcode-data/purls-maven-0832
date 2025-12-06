@@ -1,0 +1,2 @@
+- pkg:maven/com.blazebit/blaze-weblink-testsuite-core-common@0.2.0
+- pkg:maven/com.blazebit/blaze-weblink-testsuite-core-common@0.2.0?classifier=sources

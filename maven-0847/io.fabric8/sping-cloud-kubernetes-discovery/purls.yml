@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8/sping-cloud-kubernetes-discovery@0.0.1
+- pkg:maven/io.fabric8/sping-cloud-kubernetes-discovery@0.0.1?classifier=sources

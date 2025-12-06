@@ -4,3 +4,15 @@
 - pkg:maven/de.mklinger.commons/exec@0.23?classifier=sources
 - pkg:maven/de.mklinger.commons/exec@0.24
 - pkg:maven/de.mklinger.commons/exec@0.24?classifier=sources
+- pkg:maven/de.mklinger.commons/exec@0.25
+- pkg:maven/de.mklinger.commons/exec@0.25?classifier=sources
+- pkg:maven/de.mklinger.commons/exec@0.26
+- pkg:maven/de.mklinger.commons/exec@0.26?classifier=sources
+- pkg:maven/de.mklinger.commons/exec@0.27
+- pkg:maven/de.mklinger.commons/exec@0.27?classifier=sources
+- pkg:maven/de.mklinger.commons/exec@0.28
+- pkg:maven/de.mklinger.commons/exec@0.28?classifier=sources
+- pkg:maven/de.mklinger.commons/exec@0.29
+- pkg:maven/de.mklinger.commons/exec@0.29?classifier=sources
+- pkg:maven/de.mklinger.commons/exec@0.30
+- pkg:maven/de.mklinger.commons/exec@0.30?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.shrinkwrap/shrinkwrap-spring-boot-ftest@0.0.1
+- pkg:maven/org.jboss.shrinkwrap/shrinkwrap-spring-boot-ftest@0.0.1?classifier=sources

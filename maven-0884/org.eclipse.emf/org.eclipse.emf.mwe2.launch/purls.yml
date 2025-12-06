@@ -4,3 +4,4 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mwe2.launch@2.8.2?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mwe2.launch@2.8.3?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mwe2.launch@2.9.0.201605261059?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mwe2.launch@2.9.1.201705291010?classifier=sources

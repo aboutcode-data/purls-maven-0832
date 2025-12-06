@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yuancihang/happyjdbc@1.2
+- pkg:maven/com.github.yuancihang/happyjdbc@1.2?classifier=sources

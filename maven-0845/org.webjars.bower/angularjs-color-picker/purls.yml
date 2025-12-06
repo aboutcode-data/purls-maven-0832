@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/angularjs-color-picker@0.6.10?classifier=sources
 - pkg:maven/org.webjars.bower/angularjs-color-picker@1.0.2
 - pkg:maven/org.webjars.bower/angularjs-color-picker@1.0.2?classifier=sources
+- pkg:maven/org.webjars.bower/angularjs-color-picker@2.5.0
+- pkg:maven/org.webjars.bower/angularjs-color-picker@2.5.0?classifier=sources

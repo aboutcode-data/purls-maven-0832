@@ -1,0 +1,2 @@
+- pkg:maven/com.eharmony/aloha_2.10@4.0.0
+- pkg:maven/com.eharmony/aloha_2.10@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.jsr370-api-m4@2.8.0
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.jsr370-api-m4@2.8.0?classifier=sources

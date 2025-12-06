@@ -1,0 +1,4 @@
+- pkg:maven/org.fcrepo.apix/fcrepo-api-x-listener@0.1.0
+- pkg:maven/org.fcrepo.apix/fcrepo-api-x-listener@0.1.0?classifier=sources
+- pkg:maven/org.fcrepo.apix/fcrepo-api-x-listener@0.2.0
+- pkg:maven/org.fcrepo.apix/fcrepo-api-x-listener@0.2.0?classifier=sources

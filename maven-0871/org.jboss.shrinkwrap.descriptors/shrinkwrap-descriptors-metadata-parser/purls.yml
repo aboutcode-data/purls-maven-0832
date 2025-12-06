@@ -1,3 +1,4 @@
+- pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-metadata-parser@2.0.0
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-metadata-parser@2.0.0-alpha-1
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-metadata-parser@2.0.0-alpha-10
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-metadata-parser@2.0.0-alpha-10?classifier=sources
@@ -18,3 +19,4 @@
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-metadata-parser@2.0.0-alpha-8?classifier=sources
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-metadata-parser@2.0.0-alpha-9
 - pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-metadata-parser@2.0.0-alpha-9?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-metadata-parser@2.0.0?classifier=sources

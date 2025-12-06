@@ -1,0 +1,4 @@
+- pkg:maven/com.onpositive.aml/org.aml.swagger.io@0.0.12
+- pkg:maven/com.onpositive.aml/org.aml.swagger.io@0.0.12?classifier=sources
+- pkg:maven/com.onpositive.aml/org.aml.swagger.io@0.11
+- pkg:maven/com.onpositive.aml/org.aml.swagger.io@0.11?classifier=sources

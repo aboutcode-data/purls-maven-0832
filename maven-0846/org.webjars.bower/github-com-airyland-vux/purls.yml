@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-airyland-vux@v0.1.3
+- pkg:maven/org.webjars.bower/github-com-airyland-vux@v0.1.3?classifier=sources

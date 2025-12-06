@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter/util-tunable_2.11@6.42.0
+- pkg:maven/com.twitter/util-tunable_2.11@6.42.0?classifier=sources
+- pkg:maven/com.twitter/util-tunable_2.11@6.43.0
+- pkg:maven/com.twitter/util-tunable_2.11@6.43.0?classifier=sources

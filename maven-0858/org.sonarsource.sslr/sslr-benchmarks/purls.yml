@@ -1,2 +1,4 @@
 - pkg:maven/org.sonarsource.sslr/sslr-benchmarks@1.21
 - pkg:maven/org.sonarsource.sslr/sslr-benchmarks@1.21?classifier=sources
+- pkg:maven/org.sonarsource.sslr/sslr-benchmarks@1.22
+- pkg:maven/org.sonarsource.sslr/sslr-benchmarks@1.22?classifier=sources

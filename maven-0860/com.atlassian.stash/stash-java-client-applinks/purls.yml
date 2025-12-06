@@ -1,0 +1,6 @@
+- pkg:maven/com.atlassian.stash/stash-java-client-applinks@1.6.0-rc5
+- pkg:maven/com.atlassian.stash/stash-java-client-applinks@1.6.0-rc5?classifier=sources
+- pkg:maven/com.atlassian.stash/stash-java-client-applinks@2.0.0
+- pkg:maven/com.atlassian.stash/stash-java-client-applinks@2.0.0?classifier=sources
+- pkg:maven/com.atlassian.stash/stash-java-client-applinks@2.0.3
+- pkg:maven/com.atlassian.stash/stash-java-client-applinks@2.0.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.att.ajsc/sdk-java-rest@6.2.0.4
+- pkg:maven/com.att.ajsc/sdk-java-rest@6.2.0.4-oss
+- pkg:maven/com.att.ajsc/sdk-java-rest@6.2.0.4-oss?classifier=sources
+- pkg:maven/com.att.ajsc/sdk-java-rest@6.2.0.4?classifier=sources

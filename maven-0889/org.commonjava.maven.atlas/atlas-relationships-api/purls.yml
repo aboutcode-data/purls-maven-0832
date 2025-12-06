@@ -42,6 +42,10 @@
 - pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.16.1?classifier=sources
 - pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.16.2
 - pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.16.2?classifier=sources
+- pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.17.0
+- pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.17.0?classifier=sources
+- pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.17.1
+- pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.17.1?classifier=sources
 - pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.7.0
 - pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.7.0?classifier=sources
 - pkg:maven/org.commonjava.maven.atlas/atlas-relationships-api@0.8.0

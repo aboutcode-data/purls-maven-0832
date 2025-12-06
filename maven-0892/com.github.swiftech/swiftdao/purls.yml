@@ -1,0 +1,2 @@
+- pkg:maven/com.github.swiftech/swiftdao@0.1.2
+- pkg:maven/com.github.swiftech/swiftdao@0.1.2?classifier=sources

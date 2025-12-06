@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-junit@2.1
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-junit@2.1?classifier=sources

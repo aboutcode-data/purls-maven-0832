@@ -1,0 +1,10 @@
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.2
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.2?classifier=sources
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.3
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.3?classifier=sources
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.4
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.4?classifier=sources
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.5
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.5?classifier=sources
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.6
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.6?classifier=sources

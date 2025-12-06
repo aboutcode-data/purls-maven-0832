@@ -8,3 +8,5 @@
 - pkg:maven/de.hhu.stups/bmotion-prob@0.2.8?classifier=sources
 - pkg:maven/de.hhu.stups/bmotion-prob@0.3.0
 - pkg:maven/de.hhu.stups/bmotion-prob@0.3.0?classifier=sources
+- pkg:maven/de.hhu.stups/bmotion-prob@0.3.1
+- pkg:maven/de.hhu.stups/bmotion-prob@0.3.1?classifier=sources

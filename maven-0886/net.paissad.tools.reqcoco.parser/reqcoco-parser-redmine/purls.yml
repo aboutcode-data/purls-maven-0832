@@ -1,0 +1,2 @@
+- pkg:maven/net.paissad.tools.reqcoco.parser/reqcoco-parser-redmine@1.0.0
+- pkg:maven/net.paissad.tools.reqcoco.parser/reqcoco-parser-redmine@1.0.0?classifier=sources

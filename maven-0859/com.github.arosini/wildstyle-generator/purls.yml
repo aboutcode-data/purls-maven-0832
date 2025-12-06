@@ -1,0 +1,2 @@
+- pkg:maven/com.github.arosini/wildstyle-generator@0.1
+- pkg:maven/com.github.arosini/wildstyle-generator@0.1?classifier=sources

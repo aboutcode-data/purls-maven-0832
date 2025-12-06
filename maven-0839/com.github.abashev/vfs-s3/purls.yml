@@ -1,0 +1,2 @@
+- pkg:maven/com.github.abashev/vfs-s3@2.4.1
+- pkg:maven/com.github.abashev/vfs-s3@2.4.1?classifier=sources

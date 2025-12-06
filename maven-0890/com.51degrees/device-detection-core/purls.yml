@@ -1,5 +1,15 @@
+- pkg:maven/com.51degrees/device-detection-core@2.3.14.2
+- pkg:maven/com.51degrees/device-detection-core@2.3.14.2?classifier=sources
 - pkg:maven/com.51degrees/device-detection-core@3.2-beta-7
 - pkg:maven/com.51degrees/device-detection-core@3.2-beta-7?classifier=sources
+- pkg:maven/com.51degrees/device-detection-core@3.2.10.4
+- pkg:maven/com.51degrees/device-detection-core@3.2.10.4?classifier=sources
+- pkg:maven/com.51degrees/device-detection-core@3.2.12.4
+- pkg:maven/com.51degrees/device-detection-core@3.2.12.4?classifier=sources
+- pkg:maven/com.51degrees/device-detection-core@3.2.13.9
+- pkg:maven/com.51degrees/device-detection-core@3.2.13.9?classifier=sources
+- pkg:maven/com.51degrees/device-detection-core@3.2.14.2
+- pkg:maven/com.51degrees/device-detection-core@3.2.14.2?classifier=sources
 - pkg:maven/com.51degrees/device-detection-core@3.2.2.20-beta
 - pkg:maven/com.51degrees/device-detection-core@3.2.2.20-beta?classifier=sources
 - pkg:maven/com.51degrees/device-detection-core@3.2.3.5-beta
@@ -16,3 +26,5 @@
 - pkg:maven/com.51degrees/device-detection-core@3.2.8.1?classifier=sources
 - pkg:maven/com.51degrees/device-detection-core@3.2.9.2
 - pkg:maven/com.51degrees/device-detection-core@3.2.9.2?classifier=sources
+- pkg:maven/com.51degrees/device-detection-core@v3.2.11.3
+- pkg:maven/com.51degrees/device-detection-core@v3.2.11.3?classifier=sources

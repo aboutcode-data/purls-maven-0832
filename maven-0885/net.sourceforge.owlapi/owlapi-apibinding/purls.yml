@@ -28,6 +28,10 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@3.5.3?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@3.5.4
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@3.5.4?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@3.5.5
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@3.5.5?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@3.5.6
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@3.5.6?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.0.0
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.0.0?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.0.1
@@ -60,6 +64,14 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.2.5?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.2.6
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.2.6?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.2.7
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.2.7?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.2.8
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.2.8?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.3.0
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.3.0?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.3.1
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@4.3.1?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.0
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.0?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.1
@@ -68,3 +80,9 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.2?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.3
 - pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.3?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.4
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.4?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.5
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.0.5?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.1.0
+- pkg:maven/net.sourceforge.owlapi/owlapi-apibinding@5.1.0?classifier=sources

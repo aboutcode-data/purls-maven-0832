@@ -1,0 +1,2 @@
+- pkg:maven/com.madavan/schema-mysql_2.12@1.0.3
+- pkg:maven/com.madavan/schema-mysql_2.12@1.0.3?classifier=sources

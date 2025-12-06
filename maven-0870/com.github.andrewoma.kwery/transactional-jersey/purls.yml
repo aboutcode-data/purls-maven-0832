@@ -8,6 +8,10 @@
 - pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.13?classifier=sources
 - pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.14
 - pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.14?classifier=sources
+- pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.15
+- pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.15?classifier=sources
+- pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.16
+- pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.16?classifier=sources
 - pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.2
 - pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.2?classifier=sources
 - pkg:maven/com.github.andrewoma.kwery/transactional-jersey@0.3

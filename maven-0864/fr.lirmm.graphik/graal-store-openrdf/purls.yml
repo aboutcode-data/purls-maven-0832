@@ -16,3 +16,5 @@
 - pkg:maven/fr.lirmm.graphik/graal-store-openrdf@1.1.1?classifier=sources
 - pkg:maven/fr.lirmm.graphik/graal-store-openrdf@1.2.0
 - pkg:maven/fr.lirmm.graphik/graal-store-openrdf@1.2.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-store-openrdf@1.3.a0
+- pkg:maven/fr.lirmm.graphik/graal-store-openrdf@1.3.a0?classifier=sources

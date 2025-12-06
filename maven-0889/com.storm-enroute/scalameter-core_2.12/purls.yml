@@ -1,0 +1,2 @@
+- pkg:maven/com.storm-enroute/scalameter-core_2.12@0.8.2
+- pkg:maven/com.storm-enroute/scalameter-core_2.12@0.8.2?classifier=sources

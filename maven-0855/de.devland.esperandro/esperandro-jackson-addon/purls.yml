@@ -8,3 +8,7 @@
 - pkg:maven/de.devland.esperandro/esperandro-jackson-addon@2.3.0?classifier=sources
 - pkg:maven/de.devland.esperandro/esperandro-jackson-addon@2.3.1
 - pkg:maven/de.devland.esperandro/esperandro-jackson-addon@2.3.1?classifier=sources
+- pkg:maven/de.devland.esperandro/esperandro-jackson-addon@2.4.0
+- pkg:maven/de.devland.esperandro/esperandro-jackson-addon@2.4.0?classifier=sources
+- pkg:maven/de.devland.esperandro/esperandro-jackson-addon@2.4.1
+- pkg:maven/de.devland.esperandro/esperandro-jackson-addon@2.4.1?classifier=sources

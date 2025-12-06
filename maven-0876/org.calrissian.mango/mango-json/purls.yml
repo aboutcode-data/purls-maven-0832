@@ -8,3 +8,7 @@
 - pkg:maven/org.calrissian.mango/mango-json@1.3.0?classifier=sources
 - pkg:maven/org.calrissian.mango/mango-json@1.4.0
 - pkg:maven/org.calrissian.mango/mango-json@1.4.0?classifier=sources
+- pkg:maven/org.calrissian.mango/mango-json@1.4.1
+- pkg:maven/org.calrissian.mango/mango-json@1.4.1?classifier=sources
+- pkg:maven/org.calrissian.mango/mango-json@2.0.0
+- pkg:maven/org.calrissian.mango/mango-json@2.0.0?classifier=sources

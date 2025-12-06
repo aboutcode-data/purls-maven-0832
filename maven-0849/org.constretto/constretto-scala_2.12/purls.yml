@@ -1,0 +1,2 @@
+- pkg:maven/org.constretto/constretto-scala_2.12@1.2
+- pkg:maven/org.constretto/constretto-scala_2.12@1.2?classifier=sources

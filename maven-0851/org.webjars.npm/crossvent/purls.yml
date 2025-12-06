@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/crossvent@1.5.0
+- pkg:maven/org.webjars.npm/crossvent@1.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/crossvent@1.5.4
 - pkg:maven/org.webjars.npm/crossvent@1.5.4?classifier=sources

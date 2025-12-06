@@ -1,0 +1,2 @@
+- pkg:maven/io.servicecomb.demo/demo-server-servlet@0.1.0-m1?classifier=sources
+- pkg:maven/io.servicecomb.demo/demo-server-servlet@0.1.0-m1?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafdataprocessing/worker-policy-binary-hash-worker-converter@1.0.0-3
+- pkg:maven/com.github.cafdataprocessing/worker-policy-binary-hash-worker-converter@1.0.0-3?classifier=sources

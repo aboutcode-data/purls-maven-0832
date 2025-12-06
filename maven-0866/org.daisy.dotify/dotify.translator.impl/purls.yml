@@ -18,3 +18,5 @@
 - pkg:maven/org.daisy.dotify/dotify.translator.impl@2.2.0?classifier=sources
 - pkg:maven/org.daisy.dotify/dotify.translator.impl@2.3.0
 - pkg:maven/org.daisy.dotify/dotify.translator.impl@2.3.0?classifier=sources
+- pkg:maven/org.daisy.dotify/dotify.translator.impl@3.0.0
+- pkg:maven/org.daisy.dotify/dotify.translator.impl@3.0.0?classifier=sources

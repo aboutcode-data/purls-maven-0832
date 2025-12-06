@@ -18,3 +18,7 @@
 - pkg:maven/ch.sahits.game/GameEvent@0.7.0-RC1
 - pkg:maven/ch.sahits.game/GameEvent@0.7.0-RC1?classifier=sources
 - pkg:maven/ch.sahits.game/GameEvent@0.7.0?classifier=sources
+- pkg:maven/ch.sahits.game/GameEvent@0.8.0
+- pkg:maven/ch.sahits.game/GameEvent@0.8.0-RC1
+- pkg:maven/ch.sahits.game/GameEvent@0.8.0-RC1?classifier=sources
+- pkg:maven/ch.sahits.game/GameEvent@0.8.0?classifier=sources

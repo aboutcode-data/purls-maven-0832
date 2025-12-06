@@ -22,3 +22,5 @@
 - pkg:maven/org.lumongo/lumongo-storage@0.50?classifier=sources
 - pkg:maven/org.lumongo/lumongo-storage@0.51
 - pkg:maven/org.lumongo/lumongo-storage@0.51?classifier=sources
+- pkg:maven/org.lumongo/lumongo-storage@0.52
+- pkg:maven/org.lumongo/lumongo-storage@0.52?classifier=sources

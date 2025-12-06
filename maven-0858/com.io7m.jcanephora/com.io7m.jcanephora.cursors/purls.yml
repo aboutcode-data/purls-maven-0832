@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jcanephora/com.io7m.jcanephora.cursors@0.60.0
+- pkg:maven/com.io7m.jcanephora/com.io7m.jcanephora.cursors@0.60.0?classifier=sources

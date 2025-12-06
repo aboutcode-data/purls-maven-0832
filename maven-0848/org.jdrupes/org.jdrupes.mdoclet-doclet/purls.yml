@@ -1,0 +1,2 @@
+- pkg:maven/org.jdrupes/org.jdrupes.mdoclet-doclet@0.1.0
+- pkg:maven/org.jdrupes/org.jdrupes.mdoclet-doclet@0.1.0?classifier=sources

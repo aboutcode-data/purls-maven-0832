@@ -1,0 +1,2 @@
+- pkg:maven/com.avanza.astrix/astrix-test-support@0.43.2
+- pkg:maven/com.avanza.astrix/astrix-test-support@0.43.2?classifier=sources

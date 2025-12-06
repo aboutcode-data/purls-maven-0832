@@ -16,6 +16,8 @@
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils@0.13.2?classifier=sources
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils@0.13.3
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils@0.13.3?classifier=sources
+- pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils@0.13.4
+- pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils@0.13.4?classifier=sources
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils@0.3.4
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils@0.3.4?classifier=sources
 - pkg:maven/net.dermetfan.libgdx-utils/libgdx-utils@0.4.0

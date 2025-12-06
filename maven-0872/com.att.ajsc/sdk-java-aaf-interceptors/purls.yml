@@ -1,0 +1,4 @@
+- pkg:maven/com.att.ajsc/sdk-java-aaf-interceptors@6.0.0.7
+- pkg:maven/com.att.ajsc/sdk-java-aaf-interceptors@6.0.0.7-oss
+- pkg:maven/com.att.ajsc/sdk-java-aaf-interceptors@6.0.0.7-oss?classifier=sources
+- pkg:maven/com.att.ajsc/sdk-java-aaf-interceptors@6.0.0.7?classifier=sources

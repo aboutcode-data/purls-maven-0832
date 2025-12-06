@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/flag-icon-css@2.3.0
 - pkg:maven/org.webjars.npm/flag-icon-css@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/flag-icon-css@2.4.0
+- pkg:maven/org.webjars.npm/flag-icon-css@2.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/flag-icon-css@2.8.0
+- pkg:maven/org.webjars.npm/flag-icon-css@2.8.0?classifier=sources

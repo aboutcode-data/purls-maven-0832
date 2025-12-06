@@ -10,3 +10,5 @@
 - pkg:maven/net.stickycode/sticky-coercion-api@3.8?classifier=sources
 - pkg:maven/net.stickycode/sticky-coercion-api@3.9
 - pkg:maven/net.stickycode/sticky-coercion-api@3.9?classifier=sources
+- pkg:maven/net.stickycode/sticky-coercion-api@4.3
+- pkg:maven/net.stickycode/sticky-coercion-api@4.3?classifier=sources

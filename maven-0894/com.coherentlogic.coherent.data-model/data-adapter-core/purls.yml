@@ -2,3 +2,9 @@
 - pkg:maven/com.coherentlogic.coherent.data-model/data-adapter-core@1.0.22-RELEASE?classifier=sources
 - pkg:maven/com.coherentlogic.coherent.data-model/data-adapter-core@1.0.23-RELEASE
 - pkg:maven/com.coherentlogic.coherent.data-model/data-adapter-core@1.0.23-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.coherent.data-model/data-adapter-core@1.0.24-RELEASE
+- pkg:maven/com.coherentlogic.coherent.data-model/data-adapter-core@1.0.24-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.coherent.data-model/data-adapter-core@1.0.25-RELEASE
+- pkg:maven/com.coherentlogic.coherent.data-model/data-adapter-core@1.0.25-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.coherent.data-model/data-adapter-core@1.0.26-RELEASE
+- pkg:maven/com.coherentlogic.coherent.data-model/data-adapter-core@1.0.26-RELEASE?classifier=sources

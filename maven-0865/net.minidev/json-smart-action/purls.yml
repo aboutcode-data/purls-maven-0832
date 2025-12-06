@@ -1,0 +1,2 @@
+- pkg:maven/net.minidev/json-smart-action@2.3
+- pkg:maven/net.minidev/json-smart-action@2.3?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.arquillian.cube.q/arquillian-cube-q-toxic@1.0.0.Alpha1
 - pkg:maven/org.arquillian.cube.q/arquillian-cube-q-toxic@1.0.0.Alpha1?classifier=sources
+- pkg:maven/org.arquillian.cube.q/arquillian-cube-q-toxic@1.0.0.Alpha2
+- pkg:maven/org.arquillian.cube.q/arquillian-cube-q-toxic@1.0.0.Alpha2?classifier=sources
+- pkg:maven/org.arquillian.cube.q/arquillian-cube-q-toxic@1.0.0.Alpha3
+- pkg:maven/org.arquillian.cube.q/arquillian-cube-q-toxic@1.0.0.Alpha3?classifier=sources

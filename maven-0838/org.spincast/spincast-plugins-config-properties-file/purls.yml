@@ -32,6 +32,12 @@
 - pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.27?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.28
 - pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.28?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.29
+- pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.29?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.30
+- pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.30?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.31
+- pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.31?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.5
 - pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.5?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-config-properties-file@0.9.6

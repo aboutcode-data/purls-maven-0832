@@ -1,0 +1,2 @@
+- pkg:maven/io.stardog.stardao/stardao-auto@0.3.0
+- pkg:maven/io.stardog.stardao/stardao-auto@0.3.0?classifier=sources

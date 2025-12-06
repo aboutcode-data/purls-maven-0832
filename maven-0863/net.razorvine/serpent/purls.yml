@@ -4,3 +4,11 @@
 - pkg:maven/net.razorvine/serpent@1.12?classifier=sources
 - pkg:maven/net.razorvine/serpent@1.13
 - pkg:maven/net.razorvine/serpent@1.13?classifier=sources
+- pkg:maven/net.razorvine/serpent@1.15
+- pkg:maven/net.razorvine/serpent@1.15?classifier=sources
+- pkg:maven/net.razorvine/serpent@1.16
+- pkg:maven/net.razorvine/serpent@1.16?classifier=sources
+- pkg:maven/net.razorvine/serpent@1.17
+- pkg:maven/net.razorvine/serpent@1.17?classifier=sources
+- pkg:maven/net.razorvine/serpent@1.18
+- pkg:maven/net.razorvine/serpent@1.18?classifier=sources

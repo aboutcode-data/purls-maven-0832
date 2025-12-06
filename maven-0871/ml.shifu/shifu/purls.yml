@@ -1,0 +1,6 @@
+- pkg:maven/ml.shifu/shifu@0.10.0
+- pkg:maven/ml.shifu/shifu@0.10.0?classifier=sources
+- pkg:maven/ml.shifu/shifu@0.10.2
+- pkg:maven/ml.shifu/shifu@0.10.2?classifier=sources
+- pkg:maven/ml.shifu/shifu@0.10.3
+- pkg:maven/ml.shifu/shifu@0.10.3?classifier=sources

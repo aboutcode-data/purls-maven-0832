@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-5?type=war
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-6?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-6?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-7?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-security@3.0.0-alpha-7?type=war

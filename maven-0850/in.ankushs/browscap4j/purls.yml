@@ -7,4 +7,8 @@
 - pkg:maven/in.ankushs/browscap4j@1.4.2?classifier=sources
 - pkg:maven/in.ankushs/browscap4j@1.4.3
 - pkg:maven/in.ankushs/browscap4j@1.4.3?classifier=sources
+- pkg:maven/in.ankushs/browscap4j@1.4.4
+- pkg:maven/in.ankushs/browscap4j@1.4.4?classifier=sources
 - pkg:maven/in.ankushs/browscap4j@1.4?classifier=sources
+- pkg:maven/in.ankushs/browscap4j@2.0-PRE
+- pkg:maven/in.ankushs/browscap4j@2.0-PRE?classifier=sources

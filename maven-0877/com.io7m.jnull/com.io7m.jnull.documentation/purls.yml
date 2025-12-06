@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jnull/com.io7m.jnull.documentation@1.1.0?classifier=sources
+- pkg:maven/com.io7m.jnull/com.io7m.jnull.documentation@1.1.0?type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.swt@0.12.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.swt@0.12.100?classifier=sources

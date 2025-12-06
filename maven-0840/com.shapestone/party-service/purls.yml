@@ -1,0 +1,2 @@
+- pkg:maven/com.shapestone/party-service@1.0.155
+- pkg:maven/com.shapestone/party-service@1.0.155?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.tycho/sisu-equinox-api@0.25.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/sisu-equinox-api@0.26.0
 - pkg:maven/org.eclipse.tycho/sisu-equinox-api@0.26.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/sisu-equinox-api@1.0.0
+- pkg:maven/org.eclipse.tycho/sisu-equinox-api@1.0.0?classifier=sources

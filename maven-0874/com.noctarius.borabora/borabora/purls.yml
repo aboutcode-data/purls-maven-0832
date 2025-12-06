@@ -1,0 +1,2 @@
+- pkg:maven/com.noctarius.borabora/borabora@1.0.0-MS1
+- pkg:maven/com.noctarius.borabora/borabora@1.0.0-MS1?classifier=sources

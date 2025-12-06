@@ -1,0 +1,2 @@
+- pkg:maven/com.slickqa.client/slickqa-java-client-simple@0.0.1-2
+- pkg:maven/com.slickqa.client/slickqa-java-client-simple@0.0.1-2?classifier=sources

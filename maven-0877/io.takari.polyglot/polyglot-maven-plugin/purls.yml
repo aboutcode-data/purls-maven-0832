@@ -32,3 +32,4 @@
 - pkg:maven/io.takari.polyglot/polyglot-maven-plugin@0.1.8?classifier=sources
 - pkg:maven/io.takari.polyglot/polyglot-maven-plugin@0.1.9
 - pkg:maven/io.takari.polyglot/polyglot-maven-plugin@0.1.9?classifier=sources
+- pkg:maven/io.takari.polyglot/polyglot-maven-plugin@0.2.0?classifier=sources

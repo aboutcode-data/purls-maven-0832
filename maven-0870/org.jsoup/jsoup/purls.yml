@@ -6,6 +6,10 @@
 - pkg:maven/org.jsoup/jsoup@0.3.1?classifier=sources
 - pkg:maven/org.jsoup/jsoup@1.1.1
 - pkg:maven/org.jsoup/jsoup@1.1.1?classifier=sources
+- pkg:maven/org.jsoup/jsoup@1.10.1
+- pkg:maven/org.jsoup/jsoup@1.10.1?classifier=sources
+- pkg:maven/org.jsoup/jsoup@1.10.2
+- pkg:maven/org.jsoup/jsoup@1.10.2?classifier=sources
 - pkg:maven/org.jsoup/jsoup@1.2.1
 - pkg:maven/org.jsoup/jsoup@1.2.1?classifier=sources
 - pkg:maven/org.jsoup/jsoup@1.2.2

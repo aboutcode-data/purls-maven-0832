@@ -21,6 +21,8 @@
 - pkg:maven/io.reactivex/rxnetty-remote-observable@0.4.19
 - pkg:maven/io.reactivex/rxnetty-remote-observable@0.4.19?classifier=sources
 - pkg:maven/io.reactivex/rxnetty-remote-observable@0.4.2
+- pkg:maven/io.reactivex/rxnetty-remote-observable@0.4.20
+- pkg:maven/io.reactivex/rxnetty-remote-observable@0.4.20?classifier=sources
 - pkg:maven/io.reactivex/rxnetty-remote-observable@0.4.2?classifier=sources
 - pkg:maven/io.reactivex/rxnetty-remote-observable@0.4.4
 - pkg:maven/io.reactivex/rxnetty-remote-observable@0.4.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.metsci.glimpse/glimpse-text@3.0.0
+- pkg:maven/com.metsci.glimpse/glimpse-text@3.0.0?classifier=sources

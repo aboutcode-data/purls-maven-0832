@@ -1,0 +1,2 @@
+- pkg:maven/it.dontesta.labs.liferay.portal.db/liferay-portal-database-all-in-one-support@1.0.0
+- pkg:maven/it.dontesta.labs.liferay.portal.db/liferay-portal-database-all-in-one-support@1.0.0?classifier=sources

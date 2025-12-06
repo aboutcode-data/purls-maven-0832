@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jquery-locationpicker-plugin@0.1.15
+- pkg:maven/org.webjars.bower/jquery-locationpicker-plugin@0.1.15?classifier=sources

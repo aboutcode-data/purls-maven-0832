@@ -2,3 +2,5 @@
 - pkg:maven/com.foreach.libs/common-hibernate@0.12?classifier=sources
 - pkg:maven/com.foreach.libs/common-hibernate@1.0
 - pkg:maven/com.foreach.libs/common-hibernate@1.0?classifier=sources
+- pkg:maven/com.foreach.libs/common-hibernate@1.1
+- pkg:maven/com.foreach.libs/common-hibernate@1.1?classifier=sources

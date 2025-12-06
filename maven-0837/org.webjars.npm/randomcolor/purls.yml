@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/randomcolor@0.4.4
+- pkg:maven/org.webjars.npm/randomcolor@0.4.4?classifier=sources

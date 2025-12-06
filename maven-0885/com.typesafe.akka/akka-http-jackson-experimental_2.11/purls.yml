@@ -35,6 +35,10 @@
 - pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.10
 - pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.10?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.11
+- pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.11.1
+- pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.11.1?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.11.2
+- pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.11.2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.11?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.2
 - pkg:maven/com.typesafe.akka/akka-http-jackson-experimental_2.11@2.4.2-RC1

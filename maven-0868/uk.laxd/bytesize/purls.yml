@@ -1,0 +1,2 @@
+- pkg:maven/uk.laxd/bytesize@0.1
+- pkg:maven/uk.laxd/bytesize@0.1?classifier=sources

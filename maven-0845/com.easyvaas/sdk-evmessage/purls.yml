@@ -1,0 +1,2 @@
+- pkg:maven/com.easyvaas/sdk-evmessage@1.0.15?classifier=sources
+- pkg:maven/com.easyvaas/sdk-evmessage@1.0.15?type=aar

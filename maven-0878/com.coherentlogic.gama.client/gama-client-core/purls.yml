@@ -1,0 +1,6 @@
+- pkg:maven/com.coherentlogic.gama.client/gama-client-core@0.8.5-RELEASE
+- pkg:maven/com.coherentlogic.gama.client/gama-client-core@0.8.5-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.gama.client/gama-client-core@0.8.7-RELEASE
+- pkg:maven/com.coherentlogic.gama.client/gama-client-core@0.8.7-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.gama.client/gama-client-core@1.0.0-RELEASE
+- pkg:maven/com.coherentlogic.gama.client/gama-client-core@1.0.0-RELEASE?classifier=sources

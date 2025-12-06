@@ -1,0 +1,2 @@
+- pkg:maven/org.appdapter/org.appdapter.bundle.math@1.2.4
+- pkg:maven/org.appdapter/org.appdapter.bundle.math@1.2.4?classifier=sources

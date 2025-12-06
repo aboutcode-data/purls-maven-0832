@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.jaffirm/io7m-jaffirm-checkstyle@0.1.0
 - pkg:maven/com.io7m.jaffirm/io7m-jaffirm-checkstyle@0.1.0?classifier=sources
+- pkg:maven/com.io7m.jaffirm/io7m-jaffirm-checkstyle@1.0.0
+- pkg:maven/com.io7m.jaffirm/io7m-jaffirm-checkstyle@1.0.0?classifier=sources

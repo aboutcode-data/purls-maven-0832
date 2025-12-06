@@ -1,0 +1,2 @@
+- pkg:maven/org.openmuc.framework/openmuc-driver-mbus@0.16.0
+- pkg:maven/org.openmuc.framework/openmuc-driver-mbus@0.16.0?classifier=sources

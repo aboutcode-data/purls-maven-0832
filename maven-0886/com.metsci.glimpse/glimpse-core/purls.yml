@@ -16,3 +16,5 @@
 - pkg:maven/com.metsci.glimpse/glimpse-core@2.5.0?classifier=sources
 - pkg:maven/com.metsci.glimpse/glimpse-core@2.5.1
 - pkg:maven/com.metsci.glimpse/glimpse-core@2.5.1?classifier=sources
+- pkg:maven/com.metsci.glimpse/glimpse-core@3.0.0
+- pkg:maven/com.metsci.glimpse/glimpse-core@3.0.0?classifier=sources

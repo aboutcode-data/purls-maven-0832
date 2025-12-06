@@ -1,2 +1,4 @@
 - pkg:maven/de.mirkosertic.cdicron/cdi-cron-quartz-scheduler@1.0
 - pkg:maven/de.mirkosertic.cdicron/cdi-cron-quartz-scheduler@1.0?classifier=sources
+- pkg:maven/de.mirkosertic.cdicron/cdi-cron-quartz-scheduler@1.1
+- pkg:maven/de.mirkosertic.cdicron/cdi-cron-quartz-scheduler@1.1?classifier=sources

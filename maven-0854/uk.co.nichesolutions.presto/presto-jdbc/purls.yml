@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.nichesolutions.presto/presto-jdbc@0.143-CUSTOM
+- pkg:maven/uk.co.nichesolutions.presto/presto-jdbc@0.143-CUSTOM?classifier=sources

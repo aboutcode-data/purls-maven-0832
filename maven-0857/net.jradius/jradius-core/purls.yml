@@ -1,0 +1,2 @@
+- pkg:maven/net.jradius/jradius-core@1.1.5
+- pkg:maven/net.jradius/jradius-core@1.1.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.orienteer/orienteer-devutils@1.2
+- pkg:maven/org.orienteer/orienteer-devutils@1.2?classifier=sources

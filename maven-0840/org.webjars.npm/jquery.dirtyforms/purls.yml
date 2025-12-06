@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/jquery.dirtyforms@2.0.0
 - pkg:maven/org.webjars.npm/jquery.dirtyforms@2.0.0-beta00006
 - pkg:maven/org.webjars.npm/jquery.dirtyforms@2.0.0-beta00006?classifier=sources
+- pkg:maven/org.webjars.npm/jquery.dirtyforms@2.0.0?classifier=sources

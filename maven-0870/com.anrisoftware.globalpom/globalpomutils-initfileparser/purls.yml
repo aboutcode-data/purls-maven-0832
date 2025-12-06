@@ -18,3 +18,5 @@
 - pkg:maven/com.anrisoftware.globalpom/globalpomutils-initfileparser@2.9?classifier=sources
 - pkg:maven/com.anrisoftware.globalpom/globalpomutils-initfileparser@3.0
 - pkg:maven/com.anrisoftware.globalpom/globalpomutils-initfileparser@3.0?classifier=sources
+- pkg:maven/com.anrisoftware.globalpom/globalpomutils-initfileparser@3.1
+- pkg:maven/com.anrisoftware.globalpom/globalpomutils-initfileparser@3.1?classifier=sources

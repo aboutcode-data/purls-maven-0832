@@ -1,0 +1,3 @@
+- pkg:maven/org.openprovenance.prov/ProvToolbox-Tutorial6@0.7.3
+- pkg:maven/org.openprovenance.prov/ProvToolbox-Tutorial6@0.7.3?classifier=sources
+- pkg:maven/org.openprovenance.prov/ProvToolbox-Tutorial6@0.7.3?classifier=src&type=zip

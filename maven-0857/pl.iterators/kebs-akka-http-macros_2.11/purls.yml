@@ -1,0 +1,4 @@
+- pkg:maven/pl.iterators/kebs-akka-http-macros_2.11@1.4.2
+- pkg:maven/pl.iterators/kebs-akka-http-macros_2.11@1.4.2?classifier=sources
+- pkg:maven/pl.iterators/kebs-akka-http-macros_2.11@1.4.3
+- pkg:maven/pl.iterators/kebs-akka-http-macros_2.11@1.4.3?classifier=sources

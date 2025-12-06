@@ -1,0 +1,2 @@
+- pkg:maven/fr.d2-si/ooso@0.0.1
+- pkg:maven/fr.d2-si/ooso@0.0.1?classifier=sources

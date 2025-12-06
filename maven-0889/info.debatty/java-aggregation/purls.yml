@@ -1,0 +1,4 @@
+- pkg:maven/info.debatty/java-aggregation@0.1
+- pkg:maven/info.debatty/java-aggregation@0.1?classifier=sources
+- pkg:maven/info.debatty/java-aggregation@0.2
+- pkg:maven/info.debatty/java-aggregation@0.2?classifier=sources

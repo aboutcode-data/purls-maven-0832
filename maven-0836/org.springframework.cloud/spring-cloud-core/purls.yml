@@ -12,3 +12,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-core@1.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-core@1.2.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-core@1.2.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-core@1.2.4.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-core@1.2.4.RELEASE?classifier=sources

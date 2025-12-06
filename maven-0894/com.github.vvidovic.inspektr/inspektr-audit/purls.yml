@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vvidovic.inspektr/inspektr-audit@1.8.GA
+- pkg:maven/com.github.vvidovic.inspektr/inspektr-audit@1.8.GA?classifier=sources

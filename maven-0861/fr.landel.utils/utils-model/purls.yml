@@ -1,0 +1,2 @@
+- pkg:maven/fr.landel.utils/utils-model@0.0.1
+- pkg:maven/fr.landel.utils/utils-model@0.0.1?classifier=sources

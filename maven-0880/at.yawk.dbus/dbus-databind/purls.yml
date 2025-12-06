@@ -1,0 +1,2 @@
+- pkg:maven/at.yawk.dbus/dbus-databind@1.0
+- pkg:maven/at.yawk.dbus/dbus-databind@1.0?classifier=sources

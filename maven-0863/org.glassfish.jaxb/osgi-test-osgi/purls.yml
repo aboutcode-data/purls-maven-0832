@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jaxb/osgi-test-osgi@2.3.0-b170127.1453
+- pkg:maven/org.glassfish.jaxb/osgi-test-osgi@2.3.0-b170127.1453?classifier=sources

@@ -112,3 +112,11 @@
 - pkg:maven/com.xiledsystems/aal_support_v7@2.0.8?type=aar
 - pkg:maven/com.xiledsystems/aal_support_v7@2.0.9?classifier=sources
 - pkg:maven/com.xiledsystems/aal_support_v7@2.0.9?type=aar
+- pkg:maven/com.xiledsystems/aal_support_v7@2.1.01?classifier=sources
+- pkg:maven/com.xiledsystems/aal_support_v7@2.1.01?type=aar
+- pkg:maven/com.xiledsystems/aal_support_v7@2.2.01?classifier=sources
+- pkg:maven/com.xiledsystems/aal_support_v7@2.2.01?type=aar
+- pkg:maven/com.xiledsystems/aal_support_v7@2.3.01?classifier=sources
+- pkg:maven/com.xiledsystems/aal_support_v7@2.3.01?type=aar
+- pkg:maven/com.xiledsystems/aal_support_v7@2.3.02?classifier=sources
+- pkg:maven/com.xiledsystems/aal_support_v7@2.3.02?type=aar

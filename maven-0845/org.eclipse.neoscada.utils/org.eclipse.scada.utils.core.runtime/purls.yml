@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.neoscada.utils/org.eclipse.scada.utils.core.runtime@0.2.0
+- pkg:maven/org.eclipse.neoscada.utils/org.eclipse.scada.utils.core.runtime@0.2.0?classifier=sources

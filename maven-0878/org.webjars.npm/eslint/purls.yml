@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/eslint@2.11.1?classifier=sources
 - pkg:maven/org.webjars.npm/eslint@2.2.0
 - pkg:maven/org.webjars.npm/eslint@2.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/eslint@3.4.0
+- pkg:maven/org.webjars.npm/eslint@3.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/eslint@3.9.1
+- pkg:maven/org.webjars.npm/eslint@3.9.1?classifier=sources

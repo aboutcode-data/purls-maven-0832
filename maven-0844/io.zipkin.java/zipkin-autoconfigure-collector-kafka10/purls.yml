@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-kafka10@1.26.0
+- pkg:maven/io.zipkin.java/zipkin-autoconfigure-collector-kafka10@1.26.0?classifier=sources

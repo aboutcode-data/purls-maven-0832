@@ -1,0 +1,8 @@
+- pkg:maven/io.github.junicorn/mrpc-registry-zookeeper@0.0.4-alpha
+- pkg:maven/io.github.junicorn/mrpc-registry-zookeeper@0.0.4-alpha?classifier=sources
+- pkg:maven/io.github.junicorn/mrpc-registry-zookeeper@0.0.4-beta
+- pkg:maven/io.github.junicorn/mrpc-registry-zookeeper@0.0.4-beta?classifier=sources
+- pkg:maven/io.github.junicorn/mrpc-registry-zookeeper@0.0.4-release
+- pkg:maven/io.github.junicorn/mrpc-registry-zookeeper@0.0.4-release?classifier=sources
+- pkg:maven/io.github.junicorn/mrpc-registry-zookeeper@0.0.5-alpha
+- pkg:maven/io.github.junicorn/mrpc-registry-zookeeper@0.0.5-alpha?classifier=sources

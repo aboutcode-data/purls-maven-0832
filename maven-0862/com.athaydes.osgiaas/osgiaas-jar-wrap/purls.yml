@@ -1,0 +1,2 @@
+- pkg:maven/com.athaydes.osgiaas/osgiaas-jar-wrap@0.7
+- pkg:maven/com.athaydes.osgiaas/osgiaas-jar-wrap@0.7?classifier=sources

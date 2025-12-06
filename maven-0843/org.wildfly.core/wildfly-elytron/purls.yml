@@ -1,0 +1,8 @@
+- pkg:maven/org.wildfly.core/wildfly-elytron@3.0.0.Beta10
+- pkg:maven/org.wildfly.core/wildfly-elytron@3.0.0.Beta10?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-elytron@3.0.0.Beta11
+- pkg:maven/org.wildfly.core/wildfly-elytron@3.0.0.Beta11?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-elytron@3.0.0.Beta8
+- pkg:maven/org.wildfly.core/wildfly-elytron@3.0.0.Beta8?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-elytron@3.0.0.Beta9
+- pkg:maven/org.wildfly.core/wildfly-elytron@3.0.0.Beta9?classifier=sources

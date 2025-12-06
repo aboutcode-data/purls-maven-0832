@@ -1,5 +1,6 @@
 - pkg:maven/com.ibm.sbt/com.ibm.commons.xml@1.1.10.20151002-1200?classifier=sources
 - pkg:maven/com.ibm.sbt/com.ibm.commons.xml@1.1.11.20151208-1200?classifier=sources
+- pkg:maven/com.ibm.sbt/com.ibm.commons.xml@1.1.12.20161007-1200?classifier=sources
 - pkg:maven/com.ibm.sbt/com.ibm.commons.xml@1.1.6.20150817-1200?classifier=sources
 - pkg:maven/com.ibm.sbt/com.ibm.commons.xml@1.1.7.20150908-1400?classifier=sources
 - pkg:maven/com.ibm.sbt/com.ibm.commons.xml@1.1.8.20150911-1400?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.softwaremill.scalamacrodebug/macros_2.11@0.4
+- pkg:maven/com.softwaremill.scalamacrodebug/macros_2.11@0.4.1
+- pkg:maven/com.softwaremill.scalamacrodebug/macros_2.11@0.4.1?classifier=sources
 - pkg:maven/com.softwaremill.scalamacrodebug/macros_2.11@0.4?classifier=sources

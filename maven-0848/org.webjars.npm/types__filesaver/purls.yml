@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__filesaver@1.0.25-alpha
+- pkg:maven/org.webjars.npm/types__filesaver@1.0.25-alpha?classifier=sources

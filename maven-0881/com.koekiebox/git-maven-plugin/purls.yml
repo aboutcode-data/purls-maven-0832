@@ -1,0 +1,2 @@
+- pkg:maven/com.koekiebox/git-maven-plugin@1.1
+- pkg:maven/com.koekiebox/git-maven-plugin@1.1?classifier=sources

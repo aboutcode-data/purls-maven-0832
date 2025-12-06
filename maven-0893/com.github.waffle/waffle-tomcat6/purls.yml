@@ -1,0 +1,4 @@
+- pkg:maven/com.github.waffle/waffle-tomcat6@1.8.2
+- pkg:maven/com.github.waffle/waffle-tomcat6@1.8.2?classifier=sources
+- pkg:maven/com.github.waffle/waffle-tomcat6@1.8.3
+- pkg:maven/com.github.waffle/waffle-tomcat6@1.8.3?classifier=sources

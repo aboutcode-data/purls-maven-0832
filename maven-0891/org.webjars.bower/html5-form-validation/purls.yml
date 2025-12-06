@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/html5-form-validation@1.5.3
+- pkg:maven/org.webjars.bower/html5-form-validation@1.5.3?classifier=sources
+- pkg:maven/org.webjars.bower/html5-form-validation@1.5.4
+- pkg:maven/org.webjars.bower/html5-form-validation@1.5.4?classifier=sources

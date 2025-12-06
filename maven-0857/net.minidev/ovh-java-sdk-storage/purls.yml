@@ -1,0 +1,2 @@
+- pkg:maven/net.minidev/ovh-java-sdk-storage@0.9.3
+- pkg:maven/net.minidev/ovh-java-sdk-storage@0.9.3?classifier=sources

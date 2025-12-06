@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.readmetool@3.4.0
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.readmetool@3.4.0?classifier=sources

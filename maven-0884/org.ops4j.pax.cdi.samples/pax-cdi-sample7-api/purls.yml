@@ -1,2 +1,4 @@
 - pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample7-api@1.0.0.RC1
 - pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample7-api@1.0.0.RC1?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample7-api@1.0.0.RC2
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample7-api@1.0.0.RC2?classifier=sources

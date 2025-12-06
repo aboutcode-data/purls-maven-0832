@@ -2,3 +2,11 @@
 - pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.5.1.1?classifier=sources
 - pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.5.1.2
 - pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.5.1.2?classifier=sources
+- pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.6.0.P24
+- pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.6.0.P24?classifier=sources
+- pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.6.0.P25
+- pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.6.0.P25?classifier=sources
+- pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.6.1.P24
+- pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.6.1.P24?classifier=sources
+- pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.6.1.P25
+- pkg:maven/com.builtamont/play2-scala-pdf_2.11@1.6.1.P25?classifier=sources

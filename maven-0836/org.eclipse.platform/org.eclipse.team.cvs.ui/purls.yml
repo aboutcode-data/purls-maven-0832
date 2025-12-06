@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.ui@3.4.0
+- pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.ui@3.4.0?classifier=sources

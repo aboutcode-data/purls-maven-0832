@@ -1,0 +1,3 @@
+- pkg:maven/io.springlets/springlets-boot-starter-mail@1.0.0.RELEASE
+- pkg:maven/io.springlets/springlets-boot-starter-mail@1.1.0.RELEASE
+- pkg:maven/io.springlets/springlets-boot-starter-mail@1.2.0.RC1

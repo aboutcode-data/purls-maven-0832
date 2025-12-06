@@ -1,0 +1,6 @@
+- pkg:maven/com.github.zuinnote/spark-hadoopcryptoledger-ds_2.10@1.0.2
+- pkg:maven/com.github.zuinnote/spark-hadoopcryptoledger-ds_2.10@1.0.2?classifier=sources
+- pkg:maven/com.github.zuinnote/spark-hadoopcryptoledger-ds_2.10@1.0.3
+- pkg:maven/com.github.zuinnote/spark-hadoopcryptoledger-ds_2.10@1.0.3?classifier=sources
+- pkg:maven/com.github.zuinnote/spark-hadoopcryptoledger-ds_2.10@1.0.4
+- pkg:maven/com.github.zuinnote/spark-hadoopcryptoledger-ds_2.10@1.0.4?classifier=sources

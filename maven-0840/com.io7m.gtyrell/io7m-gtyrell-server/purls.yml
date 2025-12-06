@@ -1,0 +1,6 @@
+- pkg:maven/com.io7m.gtyrell/io7m-gtyrell-server@0.2.0
+- pkg:maven/com.io7m.gtyrell/io7m-gtyrell-server@0.2.0?classifier=sources
+- pkg:maven/com.io7m.gtyrell/io7m-gtyrell-server@0.2.1
+- pkg:maven/com.io7m.gtyrell/io7m-gtyrell-server@0.2.1?classifier=sources
+- pkg:maven/com.io7m.gtyrell/io7m-gtyrell-server@1.0.0
+- pkg:maven/com.io7m.gtyrell/io7m-gtyrell-server@1.0.0?classifier=sources

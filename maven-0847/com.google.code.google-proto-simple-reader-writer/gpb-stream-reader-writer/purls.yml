@@ -15,4 +15,6 @@
 - pkg:maven/com.google.code.google-proto-simple-reader-writer/gpb-stream-reader-writer@1.5.3?classifier=sources
 - pkg:maven/com.google.code.google-proto-simple-reader-writer/gpb-stream-reader-writer@1.5.4
 - pkg:maven/com.google.code.google-proto-simple-reader-writer/gpb-stream-reader-writer@1.5.4?classifier=sources
+- pkg:maven/com.google.code.google-proto-simple-reader-writer/gpb-stream-reader-writer@1.5.5
+- pkg:maven/com.google.code.google-proto-simple-reader-writer/gpb-stream-reader-writer@1.5.5?classifier=sources
 - pkg:maven/com.google.code.google-proto-simple-reader-writer/gpb-stream-reader-writer@1.5?classifier=sources

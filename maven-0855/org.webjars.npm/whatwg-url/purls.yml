@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/whatwg-url@3.0.0
 - pkg:maven/org.webjars.npm/whatwg-url@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/whatwg-url@4.6.0
+- pkg:maven/org.webjars.npm/whatwg-url@4.6.0?classifier=sources

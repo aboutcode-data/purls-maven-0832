@@ -28,3 +28,5 @@
 - pkg:maven/de.taimos/redmine-maven-plugin@1.6.2?classifier=sources
 - pkg:maven/de.taimos/redmine-maven-plugin@1.7.0
 - pkg:maven/de.taimos/redmine-maven-plugin@1.7.0?classifier=sources
+- pkg:maven/de.taimos/redmine-maven-plugin@1.8
+- pkg:maven/de.taimos/redmine-maven-plugin@1.8?classifier=sources

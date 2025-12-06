@@ -1,0 +1,4 @@
+- pkg:maven/io.konig/konig-sql@2.0.0-6
+- pkg:maven/io.konig/konig-sql@2.0.0-6?classifier=sources
+- pkg:maven/io.konig/konig-sql@2.0.0-7
+- pkg:maven/io.konig/konig-sql@2.0.0-7?classifier=sources

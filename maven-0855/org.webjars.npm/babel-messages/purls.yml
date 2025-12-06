@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/babel-messages@6.1.18?classifier=sources
 - pkg:maven/org.webjars.npm/babel-messages@6.2.4
 - pkg:maven/org.webjars.npm/babel-messages@6.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel-messages@6.23.0
+- pkg:maven/org.webjars.npm/babel-messages@6.23.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-messages@6.3.13
 - pkg:maven/org.webjars.npm/babel-messages@6.3.13?classifier=sources
 - pkg:maven/org.webjars.npm/babel-messages@6.3.18

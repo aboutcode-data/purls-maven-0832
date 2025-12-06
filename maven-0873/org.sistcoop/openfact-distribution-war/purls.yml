@@ -1,0 +1,14 @@
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC13?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC13?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC14?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC14?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC15?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC15?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC16?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC16?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC7?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC7?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC8?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC8?type=war
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC9?classifier=sources
+- pkg:maven/org.sistcoop/openfact-distribution-war@1.0.RC9?type=war

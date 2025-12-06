@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.slider/slider-core@0.90.2-incubating?classifier=sources
 - pkg:maven/org.apache.slider/slider-core@0.91.0-incubating
 - pkg:maven/org.apache.slider/slider-core@0.91.0-incubating?classifier=sources
+- pkg:maven/org.apache.slider/slider-core@0.92.0-incubating
+- pkg:maven/org.apache.slider/slider-core@0.92.0-incubating?classifier=sources

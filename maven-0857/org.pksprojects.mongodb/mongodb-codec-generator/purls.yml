@@ -1,0 +1,2 @@
+- pkg:maven/org.pksprojects.mongodb/mongodb-codec-generator@1.0-RC0
+- pkg:maven/org.pksprojects.mongodb/mongodb-codec-generator@1.0-RC0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bluejeans.aws.lambda/aws-lambda-runtime@0.0.1
+- pkg:maven/com.bluejeans.aws.lambda/aws-lambda-runtime@0.0.1?classifier=sources

@@ -25,4 +25,6 @@
 - pkg:maven/ch.iterate.openstack/swift@2.5.7?classifier=sources
 - pkg:maven/ch.iterate.openstack/swift@2.5.8
 - pkg:maven/ch.iterate.openstack/swift@2.5.8?classifier=sources
+- pkg:maven/ch.iterate.openstack/swift@2.5.9
+- pkg:maven/ch.iterate.openstack/swift@2.5.9?classifier=sources
 - pkg:maven/ch.iterate.openstack/swift@2.5?classifier=sources

@@ -54,3 +54,13 @@
 - pkg:maven/org.zanata/zanata-cli@3.9.1?classifier=sources
 - pkg:maven/org.zanata/zanata-cli@4.0.0-alpha-1
 - pkg:maven/org.zanata/zanata-cli@4.0.0-alpha-1?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.0.0-alpha-2?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.0.0-rc-2?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.0.0?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.1.0?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.1.1?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.2.0-rc-3?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.2.0-rc-4?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.2.0-rc-5?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.2.0?classifier=sources
+- pkg:maven/org.zanata/zanata-cli@4.2.1?classifier=sources

@@ -62,3 +62,9 @@
 - pkg:maven/io.cotiviti/svcwrapperdefault@0.4.2?classifier=sources
 - pkg:maven/io.cotiviti/svcwrapperdefault@0.4.3
 - pkg:maven/io.cotiviti/svcwrapperdefault@0.4.3?classifier=sources
+- pkg:maven/io.cotiviti/svcwrapperdefault@0.4.4
+- pkg:maven/io.cotiviti/svcwrapperdefault@0.4.4?classifier=sources
+- pkg:maven/io.cotiviti/svcwrapperdefault@1.0.0
+- pkg:maven/io.cotiviti/svcwrapperdefault@1.0.0?classifier=sources
+- pkg:maven/io.cotiviti/svcwrapperdefault@2.0.0
+- pkg:maven/io.cotiviti/svcwrapperdefault@2.0.0?classifier=sources

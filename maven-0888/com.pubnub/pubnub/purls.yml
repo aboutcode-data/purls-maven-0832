@@ -23,6 +23,8 @@
 - pkg:maven/com.pubnub/pubnub@3.7.1
 - pkg:maven/com.pubnub/pubnub@3.7.10
 - pkg:maven/com.pubnub/pubnub@3.7.10?classifier=sources
+- pkg:maven/com.pubnub/pubnub@3.7.11
+- pkg:maven/com.pubnub/pubnub@3.7.11?classifier=sources
 - pkg:maven/com.pubnub/pubnub@3.7.1?classifier=sources
 - pkg:maven/com.pubnub/pubnub@3.7.2
 - pkg:maven/com.pubnub/pubnub@3.7.2?classifier=sources
@@ -78,3 +80,11 @@
 - pkg:maven/com.pubnub/pubnub@4.0.8?classifier=sources
 - pkg:maven/com.pubnub/pubnub@4.0.9
 - pkg:maven/com.pubnub/pubnub@4.0.9?classifier=sources
+- pkg:maven/com.pubnub/pubnub@4.1.0
+- pkg:maven/com.pubnub/pubnub@4.1.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub@4.2.0
+- pkg:maven/com.pubnub/pubnub@4.2.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub@4.2.2
+- pkg:maven/com.pubnub/pubnub@4.2.2?classifier=sources
+- pkg:maven/com.pubnub/pubnub@4.2.3
+- pkg:maven/com.pubnub/pubnub@4.2.3?classifier=sources

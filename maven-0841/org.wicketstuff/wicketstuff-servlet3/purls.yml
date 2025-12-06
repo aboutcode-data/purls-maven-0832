@@ -72,6 +72,10 @@
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.23.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.24.0
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.24.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.25.0
+- pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.25.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.26.0
+- pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.26.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3@6.4.0

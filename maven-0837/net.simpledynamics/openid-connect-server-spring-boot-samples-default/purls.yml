@@ -1,0 +1,4 @@
+- pkg:maven/net.simpledynamics/openid-connect-server-spring-boot-samples-default@0.1.0
+- pkg:maven/net.simpledynamics/openid-connect-server-spring-boot-samples-default@0.1.0?classifier=sources
+- pkg:maven/net.simpledynamics/openid-connect-server-spring-boot-samples-default@0.1.1
+- pkg:maven/net.simpledynamics/openid-connect-server-spring-boot-samples-default@0.1.1?classifier=sources

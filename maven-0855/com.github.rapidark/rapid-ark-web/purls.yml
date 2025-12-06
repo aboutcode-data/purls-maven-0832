@@ -1,2 +1,10 @@
 - pkg:maven/com.github.rapidark/rapid-ark-web@0.0.3?classifier=sources
 - pkg:maven/com.github.rapidark/rapid-ark-web@0.0.3?type=war
+- pkg:maven/com.github.rapidark/rapid-ark-web@0.0.9?classifier=sources
+- pkg:maven/com.github.rapidark/rapid-ark-web@0.0.9?type=war
+- pkg:maven/com.github.rapidark/rapid-ark-web@0.1.0?classifier=sources
+- pkg:maven/com.github.rapidark/rapid-ark-web@0.1.0?type=war
+- pkg:maven/com.github.rapidark/rapid-ark-web@0.1.1?classifier=sources
+- pkg:maven/com.github.rapidark/rapid-ark-web@0.1.1?type=war
+- pkg:maven/com.github.rapidark/rapid-ark-web@0.3.0?classifier=sources
+- pkg:maven/com.github.rapidark/rapid-ark-web@0.3.0?type=war

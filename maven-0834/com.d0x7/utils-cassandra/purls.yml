@@ -1,0 +1,2 @@
+- pkg:maven/com.d0x7/utils-cassandra@1.0.0
+- pkg:maven/com.d0x7/utils-cassandra@1.0.0?classifier=sources

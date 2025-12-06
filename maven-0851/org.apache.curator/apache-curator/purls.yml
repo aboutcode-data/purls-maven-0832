@@ -3,6 +3,8 @@
 - pkg:maven/org.apache.curator/apache-curator@2.1.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.curator/apache-curator@2.10.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.curator/apache-curator@2.11.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@2.11.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@2.12.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.curator/apache-curator@2.2.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.curator/apache-curator@2.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.curator/apache-curator@2.4.0?classifier=source-release&type=zip
@@ -18,3 +20,5 @@
 - pkg:maven/org.apache.curator/apache-curator@3.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.curator/apache-curator@3.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.curator/apache-curator@3.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@3.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@3.3.0?classifier=source-release&type=zip

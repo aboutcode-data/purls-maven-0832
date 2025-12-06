@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/pouchdb@4.0.3
+- pkg:maven/org.webjars.bower/pouchdb@4.0.3?classifier=sources
+- pkg:maven/org.webjars.bower/pouchdb@6.1.0
+- pkg:maven/org.webjars.bower/pouchdb@6.1.0?classifier=sources

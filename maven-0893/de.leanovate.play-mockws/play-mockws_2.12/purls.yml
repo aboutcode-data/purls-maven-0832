@@ -1,0 +1,2 @@
+- pkg:maven/de.leanovate.play-mockws/play-mockws_2.12@2.6.0-M1
+- pkg:maven/de.leanovate.play-mockws/play-mockws_2.12@2.6.0-M1?classifier=sources

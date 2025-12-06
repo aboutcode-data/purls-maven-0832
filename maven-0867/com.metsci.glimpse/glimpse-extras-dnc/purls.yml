@@ -4,3 +4,5 @@
 - pkg:maven/com.metsci.glimpse/glimpse-extras-dnc@2.5.0?classifier=sources
 - pkg:maven/com.metsci.glimpse/glimpse-extras-dnc@2.5.1
 - pkg:maven/com.metsci.glimpse/glimpse-extras-dnc@2.5.1?classifier=sources
+- pkg:maven/com.metsci.glimpse/glimpse-extras-dnc@3.0.0
+- pkg:maven/com.metsci.glimpse/glimpse-extras-dnc@3.0.0?classifier=sources

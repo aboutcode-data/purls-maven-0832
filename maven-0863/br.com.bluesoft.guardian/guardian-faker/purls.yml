@@ -1,0 +1,2 @@
+- pkg:maven/br.com.bluesoft.guardian/guardian-faker@1.8
+- pkg:maven/br.com.bluesoft.guardian/guardian-faker@1.8?classifier=sources

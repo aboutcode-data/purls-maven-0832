@@ -6,3 +6,7 @@
 - pkg:maven/org.webjars.bower/markdown-it@4.2.1?classifier=sources
 - pkg:maven/org.webjars.bower/markdown-it@5.0.0
 - pkg:maven/org.webjars.bower/markdown-it@5.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/markdown-it@8.1.0
+- pkg:maven/org.webjars.bower/markdown-it@8.1.0?classifier=sources
+- pkg:maven/org.webjars.bower/markdown-it@8.2.1
+- pkg:maven/org.webjars.bower/markdown-it@8.2.1?classifier=sources

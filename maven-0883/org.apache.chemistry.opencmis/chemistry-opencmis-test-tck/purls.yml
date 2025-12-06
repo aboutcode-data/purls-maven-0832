@@ -31,3 +31,5 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@0.9.0?classifier=sources
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@1.0.0
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@1.0.0?classifier=sources
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@1.1.0
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-tck@1.1.0?classifier=sources

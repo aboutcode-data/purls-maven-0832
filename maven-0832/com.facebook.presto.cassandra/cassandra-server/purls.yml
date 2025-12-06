@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.presto.cassandra/cassandra-server@2.1.16-1
+- pkg:maven/com.facebook.presto.cassandra/cassandra-server@2.1.16-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.qiujuer.genius/graphics@2.0.0?classifier=sources
+- pkg:maven/net.qiujuer.genius/graphics@2.0.0?type=aar

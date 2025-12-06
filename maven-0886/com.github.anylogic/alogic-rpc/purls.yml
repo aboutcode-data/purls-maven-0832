@@ -1,0 +1,4 @@
+- pkg:maven/com.github.anylogic/alogic-rpc@1.6.7
+- pkg:maven/com.github.anylogic/alogic-rpc@1.6.7?classifier=sources
+- pkg:maven/com.github.anylogic/alogic-rpc@1.6.8
+- pkg:maven/com.github.anylogic/alogic-rpc@1.6.8?classifier=sources

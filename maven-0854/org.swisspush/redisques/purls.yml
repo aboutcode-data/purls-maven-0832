@@ -6,3 +6,9 @@
 - pkg:maven/org.swisspush/redisques@2.2.2?classifier=sources
 - pkg:maven/org.swisspush/redisques@2.2.3
 - pkg:maven/org.swisspush/redisques@2.2.3?classifier=sources
+- pkg:maven/org.swisspush/redisques@2.2.9
+- pkg:maven/org.swisspush/redisques@2.2.9?classifier=sources
+- pkg:maven/org.swisspush/redisques@2.3.01
+- pkg:maven/org.swisspush/redisques@2.3.01?classifier=sources
+- pkg:maven/org.swisspush/redisques@2.3.3
+- pkg:maven/org.swisspush/redisques@2.3.3?classifier=sources

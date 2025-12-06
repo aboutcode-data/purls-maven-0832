@@ -1,0 +1,12 @@
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.0
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.0?classifier=sources
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.1
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.1?classifier=sources
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.2
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.2?classifier=sources
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.3
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.3?classifier=sources
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.4
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.13.4?classifier=sources
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.14.0
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.14.0?classifier=sources

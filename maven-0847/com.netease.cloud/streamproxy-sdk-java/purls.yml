@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.cloud/streamproxy-sdk-java@0.1
+- pkg:maven/com.netease.cloud/streamproxy-sdk-java@0.1?classifier=sources

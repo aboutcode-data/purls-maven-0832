@@ -4,3 +4,5 @@
 - pkg:maven/com.sdl.dxa.modules/dxa-module-smarttarget-2013sp1@1.4.1?classifier=sources
 - pkg:maven/com.sdl.dxa.modules/dxa-module-smarttarget-2013sp1@1.5.0
 - pkg:maven/com.sdl.dxa.modules/dxa-module-smarttarget-2013sp1@1.5.0?classifier=sources
+- pkg:maven/com.sdl.dxa.modules/dxa-module-smarttarget-2013sp1@1.6.0
+- pkg:maven/com.sdl.dxa.modules/dxa-module-smarttarget-2013sp1@1.6.0?classifier=sources

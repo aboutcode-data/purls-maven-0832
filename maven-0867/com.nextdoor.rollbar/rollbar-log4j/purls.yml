@@ -1,0 +1,2 @@
+- pkg:maven/com.nextdoor.rollbar/rollbar-log4j@1.0.2
+- pkg:maven/com.nextdoor.rollbar/rollbar-log4j@1.0.2?classifier=sources

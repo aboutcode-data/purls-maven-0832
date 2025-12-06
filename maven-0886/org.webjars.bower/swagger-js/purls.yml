@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.bower/swagger-js@2.1.10-M1?classifier=sources
 - pkg:maven/org.webjars.bower/swagger-js@2.1.13
 - pkg:maven/org.webjars.bower/swagger-js@2.1.13?classifier=sources
+- pkg:maven/org.webjars.bower/swagger-js@2.1.26
+- pkg:maven/org.webjars.bower/swagger-js@2.1.26?classifier=sources
+- pkg:maven/org.webjars.bower/swagger-js@3.0.11
+- pkg:maven/org.webjars.bower/swagger-js@3.0.11?classifier=sources

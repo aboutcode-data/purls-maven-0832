@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.mahout/mahout-native-viennacl-omp_2.10@0.13.0
+- pkg:maven/org.apache.mahout/mahout-native-viennacl-omp_2.10@0.13.0?classifier=sources

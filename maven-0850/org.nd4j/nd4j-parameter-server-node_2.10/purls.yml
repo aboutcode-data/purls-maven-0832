@@ -1,0 +1,4 @@
+- pkg:maven/org.nd4j/nd4j-parameter-server-node_2.10@0.7.2
+- pkg:maven/org.nd4j/nd4j-parameter-server-node_2.10@0.7.2?classifier=sources
+- pkg:maven/org.nd4j/nd4j-parameter-server-node_2.10@0.8.0
+- pkg:maven/org.nd4j/nd4j-parameter-server-node_2.10@0.8.0?classifier=sources

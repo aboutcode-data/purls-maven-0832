@@ -18,3 +18,13 @@
 - pkg:maven/com.metamx/bytebuffer-collections@0.2.4?classifier=sources
 - pkg:maven/com.metamx/bytebuffer-collections@0.2.5
 - pkg:maven/com.metamx/bytebuffer-collections@0.2.5?classifier=sources
+- pkg:maven/com.metamx/bytebuffer-collections@0.3.0
+- pkg:maven/com.metamx/bytebuffer-collections@0.3.0?classifier=sources
+- pkg:maven/com.metamx/bytebuffer-collections@0.3.1
+- pkg:maven/com.metamx/bytebuffer-collections@0.3.1?classifier=sources
+- pkg:maven/com.metamx/bytebuffer-collections@0.3.2
+- pkg:maven/com.metamx/bytebuffer-collections@0.3.2?classifier=sources
+- pkg:maven/com.metamx/bytebuffer-collections@0.4.0-mmx
+- pkg:maven/com.metamx/bytebuffer-collections@0.4.0-mmx?classifier=sources
+- pkg:maven/com.metamx/bytebuffer-collections@0.4.1-mmx
+- pkg:maven/com.metamx/bytebuffer-collections@0.4.1-mmx?classifier=sources

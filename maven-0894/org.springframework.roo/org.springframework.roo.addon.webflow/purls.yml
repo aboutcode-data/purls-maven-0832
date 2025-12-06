@@ -1,0 +1,4 @@
+- pkg:maven/org.springframework.roo/org.springframework.roo.addon.webflow@2.0.0.M3
+- pkg:maven/org.springframework.roo/org.springframework.roo.addon.webflow@2.0.0.M3?classifier=sources
+- pkg:maven/org.springframework.roo/org.springframework.roo.addon.webflow@2.0.0.RC1
+- pkg:maven/org.springframework.roo/org.springframework.roo.addon.webflow@2.0.0.RC1?classifier=sources

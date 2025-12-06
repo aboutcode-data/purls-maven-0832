@@ -1,0 +1,2 @@
+- pkg:maven/com.soebes.maven.extensions/deployment-recorder-extension@0.1.0
+- pkg:maven/com.soebes.maven.extensions/deployment-recorder-extension@0.1.0?classifier=sources

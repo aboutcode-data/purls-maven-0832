@@ -1,0 +1,2 @@
+- pkg:maven/io.github.resilience4j/resilience4j-vertx@0.9.0
+- pkg:maven/io.github.resilience4j/resilience4j-vertx@0.9.0?classifier=sources

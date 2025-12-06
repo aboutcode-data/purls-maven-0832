@@ -1,0 +1,10 @@
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@0.8.6
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@0.8.6?classifier=sources
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@0.9.0
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@0.9.0?classifier=sources
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@0.9.1
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@0.9.1?classifier=sources
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@1.0.0
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@1.0.0?classifier=sources
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@1.0.2
+- pkg:maven/io.buoyant/telemetry-statsd_2.11@1.0.2?classifier=sources

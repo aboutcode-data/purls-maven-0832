@@ -5,6 +5,7 @@
 - pkg:maven/org.webjars/angular-ui-select@0.14.2
 - pkg:maven/org.webjars/angular-ui-select@0.14.8
 - pkg:maven/org.webjars/angular-ui-select@0.17.1
+- pkg:maven/org.webjars/angular-ui-select@0.19.6
 - pkg:maven/org.webjars/angular-ui-select@0.7.0
 - pkg:maven/org.webjars/angular-ui-select@0.8.1
 - pkg:maven/org.webjars/angular-ui-select@0.8.2

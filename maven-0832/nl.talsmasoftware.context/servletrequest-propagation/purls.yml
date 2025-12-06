@@ -1,0 +1,12 @@
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.1
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.1?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.2
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.2?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.3
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.3?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.4
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.4?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.5
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.5?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.6
+- pkg:maven/nl.talsmasoftware.context/servletrequest-propagation@0.4.6?classifier=sources

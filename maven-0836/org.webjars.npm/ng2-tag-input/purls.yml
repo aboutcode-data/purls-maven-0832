@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/ng2-tag-input@0.2.1
 - pkg:maven/org.webjars.npm/ng2-tag-input@0.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/ng2-tag-input@0.7.0
+- pkg:maven/org.webjars.npm/ng2-tag-input@0.7.0?classifier=sources

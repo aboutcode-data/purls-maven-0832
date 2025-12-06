@@ -1,0 +1,2 @@
+- pkg:maven/org.xerial/fluentd-standalone_2.11@0.14.11
+- pkg:maven/org.xerial/fluentd-standalone_2.11@0.14.11?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.powermock/powermock-module-test-mockito-testng@1.6.5
+- pkg:maven/org.powermock/powermock-module-test-mockito-testng@1.6.6

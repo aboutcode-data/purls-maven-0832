@@ -24,3 +24,7 @@
 - pkg:maven/com.rojoma/rojoma-json-v3_2.11@3.6.0?classifier=sources
 - pkg:maven/com.rojoma/rojoma-json-v3_2.11@3.7.0
 - pkg:maven/com.rojoma/rojoma-json-v3_2.11@3.7.0?classifier=sources
+- pkg:maven/com.rojoma/rojoma-json-v3_2.11@3.7.1
+- pkg:maven/com.rojoma/rojoma-json-v3_2.11@3.7.1?classifier=sources
+- pkg:maven/com.rojoma/rojoma-json-v3_2.11@3.7.2
+- pkg:maven/com.rojoma/rojoma-json-v3_2.11@3.7.2?classifier=sources

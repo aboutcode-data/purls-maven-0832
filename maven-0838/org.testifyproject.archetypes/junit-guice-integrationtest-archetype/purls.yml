@@ -1,0 +1,2 @@
+- pkg:maven/org.testifyproject.archetypes/junit-guice-integrationtest-archetype@0.9.0?classifier=sources
+- pkg:maven/org.testifyproject.archetypes/junit-guice-integrationtest-archetype@0.9.1?classifier=sources

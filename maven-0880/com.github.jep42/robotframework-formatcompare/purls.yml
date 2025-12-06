@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jep42/robotframework-formatcompare@0.0.1
+- pkg:maven/com.github.jep42/robotframework-formatcompare@0.0.1?classifier=sources

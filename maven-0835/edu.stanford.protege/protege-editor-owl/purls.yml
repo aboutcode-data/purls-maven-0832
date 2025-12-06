@@ -18,3 +18,7 @@
 - pkg:maven/edu.stanford.protege/protege-editor-owl@5.0.0-beta-24
 - pkg:maven/edu.stanford.protege/protege-editor-owl@5.0.0-beta-24?classifier=sources
 - pkg:maven/edu.stanford.protege/protege-editor-owl@5.0.0?classifier=sources
+- pkg:maven/edu.stanford.protege/protege-editor-owl@5.1.0
+- pkg:maven/edu.stanford.protege/protege-editor-owl@5.1.0?classifier=sources
+- pkg:maven/edu.stanford.protege/protege-editor-owl@5.2.0
+- pkg:maven/edu.stanford.protege/protege-editor-owl@5.2.0?classifier=sources

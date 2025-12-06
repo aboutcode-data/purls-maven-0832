@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nikita-volkov.scala/streaming-json-encoder@1
+- pkg:maven/com.github.nikita-volkov.scala/streaming-json-encoder@1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.mihosoft.ext.org.fxyz/extfxyz@0.4
+- pkg:maven/eu.mihosoft.ext.org.fxyz/extfxyz@0.4?classifier=sources

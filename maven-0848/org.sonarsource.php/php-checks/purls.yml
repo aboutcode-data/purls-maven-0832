@@ -1,4 +1,12 @@
+- pkg:maven/org.sonarsource.php/php-checks@2.10.0.2087
+- pkg:maven/org.sonarsource.php/php-checks@2.10.0.2087?classifier=sources
 - pkg:maven/org.sonarsource.php/php-checks@2.7
 - pkg:maven/org.sonarsource.php/php-checks@2.7?classifier=sources
 - pkg:maven/org.sonarsource.php/php-checks@2.8
 - pkg:maven/org.sonarsource.php/php-checks@2.8?classifier=sources
+- pkg:maven/org.sonarsource.php/php-checks@2.9.0.1664
+- pkg:maven/org.sonarsource.php/php-checks@2.9.0.1664?classifier=sources
+- pkg:maven/org.sonarsource.php/php-checks@2.9.1.1705
+- pkg:maven/org.sonarsource.php/php-checks@2.9.1.1705?classifier=sources
+- pkg:maven/org.sonarsource.php/php-checks@2.9.2.1744
+- pkg:maven/org.sonarsource.php/php-checks@2.9.2.1744?classifier=sources

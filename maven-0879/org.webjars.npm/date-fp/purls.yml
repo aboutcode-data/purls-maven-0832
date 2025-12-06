@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/date-fp@4.4.8
+- pkg:maven/org.webjars.npm/date-fp@4.4.8?classifier=sources

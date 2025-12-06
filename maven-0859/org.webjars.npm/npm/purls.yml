@@ -14,3 +14,11 @@
 - pkg:maven/org.webjars.npm/npm@3.8.7?classifier=sources
 - pkg:maven/org.webjars.npm/npm@3.8.8
 - pkg:maven/org.webjars.npm/npm@3.8.8?classifier=sources
+- pkg:maven/org.webjars.npm/npm@4.0.2
+- pkg:maven/org.webjars.npm/npm@4.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/npm@4.1.2
+- pkg:maven/org.webjars.npm/npm@4.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/npm@4.4.2
+- pkg:maven/org.webjars.npm/npm@4.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/npm@4.6.1
+- pkg:maven/org.webjars.npm/npm@4.6.1?classifier=sources

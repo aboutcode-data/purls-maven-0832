@@ -1,0 +1,4 @@
+- pkg:maven/com.elpassion.android.commons/rxjava@0.0.12?classifier=sources
+- pkg:maven/com.elpassion.android.commons/rxjava@0.0.12?type=aar
+- pkg:maven/com.elpassion.android.commons/rxjava@0.0.13?classifier=sources
+- pkg:maven/com.elpassion.android.commons/rxjava@0.0.13?type=aar

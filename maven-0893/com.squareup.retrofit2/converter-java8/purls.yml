@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.retrofit2/converter-java8@2.3.0
+- pkg:maven/com.squareup.retrofit2/converter-java8@2.3.0?classifier=sources
