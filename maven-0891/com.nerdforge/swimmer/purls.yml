@@ -1,0 +1,2 @@
+- pkg:maven/com.nerdforge/swimmer@0.1
+- pkg:maven/com.nerdforge/swimmer@0.1?classifier=sources

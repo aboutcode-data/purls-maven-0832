@@ -1,0 +1,2 @@
+- pkg:maven/org.opendof.core-java/dof-slf4j-log-listener@2.0.1
+- pkg:maven/org.opendof.core-java/dof-slf4j-log-listener@2.0.1?classifier=sources

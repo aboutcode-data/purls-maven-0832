@@ -1,0 +1,2 @@
+- pkg:maven/com.quantimodo.android/sdk-tools@1.0?classifier=sources
+- pkg:maven/com.quantimodo.android/sdk-tools@1.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.agmenc/ecstatic_2.10@0.0.2
+- pkg:maven/com.github.agmenc/ecstatic_2.10@0.0.2?classifier=sources

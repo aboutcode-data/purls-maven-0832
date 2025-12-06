@@ -1,0 +1,2 @@
+- pkg:maven/me.lorenc.dreadlogs/dreadlogs@0.1
+- pkg:maven/me.lorenc.dreadlogs/dreadlogs@0.1?classifier=sources

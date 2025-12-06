@@ -1,0 +1,4 @@
+- pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@0.8.10
+- pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@0.8.10?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@0.8.9-b02
+- pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@0.8.9-b02?classifier=sources

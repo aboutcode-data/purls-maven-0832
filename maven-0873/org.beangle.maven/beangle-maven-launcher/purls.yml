@@ -1,0 +1,6 @@
+- pkg:maven/org.beangle.maven/beangle-maven-launcher@0.1.6
+- pkg:maven/org.beangle.maven/beangle-maven-launcher@0.1.6?classifier=sources
+- pkg:maven/org.beangle.maven/beangle-maven-launcher@0.1.7
+- pkg:maven/org.beangle.maven/beangle-maven-launcher@0.1.7.RC1
+- pkg:maven/org.beangle.maven/beangle-maven-launcher@0.1.7.RC1?classifier=sources
+- pkg:maven/org.beangle.maven/beangle-maven-launcher@0.1.7?classifier=sources

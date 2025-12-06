@@ -1,0 +1,2 @@
+- pkg:maven/org.jcodec/jcodec-android@0.1.9
+- pkg:maven/org.jcodec/jcodec-android@0.1.9?classifier=sources

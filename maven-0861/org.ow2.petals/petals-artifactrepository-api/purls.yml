@@ -1,1 +1,4 @@
 - pkg:maven/org.ow2.petals/petals-artifactrepository-api@1.0.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-artifactrepository-api@1.0.1
+- pkg:maven/org.ow2.petals/petals-artifactrepository-api@1.0.1?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-artifactrepository-api@1.0.1?classifier=sources

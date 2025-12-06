@@ -1,0 +1,4 @@
+- pkg:maven/com.github.monkeysintown/jgraphx@3.1.2.1
+- pkg:maven/com.github.monkeysintown/jgraphx@3.1.2.1?classifier=sources
+- pkg:maven/com.github.monkeysintown/jgraphx@3.3.1.1
+- pkg:maven/com.github.monkeysintown/jgraphx@3.3.1.1?classifier=sources

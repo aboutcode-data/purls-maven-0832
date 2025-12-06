@@ -1,0 +1,2 @@
+- pkg:maven/com.n3twork.storm/trident-redis@20141005
+- pkg:maven/com.n3twork.storm/trident-redis@20141005?classifier=sources

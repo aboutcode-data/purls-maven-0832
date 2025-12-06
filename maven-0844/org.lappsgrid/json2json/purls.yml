@@ -1,0 +1,2 @@
+- pkg:maven/org.lappsgrid/json2json@0.2.2
+- pkg:maven/org.lappsgrid/json2json@0.2.2?classifier=sources

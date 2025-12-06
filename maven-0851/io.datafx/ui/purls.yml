@@ -1,0 +1,6 @@
+- pkg:maven/io.datafx/ui@8.0
+- pkg:maven/io.datafx/ui@8.0.1
+- pkg:maven/io.datafx/ui@8.0.1?classifier=sources
+- pkg:maven/io.datafx/ui@8.0?classifier=sources
+- pkg:maven/io.datafx/ui@8.0b9
+- pkg:maven/io.datafx/ui@8.0b9?classifier=sources

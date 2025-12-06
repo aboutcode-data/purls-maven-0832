@@ -24,3 +24,7 @@
 - pkg:maven/com.revolsys.open/com.revolsys.open.gis.oracle@2012.07.31.RELEASE?classifier=sources
 - pkg:maven/com.revolsys.open/com.revolsys.open.gis.oracle@2012.11.01.RELEASE
 - pkg:maven/com.revolsys.open/com.revolsys.open.gis.oracle@2012.11.01.RELEASE?classifier=sources
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.oracle@2014.09.08-MTEC3
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.oracle@2014.09.08-MTEC3?classifier=sources
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.oracle@2014.09.10-MTEC1
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.oracle@2014.09.10-MTEC1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/bootstrap-daterangepicker@2.0.13
+- pkg:maven/org.webjars.npm/bootstrap-daterangepicker@2.0.13?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-daterangepicker@2.0.9
+- pkg:maven/org.webjars.npm/bootstrap-daterangepicker@2.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-daterangepicker@2.1.13
+- pkg:maven/org.webjars.npm/bootstrap-daterangepicker@2.1.13?classifier=sources

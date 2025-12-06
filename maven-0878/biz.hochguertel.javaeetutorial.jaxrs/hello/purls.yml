@@ -1,0 +1,2 @@
+- pkg:maven/biz.hochguertel.javaeetutorial.jaxrs/hello@1.4?classifier=sources
+- pkg:maven/biz.hochguertel.javaeetutorial.jaxrs/hello@1.4?type=war

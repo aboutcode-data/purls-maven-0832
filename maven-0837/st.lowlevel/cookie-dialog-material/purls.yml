@@ -1,0 +1,4 @@
+- pkg:maven/st.lowlevel/cookie-dialog-material@1.0.2?classifier=sources
+- pkg:maven/st.lowlevel/cookie-dialog-material@1.0.2?type=aar
+- pkg:maven/st.lowlevel/cookie-dialog-material@1.0.3?classifier=sources
+- pkg:maven/st.lowlevel/cookie-dialog-material@1.0.3?type=aar

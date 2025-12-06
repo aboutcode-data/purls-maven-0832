@@ -1,0 +1,2 @@
+- pkg:maven/ch.racic.testing/cm-config-for-unit-test@0.13.2
+- pkg:maven/ch.racic.testing/cm-config-for-unit-test@0.13.2?classifier=sources

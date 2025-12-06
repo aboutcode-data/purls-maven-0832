@@ -1,0 +1,8 @@
+- pkg:maven/de.hilling.junit.cdi/test-db@0.0.7
+- pkg:maven/de.hilling.junit.cdi/test-db@0.0.8
+- pkg:maven/de.hilling.junit.cdi/test-db@0.10.0
+- pkg:maven/de.hilling.junit.cdi/test-db@0.10.1
+- pkg:maven/de.hilling.junit.cdi/test-db@0.10.2
+- pkg:maven/de.hilling.junit.cdi/test-db@0.11.1
+- pkg:maven/de.hilling.junit.cdi/test-db@0.12.0
+- pkg:maven/de.hilling.junit.cdi/test-db@0.9.0

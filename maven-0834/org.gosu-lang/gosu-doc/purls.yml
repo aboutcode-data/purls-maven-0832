@@ -1,0 +1,4 @@
+- pkg:maven/org.gosu-lang/gosu-doc@0.1
+- pkg:maven/org.gosu-lang/gosu-doc@0.1?classifier=sources
+- pkg:maven/org.gosu-lang/gosu-doc@0.2
+- pkg:maven/org.gosu-lang/gosu-doc@0.2?classifier=sources

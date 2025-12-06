@@ -1,0 +1,2 @@
+- pkg:maven/com.pushbullet/android-extensions@1.0.4?classifier=sources
+- pkg:maven/com.pushbullet/android-extensions@1.0.4?type=aar

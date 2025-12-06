@@ -1,0 +1,2 @@
+- pkg:maven/de.androbit/brainslug-juel@0.21
+- pkg:maven/de.androbit/brainslug-juel@0.21?classifier=sources

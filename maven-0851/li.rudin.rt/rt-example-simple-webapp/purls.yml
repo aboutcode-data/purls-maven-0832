@@ -1,0 +1,2 @@
+- pkg:maven/li.rudin.rt/rt-example-simple-webapp@4.1?classifier=sources
+- pkg:maven/li.rudin.rt/rt-example-simple-webapp@4.1?type=war

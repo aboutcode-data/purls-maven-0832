@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zacker330.es/ik-analysis-es-plugin@1.0.0
+- pkg:maven/io.github.zacker330.es/ik-analysis-es-plugin@1.0.0?classifier=sources

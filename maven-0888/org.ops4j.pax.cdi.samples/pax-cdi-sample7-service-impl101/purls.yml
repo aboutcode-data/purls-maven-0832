@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample7-service-impl101@1.0.0.RC1
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample7-service-impl101@1.0.0.RC1?classifier=sources

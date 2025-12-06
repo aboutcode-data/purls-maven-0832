@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-spring-boot@2.16.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sdmcraft/aws-osgi@1.9.16
+- pkg:maven/com.github.sdmcraft/aws-osgi@1.9.16?classifier=sources

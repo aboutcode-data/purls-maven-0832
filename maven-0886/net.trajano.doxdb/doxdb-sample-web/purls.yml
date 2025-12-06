@@ -1,0 +1,6 @@
+- pkg:maven/net.trajano.doxdb/doxdb-sample-web@1.0.2?classifier=sources
+- pkg:maven/net.trajano.doxdb/doxdb-sample-web@1.0.2?type=war
+- pkg:maven/net.trajano.doxdb/doxdb-sample-web@1.0.3?classifier=sources
+- pkg:maven/net.trajano.doxdb/doxdb-sample-web@1.0.3?type=war
+- pkg:maven/net.trajano.doxdb/doxdb-sample-web@1.0.4?classifier=sources
+- pkg:maven/net.trajano.doxdb/doxdb-sample-web@1.0.4?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/org.jacpfx.vertx.spring/vertx-spring-ext@2.0.0
+- pkg:maven/org.jacpfx.vertx.spring/vertx-spring-ext@2.0.0?classifier=sources
+- pkg:maven/org.jacpfx.vertx.spring/vertx-spring-ext@2.0.1
+- pkg:maven/org.jacpfx.vertx.spring/vertx-spring-ext@2.0.1?classifier=sources

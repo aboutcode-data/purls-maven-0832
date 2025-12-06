@@ -1,0 +1,2 @@
+- pkg:maven/org.programmiersportgruppe/futures_2.11@1
+- pkg:maven/org.programmiersportgruppe/futures_2.11@1?classifier=sources

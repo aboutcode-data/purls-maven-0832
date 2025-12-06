@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dekobon/manta-logback-rollover@1.0.2
+- pkg:maven/com.github.dekobon/manta-logback-rollover@1.0.2?classifier=sources

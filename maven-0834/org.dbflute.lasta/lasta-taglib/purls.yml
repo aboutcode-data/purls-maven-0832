@@ -1,0 +1,2 @@
+- pkg:maven/org.dbflute.lasta/lasta-taglib@0.6.0-RC1
+- pkg:maven/org.dbflute.lasta/lasta-taglib@0.6.0-RC1?classifier=sources

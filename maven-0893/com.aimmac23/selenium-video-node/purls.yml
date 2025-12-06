@@ -1,0 +1,2 @@
+- pkg:maven/com.aimmac23/selenium-video-node@1.8
+- pkg:maven/com.aimmac23/selenium-video-node@1.8?classifier=sources

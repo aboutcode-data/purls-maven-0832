@@ -1,0 +1,2 @@
+- pkg:maven/ca.krasnay/scaffold@1.0
+- pkg:maven/ca.krasnay/scaffold@1.0?classifier=sources

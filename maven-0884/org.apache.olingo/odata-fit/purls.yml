@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-01-RC01?classifier=sources
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-01-RC01?type=war
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-01-RC02?classifier=sources
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-01-RC02?type=war
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-01?classifier=sources
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-01?type=war
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-02-RC01?classifier=sources
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-02-RC01?type=war
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-02?classifier=sources
+- pkg:maven/org.apache.olingo/odata-fit@4.0.0-beta-02?type=war

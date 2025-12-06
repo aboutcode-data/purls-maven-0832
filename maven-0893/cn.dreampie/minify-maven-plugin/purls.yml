@@ -1,0 +1,2 @@
+- pkg:maven/cn.dreampie/minify-maven-plugin@1.0
+- pkg:maven/cn.dreampie/minify-maven-plugin@1.0?classifier=sources

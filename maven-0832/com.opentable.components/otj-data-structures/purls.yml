@@ -1,0 +1,4 @@
+- pkg:maven/com.opentable.components/otj-data-structures@1.0.0
+- pkg:maven/com.opentable.components/otj-data-structures@1.0.0?classifier=sources
+- pkg:maven/com.opentable.components/otj-data-structures@1.1.0
+- pkg:maven/com.opentable.components/otj-data-structures@1.1.0?classifier=sources

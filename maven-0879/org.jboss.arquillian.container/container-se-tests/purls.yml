@@ -1,0 +1,5 @@
+- pkg:maven/org.jboss.arquillian.container/container-se-tests@1.0.0.Alpha1
+- pkg:maven/org.jboss.arquillian.container/container-se-tests@1.0.0.Alpha2
+- pkg:maven/org.jboss.arquillian.container/container-se-tests@1.0.0.Alpha3
+- pkg:maven/org.jboss.arquillian.container/container-se-tests@1.0.0.Alpha4
+- pkg:maven/org.jboss.arquillian.container/container-se-tests@1.0.0.Alpha5

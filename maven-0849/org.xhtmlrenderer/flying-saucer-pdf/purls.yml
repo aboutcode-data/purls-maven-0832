@@ -10,3 +10,7 @@
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.0.4?classifier=sources
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.0.6
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.0.6?classifier=sources
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.0.7
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.0.7?classifier=sources
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.0.8
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.0.8?classifier=sources

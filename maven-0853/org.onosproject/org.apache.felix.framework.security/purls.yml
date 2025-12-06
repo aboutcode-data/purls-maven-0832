@@ -1,0 +1,2 @@
+- pkg:maven/org.onosproject/org.apache.felix.framework.security@2.2.0.onos
+- pkg:maven/org.onosproject/org.apache.felix.framework.security@2.2.0.onos?classifier=sources

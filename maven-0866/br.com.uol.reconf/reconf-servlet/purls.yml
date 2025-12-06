@@ -1,0 +1,14 @@
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.10
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.10?classifier=sources
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.11
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.11?classifier=sources
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.12
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.12?classifier=sources
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.13
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.13?classifier=sources
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.14
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.14?classifier=sources
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.15
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.15?classifier=sources
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.16
+- pkg:maven/br.com.uol.reconf/reconf-servlet@2.1.16?classifier=sources

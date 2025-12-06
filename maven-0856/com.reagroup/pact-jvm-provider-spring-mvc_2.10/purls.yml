@@ -1,0 +1,12 @@
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.0
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.0?classifier=sources
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.2
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.2?classifier=sources
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.3
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.3?classifier=sources
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.4
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.4?classifier=sources
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.5
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.3.5?classifier=sources
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.4.0
+- pkg:maven/com.reagroup/pact-jvm-provider-spring-mvc_2.10@0.4.0?classifier=sources

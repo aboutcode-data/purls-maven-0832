@@ -1,0 +1,2 @@
+- pkg:maven/org.concordion/concordion-timestamp-formatter-extension@1.1.2
+- pkg:maven/org.concordion/concordion-timestamp-formatter-extension@1.1.2?classifier=sources

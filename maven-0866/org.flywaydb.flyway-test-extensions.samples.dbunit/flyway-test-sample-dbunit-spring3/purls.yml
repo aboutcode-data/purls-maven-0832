@@ -1,0 +1,6 @@
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@3.0
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@3.0.1
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@3.1
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@3.2
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@3.2.1
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.dbunit/flyway-test-sample-dbunit-spring3@3.2.1.1

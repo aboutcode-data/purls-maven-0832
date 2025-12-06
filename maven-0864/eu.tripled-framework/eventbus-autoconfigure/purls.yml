@@ -1,0 +1,2 @@
+- pkg:maven/eu.tripled-framework/eventbus-autoconfigure@0.0.1
+- pkg:maven/eu.tripled-framework/eventbus-autoconfigure@0.0.1?classifier=sources

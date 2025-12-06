@@ -1,0 +1,2 @@
+- pkg:maven/io.jdev.html2js/html2js@0.1
+- pkg:maven/io.jdev.html2js/html2js@0.1?classifier=sources

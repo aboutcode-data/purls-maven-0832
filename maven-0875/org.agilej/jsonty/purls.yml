@@ -1,0 +1,2 @@
+- pkg:maven/org.agilej/jsonty@0.1
+- pkg:maven/org.agilej/jsonty@0.1?classifier=sources

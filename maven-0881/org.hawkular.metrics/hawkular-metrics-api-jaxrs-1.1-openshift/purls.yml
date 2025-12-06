@@ -1,0 +1,3 @@
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-1.1-openshift@0.7.0.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-1.1-openshift@0.8.0.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-1.1-openshift@0.9.0.Final?type=war

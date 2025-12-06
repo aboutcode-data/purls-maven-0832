@@ -1,0 +1,16 @@
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.6.0.vaadin2
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.6.0.vaadin2?classifier=sources
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.6.0.vaadin3
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.6.0.vaadin3?classifier=sources
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.6.0.vaadin4
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.6.0.vaadin4?classifier=sources
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.6.0.vaadin5
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.6.0.vaadin5?classifier=sources
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.beta1vaadin1
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.beta1vaadin1?classifier=sources
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin1
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin1?classifier=sources
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin2
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin2?classifier=sources
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin3
+- pkg:maven/com.vaadin.external.gwt.web.bindery/requestfactory-server@2.7.0.vaadin3?classifier=sources

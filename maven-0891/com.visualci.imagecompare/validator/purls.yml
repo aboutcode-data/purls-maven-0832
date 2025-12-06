@@ -1,0 +1,2 @@
+- pkg:maven/com.visualci.imagecompare/validator@0.67
+- pkg:maven/com.visualci.imagecompare/validator@0.67?classifier=sources

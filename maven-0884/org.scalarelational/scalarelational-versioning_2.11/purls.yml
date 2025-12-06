@@ -1,0 +1,2 @@
+- pkg:maven/org.scalarelational/scalarelational-versioning_2.11@1.1.0
+- pkg:maven/org.scalarelational/scalarelational-versioning_2.11@1.1.0?classifier=sources

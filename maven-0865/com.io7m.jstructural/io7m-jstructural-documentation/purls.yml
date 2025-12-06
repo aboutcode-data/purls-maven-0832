@@ -1,2 +1,16 @@
 - pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@2.0.0?classifier=sources
 - pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@2.0.0?type=zip
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@2.1.0?classifier=sources
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@2.1.0?type=zip
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@3.0.0?classifier=sources
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@3.0.0?type=zip
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@3.0.1?classifier=sources
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@3.0.1?type=zip
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@3.1.0?classifier=sources
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@3.1.0?type=zip
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@4.0.0?classifier=sources
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@4.0.0?type=zip
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@4.1.0?classifier=sources
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@4.1.0?type=zip
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@4.2.0?classifier=sources
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-documentation@4.2.0?type=zip

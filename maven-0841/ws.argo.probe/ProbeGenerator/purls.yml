@@ -1,0 +1,2 @@
+- pkg:maven/ws.argo.probe/ProbeGenerator@0.3.1
+- pkg:maven/ws.argo.probe/ProbeGenerator@0.3.1?classifier=sources

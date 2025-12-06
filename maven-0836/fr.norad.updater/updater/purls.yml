@@ -1,0 +1,2 @@
+- pkg:maven/fr.norad.updater/updater@0.1
+- pkg:maven/fr.norad.updater/updater@0.1?classifier=sources

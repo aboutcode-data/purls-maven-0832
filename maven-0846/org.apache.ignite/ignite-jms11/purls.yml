@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.ignite/ignite-jms11@1.4.0
+- pkg:maven/org.apache.ignite/ignite-jms11@1.4.0?classifier=sources

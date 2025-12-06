@@ -3,6 +3,8 @@
 - pkg:maven/org.crsh/crsh.doc.reference@1.2.0-cr8?classifier=sources
 - pkg:maven/org.crsh/crsh.doc.reference@1.2.0-cr9?classifier=sources
 - pkg:maven/org.crsh/crsh.doc.reference@1.2.0?classifier=sources
+- pkg:maven/org.crsh/crsh.doc.reference@1.2.10?classifier=sources
+- pkg:maven/org.crsh/crsh.doc.reference@1.2.11?classifier=sources
 - pkg:maven/org.crsh/crsh.doc.reference@1.2.1?classifier=sources
 - pkg:maven/org.crsh/crsh.doc.reference@1.2.2?classifier=sources
 - pkg:maven/org.crsh/crsh.doc.reference@1.2.4?classifier=sources

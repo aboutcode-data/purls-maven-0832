@@ -1,0 +1,2 @@
+- pkg:maven/org.picketlink.tools.forge/picketlink-forge-addon-spi@1.0.0.Final
+- pkg:maven/org.picketlink.tools.forge/picketlink-forge-addon-spi@1.0.0.Final?classifier=sources

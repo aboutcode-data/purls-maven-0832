@@ -1,0 +1,2 @@
+- pkg:maven/org.corejet/corejet-gradle-plugin@0.29
+- pkg:maven/org.corejet/corejet-gradle-plugin@0.29?classifier=sources

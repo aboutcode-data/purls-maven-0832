@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/npm@2.14.8
+- pkg:maven/org.webjars.npm/npm@2.14.8?classifier=sources
+- pkg:maven/org.webjars.npm/npm@3.3.9
+- pkg:maven/org.webjars.npm/npm@3.3.9?classifier=sources

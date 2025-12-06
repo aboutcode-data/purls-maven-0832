@@ -1,0 +1,4 @@
+- pkg:maven/com.skynav.ttt/ttt-ttxv@1.0
+- pkg:maven/com.skynav.ttt/ttt-ttxv@1.0?classifier=sources
+- pkg:maven/com.skynav.ttt/ttt-ttxv@2.0
+- pkg:maven/com.skynav.ttt/ttt-ttxv@2.0?classifier=sources

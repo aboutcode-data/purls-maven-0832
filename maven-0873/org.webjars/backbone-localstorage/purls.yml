@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars/backbone-localstorage@1.1.0
+- pkg:maven/org.webjars/backbone-localstorage@1.1.16

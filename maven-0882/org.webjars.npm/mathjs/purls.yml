@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.npm/mathjs@1.5.0
+- pkg:maven/org.webjars.npm/mathjs@1.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/mathjs@2.2.0
+- pkg:maven/org.webjars.npm/mathjs@2.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/mathjs@2.3.0
+- pkg:maven/org.webjars.npm/mathjs@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/mathjs@2.4.2
+- pkg:maven/org.webjars.npm/mathjs@2.4.2?classifier=sources

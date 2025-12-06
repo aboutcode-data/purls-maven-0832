@@ -1,0 +1,6 @@
+- pkg:maven/com.darrinholst/sass-java-maven-plugin@3.4.4.1
+- pkg:maven/com.darrinholst/sass-java-maven-plugin@3.4.4.1?classifier=sources
+- pkg:maven/com.darrinholst/sass-java-maven-plugin@3.4.4.2
+- pkg:maven/com.darrinholst/sass-java-maven-plugin@3.4.4.2?classifier=sources
+- pkg:maven/com.darrinholst/sass-java-maven-plugin@3.4.4.3
+- pkg:maven/com.darrinholst/sass-java-maven-plugin@3.4.4.3?classifier=sources

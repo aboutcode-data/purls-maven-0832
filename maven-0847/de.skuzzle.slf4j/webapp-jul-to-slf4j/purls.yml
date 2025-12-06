@@ -1,0 +1,2 @@
+- pkg:maven/de.skuzzle.slf4j/webapp-jul-to-slf4j@1.7.12
+- pkg:maven/de.skuzzle.slf4j/webapp-jul-to-slf4j@1.7.12?classifier=sources

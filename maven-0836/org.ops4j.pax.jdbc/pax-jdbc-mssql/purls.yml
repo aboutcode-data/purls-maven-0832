@@ -1,0 +1,4 @@
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-mssql@0.6.0
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-mssql@0.6.0?classifier=sources
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-mssql@0.7.0
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-mssql@0.7.0?classifier=sources

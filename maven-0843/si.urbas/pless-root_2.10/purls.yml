@@ -1,0 +1,10 @@
+- pkg:maven/si.urbas/pless-root_2.10@0.0.10
+- pkg:maven/si.urbas/pless-root_2.10@0.0.10?classifier=sources
+- pkg:maven/si.urbas/pless-root_2.10@0.0.11
+- pkg:maven/si.urbas/pless-root_2.10@0.0.11?classifier=sources
+- pkg:maven/si.urbas/pless-root_2.10@0.0.12
+- pkg:maven/si.urbas/pless-root_2.10@0.0.12?classifier=sources
+- pkg:maven/si.urbas/pless-root_2.10@0.0.8
+- pkg:maven/si.urbas/pless-root_2.10@0.0.8?classifier=sources
+- pkg:maven/si.urbas/pless-root_2.10@0.0.9
+- pkg:maven/si.urbas/pless-root_2.10@0.0.9?classifier=sources

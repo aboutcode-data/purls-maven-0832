@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.uml2/types@1.1.0-v20130902-0826?classifier=sources
 - pkg:maven/org.eclipse.uml2/types@1.1.0-v20140202-2055
 - pkg:maven/org.eclipse.uml2/types@1.1.0-v20140202-2055?classifier=sources
+- pkg:maven/org.eclipse.uml2/types@2.0.0-v20140602-0749
+- pkg:maven/org.eclipse.uml2/types@2.0.0-v20140602-0749?classifier=sources

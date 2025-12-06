@@ -1,0 +1,8 @@
+- pkg:maven/com.mohiva/play-html-compressor_2.11@0.3
+- pkg:maven/com.mohiva/play-html-compressor_2.11@0.3.1
+- pkg:maven/com.mohiva/play-html-compressor_2.11@0.3.1?classifier=sources
+- pkg:maven/com.mohiva/play-html-compressor_2.11@0.3?classifier=sources
+- pkg:maven/com.mohiva/play-html-compressor_2.11@0.4.1
+- pkg:maven/com.mohiva/play-html-compressor_2.11@0.4.1?classifier=sources
+- pkg:maven/com.mohiva/play-html-compressor_2.11@0.5.0
+- pkg:maven/com.mohiva/play-html-compressor_2.11@0.5.0?classifier=sources

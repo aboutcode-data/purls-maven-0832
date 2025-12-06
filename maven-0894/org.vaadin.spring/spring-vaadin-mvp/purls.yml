@@ -1,0 +1,10 @@
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.3
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.3.1
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.3.1?classifier=sources
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.3.2
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.3.2?classifier=sources
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.3?classifier=sources
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.4.RELEASE
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.4.RELEASE?classifier=sources
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.5.RELEASE
+- pkg:maven/org.vaadin.spring/spring-vaadin-mvp@0.0.5.RELEASE?classifier=sources

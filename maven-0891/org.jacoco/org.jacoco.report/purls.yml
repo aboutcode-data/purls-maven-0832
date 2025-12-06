@@ -19,3 +19,13 @@
 - pkg:maven/org.jacoco/org.jacoco.report@0.6.5.201403032054?classifier=sources
 - pkg:maven/org.jacoco/org.jacoco.report@0.7.0.201403182114
 - pkg:maven/org.jacoco/org.jacoco.report@0.7.0.201403182114?classifier=sources
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.1.201405082137
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.1.201405082137?classifier=sources
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.2.201409121644
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.2.201409121644?classifier=sources
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.3.201502191951
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.3.201502191951?classifier=sources
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.4.201502262128
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.4.201502262128?classifier=sources
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.5.201505241946
+- pkg:maven/org.jacoco/org.jacoco.report@0.7.5.201505241946?classifier=sources

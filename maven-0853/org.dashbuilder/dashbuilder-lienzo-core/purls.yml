@@ -1,0 +1,2 @@
+- pkg:maven/org.dashbuilder/dashbuilder-lienzo-core@0.3.0.Beta1
+- pkg:maven/org.dashbuilder/dashbuilder-lienzo-core@0.3.0.Beta1?classifier=sources

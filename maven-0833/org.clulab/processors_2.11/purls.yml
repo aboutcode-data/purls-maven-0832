@@ -1,0 +1,6 @@
+- pkg:maven/org.clulab/processors_2.11@5.6.0
+- pkg:maven/org.clulab/processors_2.11@5.6.0?classifier=sources
+- pkg:maven/org.clulab/processors_2.11@5.7.0
+- pkg:maven/org.clulab/processors_2.11@5.7.0?classifier=sources
+- pkg:maven/org.clulab/processors_2.11@5.7.1
+- pkg:maven/org.clulab/processors_2.11@5.7.1?classifier=sources

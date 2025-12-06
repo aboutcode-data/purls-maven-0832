@@ -1,0 +1,4 @@
+- pkg:maven/org.chtijbug.drools/guvnor-webapp-drools@5.6.1.chtijbug?classifier=sources
+- pkg:maven/org.chtijbug.drools/guvnor-webapp-drools@5.6.1.chtijbug?type=war
+- pkg:maven/org.chtijbug.drools/guvnor-webapp-drools@5.6.2.chtijbug?classifier=sources
+- pkg:maven/org.chtijbug.drools/guvnor-webapp-drools@5.6.2.chtijbug?type=war

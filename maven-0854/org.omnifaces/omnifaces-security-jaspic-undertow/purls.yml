@@ -1,0 +1,2 @@
+- pkg:maven/org.omnifaces/omnifaces-security-jaspic-undertow@1.0
+- pkg:maven/org.omnifaces/omnifaces-security-jaspic-undertow@1.0?classifier=sources

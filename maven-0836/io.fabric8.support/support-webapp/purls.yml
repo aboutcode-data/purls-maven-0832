@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.support/support-webapp@1.2.0.redhat-133?classifier=sources
+- pkg:maven/io.fabric8.support/support-webapp@1.2.0.redhat-133?type=war

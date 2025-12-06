@@ -1,0 +1,2 @@
+- pkg:maven/org.opendof.datatransfer-java/dof-data-transfer-source@2.0
+- pkg:maven/org.opendof.datatransfer-java/dof-data-transfer-source@2.0?classifier=sources

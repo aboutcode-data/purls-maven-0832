@@ -1,0 +1,2 @@
+- pkg:maven/cz.auderis/auderis-tools-core@0.0.1
+- pkg:maven/cz.auderis/auderis-tools-core@0.0.1?classifier=sources

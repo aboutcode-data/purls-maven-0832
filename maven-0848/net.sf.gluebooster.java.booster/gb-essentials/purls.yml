@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.gluebooster.java.booster/gb-essentials@0.7
+- pkg:maven/net.sf.gluebooster.java.booster/gb-essentials@0.7?classifier=sources
+- pkg:maven/net.sf.gluebooster.java.booster/gb-essentials@0.7?classifier=src&type=tar.gz
+- pkg:maven/net.sf.gluebooster.java.booster/gb-essentials@0.7?classifier=src&type=zip

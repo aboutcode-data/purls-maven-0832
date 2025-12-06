@@ -2,3 +2,9 @@
 - pkg:maven/ch.sahits.game/GameEvent@0.0.1?classifier=sources
 - pkg:maven/ch.sahits.game/GameEvent@0.0.2
 - pkg:maven/ch.sahits.game/GameEvent@0.0.2?classifier=sources
+- pkg:maven/ch.sahits.game/GameEvent@0.4.0
+- pkg:maven/ch.sahits.game/GameEvent@0.4.0?classifier=sources
+- pkg:maven/ch.sahits.game/GameEvent@0.4.1
+- pkg:maven/ch.sahits.game/GameEvent@0.4.1?classifier=sources
+- pkg:maven/ch.sahits.game/GameEvent@0.5.0-RC2
+- pkg:maven/ch.sahits.game/GameEvent@0.5.0-RC2?classifier=sources

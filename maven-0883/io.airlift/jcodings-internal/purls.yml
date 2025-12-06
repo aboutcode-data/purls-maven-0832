@@ -1,0 +1,2 @@
+- pkg:maven/io.airlift/jcodings-internal@1.0.12.1
+- pkg:maven/io.airlift/jcodings-internal@1.0.12.1?classifier=sources

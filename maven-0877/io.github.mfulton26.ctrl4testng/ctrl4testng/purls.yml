@@ -1,0 +1,4 @@
+- pkg:maven/io.github.mfulton26.ctrl4testng/ctrl4testng@1.0
+- pkg:maven/io.github.mfulton26.ctrl4testng/ctrl4testng@1.0?classifier=sources
+- pkg:maven/io.github.mfulton26.ctrl4testng/ctrl4testng@1.1
+- pkg:maven/io.github.mfulton26.ctrl4testng/ctrl4testng@1.1?classifier=sources

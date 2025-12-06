@@ -1,0 +1,2 @@
+- pkg:maven/io.motown.chargingstation-configuration/chargingstation-configuration-view-model@0.8.2
+- pkg:maven/io.motown.chargingstation-configuration/chargingstation-configuration-view-model@0.8.2?classifier=sources

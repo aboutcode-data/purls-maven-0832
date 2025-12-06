@@ -10,6 +10,7 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.1.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.10.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.11.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.12.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.2.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.3.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.4.Final
@@ -18,3 +19,10 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.7.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.8.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@2.0.9.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@3.0.0.Alpha1
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@3.0.0.Alpha10
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@3.0.0.Alpha2
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@3.0.0.Alpha3
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@3.0.0.Alpha4
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@3.0.0.Alpha5
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-prettyfaces-tests@3.0.0.Alpha6

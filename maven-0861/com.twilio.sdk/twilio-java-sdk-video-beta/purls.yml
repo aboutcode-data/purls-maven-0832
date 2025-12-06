@@ -1,0 +1,2 @@
+- pkg:maven/com.twilio.sdk/twilio-java-sdk-video-beta@4.5.1
+- pkg:maven/com.twilio.sdk/twilio-java-sdk-video-beta@4.5.1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.garlicg/cutin-support@3.0.1?classifier=sources
+- pkg:maven/com.garlicg/cutin-support@3.0.1?type=aar
+- pkg:maven/com.garlicg/cutin-support@3.1.1?classifier=sources
+- pkg:maven/com.garlicg/cutin-support@3.1.1?type=aar
+- pkg:maven/com.garlicg/cutin-support@3.2.0?classifier=sources
+- pkg:maven/com.garlicg/cutin-support@3.2.0?type=aar
+- pkg:maven/com.garlicg/cutin-support@3.2.1?classifier=sources
+- pkg:maven/com.garlicg/cutin-support@3.2.1?type=aar

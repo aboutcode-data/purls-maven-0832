@@ -1,0 +1,4 @@
+- pkg:maven/biz.cgta/cenum-jvm_2.11@0.2.1
+- pkg:maven/biz.cgta/cenum-jvm_2.11@0.2.1?classifier=sources
+- pkg:maven/biz.cgta/cenum-jvm_2.11@0.2.2
+- pkg:maven/biz.cgta/cenum-jvm_2.11@0.2.2?classifier=sources

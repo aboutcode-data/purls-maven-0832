@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.xsparql/xsparql-cli@20140909
+- pkg:maven/net.sf.xsparql/xsparql-cli@20140909?classifier=sources

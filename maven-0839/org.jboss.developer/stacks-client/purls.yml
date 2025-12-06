@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.developer/stacks-client@1.1.0.CR1
+- pkg:maven/org.jboss.developer/stacks-client@1.1.0.CR1?classifier=sources

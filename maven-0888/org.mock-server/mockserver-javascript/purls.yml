@@ -1,3 +1,5 @@
+- pkg:maven/org.mock-server/mockserver-javascript@2.10
+- pkg:maven/org.mock-server/mockserver-javascript@2.10?classifier=sources
 - pkg:maven/org.mock-server/mockserver-javascript@2.5
 - pkg:maven/org.mock-server/mockserver-javascript@2.5?classifier=sources
 - pkg:maven/org.mock-server/mockserver-javascript@2.6
@@ -6,3 +8,9 @@
 - pkg:maven/org.mock-server/mockserver-javascript@2.7?classifier=sources
 - pkg:maven/org.mock-server/mockserver-javascript@2.8
 - pkg:maven/org.mock-server/mockserver-javascript@2.8?classifier=sources
+- pkg:maven/org.mock-server/mockserver-javascript@2.9
+- pkg:maven/org.mock-server/mockserver-javascript@2.9?classifier=sources
+- pkg:maven/org.mock-server/mockserver-javascript@3.0
+- pkg:maven/org.mock-server/mockserver-javascript@3.0?classifier=sources
+- pkg:maven/org.mock-server/mockserver-javascript@3.1
+- pkg:maven/org.mock-server/mockserver-javascript@3.1?classifier=sources

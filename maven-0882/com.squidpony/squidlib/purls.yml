@@ -2,3 +2,15 @@
 - pkg:maven/com.squidpony/squidlib@1.95.1
 - pkg:maven/com.squidpony/squidlib@1.95.1?classifier=sources
 - pkg:maven/com.squidpony/squidlib@1.95?classifier=sources
+- pkg:maven/com.squidpony/squidlib@2.2
+- pkg:maven/com.squidpony/squidlib@2.2?classifier=sources
+- pkg:maven/com.squidpony/squidlib@2.3.0
+- pkg:maven/com.squidpony/squidlib@2.3.0?classifier=sources
+- pkg:maven/com.squidpony/squidlib@2.3.1
+- pkg:maven/com.squidpony/squidlib@2.3.1?classifier=sources
+- pkg:maven/com.squidpony/squidlib@2.9.0
+- pkg:maven/com.squidpony/squidlib@2.9.0?classifier=sources
+- pkg:maven/com.squidpony/squidlib@2.9.1
+- pkg:maven/com.squidpony/squidlib@2.9.1?classifier=sources
+- pkg:maven/com.squidpony/squidlib@3.0.0-b1
+- pkg:maven/com.squidpony/squidlib@3.0.0-b1?classifier=sources

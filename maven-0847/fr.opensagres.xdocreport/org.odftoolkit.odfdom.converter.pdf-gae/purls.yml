@@ -6,3 +6,5 @@
 - pkg:maven/fr.opensagres.xdocreport/org.odftoolkit.odfdom.converter.pdf-gae@1.0.3?classifier=sources
 - pkg:maven/fr.opensagres.xdocreport/org.odftoolkit.odfdom.converter.pdf-gae@1.0.4
 - pkg:maven/fr.opensagres.xdocreport/org.odftoolkit.odfdom.converter.pdf-gae@1.0.4?classifier=sources
+- pkg:maven/fr.opensagres.xdocreport/org.odftoolkit.odfdom.converter.pdf-gae@1.0.5
+- pkg:maven/fr.opensagres.xdocreport/org.odftoolkit.odfdom.converter.pdf-gae@1.0.5?classifier=sources

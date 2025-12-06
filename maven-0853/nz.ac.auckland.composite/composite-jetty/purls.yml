@@ -1,2 +1,4 @@
 - pkg:maven/nz.ac.auckland.composite/composite-jetty@2.3
 - pkg:maven/nz.ac.auckland.composite/composite-jetty@2.4
+- pkg:maven/nz.ac.auckland.composite/composite-jetty@2.5
+- pkg:maven/nz.ac.auckland.composite/composite-jetty@3.1

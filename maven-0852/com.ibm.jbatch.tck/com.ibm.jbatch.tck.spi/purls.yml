@@ -1,0 +1,10 @@
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.0.1-beta1
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.0.1-beta1?classifier=sources
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.0.1-beta2
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.0.1-beta2?classifier=sources
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.0.1-noRelease
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.0.1-noRelease?classifier=sources
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.1-b01
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.1-b01?classifier=sources
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.1-b02
+- pkg:maven/com.ibm.jbatch.tck/com.ibm.jbatch.tck.spi@1.1-b02?classifier=sources

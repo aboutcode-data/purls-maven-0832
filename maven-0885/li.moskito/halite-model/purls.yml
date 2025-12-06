@@ -1,0 +1,2 @@
+- pkg:maven/li.moskito/halite-model@0.0.13
+- pkg:maven/li.moskito/halite-model@0.0.13?classifier=sources

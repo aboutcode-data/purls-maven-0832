@@ -1,0 +1,2 @@
+- pkg:maven/in.ashwanthkumar/hadoop2-csv@2.0
+- pkg:maven/in.ashwanthkumar/hadoop2-csv@2.0?classifier=sources

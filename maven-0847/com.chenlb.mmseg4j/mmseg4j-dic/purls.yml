@@ -1,0 +1,2 @@
+- pkg:maven/com.chenlb.mmseg4j/mmseg4j-dic@1.8.6
+- pkg:maven/com.chenlb.mmseg4j/mmseg4j-dic@1.8.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/be.uantwerpen.adrem/fim-model@0.1
+- pkg:maven/be.uantwerpen.adrem/fim-model@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bytebybyte/mapquest-open-geocoding@1.0.0
+- pkg:maven/com.bytebybyte/mapquest-open-geocoding@1.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.controlsjs.controls4j/app-archetype@1.0
+- pkg:maven/com.controlsjs.controls4j/app-archetype@1.0?classifier=sources
+- pkg:maven/com.controlsjs.controls4j/app-archetype@1.1
+- pkg:maven/com.controlsjs.controls4j/app-archetype@1.1.1
+- pkg:maven/com.controlsjs.controls4j/app-archetype@1.1.1?classifier=sources
+- pkg:maven/com.controlsjs.controls4j/app-archetype@1.1?classifier=sources

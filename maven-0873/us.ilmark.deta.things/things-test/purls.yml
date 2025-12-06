@@ -1,0 +1,2 @@
+- pkg:maven/us.ilmark.deta.things/things-test@0.1
+- pkg:maven/us.ilmark.deta.things/things-test@0.1?classifier=sources

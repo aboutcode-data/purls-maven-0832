@@ -1,1 +1,2 @@
 - pkg:maven/org.hudsonci.plugins/team-ui-ext@1.0?classifier=sources
+- pkg:maven/org.hudsonci.plugins/team-ui-ext@1.1?classifier=sources

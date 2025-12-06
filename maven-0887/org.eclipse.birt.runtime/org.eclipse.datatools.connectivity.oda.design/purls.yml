@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.oda.design@3.3.5.v201204241156?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.oda.design@3.3.6.v201212070447
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.oda.design@3.3.6.v201212070447?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.oda.design@3.3.6.v201403131814
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.oda.design@3.3.6.v201403131814?classifier=sources

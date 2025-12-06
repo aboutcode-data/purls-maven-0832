@@ -1,0 +1,6 @@
+- pkg:maven/org.gridgain/gridgain-protobuf@6.1.8
+- pkg:maven/org.gridgain/gridgain-protobuf@6.1.8?classifier=sources
+- pkg:maven/org.gridgain/gridgain-protobuf@6.1.9
+- pkg:maven/org.gridgain/gridgain-protobuf@6.1.9?classifier=sources
+- pkg:maven/org.gridgain/gridgain-protobuf@6.2.0-rc1
+- pkg:maven/org.gridgain/gridgain-protobuf@6.2.0-rc1?classifier=sources

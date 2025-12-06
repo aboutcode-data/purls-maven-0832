@@ -4,3 +4,9 @@
 - pkg:maven/net.sourceforge.owlapi/owlapitools-atomicdecomposition@1.1.0?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapitools-atomicdecomposition@1.1.1
 - pkg:maven/net.sourceforge.owlapi/owlapitools-atomicdecomposition@1.1.1?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapitools-atomicdecomposition@3.5.4
+- pkg:maven/net.sourceforge.owlapi/owlapitools-atomicdecomposition@3.5.4?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapitools-atomicdecomposition@4.0.1
+- pkg:maven/net.sourceforge.owlapi/owlapitools-atomicdecomposition@4.0.1?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapitools-atomicdecomposition@4.1.0
+- pkg:maven/net.sourceforge.owlapi/owlapitools-atomicdecomposition@4.1.0?classifier=sources

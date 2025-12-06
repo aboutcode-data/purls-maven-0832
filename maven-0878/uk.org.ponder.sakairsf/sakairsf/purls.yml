@@ -1,0 +1,6 @@
+- pkg:maven/uk.org.ponder.sakairsf/sakairsf@10.0
+- pkg:maven/uk.org.ponder.sakairsf/sakairsf@10.0?classifier=sources
+- pkg:maven/uk.org.ponder.sakairsf/sakairsf@10.1
+- pkg:maven/uk.org.ponder.sakairsf/sakairsf@10.1?classifier=sources
+- pkg:maven/uk.org.ponder.sakairsf/sakairsf@10.2
+- pkg:maven/uk.org.ponder.sakairsf/sakairsf@10.2?classifier=sources

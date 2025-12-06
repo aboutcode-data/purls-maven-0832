@@ -1,0 +1,4 @@
+- pkg:maven/cc.factorie/factorie_2.10@1.1
+- pkg:maven/cc.factorie/factorie_2.10@1.1.1
+- pkg:maven/cc.factorie/factorie_2.10@1.1.1?classifier=sources
+- pkg:maven/cc.factorie/factorie_2.10@1.1?classifier=sources

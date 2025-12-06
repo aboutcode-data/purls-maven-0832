@@ -6,3 +6,9 @@
 - pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.0.CR1?classifier=sources
 - pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.0.Final
 - pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.0.Final?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.1.CR1
+- pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.1.CR1?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.1.CR2
+- pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.1.CR2?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.1.Final
+- pkg:maven/org.jboss.ws/jbossws-common-tools@1.2.1.Final?classifier=sources

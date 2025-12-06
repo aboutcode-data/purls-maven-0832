@@ -8,3 +8,17 @@
 - pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.121026?classifier=sources
 - pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.121130
 - pkg:maven/com.wordnik/swagger-core@1.1-SNAPSHOT.121130?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.5.0-M1
+- pkg:maven/com.wordnik/swagger-core@1.5.0-M1?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.5.0-M2
+- pkg:maven/com.wordnik/swagger-core@1.5.0-M2?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.5.1-M1
+- pkg:maven/com.wordnik/swagger-core@1.5.1-M1?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.5.1-M2
+- pkg:maven/com.wordnik/swagger-core@1.5.1-M2?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.5.2-M1
+- pkg:maven/com.wordnik/swagger-core@1.5.2-M1?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.5.2-M2
+- pkg:maven/com.wordnik/swagger-core@1.5.2-M2?classifier=sources
+- pkg:maven/com.wordnik/swagger-core@1.5.3-M1
+- pkg:maven/com.wordnik/swagger-core@1.5.3-M1?classifier=sources

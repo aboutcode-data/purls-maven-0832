@@ -2,3 +2,5 @@
 - pkg:maven/com.mgmtp.jfunk/jfunk-core@3.1.0-rc-1?classifier=sources
 - pkg:maven/com.mgmtp.jfunk/jfunk-core@3.1.0-rc-2
 - pkg:maven/com.mgmtp.jfunk/jfunk-core@3.1.0-rc-2?classifier=sources
+- pkg:maven/com.mgmtp.jfunk/jfunk-core@3.1.0-rc-5
+- pkg:maven/com.mgmtp.jfunk/jfunk-core@3.1.0-rc-5?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.13.0
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.13.0?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.13.1
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.13.1?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.14.0
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.14.0?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.14.1
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.14.1?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.14.2
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.14.2?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.15.0
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.15.0?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.15.1
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.15.1?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.15.2
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.15.2?classifier=sources

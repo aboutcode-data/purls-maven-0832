@@ -1,0 +1,2 @@
+- pkg:maven/org.psnively/spring_scala_3-2-10_2.10@1.0.0
+- pkg:maven/org.psnively/spring_scala_3-2-10_2.10@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rodionmoiseev.c10n/c10n-ext-guice@1.2
+- pkg:maven/com.github.rodionmoiseev.c10n/c10n-ext-guice@1.2?classifier=sources

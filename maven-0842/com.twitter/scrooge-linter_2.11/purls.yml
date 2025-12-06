@@ -1,0 +1,8 @@
+- pkg:maven/com.twitter/scrooge-linter_2.11@3.20.0
+- pkg:maven/com.twitter/scrooge-linter_2.11@3.20.0?classifier=sources
+- pkg:maven/com.twitter/scrooge-linter_2.11@4.0.0
+- pkg:maven/com.twitter/scrooge-linter_2.11@4.0.0?classifier=sources
+- pkg:maven/com.twitter/scrooge-linter_2.11@4.1.0
+- pkg:maven/com.twitter/scrooge-linter_2.11@4.1.0?classifier=sources
+- pkg:maven/com.twitter/scrooge-linter_2.11@4.2.0
+- pkg:maven/com.twitter/scrooge-linter_2.11@4.2.0?classifier=sources

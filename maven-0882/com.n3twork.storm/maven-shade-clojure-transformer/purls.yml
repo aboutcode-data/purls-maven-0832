@@ -1,0 +1,4 @@
+- pkg:maven/com.n3twork.storm/maven-shade-clojure-transformer@20140516
+- pkg:maven/com.n3twork.storm/maven-shade-clojure-transformer@20140516?classifier=sources
+- pkg:maven/com.n3twork.storm/maven-shade-clojure-transformer@20140521
+- pkg:maven/com.n3twork.storm/maven-shade-clojure-transformer@20140521?classifier=sources

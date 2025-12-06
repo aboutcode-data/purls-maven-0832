@@ -8,6 +8,8 @@
 - pkg:maven/br.eti.kinoshita/testlink-java-api@1.9.0-4?classifier=sources
 - pkg:maven/br.eti.kinoshita/testlink-java-api@1.9.1-0
 - pkg:maven/br.eti.kinoshita/testlink-java-api@1.9.1-0?classifier=sources
+- pkg:maven/br.eti.kinoshita/testlink-java-api@1.9.13-0
+- pkg:maven/br.eti.kinoshita/testlink-java-api@1.9.13-0?classifier=sources
 - pkg:maven/br.eti.kinoshita/testlink-java-api@1.9.2-0
 - pkg:maven/br.eti.kinoshita/testlink-java-api@1.9.2-0?classifier=sources
 - pkg:maven/br.eti.kinoshita/testlink-java-api@1.9.2-1

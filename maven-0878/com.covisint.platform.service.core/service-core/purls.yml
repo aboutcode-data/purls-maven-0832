@@ -1,0 +1,2 @@
+- pkg:maven/com.covisint.platform.service.core/service-core@1.0.0.RELEASE
+- pkg:maven/com.covisint.platform.service.core/service-core@1.0.0.RELEASE?classifier=sources

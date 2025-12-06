@@ -1,0 +1,2 @@
+- pkg:maven/in.clouthink.daas/daas-edm-email@1.0.0
+- pkg:maven/in.clouthink.daas/daas-edm-email@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.windup.addon/graph-spi@2.0.0.Alpha1
+- pkg:maven/org.jboss.windup.addon/graph-spi@2.0.0.Alpha1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.identityblitz/log-lib@0.1.1
+- pkg:maven/com.identityblitz/log-lib@0.1.1?classifier=sources

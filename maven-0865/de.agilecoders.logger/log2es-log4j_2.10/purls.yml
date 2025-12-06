@@ -1,0 +1,2 @@
+- pkg:maven/de.agilecoders.logger/log2es-log4j_2.10@0.2.1
+- pkg:maven/de.agilecoders.logger/log2es-log4j_2.10@0.2.1?classifier=sources

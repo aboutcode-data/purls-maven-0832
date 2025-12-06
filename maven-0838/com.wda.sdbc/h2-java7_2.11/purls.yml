@@ -1,0 +1,4 @@
+- pkg:maven/com.wda.sdbc/h2-java7_2.11@0.10
+- pkg:maven/com.wda.sdbc/h2-java7_2.11@0.10?classifier=sources
+- pkg:maven/com.wda.sdbc/h2-java7_2.11@0.9
+- pkg:maven/com.wda.sdbc/h2-java7_2.11@0.9?classifier=sources

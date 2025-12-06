@@ -1,0 +1,2 @@
+- pkg:maven/org.tomitribe/beryllium@0.2.12
+- pkg:maven/org.tomitribe/beryllium@0.2.12?classifier=sources

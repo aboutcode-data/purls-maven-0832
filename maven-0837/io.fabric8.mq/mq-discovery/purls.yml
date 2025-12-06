@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.mq/mq-discovery@1.2.0.redhat-133
+- pkg:maven/io.fabric8.mq/mq-discovery@1.2.0.redhat-133?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/log4javascript@1.4.9
+- pkg:maven/org.webjars.bower/log4javascript@1.4.9?classifier=sources

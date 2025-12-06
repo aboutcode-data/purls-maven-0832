@@ -1,0 +1,2 @@
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations-schemas@1.0.0-RC4
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.basic/GetAggregatedObservations-schemas@1.0.0-RC4?classifier=sources

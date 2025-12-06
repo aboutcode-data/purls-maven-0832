@@ -1,0 +1,6 @@
+- pkg:maven/cat.ppicas.customtypeface/library@1.0.0?classifier=sources
+- pkg:maven/cat.ppicas.customtypeface/library@1.0.0?type=aar
+- pkg:maven/cat.ppicas.customtypeface/library@1.0.1?classifier=sources
+- pkg:maven/cat.ppicas.customtypeface/library@1.0.1?type=aar
+- pkg:maven/cat.ppicas.customtypeface/library@2.0.0?classifier=sources
+- pkg:maven/cat.ppicas.customtypeface/library@2.0.0?type=aar

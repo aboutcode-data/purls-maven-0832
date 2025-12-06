@@ -1,0 +1,2 @@
+- pkg:maven/ru.nesferatos/fxsettings@0.1
+- pkg:maven/ru.nesferatos/fxsettings@0.1?classifier=sources

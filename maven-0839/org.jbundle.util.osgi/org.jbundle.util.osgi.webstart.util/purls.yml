@@ -12,3 +12,5 @@
 - pkg:maven/org.jbundle.util.osgi/org.jbundle.util.osgi.webstart.util@1.6.6?classifier=sources
 - pkg:maven/org.jbundle.util.osgi/org.jbundle.util.osgi.webstart.util@1.6.7
 - pkg:maven/org.jbundle.util.osgi/org.jbundle.util.osgi.webstart.util@1.6.7?classifier=sources
+- pkg:maven/org.jbundle.util.osgi/org.jbundle.util.osgi.webstart.util@1.6.9
+- pkg:maven/org.jbundle.util.osgi/org.jbundle.util.osgi.webstart.util@1.6.9?classifier=sources

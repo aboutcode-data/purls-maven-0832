@@ -1,0 +1,2 @@
+- pkg:maven/org.ssoup.denv/denv-cli@0.2
+- pkg:maven/org.ssoup.denv/denv-cli@0.2?classifier=sources

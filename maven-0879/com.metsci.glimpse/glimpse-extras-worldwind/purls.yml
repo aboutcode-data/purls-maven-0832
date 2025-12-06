@@ -1,2 +1,8 @@
 - pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@2.1.2
 - pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@2.1.2?classifier=sources
+- pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@2.1.3
+- pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@2.1.3?classifier=sources
+- pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@2.1.4
+- pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@2.1.4?classifier=sources
+- pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@2.2.0
+- pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@2.2.0?classifier=sources

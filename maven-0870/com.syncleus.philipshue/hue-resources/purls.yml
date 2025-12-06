@@ -1,0 +1,4 @@
+- pkg:maven/com.syncleus.philipshue/hue-resources@1.0.0
+- pkg:maven/com.syncleus.philipshue/hue-resources@1.0.0?classifier=sources
+- pkg:maven/com.syncleus.philipshue/hue-resources@1.8.1.0
+- pkg:maven/com.syncleus.philipshue/hue-resources@1.8.1.0?classifier=sources

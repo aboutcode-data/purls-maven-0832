@@ -1,0 +1,2 @@
+- pkg:maven/me.decimo.widget/wheelview@1.1.2?classifier=sources
+- pkg:maven/me.decimo.widget/wheelview@1.1.2?type=aar

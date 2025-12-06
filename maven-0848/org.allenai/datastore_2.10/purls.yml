@@ -1,0 +1,4 @@
+- pkg:maven/org.allenai/datastore_2.10@2014.12.03-0
+- pkg:maven/org.allenai/datastore_2.10@2014.12.03-0?classifier=sources
+- pkg:maven/org.allenai/datastore_2.10@2014.12.03-1
+- pkg:maven/org.allenai/datastore_2.10@2014.12.03-1?classifier=sources

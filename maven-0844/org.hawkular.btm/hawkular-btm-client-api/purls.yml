@@ -1,0 +1,10 @@
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.2.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.2.0.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.3.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.3.0.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.3.1.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.3.1.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.4.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.4.0.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.5.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-client-api@0.5.0.Final?classifier=sources

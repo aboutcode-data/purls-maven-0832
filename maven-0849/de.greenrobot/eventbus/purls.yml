@@ -8,3 +8,13 @@
 - pkg:maven/de.greenrobot/eventbus@2.1.0?classifier=sources
 - pkg:maven/de.greenrobot/eventbus@2.2.0
 - pkg:maven/de.greenrobot/eventbus@2.2.0?classifier=sources
+- pkg:maven/de.greenrobot/eventbus@2.2.1
+- pkg:maven/de.greenrobot/eventbus@2.2.1?classifier=sources
+- pkg:maven/de.greenrobot/eventbus@2.3.0
+- pkg:maven/de.greenrobot/eventbus@2.3.0?classifier=sources
+- pkg:maven/de.greenrobot/eventbus@2.4.0
+- pkg:maven/de.greenrobot/eventbus@2.4.0?classifier=sources
+- pkg:maven/de.greenrobot/eventbus@2.4.1
+- pkg:maven/de.greenrobot/eventbus@2.4.1?classifier=sources
+- pkg:maven/de.greenrobot/eventbus@3.0.0-beta1
+- pkg:maven/de.greenrobot/eventbus@3.0.0-beta1?classifier=sources

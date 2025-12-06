@@ -4,3 +4,5 @@
 - pkg:maven/com.ohadr/common-crypto@1.1.4?classifier=sources
 - pkg:maven/com.ohadr/common-crypto@1.5.0-RELEASE
 - pkg:maven/com.ohadr/common-crypto@1.5.0-RELEASE?classifier=sources
+- pkg:maven/com.ohadr/common-crypto@1.6.0-RELEASE
+- pkg:maven/com.ohadr/common-crypto@1.6.0-RELEASE?classifier=sources

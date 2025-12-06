@@ -1,0 +1,2 @@
+- pkg:maven/org.appverse.web.framework.modules.backend.security.xs/appverse-web-modules-backend-security-xs@2.0.0-RC1
+- pkg:maven/org.appverse.web.framework.modules.backend.security.xs/appverse-web-modules-backend-security-xs@2.0.0-RC1?classifier=sources

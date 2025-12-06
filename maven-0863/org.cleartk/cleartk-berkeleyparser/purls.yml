@@ -4,3 +4,5 @@
 - pkg:maven/org.cleartk/cleartk-berkeleyparser@0.2.2?classifier=sources
 - pkg:maven/org.cleartk/cleartk-berkeleyparser@0.3.0
 - pkg:maven/org.cleartk/cleartk-berkeleyparser@0.3.0?classifier=sources
+- pkg:maven/org.cleartk/cleartk-berkeleyparser@2.0.0
+- pkg:maven/org.cleartk/cleartk-berkeleyparser@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j/neo4j-ndp-packstream-v1@2.3.0-M02
+- pkg:maven/org.neo4j/neo4j-ndp-packstream-v1@2.3.0-M02?classifier=sources

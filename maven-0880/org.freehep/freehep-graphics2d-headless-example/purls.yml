@@ -1,2 +1,4 @@
 - pkg:maven/org.freehep/freehep-graphics2d-headless-example@2.3
 - pkg:maven/org.freehep/freehep-graphics2d-headless-example@2.3?classifier=sources
+- pkg:maven/org.freehep/freehep-graphics2d-headless-example@2.4
+- pkg:maven/org.freehep/freehep-graphics2d-headless-example@2.4?classifier=sources

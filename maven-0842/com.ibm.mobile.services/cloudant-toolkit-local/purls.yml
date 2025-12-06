@@ -1,0 +1,6 @@
+- pkg:maven/com.ibm.mobile.services/cloudant-toolkit-local@0.1.0-20150213-1011?type=aar
+- pkg:maven/com.ibm.mobile.services/cloudant-toolkit-local@0.1.0-20150219-1231?type=aar
+- pkg:maven/com.ibm.mobile.services/cloudant-toolkit-local@0.1.0?type=aar
+- pkg:maven/com.ibm.mobile.services/cloudant-toolkit-local@1.0.0?type=aar
+- pkg:maven/com.ibm.mobile.services/cloudant-toolkit-local@1.1.0?type=aar
+- pkg:maven/com.ibm.mobile.services/cloudant-toolkit-local@1.2.0?type=aar

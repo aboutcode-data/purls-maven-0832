@@ -1,0 +1,4 @@
+- pkg:maven/org.wikibrainapi/wdtk-storage@0.3.3.shilad
+- pkg:maven/org.wikibrainapi/wdtk-storage@0.3.3.shilad?classifier=sources
+- pkg:maven/org.wikibrainapi/wdtk-storage@0.3.4.shilad
+- pkg:maven/org.wikibrainapi/wdtk-storage@0.3.4.shilad?classifier=sources

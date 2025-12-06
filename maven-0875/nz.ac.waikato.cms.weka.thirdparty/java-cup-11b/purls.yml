@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.waikato.cms.weka.thirdparty/java-cup-11b@2015.03.26
+- pkg:maven/nz.ac.waikato.cms.weka.thirdparty/java-cup-11b@2015.03.26?classifier=sources

@@ -1,3 +1,11 @@
+- pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.10
+- pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.10?classifier=sources
+- pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.11
+- pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.11?classifier=sources
+- pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.13
+- pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.13?classifier=sources
+- pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.14
+- pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.14?classifier=sources
 - pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.5
 - pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.5.1
 - pkg:maven/org.sonatype.sisu.goodies/goodies-servlet@1.5.1?classifier=sources

@@ -21,3 +21,5 @@
 - pkg:maven/org.jboss.snowdrop/snowdrop@3.0.3.Final?classifier=src&type=zip
 - pkg:maven/org.jboss.snowdrop/snowdrop@3.1.0.Final?classifier=src&type=zip
 - pkg:maven/org.jboss.snowdrop/snowdrop@3.1.1.Final?classifier=src&type=zip
+- pkg:maven/org.jboss.snowdrop/snowdrop@3.1.2.Final?classifier=src&type=zip
+- pkg:maven/org.jboss.snowdrop/snowdrop@4.0.0.Final?classifier=src&type=zip

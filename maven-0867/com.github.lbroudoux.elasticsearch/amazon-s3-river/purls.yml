@@ -2,3 +2,17 @@
 - pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@0.0.1?type=zip
 - pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@0.0.2?classifier=sources
 - pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@0.0.2?type=zip
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@0.0.3?classifier=sources
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@0.0.3?type=zip
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@0.0.4?classifier=sources
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@0.0.4?type=zip
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.2.0?classifier=sources
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.2.0?type=zip
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.3.0?classifier=sources
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.3.0?type=zip
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.4.0?classifier=sources
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.4.0?type=zip
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.4.1?classifier=sources
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.4.1?type=zip
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.6.0?classifier=sources
+- pkg:maven/com.github.lbroudoux.elasticsearch/amazon-s3-river@1.6.0?type=zip

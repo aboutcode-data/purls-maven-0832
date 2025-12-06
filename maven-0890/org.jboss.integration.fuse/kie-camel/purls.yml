@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.integration.fuse/kie-camel@1.0.0.redhat-620137
+- pkg:maven/org.jboss.integration.fuse/kie-camel@1.0.0.redhat-620137?classifier=sources

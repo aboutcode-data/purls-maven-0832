@@ -8,3 +8,9 @@
 - pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.16?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.17
 - pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.17?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.18
+- pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.18.1
+- pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.18.1?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.18?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.19
+- pkg:maven/org.apache.maven.surefire/surefire-report-parser@2.19?classifier=sources

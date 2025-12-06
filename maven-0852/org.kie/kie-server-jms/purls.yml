@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/kie-server-jms@6.2.0.Final
+- pkg:maven/org.kie/kie-server-jms@6.2.0.Final?classifier=sources

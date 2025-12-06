@@ -1,0 +1,4 @@
+- pkg:maven/org.t3as/nicta-ner@0.2
+- pkg:maven/org.t3as/nicta-ner@0.2?classifier=sources
+- pkg:maven/org.t3as/nicta-ner@1.0.0
+- pkg:maven/org.t3as/nicta-ner@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/angular-material-data-table@0.8.13
+- pkg:maven/org.webjars.bower/angular-material-data-table@0.8.13?classifier=sources
+- pkg:maven/org.webjars.bower/angular-material-data-table@0.8.14
+- pkg:maven/org.webjars.bower/angular-material-data-table@0.8.14?classifier=sources

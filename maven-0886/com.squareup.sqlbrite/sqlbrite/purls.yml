@@ -1,0 +1,14 @@
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.1.0?classifier=sources
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.1.0?type=aar
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.2.0?classifier=sources
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.2.0?type=aar
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.2.1?classifier=sources
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.2.1?type=aar
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.3.0?classifier=sources
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.3.0?type=aar
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.3.1?classifier=sources
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.3.1?type=aar
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.4.0?classifier=sources
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.4.0?type=aar
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.4.1?classifier=sources
+- pkg:maven/com.squareup.sqlbrite/sqlbrite@0.4.1?type=aar

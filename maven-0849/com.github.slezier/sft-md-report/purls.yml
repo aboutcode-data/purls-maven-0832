@@ -1,0 +1,2 @@
+- pkg:maven/com.github.slezier/sft-md-report@1.10
+- pkg:maven/com.github.slezier/sft-md-report@1.10?classifier=sources

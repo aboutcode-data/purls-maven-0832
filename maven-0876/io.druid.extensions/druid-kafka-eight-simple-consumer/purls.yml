@@ -1,0 +1,2 @@
+- pkg:maven/io.druid.extensions/druid-kafka-eight-simple-consumer@0.8.2
+- pkg:maven/io.druid.extensions/druid-kafka-eight-simple-consumer@0.8.2?classifier=sources

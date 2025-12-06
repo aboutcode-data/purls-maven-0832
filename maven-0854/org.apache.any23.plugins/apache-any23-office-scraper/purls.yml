@@ -1,3 +1,5 @@
 - pkg:maven/org.apache.any23.plugins/apache-any23-office-scraper@1.0.0-incubating?classifier=sources
 - pkg:maven/org.apache.any23.plugins/apache-any23-office-scraper@1.0.2?classifier=sources
 - pkg:maven/org.apache.any23.plugins/apache-any23-office-scraper@1.0.3?classifier=sources
+- pkg:maven/org.apache.any23.plugins/apache-any23-office-scraper@1.0.4?classifier=sources
+- pkg:maven/org.apache.any23.plugins/apache-any23-office-scraper@1.0.5?classifier=sources

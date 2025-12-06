@@ -3,3 +3,5 @@
 - pkg:maven/org.eclipse.uml2/uml@4.1.1-v20130902-0826?classifier=sources
 - pkg:maven/org.eclipse.uml2/uml@4.1.2-v20140202-2055
 - pkg:maven/org.eclipse.uml2/uml@4.1.2-v20140202-2055?classifier=sources
+- pkg:maven/org.eclipse.uml2/uml@5.0.0-v20140602-0749
+- pkg:maven/org.eclipse.uml2/uml@5.0.0-v20140602-0749?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.beamfoundry.bundles.spring-data-mongodb.test/org.beamfoundry.bundles.spring-data-mongodb.test-main@1.5.4.RELEASE_2
+- pkg:maven/org.beamfoundry.bundles.spring-data-mongodb.test/org.beamfoundry.bundles.spring-data-mongodb.test-main@1.5.4.RELEASE_2?classifier=sources

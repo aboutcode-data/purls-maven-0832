@@ -1,0 +1,2 @@
+- pkg:maven/tw.hyl.common/jackson_2.10@2.4.4
+- pkg:maven/tw.hyl.common/jackson_2.10@2.4.4?classifier=sources

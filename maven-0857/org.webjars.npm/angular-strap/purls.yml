@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.npm/angular-strap@2.2.4
+- pkg:maven/org.webjars.npm/angular-strap@2.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/angular-strap@2.3.0
+- pkg:maven/org.webjars.npm/angular-strap@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/angular-strap@2.3.4
+- pkg:maven/org.webjars.npm/angular-strap@2.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/angular-strap@2.3.5
+- pkg:maven/org.webjars.npm/angular-strap@2.3.5?classifier=sources

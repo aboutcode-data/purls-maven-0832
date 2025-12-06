@@ -1,0 +1,12 @@
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@2.1.4-ga5
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@2.1.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@2.2.4-ga5
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@2.2.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@3.0.4-ga5
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@3.0.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@3.0.4-legacy-ga5
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@3.0.4-legacy-ga5?classifier=sources
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@3.1.4-ga5
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@3.1.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@3.2.4-ga5
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1917-lsv-5-patch@3.2.4-ga5?classifier=sources

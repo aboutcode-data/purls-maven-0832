@@ -43,3 +43,4 @@
 - pkg:maven/org.glassfish.docs/basedocs@4.0-b26?classifier=sources
 - pkg:maven/org.glassfish.docs/basedocs@4.0-b27?classifier=sources
 - pkg:maven/org.glassfish.docs/basedocs@4.0-b28?classifier=sources
+- pkg:maven/org.glassfish.docs/basedocs@4.1?classifier=sources

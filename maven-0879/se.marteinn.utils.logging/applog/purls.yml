@@ -1,0 +1,2 @@
+- pkg:maven/se.marteinn.utils.logging/applog@2.1.2?classifier=sources
+- pkg:maven/se.marteinn.utils.logging/applog@2.1.2?type=aar

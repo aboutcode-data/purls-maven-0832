@@ -1,0 +1,8 @@
+- pkg:maven/org.glassfish.jaxb/jaxb-runtime@2.2.10
+- pkg:maven/org.glassfish.jaxb/jaxb-runtime@2.2.10-b140310.1920
+- pkg:maven/org.glassfish.jaxb/jaxb-runtime@2.2.10-b140310.1920?classifier=sources
+- pkg:maven/org.glassfish.jaxb/jaxb-runtime@2.2.10-b140802.1033
+- pkg:maven/org.glassfish.jaxb/jaxb-runtime@2.2.10-b140802.1033?classifier=sources
+- pkg:maven/org.glassfish.jaxb/jaxb-runtime@2.2.10?classifier=sources
+- pkg:maven/org.glassfish.jaxb/jaxb-runtime@2.2.11
+- pkg:maven/org.glassfish.jaxb/jaxb-runtime@2.2.11?classifier=sources

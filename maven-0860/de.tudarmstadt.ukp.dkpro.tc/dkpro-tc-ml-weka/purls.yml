@@ -1,0 +1,2 @@
+- pkg:maven/de.tudarmstadt.ukp.dkpro.tc/dkpro-tc-ml-weka@0.7.0
+- pkg:maven/de.tudarmstadt.ukp.dkpro.tc/dkpro-tc-ml-weka@0.7.0?classifier=sources

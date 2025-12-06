@@ -1,0 +1,10 @@
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.0
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.0-M2
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.0-M2?classifier=sources
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.0-M3
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.0-M3?classifier=sources
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.0-M4
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.0-M4?classifier=sources
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.0?classifier=sources
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.1
+- pkg:maven/org.seedstack.functions.i18n/i18n-function-rest@2.0.1?classifier=sources

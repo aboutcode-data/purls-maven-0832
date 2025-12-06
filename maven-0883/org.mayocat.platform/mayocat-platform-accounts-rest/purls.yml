@@ -1,0 +1,2 @@
+- pkg:maven/org.mayocat.platform/mayocat-platform-accounts-rest@0.40.0
+- pkg:maven/org.mayocat.platform/mayocat-platform-accounts-rest@0.40.0?classifier=sources

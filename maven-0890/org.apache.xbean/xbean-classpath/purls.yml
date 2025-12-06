@@ -34,6 +34,8 @@
 - pkg:maven/org.apache.xbean/xbean-classpath@3.16?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-classpath@3.17
 - pkg:maven/org.apache.xbean/xbean-classpath@3.17?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-classpath@3.18
+- pkg:maven/org.apache.xbean/xbean-classpath@3.18?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-classpath@3.1?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-classpath@3.2
 - pkg:maven/org.apache.xbean/xbean-classpath@3.2?classifier=sources
@@ -57,3 +59,13 @@
 - pkg:maven/org.apache.xbean/xbean-classpath@3.8?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-classpath@3.9
 - pkg:maven/org.apache.xbean/xbean-classpath@3.9?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-classpath@4.0
+- pkg:maven/org.apache.xbean/xbean-classpath@4.0?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-classpath@4.1
+- pkg:maven/org.apache.xbean/xbean-classpath@4.1?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-classpath@4.2
+- pkg:maven/org.apache.xbean/xbean-classpath@4.2?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-classpath@4.3
+- pkg:maven/org.apache.xbean/xbean-classpath@4.3?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-classpath@4.4
+- pkg:maven/org.apache.xbean/xbean-classpath@4.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.github.leshan/leshan-server-cf@0.1.8
+- pkg:maven/org.github.leshan/leshan-server-cf@0.1.8?classifier=sources
+- pkg:maven/org.github.leshan/leshan-server-cf@0.1.9
+- pkg:maven/org.github.leshan/leshan-server-cf@0.1.9?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.jakewharton.espresso/espresso-support-v4@1.1-r1?type=aar
 - pkg:maven/com.jakewharton.espresso/espresso-support-v4@1.1-r2?classifier=sources
 - pkg:maven/com.jakewharton.espresso/espresso-support-v4@1.1-r2?type=aar
+- pkg:maven/com.jakewharton.espresso/espresso-support-v4@1.1-r3?classifier=sources
+- pkg:maven/com.jakewharton.espresso/espresso-support-v4@1.1-r3?type=aar

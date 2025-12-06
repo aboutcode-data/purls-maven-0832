@@ -1,0 +1,2 @@
+- pkg:maven/com.identityblitz/json-lib@0.1.0
+- pkg:maven/com.identityblitz/json-lib@0.1.0?classifier=sources

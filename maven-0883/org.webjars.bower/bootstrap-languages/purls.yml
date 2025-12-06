@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/bootstrap-languages@1.5.2
+- pkg:maven/org.webjars.bower/bootstrap-languages@1.5.2?classifier=sources

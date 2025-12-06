@@ -1,0 +1,2 @@
+- pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.itext5.extension@1.0.5
+- pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.itext5.extension@1.0.5?classifier=sources

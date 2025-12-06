@@ -1,0 +1,4 @@
+- pkg:maven/org.openscience.cdk/cdk-renderextra@1.5.10
+- pkg:maven/org.openscience.cdk/cdk-renderextra@1.5.10?classifier=sources
+- pkg:maven/org.openscience.cdk/cdk-renderextra@1.5.11
+- pkg:maven/org.openscience.cdk/cdk-renderextra@1.5.11?classifier=sources

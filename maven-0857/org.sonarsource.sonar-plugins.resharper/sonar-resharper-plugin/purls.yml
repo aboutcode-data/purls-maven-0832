@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.sonar-plugins.resharper/sonar-resharper-plugin@2.0?classifier=sources

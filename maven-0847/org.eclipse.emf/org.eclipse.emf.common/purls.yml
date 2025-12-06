@@ -1,3 +1,13 @@
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.10.0-v20140514-1158
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.10.0-v20140514-1158?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.10.1
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.10.1-v20140901-1043
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.10.1-v20140901-1043?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.10.1-v20150123-0348
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.10.1-v20150123-0348?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.10.1?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.11.0-v20150123-0347
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.11.0-v20150123-0347?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.6.0.v20100614-1136
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.6.0.v20100614-1136?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.common@2.7.0-v20110605-0747

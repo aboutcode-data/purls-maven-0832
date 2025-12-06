@@ -1,0 +1,10 @@
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.11
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.11?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.12
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.12?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.13
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.13?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.14
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.14?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.15
+- pkg:maven/au.com.dius/pact-jvm-consumer-groovy-v3_2.10@2.2.15?classifier=sources

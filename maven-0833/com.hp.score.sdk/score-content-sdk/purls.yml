@@ -1,0 +1,4 @@
+- pkg:maven/com.hp.score.sdk/score-content-sdk@1.10.6
+- pkg:maven/com.hp.score.sdk/score-content-sdk@1.10.6?classifier=sources
+- pkg:maven/com.hp.score.sdk/score-content-sdk@1.5
+- pkg:maven/com.hp.score.sdk/score-content-sdk@1.5?classifier=sources

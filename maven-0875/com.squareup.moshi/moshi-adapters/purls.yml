@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.moshi/moshi-adapters@1.0.0
+- pkg:maven/com.squareup.moshi/moshi-adapters@1.0.0?classifier=sources

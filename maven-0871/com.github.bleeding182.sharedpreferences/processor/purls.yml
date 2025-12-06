@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bleeding182.sharedpreferences/processor@1.0.0
+- pkg:maven/com.github.bleeding182.sharedpreferences/processor@1.0.0?classifier=sources

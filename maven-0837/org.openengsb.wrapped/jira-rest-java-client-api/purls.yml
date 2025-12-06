@@ -1,0 +1,4 @@
+- pkg:maven/org.openengsb.wrapped/jira-rest-java-client-api@2.0.0-m32.openengsb.01
+- pkg:maven/org.openengsb.wrapped/jira-rest-java-client-api@2.0.0-m32.openengsb.01?classifier=sources
+- pkg:maven/org.openengsb.wrapped/jira-rest-java-client-api@2.0.0-m32.w1
+- pkg:maven/org.openengsb.wrapped/jira-rest-java-client-api@2.0.0-m32.w1?classifier=sources

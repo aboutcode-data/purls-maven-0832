@@ -1,0 +1,14 @@
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.4-RELEASE
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.4-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.4.1-MILESTONE_2
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.4.1-MILESTONE_2?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.5.0-RELEASE
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.5.0-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.5.1
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.5.1?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.5.2-RELEASE
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.5.2-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.5.3-RELEASE
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@1.5.3-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@2.0.0-RC1
+- pkg:maven/org.appverse.web.framework.modules.backend.security.oauth2/appverse-web-modules-backend-security-oauth2@2.0.0-RC1?classifier=sources

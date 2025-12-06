@@ -1,0 +1,8 @@
+- pkg:maven/org.refcodes/refcodes-security-alt-chaos@0.2.0
+- pkg:maven/org.refcodes/refcodes-security-alt-chaos@0.2.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-security-alt-chaos@0.3.0
+- pkg:maven/org.refcodes/refcodes-security-alt-chaos@0.3.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-security-alt-chaos@0.4.0
+- pkg:maven/org.refcodes/refcodes-security-alt-chaos@0.4.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-security-alt-chaos@1.0.0
+- pkg:maven/org.refcodes/refcodes-security-alt-chaos@1.0.0?classifier=sources

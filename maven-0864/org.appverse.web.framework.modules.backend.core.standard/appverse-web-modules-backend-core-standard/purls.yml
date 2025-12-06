@@ -1,0 +1,2 @@
+- pkg:maven/org.appverse.web.framework.modules.backend.core.standard/appverse-web-modules-backend-core-standard@2.0.0-RC1
+- pkg:maven/org.appverse.web.framework.modules.backend.core.standard/appverse-web-modules-backend-core-standard@2.0.0-RC1?classifier=sources

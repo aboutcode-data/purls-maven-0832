@@ -1,0 +1,6 @@
+- pkg:maven/io.github.endreman0/java-json@0.10.0
+- pkg:maven/io.github.endreman0/java-json@0.10.0?classifier=sources
+- pkg:maven/io.github.endreman0/java-json@0.13.0
+- pkg:maven/io.github.endreman0/java-json@0.13.0?classifier=sources
+- pkg:maven/io.github.endreman0/java-json@0.9.0
+- pkg:maven/io.github.endreman0/java-json@0.9.0?classifier=sources

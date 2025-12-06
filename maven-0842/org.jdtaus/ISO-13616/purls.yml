@@ -4,3 +4,9 @@
 - pkg:maven/org.jdtaus/ISO-13616@2007.46?type=zip
 - pkg:maven/org.jdtaus/ISO-13616@2007.47?classifier=sources
 - pkg:maven/org.jdtaus/ISO-13616@2007.47?type=zip
+- pkg:maven/org.jdtaus/ISO-13616@2007.50?classifier=sources
+- pkg:maven/org.jdtaus/ISO-13616@2007.50?type=zip
+- pkg:maven/org.jdtaus/ISO-13616@2007.58?classifier=sources
+- pkg:maven/org.jdtaus/ISO-13616@2007.58?type=zip
+- pkg:maven/org.jdtaus/ISO-13616@2007.60?classifier=sources
+- pkg:maven/org.jdtaus/ISO-13616@2007.60?type=zip

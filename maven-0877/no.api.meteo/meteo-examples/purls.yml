@@ -1,0 +1,6 @@
+- pkg:maven/no.api.meteo/meteo-examples@2.0.2
+- pkg:maven/no.api.meteo/meteo-examples@2.0.2?classifier=sources
+- pkg:maven/no.api.meteo/meteo-examples@2.0.3
+- pkg:maven/no.api.meteo/meteo-examples@2.0.3?classifier=sources
+- pkg:maven/no.api.meteo/meteo-examples@3.0.1
+- pkg:maven/no.api.meteo/meteo-examples@3.0.1?classifier=sources

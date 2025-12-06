@@ -1,0 +1,2 @@
+- pkg:maven/org.jxmpp/jxmpp-stringprep-icu4j@0.5.0-alpha7
+- pkg:maven/org.jxmpp/jxmpp-stringprep-icu4j@0.5.0-alpha7?classifier=sources

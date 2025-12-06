@@ -10,3 +10,4 @@
 - pkg:maven/net.sf.jaceko/soaprest-mock-service@1.4.0?type=war
 - pkg:maven/net.sf.jaceko/soaprest-mock-service@1.5.0?classifier=sources
 - pkg:maven/net.sf.jaceko/soaprest-mock-service@1.5.0?type=war
+- pkg:maven/net.sf.jaceko/soaprest-mock-service@1.6.0?type=war

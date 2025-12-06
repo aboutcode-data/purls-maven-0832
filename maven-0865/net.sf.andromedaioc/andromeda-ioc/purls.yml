@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.andromedaioc/andromeda-ioc@1.0.0-ALPHA
+- pkg:maven/net.sf.andromedaioc/andromeda-ioc@1.0.0-ALPHA?classifier=sources

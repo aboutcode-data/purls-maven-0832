@@ -1,2 +1,4 @@
 - pkg:maven/org.omnifaces/omnifaces-security@0.1
 - pkg:maven/org.omnifaces/omnifaces-security@0.1?classifier=sources
+- pkg:maven/org.omnifaces/omnifaces-security@0.6-ALPHA
+- pkg:maven/org.omnifaces/omnifaces-security@0.6-ALPHA?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.dreampie/jfinal-tablebind@0.1
+- pkg:maven/cn.dreampie/jfinal-tablebind@0.1?classifier=sources

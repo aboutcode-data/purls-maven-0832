@@ -9,6 +9,7 @@
 - pkg:maven/org.mule.common/mule-common@3.4.2-RC1
 - pkg:maven/org.mule.common/mule-common@3.4.2-RC2
 - pkg:maven/org.mule.common/mule-common@3.4.2-RC3
+- pkg:maven/org.mule.common/mule-common@3.5.0
 - pkg:maven/org.mule.common/mule-common@3.5.0-M4
 - pkg:maven/org.mule.common/mule-common@3.5.0-M4-RC1
 - pkg:maven/org.mule.common/mule-common@3.5.0-M4-RC2
@@ -22,3 +23,4 @@
 - pkg:maven/org.mule.common/mule-common@3.5.0-cascade-RC1
 - pkg:maven/org.mule.common/mule-common@3.5.0-cascade-RC2
 - pkg:maven/org.mule.common/mule-common@3.5.0-cascade-RC3
+- pkg:maven/org.mule.common/mule-common@3.5.0?classifier=sources

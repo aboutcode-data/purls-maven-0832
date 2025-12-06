@@ -10,3 +10,5 @@
 - pkg:maven/org.constretto/constretto-scala_2.9.1@1.0-rc-2
 - pkg:maven/org.constretto/constretto-scala_2.9.1@1.0-rc-2?classifier=sources
 - pkg:maven/org.constretto/constretto-scala_2.9.1@1.0?classifier=sources
+- pkg:maven/org.constretto/constretto-scala_2.9.1@1.1
+- pkg:maven/org.constretto/constretto-scala_2.9.1@1.1?classifier=sources

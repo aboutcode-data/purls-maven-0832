@@ -1,0 +1,2 @@
+- pkg:maven/it.eng.spago/spago-web@2.3.0
+- pkg:maven/it.eng.spago/spago-web@2.3.0?classifier=sources

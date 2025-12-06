@@ -1,0 +1,2 @@
+- pkg:maven/com.anwios.meterview.view/meterview@1.1.2?classifier=sources
+- pkg:maven/com.anwios.meterview.view/meterview@1.1.2?type=aar

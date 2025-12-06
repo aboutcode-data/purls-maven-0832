@@ -1,0 +1,2 @@
+- pkg:maven/biz.paluch.visualizr/local-hosted-js-frameworks@1.0
+- pkg:maven/biz.paluch.visualizr/local-hosted-js-frameworks@1.0?classifier=sources

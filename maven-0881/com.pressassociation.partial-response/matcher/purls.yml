@@ -1,0 +1,2 @@
+- pkg:maven/com.pressassociation.partial-response/matcher@1.0
+- pkg:maven/com.pressassociation.partial-response/matcher@1.0?classifier=sources

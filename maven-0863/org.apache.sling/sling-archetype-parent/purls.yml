@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sling/sling-archetype-parent@1?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling-archetype-parent@4?classifier=source-release&type=zip

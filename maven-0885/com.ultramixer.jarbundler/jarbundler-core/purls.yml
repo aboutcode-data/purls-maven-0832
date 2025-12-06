@@ -1,0 +1,4 @@
+- pkg:maven/com.ultramixer.jarbundler/jarbundler-core@3.2.2
+- pkg:maven/com.ultramixer.jarbundler/jarbundler-core@3.2.2?classifier=sources
+- pkg:maven/com.ultramixer.jarbundler/jarbundler-core@3.3.0
+- pkg:maven/com.ultramixer.jarbundler/jarbundler-core@3.3.0?classifier=sources

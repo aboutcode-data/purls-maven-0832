@@ -1,0 +1,6 @@
+- pkg:maven/org.btrplace/scheduler-api@0.39
+- pkg:maven/org.btrplace/scheduler-api@0.39?classifier=sources
+- pkg:maven/org.btrplace/scheduler-api@0.40
+- pkg:maven/org.btrplace/scheduler-api@0.40?classifier=sources
+- pkg:maven/org.btrplace/scheduler-api@0.41
+- pkg:maven/org.btrplace/scheduler-api@0.41?classifier=sources

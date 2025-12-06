@@ -1,0 +1,14 @@
+- pkg:maven/io.reactivex/rxkotlin@0.21.0
+- pkg:maven/io.reactivex/rxkotlin@0.21.0?classifier=sources
+- pkg:maven/io.reactivex/rxkotlin@0.22.11
+- pkg:maven/io.reactivex/rxkotlin@0.22.11?classifier=sources
+- pkg:maven/io.reactivex/rxkotlin@0.22.12
+- pkg:maven/io.reactivex/rxkotlin@0.22.12?classifier=sources
+- pkg:maven/io.reactivex/rxkotlin@0.22.13
+- pkg:maven/io.reactivex/rxkotlin@0.22.13?classifier=sources
+- pkg:maven/io.reactivex/rxkotlin@0.22.14
+- pkg:maven/io.reactivex/rxkotlin@0.22.14?classifier=sources
+- pkg:maven/io.reactivex/rxkotlin@0.24.100
+- pkg:maven/io.reactivex/rxkotlin@0.24.100?classifier=sources
+- pkg:maven/io.reactivex/rxkotlin@0.30.1
+- pkg:maven/io.reactivex/rxkotlin@0.30.1?classifier=sources

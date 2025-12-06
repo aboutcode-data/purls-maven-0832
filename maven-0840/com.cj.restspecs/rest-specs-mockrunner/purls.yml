@@ -1,0 +1,6 @@
+- pkg:maven/com.cj.restspecs/rest-specs-mockrunner@10.0.0
+- pkg:maven/com.cj.restspecs/rest-specs-mockrunner@10.0.0?classifier=sources
+- pkg:maven/com.cj.restspecs/rest-specs-mockrunner@10.0.1
+- pkg:maven/com.cj.restspecs/rest-specs-mockrunner@10.0.1?classifier=sources
+- pkg:maven/com.cj.restspecs/rest-specs-mockrunner@9.0.3
+- pkg:maven/com.cj.restspecs/rest-specs-mockrunner@9.0.3?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.wizard@2.9.0.beta4?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.wizard@2.9.0.beta5?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.wizard@2.9.0.beta6?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.wizard@2.9.0.rc1?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.wizard@2.9.0.rc2?classifier=sources

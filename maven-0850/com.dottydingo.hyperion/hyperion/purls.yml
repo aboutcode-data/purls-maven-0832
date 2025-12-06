@@ -2,5 +2,7 @@
 - pkg:maven/com.dottydingo.hyperion/hyperion@0.10.0?classifier=sources
 - pkg:maven/com.dottydingo.hyperion/hyperion@0.20.0
 - pkg:maven/com.dottydingo.hyperion/hyperion@0.20.0?classifier=sources
+- pkg:maven/com.dottydingo.hyperion/hyperion@0.30.0
+- pkg:maven/com.dottydingo.hyperion/hyperion@0.30.0?classifier=sources
 - pkg:maven/com.dottydingo.hyperion/hyperion@0.9.0
 - pkg:maven/com.dottydingo.hyperion/hyperion@0.9.0?classifier=sources

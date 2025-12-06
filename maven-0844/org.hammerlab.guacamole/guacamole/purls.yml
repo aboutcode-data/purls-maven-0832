@@ -1,0 +1,2 @@
+- pkg:maven/org.hammerlab.guacamole/guacamole@0.0.0
+- pkg:maven/org.hammerlab.guacamole/guacamole@0.0.0?classifier=sources

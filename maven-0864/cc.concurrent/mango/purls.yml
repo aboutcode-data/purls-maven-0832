@@ -1,0 +1,14 @@
+- pkg:maven/cc.concurrent/mango@1.0
+- pkg:maven/cc.concurrent/mango@1.01
+- pkg:maven/cc.concurrent/mango@1.01?classifier=sources
+- pkg:maven/cc.concurrent/mango@1.02
+- pkg:maven/cc.concurrent/mango@1.02?classifier=sources
+- pkg:maven/cc.concurrent/mango@1.03
+- pkg:maven/cc.concurrent/mango@1.03?classifier=sources
+- pkg:maven/cc.concurrent/mango@1.04
+- pkg:maven/cc.concurrent/mango@1.04?classifier=sources
+- pkg:maven/cc.concurrent/mango@1.05
+- pkg:maven/cc.concurrent/mango@1.05?classifier=sources
+- pkg:maven/cc.concurrent/mango@1.06
+- pkg:maven/cc.concurrent/mango@1.06?classifier=sources
+- pkg:maven/cc.concurrent/mango@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.nmdp.gl/gl-liftover-service@1.0
+- pkg:maven/org.nmdp.gl/gl-liftover-service@1.0?classifier=sources

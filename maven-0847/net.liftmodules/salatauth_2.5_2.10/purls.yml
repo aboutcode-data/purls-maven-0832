@@ -1,2 +1,4 @@
 - pkg:maven/net.liftmodules/salatauth_2.5_2.10@1.0
 - pkg:maven/net.liftmodules/salatauth_2.5_2.10@1.0?classifier=sources
+- pkg:maven/net.liftmodules/salatauth_2.5_2.10@1.1
+- pkg:maven/net.liftmodules/salatauth_2.5_2.10@1.1?classifier=sources

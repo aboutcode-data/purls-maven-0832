@@ -22,3 +22,9 @@
 - pkg:maven/io.restx/restx-jongo-specs-tests@0.31?classifier=sources
 - pkg:maven/io.restx/restx-jongo-specs-tests@0.32
 - pkg:maven/io.restx/restx-jongo-specs-tests@0.32?classifier=sources
+- pkg:maven/io.restx/restx-jongo-specs-tests@0.33
+- pkg:maven/io.restx/restx-jongo-specs-tests@0.33.1
+- pkg:maven/io.restx/restx-jongo-specs-tests@0.33.1?classifier=sources
+- pkg:maven/io.restx/restx-jongo-specs-tests@0.33?classifier=sources
+- pkg:maven/io.restx/restx-jongo-specs-tests@0.34
+- pkg:maven/io.restx/restx-jongo-specs-tests@0.34?classifier=sources

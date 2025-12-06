@@ -2,3 +2,5 @@
 - pkg:maven/org.mobicents.protocols.asn.docs/mobicents-asn-docs-sources@2.0.0.FINAL?classifier=sources
 - pkg:maven/org.mobicents.protocols.asn.docs/mobicents-asn-docs-sources@2.0.1.FINAL
 - pkg:maven/org.mobicents.protocols.asn.docs/mobicents-asn-docs-sources@2.0.1.FINAL?classifier=sources
+- pkg:maven/org.mobicents.protocols.asn.docs/mobicents-asn-docs-sources@2.0.3.FINAL
+- pkg:maven/org.mobicents.protocols.asn.docs/mobicents-asn-docs-sources@2.0.3.FINAL?classifier=sources

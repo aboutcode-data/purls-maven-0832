@@ -1,0 +1,2 @@
+- pkg:maven/au.com.gridstone/grex-android@3.0.0
+- pkg:maven/au.com.gridstone/grex-android@3.0.0?classifier=sources

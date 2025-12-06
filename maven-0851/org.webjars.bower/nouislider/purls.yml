@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/nouislider@7.0.10
+- pkg:maven/org.webjars.bower/nouislider@7.0.10?classifier=sources
+- pkg:maven/org.webjars.bower/nouislider@8.0.2
+- pkg:maven/org.webjars.bower/nouislider@8.0.2?classifier=sources

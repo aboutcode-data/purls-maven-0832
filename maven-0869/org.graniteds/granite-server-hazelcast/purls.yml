@@ -1,0 +1,6 @@
+- pkg:maven/org.graniteds/granite-server-hazelcast@3.1.0.GA
+- pkg:maven/org.graniteds/granite-server-hazelcast@3.1.0.GA?classifier=sources
+- pkg:maven/org.graniteds/granite-server-hazelcast@3.1.0.RC1
+- pkg:maven/org.graniteds/granite-server-hazelcast@3.1.0.RC1?classifier=sources
+- pkg:maven/org.graniteds/granite-server-hazelcast@3.1.1.GA
+- pkg:maven/org.graniteds/granite-server-hazelcast@3.1.1.GA?classifier=sources

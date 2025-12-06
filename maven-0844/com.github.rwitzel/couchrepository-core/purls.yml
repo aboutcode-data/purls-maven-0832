@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rwitzel/couchrepository-core@0.9.1
+- pkg:maven/com.github.rwitzel/couchrepository-core@0.9.1?classifier=sources

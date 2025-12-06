@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource/sonar-persistit@3.3.2
+- pkg:maven/org.sonarsource/sonar-persistit@3.3.2?classifier=sources

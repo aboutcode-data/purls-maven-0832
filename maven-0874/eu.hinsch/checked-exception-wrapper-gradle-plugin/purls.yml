@@ -1,0 +1,4 @@
+- pkg:maven/eu.hinsch/checked-exception-wrapper-gradle-plugin@0.1.0
+- pkg:maven/eu.hinsch/checked-exception-wrapper-gradle-plugin@0.1.0?classifier=sources
+- pkg:maven/eu.hinsch/checked-exception-wrapper-gradle-plugin@0.1.1
+- pkg:maven/eu.hinsch/checked-exception-wrapper-gradle-plugin@0.1.1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.14.0
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.14.0?classifier=sources
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.15.0
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.15.0?classifier=sources
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.15.1-RC13
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.15.1-RC13?classifier=sources
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.15.1-RC9
+- pkg:maven/com.twitter/execution-tutorial_2.10@0.15.1-RC9?classifier=sources

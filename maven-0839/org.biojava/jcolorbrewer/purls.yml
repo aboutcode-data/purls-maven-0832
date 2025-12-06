@@ -1,0 +1,2 @@
+- pkg:maven/org.biojava/jcolorbrewer@5.2
+- pkg:maven/org.biojava/jcolorbrewer@5.2?classifier=sources

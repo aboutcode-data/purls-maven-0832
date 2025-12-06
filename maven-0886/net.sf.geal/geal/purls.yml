@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.geal/geal@0.4.12
+- pkg:maven/net.sf.geal/geal@0.4.12?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.serloman.imagecachedownloader/imagecachedownloader@1.0.6?classifier=sources
+- pkg:maven/com.serloman.imagecachedownloader/imagecachedownloader@1.0.6?type=aar

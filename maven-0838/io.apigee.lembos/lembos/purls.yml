@@ -1,0 +1,2 @@
+- pkg:maven/io.apigee.lembos/lembos@1.0
+- pkg:maven/io.apigee.lembos/lembos@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ca.genovese/coffee-cats@0.1
+- pkg:maven/ca.genovese/coffee-cats@0.1?classifier=sources

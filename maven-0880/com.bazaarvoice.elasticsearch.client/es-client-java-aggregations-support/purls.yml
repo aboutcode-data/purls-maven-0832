@@ -1,0 +1,4 @@
+- pkg:maven/com.bazaarvoice.elasticsearch.client/es-client-java-aggregations-support@0.1PRE2
+- pkg:maven/com.bazaarvoice.elasticsearch.client/es-client-java-aggregations-support@0.1PRE2?classifier=sources
+- pkg:maven/com.bazaarvoice.elasticsearch.client/es-client-java-aggregations-support@0.1PRE3
+- pkg:maven/com.bazaarvoice.elasticsearch.client/es-client-java-aggregations-support@0.1PRE3?classifier=sources

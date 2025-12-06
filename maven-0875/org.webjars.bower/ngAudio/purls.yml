@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/ngAudio@1.7.1
+- pkg:maven/org.webjars.bower/ngAudio@1.7.1?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/net.trajano.commons/commons-testing@1.0.0?classifier=sources
 - pkg:maven/net.trajano.commons/commons-testing@1.0.1
 - pkg:maven/net.trajano.commons/commons-testing@1.0.1?classifier=sources
+- pkg:maven/net.trajano.commons/commons-testing@2.0.0
+- pkg:maven/net.trajano.commons/commons-testing@2.0.0?classifier=sources
+- pkg:maven/net.trajano.commons/commons-testing@2.1.0
+- pkg:maven/net.trajano.commons/commons-testing@2.1.0?classifier=sources

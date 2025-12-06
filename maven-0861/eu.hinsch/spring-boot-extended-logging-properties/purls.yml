@@ -1,0 +1,6 @@
+- pkg:maven/eu.hinsch/spring-boot-extended-logging-properties@0.1.0
+- pkg:maven/eu.hinsch/spring-boot-extended-logging-properties@0.1.0?classifier=sources
+- pkg:maven/eu.hinsch/spring-boot-extended-logging-properties@0.1.1
+- pkg:maven/eu.hinsch/spring-boot-extended-logging-properties@0.1.1?classifier=sources
+- pkg:maven/eu.hinsch/spring-boot-extended-logging-properties@0.2.0
+- pkg:maven/eu.hinsch/spring-boot-extended-logging-properties@0.2.0?classifier=sources

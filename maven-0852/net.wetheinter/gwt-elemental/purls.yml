@@ -1,0 +1,2 @@
+- pkg:maven/net.wetheinter/gwt-elemental@2.7.0
+- pkg:maven/net.wetheinter/gwt-elemental@2.7.0?classifier=sources

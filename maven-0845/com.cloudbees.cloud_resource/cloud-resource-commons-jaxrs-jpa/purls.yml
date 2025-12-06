@@ -8,3 +8,5 @@
 - pkg:maven/com.cloudbees.cloud_resource/cloud-resource-commons-jaxrs-jpa@1.2?classifier=sources
 - pkg:maven/com.cloudbees.cloud_resource/cloud-resource-commons-jaxrs-jpa@2.0
 - pkg:maven/com.cloudbees.cloud_resource/cloud-resource-commons-jaxrs-jpa@2.0?classifier=sources
+- pkg:maven/com.cloudbees.cloud_resource/cloud-resource-commons-jaxrs-jpa@2.1
+- pkg:maven/com.cloudbees.cloud_resource/cloud-resource-commons-jaxrs-jpa@2.1?classifier=sources

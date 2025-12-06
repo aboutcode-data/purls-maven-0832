@@ -1,0 +1,6 @@
+- pkg:maven/com.seagate.kinetic/kinetic-test@0.7.0.2
+- pkg:maven/com.seagate.kinetic/kinetic-test@0.8.0.1
+- pkg:maven/com.seagate.kinetic/kinetic-test@0.8.0.2
+- pkg:maven/com.seagate.kinetic/kinetic-test@0.8.0.3
+- pkg:maven/com.seagate.kinetic/kinetic-test@0.8.0.4
+- pkg:maven/com.seagate.kinetic/kinetic-test@0.8.0.5

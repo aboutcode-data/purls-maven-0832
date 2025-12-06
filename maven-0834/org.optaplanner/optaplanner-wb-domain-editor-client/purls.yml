@@ -1,0 +1,2 @@
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-client@6.3.0.CR1
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-client@6.3.0.CR1?classifier=sources

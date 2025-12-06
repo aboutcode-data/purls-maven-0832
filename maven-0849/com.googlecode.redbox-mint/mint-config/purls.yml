@@ -24,3 +24,5 @@
 - pkg:maven/com.googlecode.redbox-mint/mint-config@1.6?classifier=sources
 - pkg:maven/com.googlecode.redbox-mint/mint-config@1.7
 - pkg:maven/com.googlecode.redbox-mint/mint-config@1.7?classifier=sources
+- pkg:maven/com.googlecode.redbox-mint/mint-config@1.8
+- pkg:maven/com.googlecode.redbox-mint/mint-config@1.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.grack/nanojson@1.0
+- pkg:maven/com.grack/nanojson@1.0?classifier=sources

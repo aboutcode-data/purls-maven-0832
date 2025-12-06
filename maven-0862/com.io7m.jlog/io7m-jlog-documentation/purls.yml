@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jlog/io7m-jlog-documentation@3.1.0?classifier=sources
+- pkg:maven/com.io7m.jlog/io7m-jlog-documentation@3.1.0?type=zip

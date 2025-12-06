@@ -1,0 +1,4 @@
+- pkg:maven/net.jawr.tools/jawr-maven-plugin@3.7
+- pkg:maven/net.jawr.tools/jawr-maven-plugin@3.7?classifier=sources
+- pkg:maven/net.jawr.tools/jawr-maven-plugin@3.8
+- pkg:maven/net.jawr.tools/jawr-maven-plugin@3.8?classifier=sources

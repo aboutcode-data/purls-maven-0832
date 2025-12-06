@@ -22,3 +22,9 @@
 - pkg:maven/org.simplericity.jettyconsole/jetty-console-gzip-plugin@1.53?classifier=sources
 - pkg:maven/org.simplericity.jettyconsole/jetty-console-gzip-plugin@1.54
 - pkg:maven/org.simplericity.jettyconsole/jetty-console-gzip-plugin@1.54?classifier=sources
+- pkg:maven/org.simplericity.jettyconsole/jetty-console-gzip-plugin@1.55
+- pkg:maven/org.simplericity.jettyconsole/jetty-console-gzip-plugin@1.55?classifier=sources
+- pkg:maven/org.simplericity.jettyconsole/jetty-console-gzip-plugin@1.56
+- pkg:maven/org.simplericity.jettyconsole/jetty-console-gzip-plugin@1.56?classifier=sources
+- pkg:maven/org.simplericity.jettyconsole/jetty-console-gzip-plugin@1.57
+- pkg:maven/org.simplericity.jettyconsole/jetty-console-gzip-plugin@1.57?classifier=sources

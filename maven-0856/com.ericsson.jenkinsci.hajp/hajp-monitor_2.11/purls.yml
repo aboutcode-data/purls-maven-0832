@@ -1,0 +1,2 @@
+- pkg:maven/com.ericsson.jenkinsci.hajp/hajp-monitor_2.11@1.0.6?classifier=sources
+- pkg:maven/com.ericsson.jenkinsci.hajp/hajp-monitor_2.11@1.0.6?type=zip

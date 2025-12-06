@@ -1,0 +1,2 @@
+- pkg:maven/com.intersult/add-source-maven-plugin@1.1
+- pkg:maven/com.intersult/add-source-maven-plugin@1.1?classifier=sources

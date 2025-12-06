@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.reef/reef-tests@0.10.0-incubating
+- pkg:maven/org.apache.reef/reef-tests@0.10.0-incubating?classifier=sources
+- pkg:maven/org.apache.reef/reef-tests@0.11.0-incubating
+- pkg:maven/org.apache.reef/reef-tests@0.11.0-incubating?classifier=sources
+- pkg:maven/org.apache.reef/reef-tests@0.12.0-incubating
+- pkg:maven/org.apache.reef/reef-tests@0.12.0-incubating?classifier=sources
+- pkg:maven/org.apache.reef/reef-tests@0.13.0-incubating
+- pkg:maven/org.apache.reef/reef-tests@0.13.0-incubating?classifier=sources

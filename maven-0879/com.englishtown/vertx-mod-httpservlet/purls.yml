@@ -1,0 +1,2 @@
+- pkg:maven/com.englishtown/vertx-mod-httpservlet@0.1.0
+- pkg:maven/com.englishtown/vertx-mod-httpservlet@0.1.0?classifier=sources

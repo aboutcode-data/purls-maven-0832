@@ -1,0 +1,4 @@
+- pkg:maven/com.github.wheaties/autolift_2.11@0.1
+- pkg:maven/com.github.wheaties/autolift_2.11@0.1?classifier=sources
+- pkg:maven/com.github.wheaties/autolift_2.11@0.3
+- pkg:maven/com.github.wheaties/autolift_2.11@0.3?classifier=sources

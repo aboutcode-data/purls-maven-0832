@@ -1,0 +1,2 @@
+- pkg:maven/org.jessma/jessma-ext-spring@3.5.1
+- pkg:maven/org.jessma/jessma-ext-spring@3.5.1?classifier=sources

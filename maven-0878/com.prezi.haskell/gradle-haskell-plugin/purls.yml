@@ -1,0 +1,4 @@
+- pkg:maven/com.prezi.haskell/gradle-haskell-plugin@0.2-1-ge533c4f
+- pkg:maven/com.prezi.haskell/gradle-haskell-plugin@0.2-1-ge533c4f?classifier=sources
+- pkg:maven/com.prezi.haskell/gradle-haskell-plugin@0.3.1
+- pkg:maven/com.prezi.haskell/gradle-haskell-plugin@0.3.1?classifier=sources

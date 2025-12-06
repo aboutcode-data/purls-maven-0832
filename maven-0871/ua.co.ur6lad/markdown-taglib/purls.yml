@@ -1,0 +1,4 @@
+- pkg:maven/ua.co.ur6lad/markdown-taglib@1.0.0
+- pkg:maven/ua.co.ur6lad/markdown-taglib@1.0.0?classifier=sources
+- pkg:maven/ua.co.ur6lad/markdown-taglib@1.1.0
+- pkg:maven/ua.co.ur6lad/markdown-taglib@1.1.0?classifier=sources

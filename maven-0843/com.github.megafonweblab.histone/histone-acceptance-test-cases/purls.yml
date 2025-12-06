@@ -1,0 +1,4 @@
+- pkg:maven/com.github.megafonweblab.histone/histone-acceptance-test-cases@1.2.15
+- pkg:maven/com.github.megafonweblab.histone/histone-acceptance-test-cases@1.2.15?classifier=sources
+- pkg:maven/com.github.megafonweblab.histone/histone-acceptance-test-cases@1.2.16
+- pkg:maven/com.github.megafonweblab.histone/histone-acceptance-test-cases@1.2.16?classifier=sources

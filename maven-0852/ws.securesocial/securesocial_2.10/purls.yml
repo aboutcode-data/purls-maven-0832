@@ -1,2 +1,12 @@
 - pkg:maven/ws.securesocial/securesocial_2.10@2.1.3
 - pkg:maven/ws.securesocial/securesocial_2.10@2.1.3?classifier=sources
+- pkg:maven/ws.securesocial/securesocial_2.10@2.1.4
+- pkg:maven/ws.securesocial/securesocial_2.10@2.1.4?classifier=sources
+- pkg:maven/ws.securesocial/securesocial_2.10@3.0-M1
+- pkg:maven/ws.securesocial/securesocial_2.10@3.0-M1-play-2.2.x
+- pkg:maven/ws.securesocial/securesocial_2.10@3.0-M1-play-2.2.x?classifier=sources
+- pkg:maven/ws.securesocial/securesocial_2.10@3.0-M1?classifier=sources
+- pkg:maven/ws.securesocial/securesocial_2.10@3.0-M2
+- pkg:maven/ws.securesocial/securesocial_2.10@3.0-M2?classifier=sources
+- pkg:maven/ws.securesocial/securesocial_2.10@3.0-M3
+- pkg:maven/ws.securesocial/securesocial_2.10@3.0-M3?classifier=sources

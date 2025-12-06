@@ -1,0 +1,6 @@
+- pkg:maven/de.alpharogroup/c10n.interface.generator@1.0.0
+- pkg:maven/de.alpharogroup/c10n.interface.generator@1.0.0?classifier=sources
+- pkg:maven/de.alpharogroup/c10n.interface.generator@2.0.0
+- pkg:maven/de.alpharogroup/c10n.interface.generator@2.0.0?classifier=sources
+- pkg:maven/de.alpharogroup/c10n.interface.generator@2.1.0
+- pkg:maven/de.alpharogroup/c10n.interface.generator@2.1.0?classifier=sources

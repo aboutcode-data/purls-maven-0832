@@ -1,3 +1,7 @@
 - pkg:maven/org.schwering/irclib@1.04-bsd
 - pkg:maven/org.schwering/irclib@1.10
 - pkg:maven/org.schwering/irclib@1.10?classifier=sources
+- pkg:maven/org.schwering/irclib@2.0.0.Alpha2
+- pkg:maven/org.schwering/irclib@2.0.0.Alpha2?classifier=sources
+- pkg:maven/org.schwering/irclib@2.0.0.Alpha3
+- pkg:maven/org.schwering/irclib@2.0.0.Alpha3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.betfair.caching/local-caching@2.1.1
+- pkg:maven/com.betfair.caching/local-caching@2.1.1?classifier=sources

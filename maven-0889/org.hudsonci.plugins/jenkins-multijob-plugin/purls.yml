@@ -1,1 +1,4 @@
 - pkg:maven/org.hudsonci.plugins/jenkins-multijob-plugin@1.8-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/jenkins-multijob-plugin@1.8-h-2?classifier=sources
+- pkg:maven/org.hudsonci.plugins/jenkins-multijob-plugin@1.8-h-3?classifier=sources
+- pkg:maven/org.hudsonci.plugins/jenkins-multijob-plugin@1.8-h-4?classifier=sources

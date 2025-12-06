@@ -1,0 +1,2 @@
+- pkg:maven/fr.braindead/npm-java@1.4
+- pkg:maven/fr.braindead/npm-java@1.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.karasiq/proxychain_2.11@1.5
+- pkg:maven/com.github.karasiq/proxychain_2.11@1.5?classifier=sources

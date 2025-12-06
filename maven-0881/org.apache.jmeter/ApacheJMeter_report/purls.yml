@@ -1,5 +1,6 @@
 - pkg:maven/org.apache.jmeter/ApacheJMeter_report@2.10
 - pkg:maven/org.apache.jmeter/ApacheJMeter_report@2.11
+- pkg:maven/org.apache.jmeter/ApacheJMeter_report@2.12
 - pkg:maven/org.apache.jmeter/ApacheJMeter_report@2.6
 - pkg:maven/org.apache.jmeter/ApacheJMeter_report@2.7
 - pkg:maven/org.apache.jmeter/ApacheJMeter_report@2.8

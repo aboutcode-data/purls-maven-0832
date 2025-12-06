@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/karma@0.13.10
+- pkg:maven/org.webjars.npm/karma@0.13.10?classifier=sources
+- pkg:maven/org.webjars.npm/karma@0.13.14
+- pkg:maven/org.webjars.npm/karma@0.13.14?classifier=sources
+- pkg:maven/org.webjars.npm/karma@0.13.9
+- pkg:maven/org.webjars.npm/karma@0.13.9?classifier=sources

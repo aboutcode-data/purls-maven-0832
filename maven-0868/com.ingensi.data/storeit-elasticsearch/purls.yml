@@ -1,0 +1,2 @@
+- pkg:maven/com.ingensi.data/storeit-elasticsearch@1.0.2
+- pkg:maven/com.ingensi.data/storeit-elasticsearch@1.0.2?classifier=sources

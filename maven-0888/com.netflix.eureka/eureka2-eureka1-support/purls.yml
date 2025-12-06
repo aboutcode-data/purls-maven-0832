@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.eureka/eureka2-eureka1-support@2.0.0-rc.2
+- pkg:maven/com.netflix.eureka/eureka2-eureka1-support@2.0.0-rc.2?classifier=sources

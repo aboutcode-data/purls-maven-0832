@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti/activiti-archetype-unittest@5.19.0
+- pkg:maven/org.activiti/activiti-archetype-unittest@5.19.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/hm.binkley/service-binder@0.2
 - pkg:maven/hm.binkley/service-binder@0.2?classifier=sources
+- pkg:maven/hm.binkley/service-binder@0.3
+- pkg:maven/hm.binkley/service-binder@0.3?classifier=sources

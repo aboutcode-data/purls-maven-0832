@@ -1,0 +1,8 @@
+- pkg:maven/de.assertagile.spockframework.extensions/spock-scope-extension@0.1
+- pkg:maven/de.assertagile.spockframework.extensions/spock-scope-extension@0.1?classifier=sources
+- pkg:maven/de.assertagile.spockframework.extensions/spock-scope-extension@0.2
+- pkg:maven/de.assertagile.spockframework.extensions/spock-scope-extension@0.2?classifier=sources
+- pkg:maven/de.assertagile.spockframework.extensions/spock-scope-extension@0.3
+- pkg:maven/de.assertagile.spockframework.extensions/spock-scope-extension@0.3?classifier=sources
+- pkg:maven/de.assertagile.spockframework.extensions/spock-scope-extension@0.4
+- pkg:maven/de.assertagile.spockframework.extensions/spock-scope-extension@0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gryphonet/appright@2.1.0.20
+- pkg:maven/com.gryphonet/appright@2.1.0.20?classifier=sources

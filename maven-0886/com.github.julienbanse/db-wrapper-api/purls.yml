@@ -1,0 +1,4 @@
+- pkg:maven/com.github.julienbanse/db-wrapper-api@1.0
+- pkg:maven/com.github.julienbanse/db-wrapper-api@1.0?classifier=sources
+- pkg:maven/com.github.julienbanse/db-wrapper-api@1.1.0
+- pkg:maven/com.github.julienbanse/db-wrapper-api@1.1.0?classifier=sources

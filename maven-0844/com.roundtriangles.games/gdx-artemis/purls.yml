@@ -1,2 +1,4 @@
 - pkg:maven/com.roundtriangles.games/gdx-artemis@0.4
 - pkg:maven/com.roundtriangles.games/gdx-artemis@0.4?classifier=sources
+- pkg:maven/com.roundtriangles.games/gdx-artemis@0.5
+- pkg:maven/com.roundtriangles.games/gdx-artemis@0.5?classifier=sources

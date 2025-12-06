@@ -1,2 +1,6 @@
+- pkg:maven/com.jasonclawson/jackson-dataformat-hocon@1.0.13
+- pkg:maven/com.jasonclawson/jackson-dataformat-hocon@1.0.13?classifier=sources
 - pkg:maven/com.jasonclawson/jackson-dataformat-hocon@1.0.8
 - pkg:maven/com.jasonclawson/jackson-dataformat-hocon@1.0.8?classifier=sources
+- pkg:maven/com.jasonclawson/jackson-dataformat-hocon@1.1.0
+- pkg:maven/com.jasonclawson/jackson-dataformat-hocon@1.1.0?classifier=sources

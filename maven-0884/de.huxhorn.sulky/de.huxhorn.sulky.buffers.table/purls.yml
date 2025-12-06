@@ -14,3 +14,5 @@
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.buffers.table@0.9.16?classifier=sources
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.buffers.table@0.9.17
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.buffers.table@0.9.17?classifier=sources
+- pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.buffers.table@8.0.0
+- pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.buffers.table@8.0.0?classifier=sources

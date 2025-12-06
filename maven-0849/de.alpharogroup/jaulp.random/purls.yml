@@ -1,0 +1,4 @@
+- pkg:maven/de.alpharogroup/jaulp.random@3.10.0
+- pkg:maven/de.alpharogroup/jaulp.random@3.10.0?classifier=sources
+- pkg:maven/de.alpharogroup/jaulp.random@3.9.0
+- pkg:maven/de.alpharogroup/jaulp.random@3.9.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@5.18.0
+- pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@5.19.0
+- pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@6.0.0.Beta1

@@ -1,0 +1,2 @@
+- pkg:maven/com.elm-software/jackson-env@1.9
+- pkg:maven/com.elm-software/jackson-env@1.9?classifier=sources

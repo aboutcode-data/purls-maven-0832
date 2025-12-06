@@ -1,0 +1,4 @@
+- pkg:maven/io.vertx/vertx-sockjs@3.0.0-dev_preview1
+- pkg:maven/io.vertx/vertx-sockjs@3.0.0-dev_preview1?classifier=sources
+- pkg:maven/io.vertx/vertx-sockjs@3.0.0-milestone2
+- pkg:maven/io.vertx/vertx-sockjs@3.0.0-milestone2?classifier=sources
