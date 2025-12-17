@@ -8,3 +8,5 @@
 - pkg:maven/org.openstreetmap.osmosis/osmosis-osm-binary@0.45?classifier=sources
 - pkg:maven/org.openstreetmap.osmosis/osmosis-osm-binary@0.46
 - pkg:maven/org.openstreetmap.osmosis/osmosis-osm-binary@0.46?classifier=sources
+- pkg:maven/org.openstreetmap.osmosis/osmosis-osm-binary@0.47
+- pkg:maven/org.openstreetmap.osmosis/osmosis-osm-binary@0.47?classifier=sources

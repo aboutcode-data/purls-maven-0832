@@ -88,3 +88,5 @@
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@1.0.0-alpha3?classifier=sources
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@1.0.0-alpha4
 - pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@1.0.0-alpha4?classifier=sources
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@1.0.0-beta1
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-gradle-plugin@1.0.0-beta1?classifier=sources

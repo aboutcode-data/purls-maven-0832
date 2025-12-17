@@ -1,0 +1,6 @@
+- pkg:maven/ru.curs/spring-boot-starter-celesta@1.0.0
+- pkg:maven/ru.curs/spring-boot-starter-celesta@1.0.0?classifier=sources
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.0.0
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.0.0?classifier=sources
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.0.1
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.0.1?classifier=sources

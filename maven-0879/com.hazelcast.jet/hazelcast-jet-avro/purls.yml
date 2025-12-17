@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@0.7
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@0.7?classifier=sources

@@ -116,6 +116,10 @@
 - pkg:maven/org.jboss.narayana.txframework/txframework@5.5.30.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.txframework/txframework@5.5.31.Final
 - pkg:maven/org.jboss.narayana.txframework/txframework@5.5.31.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.txframework/txframework@5.5.32.Final
+- pkg:maven/org.jboss.narayana.txframework/txframework@5.5.32.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.txframework/txframework@5.5.33.Final
+- pkg:maven/org.jboss.narayana.txframework/txframework@5.5.33.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.txframework/txframework@5.5.4.Final
 - pkg:maven/org.jboss.narayana.txframework/txframework@5.5.4.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.txframework/txframework@5.5.5.Final
@@ -146,3 +150,5 @@
 - pkg:maven/org.jboss.narayana.txframework/txframework@5.8.1.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.txframework/txframework@5.8.2.Final
 - pkg:maven/org.jboss.narayana.txframework/txframework@5.8.2.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.txframework/txframework@5.9.0.Final
+- pkg:maven/org.jboss.narayana.txframework/txframework@5.9.0.Final?classifier=sources

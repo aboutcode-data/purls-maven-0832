@@ -1,0 +1,2 @@
+- pkg:maven/com.github.deepexi/optimus-commons@1.0.5
+- pkg:maven/com.github.deepexi/optimus-commons@1.0.5?classifier=sources

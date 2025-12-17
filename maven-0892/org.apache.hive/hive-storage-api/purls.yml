@@ -38,3 +38,6 @@
 - pkg:maven/org.apache.hive/hive-storage-api@2.6.1
 - pkg:maven/org.apache.hive/hive-storage-api@2.6.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.hive/hive-storage-api@2.6.1?classifier=sources
+- pkg:maven/org.apache.hive/hive-storage-api@2.7.0
+- pkg:maven/org.apache.hive/hive-storage-api@2.7.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.hive/hive-storage-api@2.7.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.gabrielittner.auto.value/auto-value-extension-util@0.2.1?classifier=sources
 - pkg:maven/com.gabrielittner.auto.value/auto-value-extension-util@0.3.0
 - pkg:maven/com.gabrielittner.auto.value/auto-value-extension-util@0.3.0?classifier=sources
+- pkg:maven/com.gabrielittner.auto.value/auto-value-extension-util@0.4.0
+- pkg:maven/com.gabrielittner.auto.value/auto-value-extension-util@0.4.0?classifier=sources

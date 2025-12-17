@@ -1,0 +1,14 @@
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.10
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.10-RC1
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.10-RC1?classifier=sources
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.10?classifier=sources
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.11
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.11-RC1
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.11-RC1?classifier=sources
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.11?classifier=sources
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.12
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.12?classifier=sources
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.8
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.8?classifier=sources
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.9
+- pkg:maven/de.adorsys.psd2/aspsp-profile-server@1.9?classifier=sources

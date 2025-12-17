@@ -39,6 +39,8 @@
 - pkg:maven/org.opensingular/singular-flow-schedule@1.6.9.3?classifier=sources
 - pkg:maven/org.opensingular/singular-flow-schedule@1.6.9.4
 - pkg:maven/org.opensingular/singular-flow-schedule@1.6.9.4?classifier=sources
+- pkg:maven/org.opensingular/singular-flow-schedule@1.6.9.5
+- pkg:maven/org.opensingular/singular-flow-schedule@1.6.9.5?classifier=sources
 - pkg:maven/org.opensingular/singular-flow-schedule@1.6.9?classifier=sources
 - pkg:maven/org.opensingular/singular-flow-schedule@1.7.0
 - pkg:maven/org.opensingular/singular-flow-schedule@1.7.0-RC1
@@ -64,7 +66,15 @@
 - pkg:maven/org.opensingular/singular-flow-schedule@1.7.1-RC4
 - pkg:maven/org.opensingular/singular-flow-schedule@1.7.1-RC4?classifier=sources
 - pkg:maven/org.opensingular/singular-flow-schedule@1.7.1?classifier=sources
+- pkg:maven/org.opensingular/singular-flow-schedule@1.8.0
 - pkg:maven/org.opensingular/singular-flow-schedule@1.8.0-RC1
 - pkg:maven/org.opensingular/singular-flow-schedule@1.8.0-RC1?classifier=sources
 - pkg:maven/org.opensingular/singular-flow-schedule@1.8.0-RC2
 - pkg:maven/org.opensingular/singular-flow-schedule@1.8.0-RC2?classifier=sources
+- pkg:maven/org.opensingular/singular-flow-schedule@1.8.0.1
+- pkg:maven/org.opensingular/singular-flow-schedule@1.8.0.1?classifier=sources
+- pkg:maven/org.opensingular/singular-flow-schedule@1.8.0.2
+- pkg:maven/org.opensingular/singular-flow-schedule@1.8.0.2?classifier=sources
+- pkg:maven/org.opensingular/singular-flow-schedule@1.8.0.3
+- pkg:maven/org.opensingular/singular-flow-schedule@1.8.0.3?classifier=sources
+- pkg:maven/org.opensingular/singular-flow-schedule@1.8.0?classifier=sources

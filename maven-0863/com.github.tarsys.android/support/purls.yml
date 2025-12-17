@@ -18,3 +18,7 @@
 - pkg:maven/com.github.tarsys.android/support@1.0.3.6?type=aar
 - pkg:maven/com.github.tarsys.android/support@1.0.3.7?classifier=sources
 - pkg:maven/com.github.tarsys.android/support@1.0.3.7?type=aar
+- pkg:maven/com.github.tarsys.android/support@1.0.3.8?classifier=sources
+- pkg:maven/com.github.tarsys.android/support@1.0.3.8?type=aar
+- pkg:maven/com.github.tarsys.android/support@1.0.3.9?classifier=sources
+- pkg:maven/com.github.tarsys.android/support@1.0.3.9?type=aar

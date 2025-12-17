@@ -1,0 +1,2 @@
+- pkg:maven/com.exonum.binding/exonum-java-binding-common@0.3
+- pkg:maven/com.exonum.binding/exonum-java-binding-common@0.3?classifier=sources

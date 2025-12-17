@@ -44,3 +44,5 @@
 - pkg:maven/com.dooapp.fxform2/samples@8.2.3?classifier=sources
 - pkg:maven/com.dooapp.fxform2/samples@8.2.4
 - pkg:maven/com.dooapp.fxform2/samples@8.2.4?classifier=sources
+- pkg:maven/com.dooapp.fxform2/samples@9.0.0
+- pkg:maven/com.dooapp.fxform2/samples@9.0.0?classifier=sources

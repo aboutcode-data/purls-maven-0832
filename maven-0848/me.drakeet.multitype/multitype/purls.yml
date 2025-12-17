@@ -95,3 +95,5 @@
 - pkg:maven/me.drakeet.multitype/multitype@3.4.3?type=aar
 - pkg:maven/me.drakeet.multitype/multitype@3.4.4?classifier=sources
 - pkg:maven/me.drakeet.multitype/multitype@3.4.4?type=aar
+- pkg:maven/me.drakeet.multitype/multitype@3.5.0?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype@3.5.0?type=aar

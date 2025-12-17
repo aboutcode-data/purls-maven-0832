@@ -1,0 +1,2 @@
+- pkg:maven/edu.colostate.omslab/csip-core@2.2.51
+- pkg:maven/edu.colostate.omslab/csip-core@2.2.51?classifier=sources

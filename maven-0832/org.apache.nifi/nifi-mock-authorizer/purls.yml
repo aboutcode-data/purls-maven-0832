@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.8.0
+- pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.8.0?classifier=sources

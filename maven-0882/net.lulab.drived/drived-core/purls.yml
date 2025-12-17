@@ -1,0 +1,2 @@
+- pkg:maven/net.lulab.drived/drived-core@0.0.1
+- pkg:maven/net.lulab.drived/drived-core@0.0.1?classifier=sources

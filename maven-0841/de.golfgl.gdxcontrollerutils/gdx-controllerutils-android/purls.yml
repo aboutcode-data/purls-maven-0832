@@ -2,3 +2,5 @@
 - pkg:maven/de.golfgl.gdxcontrollerutils/gdx-controllerutils-android@0.1.0?type=aar
 - pkg:maven/de.golfgl.gdxcontrollerutils/gdx-controllerutils-android@0.1.1?classifier=sources
 - pkg:maven/de.golfgl.gdxcontrollerutils/gdx-controllerutils-android@0.1.1?type=aar
+- pkg:maven/de.golfgl.gdxcontrollerutils/gdx-controllerutils-android@0.1.2?classifier=sources
+- pkg:maven/de.golfgl.gdxcontrollerutils/gdx-controllerutils-android@0.1.2?type=aar

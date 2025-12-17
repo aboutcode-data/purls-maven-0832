@@ -8,3 +8,5 @@
 - pkg:maven/javax.servlet.jsp/javax.servlet.jsp-api@2.3.2-b01?classifier=sources
 - pkg:maven/javax.servlet.jsp/javax.servlet.jsp-api@2.3.2-b02
 - pkg:maven/javax.servlet.jsp/javax.servlet.jsp-api@2.3.2-b02?classifier=sources
+- pkg:maven/javax.servlet.jsp/javax.servlet.jsp-api@2.3.3
+- pkg:maven/javax.servlet.jsp/javax.servlet.jsp-api@2.3.3?classifier=sources

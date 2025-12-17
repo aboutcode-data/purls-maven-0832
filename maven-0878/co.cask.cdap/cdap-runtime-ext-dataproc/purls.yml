@@ -1,0 +1,8 @@
+- pkg:maven/co.cask.cdap/cdap-runtime-ext-dataproc@5.0.0
+- pkg:maven/co.cask.cdap/cdap-runtime-ext-dataproc@5.0.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-runtime-ext-dataproc@5.1.0
+- pkg:maven/co.cask.cdap/cdap-runtime-ext-dataproc@5.1.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-runtime-ext-dataproc@5.1.1
+- pkg:maven/co.cask.cdap/cdap-runtime-ext-dataproc@5.1.1?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-runtime-ext-dataproc@5.1.2
+- pkg:maven/co.cask.cdap/cdap-runtime-ext-dataproc@5.1.2?classifier=sources

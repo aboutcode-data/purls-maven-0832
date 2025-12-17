@@ -1,0 +1,2 @@
+- pkg:maven/by.exonit.redmine.client/client-play27-ws_2.12@6.0.0-M5
+- pkg:maven/by.exonit.redmine.client/client-play27-ws_2.12@6.0.0-M5?classifier=sources

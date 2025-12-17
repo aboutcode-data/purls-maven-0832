@@ -40,6 +40,7 @@
 - pkg:maven/org.openbase/jul.extension.rst.util@1.6.0
 - pkg:maven/org.openbase/jul.extension.rst.util@1.6.1
 - pkg:maven/org.openbase/jul.extension.rst.util@1.6.10
+- pkg:maven/org.openbase/jul.extension.rst.util@1.6.11
 - pkg:maven/org.openbase/jul.extension.rst.util@1.6.2
 - pkg:maven/org.openbase/jul.extension.rst.util@1.6.3
 - pkg:maven/org.openbase/jul.extension.rst.util@1.6.4

@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.jena/jena@3.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jena/jena@3.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jena/jena@3.7.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.jena/jena@3.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.jena/jena@3.9.0?classifier=source-release&type=zip

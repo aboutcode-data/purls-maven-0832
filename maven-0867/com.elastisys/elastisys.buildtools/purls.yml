@@ -2,3 +2,4 @@
 - pkg:maven/com.elastisys/elastisys.buildtools@1.1
 - pkg:maven/com.elastisys/elastisys.buildtools@1.2
 - pkg:maven/com.elastisys/elastisys.buildtools@1.3
+- pkg:maven/com.elastisys/elastisys.buildtools@1.4

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.portals.pluto/PortletHubDemo@3.0.0?type=war
+- pkg:maven/org.apache.portals.pluto/PortletHubDemo@3.0.1?type=war

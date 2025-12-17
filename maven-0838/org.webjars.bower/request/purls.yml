@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/request@2.88.1
+- pkg:maven/org.webjars.bower/request@2.88.1?classifier=sources

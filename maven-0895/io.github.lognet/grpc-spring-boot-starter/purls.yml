@@ -1,0 +1,6 @@
+- pkg:maven/io.github.lognet/grpc-spring-boot-starter@2.4.4
+- pkg:maven/io.github.lognet/grpc-spring-boot-starter@2.4.4?classifier=sources
+- pkg:maven/io.github.lognet/grpc-spring-boot-starter@3.0.0
+- pkg:maven/io.github.lognet/grpc-spring-boot-starter@3.0.0?classifier=sources
+- pkg:maven/io.github.lognet/grpc-spring-boot-starter@3.0.1-SNAPHSOT
+- pkg:maven/io.github.lognet/grpc-spring-boot-starter@3.0.1-SNAPHSOT?classifier=sources

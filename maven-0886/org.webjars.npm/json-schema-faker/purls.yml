@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc13
 - pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc13?classifier=sources
+- pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc15
+- pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc15?classifier=sources
+- pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc16
+- pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc16?classifier=sources

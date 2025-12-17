@@ -6,3 +6,5 @@
 - pkg:maven/com.github.gerp83/SlimRequest@1.02?type=aar
 - pkg:maven/com.github.gerp83/SlimRequest@1.03?classifier=sources
 - pkg:maven/com.github.gerp83/SlimRequest@1.03?type=aar
+- pkg:maven/com.github.gerp83/SlimRequest@1.04?classifier=sources
+- pkg:maven/com.github.gerp83/SlimRequest@1.04?type=aar

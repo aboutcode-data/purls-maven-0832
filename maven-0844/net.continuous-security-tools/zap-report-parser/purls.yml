@@ -1,0 +1,2 @@
+- pkg:maven/net.continuous-security-tools/zap-report-parser@0.3.1
+- pkg:maven/net.continuous-security-tools/zap-report-parser@0.3.1?classifier=sources

@@ -64,3 +64,7 @@
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-common@2.9?classifier=sources
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-common@3.0
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-common@3.0?classifier=sources
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-common@3.1
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-common@3.1?classifier=sources
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-common@3.2
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-common@3.2?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.api.tools.ui@1.1.100?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.api.tools.ui@1.1.101
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.api.tools.ui@1.1.101?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.api.tools.ui@1.1.200
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.api.tools.ui@1.1.200?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.api.tools.ui@1.1.400
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.api.tools.ui@1.1.400?classifier=sources

@@ -6,7 +6,11 @@
 - pkg:maven/org.webjars.npm/vue-router@2.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/vue-router@2.5.3
 - pkg:maven/org.webjars.npm/vue-router@2.5.3?classifier=sources
+- pkg:maven/org.webjars.npm/vue-router@2.6.0
+- pkg:maven/org.webjars.npm/vue-router@2.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/vue-router@2.7.0
 - pkg:maven/org.webjars.npm/vue-router@2.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/vue-router@2.8.1
+- pkg:maven/org.webjars.npm/vue-router@2.8.1?classifier=sources
 - pkg:maven/org.webjars.npm/vue-router@3.0.1
 - pkg:maven/org.webjars.npm/vue-router@3.0.1?classifier=sources

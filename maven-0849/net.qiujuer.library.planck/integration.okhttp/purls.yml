@@ -1,0 +1,4 @@
+- pkg:maven/net.qiujuer.library.planck/integration.okhttp@1.1.0?classifier=sources
+- pkg:maven/net.qiujuer.library.planck/integration.okhttp@1.1.0?type=aar
+- pkg:maven/net.qiujuer.library.planck/integration.okhttp@1.3.2?classifier=sources
+- pkg:maven/net.qiujuer.library.planck/integration.okhttp@1.3.2?type=aar

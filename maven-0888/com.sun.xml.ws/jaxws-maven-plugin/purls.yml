@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.xml.ws/jaxws-maven-plugin@2.3.1
+- pkg:maven/com.sun.xml.ws/jaxws-maven-plugin@2.3.1?classifier=sources

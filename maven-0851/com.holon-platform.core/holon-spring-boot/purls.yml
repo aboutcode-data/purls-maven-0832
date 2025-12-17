@@ -16,3 +16,9 @@
 - pkg:maven/com.holon-platform.core/holon-spring-boot@5.1.0?classifier=sources
 - pkg:maven/com.holon-platform.core/holon-spring-boot@5.1.1
 - pkg:maven/com.holon-platform.core/holon-spring-boot@5.1.1?classifier=sources
+- pkg:maven/com.holon-platform.core/holon-spring-boot@5.1.2
+- pkg:maven/com.holon-platform.core/holon-spring-boot@5.1.2?classifier=sources
+- pkg:maven/com.holon-platform.core/holon-spring-boot@5.2.0-alpha1
+- pkg:maven/com.holon-platform.core/holon-spring-boot@5.2.0-alpha1?classifier=sources
+- pkg:maven/com.holon-platform.core/holon-spring-boot@5.2.0-alpha2
+- pkg:maven/com.holon-platform.core/holon-spring-boot@5.2.0-alpha2?classifier=sources

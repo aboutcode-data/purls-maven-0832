@@ -10,5 +10,15 @@
 - pkg:maven/com.bandwidth/async-sqs@0.11.3?classifier=sources
 - pkg:maven/com.bandwidth/async-sqs@0.11.4
 - pkg:maven/com.bandwidth/async-sqs@0.11.4?classifier=sources
+- pkg:maven/com.bandwidth/async-sqs@0.11.5
+- pkg:maven/com.bandwidth/async-sqs@0.11.5?classifier=sources
+- pkg:maven/com.bandwidth/async-sqs@0.11.6
+- pkg:maven/com.bandwidth/async-sqs@0.11.6?classifier=sources
+- pkg:maven/com.bandwidth/async-sqs@0.12.0
+- pkg:maven/com.bandwidth/async-sqs@0.12.0?classifier=sources
+- pkg:maven/com.bandwidth/async-sqs@0.12.1
+- pkg:maven/com.bandwidth/async-sqs@0.12.1?classifier=sources
+- pkg:maven/com.bandwidth/async-sqs@0.12.2
+- pkg:maven/com.bandwidth/async-sqs@0.12.2?classifier=sources
 - pkg:maven/com.bandwidth/async-sqs@0.9.1
 - pkg:maven/com.bandwidth/async-sqs@0.9.1?classifier=sources

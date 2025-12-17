@@ -1,0 +1,2 @@
+- pkg:maven/com.xbctechnologies/xcube-core@0.0.2
+- pkg:maven/com.xbctechnologies/xcube-core@0.0.2?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.github.modouxiansheng/convenientUtil@1.0-release
+- pkg:maven/com.github.modouxiansheng/convenientUtil@1.0-release?classifier=sources
+- pkg:maven/com.github.modouxiansheng/convenientUtil@1.1-release
+- pkg:maven/com.github.modouxiansheng/convenientUtil@1.1-release?classifier=sources
+- pkg:maven/com.github.modouxiansheng/convenientUtil@1.2-release
+- pkg:maven/com.github.modouxiansheng/convenientUtil@1.2-release?classifier=sources
+- pkg:maven/com.github.modouxiansheng/convenientUtil@1.3-release
+- pkg:maven/com.github.modouxiansheng/convenientUtil@1.3-release?classifier=sources

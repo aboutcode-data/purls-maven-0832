@@ -18,3 +18,5 @@
 - pkg:maven/de.sciss/scalacolliderswing-app_2.12@1.38.0?classifier=sources
 - pkg:maven/de.sciss/scalacolliderswing-app_2.12@1.39.0
 - pkg:maven/de.sciss/scalacolliderswing-app_2.12@1.39.0?classifier=sources
+- pkg:maven/de.sciss/scalacolliderswing-app_2.12@1.40.0
+- pkg:maven/de.sciss/scalacolliderswing-app_2.12@1.40.0?classifier=sources

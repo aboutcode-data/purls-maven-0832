@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.empire-db/empire-db-maven-plugin@2.4.4?classifier=sources
 - pkg:maven/org.apache.empire-db/empire-db-maven-plugin@2.4.6
 - pkg:maven/org.apache.empire-db/empire-db-maven-plugin@2.4.6?classifier=sources
+- pkg:maven/org.apache.empire-db/empire-db-maven-plugin@2.4.7
+- pkg:maven/org.apache.empire-db/empire-db-maven-plugin@2.4.7?classifier=sources

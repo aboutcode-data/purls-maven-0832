@@ -1,0 +1,6 @@
+- pkg:maven/net.cofares.ljug/ListeCirculaire-proto@1.0
+- pkg:maven/net.cofares.ljug/ListeCirculaire-proto@1.0?classifier=sources
+- pkg:maven/net.cofares.ljug/ListeCirculaire-proto@1.1
+- pkg:maven/net.cofares.ljug/ListeCirculaire-proto@1.1?classifier=sources
+- pkg:maven/net.cofares.ljug/ListeCirculaire-proto@1.2
+- pkg:maven/net.cofares.ljug/ListeCirculaire-proto@1.2?classifier=sources

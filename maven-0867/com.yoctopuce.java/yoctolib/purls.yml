@@ -94,3 +94,11 @@
 - pkg:maven/com.yoctopuce.java/yoctolib@1.10.30378?classifier=sources
 - pkg:maven/com.yoctopuce.java/yoctolib@1.10.30760
 - pkg:maven/com.yoctopuce.java/yoctolib@1.10.30760?classifier=sources
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.31315
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.31315?classifier=sources
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.31701
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.31701?classifier=sources
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.31874
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.31874?classifier=sources
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.32391
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.32391?classifier=sources

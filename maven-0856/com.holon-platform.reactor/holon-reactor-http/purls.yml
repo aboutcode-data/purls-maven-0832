@@ -1,0 +1,2 @@
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0-alpha2
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0-alpha2?classifier=sources

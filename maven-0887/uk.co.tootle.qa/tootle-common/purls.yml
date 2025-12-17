@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.tootle.qa/tootle-common@0.0.1
+- pkg:maven/uk.co.tootle.qa/tootle-common@0.0.1?classifier=sources

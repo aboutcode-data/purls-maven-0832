@@ -2,3 +2,7 @@
 - pkg:maven/com.jakewharton.android.repackaged/dalvik-dx@1?classifier=sources
 - pkg:maven/com.jakewharton.android.repackaged/dalvik-dx@7.1.0_r7
 - pkg:maven/com.jakewharton.android.repackaged/dalvik-dx@7.1.0_r7?classifier=sources
+- pkg:maven/com.jakewharton.android.repackaged/dalvik-dx@8.1.0_r41
+- pkg:maven/com.jakewharton.android.repackaged/dalvik-dx@8.1.0_r41?classifier=sources
+- pkg:maven/com.jakewharton.android.repackaged/dalvik-dx@9.0.0_r3
+- pkg:maven/com.jakewharton.android.repackaged/dalvik-dx@9.0.0_r3?classifier=sources

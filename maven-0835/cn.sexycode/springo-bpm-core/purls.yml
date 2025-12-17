@@ -1,0 +1,2 @@
+- pkg:maven/cn.sexycode/springo-bpm-core@0.0.1
+- pkg:maven/cn.sexycode/springo-bpm-core@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/tk.jamun.ui/country@0.0.2?classifier=sources
+- pkg:maven/tk.jamun.ui/country@0.0.2?type=aar

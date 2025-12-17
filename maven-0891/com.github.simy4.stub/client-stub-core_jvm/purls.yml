@@ -1,0 +1,2 @@
+- pkg:maven/com.github.simy4.stub/client-stub-core_jvm@1.0.0-RC1
+- pkg:maven/com.github.simy4.stub/client-stub-core_jvm@1.0.0-RC1?classifier=sources

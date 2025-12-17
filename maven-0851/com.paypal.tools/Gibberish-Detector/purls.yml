@@ -1,0 +1,2 @@
+- pkg:maven/com.paypal.tools/Gibberish-Detector@0.0.2
+- pkg:maven/com.paypal.tools/Gibberish-Detector@0.0.2?classifier=sources

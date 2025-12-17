@@ -1,0 +1,2 @@
+- pkg:maven/am.ik.hazelcast/hazelcast-dns-service-discovery@1.0.0
+- pkg:maven/am.ik.hazelcast/hazelcast-dns-service-discovery@1.0.0?classifier=sources

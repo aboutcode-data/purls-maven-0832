@@ -1,2 +1,4 @@
 - pkg:maven/com.github.rhyskeepence/clairvoyance-core_2.12@1.0.128
 - pkg:maven/com.github.rhyskeepence/clairvoyance-core_2.12@1.0.128?classifier=sources
+- pkg:maven/com.github.rhyskeepence/clairvoyance-core_2.12@1.0.129
+- pkg:maven/com.github.rhyskeepence/clairvoyance-core_2.12@1.0.129?classifier=sources

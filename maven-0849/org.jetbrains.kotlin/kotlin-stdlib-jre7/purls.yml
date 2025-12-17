@@ -48,3 +48,13 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.41?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.50
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.50?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.51
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.51?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.60
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.60?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.61
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.61?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.70
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.70?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.71
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-jre7@1.2.71?classifier=sources

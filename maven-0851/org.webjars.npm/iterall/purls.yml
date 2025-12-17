@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/iterall@1.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/iterall@1.1.4
 - pkg:maven/org.webjars.npm/iterall@1.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/iterall@1.2.2
+- pkg:maven/org.webjars.npm/iterall@1.2.2?classifier=sources

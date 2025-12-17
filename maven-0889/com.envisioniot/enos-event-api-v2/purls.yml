@@ -1,0 +1,2 @@
+- pkg:maven/com.envisioniot/enos-event-api-v2@1.2
+- pkg:maven/com.envisioniot/enos-event-api-v2@1.2?classifier=sources

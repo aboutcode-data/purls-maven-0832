@@ -77,3 +77,13 @@
 - pkg:maven/org.ujorm/ujo-orm@1.82?classifier=sources
 - pkg:maven/org.ujorm/ujo-orm@1.83
 - pkg:maven/org.ujorm/ujo-orm@1.83?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.84
+- pkg:maven/org.ujorm/ujo-orm@1.84?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.85
+- pkg:maven/org.ujorm/ujo-orm@1.85?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.86
+- pkg:maven/org.ujorm/ujo-orm@1.86?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.87
+- pkg:maven/org.ujorm/ujo-orm@1.87?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.88
+- pkg:maven/org.ujorm/ujo-orm@1.88?classifier=sources

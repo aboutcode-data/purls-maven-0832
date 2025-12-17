@@ -10,3 +10,5 @@
 - pkg:maven/fr.univ-valenciennes/concrete_2.12@3.6?classifier=sources
 - pkg:maven/fr.univ-valenciennes/concrete_2.12@3.7
 - pkg:maven/fr.univ-valenciennes/concrete_2.12@3.7?classifier=sources
+- pkg:maven/fr.univ-valenciennes/concrete_2.12@3.9.2
+- pkg:maven/fr.univ-valenciennes/concrete_2.12@3.9.2?classifier=sources

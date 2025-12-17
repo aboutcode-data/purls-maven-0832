@@ -82,6 +82,12 @@
 - pkg:maven/net.serenity-bdd/serenity-jbehave@1.40.0?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-jbehave@1.41.0
 - pkg:maven/net.serenity-bdd/serenity-jbehave@1.41.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.42.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.42.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.43.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.43.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.44.0
+- pkg:maven/net.serenity-bdd/serenity-jbehave@1.44.0?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-jbehave@1.5.0
 - pkg:maven/net.serenity-bdd/serenity-jbehave@1.5.0?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-jbehave@1.6.0

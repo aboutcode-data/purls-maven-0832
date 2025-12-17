@@ -12,3 +12,7 @@
 - pkg:maven/com.exceljava/jinx@0.2.2?classifier=sources
 - pkg:maven/com.exceljava/jinx@1.0.0
 - pkg:maven/com.exceljava/jinx@1.0.0?classifier=sources
+- pkg:maven/com.exceljava/jinx@1.3.0
+- pkg:maven/com.exceljava/jinx@1.3.0?classifier=sources
+- pkg:maven/com.exceljava/jinx@1.4.0
+- pkg:maven/com.exceljava/jinx@1.4.0?classifier=sources

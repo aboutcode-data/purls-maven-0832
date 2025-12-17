@@ -26,6 +26,8 @@
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.20.0?classifier=sources
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.21
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.21?classifier=sources
+- pkg:maven/de.alpharogroup/resourcebundle-inspector@2.22
+- pkg:maven/de.alpharogroup/resourcebundle-inspector@2.22?classifier=sources
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.3.0
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.3.0?classifier=sources
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.4.0
@@ -40,3 +42,5 @@
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.8.0?classifier=sources
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.9.0
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.9.0?classifier=sources
+- pkg:maven/de.alpharogroup/resourcebundle-inspector@3
+- pkg:maven/de.alpharogroup/resourcebundle-inspector@3?classifier=sources

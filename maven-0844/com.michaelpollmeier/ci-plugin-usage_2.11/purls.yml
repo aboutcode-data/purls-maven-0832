@@ -1,0 +1,2 @@
+- pkg:maven/com.michaelpollmeier/ci-plugin-usage_2.11@0.1.39
+- pkg:maven/com.michaelpollmeier/ci-plugin-usage_2.11@0.1.39?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/se.hiq.oss/json-schema-discovery@0.3?classifier=sources
 - pkg:maven/se.hiq.oss/json-schema-discovery@0.4
 - pkg:maven/se.hiq.oss/json-schema-discovery@0.4?classifier=sources
+- pkg:maven/se.hiq.oss/json-schema-discovery@0.5
+- pkg:maven/se.hiq.oss/json-schema-discovery@0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cn.ocoop.framework/safe-spring-boot-starter@1.0.0
+- pkg:maven/cn.ocoop.framework/safe-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/cn.ocoop.framework/safe-spring-boot-starter@1.1.0
+- pkg:maven/cn.ocoop.framework/safe-spring-boot-starter@1.1.0?classifier=sources

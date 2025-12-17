@@ -1,0 +1,4 @@
+- pkg:maven/tools.dynamia.zk.addons/aceditor-zk@1.0.0
+- pkg:maven/tools.dynamia.zk.addons/aceditor-zk@1.0.0?classifier=sources
+- pkg:maven/tools.dynamia.zk.addons/aceditor-zk@1.0.1
+- pkg:maven/tools.dynamia.zk.addons/aceditor-zk@1.0.1?classifier=sources

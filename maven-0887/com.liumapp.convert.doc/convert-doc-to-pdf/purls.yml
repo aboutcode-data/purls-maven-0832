@@ -1,0 +1,4 @@
+- pkg:maven/com.liumapp.convert.doc/convert-doc-to-pdf@v1.1.0
+- pkg:maven/com.liumapp.convert.doc/convert-doc-to-pdf@v1.1.0?classifier=sources
+- pkg:maven/com.liumapp.convert.doc/convert-doc-to-pdf@v1.1.1
+- pkg:maven/com.liumapp.convert.doc/convert-doc-to-pdf@v1.1.1?classifier=sources

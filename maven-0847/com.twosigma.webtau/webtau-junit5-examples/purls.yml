@@ -1,0 +1,9 @@
+- pkg:maven/com.twosigma.webtau/webtau-junit5-examples@0.23
+- pkg:maven/com.twosigma.webtau/webtau-junit5-examples@0.25
+- pkg:maven/com.twosigma.webtau/webtau-junit5-examples@0.27
+- pkg:maven/com.twosigma.webtau/webtau-junit5-examples@0.28
+- pkg:maven/com.twosigma.webtau/webtau-junit5-examples@0.29
+- pkg:maven/com.twosigma.webtau/webtau-junit5-examples@0.30
+- pkg:maven/com.twosigma.webtau/webtau-junit5-examples@0.31
+- pkg:maven/com.twosigma.webtau/webtau-junit5-examples@1.0
+- pkg:maven/com.twosigma.webtau/webtau-junit5-examples@1.1

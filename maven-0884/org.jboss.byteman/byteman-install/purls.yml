@@ -33,6 +33,8 @@
 - pkg:maven/org.jboss.byteman/byteman-install@3.0.11?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-install@3.0.12
 - pkg:maven/org.jboss.byteman/byteman-install@3.0.12?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-install@3.0.13
+- pkg:maven/org.jboss.byteman/byteman-install@3.0.13?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-install@3.0.1?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-install@3.0.2
 - pkg:maven/org.jboss.byteman/byteman-install@3.0.2?classifier=sources
@@ -70,3 +72,9 @@
 - pkg:maven/org.jboss.byteman/byteman-install@4.0.1?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-install@4.0.2
 - pkg:maven/org.jboss.byteman/byteman-install@4.0.2?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-install@4.0.3
+- pkg:maven/org.jboss.byteman/byteman-install@4.0.3?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-install@4.0.4
+- pkg:maven/org.jboss.byteman/byteman-install@4.0.4?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-install@4.0.5
+- pkg:maven/org.jboss.byteman/byteman-install@4.0.5?classifier=sources

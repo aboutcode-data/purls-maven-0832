@@ -102,3 +102,17 @@
 - pkg:maven/org.lastaflute.doc/lasta-doc@0.3.1?classifier=sources
 - pkg:maven/org.lastaflute.doc/lasta-doc@0.3.2
 - pkg:maven/org.lastaflute.doc/lasta-doc@0.3.2?classifier=sources
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.3
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.3?classifier=sources
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC1
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC1?classifier=sources
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC2
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC2?classifier=sources
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC3
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC3?classifier=sources
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC4
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC4?classifier=sources
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC5
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4-RC5?classifier=sources
+- pkg:maven/org.lastaflute.doc/lasta-doc@0.3.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.ws/jbossws-wildfly1400-tests-integration@5.2.3.Final
+- pkg:maven/org.jboss.ws/jbossws-wildfly1400-tests-integration@5.2.3.Final?classifier=sources

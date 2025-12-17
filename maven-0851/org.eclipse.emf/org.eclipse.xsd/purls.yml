@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.emf/org.eclipse.xsd@2.15.0
+- pkg:maven/org.eclipse.emf/org.eclipse.xsd@2.15.0?classifier=sources

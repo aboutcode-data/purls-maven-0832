@@ -2,3 +2,5 @@
 - pkg:maven/com.torodb.engine.backend/test-tools@0.50.1?classifier=sources
 - pkg:maven/com.torodb.engine.backend/test-tools@0.50.2
 - pkg:maven/com.torodb.engine.backend/test-tools@0.50.2?classifier=sources
+- pkg:maven/com.torodb.engine.backend/test-tools@0.50.3
+- pkg:maven/com.torodb.engine.backend/test-tools@0.50.3?classifier=sources

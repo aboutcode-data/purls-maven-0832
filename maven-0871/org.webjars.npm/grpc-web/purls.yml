@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/grpc-web@0.4.0
+- pkg:maven/org.webjars.npm/grpc-web@0.4.0?classifier=sources

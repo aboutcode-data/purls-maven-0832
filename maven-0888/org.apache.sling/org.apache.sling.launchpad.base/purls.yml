@@ -71,3 +71,12 @@
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@5.6.8-2.6.24
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@5.6.8-2.6.24?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@5.6.8-2.6.24?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@6.0.0-2.6.28
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@6.0.0-2.6.28?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@6.0.0-2.6.28?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@6.0.1-2.6.30
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@6.0.1-2.6.30?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@6.0.1-2.6.30?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@6.0.1-2.6.32
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@6.0.1-2.6.32?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.base@6.0.1-2.6.32?classifier=sources

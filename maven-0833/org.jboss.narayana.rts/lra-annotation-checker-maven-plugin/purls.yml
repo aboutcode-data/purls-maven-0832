@@ -4,3 +4,5 @@
 - pkg:maven/org.jboss.narayana.rts/lra-annotation-checker-maven-plugin@5.8.1.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.rts/lra-annotation-checker-maven-plugin@5.8.2.Final
 - pkg:maven/org.jboss.narayana.rts/lra-annotation-checker-maven-plugin@5.8.2.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.rts/lra-annotation-checker-maven-plugin@5.9.0.Final
+- pkg:maven/org.jboss.narayana.rts/lra-annotation-checker-maven-plugin@5.9.0.Final?classifier=sources

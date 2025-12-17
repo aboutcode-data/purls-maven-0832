@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.ditto/ditto-services-thingsearch-query@0.3.0-M1?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-services-thingsearch-query@0.3.0-M2
 - pkg:maven/org.eclipse.ditto/ditto-services-thingsearch-query@0.3.0-M2?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-thingsearch-query@0.8.0-M1
+- pkg:maven/org.eclipse.ditto/ditto-services-thingsearch-query@0.8.0-M1?classifier=sources

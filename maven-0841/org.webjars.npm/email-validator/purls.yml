@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/email-validator@2.0.4
+- pkg:maven/org.webjars.npm/email-validator@2.0.4?classifier=sources

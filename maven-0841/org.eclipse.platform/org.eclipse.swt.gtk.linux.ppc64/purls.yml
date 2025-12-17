@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.gtk.linux.ppc64@3.106.2?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.gtk.linux.ppc64@3.106.3
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.gtk.linux.ppc64@3.106.3?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.gtk.linux.ppc64@3.107.0
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.gtk.linux.ppc64@3.107.0?classifier=sources

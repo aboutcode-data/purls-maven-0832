@@ -15,6 +15,12 @@
 - pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.1
 - pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.10
 - pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.10?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.11
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.11?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.12
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.12?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.13
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.13?classifier=sources
 - pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.1?classifier=sources
 - pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.2
 - pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.2?classifier=sources

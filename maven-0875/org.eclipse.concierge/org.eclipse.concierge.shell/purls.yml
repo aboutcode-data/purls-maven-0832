@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.concierge/org.eclipse.concierge.shell@5.0.0
+- pkg:maven/org.eclipse.concierge/org.eclipse.concierge.shell@5.0.0?classifier=sources

@@ -1,5 +1,11 @@
 - pkg:maven/org.jmock/jmock-legacy@2.1.0
 - pkg:maven/org.jmock/jmock-legacy@2.1.0-RC4
+- pkg:maven/org.jmock/jmock-legacy@2.10.0-RC1
+- pkg:maven/org.jmock/jmock-legacy@2.10.0-RC1?classifier=sources
+- pkg:maven/org.jmock/jmock-legacy@2.10.0-RC2
+- pkg:maven/org.jmock/jmock-legacy@2.10.0-RC2?classifier=sources
+- pkg:maven/org.jmock/jmock-legacy@2.10.0-RC3
+- pkg:maven/org.jmock/jmock-legacy@2.10.0-RC3?classifier=sources
 - pkg:maven/org.jmock/jmock-legacy@2.2.0
 - pkg:maven/org.jmock/jmock-legacy@2.2.0-RC1
 - pkg:maven/org.jmock/jmock-legacy@2.2.0-RC1?classifier=sources
@@ -27,3 +33,5 @@
 - pkg:maven/org.jmock/jmock-legacy@2.8.3?classifier=sources
 - pkg:maven/org.jmock/jmock-legacy@2.8.4
 - pkg:maven/org.jmock/jmock-legacy@2.8.4?classifier=sources
+- pkg:maven/org.jmock/jmock-legacy@2.9.0
+- pkg:maven/org.jmock/jmock-legacy@2.9.0?classifier=sources

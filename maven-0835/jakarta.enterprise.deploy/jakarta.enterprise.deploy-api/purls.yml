@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.enterprise.deploy/jakarta.enterprise.deploy-api@1.7.1
+- pkg:maven/jakarta.enterprise.deploy/jakarta.enterprise.deploy-api@1.7.1?classifier=sources

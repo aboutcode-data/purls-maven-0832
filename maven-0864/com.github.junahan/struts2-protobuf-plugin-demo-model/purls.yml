@@ -1,0 +1,2 @@
+- pkg:maven/com.github.junahan/struts2-protobuf-plugin-demo-model@1.0.0
+- pkg:maven/com.github.junahan/struts2-protobuf-plugin-demo-model@1.0.0?classifier=sources

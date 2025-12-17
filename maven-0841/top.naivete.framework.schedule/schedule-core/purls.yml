@@ -1,0 +1,2 @@
+- pkg:maven/top.naivete.framework.schedule/schedule-core@1.0.0
+- pkg:maven/top.naivete.framework.schedule/schedule-core@1.0.0?classifier=sources

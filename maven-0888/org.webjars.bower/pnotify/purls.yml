@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.bower/pnotify@3.2.1?classifier=sources
 - pkg:maven/org.webjars.bower/pnotify@4.0.0-alpha.2
 - pkg:maven/org.webjars.bower/pnotify@4.0.0-alpha.2?classifier=sources
+- pkg:maven/org.webjars.bower/pnotify@4.0.0-alpha.4
+- pkg:maven/org.webjars.bower/pnotify@4.0.0-alpha.4?classifier=sources

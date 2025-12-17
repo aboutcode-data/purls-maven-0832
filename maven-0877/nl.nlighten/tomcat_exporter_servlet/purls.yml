@@ -6,3 +6,5 @@
 - pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.5?type=war
 - pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.6?classifier=sources
 - pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.6?type=war
+- pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.7?classifier=sources
+- pkg:maven/nl.nlighten/tomcat_exporter_servlet@0.0.7?type=war

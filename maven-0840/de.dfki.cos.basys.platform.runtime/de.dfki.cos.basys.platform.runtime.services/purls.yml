@@ -1,0 +1,2 @@
+- pkg:maven/de.dfki.cos.basys.platform.runtime/de.dfki.cos.basys.platform.runtime.services@0.2.0
+- pkg:maven/de.dfki.cos.basys.platform.runtime/de.dfki.cos.basys.platform.runtime.services@0.2.0?classifier=sources

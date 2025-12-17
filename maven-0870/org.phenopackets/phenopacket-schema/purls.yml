@@ -1,0 +1,2 @@
+- pkg:maven/org.phenopackets/phenopacket-schema@0.0.7
+- pkg:maven/org.phenopackets/phenopacket-schema@0.0.7?classifier=sources

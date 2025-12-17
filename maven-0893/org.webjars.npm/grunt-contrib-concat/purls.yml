@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/grunt-contrib-concat@0.5.1
 - pkg:maven/org.webjars.npm/grunt-contrib-concat@0.5.1?classifier=sources
+- pkg:maven/org.webjars.npm/grunt-contrib-concat@1.0.1
+- pkg:maven/org.webjars.npm/grunt-contrib-concat@1.0.1?classifier=sources

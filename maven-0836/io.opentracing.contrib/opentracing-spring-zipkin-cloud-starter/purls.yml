@@ -1,0 +1,2 @@
+- pkg:maven/io.opentracing.contrib/opentracing-spring-zipkin-cloud-starter@0.1.4
+- pkg:maven/io.opentracing.contrib/opentracing-spring-zipkin-cloud-starter@0.2.0

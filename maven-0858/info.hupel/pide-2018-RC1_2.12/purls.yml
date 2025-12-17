@@ -1,0 +1,2 @@
+- pkg:maven/info.hupel/pide-2018-RC1_2.12@1.0.0-RC2
+- pkg:maven/info.hupel/pide-2018-RC1_2.12@1.0.0-RC2?classifier=sources

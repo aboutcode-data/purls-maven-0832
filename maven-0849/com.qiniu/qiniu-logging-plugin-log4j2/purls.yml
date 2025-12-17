@@ -1,0 +1,2 @@
+- pkg:maven/com.qiniu/qiniu-logging-plugin-log4j2@1.0.0
+- pkg:maven/com.qiniu/qiniu-logging-plugin-log4j2@1.0.0?classifier=sources

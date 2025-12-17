@@ -1,0 +1,2 @@
+- pkg:maven/be.atbash.json/octopus-accessors-smart@0.9.1
+- pkg:maven/be.atbash.json/octopus-accessors-smart@0.9.1?classifier=sources

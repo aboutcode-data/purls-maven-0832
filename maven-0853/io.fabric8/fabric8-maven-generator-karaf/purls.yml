@@ -265,8 +265,16 @@
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.39
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.39?classifier=sources
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.4
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.40
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.40?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.41
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.41?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.42
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.42?classifier=sources
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.4?classifier=sources
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.5
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.5?classifier=sources
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.9
 - pkg:maven/io.fabric8/fabric8-maven-generator-karaf@3.5.9?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@4.0.0-M1
+- pkg:maven/io.fabric8/fabric8-maven-generator-karaf@4.0.0-M1?classifier=sources

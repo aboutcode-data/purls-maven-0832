@@ -1,0 +1,2 @@
+- pkg:maven/com.github.deniswsrosa/liquicouch@0.6.4
+- pkg:maven/com.github.deniswsrosa/liquicouch@0.6.4?classifier=sources

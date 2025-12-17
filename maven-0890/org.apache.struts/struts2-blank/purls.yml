@@ -87,6 +87,10 @@
 - pkg:maven/org.apache.struts/struts2-blank@2.3.33?type=war
 - pkg:maven/org.apache.struts/struts2-blank@2.3.34?classifier=sources
 - pkg:maven/org.apache.struts/struts2-blank@2.3.34?type=war
+- pkg:maven/org.apache.struts/struts2-blank@2.3.35?classifier=sources
+- pkg:maven/org.apache.struts/struts2-blank@2.3.35?type=war
+- pkg:maven/org.apache.struts/struts2-blank@2.3.36?classifier=sources
+- pkg:maven/org.apache.struts/struts2-blank@2.3.36?type=war
 - pkg:maven/org.apache.struts/struts2-blank@2.3.3?classifier=sources
 - pkg:maven/org.apache.struts/struts2-blank@2.3.3?type=war
 - pkg:maven/org.apache.struts/struts2-blank@2.3.4.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.spinoco/fs2-kafka_2.11@0.2.0-RC1
 - pkg:maven/com.spinoco/fs2-kafka_2.11@0.2.0-RC1?classifier=sources
 - pkg:maven/com.spinoco/fs2-kafka_2.11@0.2.0?classifier=sources
+- pkg:maven/com.spinoco/fs2-kafka_2.11@0.4.0-M2
+- pkg:maven/com.spinoco/fs2-kafka_2.11@0.4.0-M2?classifier=sources

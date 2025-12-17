@@ -1,0 +1,4 @@
+- pkg:maven/org.togglz/togglz-junit5@2.6.0.Final
+- pkg:maven/org.togglz/togglz-junit5@2.6.0.Final?classifier=sources
+- pkg:maven/org.togglz/togglz-junit5@2.6.1.Final
+- pkg:maven/org.togglz/togglz-junit5@2.6.1.Final?classifier=sources

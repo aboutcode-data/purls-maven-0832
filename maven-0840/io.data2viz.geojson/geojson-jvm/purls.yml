@@ -1,0 +1,4 @@
+- pkg:maven/io.data2viz.geojson/geojson-jvm@0.6.0
+- pkg:maven/io.data2viz.geojson/geojson-jvm@0.6.0-RC2
+- pkg:maven/io.data2viz.geojson/geojson-jvm@0.6.0-RC2?classifier=sources
+- pkg:maven/io.data2viz.geojson/geojson-jvm@0.6.0?classifier=sources

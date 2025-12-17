@@ -2,3 +2,5 @@
 - pkg:maven/eu.toop/toop-connector-api@0.9.0?classifier=sources
 - pkg:maven/eu.toop/toop-connector-api@0.9.1
 - pkg:maven/eu.toop/toop-connector-api@0.9.1?classifier=sources
+- pkg:maven/eu.toop/toop-connector-api@0.9.2
+- pkg:maven/eu.toop/toop-connector-api@0.9.2?classifier=sources

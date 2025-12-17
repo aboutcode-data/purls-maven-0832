@@ -10,3 +10,10 @@
 - pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.16.1?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.17.0?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.17.1?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.18.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.19.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.20.1?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.21.1?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.22.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.23.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/cloud-servicesdk-odatav4-quickstart@1.24.0?classifier=sources

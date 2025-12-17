@@ -12,3 +12,7 @@
 - pkg:maven/com.sndyuk/logback-more-appenders@1.4.2?classifier=sources
 - pkg:maven/com.sndyuk/logback-more-appenders@1.4.3
 - pkg:maven/com.sndyuk/logback-more-appenders@1.4.3?classifier=sources
+- pkg:maven/com.sndyuk/logback-more-appenders@1.4.4
+- pkg:maven/com.sndyuk/logback-more-appenders@1.4.4?classifier=sources
+- pkg:maven/com.sndyuk/logback-more-appenders@1.5.0
+- pkg:maven/com.sndyuk/logback-more-appenders@1.5.0?classifier=sources

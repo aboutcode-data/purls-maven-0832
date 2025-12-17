@@ -10,3 +10,4 @@
 - pkg:maven/org.flowable/flowable-spring-boot-starter-integration@6.2.1
 - pkg:maven/org.flowable/flowable-spring-boot-starter-integration@6.3.0
 - pkg:maven/org.flowable/flowable-spring-boot-starter-integration@6.3.1
+- pkg:maven/org.flowable/flowable-spring-boot-starter-integration@6.4.0

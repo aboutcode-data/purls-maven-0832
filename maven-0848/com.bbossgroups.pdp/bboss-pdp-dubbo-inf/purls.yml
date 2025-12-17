@@ -14,3 +14,9 @@
 - pkg:maven/com.bbossgroups.pdp/bboss-pdp-dubbo-inf@5.0.5.0?classifier=sources
 - pkg:maven/com.bbossgroups.pdp/bboss-pdp-dubbo-inf@5.0.5.7
 - pkg:maven/com.bbossgroups.pdp/bboss-pdp-dubbo-inf@5.0.5.7?classifier=sources
+- pkg:maven/com.bbossgroups.pdp/bboss-pdp-dubbo-inf@5.0.6.2
+- pkg:maven/com.bbossgroups.pdp/bboss-pdp-dubbo-inf@5.0.6.2?classifier=sources
+- pkg:maven/com.bbossgroups.pdp/bboss-pdp-dubbo-inf@5.0.9
+- pkg:maven/com.bbossgroups.pdp/bboss-pdp-dubbo-inf@5.0.9?classifier=sources
+- pkg:maven/com.bbossgroups.pdp/bboss-pdp-dubbo-inf@5.1.2
+- pkg:maven/com.bbossgroups.pdp/bboss-pdp-dubbo-inf@5.1.2?classifier=sources

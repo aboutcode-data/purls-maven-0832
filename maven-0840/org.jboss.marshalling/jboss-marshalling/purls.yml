@@ -112,3 +112,5 @@
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.4.Final?classifier=sources
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.5.Final
 - pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.5.Final?classifier=sources
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.6.Final
+- pkg:maven/org.jboss.marshalling/jboss-marshalling@2.0.6.Final?classifier=sources

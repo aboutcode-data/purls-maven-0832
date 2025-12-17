@@ -1,0 +1,4 @@
+- pkg:maven/com.xfmeet/aspect-log@1.0
+- pkg:maven/com.xfmeet/aspect-log@1.0.0
+- pkg:maven/com.xfmeet/aspect-log@1.0.0?classifier=sources
+- pkg:maven/com.xfmeet/aspect-log@1.0?classifier=sources

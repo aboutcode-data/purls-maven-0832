@@ -1,0 +1,4 @@
+- pkg:maven/cn.antcore/spring-boot-starter-ant-kafka@0.0.1-RELEASE
+- pkg:maven/cn.antcore/spring-boot-starter-ant-kafka@0.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.antcore/spring-boot-starter-ant-kafka@0.0.2-RELEASE
+- pkg:maven/cn.antcore/spring-boot-starter-ant-kafka@0.0.2-RELEASE?classifier=sources

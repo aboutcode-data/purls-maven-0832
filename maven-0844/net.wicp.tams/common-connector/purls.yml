@@ -32,3 +32,7 @@
 - pkg:maven/net.wicp.tams/common-connector@3.5.0?classifier=sources
 - pkg:maven/net.wicp.tams/common-connector@3.5.1
 - pkg:maven/net.wicp.tams/common-connector@3.5.1?classifier=sources
+- pkg:maven/net.wicp.tams/common-connector@3.5.7
+- pkg:maven/net.wicp.tams/common-connector@3.5.7?classifier=sources
+- pkg:maven/net.wicp.tams/common-connector@3.5.8
+- pkg:maven/net.wicp.tams/common-connector@3.5.8?classifier=sources

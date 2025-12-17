@@ -18,3 +18,5 @@
 - pkg:maven/org.bitbucket.mstrobel/procyon-reflection@0.5.31?classifier=sources
 - pkg:maven/org.bitbucket.mstrobel/procyon-reflection@0.5.32
 - pkg:maven/org.bitbucket.mstrobel/procyon-reflection@0.5.32?classifier=sources
+- pkg:maven/org.bitbucket.mstrobel/procyon-reflection@0.5.33
+- pkg:maven/org.bitbucket.mstrobel/procyon-reflection@0.5.33?classifier=sources

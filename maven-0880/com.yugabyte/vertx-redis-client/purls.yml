@@ -1,0 +1,2 @@
+- pkg:maven/com.yugabyte/vertx-redis-client@3.5.3-yb-1
+- pkg:maven/com.yugabyte/vertx-redis-client@3.5.3-yb-1?classifier=sources

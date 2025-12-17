@@ -1,0 +1,2 @@
+- pkg:maven/com.bandyer/paris@1.0.0?classifier=sources
+- pkg:maven/com.bandyer/paris@1.0.0?type=aar

@@ -39,6 +39,10 @@
 - pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.5.9
 - pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.5.9?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.6.0-M1
+- pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.6.0-M10
+- pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.6.0-M10?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.6.0-M11
+- pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.6.0-M11?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.6.0-M1?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.6.0-M2
 - pkg:maven/ch.epfl.scala/scalafix-core_sjs0.6_2.11@0.6.0-M2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jzenith/jzenith-example-redis@0.1
+- pkg:maven/org.jzenith/jzenith-example-redis@0.1?classifier=sources

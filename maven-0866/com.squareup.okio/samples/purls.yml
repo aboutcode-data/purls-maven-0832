@@ -2,3 +2,7 @@
 - pkg:maven/com.squareup.okio/samples@1.14.0?classifier=sources
 - pkg:maven/com.squareup.okio/samples@1.14.1
 - pkg:maven/com.squareup.okio/samples@1.14.1?classifier=sources
+- pkg:maven/com.squareup.okio/samples@1.15.0
+- pkg:maven/com.squareup.okio/samples@1.15.0?classifier=sources
+- pkg:maven/com.squareup.okio/samples@1.16.0
+- pkg:maven/com.squareup.okio/samples@1.16.0?classifier=sources

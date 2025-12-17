@@ -16,3 +16,5 @@
 - pkg:maven/org.zalando.stups/k8s-node-detector@0.12.0-beta-1
 - pkg:maven/org.zalando.stups/k8s-node-detector@0.12.0-beta-1?classifier=sources
 - pkg:maven/org.zalando.stups/k8s-node-detector@0.12.0?classifier=sources
+- pkg:maven/org.zalando.stups/k8s-node-detector@0.13.0
+- pkg:maven/org.zalando.stups/k8s-node-detector@0.13.0?classifier=sources

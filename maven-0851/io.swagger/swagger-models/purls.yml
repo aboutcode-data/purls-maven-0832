@@ -25,6 +25,8 @@
 - pkg:maven/io.swagger/swagger-models@1.5.2
 - pkg:maven/io.swagger/swagger-models@1.5.20
 - pkg:maven/io.swagger/swagger-models@1.5.20?classifier=sources
+- pkg:maven/io.swagger/swagger-models@1.5.21
+- pkg:maven/io.swagger/swagger-models@1.5.21?classifier=sources
 - pkg:maven/io.swagger/swagger-models@1.5.2?classifier=sources
 - pkg:maven/io.swagger/swagger-models@1.5.3
 - pkg:maven/io.swagger/swagger-models@1.5.3?classifier=sources

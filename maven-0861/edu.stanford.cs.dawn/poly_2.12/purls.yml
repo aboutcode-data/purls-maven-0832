@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.cs.dawn/poly_2.12@1.0
+- pkg:maven/edu.stanford.cs.dawn/poly_2.12@1.0?classifier=sources

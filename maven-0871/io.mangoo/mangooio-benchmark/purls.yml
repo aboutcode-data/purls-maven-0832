@@ -112,6 +112,16 @@
 - pkg:maven/io.mangoo/mangooio-benchmark@4.13.0-RC3
 - pkg:maven/io.mangoo/mangooio-benchmark@4.13.0-RC3?classifier=sources
 - pkg:maven/io.mangoo/mangooio-benchmark@4.13.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-benchmark@4.14.0
+- pkg:maven/io.mangoo/mangooio-benchmark@4.14.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-benchmark@4.15.0
+- pkg:maven/io.mangoo/mangooio-benchmark@4.15.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-benchmark@4.16.0
+- pkg:maven/io.mangoo/mangooio-benchmark@4.16.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-benchmark@4.17.0
+- pkg:maven/io.mangoo/mangooio-benchmark@4.17.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-benchmark@4.18.0
+- pkg:maven/io.mangoo/mangooio-benchmark@4.18.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-benchmark@4.2.0
 - pkg:maven/io.mangoo/mangooio-benchmark@4.2.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-benchmark@4.2.1

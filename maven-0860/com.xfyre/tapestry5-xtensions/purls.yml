@@ -1,2 +1,4 @@
 - pkg:maven/com.xfyre/tapestry5-xtensions@0.92-RELEASE
 - pkg:maven/com.xfyre/tapestry5-xtensions@0.92-RELEASE?classifier=sources
+- pkg:maven/com.xfyre/tapestry5-xtensions@0.98
+- pkg:maven/com.xfyre/tapestry5-xtensions@0.98?classifier=sources

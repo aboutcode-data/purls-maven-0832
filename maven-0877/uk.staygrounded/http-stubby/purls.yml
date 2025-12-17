@@ -1,2 +1,4 @@
 - pkg:maven/uk.staygrounded/http-stubby@1.0
 - pkg:maven/uk.staygrounded/http-stubby@1.0?classifier=sources
+- pkg:maven/uk.staygrounded/http-stubby@1.2
+- pkg:maven/uk.staygrounded/http-stubby@1.2?classifier=sources

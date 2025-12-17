@@ -1,2 +1,8 @@
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2018-04-10
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2018-04-10?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2018-11-06
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2018-11-06?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2018-11-25
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2018-11-25?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2018-11-29
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2018-11-29?classifier=sources

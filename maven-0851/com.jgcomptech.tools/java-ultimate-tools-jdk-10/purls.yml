@@ -1,0 +1,2 @@
+- pkg:maven/com.jgcomptech.tools/java-ultimate-tools-jdk-10@1.5.1
+- pkg:maven/com.jgcomptech.tools/java-ultimate-tools-jdk-10@1.5.1?classifier=sources

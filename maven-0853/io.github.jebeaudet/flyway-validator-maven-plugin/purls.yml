@@ -7,3 +7,5 @@
 - pkg:maven/io.github.jebeaudet/flyway-validator-maven-plugin@0.3.3?classifier=sources
 - pkg:maven/io.github.jebeaudet/flyway-validator-maven-plugin@0.3.4
 - pkg:maven/io.github.jebeaudet/flyway-validator-maven-plugin@0.3.4?classifier=sources
+- pkg:maven/io.github.jebeaudet/flyway-validator-maven-plugin@0.4
+- pkg:maven/io.github.jebeaudet/flyway-validator-maven-plugin@0.4?classifier=sources

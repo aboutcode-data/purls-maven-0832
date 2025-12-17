@@ -22,3 +22,5 @@
 - pkg:maven/com.plenigo/java-sdk-commons@1.7.1?classifier=sources
 - pkg:maven/com.plenigo/java-sdk-commons@1.7.2
 - pkg:maven/com.plenigo/java-sdk-commons@1.7.2?classifier=sources
+- pkg:maven/com.plenigo/java-sdk-commons@1.7.3
+- pkg:maven/com.plenigo/java-sdk-commons@1.7.3?classifier=sources

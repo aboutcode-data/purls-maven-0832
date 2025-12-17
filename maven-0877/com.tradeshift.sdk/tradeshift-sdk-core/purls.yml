@@ -1,0 +1,2 @@
+- pkg:maven/com.tradeshift.sdk/tradeshift-sdk-core@0.2.0
+- pkg:maven/com.tradeshift.sdk/tradeshift-sdk-core@0.2.0?classifier=sources

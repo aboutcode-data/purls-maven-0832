@@ -1,0 +1,5 @@
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.10.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.11.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.12.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.13.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.14.0?classifier=source-release&type=zip

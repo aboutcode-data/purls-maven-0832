@@ -1,0 +1,6 @@
+- pkg:maven/social.midas/discovery-aws-ecs_2.12@0.3.2
+- pkg:maven/social.midas/discovery-aws-ecs_2.12@0.3.2?classifier=sources
+- pkg:maven/social.midas/discovery-aws-ecs_2.12@0.3.4
+- pkg:maven/social.midas/discovery-aws-ecs_2.12@0.3.4?classifier=sources
+- pkg:maven/social.midas/discovery-aws-ecs_2.12@0.3.5
+- pkg:maven/social.midas/discovery-aws-ecs_2.12@0.3.5?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.gabrielittner.auto.value/auto-value-cursor-annotations@1.0.1?classifier=sources
 - pkg:maven/com.gabrielittner.auto.value/auto-value-cursor-annotations@1.1.0
 - pkg:maven/com.gabrielittner.auto.value/auto-value-cursor-annotations@1.1.0?classifier=sources
+- pkg:maven/com.gabrielittner.auto.value/auto-value-cursor-annotations@2.0.0-rc1
+- pkg:maven/com.gabrielittner.auto.value/auto-value-cursor-annotations@2.0.0-rc1?classifier=sources

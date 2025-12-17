@@ -6,3 +6,5 @@
 - pkg:maven/com.github.kuljaninemir/spring-boot-ftp-client@2.0.01?classifier=sources
 - pkg:maven/com.github.kuljaninemir/spring-boot-ftp-client@2.0.03
 - pkg:maven/com.github.kuljaninemir/spring-boot-ftp-client@2.0.03?classifier=sources
+- pkg:maven/com.github.kuljaninemir/spring-boot-ftp-client@2.0.05
+- pkg:maven/com.github.kuljaninemir/spring-boot-ftp-client@2.0.05?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/net.stickycode.composite/sticky-composite-unittest@2.1
 - pkg:maven/net.stickycode.composite/sticky-composite-unittest@3.6
 - pkg:maven/net.stickycode.composite/sticky-composite-unittest@3.7
+- pkg:maven/net.stickycode.composite/sticky-composite-unittest@4.1

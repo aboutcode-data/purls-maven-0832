@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/postcss-media-query-parser@0.2.3
+- pkg:maven/org.webjars.npm/postcss-media-query-parser@0.2.3?classifier=sources

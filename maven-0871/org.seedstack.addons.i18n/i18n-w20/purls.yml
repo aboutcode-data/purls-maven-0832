@@ -1,0 +1,2 @@
+- pkg:maven/org.seedstack.addons.i18n/i18n-w20@4.1.0
+- pkg:maven/org.seedstack.addons.i18n/i18n-w20@4.1.0?classifier=sources

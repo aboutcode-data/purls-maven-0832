@@ -1,0 +1,2 @@
+- pkg:maven/io.higherkindness/skeuomorph_2.12@0.0.2
+- pkg:maven/io.higherkindness/skeuomorph_2.12@0.0.2?classifier=sources

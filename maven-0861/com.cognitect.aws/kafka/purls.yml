@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/kafka@675.2.368.0
+- pkg:maven/com.cognitect.aws/kafka@675.2.368.0?classifier=sources

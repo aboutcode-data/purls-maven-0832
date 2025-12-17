@@ -1,0 +1,2 @@
+- pkg:maven/pro.javatar.security/jwt-lib@0.0.1
+- pkg:maven/pro.javatar.security/jwt-lib@0.0.1?classifier=sources

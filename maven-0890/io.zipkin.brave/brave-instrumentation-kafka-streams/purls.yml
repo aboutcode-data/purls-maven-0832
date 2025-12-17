@@ -1,0 +1,4 @@
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.5.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.5.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.5.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.5.1?classifier=sources

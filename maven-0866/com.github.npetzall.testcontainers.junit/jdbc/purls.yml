@@ -2,3 +2,5 @@
 - pkg:maven/com.github.npetzall.testcontainers.junit/jdbc@0.0.4?classifier=sources
 - pkg:maven/com.github.npetzall.testcontainers.junit/jdbc@0.1.0
 - pkg:maven/com.github.npetzall.testcontainers.junit/jdbc@0.1.0?classifier=sources
+- pkg:maven/com.github.npetzall.testcontainers.junit/jdbc@1.10.1.0.0
+- pkg:maven/com.github.npetzall.testcontainers.junit/jdbc@1.10.1.0.0?classifier=sources

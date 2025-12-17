@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jerrymice/spring-boot-starter-jerrymice@0.0.2.beta6
+- pkg:maven/com.github.jerrymice/spring-boot-starter-jerrymice@0.0.2.beta6?classifier=sources

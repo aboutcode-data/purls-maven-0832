@@ -1,0 +1,2 @@
+- pkg:maven/com.github.swagger-akka-http/swagger-scala-module_2.13.0-M4@2.0.0
+- pkg:maven/com.github.swagger-akka-http/swagger-scala-module_2.13.0-M4@2.0.0?classifier=sources

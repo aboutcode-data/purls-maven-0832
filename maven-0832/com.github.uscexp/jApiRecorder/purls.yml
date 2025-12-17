@@ -8,3 +8,5 @@
 - pkg:maven/com.github.uscexp/jApiRecorder@1.2.0?classifier=sources
 - pkg:maven/com.github.uscexp/jApiRecorder@1.3.0-Beta
 - pkg:maven/com.github.uscexp/jApiRecorder@1.3.0-Beta?classifier=sources
+- pkg:maven/com.github.uscexp/jApiRecorder@1.4.0-Beta
+- pkg:maven/com.github.uscexp/jApiRecorder@1.4.0-Beta?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-mail@5.1.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-mail@6.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-mail@6.0.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@7.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@7.0.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@8.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-mail@8.0.0?type=war

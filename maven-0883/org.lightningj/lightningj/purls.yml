@@ -12,3 +12,13 @@
 - pkg:maven/org.lightningj/lightningj@0.4.2-Beta-2
 - pkg:maven/org.lightningj/lightningj@0.4.2-Beta-2?classifier=sources
 - pkg:maven/org.lightningj/lightningj@0.4.2-Beta?classifier=sources
+- pkg:maven/org.lightningj/lightningj@0.5.0-Beta
+- pkg:maven/org.lightningj/lightningj@0.5.0-Beta-rc1
+- pkg:maven/org.lightningj/lightningj@0.5.0-Beta-rc1?classifier=sources
+- pkg:maven/org.lightningj/lightningj@0.5.0-Beta-rc2
+- pkg:maven/org.lightningj/lightningj@0.5.0-Beta-rc2?classifier=sources
+- pkg:maven/org.lightningj/lightningj@0.5.0-Beta?classifier=sources
+- pkg:maven/org.lightningj/lightningj@0.5.1-Beta
+- pkg:maven/org.lightningj/lightningj@0.5.1-Beta-rc2
+- pkg:maven/org.lightningj/lightningj@0.5.1-Beta-rc2?classifier=sources
+- pkg:maven/org.lightningj/lightningj@0.5.1-Beta?classifier=sources

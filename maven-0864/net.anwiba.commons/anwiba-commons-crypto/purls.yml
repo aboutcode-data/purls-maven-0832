@@ -2,5 +2,7 @@
 - pkg:maven/net.anwiba.commons/anwiba-commons-crypto@1.0.126?classifier=sources
 - pkg:maven/net.anwiba.commons/anwiba-commons-crypto@1.0.140
 - pkg:maven/net.anwiba.commons/anwiba-commons-crypto@1.0.140?classifier=sources
+- pkg:maven/net.anwiba.commons/anwiba-commons-crypto@1.0.154
+- pkg:maven/net.anwiba.commons/anwiba-commons-crypto@1.0.154?classifier=sources
 - pkg:maven/net.anwiba.commons/anwiba-commons-crypto@1.0.76
 - pkg:maven/net.anwiba.commons/anwiba-commons-crypto@1.0.76?classifier=sources

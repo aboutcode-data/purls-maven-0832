@@ -1,0 +1,2 @@
+- pkg:maven/ru.kontur.extern-api/extern-api-java-sdk-httpclient@1.4
+- pkg:maven/ru.kontur.extern-api/extern-api-java-sdk-httpclient@1.4?classifier=sources

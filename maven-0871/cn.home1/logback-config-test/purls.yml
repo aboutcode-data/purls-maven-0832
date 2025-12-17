@@ -2,3 +2,7 @@
 - pkg:maven/cn.home1/logback-config-test@0.0.4.OSS?classifier=sources
 - pkg:maven/cn.home1/logback-config-test@0.0.5.OSS
 - pkg:maven/cn.home1/logback-config-test@0.0.5.OSS?classifier=sources
+- pkg:maven/cn.home1/logback-config-test@0.0.6.OSS
+- pkg:maven/cn.home1/logback-config-test@0.0.6.OSS?classifier=sources
+- pkg:maven/cn.home1/logback-config-test@0.0.7.OSS
+- pkg:maven/cn.home1/logback-config-test@0.0.7.OSS?classifier=sources

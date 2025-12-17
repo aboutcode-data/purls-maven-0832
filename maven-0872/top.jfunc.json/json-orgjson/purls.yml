@@ -1,0 +1,4 @@
+- pkg:maven/top.jfunc.json/json-orgjson@1.8.0
+- pkg:maven/top.jfunc.json/json-orgjson@1.8.0?classifier=sources
+- pkg:maven/top.jfunc.json/json-orgjson@1.8.1
+- pkg:maven/top.jfunc.json/json-orgjson@1.8.1?classifier=sources

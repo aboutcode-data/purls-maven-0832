@@ -1,0 +1,6 @@
+- pkg:maven/ch.streamly/chronicle-flux@0.0.6
+- pkg:maven/ch.streamly/chronicle-flux@0.0.6?classifier=sources
+- pkg:maven/ch.streamly/chronicle-flux@1.0.0
+- pkg:maven/ch.streamly/chronicle-flux@1.0.0?classifier=sources
+- pkg:maven/ch.streamly/chronicle-flux@1.0.1
+- pkg:maven/ch.streamly/chronicle-flux@1.0.1?classifier=sources

@@ -62,3 +62,17 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@2.0?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@2.1
 - pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@2.1?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@2.2-Beta-1
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@2.2-Beta-1?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@3.0
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@3.0-Beta-1
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@3.0-Beta-1?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@3.0.1
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@3.0.1?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@3.0?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@4.0-Alpha-1
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@4.0-Alpha-1?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@4.0-Alpha-2
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@4.0-Alpha-2?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@4.0-Alpha-3
+- pkg:maven/org.eurekaclinical/eurekaclinical-standard-apis@4.0-Alpha-3?classifier=sources

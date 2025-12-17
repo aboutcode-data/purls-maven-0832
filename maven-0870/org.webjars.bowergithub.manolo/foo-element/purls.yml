@@ -1,0 +1,12 @@
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta1
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta13
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta13?classifier=sources
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta2
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta3
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta3?classifier=sources
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta57
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta57?classifier=sources
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta58
+- pkg:maven/org.webjars.bowergithub.manolo/foo-element@0.0.1-beta58?classifier=sources

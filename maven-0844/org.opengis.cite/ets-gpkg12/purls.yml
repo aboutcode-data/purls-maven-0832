@@ -2,3 +2,5 @@
 - pkg:maven/org.opengis.cite/ets-gpkg12@0.5?classifier=sources
 - pkg:maven/org.opengis.cite/ets-gpkg12@0.6
 - pkg:maven/org.opengis.cite/ets-gpkg12@0.6?classifier=sources
+- pkg:maven/org.opengis.cite/ets-gpkg12@0.7
+- pkg:maven/org.opengis.cite/ets-gpkg12@0.7?classifier=sources

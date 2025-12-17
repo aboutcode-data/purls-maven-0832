@@ -1,0 +1,2 @@
+- pkg:maven/ch.tbmelabs/actuator-endpoints-security-utils@1.0.0
+- pkg:maven/ch.tbmelabs/actuator-endpoints-security-utils@1.0.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/ai.grakn/grakn-client@1.1.0?classifier=sources
 - pkg:maven/ai.grakn/grakn-client@1.2.0
 - pkg:maven/ai.grakn/grakn-client@1.2.0?classifier=sources
+- pkg:maven/ai.grakn/grakn-client@v1.1.0-226-g847ecff2d8e26f249422247d7665fe15f07b1744
+- pkg:maven/ai.grakn/grakn-client@v1.1.0-226-g847ecff2d8e26f249422247d7665fe15f07b1744?classifier=sources

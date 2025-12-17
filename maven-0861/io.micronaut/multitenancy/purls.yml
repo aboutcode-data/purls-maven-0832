@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut/multitenancy@1.0.0.RC2
+- pkg:maven/io.micronaut/multitenancy@1.0.0.RC2?classifier=sources

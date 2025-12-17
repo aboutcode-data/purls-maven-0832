@@ -1,2 +1,6 @@
 - pkg:maven/net.minecrell/terminalconsoleappender@1.0.0
 - pkg:maven/net.minecrell/terminalconsoleappender@1.0.0?classifier=sources
+- pkg:maven/net.minecrell/terminalconsoleappender@1.1.0
+- pkg:maven/net.minecrell/terminalconsoleappender@1.1.0?classifier=sources
+- pkg:maven/net.minecrell/terminalconsoleappender@1.1.1
+- pkg:maven/net.minecrell/terminalconsoleappender@1.1.1?classifier=sources

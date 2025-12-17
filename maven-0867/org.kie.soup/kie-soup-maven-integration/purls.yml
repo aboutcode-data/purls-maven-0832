@@ -1,3 +1,15 @@
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.10.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.10.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.11.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.11.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.12.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.12.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.13.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.13.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.14.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.14.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.15.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.15.0.Final?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.5.0.Final
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.5.0.t018
@@ -8,3 +20,7 @@
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.6.0.t022?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.7.0.Final
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.7.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.8.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.8.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.9.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.9.0.Final?classifier=sources

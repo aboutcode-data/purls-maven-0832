@@ -18,3 +18,7 @@
 - pkg:maven/com.kakawait/spring-security-cas-extension@0.7.1?classifier=sources
 - pkg:maven/com.kakawait/spring-security-cas-extension@0.8.0
 - pkg:maven/com.kakawait/spring-security-cas-extension@0.8.0?classifier=sources
+- pkg:maven/com.kakawait/spring-security-cas-extension@0.8.1
+- pkg:maven/com.kakawait/spring-security-cas-extension@0.8.1?classifier=sources
+- pkg:maven/com.kakawait/spring-security-cas-extension@1.0.0-beta-1
+- pkg:maven/com.kakawait/spring-security-cas-extension@1.0.0-beta-1?classifier=sources

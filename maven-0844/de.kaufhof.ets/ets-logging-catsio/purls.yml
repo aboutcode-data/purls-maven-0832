@@ -1,0 +1,2 @@
+- pkg:maven/de.kaufhof.ets/ets-logging-catsio@0.1.0
+- pkg:maven/de.kaufhof.ets/ets-logging-catsio@0.1.0?classifier=sources

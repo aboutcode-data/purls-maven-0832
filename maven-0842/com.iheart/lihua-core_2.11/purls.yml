@@ -1,0 +1,2 @@
+- pkg:maven/com.iheart/lihua-core_2.11@0.12
+- pkg:maven/com.iheart/lihua-core_2.11@0.12?classifier=sources

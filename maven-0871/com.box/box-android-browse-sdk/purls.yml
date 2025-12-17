@@ -12,3 +12,5 @@
 - pkg:maven/com.box/box-android-browse-sdk@2.0.2?type=aar
 - pkg:maven/com.box/box-android-browse-sdk@2.0.3?classifier=sources
 - pkg:maven/com.box/box-android-browse-sdk@2.0.3?type=aar
+- pkg:maven/com.box/box-android-browse-sdk@2.1.0?classifier=sources
+- pkg:maven/com.box/box-android-browse-sdk@2.1.0?type=aar

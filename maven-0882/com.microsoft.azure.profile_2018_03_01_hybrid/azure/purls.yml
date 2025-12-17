@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.profile_2018_03_01_hybrid/azure@1.0.0-beta
+- pkg:maven/com.microsoft.azure.profile_2018_03_01_hybrid/azure@1.0.0-beta?classifier=sources

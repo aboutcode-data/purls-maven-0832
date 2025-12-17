@@ -1,0 +1,2 @@
+- pkg:maven/com.slamdata/quasar-datasource-s3_2.12@10.0.3
+- pkg:maven/com.slamdata/quasar-datasource-s3_2.12@10.0.3?classifier=sources

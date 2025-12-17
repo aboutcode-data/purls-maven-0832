@@ -1,0 +1,2 @@
+- pkg:maven/tk.okou/vertx-lang-jphp-gen@3.6.0.CR1
+- pkg:maven/tk.okou/vertx-lang-jphp-gen@3.6.0.CR1?classifier=sources

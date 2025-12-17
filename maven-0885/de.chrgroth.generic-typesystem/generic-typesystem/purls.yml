@@ -6,3 +6,5 @@
 - pkg:maven/de.chrgroth.generic-typesystem/generic-typesystem@0.3.0?classifier=sources
 - pkg:maven/de.chrgroth.generic-typesystem/generic-typesystem@0.4.0
 - pkg:maven/de.chrgroth.generic-typesystem/generic-typesystem@0.4.0?classifier=sources
+- pkg:maven/de.chrgroth.generic-typesystem/generic-typesystem@0.5.0
+- pkg:maven/de.chrgroth.generic-typesystem/generic-typesystem@0.5.0?classifier=sources

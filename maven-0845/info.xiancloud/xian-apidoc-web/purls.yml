@@ -12,3 +12,5 @@
 - pkg:maven/info.xiancloud/xian-apidoc-web@0.2.0-pre3?type=war
 - pkg:maven/info.xiancloud/xian-apidoc-web@0.2.0-pre?classifier=sources
 - pkg:maven/info.xiancloud/xian-apidoc-web@0.2.0-pre?type=war
+- pkg:maven/info.xiancloud/xian-apidoc-web@0.2.1-pre0?classifier=sources
+- pkg:maven/info.xiancloud/xian-apidoc-web@0.2.1-pre0?type=war

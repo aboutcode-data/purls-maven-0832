@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.avro4s/avro4s-cats_2.13.0-M5@2.0.3
+- pkg:maven/com.sksamuel.avro4s/avro4s-cats_2.13.0-M5@2.0.3?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/ansi-regex@2.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/ansi-regex@3.0.0
 - pkg:maven/org.webjars.npm/ansi-regex@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/ansi-regex@4.0.0
+- pkg:maven/org.webjars.npm/ansi-regex@4.0.0?classifier=sources

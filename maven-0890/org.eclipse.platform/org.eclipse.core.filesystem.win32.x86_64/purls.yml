@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem.win32.x86_64@1.4.0
+- pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem.win32.x86_64@1.4.100

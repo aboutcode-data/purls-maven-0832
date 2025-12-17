@@ -1,0 +1,2 @@
+- pkg:maven/org.fcrepo/jetty-console-core@1.61
+- pkg:maven/org.fcrepo/jetty-console-core@1.61?classifier=sources

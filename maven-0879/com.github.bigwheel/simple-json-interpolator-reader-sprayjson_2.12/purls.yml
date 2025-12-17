@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bigwheel/simple-json-interpolator-reader-sprayjson_2.12@1.0
+- pkg:maven/com.github.bigwheel/simple-json-interpolator-reader-sprayjson_2.12@1.0?classifier=sources

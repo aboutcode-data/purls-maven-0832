@@ -1,0 +1,4 @@
+- pkg:maven/net.time4j/time4j-sqlxml@5.0
+- pkg:maven/net.time4j/time4j-sqlxml@5.0?classifier=sources
+- pkg:maven/net.time4j/time4j-sqlxml@5.1
+- pkg:maven/net.time4j/time4j-sqlxml@5.1?classifier=sources

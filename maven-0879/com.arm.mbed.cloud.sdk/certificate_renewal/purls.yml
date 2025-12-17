@@ -1,0 +1,2 @@
+- pkg:maven/com.arm.mbed.cloud.sdk/certificate_renewal@2.2.0
+- pkg:maven/com.arm.mbed.cloud.sdk/certificate_renewal@2.2.0?classifier=sources

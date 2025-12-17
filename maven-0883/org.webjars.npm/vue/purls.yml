@@ -46,8 +46,10 @@
 - pkg:maven/org.webjars.npm/vue@2.5.15?classifier=sources
 - pkg:maven/org.webjars.npm/vue@2.5.16
 - pkg:maven/org.webjars.npm/vue@2.5.16?classifier=sources
+- pkg:maven/org.webjars.npm/vue@2.5.17
 - pkg:maven/org.webjars.npm/vue@2.5.17-beta.0
 - pkg:maven/org.webjars.npm/vue@2.5.17-beta.0?classifier=sources
+- pkg:maven/org.webjars.npm/vue@2.5.17?classifier=sources
 - pkg:maven/org.webjars.npm/vue@2.5.2
 - pkg:maven/org.webjars.npm/vue@2.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/vue@2.5.3

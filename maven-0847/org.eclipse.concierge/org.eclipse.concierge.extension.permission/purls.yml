@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.concierge/org.eclipse.concierge.extension.permission@5.0.0
+- pkg:maven/org.eclipse.concierge/org.eclipse.concierge.extension.permission@5.0.0?classifier=sources

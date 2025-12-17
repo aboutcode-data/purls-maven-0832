@@ -1,2 +1,6 @@
 - pkg:maven/net.redpipe/redpipe-router@0.0.2
 - pkg:maven/net.redpipe/redpipe-router@0.0.2?classifier=sources
+- pkg:maven/net.redpipe/redpipe-router@0.0.3
+- pkg:maven/net.redpipe/redpipe-router@0.0.3?classifier=sources
+- pkg:maven/net.redpipe/redpipe-router@0.0.4
+- pkg:maven/net.redpipe/redpipe-router@0.0.4?classifier=sources

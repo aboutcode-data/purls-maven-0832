@@ -4,3 +4,7 @@
 - pkg:maven/org.uaparser/uap-scala_2.10@0.2.0?classifier=sources
 - pkg:maven/org.uaparser/uap-scala_2.10@0.3.0
 - pkg:maven/org.uaparser/uap-scala_2.10@0.3.0?classifier=sources
+- pkg:maven/org.uaparser/uap-scala_2.10@0.4.0
+- pkg:maven/org.uaparser/uap-scala_2.10@0.4.0?classifier=sources
+- pkg:maven/org.uaparser/uap-scala_2.10@0.5.0
+- pkg:maven/org.uaparser/uap-scala_2.10@0.5.0?classifier=sources

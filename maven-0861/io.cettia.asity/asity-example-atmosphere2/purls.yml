@@ -1,0 +1,2 @@
+- pkg:maven/io.cettia.asity/asity-example-atmosphere2@2.0.0?classifier=sources
+- pkg:maven/io.cettia.asity/asity-example-atmosphere2@2.0.0?type=war

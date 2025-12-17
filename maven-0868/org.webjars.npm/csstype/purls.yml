@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/csstype@2.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/csstype@2.5.3
 - pkg:maven/org.webjars.npm/csstype@2.5.3?classifier=sources
+- pkg:maven/org.webjars.npm/csstype@2.5.6
+- pkg:maven/org.webjars.npm/csstype@2.5.6?classifier=sources
+- pkg:maven/org.webjars.npm/csstype@2.5.7
+- pkg:maven/org.webjars.npm/csstype@2.5.7?classifier=sources

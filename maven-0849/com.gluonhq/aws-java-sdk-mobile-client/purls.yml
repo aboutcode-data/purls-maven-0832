@@ -1,2 +1,4 @@
 - pkg:maven/com.gluonhq/aws-java-sdk-mobile-client@2.6.19
+- pkg:maven/com.gluonhq/aws-java-sdk-mobile-client@2.6.19-b2
+- pkg:maven/com.gluonhq/aws-java-sdk-mobile-client@2.6.19-b2?classifier=sources
 - pkg:maven/com.gluonhq/aws-java-sdk-mobile-client@2.6.19?classifier=sources

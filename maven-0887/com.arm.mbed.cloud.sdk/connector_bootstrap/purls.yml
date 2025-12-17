@@ -1,2 +1,12 @@
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@1.2.10
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@1.2.10?classifier=sources
 - pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@1.2.8
 - pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@1.2.8?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@1.2.9
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@1.2.9?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@2.0.0
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@2.0.0?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@2.1.0
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@2.1.0?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@2.2.0
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@2.2.0?classifier=sources

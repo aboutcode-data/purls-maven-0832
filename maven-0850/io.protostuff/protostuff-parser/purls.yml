@@ -138,3 +138,11 @@
 - pkg:maven/io.protostuff/protostuff-parser@2.1.9?classifier=sources
 - pkg:maven/io.protostuff/protostuff-parser@2.2.18
 - pkg:maven/io.protostuff/protostuff-parser@2.2.18?classifier=sources
+- pkg:maven/io.protostuff/protostuff-parser@2.2.24
+- pkg:maven/io.protostuff/protostuff-parser@2.2.24?classifier=sources
+- pkg:maven/io.protostuff/protostuff-parser@2.2.25
+- pkg:maven/io.protostuff/protostuff-parser@2.2.25?classifier=sources
+- pkg:maven/io.protostuff/protostuff-parser@2.2.26
+- pkg:maven/io.protostuff/protostuff-parser@2.2.26?classifier=sources
+- pkg:maven/io.protostuff/protostuff-parser@2.2.27
+- pkg:maven/io.protostuff/protostuff-parser@2.2.27?classifier=sources

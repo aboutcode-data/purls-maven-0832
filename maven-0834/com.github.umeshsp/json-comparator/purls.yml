@@ -1,0 +1,2 @@
+- pkg:maven/com.github.umeshsp/json-comparator@1.3
+- pkg:maven/com.github.umeshsp/json-comparator@1.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.elnarion.maven/plantuml-generator-maven-plugin@0.9.1
+- pkg:maven/de.elnarion.maven/plantuml-generator-maven-plugin@0.9.1?classifier=sources

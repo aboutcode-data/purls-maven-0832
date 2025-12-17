@@ -60,3 +60,7 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@6.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@6.1.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@6.1.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@7.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@7.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@8.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@8.0.0?classifier=sources

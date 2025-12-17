@@ -60,3 +60,5 @@
 - pkg:maven/org.talend.esb.locator.service.rest/locator-rest-service@6.5.1?classifier=sources
 - pkg:maven/org.talend.esb.locator.service.rest/locator-rest-service@7.0.1
 - pkg:maven/org.talend.esb.locator.service.rest/locator-rest-service@7.0.1?classifier=sources
+- pkg:maven/org.talend.esb.locator.service.rest/locator-rest-service@7.1.1
+- pkg:maven/org.talend.esb.locator.service.rest/locator-rest-service@7.1.1?classifier=sources

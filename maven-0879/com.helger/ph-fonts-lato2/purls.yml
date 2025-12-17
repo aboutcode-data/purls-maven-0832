@@ -12,3 +12,5 @@
 - pkg:maven/com.helger/ph-fonts-lato2@4.0.0-b2
 - pkg:maven/com.helger/ph-fonts-lato2@4.0.0-b2?classifier=sources
 - pkg:maven/com.helger/ph-fonts-lato2@4.0.0?classifier=sources
+- pkg:maven/com.helger/ph-fonts-lato2@4.0.1
+- pkg:maven/com.helger/ph-fonts-lato2@4.0.1?classifier=sources

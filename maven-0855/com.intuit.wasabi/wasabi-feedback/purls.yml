@@ -66,3 +66,15 @@
 - pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180226051442?classifier=sources
 - pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180427082617
 - pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180427082617?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180628071500
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180628071500?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180709053119
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180709053119?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180725133607
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180725133607?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180726114301
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180726114301?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180728071504
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20180728071504?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20181113111322
+- pkg:maven/com.intuit.wasabi/wasabi-feedback@1.0.20181113111322?classifier=sources
