@@ -1,2 +1,8 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@0.7
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@0.7.1
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@0.7.1?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@0.7.2
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@0.7.2?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@0.7?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@3.0
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@3.0?classifier=sources

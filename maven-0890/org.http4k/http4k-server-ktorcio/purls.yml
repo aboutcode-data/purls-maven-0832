@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-server-ktorcio@3.106.0
+- pkg:maven/org.http4k/http4k-server-ktorcio@3.106.0?classifier=sources

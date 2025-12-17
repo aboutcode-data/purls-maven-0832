@@ -18,3 +18,5 @@
 - pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.3?classifier=sources
 - pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.4
 - pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.4?classifier=sources
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.5
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.5?classifier=sources

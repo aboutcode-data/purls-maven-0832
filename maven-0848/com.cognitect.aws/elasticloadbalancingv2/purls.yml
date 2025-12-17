@@ -2,3 +2,13 @@
 - pkg:maven/com.cognitect.aws/elasticloadbalancingv2@668.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/elasticloadbalancingv2@675.2.367.0
 - pkg:maven/com.cognitect.aws/elasticloadbalancingv2@675.2.367.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@680.2.372.0
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@680.2.372.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@697.2.391.0
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@701.2.394.0
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@701.2.394.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@711.2.410.0
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@711.2.410.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@714.2.430.0
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@714.2.430.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/io.quarkus/quarkus-test-common@0.11.0
+- pkg:maven/io.quarkus/quarkus-test-common@0.11.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-common@0.12.0
+- pkg:maven/io.quarkus/quarkus-test-common@0.12.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-common@0.13.0
+- pkg:maven/io.quarkus/quarkus-test-common@0.13.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-common@0.13.1
+- pkg:maven/io.quarkus/quarkus-test-common@0.13.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-common@0.13.2
+- pkg:maven/io.quarkus/quarkus-test-common@0.13.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-common@0.13.3
+- pkg:maven/io.quarkus/quarkus-test-common@0.13.3?classifier=sources

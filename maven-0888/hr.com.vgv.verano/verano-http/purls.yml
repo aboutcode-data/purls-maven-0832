@@ -1,0 +1,2 @@
+- pkg:maven/hr.com.vgv.verano/verano-http@1.0
+- pkg:maven/hr.com.vgv.verano/verano-http@1.0?classifier=sources

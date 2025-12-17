@@ -82,6 +82,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@6.28.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@6.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@6.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@6.30.0
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@6.30.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@6.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@6.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@6.5.0
@@ -108,6 +110,10 @@
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.11.0
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.12.0
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.12.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.13.0
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@7.3.0
@@ -150,3 +156,9 @@
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@8.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-googlecharts@8.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@8.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@8.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@8.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@8.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@9.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-googlecharts@9.0.0-M1?classifier=sources

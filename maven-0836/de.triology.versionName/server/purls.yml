@@ -1,2 +1,4 @@
 - pkg:maven/de.triology.versionName/server@1.0.2
 - pkg:maven/de.triology.versionName/server@1.0.2?classifier=sources
+- pkg:maven/de.triology.versionName/server@1.0.3
+- pkg:maven/de.triology.versionName/server@1.0.3?classifier=sources

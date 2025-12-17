@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.leaflet/leaflet.draw@1.0.2
 - pkg:maven/org.webjars.bowergithub.leaflet/leaflet.draw@1.0.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.leaflet/leaflet.draw@1.0.4
+- pkg:maven/org.webjars.bowergithub.leaflet/leaflet.draw@1.0.4?classifier=sources

@@ -44,3 +44,14 @@
 - pkg:maven/uk.gov.gchq.gaffer/slider@1.7.0-RC3?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/slider@1.7.0-RC4?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/slider@1.7.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.8.0-RC1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.8.0-RC2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.8.0-RC3?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.8.0-RC4?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.8.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.8.1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.8.2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.8.3?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.9.0-RC1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.9.0-RC2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.9.0?classifier=sources

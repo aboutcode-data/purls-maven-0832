@@ -1,2 +1,6 @@
 - pkg:maven/edu.isi.vista/nlp-core-open@7.6.3
 - pkg:maven/edu.isi.vista/nlp-core-open@7.6.3?classifier=sources
+- pkg:maven/edu.isi.vista/nlp-core-open@8.0.0
+- pkg:maven/edu.isi.vista/nlp-core-open@8.0.0?classifier=sources
+- pkg:maven/edu.isi.vista/nlp-core-open@8.1.0
+- pkg:maven/edu.isi.vista/nlp-core-open@8.1.0?classifier=sources

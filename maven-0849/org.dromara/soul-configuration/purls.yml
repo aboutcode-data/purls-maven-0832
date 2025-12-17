@@ -1,0 +1,4 @@
+- pkg:maven/org.dromara/soul-configuration@1.0.3-RELEASE
+- pkg:maven/org.dromara/soul-configuration@1.0.3-RELEASE?classifier=sources
+- pkg:maven/org.dromara/soul-configuration@1.0.4-RELEASE
+- pkg:maven/org.dromara/soul-configuration@1.0.4-RELEASE?classifier=sources

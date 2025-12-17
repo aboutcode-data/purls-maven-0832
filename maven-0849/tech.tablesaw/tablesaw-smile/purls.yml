@@ -22,3 +22,7 @@
 - pkg:maven/tech.tablesaw/tablesaw-smile@0.11.9?classifier=sources
 - pkg:maven/tech.tablesaw/tablesaw-smile@0.12.0
 - pkg:maven/tech.tablesaw/tablesaw-smile@0.12.0?classifier=sources
+- pkg:maven/tech.tablesaw/tablesaw-smile@0.32.0
+- pkg:maven/tech.tablesaw/tablesaw-smile@0.32.0?classifier=sources
+- pkg:maven/tech.tablesaw/tablesaw-smile@0.32.1
+- pkg:maven/tech.tablesaw/tablesaw-smile@0.32.1?classifier=sources

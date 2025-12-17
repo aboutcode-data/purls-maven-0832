@@ -1,0 +1,2 @@
+- pkg:maven/za.co.absa.spline/spline-core-spark-adapter-2.4@0.3.6
+- pkg:maven/za.co.absa.spline/spline-core-spark-adapter-2.4@0.3.6?classifier=sources

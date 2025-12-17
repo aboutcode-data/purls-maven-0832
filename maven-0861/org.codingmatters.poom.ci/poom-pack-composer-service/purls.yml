@@ -1,0 +1,2 @@
+- pkg:maven/org.codingmatters.poom.ci/poom-pack-composer-service@1.1.0
+- pkg:maven/org.codingmatters.poom.ci/poom-pack-composer-service@1.1.0?classifier=sources

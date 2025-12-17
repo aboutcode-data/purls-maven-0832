@@ -28,3 +28,5 @@
 - pkg:maven/com.github.bumptech.glide/gifdecoder@4.7.1?type=aar
 - pkg:maven/com.github.bumptech.glide/gifdecoder@4.8.0?classifier=sources
 - pkg:maven/com.github.bumptech.glide/gifdecoder@4.8.0?type=aar
+- pkg:maven/com.github.bumptech.glide/gifdecoder@4.9.0?classifier=sources
+- pkg:maven/com.github.bumptech.glide/gifdecoder@4.9.0?type=aar

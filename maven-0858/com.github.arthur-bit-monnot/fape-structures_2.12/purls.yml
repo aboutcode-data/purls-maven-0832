@@ -10,5 +10,11 @@
 - pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.2
 - pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.2%2B1-8f96fd85
 - pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.2%2B1-8f96fd85?classifier=sources
+- pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.2%2B6-12601400
+- pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.2%2B6-12601400?classifier=sources
 - pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.2?classifier=sources
+- pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.4
+- pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.4%2B2-16d3c71b
+- pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.4%2B2-16d3c71b?classifier=sources
+- pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0.4?classifier=sources
 - pkg:maven/com.github.arthur-bit-monnot/fape-structures_2.12@1.0?classifier=sources

@@ -45,6 +45,8 @@
 - pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.2.26?classifier=sources
 - pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.2.27
 - pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.2.27?classifier=sources
+- pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.2.28
+- pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.2.28?classifier=sources
 - pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.2.2?classifier=sources
 - pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.2.3
 - pkg:maven/cc.catalysts.boot/cat-boot-i18n-angular@0.2.3?classifier=sources

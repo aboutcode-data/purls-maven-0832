@@ -1,0 +1,2 @@
+- pkg:maven/net.wicp.tams/duckula-dev-plugin-receiver@2.0.0
+- pkg:maven/net.wicp.tams/duckula-dev-plugin-receiver@2.0.0?classifier=sources

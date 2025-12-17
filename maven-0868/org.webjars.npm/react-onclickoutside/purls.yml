@@ -30,3 +30,5 @@
 - pkg:maven/org.webjars.npm/react-onclickoutside@6.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-onclickoutside@6.7.1
 - pkg:maven/org.webjars.npm/react-onclickoutside@6.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-onclickoutside@6.8.0
+- pkg:maven/org.webjars.npm/react-onclickoutside@6.8.0?classifier=sources

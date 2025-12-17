@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/leaflet-search@1.8.4
 - pkg:maven/org.webjars.bower/leaflet-search@1.8.4?classifier=sources
+- pkg:maven/org.webjars.bower/leaflet-search@2.9.8
+- pkg:maven/org.webjars.bower/leaflet-search@2.9.8?classifier=sources

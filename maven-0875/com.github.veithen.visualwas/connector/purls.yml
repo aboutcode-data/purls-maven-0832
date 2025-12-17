@@ -6,3 +6,5 @@
 - pkg:maven/com.github.veithen.visualwas/connector@2.1.0?classifier=sources
 - pkg:maven/com.github.veithen.visualwas/connector@2.2.0
 - pkg:maven/com.github.veithen.visualwas/connector@2.2.0?classifier=sources
+- pkg:maven/com.github.veithen.visualwas/connector@3.0.0
+- pkg:maven/com.github.veithen.visualwas/connector@3.0.0?classifier=sources

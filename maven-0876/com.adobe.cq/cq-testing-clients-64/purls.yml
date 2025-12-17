@@ -1,2 +1,4 @@
 - pkg:maven/com.adobe.cq/cq-testing-clients-64@0.1.1
 - pkg:maven/com.adobe.cq/cq-testing-clients-64@0.1.1?classifier=sources
+- pkg:maven/com.adobe.cq/cq-testing-clients-64@0.1.2
+- pkg:maven/com.adobe.cq/cq-testing-clients-64@0.1.2?classifier=sources

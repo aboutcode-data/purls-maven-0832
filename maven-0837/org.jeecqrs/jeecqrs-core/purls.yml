@@ -1,0 +1,10 @@
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.1
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.1?classifier=sources
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.2
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.2.1
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.2.1?classifier=sources
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.2.2
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.2.2?classifier=sources
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.2.3
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.2.3?classifier=sources
+- pkg:maven/org.jeecqrs/jeecqrs-core@1.2?classifier=sources

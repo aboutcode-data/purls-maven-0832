@@ -1,2 +1,4 @@
 - pkg:maven/io.sgr.telegram/telegram-bot.engine@1.0.0
 - pkg:maven/io.sgr.telegram/telegram-bot.engine@1.0.0?classifier=sources
+- pkg:maven/io.sgr.telegram/telegram-bot.engine@1.0.1
+- pkg:maven/io.sgr.telegram/telegram-bot.engine@1.0.1?classifier=sources

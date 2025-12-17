@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.druid.extensions.contrib/druid-influx-extensions@0.14.0-incubating
+- pkg:maven/org.apache.druid.extensions.contrib/druid-influx-extensions@0.14.0-incubating?classifier=sources

@@ -55,3 +55,5 @@
 - pkg:maven/org.codehaus.plexus/plexus-classworlds@2.5.2
 - pkg:maven/org.codehaus.plexus/plexus-classworlds@2.5.2?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-classworlds@2.5?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-classworlds@2.6.0
+- pkg:maven/org.codehaus.plexus/plexus-classworlds@2.6.0?classifier=sources

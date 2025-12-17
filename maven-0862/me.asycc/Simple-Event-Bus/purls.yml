@@ -2,3 +2,5 @@
 - pkg:maven/me.asycc/Simple-Event-Bus@1.0.0
 - pkg:maven/me.asycc/Simple-Event-Bus@1.0.0?classifier=sources
 - pkg:maven/me.asycc/Simple-Event-Bus@1.0?classifier=sources
+- pkg:maven/me.asycc/Simple-Event-Bus@2.0.0
+- pkg:maven/me.asycc/Simple-Event-Bus@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alexdochioiu/daggersharpener-processor@0.1.0
+- pkg:maven/com.github.alexdochioiu/daggersharpener-processor@0.1.0?classifier=sources

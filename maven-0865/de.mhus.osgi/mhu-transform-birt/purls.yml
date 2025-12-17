@@ -1,0 +1,4 @@
+- pkg:maven/de.mhus.osgi/mhu-transform-birt@1.1.2
+- pkg:maven/de.mhus.osgi/mhu-transform-birt@1.5.0
+- pkg:maven/de.mhus.osgi/mhu-transform-birt@1.6.0
+- pkg:maven/de.mhus.osgi/mhu-transform-birt@1.6.0?classifier=sources

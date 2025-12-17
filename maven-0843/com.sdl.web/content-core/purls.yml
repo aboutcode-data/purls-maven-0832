@@ -12,3 +12,5 @@
 - pkg:maven/com.sdl.web/content-core@8.5.0-1013?classifier=sources
 - pkg:maven/com.sdl.web/content-core@8.5.0-1041
 - pkg:maven/com.sdl.web/content-core@8.5.0-1041?classifier=sources
+- pkg:maven/com.sdl.web/content-core@8.5.0-1097
+- pkg:maven/com.sdl.web/content-core@8.5.0-1097?classifier=sources

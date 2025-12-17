@@ -1,0 +1,2 @@
+- pkg:maven/cn.4coder/easywx@0.0.1
+- pkg:maven/cn.4coder/easywx@0.0.1?classifier=sources

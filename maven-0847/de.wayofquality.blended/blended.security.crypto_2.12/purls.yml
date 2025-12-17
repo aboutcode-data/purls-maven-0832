@@ -1,0 +1,2 @@
+- pkg:maven/de.wayofquality.blended/blended.security.crypto_2.12@3.0-M6
+- pkg:maven/de.wayofquality.blended/blended.security.crypto_2.12@3.0-M6?classifier=sources

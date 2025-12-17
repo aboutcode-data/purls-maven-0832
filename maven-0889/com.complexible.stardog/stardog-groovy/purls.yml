@@ -22,3 +22,5 @@
 - pkg:maven/com.complexible.stardog/stardog-groovy@4.1?classifier=sources
 - pkg:maven/com.complexible.stardog/stardog-groovy@4.2.1
 - pkg:maven/com.complexible.stardog/stardog-groovy@4.2.1?classifier=sources
+- pkg:maven/com.complexible.stardog/stardog-groovy@5.3.5
+- pkg:maven/com.complexible.stardog/stardog-groovy@5.3.5?classifier=sources

@@ -3,6 +3,8 @@
 - pkg:maven/be.looorent/jflu-producer-hibernate@0.10?classifier=sources
 - pkg:maven/be.looorent/jflu-producer-hibernate@0.11
 - pkg:maven/be.looorent/jflu-producer-hibernate@0.11?classifier=sources
+- pkg:maven/be.looorent/jflu-producer-hibernate@0.12
+- pkg:maven/be.looorent/jflu-producer-hibernate@0.12?classifier=sources
 - pkg:maven/be.looorent/jflu-producer-hibernate@0.1?classifier=sources
 - pkg:maven/be.looorent/jflu-producer-hibernate@0.2
 - pkg:maven/be.looorent/jflu-producer-hibernate@0.2?classifier=sources

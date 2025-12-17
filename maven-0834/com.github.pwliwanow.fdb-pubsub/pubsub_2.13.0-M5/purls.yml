@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pwliwanow.fdb-pubsub/pubsub_2.13.0-M5@0.1.2
+- pkg:maven/com.github.pwliwanow.fdb-pubsub/pubsub_2.13.0-M5@0.1.2?classifier=sources

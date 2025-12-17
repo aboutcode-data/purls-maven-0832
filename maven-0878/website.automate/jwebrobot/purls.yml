@@ -56,3 +56,9 @@
 - pkg:maven/website.automate/jwebrobot@1.8.0?classifier=sources
 - pkg:maven/website.automate/jwebrobot@1.9.0
 - pkg:maven/website.automate/jwebrobot@1.9.0?classifier=sources
+- pkg:maven/website.automate/jwebrobot@2.0.0
+- pkg:maven/website.automate/jwebrobot@2.0.0?classifier=sources
+- pkg:maven/website.automate/jwebrobot@2.0.1
+- pkg:maven/website.automate/jwebrobot@2.0.1?classifier=sources
+- pkg:maven/website.automate/jwebrobot@2.0.5
+- pkg:maven/website.automate/jwebrobot@2.0.5?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.llqqww/thinkjdbc@1.4.4_12?classifier=sources
 - pkg:maven/com.llqqww/thinkjdbc@1.4.4_13
 - pkg:maven/com.llqqww/thinkjdbc@1.4.4_13?classifier=sources
+- pkg:maven/com.llqqww/thinkjdbc@1.4.5_15
+- pkg:maven/com.llqqww/thinkjdbc@1.4.5_15?classifier=sources

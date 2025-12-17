@@ -40,6 +40,8 @@
 - pkg:maven/com.google.oauth-client/google-oauth-client-servlet@1.26.0?classifier=sources
 - pkg:maven/com.google.oauth-client/google-oauth-client-servlet@1.27.0
 - pkg:maven/com.google.oauth-client/google-oauth-client-servlet@1.27.0?classifier=sources
+- pkg:maven/com.google.oauth-client/google-oauth-client-servlet@1.28.0
+- pkg:maven/com.google.oauth-client/google-oauth-client-servlet@1.28.0?classifier=sources
 - pkg:maven/com.google.oauth-client/google-oauth-client-servlet@1.7.0-beta
 - pkg:maven/com.google.oauth-client/google-oauth-client-servlet@1.7.0-beta?classifier=sources
 - pkg:maven/com.google.oauth-client/google-oauth-client-servlet@1.8.0-beta

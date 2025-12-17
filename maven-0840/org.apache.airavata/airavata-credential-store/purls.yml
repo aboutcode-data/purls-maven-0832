@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.airavata/airavata-credential-store@0.15?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-credential-store@0.16
 - pkg:maven/org.apache.airavata/airavata-credential-store@0.16?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-credential-store@0.17
+- pkg:maven/org.apache.airavata/airavata-credential-store@0.17?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-credential-store@0.7
 - pkg:maven/org.apache.airavata/airavata-credential-store@0.7?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-credential-store@0.8

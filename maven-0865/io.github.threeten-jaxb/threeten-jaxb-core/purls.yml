@@ -1,0 +1,2 @@
+- pkg:maven/io.github.threeten-jaxb/threeten-jaxb-core@1.2
+- pkg:maven/io.github.threeten-jaxb/threeten-jaxb-core@1.2?classifier=sources

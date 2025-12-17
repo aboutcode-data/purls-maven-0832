@@ -1,0 +1,2 @@
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-searchparam@3.7.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-searchparam@3.7.0?classifier=sources

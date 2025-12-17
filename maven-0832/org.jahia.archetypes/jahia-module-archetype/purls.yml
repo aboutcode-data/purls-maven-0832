@@ -4,3 +4,4 @@
 - pkg:maven/org.jahia.archetypes/jahia-module-archetype@2.6-RC1?classifier=sources
 - pkg:maven/org.jahia.archetypes/jahia-module-archetype@2.6?classifier=sources
 - pkg:maven/org.jahia.archetypes/jahia-module-archetype@2.7?classifier=sources
+- pkg:maven/org.jahia.archetypes/jahia-module-archetype@2.8?classifier=sources

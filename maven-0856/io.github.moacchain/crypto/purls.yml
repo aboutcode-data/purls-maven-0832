@@ -1,0 +1,2 @@
+- pkg:maven/io.github.moacchain/crypto@0.1.0
+- pkg:maven/io.github.moacchain/crypto@0.1.0?classifier=sources

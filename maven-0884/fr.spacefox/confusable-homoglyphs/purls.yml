@@ -1,0 +1,4 @@
+- pkg:maven/fr.spacefox/confusable-homoglyphs@1.0.0
+- pkg:maven/fr.spacefox/confusable-homoglyphs@1.0.0?classifier=sources
+- pkg:maven/fr.spacefox/confusable-homoglyphs@1.0.1
+- pkg:maven/fr.spacefox/confusable-homoglyphs@1.0.1?classifier=sources

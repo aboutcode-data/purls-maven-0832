@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.samples.is/pickup-oidc@3.0.0-m1?classifier=sources
 - pkg:maven/org.wso2.samples.is/pickup-oidc@3.0.0-m1?type=war
+- pkg:maven/org.wso2.samples.is/pickup-oidc@4.0.0?classifier=sources
+- pkg:maven/org.wso2.samples.is/pickup-oidc@4.0.0?type=war

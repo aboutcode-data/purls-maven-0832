@@ -60,3 +60,7 @@
 - pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.4.4?classifier=sources
 - pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.5.0
 - pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.5.0?classifier=sources
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.5.1
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.5.1?classifier=sources
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.5.2
+- pkg:maven/br.com.ingenieux/beanstalk-maven-plugin@1.5.2?classifier=sources

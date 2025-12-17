@@ -1,0 +1,2 @@
+- pkg:maven/com.envimate.httpmate.integrations/httpmate-client@1.0.14
+- pkg:maven/com.envimate.httpmate.integrations/httpmate-client@1.0.14?classifier=sources

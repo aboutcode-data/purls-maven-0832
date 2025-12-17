@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jinahya/jpa-metamodels-with-maven-example@0.5.9
+- pkg:maven/com.github.jinahya/jpa-metamodels-with-maven-example@0.5.9?classifier=sources

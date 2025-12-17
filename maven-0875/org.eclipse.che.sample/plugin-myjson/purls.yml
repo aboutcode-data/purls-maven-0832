@@ -3,3 +3,8 @@
 - pkg:maven/org.eclipse.che.sample/plugin-myjson@6.12.0?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che.sample/plugin-myjson@6.13.0?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che.sample/plugin-myjson@6.14.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.15.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.16.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.17.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.18.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.sample/plugin-myjson@6.19.0?classifier=source-release&type=zip

@@ -8,3 +8,9 @@
 - pkg:maven/de.digitalcollections.commons/dc-commons-prosemirror-model@2.1.0?classifier=sources
 - pkg:maven/de.digitalcollections.commons/dc-commons-prosemirror-model@3.0.0
 - pkg:maven/de.digitalcollections.commons/dc-commons-prosemirror-model@3.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.commons/dc-commons-prosemirror-model@3.0.1
+- pkg:maven/de.digitalcollections.commons/dc-commons-prosemirror-model@3.0.1?classifier=sources
+- pkg:maven/de.digitalcollections.commons/dc-commons-prosemirror-model@4.0.0
+- pkg:maven/de.digitalcollections.commons/dc-commons-prosemirror-model@4.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.commons/dc-commons-prosemirror-model@4.0.1
+- pkg:maven/de.digitalcollections.commons/dc-commons-prosemirror-model@4.0.1?classifier=sources

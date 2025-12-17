@@ -1,0 +1,8 @@
+- pkg:maven/tech.grasshopper/cukefeatureprocessor@1.0.0
+- pkg:maven/tech.grasshopper/cukefeatureprocessor@1.0.0?classifier=sources
+- pkg:maven/tech.grasshopper/cukefeatureprocessor@1.1.0
+- pkg:maven/tech.grasshopper/cukefeatureprocessor@1.1.0?classifier=sources
+- pkg:maven/tech.grasshopper/cukefeatureprocessor@1.1.1
+- pkg:maven/tech.grasshopper/cukefeatureprocessor@1.1.1?classifier=sources
+- pkg:maven/tech.grasshopper/cukefeatureprocessor@1.1.2
+- pkg:maven/tech.grasshopper/cukefeatureprocessor@1.1.2?classifier=sources

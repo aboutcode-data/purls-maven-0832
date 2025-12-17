@@ -1,2 +1,3 @@
 - pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-framework@2.3.4?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-framework@2.3.5?classifier=sources
+- pkg:maven/com.mobidevelop.robovm/robovm-templates-ios-framework@2.3.6?classifier=sources

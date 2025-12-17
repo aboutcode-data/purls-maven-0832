@@ -70,6 +70,8 @@
 - pkg:maven/org.wicketstuff/wicket-facebook@6.28.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-facebook@6.3.0
 - pkg:maven/org.wicketstuff/wicket-facebook@6.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-facebook@6.30.0
+- pkg:maven/org.wicketstuff/wicket-facebook@6.30.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-facebook@6.4.0
 - pkg:maven/org.wicketstuff/wicket-facebook@6.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-facebook@6.5.0
@@ -96,6 +98,10 @@
 - pkg:maven/org.wicketstuff/wicket-facebook@7.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-facebook@7.11.0
 - pkg:maven/org.wicketstuff/wicket-facebook@7.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-facebook@7.12.0
+- pkg:maven/org.wicketstuff/wicket-facebook@7.12.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-facebook@7.13.0
+- pkg:maven/org.wicketstuff/wicket-facebook@7.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-facebook@7.2.0
 - pkg:maven/org.wicketstuff/wicket-facebook@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-facebook@7.3.0
@@ -138,3 +144,9 @@
 - pkg:maven/org.wicketstuff/wicket-facebook@8.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-facebook@8.2.0
 - pkg:maven/org.wicketstuff/wicket-facebook@8.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-facebook@8.3.0
+- pkg:maven/org.wicketstuff/wicket-facebook@8.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-facebook@8.4.0
+- pkg:maven/org.wicketstuff/wicket-facebook@8.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-facebook@9.0.0-M1
+- pkg:maven/org.wicketstuff/wicket-facebook@9.0.0-M1?classifier=sources

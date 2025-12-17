@@ -1,0 +1,2 @@
+- pkg:maven/guru.bug.gametool/example-mousefollow@1.0
+- pkg:maven/guru.bug.gametool/example-mousefollow@1.0?classifier=sources

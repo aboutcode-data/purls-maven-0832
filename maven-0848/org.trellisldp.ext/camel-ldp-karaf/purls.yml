@@ -1,0 +1,2 @@
+- pkg:maven/org.trellisldp.ext/camel-ldp-karaf@0.1.0
+- pkg:maven/org.trellisldp.ext/camel-ldp-karaf@0.1.0?classifier=sources

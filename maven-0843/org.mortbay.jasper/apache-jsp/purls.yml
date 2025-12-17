@@ -33,8 +33,12 @@
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.33.1?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.33?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.35
+- pkg:maven/org.mortbay.jasper/apache-jsp@8.5.35.1
+- pkg:maven/org.mortbay.jasper/apache-jsp@8.5.35.1?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.35?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.4
+- pkg:maven/org.mortbay.jasper/apache-jsp@8.5.40
+- pkg:maven/org.mortbay.jasper/apache-jsp@8.5.40?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.4?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.5
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.5?classifier=sources
@@ -42,3 +46,9 @@
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.9.1
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.9.1?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-jsp@8.5.9?classifier=sources
+- pkg:maven/org.mortbay.jasper/apache-jsp@9.0.14
+- pkg:maven/org.mortbay.jasper/apache-jsp@9.0.14.1
+- pkg:maven/org.mortbay.jasper/apache-jsp@9.0.14.1?classifier=sources
+- pkg:maven/org.mortbay.jasper/apache-jsp@9.0.14?classifier=sources
+- pkg:maven/org.mortbay.jasper/apache-jsp@9.0.19
+- pkg:maven/org.mortbay.jasper/apache-jsp@9.0.19?classifier=sources

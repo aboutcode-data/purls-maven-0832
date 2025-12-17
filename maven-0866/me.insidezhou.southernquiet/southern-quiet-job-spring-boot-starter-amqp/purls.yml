@@ -1,0 +1,2 @@
+- pkg:maven/me.insidezhou.southernquiet/southern-quiet-job-spring-boot-starter-amqp@2.0.0
+- pkg:maven/me.insidezhou.southernquiet/southern-quiet-job-spring-boot-starter-amqp@2.0.0?classifier=sources

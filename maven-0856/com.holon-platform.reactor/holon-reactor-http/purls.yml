@@ -1,2 +1,12 @@
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0
 - pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0-alpha2
 - pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0-alpha2?classifier=sources
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0-rc1
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0-rc1?classifier=sources
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0-rc2
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0-rc2?classifier=sources
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.0?classifier=sources
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.1
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.1?classifier=sources
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.2
+- pkg:maven/com.holon-platform.reactor/holon-reactor-http@5.2.2?classifier=sources

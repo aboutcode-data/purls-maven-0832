@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.geode/geode-connectors@1.6.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-connectors@1.7.0
 - pkg:maven/org.apache.geode/geode-connectors@1.7.0?classifier=sources
+- pkg:maven/org.apache.geode/geode-connectors@1.8.0

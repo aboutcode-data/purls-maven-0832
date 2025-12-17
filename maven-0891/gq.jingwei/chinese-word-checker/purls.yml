@@ -1,0 +1,2 @@
+- pkg:maven/gq.jingwei/chinese-word-checker@1.0.1
+- pkg:maven/gq.jingwei/chinese-word-checker@1.0.1?classifier=sources

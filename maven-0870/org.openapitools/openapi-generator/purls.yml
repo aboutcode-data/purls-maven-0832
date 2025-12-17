@@ -30,3 +30,9 @@
 - pkg:maven/org.openapitools/openapi-generator@3.3.3?classifier=sources
 - pkg:maven/org.openapitools/openapi-generator@3.3.4
 - pkg:maven/org.openapitools/openapi-generator@3.3.4?classifier=sources
+- pkg:maven/org.openapitools/openapi-generator@4.0.0-beta
+- pkg:maven/org.openapitools/openapi-generator@4.0.0-beta2
+- pkg:maven/org.openapitools/openapi-generator@4.0.0-beta2?classifier=sources
+- pkg:maven/org.openapitools/openapi-generator@4.0.0-beta3
+- pkg:maven/org.openapitools/openapi-generator@4.0.0-beta3?classifier=sources
+- pkg:maven/org.openapitools/openapi-generator@4.0.0-beta?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/de.team33.libs/lib-provision@8.1.1
+- pkg:maven/de.team33.libs/lib-provision@8.1.1?classifier=sources
+- pkg:maven/de.team33.libs/lib-provision@8.1.2
+- pkg:maven/de.team33.libs/lib-provision@8.1.2?classifier=sources
+- pkg:maven/de.team33.libs/lib-provision@8.2.1
+- pkg:maven/de.team33.libs/lib-provision@8.2.1?classifier=sources

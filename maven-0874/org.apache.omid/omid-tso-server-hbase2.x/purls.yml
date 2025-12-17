@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.omid/omid-tso-server-hbase2.x@1.0.0
+- pkg:maven/org.apache.omid/omid-tso-server-hbase2.x@1.0.0?classifier=sources

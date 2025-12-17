@@ -1,0 +1,2 @@
+- pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.9.1
+- pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.9.1?classifier=sources

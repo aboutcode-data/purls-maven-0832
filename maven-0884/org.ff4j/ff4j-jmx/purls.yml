@@ -40,3 +40,5 @@
 - pkg:maven/org.ff4j/ff4j-jmx@1.7.3
 - pkg:maven/org.ff4j/ff4j-jmx@1.7.3?classifier=sources
 - pkg:maven/org.ff4j/ff4j-jmx@1.7?classifier=sources
+- pkg:maven/org.ff4j/ff4j-jmx@1.8
+- pkg:maven/org.ff4j/ff4j-jmx@1.8?classifier=sources

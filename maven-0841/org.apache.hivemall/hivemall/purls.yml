@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.hivemall/hivemall@0.5.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.hivemall/hivemall@0.5.2-incubating?classifier=source-release&type=zip

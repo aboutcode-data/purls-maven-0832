@@ -1,2 +1,4 @@
 - pkg:maven/nl.teslanet.mule.transport.coap/mule-coap-commons@1.0.0
 - pkg:maven/nl.teslanet.mule.transport.coap/mule-coap-commons@1.0.0?classifier=sources
+- pkg:maven/nl.teslanet.mule.transport.coap/mule-coap-commons@1.1.0
+- pkg:maven/nl.teslanet.mule.transport.coap/mule-coap-commons@1.1.0?classifier=sources

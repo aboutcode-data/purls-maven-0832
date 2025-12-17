@@ -119,6 +119,12 @@
 - pkg:maven/de.otto.edison/edison-cache@1.2.3
 - pkg:maven/de.otto.edison/edison-cache@1.2.30
 - pkg:maven/de.otto.edison/edison-cache@1.2.30?classifier=sources
+- pkg:maven/de.otto.edison/edison-cache@1.2.31
+- pkg:maven/de.otto.edison/edison-cache@1.2.31?classifier=sources
+- pkg:maven/de.otto.edison/edison-cache@1.2.32
+- pkg:maven/de.otto.edison/edison-cache@1.2.32?classifier=sources
+- pkg:maven/de.otto.edison/edison-cache@1.2.33
+- pkg:maven/de.otto.edison/edison-cache@1.2.33?classifier=sources
 - pkg:maven/de.otto.edison/edison-cache@1.2.3?classifier=sources
 - pkg:maven/de.otto.edison/edison-cache@1.2.4
 - pkg:maven/de.otto.edison/edison-cache@1.2.4?classifier=sources

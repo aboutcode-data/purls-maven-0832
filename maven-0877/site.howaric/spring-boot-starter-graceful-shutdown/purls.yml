@@ -1,0 +1,2 @@
+- pkg:maven/site.howaric/spring-boot-starter-graceful-shutdown@1.0.0
+- pkg:maven/site.howaric/spring-boot-starter-graceful-shutdown@1.0.0?classifier=sources

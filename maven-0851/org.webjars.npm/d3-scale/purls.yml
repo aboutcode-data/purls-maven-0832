@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/d3-scale@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/d3-scale@2.1.2
 - pkg:maven/org.webjars.npm/d3-scale@2.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/d3-scale@2.2.2
+- pkg:maven/org.webjars.npm/d3-scale@2.2.2?classifier=sources

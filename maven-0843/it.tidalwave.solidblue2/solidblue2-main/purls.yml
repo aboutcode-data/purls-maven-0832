@@ -4,3 +4,5 @@
 - pkg:maven/it.tidalwave.solidblue2/solidblue2-main@1.0-ALPHA-6?classifier=sources
 - pkg:maven/it.tidalwave.solidblue2/solidblue2-main@1.0-ALPHA-7
 - pkg:maven/it.tidalwave.solidblue2/solidblue2-main@1.0-ALPHA-7?classifier=sources
+- pkg:maven/it.tidalwave.solidblue2/solidblue2-main@1.0-ALPHA-8
+- pkg:maven/it.tidalwave.solidblue2/solidblue2-main@1.0-ALPHA-8?classifier=sources

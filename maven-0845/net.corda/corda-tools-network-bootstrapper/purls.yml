@@ -1,0 +1,4 @@
+- pkg:maven/net.corda/corda-tools-network-bootstrapper@3.4-corda
+- pkg:maven/net.corda/corda-tools-network-bootstrapper@3.4-corda?classifier=sources
+- pkg:maven/net.corda/corda-tools-network-bootstrapper@4.0
+- pkg:maven/net.corda/corda-tools-network-bootstrapper@4.0?classifier=sources

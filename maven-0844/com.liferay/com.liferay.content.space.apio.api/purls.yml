@@ -13,3 +13,6 @@
 - pkg:maven/com.liferay/com.liferay.content.space.apio.api@1.1.2
 - pkg:maven/com.liferay/com.liferay.content.space.apio.api@1.1.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.content.space.apio.api@1.1.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.content.space.apio.api@1.2.0
+- pkg:maven/com.liferay/com.liferay.content.space.apio.api@1.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.content.space.apio.api@1.2.0?classifier=sources-commercial

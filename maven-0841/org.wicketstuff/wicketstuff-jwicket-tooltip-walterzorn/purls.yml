@@ -44,6 +44,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.28.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.30.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.30.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@6.5.0
@@ -70,6 +72,10 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.11.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.12.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.12.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.13.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@7.3.0
@@ -112,3 +118,9 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@9.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@9.0.0-M1?classifier=sources

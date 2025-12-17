@@ -1,0 +1,2 @@
+- pkg:maven/com.buglife.sdk/buglife-android@1.4.3?classifier=sources
+- pkg:maven/com.buglife.sdk/buglife-android@1.4.3?type=aar

@@ -2,3 +2,5 @@
 - pkg:maven/org.seedstack.addons.kafka/kafka@1.0.0?classifier=sources
 - pkg:maven/org.seedstack.addons.kafka/kafka@1.1.0
 - pkg:maven/org.seedstack.addons.kafka/kafka@1.1.0?classifier=sources
+- pkg:maven/org.seedstack.addons.kafka/kafka@2.0.0
+- pkg:maven/org.seedstack.addons.kafka/kafka@2.0.0?classifier=sources

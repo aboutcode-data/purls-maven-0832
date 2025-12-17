@@ -32,6 +32,8 @@
 - pkg:maven/com.vaadin/vaadin-spring@10.1.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-spring@10.1.1
 - pkg:maven/com.vaadin/vaadin-spring@10.1.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-spring@11.0.0
+- pkg:maven/com.vaadin/vaadin-spring@11.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-spring@2.0.0
 - pkg:maven/com.vaadin/vaadin-spring@2.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-spring@2.0.1

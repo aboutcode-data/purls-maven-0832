@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/babel-plugin-transform-react-jsx-self@6.11.0
 - pkg:maven/org.webjars.npm/babel-plugin-transform-react-jsx-self@6.11.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-plugin-transform-react-jsx-self@7.0.0-beta.3
+- pkg:maven/org.webjars.npm/babel-plugin-transform-react-jsx-self@7.0.0-beta.3?classifier=sources

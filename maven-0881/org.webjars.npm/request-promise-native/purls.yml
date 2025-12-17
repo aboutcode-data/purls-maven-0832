@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/request-promise-native@1.0.5
 - pkg:maven/org.webjars.npm/request-promise-native@1.0.5?classifier=sources
+- pkg:maven/org.webjars.npm/request-promise-native@1.0.7
+- pkg:maven/org.webjars.npm/request-promise-native@1.0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/jcore-ct-reader@2.4.0
+- pkg:maven/de.julielab/jcore-ct-reader@2.4.0?classifier=sources

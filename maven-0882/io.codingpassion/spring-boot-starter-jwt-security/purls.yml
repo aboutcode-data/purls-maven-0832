@@ -1,0 +1,2 @@
+- pkg:maven/io.codingpassion/spring-boot-starter-jwt-security@0.1
+- pkg:maven/io.codingpassion/spring-boot-starter-jwt-security@0.1?classifier=sources

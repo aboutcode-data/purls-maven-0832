@@ -1,0 +1,4 @@
+- pkg:maven/net.intelie.live/plugin-messenger@2.22.0
+- pkg:maven/net.intelie.live/plugin-messenger@2.22.0?classifier=sources
+- pkg:maven/net.intelie.live/plugin-messenger@2.23.0
+- pkg:maven/net.intelie.live/plugin-messenger@2.23.0?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/com.coherentlogic.coherent.data.adapter.openfigi.client/openfigi-client-db-int@2.0.2.1-RELEASE?classifier=sources
 - pkg:maven/com.coherentlogic.coherent.data.adapter.openfigi.client/openfigi-client-db-int@2.0.3-RELEASE
 - pkg:maven/com.coherentlogic.coherent.data.adapter.openfigi.client/openfigi-client-db-int@2.0.3-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.coherent.data.adapter.openfigi.client/openfigi-client-db-int@2.0.3.1-RELEASE
+- pkg:maven/com.coherentlogic.coherent.data.adapter.openfigi.client/openfigi-client-db-int@2.0.3.1-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.coherent.data.adapter.openfigi.client/openfigi-client-db-int@2.0.3.2-RELEASE
+- pkg:maven/com.coherentlogic.coherent.data.adapter.openfigi.client/openfigi-client-db-int@2.0.3.2-RELEASE?classifier=sources

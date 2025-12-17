@@ -20,3 +20,15 @@
 - pkg:maven/com.pdfcrowd/pdfcrowd@4.3.5?classifier=sources
 - pkg:maven/com.pdfcrowd/pdfcrowd@4.3.6
 - pkg:maven/com.pdfcrowd/pdfcrowd@4.3.6?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.4.1
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.4.1?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.4.2
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.4.2?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.5.0
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.5.0?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.6.0
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.6.0?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.7.0
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.7.0?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.8.0
+- pkg:maven/com.pdfcrowd/pdfcrowd@4.8.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.thoughtworks.extractor/extractor_sjs0.6_2.13.0-M5@2.1.1%2B109-1fec0c9c
+- pkg:maven/com.thoughtworks.extractor/extractor_sjs0.6_2.13.0-M5@2.1.1%2B109-1fec0c9c?classifier=sources
+- pkg:maven/com.thoughtworks.extractor/extractor_sjs0.6_2.13.0-M5@2.1.1%2B109-41b4e041
+- pkg:maven/com.thoughtworks.extractor/extractor_sjs0.6_2.13.0-M5@2.1.1%2B109-41b4e041?classifier=sources
+- pkg:maven/com.thoughtworks.extractor/extractor_sjs0.6_2.13.0-M5@2.1.1%2B110-4dc66803
+- pkg:maven/com.thoughtworks.extractor/extractor_sjs0.6_2.13.0-M5@2.1.1%2B110-4dc66803?classifier=sources

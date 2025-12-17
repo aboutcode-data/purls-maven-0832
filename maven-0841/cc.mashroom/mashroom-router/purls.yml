@@ -1,0 +1,4 @@
+- pkg:maven/cc.mashroom/mashroom-router@v1.0.0
+- pkg:maven/cc.mashroom/mashroom-router@v1.0.0?classifier=sources
+- pkg:maven/cc.mashroom/mashroom-router@v1.0.1
+- pkg:maven/cc.mashroom/mashroom-router@v1.0.1?classifier=sources

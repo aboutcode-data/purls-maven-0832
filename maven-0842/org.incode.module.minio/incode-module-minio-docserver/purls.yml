@@ -1,0 +1,2 @@
+- pkg:maven/org.incode.module.minio/incode-module-minio-docserver@1.17.0
+- pkg:maven/org.incode.module.minio/incode-module-minio-docserver@1.17.0?classifier=sources

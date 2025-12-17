@@ -1,0 +1,2 @@
+- pkg:maven/com.datengaertnerei.test/testlink-ng-integration@0.1.1
+- pkg:maven/com.datengaertnerei.test/testlink-ng-integration@0.1.1?classifier=sources

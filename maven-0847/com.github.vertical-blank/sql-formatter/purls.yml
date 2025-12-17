@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vertical-blank/sql-formatter@1.0
+- pkg:maven/com.github.vertical-blank/sql-formatter@1.0?classifier=sources

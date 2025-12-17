@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-openpgpjs-openpgpjs@4.4.9
+- pkg:maven/org.webjars.npm/github-com-openpgpjs-openpgpjs@4.4.9?classifier=sources

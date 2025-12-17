@@ -1,2 +1,6 @@
 - pkg:maven/com.thoughtworks.akka-http-rpc/akka-http-rpc_2.10@1.0.0
+- pkg:maven/com.thoughtworks.akka-http-rpc/akka-http-rpc_2.10@1.0.0%2B92-be68435e
+- pkg:maven/com.thoughtworks.akka-http-rpc/akka-http-rpc_2.10@1.0.0%2B92-be68435e?classifier=sources
+- pkg:maven/com.thoughtworks.akka-http-rpc/akka-http-rpc_2.10@1.0.0%2B92-d347163f
+- pkg:maven/com.thoughtworks.akka-http-rpc/akka-http-rpc_2.10@1.0.0%2B92-d347163f?classifier=sources
 - pkg:maven/com.thoughtworks.akka-http-rpc/akka-http-rpc_2.10@1.0.0?classifier=sources

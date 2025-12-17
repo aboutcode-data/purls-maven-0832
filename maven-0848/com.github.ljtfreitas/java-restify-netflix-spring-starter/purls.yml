@@ -24,3 +24,5 @@
 - pkg:maven/com.github.ljtfreitas/java-restify-netflix-spring-starter@1.6.3?classifier=sources
 - pkg:maven/com.github.ljtfreitas/java-restify-netflix-spring-starter@1.6.4
 - pkg:maven/com.github.ljtfreitas/java-restify-netflix-spring-starter@1.6.4?classifier=sources
+- pkg:maven/com.github.ljtfreitas/java-restify-netflix-spring-starter@2.0.0
+- pkg:maven/com.github.ljtfreitas/java-restify-netflix-spring-starter@2.0.0?classifier=sources

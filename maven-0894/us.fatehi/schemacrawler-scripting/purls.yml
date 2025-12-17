@@ -1,0 +1,2 @@
+- pkg:maven/us.fatehi/schemacrawler-scripting@15.06.01
+- pkg:maven/us.fatehi/schemacrawler-scripting@15.06.01?classifier=sources

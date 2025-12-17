@@ -29,6 +29,8 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.13?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.14
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.14?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.15
+- pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.15?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.2
 - pkg:maven/org.glassfish.tyrus/tyrus-container-glassfish-cdi@1.2.1

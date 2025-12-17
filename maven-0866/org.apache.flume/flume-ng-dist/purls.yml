@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.flume/flume-ng-dist@1.4.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.flume/flume-ng-dist@1.7.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.flume/flume-ng-dist@1.8.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.flume/flume-ng-dist@1.9.0?classifier=src&type=tar.gz

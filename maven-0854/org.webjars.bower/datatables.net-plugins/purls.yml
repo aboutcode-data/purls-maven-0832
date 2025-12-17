@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/datatables.net-plugins@1.10.16?classifier=sources
 - pkg:maven/org.webjars.bower/datatables.net-plugins@1.10.18
 - pkg:maven/org.webjars.bower/datatables.net-plugins@1.10.18?classifier=sources
+- pkg:maven/org.webjars.bower/datatables.net-plugins@1.10.19
+- pkg:maven/org.webjars.bower/datatables.net-plugins@1.10.19?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.shredzone.commons/commons-suncalc@2.2?classifier=sources
 - pkg:maven/org.shredzone.commons/commons-suncalc@2.3
 - pkg:maven/org.shredzone.commons/commons-suncalc@2.3?classifier=sources
+- pkg:maven/org.shredzone.commons/commons-suncalc@2.4
+- pkg:maven/org.shredzone.commons/commons-suncalc@2.4?classifier=sources

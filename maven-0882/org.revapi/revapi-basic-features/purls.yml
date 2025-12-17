@@ -52,3 +52,5 @@
 - pkg:maven/org.revapi/revapi-basic-features@0.7.3?classifier=sources
 - pkg:maven/org.revapi/revapi-basic-features@0.7.4
 - pkg:maven/org.revapi/revapi-basic-features@0.7.4?classifier=sources
+- pkg:maven/org.revapi/revapi-basic-features@0.8.0
+- pkg:maven/org.revapi/revapi-basic-features@0.8.0?classifier=sources

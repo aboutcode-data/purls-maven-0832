@@ -1,0 +1,2 @@
+- pkg:maven/com.addc/addc-ssl@2.2
+- pkg:maven/com.addc/addc-ssl@2.2?classifier=sources

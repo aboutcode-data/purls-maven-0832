@@ -1,0 +1,8 @@
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.13.0-M5@2.5.19
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.13.0-M5@2.5.19?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.13.0-M5@2.5.20
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.13.0-M5@2.5.20?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.13.0-M5@2.5.21
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.13.0-M5@2.5.21?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.13.0-M5@2.5.22
+- pkg:maven/com.typesafe.akka/akka-distributed-data_2.13.0-M5@2.5.22?classifier=sources

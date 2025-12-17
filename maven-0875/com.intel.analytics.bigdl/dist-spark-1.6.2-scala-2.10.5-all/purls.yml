@@ -3,3 +3,4 @@
 - pkg:maven/com.intel.analytics.bigdl/dist-spark-1.6.2-scala-2.10.5-all@0.6.0
 - pkg:maven/com.intel.analytics.bigdl/dist-spark-1.6.2-scala-2.10.5-all@0.7.0
 - pkg:maven/com.intel.analytics.bigdl/dist-spark-1.6.2-scala-2.10.5-all@0.7.1
+- pkg:maven/com.intel.analytics.bigdl/dist-spark-1.6.2-scala-2.10.5-all@0.7.2

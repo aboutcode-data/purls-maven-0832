@@ -1,0 +1,2 @@
+- pkg:maven/com.expedia.www/haystack-remote-clients@0.2.7
+- pkg:maven/com.expedia.www/haystack-remote-clients@0.2.7?classifier=sources

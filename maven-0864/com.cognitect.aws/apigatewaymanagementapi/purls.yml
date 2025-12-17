@@ -1,0 +1,6 @@
+- pkg:maven/com.cognitect.aws/apigatewaymanagementapi@684.2.382.0
+- pkg:maven/com.cognitect.aws/apigatewaymanagementapi@684.2.382.0?classifier=sources
+- pkg:maven/com.cognitect.aws/apigatewaymanagementapi@697.2.391.0
+- pkg:maven/com.cognitect.aws/apigatewaymanagementapi@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/apigatewaymanagementapi@701.2.393.0
+- pkg:maven/com.cognitect.aws/apigatewaymanagementapi@701.2.393.0?classifier=sources

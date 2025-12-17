@@ -1,0 +1,9 @@
+- pkg:maven/io.prestosql/presto-sqlserver@300?classifier=sources
+- pkg:maven/io.prestosql/presto-sqlserver@301?classifier=sources
+- pkg:maven/io.prestosql/presto-sqlserver@302?classifier=sources
+- pkg:maven/io.prestosql/presto-sqlserver@303?classifier=sources
+- pkg:maven/io.prestosql/presto-sqlserver@304?classifier=sources
+- pkg:maven/io.prestosql/presto-sqlserver@305?classifier=sources
+- pkg:maven/io.prestosql/presto-sqlserver@306?classifier=sources
+- pkg:maven/io.prestosql/presto-sqlserver@307?classifier=sources
+- pkg:maven/io.prestosql/presto-sqlserver@308?classifier=sources

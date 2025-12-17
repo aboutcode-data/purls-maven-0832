@@ -50,3 +50,5 @@
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-aws-sqs@2.1.6.Final?classifier=sources
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-aws-sqs@2.1.7.Final
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-aws-sqs@2.1.7.Final?classifier=sources
+- pkg:maven/io.skullabs.kikaha/kikaha-cloud-aws-sqs@2.1.8.Final
+- pkg:maven/io.skullabs.kikaha/kikaha-cloud-aws-sqs@2.1.8.Final?classifier=sources

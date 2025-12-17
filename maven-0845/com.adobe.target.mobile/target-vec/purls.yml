@@ -6,3 +6,7 @@
 - pkg:maven/com.adobe.target.mobile/target-vec@0.2.4-beta?type=aar
 - pkg:maven/com.adobe.target.mobile/target-vec@0.2.5-beta?classifier=sources
 - pkg:maven/com.adobe.target.mobile/target-vec@0.2.5-beta?type=aar
+- pkg:maven/com.adobe.target.mobile/target-vec@0.2.6-beta?classifier=sources
+- pkg:maven/com.adobe.target.mobile/target-vec@0.2.6-beta?type=aar
+- pkg:maven/com.adobe.target.mobile/target-vec@0.3.0-beta?classifier=sources
+- pkg:maven/com.adobe.target.mobile/target-vec@0.3.0-beta?type=aar

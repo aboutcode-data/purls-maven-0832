@@ -68,3 +68,7 @@
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.21.6?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.21.7
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.21.7?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.22.0
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.22.0?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.22.1
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.22.1?classifier=sources

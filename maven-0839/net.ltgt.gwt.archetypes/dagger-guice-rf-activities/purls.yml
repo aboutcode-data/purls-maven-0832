@@ -3,3 +3,4 @@
 - pkg:maven/net.ltgt.gwt.archetypes/dagger-guice-rf-activities@2018.1.15?classifier=sources
 - pkg:maven/net.ltgt.gwt.archetypes/dagger-guice-rf-activities@2018.4.29?classifier=sources
 - pkg:maven/net.ltgt.gwt.archetypes/dagger-guice-rf-activities@2018.5.2?classifier=sources
+- pkg:maven/net.ltgt.gwt.archetypes/dagger-guice-rf-activities@2019.2.26?classifier=sources

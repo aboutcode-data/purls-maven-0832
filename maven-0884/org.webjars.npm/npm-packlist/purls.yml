@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/npm-packlist@1.1.11?classifier=sources
 - pkg:maven/org.webjars.npm/npm-packlist@1.1.12
 - pkg:maven/org.webjars.npm/npm-packlist@1.1.12?classifier=sources
+- pkg:maven/org.webjars.npm/npm-packlist@1.2.0
+- pkg:maven/org.webjars.npm/npm-packlist@1.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/npm-packlist@1.4.1
+- pkg:maven/org.webjars.npm/npm-packlist@1.4.1?classifier=sources

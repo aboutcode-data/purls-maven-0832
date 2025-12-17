@@ -64,6 +64,12 @@
 - pkg:maven/com.github.libgraviton/worker-base@0.25.3?classifier=sources
 - pkg:maven/com.github.libgraviton/worker-base@0.25.4
 - pkg:maven/com.github.libgraviton/worker-base@0.25.4?classifier=sources
+- pkg:maven/com.github.libgraviton/worker-base@0.25.6
+- pkg:maven/com.github.libgraviton/worker-base@0.25.6?classifier=sources
+- pkg:maven/com.github.libgraviton/worker-base@0.25.7
+- pkg:maven/com.github.libgraviton/worker-base@0.25.7?classifier=sources
+- pkg:maven/com.github.libgraviton/worker-base@0.26.0
+- pkg:maven/com.github.libgraviton/worker-base@0.26.0?classifier=sources
 - pkg:maven/com.github.libgraviton/worker-base@0.3.0
 - pkg:maven/com.github.libgraviton/worker-base@0.3.0?classifier=sources
 - pkg:maven/com.github.libgraviton/worker-base@0.4.0

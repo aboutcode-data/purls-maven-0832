@@ -1,0 +1,1 @@
+- pkg:maven/uk.co.matbooth.flatpak/flatpak-dev-shim@0.0.1?classifier=sources

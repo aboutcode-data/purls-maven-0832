@@ -1,0 +1,2 @@
+- pkg:maven/org.xbib.elasticsearch/gradle-plugin-elasticsearch-vagrant@6.3.2.5
+- pkg:maven/org.xbib.elasticsearch/gradle-plugin-elasticsearch-vagrant@6.3.2.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.neo4j/neo4j-tinkerpop-procedures@0.7-3.2.3
 - pkg:maven/org.neo4j/neo4j-tinkerpop-procedures@0.7-3.2.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-tinkerpop-procedures@0.9-3.4.0
+- pkg:maven/org.neo4j/neo4j-tinkerpop-procedures@0.9-3.4.0?classifier=sources

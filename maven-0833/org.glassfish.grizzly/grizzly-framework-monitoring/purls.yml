@@ -102,3 +102,5 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-framework-monitoring@2.4.3.1
 - pkg:maven/org.glassfish.grizzly/grizzly-framework-monitoring@2.4.3.1?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-framework-monitoring@2.4.3?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-framework-monitoring@2.4.4
+- pkg:maven/org.glassfish.grizzly/grizzly-framework-monitoring@2.4.4?classifier=sources

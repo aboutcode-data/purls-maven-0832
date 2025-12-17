@@ -16,3 +16,5 @@
 - pkg:maven/com.wolftechnica.cloud/wt-google-cloud@0.8?classifier=sources
 - pkg:maven/com.wolftechnica.cloud/wt-google-cloud@0.9
 - pkg:maven/com.wolftechnica.cloud/wt-google-cloud@0.9?classifier=sources
+- pkg:maven/com.wolftechnica.cloud/wt-google-cloud@1.0
+- pkg:maven/com.wolftechnica.cloud/wt-google-cloud@1.0?classifier=sources

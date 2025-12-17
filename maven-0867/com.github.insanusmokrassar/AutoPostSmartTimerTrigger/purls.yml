@@ -12,3 +12,5 @@
 - pkg:maven/com.github.insanusmokrassar/AutoPostSmartTimerTrigger@0.8?classifier=sources
 - pkg:maven/com.github.insanusmokrassar/AutoPostSmartTimerTrigger@0.9
 - pkg:maven/com.github.insanusmokrassar/AutoPostSmartTimerTrigger@0.9?classifier=sources
+- pkg:maven/com.github.insanusmokrassar/AutoPostSmartTimerTrigger@1.0.0
+- pkg:maven/com.github.insanusmokrassar/AutoPostSmartTimerTrigger@1.0.0?classifier=sources

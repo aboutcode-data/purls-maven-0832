@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ci-env@1.7.0
+- pkg:maven/org.webjars.npm/ci-env@1.7.0?classifier=sources

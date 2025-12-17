@@ -1,0 +1,2 @@
+- pkg:maven/com.github.crabime/nf-commons@19.03.0-edge
+- pkg:maven/com.github.crabime/nf-commons@19.03.0-edge?classifier=sources

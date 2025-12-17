@@ -72,6 +72,8 @@
 - pkg:maven/org.rocksdb/rocksdbjni@5.15.10?classifier=sources
 - pkg:maven/org.rocksdb/rocksdbjni@5.17.2
 - pkg:maven/org.rocksdb/rocksdbjni@5.17.2?classifier=sources
+- pkg:maven/org.rocksdb/rocksdbjni@5.18.3
+- pkg:maven/org.rocksdb/rocksdbjni@5.18.3?classifier=sources
 - pkg:maven/org.rocksdb/rocksdbjni@5.2.1
 - pkg:maven/org.rocksdb/rocksdbjni@5.2.1?classifier=sources
 - pkg:maven/org.rocksdb/rocksdbjni@5.3.4
@@ -102,3 +104,5 @@
 - pkg:maven/org.rocksdb/rocksdbjni@5.8.7?classifier=sources
 - pkg:maven/org.rocksdb/rocksdbjni@5.9.2
 - pkg:maven/org.rocksdb/rocksdbjni@5.9.2?classifier=sources
+- pkg:maven/org.rocksdb/rocksdbjni@6.0.1
+- pkg:maven/org.rocksdb/rocksdbjni@6.0.1?classifier=sources

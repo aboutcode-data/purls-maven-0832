@@ -1,0 +1,2 @@
+- pkg:maven/org.xbib/metrics-common@1.2.0
+- pkg:maven/org.xbib/metrics-common@1.2.0?classifier=sources

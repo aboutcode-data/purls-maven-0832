@@ -1,0 +1,8 @@
+- pkg:maven/edu.asu.diging/simple-users@0.2
+- pkg:maven/edu.asu.diging/simple-users@0.2?classifier=sources
+- pkg:maven/edu.asu.diging/simple-users@0.3
+- pkg:maven/edu.asu.diging/simple-users@0.3?classifier=sources
+- pkg:maven/edu.asu.diging/simple-users@0.4
+- pkg:maven/edu.asu.diging/simple-users@0.4?classifier=sources
+- pkg:maven/edu.asu.diging/simple-users@0.5
+- pkg:maven/edu.asu.diging/simple-users@0.5?classifier=sources

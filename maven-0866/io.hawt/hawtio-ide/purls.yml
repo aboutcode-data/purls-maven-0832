@@ -190,3 +190,9 @@
 - pkg:maven/io.hawt/hawtio-ide@2.2.0?classifier=sources
 - pkg:maven/io.hawt/hawtio-ide@2.3.0
 - pkg:maven/io.hawt/hawtio-ide@2.3.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-ide@2.4.0
+- pkg:maven/io.hawt/hawtio-ide@2.4.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-ide@2.5.0
+- pkg:maven/io.hawt/hawtio-ide@2.5.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-ide@2.6.0
+- pkg:maven/io.hawt/hawtio-ide@2.6.0?classifier=sources

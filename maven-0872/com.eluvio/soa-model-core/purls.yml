@@ -1,0 +1,2 @@
+- pkg:maven/com.eluvio/soa-model-core@1.6.1
+- pkg:maven/com.eluvio/soa-model-core@1.6.1?classifier=sources

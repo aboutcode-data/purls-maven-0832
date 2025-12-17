@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicecomb.saga.transports/transport-resttemplate@0.3.0
+- pkg:maven/org.apache.servicecomb.saga.transports/transport-resttemplate@0.3.0?classifier=sources

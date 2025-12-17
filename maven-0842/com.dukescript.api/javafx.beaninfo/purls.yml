@@ -4,3 +4,5 @@
 - pkg:maven/com.dukescript.api/javafx.beaninfo@0.2?classifier=sources
 - pkg:maven/com.dukescript.api/javafx.beaninfo@0.3
 - pkg:maven/com.dukescript.api/javafx.beaninfo@0.3?classifier=sources
+- pkg:maven/com.dukescript.api/javafx.beaninfo@0.4?classifier=sources
+- pkg:maven/com.dukescript.api/javafx.beaninfo@0.5?classifier=sources

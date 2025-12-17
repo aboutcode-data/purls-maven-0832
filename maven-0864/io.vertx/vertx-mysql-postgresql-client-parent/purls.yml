@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-mysql-postgresql-client-parent@3.6.3?classifier=sources
+- pkg:maven/io.vertx/vertx-mysql-postgresql-client-parent@3.7.0?classifier=sources

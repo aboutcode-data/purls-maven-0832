@@ -1,0 +1,2 @@
+- pkg:maven/ir.mobintabaran.android/mt-text-view@0.0?classifier=sources
+- pkg:maven/ir.mobintabaran.android/mt-text-view@0.0?type=aar

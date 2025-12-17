@@ -5,3 +5,5 @@
 - pkg:maven/com.github.satoshun.RxWebView/rxwebview@2.2.0?type=aar
 - pkg:maven/com.github.satoshun.RxWebView/rxwebview@2.3.0?classifier=sources
 - pkg:maven/com.github.satoshun.RxWebView/rxwebview@2.3.0?type=aar
+- pkg:maven/com.github.satoshun.RxWebView/rxwebview@2.3.1?classifier=sources
+- pkg:maven/com.github.satoshun.RxWebView/rxwebview@2.3.1?type=aar

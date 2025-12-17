@@ -2,3 +2,7 @@
 - pkg:maven/de.digitalcollections.model/dc-model@2.0.0?classifier=sources
 - pkg:maven/de.digitalcollections.model/dc-model@2.1.0
 - pkg:maven/de.digitalcollections.model/dc-model@2.1.0?classifier=sources
+- pkg:maven/de.digitalcollections.model/dc-model@2.2.0
+- pkg:maven/de.digitalcollections.model/dc-model@2.2.0?classifier=sources
+- pkg:maven/de.digitalcollections.model/dc-model@3.0.0
+- pkg:maven/de.digitalcollections.model/dc-model@3.0.0?classifier=sources

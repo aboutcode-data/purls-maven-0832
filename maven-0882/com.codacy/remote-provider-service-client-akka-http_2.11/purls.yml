@@ -1,0 +1,12 @@
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.10.0%2Bakka24Circe011
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.10.0%2Bakka24Circe011?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.10.0%2Bakka25Circe011
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.10.0%2Bakka25Circe011?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.8.1%2Bakka24Circe011
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.8.1%2Bakka24Circe011?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.8.1%2Bakka25Circe011
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.8.1%2Bakka25Circe011?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.9.0%2Bakka24Circe011
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.9.0%2Bakka24Circe011?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.9.0%2Bakka25Circe011
+- pkg:maven/com.codacy/remote-provider-service-client-akka-http_2.11@0.9.0%2Bakka25Circe011?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.5-10-649d2b3
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.5-10-649d2b3?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.5-7-189109d
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.5-7-189109d?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.6
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.6-0-2b13f8a
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.6-0-2b13f8a?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.6-1-05ecc9b
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.6-1-05ecc9b?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.0-M5@1.6.6?classifier=sources

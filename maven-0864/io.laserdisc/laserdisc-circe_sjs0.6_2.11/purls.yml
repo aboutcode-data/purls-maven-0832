@@ -1,2 +1,4 @@
 - pkg:maven/io.laserdisc/laserdisc-circe_sjs0.6_2.11@0.2.2
 - pkg:maven/io.laserdisc/laserdisc-circe_sjs0.6_2.11@0.2.2?classifier=sources
+- pkg:maven/io.laserdisc/laserdisc-circe_sjs0.6_2.11@0.2.3
+- pkg:maven/io.laserdisc/laserdisc-circe_sjs0.6_2.11@0.2.3?classifier=sources

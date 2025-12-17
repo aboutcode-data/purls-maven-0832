@@ -1,0 +1,2 @@
+- pkg:maven/org.mountcloud/imagej-operate@0.1
+- pkg:maven/org.mountcloud/imagej-operate@0.1?classifier=sources

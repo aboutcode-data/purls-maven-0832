@@ -16,3 +16,5 @@
 - pkg:maven/eu.timepit/status-page-cats_2.12@0.2.2?classifier=sources
 - pkg:maven/eu.timepit/status-page-cats_2.12@0.2.3
 - pkg:maven/eu.timepit/status-page-cats_2.12@0.2.3?classifier=sources
+- pkg:maven/eu.timepit/status-page-cats_2.12@0.2.4
+- pkg:maven/eu.timepit/status-page-cats_2.12@0.2.4?classifier=sources

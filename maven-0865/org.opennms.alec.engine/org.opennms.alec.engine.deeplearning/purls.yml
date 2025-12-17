@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.alec.engine/org.opennms.alec.engine.deeplearning@1.0.0
+- pkg:maven/org.opennms.alec.engine/org.opennms.alec.engine.deeplearning@1.0.0?classifier=sources

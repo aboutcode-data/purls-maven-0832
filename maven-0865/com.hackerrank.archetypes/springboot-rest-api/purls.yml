@@ -1,0 +1,2 @@
+- pkg:maven/com.hackerrank.archetypes/springboot-rest-api@0.0.0?classifier=sources
+- pkg:maven/com.hackerrank.archetypes/springboot-rest-api@1.0.0?classifier=sources

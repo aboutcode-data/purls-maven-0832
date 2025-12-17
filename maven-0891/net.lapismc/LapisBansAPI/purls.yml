@@ -1,0 +1,4 @@
+- pkg:maven/net.lapismc/LapisBansAPI@2.0.0-BETA-02
+- pkg:maven/net.lapismc/LapisBansAPI@2.0.0-BETA-02?classifier=sources
+- pkg:maven/net.lapismc/LapisBansAPI@2.0.0-BETA-03
+- pkg:maven/net.lapismc/LapisBansAPI@2.0.0-BETA-03?classifier=sources

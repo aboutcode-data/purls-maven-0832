@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.james/apache-james-mpt-imapmailbox-rabbitmq@3.3.0
+- pkg:maven/org.apache.james/apache-james-mpt-imapmailbox-rabbitmq@3.3.0?classifier=sources

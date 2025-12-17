@@ -1,0 +1,8 @@
+- pkg:maven/com.thoughtworks.binding/component_2.11@0.1.0-2-31de8e9a
+- pkg:maven/com.thoughtworks.binding/component_2.11@0.1.0-2-31de8e9a?classifier=sources
+- pkg:maven/com.thoughtworks.binding/component_2.11@0.1.1
+- pkg:maven/com.thoughtworks.binding/component_2.11@0.1.1-1-5c318fff
+- pkg:maven/com.thoughtworks.binding/component_2.11@0.1.1-1-5c318fff?classifier=sources
+- pkg:maven/com.thoughtworks.binding/component_2.11@0.1.1-2-a269d339
+- pkg:maven/com.thoughtworks.binding/component_2.11@0.1.1-2-a269d339?classifier=sources
+- pkg:maven/com.thoughtworks.binding/component_2.11@0.1.1?classifier=sources

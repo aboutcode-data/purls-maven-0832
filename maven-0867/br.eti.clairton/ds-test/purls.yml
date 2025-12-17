@@ -1,2 +1,4 @@
 - pkg:maven/br.eti.clairton/ds-test@0.4.0
 - pkg:maven/br.eti.clairton/ds-test@0.4.0?classifier=sources
+- pkg:maven/br.eti.clairton/ds-test@1.0.1
+- pkg:maven/br.eti.clairton/ds-test@1.0.1?classifier=sources

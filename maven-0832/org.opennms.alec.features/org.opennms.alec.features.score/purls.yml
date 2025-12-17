@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.alec.features/org.opennms.alec.features.score@1.0.0
+- pkg:maven/org.opennms.alec.features/org.opennms.alec.features.score@1.0.0?classifier=sources

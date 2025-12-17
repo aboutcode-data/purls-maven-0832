@@ -46,6 +46,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-wicket7@6.28.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-wicket7@6.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-wicket7@6.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-wicket7@6.30.0
+- pkg:maven/org.wicketstuff/wicketstuff-wicket7@6.30.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-wicket7@6.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-wicket7@6.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-wicket7@6.5.0

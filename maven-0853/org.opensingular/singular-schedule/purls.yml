@@ -4,6 +4,7 @@
 - pkg:maven/org.opensingular/singular-schedule@1.8.1-RC2
 - pkg:maven/org.opensingular/singular-schedule@1.8.1-RC2?classifier=sources
 - pkg:maven/org.opensingular/singular-schedule@1.8.1?classifier=sources
+- pkg:maven/org.opensingular/singular-schedule@1.8.2
 - pkg:maven/org.opensingular/singular-schedule@1.8.2-RC1
 - pkg:maven/org.opensingular/singular-schedule@1.8.2-RC1?classifier=sources
 - pkg:maven/org.opensingular/singular-schedule@1.8.2-RC2
@@ -16,3 +17,14 @@
 - pkg:maven/org.opensingular/singular-schedule@1.8.2-RC5?classifier=sources
 - pkg:maven/org.opensingular/singular-schedule@1.8.2-RC6
 - pkg:maven/org.opensingular/singular-schedule@1.8.2-RC6?classifier=sources
+- pkg:maven/org.opensingular/singular-schedule@1.8.2-RC7
+- pkg:maven/org.opensingular/singular-schedule@1.8.2-RC7?classifier=sources
+- pkg:maven/org.opensingular/singular-schedule@1.8.2.1
+- pkg:maven/org.opensingular/singular-schedule@1.8.2.1?classifier=sources
+- pkg:maven/org.opensingular/singular-schedule@1.8.2.2
+- pkg:maven/org.opensingular/singular-schedule@1.8.2.2?classifier=sources
+- pkg:maven/org.opensingular/singular-schedule@1.8.2?classifier=sources
+- pkg:maven/org.opensingular/singular-schedule@1.9.0
+- pkg:maven/org.opensingular/singular-schedule@1.9.0-RC1
+- pkg:maven/org.opensingular/singular-schedule@1.9.0-RC1?classifier=sources
+- pkg:maven/org.opensingular/singular-schedule@1.9.0?classifier=sources

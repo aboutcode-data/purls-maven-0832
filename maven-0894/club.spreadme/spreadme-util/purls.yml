@@ -1,0 +1,2 @@
+- pkg:maven/club.spreadme/spreadme-util@1.4.8
+- pkg:maven/club.spreadme/spreadme-util@1.4.8?classifier=sources

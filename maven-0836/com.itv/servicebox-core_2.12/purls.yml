@@ -14,3 +14,5 @@
 - pkg:maven/com.itv/servicebox-core_2.12@0.3.0?classifier=sources
 - pkg:maven/com.itv/servicebox-core_2.12@0.3.2
 - pkg:maven/com.itv/servicebox-core_2.12@0.3.2?classifier=sources
+- pkg:maven/com.itv/servicebox-core_2.12@0.3.3
+- pkg:maven/com.itv/servicebox-core_2.12@0.3.3?classifier=sources

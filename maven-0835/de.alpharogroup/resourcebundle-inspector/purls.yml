@@ -43,4 +43,6 @@
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.9.0
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@2.9.0?classifier=sources
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@3
+- pkg:maven/de.alpharogroup/resourcebundle-inspector@3.0.1
+- pkg:maven/de.alpharogroup/resourcebundle-inspector@3.0.1?classifier=sources
 - pkg:maven/de.alpharogroup/resourcebundle-inspector@3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/no.ks.fiks/dokumentlager-klient-spring-boot@1.1.0
+- pkg:maven/no.ks.fiks/dokumentlager-klient-spring-boot@1.1.0?classifier=sources

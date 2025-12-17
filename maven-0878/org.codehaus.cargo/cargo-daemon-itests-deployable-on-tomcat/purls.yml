@@ -35,3 +35,6 @@
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-deployable-on-tomcat@1.6.8
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-deployable-on-tomcat@1.6.9
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-deployable-on-tomcat@1.7.0
+- pkg:maven/org.codehaus.cargo/cargo-daemon-itests-deployable-on-tomcat@1.7.1
+- pkg:maven/org.codehaus.cargo/cargo-daemon-itests-deployable-on-tomcat@1.7.2
+- pkg:maven/org.codehaus.cargo/cargo-daemon-itests-deployable-on-tomcat@1.7.3

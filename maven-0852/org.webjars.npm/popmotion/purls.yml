@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/popmotion@8.5.5
+- pkg:maven/org.webjars.npm/popmotion@8.5.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.fixprotocol.orchestra/testgen@1.2.0-RC3
 - pkg:maven/io.fixprotocol.orchestra/testgen@1.2.0-RC3?classifier=sources
+- pkg:maven/io.fixprotocol.orchestra/testgen@1.3.0-RC4
+- pkg:maven/io.fixprotocol.orchestra/testgen@1.3.0-RC4?classifier=sources

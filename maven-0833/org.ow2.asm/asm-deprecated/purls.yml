@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.asm/asm-deprecated@7.1
+- pkg:maven/org.ow2.asm/asm-deprecated@7.1?classifier=sources

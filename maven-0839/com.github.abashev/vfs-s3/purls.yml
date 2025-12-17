@@ -1,4 +1,8 @@
 - pkg:maven/com.github.abashev/vfs-s3@2.4.1
 - pkg:maven/com.github.abashev/vfs-s3@2.4.1?classifier=sources
+- pkg:maven/com.github.abashev/vfs-s3@3.0.0
 - pkg:maven/com.github.abashev/vfs-s3@3.0.0.RC1
 - pkg:maven/com.github.abashev/vfs-s3@3.0.0.RC1?classifier=sources
+- pkg:maven/com.github.abashev/vfs-s3@3.0.0.RC2
+- pkg:maven/com.github.abashev/vfs-s3@3.0.0.RC2?classifier=sources
+- pkg:maven/com.github.abashev/vfs-s3@3.0.0?classifier=sources

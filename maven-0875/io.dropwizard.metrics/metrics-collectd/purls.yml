@@ -2,3 +2,5 @@
 - pkg:maven/io.dropwizard.metrics/metrics-collectd@4.1.0-rc0?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-collectd@4.1.0-rc2
 - pkg:maven/io.dropwizard.metrics/metrics-collectd@4.1.0-rc2?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-collectd@4.1.0-rc3
+- pkg:maven/io.dropwizard.metrics/metrics-collectd@4.1.0-rc3?classifier=sources

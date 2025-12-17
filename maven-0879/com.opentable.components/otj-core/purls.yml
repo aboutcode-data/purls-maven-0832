@@ -12,3 +12,5 @@
 - pkg:maven/com.opentable.components/otj-core@1.5.1?classifier=sources
 - pkg:maven/com.opentable.components/otj-core@1.6.0
 - pkg:maven/com.opentable.components/otj-core@1.6.0?classifier=sources
+- pkg:maven/com.opentable.components/otj-core@1.6.1
+- pkg:maven/com.opentable.components/otj-core@1.6.1?classifier=sources

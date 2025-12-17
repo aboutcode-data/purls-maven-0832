@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.hengboy/job-common@0.0.1.RELEASE
+- pkg:maven/com.gitee.hengboy/job-common@0.0.1.RELEASE?classifier=sources

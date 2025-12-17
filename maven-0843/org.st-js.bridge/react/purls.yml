@@ -10,3 +10,5 @@
 - pkg:maven/org.st-js.bridge/react@0.13.3.bv5?classifier=sources
 - pkg:maven/org.st-js.bridge/react@0.14.7.bv1
 - pkg:maven/org.st-js.bridge/react@0.14.7.bv1?classifier=sources
+- pkg:maven/org.st-js.bridge/react@16.7.0.bv0
+- pkg:maven/org.st-js.bridge/react@16.7.0.bv0?classifier=sources

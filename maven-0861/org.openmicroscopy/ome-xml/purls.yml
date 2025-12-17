@@ -30,3 +30,9 @@
 - pkg:maven/org.openmicroscopy/ome-xml@5.6.3?classifier=sources
 - pkg:maven/org.openmicroscopy/ome-xml@5.6.4
 - pkg:maven/org.openmicroscopy/ome-xml@5.6.4?classifier=sources
+- pkg:maven/org.openmicroscopy/ome-xml@6.0.0
+- pkg:maven/org.openmicroscopy/ome-xml@6.0.0-m1
+- pkg:maven/org.openmicroscopy/ome-xml@6.0.0-m1?classifier=sources
+- pkg:maven/org.openmicroscopy/ome-xml@6.0.0-m2
+- pkg:maven/org.openmicroscopy/ome-xml@6.0.0-m2?classifier=sources
+- pkg:maven/org.openmicroscopy/ome-xml@6.0.0?classifier=sources

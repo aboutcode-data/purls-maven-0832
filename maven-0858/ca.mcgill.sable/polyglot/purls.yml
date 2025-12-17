@@ -1,0 +1,2 @@
+- pkg:maven/ca.mcgill.sable/polyglot@2006
+- pkg:maven/ca.mcgill.sable/polyglot@2006?classifier=sources

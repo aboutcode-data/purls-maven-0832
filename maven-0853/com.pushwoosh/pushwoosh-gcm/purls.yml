@@ -1,5 +1,8 @@
 - pkg:maven/com.pushwoosh/pushwoosh-gcm@5.1.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-gcm@5.1.1?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-gcm@5.11.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-gcm@5.12.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-gcm@5.12.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-gcm@5.4.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-gcm@5.4.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-gcm@5.4.2?type=aar

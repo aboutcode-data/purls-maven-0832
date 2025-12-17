@@ -106,3 +106,5 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.0.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.1.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.1.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.3.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.3.0?classifier=sources

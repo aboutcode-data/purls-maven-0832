@@ -1,0 +1,2 @@
+- pkg:maven/io.ayte.utility.fabricator/api@0.1.0
+- pkg:maven/io.ayte.utility.fabricator/api@0.1.0?classifier=sources

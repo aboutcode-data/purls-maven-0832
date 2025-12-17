@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/coa@1.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/coa@2.0.1
 - pkg:maven/org.webjars.npm/coa@2.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/coa@2.0.2
+- pkg:maven/org.webjars.npm/coa@2.0.2?classifier=sources

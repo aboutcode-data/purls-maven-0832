@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/dubbo-conflict-patch@6.0.0-GA
+- pkg:maven/org.apache.skywalking/dubbo-conflict-patch@6.0.0-GA?classifier=sources

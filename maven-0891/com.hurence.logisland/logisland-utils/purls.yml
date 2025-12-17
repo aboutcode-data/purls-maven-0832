@@ -12,3 +12,7 @@
 - pkg:maven/com.hurence.logisland/logisland-utils@0.9.6?classifier=sources
 - pkg:maven/com.hurence.logisland/logisland-utils@0.9.7
 - pkg:maven/com.hurence.logisland/logisland-utils@0.9.7?classifier=sources
+- pkg:maven/com.hurence.logisland/logisland-utils@1.1.0
+- pkg:maven/com.hurence.logisland/logisland-utils@1.1.0?classifier=sources
+- pkg:maven/com.hurence.logisland/logisland-utils@1.1.2
+- pkg:maven/com.hurence.logisland/logisland-utils@1.1.2?classifier=sources

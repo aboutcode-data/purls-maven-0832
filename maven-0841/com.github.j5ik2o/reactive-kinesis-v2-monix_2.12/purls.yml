@@ -1,0 +1,2 @@
+- pkg:maven/com.github.j5ik2o/reactive-kinesis-v2-monix_2.12@1.0.7
+- pkg:maven/com.github.j5ik2o/reactive-kinesis-v2-monix_2.12@1.0.7?classifier=sources

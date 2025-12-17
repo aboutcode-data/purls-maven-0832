@@ -20,3 +20,7 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/html-to-pef@2.5.2?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/html-to-pef@2.6.0
 - pkg:maven/org.daisy.pipeline.modules.braille/html-to-pef@2.6.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/html-to-pef@3.0.0
+- pkg:maven/org.daisy.pipeline.modules.braille/html-to-pef@3.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/html-to-pef@3.1.0
+- pkg:maven/org.daisy.pipeline.modules.braille/html-to-pef@3.1.0?classifier=sources

@@ -5,4 +5,6 @@
 - pkg:maven/com.github.spullara.cli-parser/cli-parser@1.1.1?classifier=sources
 - pkg:maven/com.github.spullara.cli-parser/cli-parser@1.1.2
 - pkg:maven/com.github.spullara.cli-parser/cli-parser@1.1.2?classifier=sources
+- pkg:maven/com.github.spullara.cli-parser/cli-parser@1.1.5
+- pkg:maven/com.github.spullara.cli-parser/cli-parser@1.1.5?classifier=sources
 - pkg:maven/com.github.spullara.cli-parser/cli-parser@1.1?classifier=sources

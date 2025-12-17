@@ -4,3 +4,5 @@
 - pkg:maven/org.sonarsource.scm.git/sonar-scm-git-plugin@1.4.0.1037?classifier=sources
 - pkg:maven/org.sonarsource.scm.git/sonar-scm-git-plugin@1.4.1.1128?classifier=sources
 - pkg:maven/org.sonarsource.scm.git/sonar-scm-git-plugin@1.6.0.1349?classifier=sources
+- pkg:maven/org.sonarsource.scm.git/sonar-scm-git-plugin@1.7.0.1491?classifier=sources
+- pkg:maven/org.sonarsource.scm.git/sonar-scm-git-plugin@1.8.0.1574?classifier=sources

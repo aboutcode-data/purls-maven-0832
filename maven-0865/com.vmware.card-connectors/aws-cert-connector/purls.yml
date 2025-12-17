@@ -2,3 +2,5 @@
 - pkg:maven/com.vmware.card-connectors/aws-cert-connector@2.0?classifier=sources
 - pkg:maven/com.vmware.card-connectors/aws-cert-connector@2.1
 - pkg:maven/com.vmware.card-connectors/aws-cert-connector@2.1?classifier=sources
+- pkg:maven/com.vmware.card-connectors/aws-cert-connector@2.2
+- pkg:maven/com.vmware.card-connectors/aws-cert-connector@2.2?classifier=sources

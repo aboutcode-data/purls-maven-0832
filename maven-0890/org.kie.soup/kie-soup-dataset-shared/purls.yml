@@ -10,6 +10,16 @@
 - pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.14.0.Final?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.15.0.Final
 - pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.15.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.16.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.16.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.17.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.17.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.18.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.18.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.19.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.19.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.20.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.20.0.Final?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.5.0.Final
 - pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-dataset-shared@7.5.0.t018

@@ -1,0 +1,2 @@
+- pkg:maven/com.trello.identifier/package-identifier@0.0.1
+- pkg:maven/com.trello.identifier/package-identifier@0.0.1?classifier=sources

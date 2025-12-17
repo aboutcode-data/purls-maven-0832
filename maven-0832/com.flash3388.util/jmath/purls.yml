@@ -1,0 +1,2 @@
+- pkg:maven/com.flash3388.util/jmath@1.0
+- pkg:maven/com.flash3388.util/jmath@1.0?classifier=sources

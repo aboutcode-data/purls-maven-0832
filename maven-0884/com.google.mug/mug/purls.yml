@@ -7,6 +7,8 @@
 - pkg:maven/com.google.mug/mug@1.11?classifier=sources
 - pkg:maven/com.google.mug/mug@1.12
 - pkg:maven/com.google.mug/mug@1.12?classifier=sources
+- pkg:maven/com.google.mug/mug@1.14
+- pkg:maven/com.google.mug/mug@1.14?classifier=sources
 - pkg:maven/com.google.mug/mug@1.1?classifier=sources
 - pkg:maven/com.google.mug/mug@1.2
 - pkg:maven/com.google.mug/mug@1.2?classifier=sources
@@ -22,3 +24,9 @@
 - pkg:maven/com.google.mug/mug@1.8?classifier=sources
 - pkg:maven/com.google.mug/mug@1.9
 - pkg:maven/com.google.mug/mug@1.9?classifier=sources
+- pkg:maven/com.google.mug/mug@2.0
+- pkg:maven/com.google.mug/mug@2.0?classifier=sources
+- pkg:maven/com.google.mug/mug@2.1
+- pkg:maven/com.google.mug/mug@2.1?classifier=sources
+- pkg:maven/com.google.mug/mug@2.2
+- pkg:maven/com.google.mug/mug@2.2?classifier=sources

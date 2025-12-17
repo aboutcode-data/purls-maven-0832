@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.maven.archetypes/maven-archetype-plugin@1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.archetypes/maven-archetype-plugin@1.2?classifier=sources
 - pkg:maven/org.apache.maven.archetypes/maven-archetype-plugin@1.3?classifier=sources
+- pkg:maven/org.apache.maven.archetypes/maven-archetype-plugin@1.4?classifier=sources

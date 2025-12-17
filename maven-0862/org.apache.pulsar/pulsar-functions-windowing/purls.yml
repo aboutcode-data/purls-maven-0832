@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.pulsar/pulsar-functions-windowing@2.3.0
+- pkg:maven/org.apache.pulsar/pulsar-functions-windowing@2.3.0?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-functions-windowing@2.3.1
+- pkg:maven/org.apache.pulsar/pulsar-functions-windowing@2.3.1?classifier=sources

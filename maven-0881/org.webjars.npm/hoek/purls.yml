@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/hoek@4.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/hoek@5.0.0
 - pkg:maven/org.webjars.npm/hoek@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/hoek@6.1.2
+- pkg:maven/org.webjars.npm/hoek@6.1.2?classifier=sources

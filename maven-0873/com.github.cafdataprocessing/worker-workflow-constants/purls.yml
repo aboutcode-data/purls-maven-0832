@@ -1,2 +1,4 @@
 - pkg:maven/com.github.cafdataprocessing/worker-workflow-constants@1.0.0-157
 - pkg:maven/com.github.cafdataprocessing/worker-workflow-constants@1.0.0-157?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-workflow-constants@2.0.0-250
+- pkg:maven/com.github.cafdataprocessing/worker-workflow-constants@2.0.0-250?classifier=sources

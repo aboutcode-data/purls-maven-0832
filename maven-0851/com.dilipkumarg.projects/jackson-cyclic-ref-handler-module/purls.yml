@@ -1,0 +1,3 @@
+- pkg:maven/com.dilipkumarg.projects/jackson-cyclic-ref-handler-module@1.0.Release
+- pkg:maven/com.dilipkumarg.projects/jackson-cyclic-ref-handler-module@1.0.Release?classifier=sources
+- pkg:maven/com.dilipkumarg.projects/jackson-cyclic-ref-handler-module@1.0?classifier=sources

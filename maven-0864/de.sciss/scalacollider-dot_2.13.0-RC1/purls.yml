@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/scalacollider-dot_2.13.0-RC1@0.10.1
+- pkg:maven/de.sciss/scalacollider-dot_2.13.0-RC1@0.10.1?classifier=sources

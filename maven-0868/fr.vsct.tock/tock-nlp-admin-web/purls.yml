@@ -46,3 +46,7 @@
 - pkg:maven/fr.vsct.tock/tock-nlp-admin-web@1.2.0
 - pkg:maven/fr.vsct.tock/tock-nlp-admin-web@1.2.1
 - pkg:maven/fr.vsct.tock/tock-nlp-admin-web@1.3.0
+- pkg:maven/fr.vsct.tock/tock-nlp-admin-web@19.3.0
+- pkg:maven/fr.vsct.tock/tock-nlp-admin-web@2.0.0
+- pkg:maven/fr.vsct.tock/tock-nlp-admin-web@2.0.1
+- pkg:maven/fr.vsct.tock/tock-nlp-admin-web@2.0.2

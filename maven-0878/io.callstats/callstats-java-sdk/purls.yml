@@ -20,3 +20,5 @@
 - pkg:maven/io.callstats/callstats-java-sdk@4.2.0?classifier=sources
 - pkg:maven/io.callstats/callstats-java-sdk@5.0.0
 - pkg:maven/io.callstats/callstats-java-sdk@5.0.0?classifier=sources
+- pkg:maven/io.callstats/callstats-java-sdk@5.1.0
+- pkg:maven/io.callstats/callstats-java-sdk@5.1.0?classifier=sources

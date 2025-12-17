@@ -8,3 +8,5 @@
 - pkg:maven/io.bootique.flyway/bootique-flyway@0.2?classifier=sources
 - pkg:maven/io.bootique.flyway/bootique-flyway@0.3
 - pkg:maven/io.bootique.flyway/bootique-flyway@0.3?classifier=sources
+- pkg:maven/io.bootique.flyway/bootique-flyway@1.0.RC1
+- pkg:maven/io.bootique.flyway/bootique-flyway@1.0.RC1?classifier=sources

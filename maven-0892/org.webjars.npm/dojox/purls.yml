@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/dojox@1.14.1?classifier=sources
 - pkg:maven/org.webjars.npm/dojox@1.14.2
 - pkg:maven/org.webjars.npm/dojox@1.14.2?classifier=sources
+- pkg:maven/org.webjars.npm/dojox@1.15.0
+- pkg:maven/org.webjars.npm/dojox@1.15.0?classifier=sources

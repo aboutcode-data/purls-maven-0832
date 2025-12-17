@@ -8,3 +8,5 @@
 - pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@0.9.12?classifier=sources
 - pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@0.9.13
 - pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@0.9.13?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@0.9.14
+- pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@0.9.14?classifier=sources

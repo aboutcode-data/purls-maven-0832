@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.mariadb.v2018_06_01/azure-mgmt-mariadb@1.0.0-beta
+- pkg:maven/com.microsoft.azure.mariadb.v2018_06_01/azure-mgmt-mariadb@1.0.0-beta?classifier=sources

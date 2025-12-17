@@ -1,0 +1,2 @@
+- pkg:maven/org.antipathy/mvn-scoozie@0.4.5
+- pkg:maven/org.antipathy/mvn-scoozie@0.4.5?classifier=sources

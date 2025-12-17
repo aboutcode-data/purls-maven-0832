@@ -24,3 +24,5 @@
 - pkg:maven/com.github.choonchernlim/spring-security-adfs-saml2@0.7.1?classifier=sources
 - pkg:maven/com.github.choonchernlim/spring-security-adfs-saml2@0.8.0
 - pkg:maven/com.github.choonchernlim/spring-security-adfs-saml2@0.8.0?classifier=sources
+- pkg:maven/com.github.choonchernlim/spring-security-adfs-saml2@0.9.0
+- pkg:maven/com.github.choonchernlim/spring-security-adfs-saml2@0.9.0?classifier=sources

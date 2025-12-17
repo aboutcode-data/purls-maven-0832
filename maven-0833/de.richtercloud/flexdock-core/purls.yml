@@ -1,0 +1,2 @@
+- pkg:maven/de.richtercloud/flexdock-core@1.2.3
+- pkg:maven/de.richtercloud/flexdock-core@1.2.3?classifier=sources

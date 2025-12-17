@@ -26,3 +26,9 @@
 - pkg:maven/org.pac4j/pac4j-couch@3.3.0?classifier=sources
 - pkg:maven/org.pac4j/pac4j-couch@3.4.0
 - pkg:maven/org.pac4j/pac4j-couch@3.4.0?classifier=sources
+- pkg:maven/org.pac4j/pac4j-couch@3.5.0
+- pkg:maven/org.pac4j/pac4j-couch@3.5.0?classifier=sources
+- pkg:maven/org.pac4j/pac4j-couch@3.6.0
+- pkg:maven/org.pac4j/pac4j-couch@3.6.0?classifier=sources
+- pkg:maven/org.pac4j/pac4j-couch@3.6.1
+- pkg:maven/org.pac4j/pac4j-couch@3.6.1?classifier=sources

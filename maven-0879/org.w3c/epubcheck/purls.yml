@@ -1,0 +1,4 @@
+- pkg:maven/org.w3c/epubcheck@4.2.0-beta
+- pkg:maven/org.w3c/epubcheck@4.2.0-beta?classifier=sources
+- pkg:maven/org.w3c/epubcheck@4.2.0-rc
+- pkg:maven/org.w3c/epubcheck@4.2.0-rc?classifier=sources

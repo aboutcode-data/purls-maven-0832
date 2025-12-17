@@ -2,3 +2,5 @@
 - pkg:maven/io.skullabs.injector/injector-core@0.1.0.Final?classifier=sources
 - pkg:maven/io.skullabs.injector/injector-core@0.2.0.Final
 - pkg:maven/io.skullabs.injector/injector-core@0.2.0.Final?classifier=sources
+- pkg:maven/io.skullabs.injector/injector-core@0.3.0.Final
+- pkg:maven/io.skullabs.injector/injector-core@0.3.0.Final?classifier=sources

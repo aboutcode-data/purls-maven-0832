@@ -1,0 +1,6 @@
+- pkg:maven/org.touchbit.testrail4j/jackson2-feign-client@1.1.5-alpha
+- pkg:maven/org.touchbit.testrail4j/jackson2-feign-client@1.1.5-alpha?classifier=sources
+- pkg:maven/org.touchbit.testrail4j/jackson2-feign-client@2.0.1-beta
+- pkg:maven/org.touchbit.testrail4j/jackson2-feign-client@2.0.1-beta?classifier=sources
+- pkg:maven/org.touchbit.testrail4j/jackson2-feign-client@2.1.1
+- pkg:maven/org.touchbit.testrail4j/jackson2-feign-client@2.1.1?classifier=sources

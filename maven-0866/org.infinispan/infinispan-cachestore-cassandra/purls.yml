@@ -132,3 +132,5 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-cassandra@8.2.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-cassandra@8.2.1.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-cassandra@8.2.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-cassandra@9.4.0.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-cassandra@9.4.0.Final?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/one.xingyi/cddscenario_2.12@0.3
 - pkg:maven/one.xingyi/cddscenario_2.12@0.3?classifier=sources
+- pkg:maven/one.xingyi/cddscenario_2.12@0.5
+- pkg:maven/one.xingyi/cddscenario_2.12@0.5?classifier=sources

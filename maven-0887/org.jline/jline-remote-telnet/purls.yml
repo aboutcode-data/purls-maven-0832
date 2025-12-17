@@ -1,3 +1,7 @@
+- pkg:maven/org.jline/jline-remote-telnet@3.10.0
+- pkg:maven/org.jline/jline-remote-telnet@3.10.0?classifier=sources
+- pkg:maven/org.jline/jline-remote-telnet@3.11.0
+- pkg:maven/org.jline/jline-remote-telnet@3.11.0?classifier=sources
 - pkg:maven/org.jline/jline-remote-telnet@3.2.0
 - pkg:maven/org.jline/jline-remote-telnet@3.2.0?classifier=sources
 - pkg:maven/org.jline/jline-remote-telnet@3.3.0

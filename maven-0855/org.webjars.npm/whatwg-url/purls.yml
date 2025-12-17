@@ -12,5 +12,7 @@
 - pkg:maven/org.webjars.npm/whatwg-url@6.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/whatwg-url@6.4.1
 - pkg:maven/org.webjars.npm/whatwg-url@6.4.1?classifier=sources
+- pkg:maven/org.webjars.npm/whatwg-url@6.5.0
+- pkg:maven/org.webjars.npm/whatwg-url@6.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/whatwg-url@7.0.0
 - pkg:maven/org.webjars.npm/whatwg-url@7.0.0?classifier=sources

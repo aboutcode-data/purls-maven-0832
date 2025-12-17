@@ -1,0 +1,2 @@
+- pkg:maven/com.github.crabime/nextflow-gooalgene@18.11.0-edge
+- pkg:maven/com.github.crabime/nextflow-gooalgene@18.11.0-edge?classifier=sources

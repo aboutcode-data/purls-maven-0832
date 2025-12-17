@@ -1,0 +1,2 @@
+- pkg:maven/com.jdcloud.sdk/jdro@0.0.4
+- pkg:maven/com.jdcloud.sdk/jdro@0.0.4?classifier=sources

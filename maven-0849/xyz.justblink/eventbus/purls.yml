@@ -1,0 +1,4 @@
+- pkg:maven/xyz.justblink/eventbus@1.0
+- pkg:maven/xyz.justblink/eventbus@1.0?classifier=sources
+- pkg:maven/xyz.justblink/eventbus@1.1.0
+- pkg:maven/xyz.justblink/eventbus@1.1.0?classifier=sources

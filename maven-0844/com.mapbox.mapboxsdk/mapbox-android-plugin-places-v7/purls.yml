@@ -1,0 +1,4 @@
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-plugin-places-v7@0.7.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-plugin-places-v7@0.7.0?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-plugin-places-v7@0.8.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-plugin-places-v7@0.8.0?type=aar
