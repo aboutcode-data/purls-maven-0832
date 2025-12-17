@@ -23,6 +23,12 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.16
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.17
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.18
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.2
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.2?classifier=sources
@@ -40,3 +46,6 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.9
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@3.0.0
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@3.0.0?classifier=sources-commercial

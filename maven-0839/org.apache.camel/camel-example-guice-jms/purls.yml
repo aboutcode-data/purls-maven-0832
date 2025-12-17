@@ -142,6 +142,8 @@
 - pkg:maven/org.apache.camel/camel-example-guice-jms@2.19.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-guice-jms@2.19.4
 - pkg:maven/org.apache.camel/camel-example-guice-jms@2.19.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-guice-jms@2.19.5
+- pkg:maven/org.apache.camel/camel-example-guice-jms@2.19.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-guice-jms@2.2.0
 - pkg:maven/org.apache.camel/camel-example-guice-jms@2.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-guice-jms@2.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.hubspot.maven.plugins/protoc-bundled-plugin@1.4
+- pkg:maven/com.hubspot.maven.plugins/protoc-bundled-plugin@1.4?classifier=sources

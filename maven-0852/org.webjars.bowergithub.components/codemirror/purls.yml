@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.components/codemirror@5.38.0
+- pkg:maven/org.webjars.bowergithub.components/codemirror@5.38.0?classifier=sources

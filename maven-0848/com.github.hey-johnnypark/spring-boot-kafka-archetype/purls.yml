@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hey-johnnypark/spring-boot-kafka-archetype@1.0
+- pkg:maven/com.github.hey-johnnypark/spring-boot-kafka-archetype@1.0?classifier=sources

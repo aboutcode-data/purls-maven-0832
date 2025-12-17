@@ -257,6 +257,8 @@
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.1.13?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.1.14
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.1.14?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.1.15
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.1.15?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.1.1?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.1.2
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.1.2?classifier=sources
@@ -278,3 +280,9 @@
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.2.0?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.2.1
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.2.1?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.2.2
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.2.2?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.2.3
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.2.3?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.2.4
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-jetty@3.2.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.clouway.security/oauth2-java-client@0.0.2
+- pkg:maven/com.clouway.security/oauth2-java-client@0.0.2?classifier=sources

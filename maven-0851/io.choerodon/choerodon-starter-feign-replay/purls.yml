@@ -1,0 +1,4 @@
+- pkg:maven/io.choerodon/choerodon-starter-feign-replay@0.5.0.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-feign-replay@0.5.0.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-starter-feign-replay@0.5.1.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-feign-replay@0.5.1.RELEASE?classifier=sources

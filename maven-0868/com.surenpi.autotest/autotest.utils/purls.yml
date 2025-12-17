@@ -1,0 +1,2 @@
+- pkg:maven/com.surenpi.autotest/autotest.utils@1.0.0-20180125
+- pkg:maven/com.surenpi.autotest/autotest.utils@1.0.0-20180125?classifier=sources

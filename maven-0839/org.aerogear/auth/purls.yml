@@ -1,0 +1,4 @@
+- pkg:maven/org.aerogear/auth@0.1.0-2018-07?classifier=sources
+- pkg:maven/org.aerogear/auth@0.1.0-2018-07?type=aar
+- pkg:maven/org.aerogear/auth@0.1.0-2018-09?classifier=sources
+- pkg:maven/org.aerogear/auth@0.1.0-2018-09?type=aar

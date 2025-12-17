@@ -42,3 +42,6 @@
 - pkg:maven/me.drakeet.support/about@2.0.1?type=aar
 - pkg:maven/me.drakeet.support/about@2.0.2?classifier=sources
 - pkg:maven/me.drakeet.support/about@2.0.2?type=aar
+- pkg:maven/me.drakeet.support/about@2.1.0?classifier=sources
+- pkg:maven/me.drakeet.support/about@2.1.1?classifier=sources
+- pkg:maven/me.drakeet.support/about@2.1.1?type=aar

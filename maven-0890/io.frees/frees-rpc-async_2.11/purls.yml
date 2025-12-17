@@ -1,0 +1,8 @@
+- pkg:maven/io.frees/frees-rpc-async_2.11@0.10.0
+- pkg:maven/io.frees/frees-rpc-async_2.11@0.10.0?classifier=sources
+- pkg:maven/io.frees/frees-rpc-async_2.11@0.7.0
+- pkg:maven/io.frees/frees-rpc-async_2.11@0.7.0?classifier=sources
+- pkg:maven/io.frees/frees-rpc-async_2.11@0.8.0
+- pkg:maven/io.frees/frees-rpc-async_2.11@0.8.0?classifier=sources
+- pkg:maven/io.frees/frees-rpc-async_2.11@0.9.0
+- pkg:maven/io.frees/frees-rpc-async_2.11@0.9.0?classifier=sources

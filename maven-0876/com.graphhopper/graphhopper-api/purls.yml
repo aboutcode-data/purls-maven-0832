@@ -1,0 +1,2 @@
+- pkg:maven/com.graphhopper/graphhopper-api@0.11.0-pre1
+- pkg:maven/com.graphhopper/graphhopper-api@0.11.0-pre1?classifier=sources

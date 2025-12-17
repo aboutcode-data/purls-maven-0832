@@ -1,0 +1,2 @@
+- pkg:maven/io.leopard/leopard-im-qcloud@0.9.12
+- pkg:maven/io.leopard/leopard-im-qcloud@0.9.12?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.funcqrs/fun-cqrs-akka_2.11@1.0.1
+- pkg:maven/org.funcqrs/fun-cqrs-akka_2.11@1.0.1?classifier=sources
+- pkg:maven/org.funcqrs/fun-cqrs-akka_2.11@1.0.1b
+- pkg:maven/org.funcqrs/fun-cqrs-akka_2.11@1.0.1b?classifier=sources

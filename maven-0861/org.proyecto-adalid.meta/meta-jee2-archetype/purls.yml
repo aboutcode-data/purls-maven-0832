@@ -1,0 +1,2 @@
+- pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@2.0
+- pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@2.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/de.ahus1.prometheus.hystrix/prometheus-hystrix@3.3.1?classifier=sources
 - pkg:maven/de.ahus1.prometheus.hystrix/prometheus-hystrix@3.4.0
 - pkg:maven/de.ahus1.prometheus.hystrix/prometheus-hystrix@3.4.0?classifier=sources
+- pkg:maven/de.ahus1.prometheus.hystrix/prometheus-hystrix@4.0.0
+- pkg:maven/de.ahus1.prometheus.hystrix/prometheus-hystrix@4.0.0?classifier=sources

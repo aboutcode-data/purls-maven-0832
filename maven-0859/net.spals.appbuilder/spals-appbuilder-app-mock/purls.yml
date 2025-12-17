@@ -6,3 +6,15 @@
 - pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.4.0?classifier=sources
 - pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.4.1
 - pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.4.1?classifier=sources
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.5.0
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.5.0?classifier=sources
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.0
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.0?classifier=sources
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.1
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.1?classifier=sources
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.2
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.2?classifier=sources
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.3
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.3?classifier=sources
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.4
+- pkg:maven/net.spals.appbuilder/spals-appbuilder-app-mock@0.6.4?classifier=sources

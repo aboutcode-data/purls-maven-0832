@@ -1,0 +1,2 @@
+- pkg:maven/com.getjenny/manaus-lib_2.11@1.0.0-rc1
+- pkg:maven/com.getjenny/manaus-lib_2.11@1.0.0-rc1?classifier=sources

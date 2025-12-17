@@ -1,0 +1,4 @@
+- pkg:maven/com.github.khud/kshell-repl-api@0.2.2-1.2.30
+- pkg:maven/com.github.khud/kshell-repl-api@0.2.2-1.2.30?classifier=sources
+- pkg:maven/com.github.khud/kshell-repl-api@0.2.2-1.2.41
+- pkg:maven/com.github.khud/kshell-repl-api@0.2.2-1.2.41?classifier=sources

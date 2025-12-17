@@ -26,3 +26,5 @@
 - pkg:maven/com.itv/lifecycle_2.12@1.0.0-RC1?classifier=sources
 - pkg:maven/com.itv/lifecycle_2.12@1.0.0-RC4
 - pkg:maven/com.itv/lifecycle_2.12@1.0.0-RC4?classifier=sources
+- pkg:maven/com.itv/lifecycle_2.12@1.0.0-RC5
+- pkg:maven/com.itv/lifecycle_2.12@1.0.0-RC5?classifier=sources

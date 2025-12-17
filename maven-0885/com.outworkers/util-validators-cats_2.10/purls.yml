@@ -20,3 +20,9 @@
 - pkg:maven/com.outworkers/util-validators-cats_2.10@0.37.0?classifier=sources
 - pkg:maven/com.outworkers/util-validators-cats_2.10@0.38.0
 - pkg:maven/com.outworkers/util-validators-cats_2.10@0.38.0?classifier=sources
+- pkg:maven/com.outworkers/util-validators-cats_2.10@0.39.0
+- pkg:maven/com.outworkers/util-validators-cats_2.10@0.39.0?classifier=sources
+- pkg:maven/com.outworkers/util-validators-cats_2.10@0.39.1
+- pkg:maven/com.outworkers/util-validators-cats_2.10@0.39.1?classifier=sources
+- pkg:maven/com.outworkers/util-validators-cats_2.10@0.40.0
+- pkg:maven/com.outworkers/util-validators-cats_2.10@0.40.0?classifier=sources

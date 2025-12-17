@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.atlas/atlas-graphdb-janus@1.0.0
+- pkg:maven/org.apache.atlas/atlas-graphdb-janus@1.0.0-alpha
+- pkg:maven/org.apache.atlas/atlas-graphdb-janus@1.0.0-alpha?classifier=sources
+- pkg:maven/org.apache.atlas/atlas-graphdb-janus@1.0.0?classifier=sources

@@ -1,4 +1,8 @@
+- pkg:maven/com.wix/http-testkit-scala-test_2.12@0.0.18
+- pkg:maven/com.wix/http-testkit-scala-test_2.12@0.0.18?classifier=sources
 - pkg:maven/com.wix/http-testkit-scala-test_2.12@0.1.16
 - pkg:maven/com.wix/http-testkit-scala-test_2.12@0.1.16?classifier=sources
 - pkg:maven/com.wix/http-testkit-scala-test_2.12@0.1.17
 - pkg:maven/com.wix/http-testkit-scala-test_2.12@0.1.17?classifier=sources
+- pkg:maven/com.wix/http-testkit-scala-test_2.12@0.1.18
+- pkg:maven/com.wix/http-testkit-scala-test_2.12@0.1.18?classifier=sources

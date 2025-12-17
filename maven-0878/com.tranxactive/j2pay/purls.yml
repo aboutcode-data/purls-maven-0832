@@ -4,3 +4,15 @@
 - pkg:maven/com.tranxactive/j2pay@2.3.0?classifier=sources
 - pkg:maven/com.tranxactive/j2pay@2.4.0
 - pkg:maven/com.tranxactive/j2pay@2.4.0?classifier=sources
+- pkg:maven/com.tranxactive/j2pay@2.4.1
+- pkg:maven/com.tranxactive/j2pay@2.4.1?classifier=sources
+- pkg:maven/com.tranxactive/j2pay@2.5.1
+- pkg:maven/com.tranxactive/j2pay@2.5.1?classifier=sources
+- pkg:maven/com.tranxactive/j2pay@2.6.1
+- pkg:maven/com.tranxactive/j2pay@2.6.1?classifier=sources
+- pkg:maven/com.tranxactive/j2pay@2.6.2
+- pkg:maven/com.tranxactive/j2pay@2.6.2?classifier=sources
+- pkg:maven/com.tranxactive/j2pay@2.7.3
+- pkg:maven/com.tranxactive/j2pay@2.7.3?classifier=sources
+- pkg:maven/com.tranxactive/j2pay@2.7.4
+- pkg:maven/com.tranxactive/j2pay@2.7.4?classifier=sources

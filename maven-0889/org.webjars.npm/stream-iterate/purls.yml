@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/stream-iterate@1.2.0
+- pkg:maven/org.webjars.npm/stream-iterate@1.2.0?classifier=sources

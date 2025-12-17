@@ -29,3 +29,12 @@
 - pkg:maven/org.apache.hive/hive-storage-api@2.4.0
 - pkg:maven/org.apache.hive/hive-storage-api@2.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.hive/hive-storage-api@2.4.0?classifier=sources
+- pkg:maven/org.apache.hive/hive-storage-api@2.5.0
+- pkg:maven/org.apache.hive/hive-storage-api@2.5.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.hive/hive-storage-api@2.5.0?classifier=sources
+- pkg:maven/org.apache.hive/hive-storage-api@2.6.0
+- pkg:maven/org.apache.hive/hive-storage-api@2.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.hive/hive-storage-api@2.6.0?classifier=sources
+- pkg:maven/org.apache.hive/hive-storage-api@2.6.1
+- pkg:maven/org.apache.hive/hive-storage-api@2.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.hive/hive-storage-api@2.6.1?classifier=sources

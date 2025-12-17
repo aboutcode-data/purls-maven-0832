@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.polymerelements/marked-element@1.4.2
+- pkg:maven/org.webjars.bowergithub.polymerelements/marked-element@1.4.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.polymerelements/marked-element@2.4.0
+- pkg:maven/org.webjars.bowergithub.polymerelements/marked-element@2.4.0?classifier=sources

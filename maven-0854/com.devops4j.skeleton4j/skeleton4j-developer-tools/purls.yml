@@ -1,0 +1,2 @@
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-developer-tools@1.0.0-BETA1
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-developer-tools@1.0.0-BETA1?classifier=sources

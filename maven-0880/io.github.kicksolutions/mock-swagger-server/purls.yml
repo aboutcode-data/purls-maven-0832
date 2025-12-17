@@ -1,0 +1,6 @@
+- pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.1-alpha?classifier=sources
+- pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.1-alpha?type=war
+- pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.1-beta?classifier=sources
+- pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.1-beta?type=war
+- pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.1-charlie?classifier=sources
+- pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.1-charlie?type=war

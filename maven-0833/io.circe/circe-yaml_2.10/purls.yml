@@ -10,3 +10,5 @@
 - pkg:maven/io.circe/circe-yaml_2.10@0.7.0-M2
 - pkg:maven/io.circe/circe-yaml_2.10@0.7.0-M2?classifier=sources
 - pkg:maven/io.circe/circe-yaml_2.10@0.7.0?classifier=sources
+- pkg:maven/io.circe/circe-yaml_2.10@0.8.0
+- pkg:maven/io.circe/circe-yaml_2.10@0.8.0?classifier=sources

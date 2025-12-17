@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.carbon.identity.agent.entitlement.mediator/identity-agent-entitlement-proxy@5.1.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.entitlement.mediator/identity-agent-entitlement-proxy@5.1.5?classifier=source-release&type=zip

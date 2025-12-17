@@ -1,0 +1,2 @@
+- pkg:maven/fr.pilato.elasticsearch.testcontainers/testcontainers-elasticsearch@0.1
+- pkg:maven/fr.pilato.elasticsearch.testcontainers/testcontainers-elasticsearch@0.1?classifier=sources

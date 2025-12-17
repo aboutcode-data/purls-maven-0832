@@ -8,3 +8,5 @@
 - pkg:maven/com.wdtinc/mapbox-vector-tile@1.2.0?classifier=sources
 - pkg:maven/com.wdtinc/mapbox-vector-tile@2.0.0
 - pkg:maven/com.wdtinc/mapbox-vector-tile@2.0.0?classifier=sources
+- pkg:maven/com.wdtinc/mapbox-vector-tile@3.0.0
+- pkg:maven/com.wdtinc/mapbox-vector-tile@3.0.0?classifier=sources

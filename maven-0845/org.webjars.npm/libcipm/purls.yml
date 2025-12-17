@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/libcipm@1.4.0
+- pkg:maven/org.webjars.npm/libcipm@1.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/libcipm@1.6.0
+- pkg:maven/org.webjars.npm/libcipm@1.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/libcipm@1.6.2
+- pkg:maven/org.webjars.npm/libcipm@1.6.2?classifier=sources

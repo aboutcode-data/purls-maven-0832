@@ -30,3 +30,13 @@
 - pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.24?classifier=sources
 - pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.25
 - pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.25?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.26
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.26?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.27
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.27?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.28
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.28?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.29
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.29?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.30
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.30?classifier=sources

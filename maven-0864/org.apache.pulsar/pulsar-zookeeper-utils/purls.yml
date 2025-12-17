@@ -4,3 +4,9 @@
 - pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@1.20.0-incubating?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@1.21.0-incubating
 - pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@1.21.0-incubating?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@1.22.0-incubating
+- pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@1.22.0-incubating?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@1.22.1-incubating
+- pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@1.22.1-incubating?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@2.0.0-rc1-incubating
+- pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@2.0.0-rc1-incubating?classifier=sources

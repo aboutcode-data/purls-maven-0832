@@ -1,0 +1,4 @@
+- pkg:maven/de.wayofquality.blended/blended.akka.http.restjms@2.5.0-M2
+- pkg:maven/de.wayofquality.blended/blended.akka.http.restjms@2.5.0-M2?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.akka.http.restjms@2.5.0-M3
+- pkg:maven/de.wayofquality.blended/blended.akka.http.restjms@2.5.0-M3?classifier=sources

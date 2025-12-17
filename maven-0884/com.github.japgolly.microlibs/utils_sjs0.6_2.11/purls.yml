@@ -1,0 +1,4 @@
+- pkg:maven/com.github.japgolly.microlibs/utils_sjs0.6_2.11@1.14
+- pkg:maven/com.github.japgolly.microlibs/utils_sjs0.6_2.11@1.14?classifier=sources
+- pkg:maven/com.github.japgolly.microlibs/utils_sjs0.6_2.11@1.15
+- pkg:maven/com.github.japgolly.microlibs/utils_sjs0.6_2.11@1.15?classifier=sources

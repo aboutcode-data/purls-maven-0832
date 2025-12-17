@@ -48,3 +48,5 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.26-b09
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.26-b09?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.26?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.27
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.27?classifier=sources

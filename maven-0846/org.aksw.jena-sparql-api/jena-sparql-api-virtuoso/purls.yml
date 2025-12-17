@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-virtuoso@3.6.0-3
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-virtuoso@3.6.0-3?classifier=sources

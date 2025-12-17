@@ -23,3 +23,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-messaging@1.2.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-messaging@1.2.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-messaging@1.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-messaging@2.0.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-messaging@2.0.0.RELEASE?classifier=sources

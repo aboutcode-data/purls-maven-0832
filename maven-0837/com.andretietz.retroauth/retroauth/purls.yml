@@ -1,0 +1,2 @@
+- pkg:maven/com.andretietz.retroauth/retroauth@2.3.2
+- pkg:maven/com.andretietz.retroauth/retroauth@2.3.2?classifier=sources

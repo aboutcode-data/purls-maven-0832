@@ -16,3 +16,7 @@
 - pkg:maven/net.automatalib/automata-brics@0.5.2?classifier=sources
 - pkg:maven/net.automatalib/automata-brics@0.6.0
 - pkg:maven/net.automatalib/automata-brics@0.6.0?classifier=sources
+- pkg:maven/net.automatalib/automata-brics@0.7.0
+- pkg:maven/net.automatalib/automata-brics@0.7.0?classifier=sources
+- pkg:maven/net.automatalib/automata-brics@0.7.1
+- pkg:maven/net.automatalib/automata-brics@0.7.1?classifier=sources

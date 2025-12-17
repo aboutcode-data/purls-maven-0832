@@ -1,0 +1,6 @@
+- pkg:maven/com.jcohy/jcohy-yj-utils@1.0.2
+- pkg:maven/com.jcohy/jcohy-yj-utils@1.0.2.RELEASE
+- pkg:maven/com.jcohy/jcohy-yj-utils@1.0.2.RELEASE?classifier=sources
+- pkg:maven/com.jcohy/jcohy-yj-utils@1.0.2?classifier=sources
+- pkg:maven/com.jcohy/jcohy-yj-utils@1.0.4.RELEASE
+- pkg:maven/com.jcohy/jcohy-yj-utils@1.0.4.RELEASE?classifier=sources

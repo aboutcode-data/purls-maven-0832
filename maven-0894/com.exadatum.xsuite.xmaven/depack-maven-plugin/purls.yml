@@ -1,0 +1,2 @@
+- pkg:maven/com.exadatum.xsuite.xmaven/depack-maven-plugin@1.0.3
+- pkg:maven/com.exadatum.xsuite.xmaven/depack-maven-plugin@1.0.3?classifier=sources

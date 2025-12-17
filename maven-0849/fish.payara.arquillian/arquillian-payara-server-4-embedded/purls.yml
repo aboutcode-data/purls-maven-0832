@@ -2,3 +2,5 @@
 - pkg:maven/fish.payara.arquillian/arquillian-payara-server-4-embedded@1.0.Beta1?classifier=sources
 - pkg:maven/fish.payara.arquillian/arquillian-payara-server-4-embedded@1.0.Beta2
 - pkg:maven/fish.payara.arquillian/arquillian-payara-server-4-embedded@1.0.Beta2?classifier=sources
+- pkg:maven/fish.payara.arquillian/arquillian-payara-server-4-embedded@1.0.Beta3
+- pkg:maven/fish.payara.arquillian/arquillian-payara-server-4-embedded@1.0.Beta3?classifier=sources

@@ -22,6 +22,12 @@
 - pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.15.0?classifier=sources
 - pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.15.1
 - pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.15.1?classifier=sources
+- pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.16.0
+- pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.16.0?classifier=sources
+- pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.16.1
+- pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.16.1?classifier=sources
+- pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.16.2
+- pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.16.2?classifier=sources
 - pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.6.0
 - pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.6.0?classifier=sources
 - pkg:maven/org.apache.isis.core/isis-core-viewer-restfulobjects-applib@1.7.0

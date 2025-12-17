@@ -1,0 +1,4 @@
+- pkg:maven/com.github.gzm55.maven/parent-repositories-extension@0.0.3
+- pkg:maven/com.github.gzm55.maven/parent-repositories-extension@0.0.3?classifier=sources
+- pkg:maven/com.github.gzm55.maven/parent-repositories-extension@0.0.5
+- pkg:maven/com.github.gzm55.maven/parent-repositories-extension@0.0.5?classifier=sources

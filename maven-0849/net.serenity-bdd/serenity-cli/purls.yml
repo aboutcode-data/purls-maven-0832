@@ -1,2 +1,4 @@
 - pkg:maven/net.serenity-bdd/serenity-cli@1.1.37-rc.6
 - pkg:maven/net.serenity-bdd/serenity-cli@1.1.37-rc.6?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cli@1.9.4
+- pkg:maven/net.serenity-bdd/serenity-cli@1.9.4?classifier=sources

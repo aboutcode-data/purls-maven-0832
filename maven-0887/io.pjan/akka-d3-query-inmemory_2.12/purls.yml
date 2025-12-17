@@ -10,3 +10,5 @@
 - pkg:maven/io.pjan/akka-d3-query-inmemory_2.12@0.4.3?classifier=sources
 - pkg:maven/io.pjan/akka-d3-query-inmemory_2.12@0.4.4
 - pkg:maven/io.pjan/akka-d3-query-inmemory_2.12@0.4.4?classifier=sources
+- pkg:maven/io.pjan/akka-d3-query-inmemory_2.12@0.4.5
+- pkg:maven/io.pjan/akka-d3-query-inmemory_2.12@0.4.5?classifier=sources

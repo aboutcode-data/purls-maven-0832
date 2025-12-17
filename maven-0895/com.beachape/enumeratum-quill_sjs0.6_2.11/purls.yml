@@ -1,0 +1,4 @@
+- pkg:maven/com.beachape/enumeratum-quill_sjs0.6_2.11@1.5.12
+- pkg:maven/com.beachape/enumeratum-quill_sjs0.6_2.11@1.5.12?classifier=sources
+- pkg:maven/com.beachape/enumeratum-quill_sjs0.6_2.11@1.5.13
+- pkg:maven/com.beachape/enumeratum-quill_sjs0.6_2.11@1.5.13?classifier=sources

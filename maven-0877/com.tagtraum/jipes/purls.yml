@@ -1,0 +1,2 @@
+- pkg:maven/com.tagtraum/jipes@0.9.16
+- pkg:maven/com.tagtraum/jipes@0.9.16?classifier=sources

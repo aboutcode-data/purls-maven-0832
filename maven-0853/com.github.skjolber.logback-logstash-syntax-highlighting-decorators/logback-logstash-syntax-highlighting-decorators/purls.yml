@@ -1,0 +1,4 @@
+- pkg:maven/com.github.skjolber.logback-logstash-syntax-highlighting-decorators/logback-logstash-syntax-highlighting-decorators@1.0.0
+- pkg:maven/com.github.skjolber.logback-logstash-syntax-highlighting-decorators/logback-logstash-syntax-highlighting-decorators@1.0.0?classifier=sources
+- pkg:maven/com.github.skjolber.logback-logstash-syntax-highlighting-decorators/logback-logstash-syntax-highlighting-decorators@1.0.1
+- pkg:maven/com.github.skjolber.logback-logstash-syntax-highlighting-decorators/logback-logstash-syntax-highlighting-decorators@1.0.1?classifier=sources

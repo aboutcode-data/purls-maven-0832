@@ -1,0 +1,4 @@
+- pkg:maven/com.linkedin.pegasus/data-testutils@20.0.4
+- pkg:maven/com.linkedin.pegasus/data-testutils@20.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/data-testutils@21.0.0
+- pkg:maven/com.linkedin.pegasus/data-testutils@21.0.0?classifier=sources

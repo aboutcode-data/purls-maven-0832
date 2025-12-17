@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc13
+- pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc13?classifier=sources

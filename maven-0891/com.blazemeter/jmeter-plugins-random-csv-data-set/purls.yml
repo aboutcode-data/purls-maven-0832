@@ -1,0 +1,2 @@
+- pkg:maven/com.blazemeter/jmeter-plugins-random-csv-data-set@0.6
+- pkg:maven/com.blazemeter/jmeter-plugins-random-csv-data-set@0.6?classifier=sources

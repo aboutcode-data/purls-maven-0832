@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.motss/app-datepicker@2.11.2
+- pkg:maven/org.webjars.bowergithub.motss/app-datepicker@2.11.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.motss/app-datepicker@2.12.0
+- pkg:maven/org.webjars.bowergithub.motss/app-datepicker@2.12.0?classifier=sources

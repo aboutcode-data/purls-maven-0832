@@ -1,0 +1,2 @@
+- pkg:maven/org.vishag/java-utils@1.0.0
+- pkg:maven/org.vishag/java-utils@1.0.0?classifier=sources

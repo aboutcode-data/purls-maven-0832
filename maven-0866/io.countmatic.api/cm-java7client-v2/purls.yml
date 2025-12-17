@@ -1,0 +1,2 @@
+- pkg:maven/io.countmatic.api/cm-java7client-v2@2.0.1
+- pkg:maven/io.countmatic.api/cm-java7client-v2@2.0.1?classifier=sources

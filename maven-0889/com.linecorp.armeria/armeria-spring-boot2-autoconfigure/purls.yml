@@ -1,0 +1,2 @@
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot2-autoconfigure@0.60.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot2-autoconfigure@0.61.0?classifier=sources

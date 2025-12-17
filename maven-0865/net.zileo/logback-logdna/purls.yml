@@ -1,0 +1,2 @@
+- pkg:maven/net.zileo/logback-logdna@1.0.1
+- pkg:maven/net.zileo/logback-logdna@1.0.1?classifier=sources

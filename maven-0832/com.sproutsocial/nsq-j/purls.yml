@@ -1,2 +1,10 @@
 - pkg:maven/com.sproutsocial/nsq-j@0.9
+- pkg:maven/com.sproutsocial/nsq-j@0.9.1
+- pkg:maven/com.sproutsocial/nsq-j@0.9.1?classifier=sources
+- pkg:maven/com.sproutsocial/nsq-j@0.9.2
+- pkg:maven/com.sproutsocial/nsq-j@0.9.2?classifier=sources
+- pkg:maven/com.sproutsocial/nsq-j@0.9.3
+- pkg:maven/com.sproutsocial/nsq-j@0.9.3?classifier=sources
+- pkg:maven/com.sproutsocial/nsq-j@0.9.4
+- pkg:maven/com.sproutsocial/nsq-j@0.9.4?classifier=sources
 - pkg:maven/com.sproutsocial/nsq-j@0.9?classifier=sources

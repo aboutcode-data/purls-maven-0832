@@ -10,3 +10,15 @@
 - pkg:maven/com.github.javen205/IJPay@0.8?classifier=sources
 - pkg:maven/com.github.javen205/IJPay@0.9
 - pkg:maven/com.github.javen205/IJPay@0.9?classifier=sources
+- pkg:maven/com.github.javen205/IJPay@1.0
+- pkg:maven/com.github.javen205/IJPay@1.0?classifier=sources
+- pkg:maven/com.github.javen205/IJPay@1.1-RELEASE
+- pkg:maven/com.github.javen205/IJPay@1.1-RELEASE?classifier=sources
+- pkg:maven/com.github.javen205/IJPay@1.1.1-RELEASE
+- pkg:maven/com.github.javen205/IJPay@1.1.1-RELEASE?classifier=sources
+- pkg:maven/com.github.javen205/IJPay@1.1.2
+- pkg:maven/com.github.javen205/IJPay@1.1.2?classifier=sources
+- pkg:maven/com.github.javen205/IJPay@1.1.3
+- pkg:maven/com.github.javen205/IJPay@1.1.3?classifier=sources
+- pkg:maven/com.github.javen205/IJPay@1.1.4
+- pkg:maven/com.github.javen205/IJPay@1.1.4?classifier=sources

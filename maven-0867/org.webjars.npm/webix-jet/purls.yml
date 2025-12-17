@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/webix-jet@1.5.3
+- pkg:maven/org.webjars.npm/webix-jet@1.5.3?classifier=sources

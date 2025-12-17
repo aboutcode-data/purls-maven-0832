@@ -1,0 +1,2 @@
+- pkg:maven/ml.alternet/alternet-security-tomcat-8.0@1.0
+- pkg:maven/ml.alternet/alternet-security-tomcat-8.0@1.0?classifier=sources

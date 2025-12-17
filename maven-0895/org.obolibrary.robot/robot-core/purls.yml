@@ -1,0 +1,2 @@
+- pkg:maven/org.obolibrary.robot/robot-core@1.0.0
+- pkg:maven/org.obolibrary.robot/robot-core@1.0.0?classifier=sources

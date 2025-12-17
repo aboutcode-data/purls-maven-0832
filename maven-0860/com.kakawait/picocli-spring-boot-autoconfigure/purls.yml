@@ -1,2 +1,6 @@
 - pkg:maven/com.kakawait/picocli-spring-boot-autoconfigure@0.1.0
 - pkg:maven/com.kakawait/picocli-spring-boot-autoconfigure@0.1.0?classifier=sources
+- pkg:maven/com.kakawait/picocli-spring-boot-autoconfigure@0.2.0
+- pkg:maven/com.kakawait/picocli-spring-boot-autoconfigure@0.2.0?classifier=sources
+- pkg:maven/com.kakawait/picocli-spring-boot-autoconfigure@1.0.0-alpha-1
+- pkg:maven/com.kakawait/picocli-spring-boot-autoconfigure@1.0.0-alpha-1?classifier=sources

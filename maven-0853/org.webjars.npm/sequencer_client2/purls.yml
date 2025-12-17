@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/sequencer_client2@2.0.0
+- pkg:maven/org.webjars.npm/sequencer_client2@2.0.0?classifier=sources

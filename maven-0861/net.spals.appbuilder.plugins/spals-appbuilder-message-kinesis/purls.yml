@@ -20,3 +20,7 @@
 - pkg:maven/net.spals.appbuilder.plugins/spals-appbuilder-message-kinesis@0.4.0?classifier=sources
 - pkg:maven/net.spals.appbuilder.plugins/spals-appbuilder-message-kinesis@0.4.1
 - pkg:maven/net.spals.appbuilder.plugins/spals-appbuilder-message-kinesis@0.4.1?classifier=sources
+- pkg:maven/net.spals.appbuilder.plugins/spals-appbuilder-message-kinesis@0.5.0
+- pkg:maven/net.spals.appbuilder.plugins/spals-appbuilder-message-kinesis@0.5.0?classifier=sources
+- pkg:maven/net.spals.appbuilder.plugins/spals-appbuilder-message-kinesis@0.6.0
+- pkg:maven/net.spals.appbuilder.plugins/spals-appbuilder-message-kinesis@0.6.0?classifier=sources

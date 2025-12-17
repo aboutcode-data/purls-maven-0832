@@ -1,0 +1,2 @@
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@1.2.8
+- pkg:maven/com.arm.mbed.cloud.sdk/connector_bootstrap@1.2.8?classifier=sources

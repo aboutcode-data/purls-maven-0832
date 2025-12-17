@@ -1,0 +1,2 @@
+- pkg:maven/net.mainclass/methodx@1.0
+- pkg:maven/net.mainclass/methodx@1.0?classifier=sources

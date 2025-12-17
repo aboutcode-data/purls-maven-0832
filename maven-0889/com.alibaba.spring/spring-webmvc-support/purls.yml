@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.spring/spring-webmvc-support@1.0.0.RELEASE
+- pkg:maven/com.alibaba.spring/spring-webmvc-support@1.0.0.RELEASE?classifier=sources

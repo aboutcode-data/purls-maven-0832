@@ -20,3 +20,9 @@
 - pkg:maven/com.lightbend.rp/reactive-lib-service-discovery-lagom14-java@0.3.4?classifier=sources
 - pkg:maven/com.lightbend.rp/reactive-lib-service-discovery-lagom14-java@0.3.5
 - pkg:maven/com.lightbend.rp/reactive-lib-service-discovery-lagom14-java@0.3.5?classifier=sources
+- pkg:maven/com.lightbend.rp/reactive-lib-service-discovery-lagom14-java@0.3.6
+- pkg:maven/com.lightbend.rp/reactive-lib-service-discovery-lagom14-java@0.3.6?classifier=sources
+- pkg:maven/com.lightbend.rp/reactive-lib-service-discovery-lagom14-java@0.3.7
+- pkg:maven/com.lightbend.rp/reactive-lib-service-discovery-lagom14-java@0.3.7?classifier=sources
+- pkg:maven/com.lightbend.rp/reactive-lib-service-discovery-lagom14-java@0.4.0
+- pkg:maven/com.lightbend.rp/reactive-lib-service-discovery-lagom14-java@0.4.0?classifier=sources

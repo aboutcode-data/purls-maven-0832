@@ -4,3 +4,4 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.feature@5.2.4?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.feature@5.2.5?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.feature@5.2.6?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.server.feature@5.2.7?classifier=sources

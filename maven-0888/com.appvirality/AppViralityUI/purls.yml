@@ -1,2 +1,8 @@
 - pkg:maven/com.appvirality/AppViralityUI@2.0.0?classifier=sources
 - pkg:maven/com.appvirality/AppViralityUI@2.0.0?type=aar
+- pkg:maven/com.appvirality/AppViralityUI@2.0.6?classifier=sources
+- pkg:maven/com.appvirality/AppViralityUI@2.0.6?type=aar
+- pkg:maven/com.appvirality/AppViralityUI@2.0.7?classifier=sources
+- pkg:maven/com.appvirality/AppViralityUI@2.0.7?type=aar
+- pkg:maven/com.appvirality/AppViralityUI@2.0.8?classifier=sources
+- pkg:maven/com.appvirality/AppViralityUI@2.0.8?type=aar

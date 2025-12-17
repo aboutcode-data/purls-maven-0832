@@ -1,3 +1,5 @@
+- pkg:maven/com.sdl.web/content-core@10.0.0-1014
+- pkg:maven/com.sdl.web/content-core@10.0.0-1014?classifier=sources
 - pkg:maven/com.sdl.web/content-core@10.1.0-1020
 - pkg:maven/com.sdl.web/content-core@10.1.0-1020?classifier=sources
 - pkg:maven/com.sdl.web/content-core@8.1.1-1008

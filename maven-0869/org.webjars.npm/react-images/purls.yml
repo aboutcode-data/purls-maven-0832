@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-images@0.5.17
+- pkg:maven/org.webjars.npm/react-images@0.5.17?classifier=sources

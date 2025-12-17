@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bowergithub.markedjs/marked@0.3.17
+- pkg:maven/org.webjars.bowergithub.markedjs/marked@0.3.17?classifier=sources
+- pkg:maven/org.webjars.bowergithub.markedjs/marked@0.3.19
+- pkg:maven/org.webjars.bowergithub.markedjs/marked@0.3.19?classifier=sources
+- pkg:maven/org.webjars.bowergithub.markedjs/marked@0.4.0
+- pkg:maven/org.webjars.bowergithub.markedjs/marked@0.4.0?classifier=sources

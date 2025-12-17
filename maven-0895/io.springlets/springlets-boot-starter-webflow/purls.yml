@@ -2,3 +2,5 @@
 - pkg:maven/io.springlets/springlets-boot-starter-webflow@1.1.0.RELEASE
 - pkg:maven/io.springlets/springlets-boot-starter-webflow@1.2.0.RC1
 - pkg:maven/io.springlets/springlets-boot-starter-webflow@1.2.0.RC2
+- pkg:maven/io.springlets/springlets-boot-starter-webflow@1.2.0.RC3
+- pkg:maven/io.springlets/springlets-boot-starter-webflow@1.2.0.RELEASE

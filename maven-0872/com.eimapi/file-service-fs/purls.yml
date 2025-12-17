@@ -1,0 +1,2 @@
+- pkg:maven/com.eimapi/file-service-fs@0.0.1
+- pkg:maven/com.eimapi/file-service-fs@0.0.1?classifier=sources

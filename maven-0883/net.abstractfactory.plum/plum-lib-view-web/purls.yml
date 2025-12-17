@@ -1,0 +1,2 @@
+- pkg:maven/net.abstractfactory.plum/plum-lib-view-web@0.3.32
+- pkg:maven/net.abstractfactory.plum/plum-lib-view-web@0.3.32?classifier=sources

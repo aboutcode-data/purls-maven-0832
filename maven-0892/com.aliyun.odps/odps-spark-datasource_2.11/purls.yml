@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.odps/odps-spark-datasource_2.11@lxw-test-3.0.0-public
+- pkg:maven/com.aliyun.odps/odps-spark-datasource_2.11@lxw-test-3.0.0-public?classifier=sources

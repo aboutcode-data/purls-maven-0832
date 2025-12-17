@@ -16,3 +16,7 @@
 - pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.15.0?classifier=sources
 - pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.15.1.1
 - pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.15.1.1?classifier=sources
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.16.0
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.16.0?classifier=sources
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.16.2
+- pkg:maven/org.incode.module.unittestsupport/incode-module-unittestsupport-dom@1.16.2?classifier=sources

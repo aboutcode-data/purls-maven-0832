@@ -21,3 +21,5 @@
 - pkg:maven/net.sf.jt400/jt400@9.3?classifier=sources
 - pkg:maven/net.sf.jt400/jt400@9.4
 - pkg:maven/net.sf.jt400/jt400@9.4?classifier=sources
+- pkg:maven/net.sf.jt400/jt400@9.5
+- pkg:maven/net.sf.jt400/jt400@9.5?classifier=sources

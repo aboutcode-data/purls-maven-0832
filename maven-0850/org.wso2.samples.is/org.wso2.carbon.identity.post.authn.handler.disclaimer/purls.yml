@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.post.authn.handler.disclaimer@1.0.0
+- pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.post.authn.handler.disclaimer@1.0.0?classifier=sources

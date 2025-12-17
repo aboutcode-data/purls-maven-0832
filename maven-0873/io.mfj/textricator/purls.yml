@@ -1,0 +1,4 @@
+- pkg:maven/io.mfj/textricator@9.0.40
+- pkg:maven/io.mfj/textricator@9.0.40?classifier=sources
+- pkg:maven/io.mfj/textricator@9.0.41
+- pkg:maven/io.mfj/textricator@9.0.41?classifier=sources

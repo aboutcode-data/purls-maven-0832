@@ -1,2 +1,12 @@
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.10
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.10?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.11
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.11?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.12
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.12?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.13
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.13?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.8
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.8?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.9
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.1.9?classifier=sources

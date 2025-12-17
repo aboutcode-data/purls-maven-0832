@@ -5,6 +5,8 @@
 - pkg:maven/org.irenical.fetchy/fetchy-discoverer-jindy@2.0.10?classifier=sources
 - pkg:maven/org.irenical.fetchy/fetchy-discoverer-jindy@2.0.11
 - pkg:maven/org.irenical.fetchy/fetchy-discoverer-jindy@2.0.11?classifier=sources
+- pkg:maven/org.irenical.fetchy/fetchy-discoverer-jindy@2.0.12
+- pkg:maven/org.irenical.fetchy/fetchy-discoverer-jindy@2.0.12?classifier=sources
 - pkg:maven/org.irenical.fetchy/fetchy-discoverer-jindy@2.0.1?classifier=sources
 - pkg:maven/org.irenical.fetchy/fetchy-discoverer-jindy@2.0.4
 - pkg:maven/org.irenical.fetchy/fetchy-discoverer-jindy@2.0.4?classifier=sources

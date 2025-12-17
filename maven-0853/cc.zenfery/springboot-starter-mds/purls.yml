@@ -1,0 +1,4 @@
+- pkg:maven/cc.zenfery/springboot-starter-mds@0.1.1
+- pkg:maven/cc.zenfery/springboot-starter-mds@0.1.1?classifier=sources
+- pkg:maven/cc.zenfery/springboot-starter-mds@0.1.2
+- pkg:maven/cc.zenfery/springboot-starter-mds@0.1.2?classifier=sources

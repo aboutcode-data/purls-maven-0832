@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.solarpatrol/cesium-bower@1.45.0
+- pkg:maven/org.webjars.bowergithub.solarpatrol/cesium-bower@1.45.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.solarpatrol/cesium-bower@1.46.1
+- pkg:maven/org.webjars.bowergithub.solarpatrol/cesium-bower@1.46.1?classifier=sources

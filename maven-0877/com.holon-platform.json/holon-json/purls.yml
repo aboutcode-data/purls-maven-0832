@@ -1,0 +1,4 @@
+- pkg:maven/com.holon-platform.json/holon-json@5.1.0
+- pkg:maven/com.holon-platform.json/holon-json@5.1.0?classifier=sources
+- pkg:maven/com.holon-platform.json/holon-json@5.1.1
+- pkg:maven/com.holon-platform.json/holon-json@5.1.1?classifier=sources

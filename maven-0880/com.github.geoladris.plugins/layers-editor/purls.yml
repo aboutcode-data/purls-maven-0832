@@ -1,0 +1,2 @@
+- pkg:maven/com.github.geoladris.plugins/layers-editor@7.0.0
+- pkg:maven/com.github.geoladris.plugins/layers-editor@7.0.0?classifier=sources

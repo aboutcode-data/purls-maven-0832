@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/uglify-es@3.3.10
+- pkg:maven/org.webjars.npm/uglify-es@3.3.10?classifier=sources
+- pkg:maven/org.webjars.npm/uglify-es@3.3.4
+- pkg:maven/org.webjars.npm/uglify-es@3.3.4?classifier=sources

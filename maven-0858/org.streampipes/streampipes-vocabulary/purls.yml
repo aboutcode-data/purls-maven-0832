@@ -1,0 +1,2 @@
+- pkg:maven/org.streampipes/streampipes-vocabulary@0.55.2
+- pkg:maven/org.streampipes/streampipes-vocabulary@0.55.2?classifier=sources

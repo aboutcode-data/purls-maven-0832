@@ -1,0 +1,2 @@
+- pkg:maven/com.github.macgregor/endlessfrontier-model@0.0.1
+- pkg:maven/com.github.macgregor/endlessfrontier-model@0.0.1?classifier=sources

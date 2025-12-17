@@ -66,3 +66,5 @@
 - pkg:maven/org.jboss.ws/jbossws-spi@3.1.4.Final?classifier=sources
 - pkg:maven/org.jboss.ws/jbossws-spi@3.2.0.Final
 - pkg:maven/org.jboss.ws/jbossws-spi@3.2.0.Final?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-spi@3.2.1.Final
+- pkg:maven/org.jboss.ws/jbossws-spi@3.2.1.Final?classifier=sources

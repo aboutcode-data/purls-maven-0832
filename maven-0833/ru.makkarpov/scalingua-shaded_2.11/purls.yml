@@ -1,0 +1,2 @@
+- pkg:maven/ru.makkarpov/scalingua-shaded_2.11@0.7.2
+- pkg:maven/ru.makkarpov/scalingua-shaded_2.11@0.7.2?classifier=sources

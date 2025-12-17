@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.jmeter/jorphan@3.1
 - pkg:maven/org.apache.jmeter/jorphan@3.2
 - pkg:maven/org.apache.jmeter/jorphan@3.3
+- pkg:maven/org.apache.jmeter/jorphan@4.0
+- pkg:maven/org.apache.jmeter/jorphan@4.0?classifier=sources

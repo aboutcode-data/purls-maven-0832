@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jsfrench/swaggerhub-maven-plugin@1.0.1
+- pkg:maven/io.github.jsfrench/swaggerhub-maven-plugin@1.0.1?classifier=sources

@@ -10,7 +10,10 @@
 - pkg:maven/io.restx/restx-server-testing@0.33.2
 - pkg:maven/io.restx/restx-server-testing@0.34
 - pkg:maven/io.restx/restx-server-testing@0.34.1
+- pkg:maven/io.restx/restx-server-testing@0.35
 - pkg:maven/io.restx/restx-server-testing@0.35-rc1
 - pkg:maven/io.restx/restx-server-testing@0.35-rc2
 - pkg:maven/io.restx/restx-server-testing@0.35-rc3
 - pkg:maven/io.restx/restx-server-testing@0.35-rc4
+- pkg:maven/io.restx/restx-server-testing@0.35-rc5
+- pkg:maven/io.restx/restx-server-testing@0.35.1

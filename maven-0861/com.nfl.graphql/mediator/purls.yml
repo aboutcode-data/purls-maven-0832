@@ -1,2 +1,4 @@
 - pkg:maven/com.nfl.graphql/mediator@1.0.3-2017-11-02T17-05-12
 - pkg:maven/com.nfl.graphql/mediator@1.0.3-2017-11-02T17-05-12?classifier=sources
+- pkg:maven/com.nfl.graphql/mediator@1.0.4-2018-01-17T23-38-05
+- pkg:maven/com.nfl.graphql/mediator@1.0.4-2018-01-17T23-38-05?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/ru.ztrap/RxSlideUp@1.0.0?classifier=sources
 - pkg:maven/ru.ztrap/RxSlideUp@1.0.0?type=aar
+- pkg:maven/ru.ztrap/RxSlideUp@1.0.1?classifier=sources
+- pkg:maven/ru.ztrap/RxSlideUp@1.0.1?type=aar

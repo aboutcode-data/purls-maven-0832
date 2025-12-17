@@ -1,0 +1,3 @@
+- pkg:maven/de.serviceflow.frankenstein.plugin.jogamp/distribution@0.3.5
+- pkg:maven/de.serviceflow.frankenstein.plugin.jogamp/distribution@0.3.6
+- pkg:maven/de.serviceflow.frankenstein.plugin.jogamp/distribution@0.3.6?classifier=sources

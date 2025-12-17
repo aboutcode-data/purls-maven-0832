@@ -1,0 +1,4 @@
+- pkg:maven/in.kncsolutions.dhelm.indicators/dhelm-indicators@1.0.0
+- pkg:maven/in.kncsolutions.dhelm.indicators/dhelm-indicators@1.0.0-snapshot
+- pkg:maven/in.kncsolutions.dhelm.indicators/dhelm-indicators@1.0.0-snapshot?classifier=sources
+- pkg:maven/in.kncsolutions.dhelm.indicators/dhelm-indicators@1.0.0?classifier=sources

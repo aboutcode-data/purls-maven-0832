@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.cs.dawn/virtualized_2.12@0.1
+- pkg:maven/edu.stanford.cs.dawn/virtualized_2.12@0.1?classifier=sources

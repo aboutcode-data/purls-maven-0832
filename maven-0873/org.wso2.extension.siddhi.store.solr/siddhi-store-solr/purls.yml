@@ -10,6 +10,8 @@
 - pkg:maven/org.wso2.extension.siddhi.store.solr/siddhi-store-solr@1.0.14?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.store.solr/siddhi-store-solr@1.0.15
 - pkg:maven/org.wso2.extension.siddhi.store.solr/siddhi-store-solr@1.0.15?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.store.solr/siddhi-store-solr@1.0.16
+- pkg:maven/org.wso2.extension.siddhi.store.solr/siddhi-store-solr@1.0.16?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.store.solr/siddhi-store-solr@1.0.7
 - pkg:maven/org.wso2.extension.siddhi.store.solr/siddhi-store-solr@1.0.7?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.store.solr/siddhi-store-solr@1.0.8

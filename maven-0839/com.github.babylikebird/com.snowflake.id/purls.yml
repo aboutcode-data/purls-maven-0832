@@ -1,0 +1,2 @@
+- pkg:maven/com.github.babylikebird/com.snowflake.id@0.0.1
+- pkg:maven/com.github.babylikebird/com.snowflake.id@0.0.1?classifier=sources

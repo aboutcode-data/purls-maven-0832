@@ -1,2 +1,4 @@
 - pkg:maven/net.mingsoft/ms-mdiy@1.0.0?classifier=sources
 - pkg:maven/net.mingsoft/ms-mdiy@1.0.0?type=war
+- pkg:maven/net.mingsoft/ms-mdiy@1.0.4?classifier=sources
+- pkg:maven/net.mingsoft/ms-mdiy@1.0.4?type=war

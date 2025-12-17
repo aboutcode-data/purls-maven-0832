@@ -1,0 +1,4 @@
+- pkg:maven/com.typesafe.scala-logging/scala-logging_2.13.0-M3@3.8.0
+- pkg:maven/com.typesafe.scala-logging/scala-logging_2.13.0-M3@3.8.0?classifier=sources
+- pkg:maven/com.typesafe.scala-logging/scala-logging_2.13.0-M3@3.9.0
+- pkg:maven/com.typesafe.scala-logging/scala-logging_2.13.0-M3@3.9.0?classifier=sources

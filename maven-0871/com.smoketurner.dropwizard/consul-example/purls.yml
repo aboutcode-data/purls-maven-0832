@@ -56,3 +56,5 @@
 - pkg:maven/com.smoketurner.dropwizard/consul-example@1.2.0-1?classifier=sources
 - pkg:maven/com.smoketurner.dropwizard/consul-example@1.2.2-1
 - pkg:maven/com.smoketurner.dropwizard/consul-example@1.2.2-1?classifier=sources
+- pkg:maven/com.smoketurner.dropwizard/consul-example@1.2.3-1
+- pkg:maven/com.smoketurner.dropwizard/consul-example@1.2.3-1?classifier=sources

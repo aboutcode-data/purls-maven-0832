@@ -32,6 +32,7 @@
 - pkg:maven/io.restx/restx-factory@0.34.1
 - pkg:maven/io.restx/restx-factory@0.34.1?classifier=sources
 - pkg:maven/io.restx/restx-factory@0.34?classifier=sources
+- pkg:maven/io.restx/restx-factory@0.35
 - pkg:maven/io.restx/restx-factory@0.35-rc1
 - pkg:maven/io.restx/restx-factory@0.35-rc1?classifier=sources
 - pkg:maven/io.restx/restx-factory@0.35-rc2
@@ -40,3 +41,8 @@
 - pkg:maven/io.restx/restx-factory@0.35-rc3?classifier=sources
 - pkg:maven/io.restx/restx-factory@0.35-rc4
 - pkg:maven/io.restx/restx-factory@0.35-rc4?classifier=sources
+- pkg:maven/io.restx/restx-factory@0.35-rc5
+- pkg:maven/io.restx/restx-factory@0.35-rc5?classifier=sources
+- pkg:maven/io.restx/restx-factory@0.35.1
+- pkg:maven/io.restx/restx-factory@0.35.1?classifier=sources
+- pkg:maven/io.restx/restx-factory@0.35?classifier=sources

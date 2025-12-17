@@ -20,3 +20,7 @@
 - pkg:maven/info.novatec.testit/webtester-support-junit5@2.3.3?classifier=sources
 - pkg:maven/info.novatec.testit/webtester-support-junit5@2.4.0
 - pkg:maven/info.novatec.testit/webtester-support-junit5@2.4.0?classifier=sources
+- pkg:maven/info.novatec.testit/webtester-support-junit5@2.5.0
+- pkg:maven/info.novatec.testit/webtester-support-junit5@2.5.0?classifier=sources
+- pkg:maven/info.novatec.testit/webtester-support-junit5@2.6.0
+- pkg:maven/info.novatec.testit/webtester-support-junit5@2.6.0?classifier=sources

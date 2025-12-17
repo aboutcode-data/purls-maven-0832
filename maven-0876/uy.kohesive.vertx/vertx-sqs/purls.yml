@@ -1,0 +1,4 @@
+- pkg:maven/uy.kohesive.vertx/vertx-sqs@1.0.0-BETA-01
+- pkg:maven/uy.kohesive.vertx/vertx-sqs@1.0.0-BETA-01?classifier=sources
+- pkg:maven/uy.kohesive.vertx/vertx-sqs@1.0.0-BETA-02
+- pkg:maven/uy.kohesive.vertx/vertx-sqs@1.0.0-BETA-02?classifier=sources

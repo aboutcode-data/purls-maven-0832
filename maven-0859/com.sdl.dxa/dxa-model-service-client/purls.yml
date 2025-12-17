@@ -1,0 +1,2 @@
+- pkg:maven/com.sdl.dxa/dxa-model-service-client@2.0.0
+- pkg:maven/com.sdl.dxa/dxa-model-service-client@2.0.0?classifier=sources

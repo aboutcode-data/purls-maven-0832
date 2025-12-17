@@ -1,0 +1,2 @@
+- pkg:maven/com.github.monnetproject/kap.laif@1.18.4
+- pkg:maven/com.github.monnetproject/kap.laif@1.18.4?classifier=sources

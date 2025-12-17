@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/material__image-list@0.33.0
+- pkg:maven/org.webjars.npm/material__image-list@0.33.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__image-list@0.34.0
+- pkg:maven/org.webjars.npm/material__image-list@0.34.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__image-list@0.35.0
+- pkg:maven/org.webjars.npm/material__image-list@0.35.0?classifier=sources

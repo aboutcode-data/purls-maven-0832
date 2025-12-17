@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.policyinsights.v2018_04_04/azure-mgmt-policyinsights@1.0.0-beta-1
+- pkg:maven/com.microsoft.azure.policyinsights.v2018_04_04/azure-mgmt-policyinsights@1.0.0-beta-1?classifier=sources

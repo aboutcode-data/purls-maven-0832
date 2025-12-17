@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.ml.lightgbm/lightgbmlib@2.0.120
+- pkg:maven/com.microsoft.ml.lightgbm/lightgbmlib@2.0.120?classifier=sources

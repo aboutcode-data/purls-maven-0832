@@ -1,0 +1,2 @@
+- pkg:maven/org.raml.jaxrs/raml-to-jaxrs-gradle-plugin@3.0.2
+- pkg:maven/org.raml.jaxrs/raml-to-jaxrs-gradle-plugin@3.0.2?classifier=sources

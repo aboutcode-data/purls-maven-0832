@@ -8,6 +8,7 @@
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-module-platform@3.12.1?classifier=sources
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-module-platform@3.12.2?classifier=sources
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-module-platform@3.12.3?classifier=sources
+- pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-module-platform@3.13.0?classifier=sources
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-module-platform@3.2.0?classifier=sources
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-module-platform@3.2.1?classifier=sources
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-module-platform@3.3.0?classifier=sources

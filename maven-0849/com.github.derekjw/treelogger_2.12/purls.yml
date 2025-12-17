@@ -1,0 +1,2 @@
+- pkg:maven/com.github.derekjw/treelogger_2.12@0.1
+- pkg:maven/com.github.derekjw/treelogger_2.12@0.1?classifier=sources

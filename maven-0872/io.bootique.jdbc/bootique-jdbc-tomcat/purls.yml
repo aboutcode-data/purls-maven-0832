@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-tomcat@0.25
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-tomcat@0.25?classifier=sources

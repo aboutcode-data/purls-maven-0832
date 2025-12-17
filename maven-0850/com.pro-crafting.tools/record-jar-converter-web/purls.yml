@@ -1,0 +1,2 @@
+- pkg:maven/com.pro-crafting.tools/record-jar-converter-web@1.0.0?classifier=sources
+- pkg:maven/com.pro-crafting.tools/record-jar-converter-web@1.1.0?classifier=sources

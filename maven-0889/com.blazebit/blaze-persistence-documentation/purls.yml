@@ -14,6 +14,11 @@
 - pkg:maven/com.blazebit/blaze-persistence-documentation@1.1.0-Alpha6
 - pkg:maven/com.blazebit/blaze-persistence-documentation@1.1.0-Alpha7
 - pkg:maven/com.blazebit/blaze-persistence-documentation@1.1.1
+- pkg:maven/com.blazebit/blaze-persistence-documentation@1.2.0
 - pkg:maven/com.blazebit/blaze-persistence-documentation@1.2.0-Alpha1
 - pkg:maven/com.blazebit/blaze-persistence-documentation@1.2.0-Alpha2
 - pkg:maven/com.blazebit/blaze-persistence-documentation@1.2.0-Alpha3
+- pkg:maven/com.blazebit/blaze-persistence-documentation@1.2.0-Alpha4
+- pkg:maven/com.blazebit/blaze-persistence-documentation@1.2.0-Alpha5
+- pkg:maven/com.blazebit/blaze-persistence-documentation@1.2.0-Alpha6
+- pkg:maven/com.blazebit/blaze-persistence-documentation@1.2.0-RC1

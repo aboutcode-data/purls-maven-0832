@@ -1,3 +1,4 @@
+- pkg:maven/org.wso2.extension.siddhi.execution.kalmanfilter/siddhi-execution-kalman-filter-parent@4.0.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.kalmanfilter/siddhi-execution-kalman-filter-parent@4.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.kalmanfilter/siddhi-execution-kalman-filter-parent@4.0.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.kalmanfilter/siddhi-execution-kalman-filter-parent@4.0.5?classifier=source-release&type=zip

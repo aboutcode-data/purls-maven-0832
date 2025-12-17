@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.gemini.blueprint/gemini-blueprint-extender@2.1.0.M2?classifier=sources
 - pkg:maven/org.eclipse.gemini.blueprint/gemini-blueprint-extender@2.1.0.RELEASE
 - pkg:maven/org.eclipse.gemini.blueprint/gemini-blueprint-extender@2.1.0.RELEASE?classifier=sources
+- pkg:maven/org.eclipse.gemini.blueprint/gemini-blueprint-extender@3.0.0.M01
+- pkg:maven/org.eclipse.gemini.blueprint/gemini-blueprint-extender@3.0.0.M01?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jpmsilva.rewrite-spring-boot-starter/rewrite-spring-boot-starter@1.0.0
+- pkg:maven/com.github.jpmsilva.rewrite-spring-boot-starter/rewrite-spring-boot-starter@1.0.0?classifier=sources

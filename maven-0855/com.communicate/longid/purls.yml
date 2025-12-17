@@ -1,0 +1,4 @@
+- pkg:maven/com.communicate/longid@1.0
+- pkg:maven/com.communicate/longid@1.0?classifier=sources
+- pkg:maven/com.communicate/longid@1.1
+- pkg:maven/com.communicate/longid@1.1?classifier=sources

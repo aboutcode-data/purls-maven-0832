@@ -1,0 +1,2 @@
+- pkg:maven/to.lova.jaxrs/jaxrs-range-filter@1.0.0
+- pkg:maven/to.lova.jaxrs/jaxrs-range-filter@1.0.0?classifier=sources

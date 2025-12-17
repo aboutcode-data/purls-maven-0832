@@ -1,0 +1,4 @@
+- pkg:maven/nl.wimmelstein.impediment/keyexplorer@0.9.1
+- pkg:maven/nl.wimmelstein.impediment/keyexplorer@0.9.1?classifier=sources
+- pkg:maven/nl.wimmelstein.impediment/keyexplorer@0.9.2
+- pkg:maven/nl.wimmelstein.impediment/keyexplorer@0.9.2?classifier=sources

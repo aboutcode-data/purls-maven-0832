@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bower/source-map@0.4.4
+- pkg:maven/org.webjars.bower/source-map@0.4.4?classifier=sources
 - pkg:maven/org.webjars.bower/source-map@0.5.1
 - pkg:maven/org.webjars.bower/source-map@0.5.1?classifier=sources
 - pkg:maven/org.webjars.bower/source-map@0.5.2

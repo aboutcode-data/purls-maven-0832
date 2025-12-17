@@ -1,0 +1,2 @@
+- pkg:maven/org.nokatag/nokatag@6.0.18
+- pkg:maven/org.nokatag/nokatag@6.0.18?classifier=sources

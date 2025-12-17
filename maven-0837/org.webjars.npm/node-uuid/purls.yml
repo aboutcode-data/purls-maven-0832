@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/node-uuid@1.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/node-uuid@1.4.7
 - pkg:maven/org.webjars.npm/node-uuid@1.4.7?classifier=sources
+- pkg:maven/org.webjars.npm/node-uuid@1.4.8
+- pkg:maven/org.webjars.npm/node-uuid@1.4.8?classifier=sources

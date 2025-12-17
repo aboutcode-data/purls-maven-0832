@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shiqiyue/weixin-pay@0.9.7
+- pkg:maven/com.github.shiqiyue/weixin-pay@0.9.7?classifier=sources

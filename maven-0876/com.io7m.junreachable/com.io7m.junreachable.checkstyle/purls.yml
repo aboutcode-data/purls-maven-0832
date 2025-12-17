@@ -8,3 +8,5 @@
 - pkg:maven/com.io7m.junreachable/com.io7m.junreachable.checkstyle@2.0.0-beta0004
 - pkg:maven/com.io7m.junreachable/com.io7m.junreachable.checkstyle@2.0.0-beta0004?classifier=sources
 - pkg:maven/com.io7m.junreachable/com.io7m.junreachable.checkstyle@2.0.0?classifier=sources
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.checkstyle@2.1.1
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.checkstyle@2.1.1?classifier=sources

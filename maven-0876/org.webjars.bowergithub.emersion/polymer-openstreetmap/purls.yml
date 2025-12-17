@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.emersion/polymer-openstreetmap@0.0.4
+- pkg:maven/org.webjars.bowergithub.emersion/polymer-openstreetmap@0.0.4?classifier=sources

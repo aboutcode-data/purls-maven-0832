@@ -2,5 +2,9 @@
 - pkg:maven/com.elm-software/jackson-env@1.13?classifier=sources
 - pkg:maven/com.elm-software/jackson-env@1.14
 - pkg:maven/com.elm-software/jackson-env@1.14?classifier=sources
+- pkg:maven/com.elm-software/jackson-env@1.16.0
+- pkg:maven/com.elm-software/jackson-env@1.16.0?classifier=sources
+- pkg:maven/com.elm-software/jackson-env@1.17.2
+- pkg:maven/com.elm-software/jackson-env@1.17.2?classifier=sources
 - pkg:maven/com.elm-software/jackson-env@1.9
 - pkg:maven/com.elm-software/jackson-env@1.9?classifier=sources

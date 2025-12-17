@@ -1,2 +1,9 @@
 - pkg:maven/org.mobicents.protocols.ss7/restcomm-ss7-wildfly-commons@7.4.0-102
 - pkg:maven/org.mobicents.protocols.ss7/restcomm-ss7-wildfly-commons@7.4.0-65
+- pkg:maven/org.mobicents.protocols.ss7/restcomm-ss7-wildfly-commons@8.0.0-128
+- pkg:maven/org.mobicents.protocols.ss7/restcomm-ss7-wildfly-commons@8.0.0-129
+- pkg:maven/org.mobicents.protocols.ss7/restcomm-ss7-wildfly-commons@8.0.0-130
+- pkg:maven/org.mobicents.protocols.ss7/restcomm-ss7-wildfly-commons@8.0.0-131
+- pkg:maven/org.mobicents.protocols.ss7/restcomm-ss7-wildfly-commons@8.0.0-134
+- pkg:maven/org.mobicents.protocols.ss7/restcomm-ss7-wildfly-commons@8.0.0-135
+- pkg:maven/org.mobicents.protocols.ss7/restcomm-ss7-wildfly-commons@8.0.0-137

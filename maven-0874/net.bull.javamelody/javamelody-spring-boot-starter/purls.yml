@@ -14,3 +14,7 @@
 - pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.69.0?classifier=sources
 - pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.70.0
 - pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.70.0?classifier=sources
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.71.0
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.71.0?classifier=sources
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.72.0
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.72.0?classifier=sources

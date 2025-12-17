@@ -20,3 +20,5 @@
 - pkg:maven/de.mklinger.commons/exec@0.31?classifier=sources
 - pkg:maven/de.mklinger.commons/exec@0.32
 - pkg:maven/de.mklinger.commons/exec@0.32?classifier=sources
+- pkg:maven/de.mklinger.commons/exec@1.0
+- pkg:maven/de.mklinger.commons/exec@1.0?classifier=sources

@@ -98,6 +98,10 @@
 - pkg:maven/com.klinkerapps/article_viewer@0.24.6?type=aar
 - pkg:maven/com.klinkerapps/article_viewer@0.24.7?classifier=sources
 - pkg:maven/com.klinkerapps/article_viewer@0.24.7?type=aar
+- pkg:maven/com.klinkerapps/article_viewer@0.24.8?classifier=sources
+- pkg:maven/com.klinkerapps/article_viewer@0.24.8?type=aar
+- pkg:maven/com.klinkerapps/article_viewer@0.24.9?classifier=sources
+- pkg:maven/com.klinkerapps/article_viewer@0.24.9?type=aar
 - pkg:maven/com.klinkerapps/article_viewer@0.9.0?classifier=sources
 - pkg:maven/com.klinkerapps/article_viewer@0.9.0?type=aar
 - pkg:maven/com.klinkerapps/article_viewer@0.9.1?classifier=sources

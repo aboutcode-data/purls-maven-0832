@@ -5,4 +5,6 @@
 - pkg:maven/com.panayotis/arjs@0.1.4?classifier=sources
 - pkg:maven/com.panayotis/arjs@0.1.5
 - pkg:maven/com.panayotis/arjs@0.1.5?classifier=sources
+- pkg:maven/com.panayotis/arjs@0.1.6
+- pkg:maven/com.panayotis/arjs@0.1.6?classifier=sources
 - pkg:maven/com.panayotis/arjs@0.1?classifier=sources

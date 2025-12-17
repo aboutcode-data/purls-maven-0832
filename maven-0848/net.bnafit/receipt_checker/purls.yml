@@ -1,0 +1,4 @@
+- pkg:maven/net.bnafit/receipt_checker@0.6
+- pkg:maven/net.bnafit/receipt_checker@0.6?classifier=sources
+- pkg:maven/net.bnafit/receipt_checker@0.7
+- pkg:maven/net.bnafit/receipt_checker@0.7?classifier=sources

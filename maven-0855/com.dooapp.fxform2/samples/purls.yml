@@ -34,3 +34,13 @@
 - pkg:maven/com.dooapp.fxform2/samples@8.1.4?classifier=sources
 - pkg:maven/com.dooapp.fxform2/samples@8.1.5
 - pkg:maven/com.dooapp.fxform2/samples@8.1.5?classifier=sources
+- pkg:maven/com.dooapp.fxform2/samples@8.2.0
+- pkg:maven/com.dooapp.fxform2/samples@8.2.0?classifier=sources
+- pkg:maven/com.dooapp.fxform2/samples@8.2.1
+- pkg:maven/com.dooapp.fxform2/samples@8.2.1?classifier=sources
+- pkg:maven/com.dooapp.fxform2/samples@8.2.2
+- pkg:maven/com.dooapp.fxform2/samples@8.2.2?classifier=sources
+- pkg:maven/com.dooapp.fxform2/samples@8.2.3
+- pkg:maven/com.dooapp.fxform2/samples@8.2.3?classifier=sources
+- pkg:maven/com.dooapp.fxform2/samples@8.2.4
+- pkg:maven/com.dooapp.fxform2/samples@8.2.4?classifier=sources

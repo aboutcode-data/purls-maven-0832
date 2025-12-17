@@ -1,0 +1,3 @@
+- pkg:maven/com.github.satoshun.RxWebView/rxwebview@2.1.0?classifier=sources
+- pkg:maven/com.github.satoshun.RxWebView/rxwebview@2.1.2?classifier=sources
+- pkg:maven/com.github.satoshun.RxWebView/rxwebview@2.1.2?type=aar

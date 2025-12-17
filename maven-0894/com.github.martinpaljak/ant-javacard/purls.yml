@@ -1,0 +1,6 @@
+- pkg:maven/com.github.martinpaljak/ant-javacard@18.01.17.1
+- pkg:maven/com.github.martinpaljak/ant-javacard@18.01.17.1?classifier=sources
+- pkg:maven/com.github.martinpaljak/ant-javacard@18.03.19
+- pkg:maven/com.github.martinpaljak/ant-javacard@18.03.19?classifier=sources
+- pkg:maven/com.github.martinpaljak/ant-javacard@18.05.01
+- pkg:maven/com.github.martinpaljak/ant-javacard@18.05.01?classifier=sources

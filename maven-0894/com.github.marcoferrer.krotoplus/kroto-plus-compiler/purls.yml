@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marcoferrer.krotoplus/kroto-plus-compiler@0.1.1
+- pkg:maven/com.github.marcoferrer.krotoplus/kroto-plus-compiler@0.1.1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/online.devliving/mobilevision-pipeline@1.0.6?type=aar
 - pkg:maven/online.devliving/mobilevision-pipeline@1.0.7?classifier=sources
 - pkg:maven/online.devliving/mobilevision-pipeline@1.0.7?type=aar
+- pkg:maven/online.devliving/mobilevision-pipeline@1.0.8?classifier=sources
+- pkg:maven/online.devliving/mobilevision-pipeline@1.0.8?type=aar

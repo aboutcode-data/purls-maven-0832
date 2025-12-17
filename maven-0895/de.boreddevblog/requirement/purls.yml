@@ -1,0 +1,2 @@
+- pkg:maven/de.boreddevblog/requirement@0.0.1
+- pkg:maven/de.boreddevblog/requirement@0.0.1?classifier=sources

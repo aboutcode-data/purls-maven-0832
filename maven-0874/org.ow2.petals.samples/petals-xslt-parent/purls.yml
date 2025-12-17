@@ -1,1 +1,2 @@
 - pkg:maven/org.ow2.petals.samples/petals-xslt-parent@2.8.2-1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals.samples/petals-xslt-parent@2.8.3-1.0.0?classifier=source-release&type=zip

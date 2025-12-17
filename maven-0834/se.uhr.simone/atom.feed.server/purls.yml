@@ -1,2 +1,4 @@
 - pkg:maven/se.uhr.simone/atom.feed.server@1.0.0
 - pkg:maven/se.uhr.simone/atom.feed.server@1.0.0?classifier=sources
+- pkg:maven/se.uhr.simone/atom.feed.server@2.0.0
+- pkg:maven/se.uhr.simone/atom.feed.server@2.0.0?classifier=sources

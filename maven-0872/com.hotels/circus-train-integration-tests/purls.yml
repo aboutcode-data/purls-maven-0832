@@ -1,2 +1,12 @@
 - pkg:maven/com.hotels/circus-train-integration-tests@10.0.0
 - pkg:maven/com.hotels/circus-train-integration-tests@10.0.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-integration-tests@11.0.0
+- pkg:maven/com.hotels/circus-train-integration-tests@11.1.0
+- pkg:maven/com.hotels/circus-train-integration-tests@11.1.1
+- pkg:maven/com.hotels/circus-train-integration-tests@11.2.0
+- pkg:maven/com.hotels/circus-train-integration-tests@11.3.0
+- pkg:maven/com.hotels/circus-train-integration-tests@11.3.1
+- pkg:maven/com.hotels/circus-train-integration-tests@11.4.0
+- pkg:maven/com.hotels/circus-train-integration-tests@11.5.0
+- pkg:maven/com.hotels/circus-train-integration-tests@11.5.1
+- pkg:maven/com.hotels/circus-train-integration-tests@11.5.2

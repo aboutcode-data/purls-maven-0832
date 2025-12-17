@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kklisura.java.processing/props-to-constants-generator@1.0.0
+- pkg:maven/com.github.kklisura.java.processing/props-to-constants-generator@1.0.0?classifier=sources

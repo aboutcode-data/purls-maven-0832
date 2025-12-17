@@ -1,0 +1,8 @@
+- pkg:maven/org.sessl/sessl-analysis@0.15
+- pkg:maven/org.sessl/sessl-analysis@0.15.1
+- pkg:maven/org.sessl/sessl-analysis@0.15.1?classifier=sources
+- pkg:maven/org.sessl/sessl-analysis@0.15?classifier=sources
+- pkg:maven/org.sessl/sessl-analysis@0.16
+- pkg:maven/org.sessl/sessl-analysis@0.16?classifier=sources
+- pkg:maven/org.sessl/sessl-analysis@0.17
+- pkg:maven/org.sessl/sessl-analysis@0.17?classifier=sources

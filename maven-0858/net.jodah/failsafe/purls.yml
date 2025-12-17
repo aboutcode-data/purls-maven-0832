@@ -28,3 +28,7 @@
 - pkg:maven/net.jodah/failsafe@1.0.3?classifier=sources
 - pkg:maven/net.jodah/failsafe@1.0.4
 - pkg:maven/net.jodah/failsafe@1.0.4?classifier=sources
+- pkg:maven/net.jodah/failsafe@1.0.5
+- pkg:maven/net.jodah/failsafe@1.0.5?classifier=sources
+- pkg:maven/net.jodah/failsafe@1.1.0
+- pkg:maven/net.jodah/failsafe@1.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.platform-team/aws-maven@5.1.0
+- pkg:maven/com.github.platform-team/aws-maven@5.1.0?classifier=sources
+- pkg:maven/com.github.platform-team/aws-maven@6.0.0
+- pkg:maven/com.github.platform-team/aws-maven@6.0.0?classifier=sources

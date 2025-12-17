@@ -10,3 +10,5 @@
 - pkg:maven/io.gs2/gs2-java-sdk-stamina@0.3.1?classifier=sources
 - pkg:maven/io.gs2/gs2-java-sdk-stamina@0.4.0
 - pkg:maven/io.gs2/gs2-java-sdk-stamina@0.4.0?classifier=sources
+- pkg:maven/io.gs2/gs2-java-sdk-stamina@0.5.0
+- pkg:maven/io.gs2/gs2-java-sdk-stamina@0.5.0?classifier=sources

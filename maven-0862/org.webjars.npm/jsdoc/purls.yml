@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jsdoc@3.5.5
+- pkg:maven/org.webjars.npm/jsdoc@3.5.5?classifier=sources

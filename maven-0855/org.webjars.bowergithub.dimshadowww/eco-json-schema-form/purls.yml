@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.dimshadowww/eco-json-schema-form@0.5.0
+- pkg:maven/org.webjars.bowergithub.dimshadowww/eco-json-schema-form@0.5.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.dimshadowww/eco-json-schema-form@1.0.0
+- pkg:maven/org.webjars.bowergithub.dimshadowww/eco-json-schema-form@1.0.0?classifier=sources

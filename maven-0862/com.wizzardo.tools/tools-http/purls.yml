@@ -12,3 +12,9 @@
 - pkg:maven/com.wizzardo.tools/tools-http@0.17?classifier=sources
 - pkg:maven/com.wizzardo.tools/tools-http@0.18
 - pkg:maven/com.wizzardo.tools/tools-http@0.18?classifier=sources
+- pkg:maven/com.wizzardo.tools/tools-http@0.19
+- pkg:maven/com.wizzardo.tools/tools-http@0.19?classifier=sources
+- pkg:maven/com.wizzardo.tools/tools-http@0.20
+- pkg:maven/com.wizzardo.tools/tools-http@0.20?classifier=sources
+- pkg:maven/com.wizzardo.tools/tools-http@0.21
+- pkg:maven/com.wizzardo.tools/tools-http@0.21?classifier=sources

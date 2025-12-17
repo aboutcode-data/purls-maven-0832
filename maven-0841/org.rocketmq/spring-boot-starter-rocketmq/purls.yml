@@ -1,0 +1,6 @@
+- pkg:maven/org.rocketmq/spring-boot-starter-rocketmq@1.0.0.RELEASE
+- pkg:maven/org.rocketmq/spring-boot-starter-rocketmq@1.0.0.RELEASE?classifier=sources
+- pkg:maven/org.rocketmq/spring-boot-starter-rocketmq@1.1.0.RELEASE
+- pkg:maven/org.rocketmq/spring-boot-starter-rocketmq@1.1.0.RELEASE?classifier=sources
+- pkg:maven/org.rocketmq/spring-boot-starter-rocketmq@1.2.0.RELEASE
+- pkg:maven/org.rocketmq/spring-boot-starter-rocketmq@1.2.0.RELEASE?classifier=sources

@@ -34,3 +34,7 @@
 - pkg:maven/org.jboss.weld.module/weld-ejb@3.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.weld.module/weld-ejb@3.0.2.Final
 - pkg:maven/org.jboss.weld.module/weld-ejb@3.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.weld.module/weld-ejb@3.0.3.Final
+- pkg:maven/org.jboss.weld.module/weld-ejb@3.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.weld.module/weld-ejb@3.0.4.Final
+- pkg:maven/org.jboss.weld.module/weld-ejb@3.0.4.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.cucumber/cucumber-html@0.2.7
+- pkg:maven/io.cucumber/cucumber-html@0.2.7?classifier=sources

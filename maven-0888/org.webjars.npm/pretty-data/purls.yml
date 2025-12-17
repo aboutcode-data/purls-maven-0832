@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/pretty-data@0.40.0
+- pkg:maven/org.webjars.npm/pretty-data@0.40.0?classifier=sources

@@ -4,3 +4,11 @@
 - pkg:maven/com.hubspot/SingularityUI@0.18.1?classifier=sources
 - pkg:maven/com.hubspot/SingularityUI@0.18.2
 - pkg:maven/com.hubspot/SingularityUI@0.18.2?classifier=sources
+- pkg:maven/com.hubspot/SingularityUI@0.19.0
+- pkg:maven/com.hubspot/SingularityUI@0.19.0?classifier=sources
+- pkg:maven/com.hubspot/SingularityUI@0.19.1
+- pkg:maven/com.hubspot/SingularityUI@0.19.1?classifier=sources
+- pkg:maven/com.hubspot/SingularityUI@0.19.2
+- pkg:maven/com.hubspot/SingularityUI@0.19.2?classifier=sources
+- pkg:maven/com.hubspot/SingularityUI@0.20.0
+- pkg:maven/com.hubspot/SingularityUI@0.20.0?classifier=sources

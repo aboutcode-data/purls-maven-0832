@@ -10,3 +10,5 @@
 - pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android@0.2.1?type=aar
 - pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android@0.2.2?classifier=sources
 - pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android@0.2.2?type=aar
+- pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android@0.2.3?classifier=sources
+- pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android@0.2.3?type=aar

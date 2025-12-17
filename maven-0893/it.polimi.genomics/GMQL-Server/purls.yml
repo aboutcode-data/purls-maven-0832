@@ -1,0 +1,2 @@
+- pkg:maven/it.polimi.genomics/GMQL-Server@2.0
+- pkg:maven/it.polimi.genomics/GMQL-Server@2.0?classifier=sources

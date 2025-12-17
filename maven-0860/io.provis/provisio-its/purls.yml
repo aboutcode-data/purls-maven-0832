@@ -22,3 +22,4 @@
 - pkg:maven/io.provis/provisio-its@0.1.48?classifier=sources
 - pkg:maven/io.provis/provisio-its@0.1.49?classifier=sources
 - pkg:maven/io.provis/provisio-its@0.1.50?classifier=sources
+- pkg:maven/io.provis/provisio-its@0.1.51?classifier=sources

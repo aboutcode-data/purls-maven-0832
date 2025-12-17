@@ -104,3 +104,7 @@
 - pkg:maven/org.ninjaframework/ninja-maven-plugin@6.2.0?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-maven-plugin@6.2.1
 - pkg:maven/org.ninjaframework/ninja-maven-plugin@6.2.1?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-maven-plugin@6.2.2
+- pkg:maven/org.ninjaframework/ninja-maven-plugin@6.2.2?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-maven-plugin@6.3.0
+- pkg:maven/org.ninjaframework/ninja-maven-plugin@6.3.0?classifier=sources

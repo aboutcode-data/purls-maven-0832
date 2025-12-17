@@ -20,6 +20,8 @@
 - pkg:maven/org.technbolts.tzatziki/tzatziki-core@0.15.1?classifier=sources
 - pkg:maven/org.technbolts.tzatziki/tzatziki-core@0.15.2
 - pkg:maven/org.technbolts.tzatziki/tzatziki-core@0.15.2?classifier=sources
+- pkg:maven/org.technbolts.tzatziki/tzatziki-core@0.16.0
+- pkg:maven/org.technbolts.tzatziki/tzatziki-core@0.16.0?classifier=sources
 - pkg:maven/org.technbolts.tzatziki/tzatziki-core@0.9.2
 - pkg:maven/org.technbolts.tzatziki/tzatziki-core@0.9.2?classifier=sources
 - pkg:maven/org.technbolts.tzatziki/tzatziki-core@0.9.3

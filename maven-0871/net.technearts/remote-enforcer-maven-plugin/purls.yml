@@ -1,0 +1,2 @@
+- pkg:maven/net.technearts/remote-enforcer-maven-plugin@0.0.2
+- pkg:maven/net.technearts/remote-enforcer-maven-plugin@0.0.2?classifier=sources

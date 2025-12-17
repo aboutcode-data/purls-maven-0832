@@ -8,3 +8,7 @@
 - pkg:maven/org.sevensource.magnolia/magnolia-thymeleaf-renderer-blossom-module@0.9.8?classifier=sources
 - pkg:maven/org.sevensource.magnolia/magnolia-thymeleaf-renderer-blossom-module@0.9.9
 - pkg:maven/org.sevensource.magnolia/magnolia-thymeleaf-renderer-blossom-module@0.9.9?classifier=sources
+- pkg:maven/org.sevensource.magnolia/magnolia-thymeleaf-renderer-blossom-module@1.0.0
+- pkg:maven/org.sevensource.magnolia/magnolia-thymeleaf-renderer-blossom-module@1.0.0?classifier=sources
+- pkg:maven/org.sevensource.magnolia/magnolia-thymeleaf-renderer-blossom-module@1.0.2
+- pkg:maven/org.sevensource.magnolia/magnolia-thymeleaf-renderer-blossom-module@1.0.2?classifier=sources

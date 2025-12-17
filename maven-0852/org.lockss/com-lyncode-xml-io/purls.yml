@@ -1,0 +1,2 @@
+- pkg:maven/org.lockss/com-lyncode-xml-io@1.0.3-p3
+- pkg:maven/org.lockss/com-lyncode-xml-io@1.0.3-p3?classifier=sources

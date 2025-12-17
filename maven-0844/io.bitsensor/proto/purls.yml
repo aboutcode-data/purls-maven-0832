@@ -4,3 +4,9 @@
 - pkg:maven/io.bitsensor/proto@0.10.2?classifier=sources
 - pkg:maven/io.bitsensor/proto@0.10.3-RC1
 - pkg:maven/io.bitsensor/proto@0.10.3-RC1?classifier=sources
+- pkg:maven/io.bitsensor/proto@0.10.3-RC2
+- pkg:maven/io.bitsensor/proto@0.10.3-RC2?classifier=sources
+- pkg:maven/io.bitsensor/proto@1.0.0
+- pkg:maven/io.bitsensor/proto@1.0.0-RC1
+- pkg:maven/io.bitsensor/proto@1.0.0-RC1?classifier=sources
+- pkg:maven/io.bitsensor/proto@1.0.0?classifier=sources

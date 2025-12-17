@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/compiler-integration@0.13.17-sourcedeps
+- pkg:maven/ch.epfl.scala/compiler-integration@0.13.17-sourcedeps?classifier=sources

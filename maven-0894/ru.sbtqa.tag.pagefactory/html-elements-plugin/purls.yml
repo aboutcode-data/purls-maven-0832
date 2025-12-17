@@ -1,6 +1,12 @@
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@0.1.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@0.1.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@1.0-beta
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@1.0-beta.2
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@1.0-beta.2?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@1.0-beta.3
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@1.0-beta.3?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@1.0-beta?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@1.0.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@1.0.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@2.0.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-elements-plugin@2.0.0?classifier=sources

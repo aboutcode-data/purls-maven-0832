@@ -1,3 +1,5 @@
+- pkg:maven/io.github.aktoluna/slnarch-demo@1.0.0
+- pkg:maven/io.github.aktoluna/slnarch-demo@1.0.0?classifier=sources
 - pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.0.0
 - pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.0.0?classifier=sources
 - pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.0.1
@@ -74,3 +76,15 @@
 - pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.4.8?classifier=sources
 - pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.4.9
 - pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.4.9?classifier=sources
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.0
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.0?classifier=sources
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.1
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.1?classifier=sources
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.2
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.2?classifier=sources
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.3
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.3?classifier=sources
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.4
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.4?classifier=sources
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.5
+- pkg:maven/io.github.aktoluna/slnarch-demo@BETA-1.5.5?classifier=sources

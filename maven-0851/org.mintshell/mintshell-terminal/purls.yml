@@ -1,0 +1,2 @@
+- pkg:maven/org.mintshell/mintshell-terminal@0.1.0
+- pkg:maven/org.mintshell/mintshell-terminal@0.1.0?classifier=sources

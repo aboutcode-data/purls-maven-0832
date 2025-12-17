@@ -4,3 +4,5 @@
 - pkg:maven/com.sdl.delivery.ish/ish-ugc-module@1.0.1?classifier=sources
 - pkg:maven/com.sdl.delivery.ish/ish-ugc-module@1.1.0
 - pkg:maven/com.sdl.delivery.ish/ish-ugc-module@1.1.0?classifier=sources
+- pkg:maven/com.sdl.delivery.ish/ish-ugc-module@1.2.0
+- pkg:maven/com.sdl.delivery.ish/ish-ugc-module@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cz.softwarebuilders/cz.softwarebuilders.testutils@0.7
+- pkg:maven/cz.softwarebuilders/cz.softwarebuilders.testutils@0.7?classifier=sources

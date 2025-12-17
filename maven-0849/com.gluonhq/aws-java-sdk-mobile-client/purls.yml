@@ -1,0 +1,2 @@
+- pkg:maven/com.gluonhq/aws-java-sdk-mobile-client@2.6.19
+- pkg:maven/com.gluonhq/aws-java-sdk-mobile-client@2.6.19?classifier=sources

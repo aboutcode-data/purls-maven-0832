@@ -1,0 +1,12 @@
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.0-1
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.0-1?classifier=sources
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.0.1
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.0.1?classifier=sources
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.2.3
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.2.3?classifier=sources
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.2.4
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.2.4?classifier=sources
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.5.0
+- pkg:maven/com.github.shaykhsalman/CommonServices@1.5.0?classifier=sources
+- pkg:maven/com.github.shaykhsalman/CommonServices@vertx
+- pkg:maven/com.github.shaykhsalman/CommonServices@vertx?classifier=sources

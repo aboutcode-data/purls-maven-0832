@@ -2,3 +2,5 @@
 - pkg:maven/de.hasait.tanks/tanks.app.common@0.0.1.RELEASE?classifier=sources
 - pkg:maven/de.hasait.tanks/tanks.app.common@0.0.2.RELEASE
 - pkg:maven/de.hasait.tanks/tanks.app.common@0.0.2.RELEASE?classifier=sources
+- pkg:maven/de.hasait.tanks/tanks.app.common@1.0.0.RELEASE
+- pkg:maven/de.hasait.tanks/tanks.app.common@1.0.0.RELEASE?classifier=sources

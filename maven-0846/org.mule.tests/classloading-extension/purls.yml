@@ -1,0 +1,2 @@
+- pkg:maven/org.mule.tests/classloading-extension@4.1.1
+- pkg:maven/org.mule.tests/classloading-extension@4.1.1?classifier=sources

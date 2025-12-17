@@ -63,6 +63,8 @@
 - pkg:maven/org.scalaz/scalaz-xml_2.10@7.1.15?classifier=sources
 - pkg:maven/org.scalaz/scalaz-xml_2.10@7.1.16
 - pkg:maven/org.scalaz/scalaz-xml_2.10@7.1.16?classifier=sources
+- pkg:maven/org.scalaz/scalaz-xml_2.10@7.1.17
+- pkg:maven/org.scalaz/scalaz-xml_2.10@7.1.17?classifier=sources
 - pkg:maven/org.scalaz/scalaz-xml_2.10@7.1.1?classifier=sources
 - pkg:maven/org.scalaz/scalaz-xml_2.10@7.1.2
 - pkg:maven/org.scalaz/scalaz-xml_2.10@7.1.2?classifier=sources

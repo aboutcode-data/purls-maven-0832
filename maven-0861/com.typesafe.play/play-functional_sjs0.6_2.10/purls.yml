@@ -24,3 +24,5 @@
 - pkg:maven/com.typesafe.play/play-functional_sjs0.6_2.10@2.6.7?classifier=sources
 - pkg:maven/com.typesafe.play/play-functional_sjs0.6_2.10@2.6.8
 - pkg:maven/com.typesafe.play/play-functional_sjs0.6_2.10@2.6.8?classifier=sources
+- pkg:maven/com.typesafe.play/play-functional_sjs0.6_2.10@2.6.9
+- pkg:maven/com.typesafe.play/play-functional_sjs0.6_2.10@2.6.9?classifier=sources

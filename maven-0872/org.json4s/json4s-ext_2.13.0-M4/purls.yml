@@ -1,0 +1,4 @@
+- pkg:maven/org.json4s/json4s-ext_2.13.0-M4@3.5.4
+- pkg:maven/org.json4s/json4s-ext_2.13.0-M4@3.5.4?classifier=sources
+- pkg:maven/org.json4s/json4s-ext_2.13.0-M4@3.6.0-M4
+- pkg:maven/org.json4s/json4s-ext_2.13.0-M4@3.6.0-M4?classifier=sources

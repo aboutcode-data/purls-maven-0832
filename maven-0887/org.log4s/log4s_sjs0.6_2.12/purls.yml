@@ -1,0 +1,4 @@
+- pkg:maven/org.log4s/log4s_sjs0.6_2.12@1.6.0
+- pkg:maven/org.log4s/log4s_sjs0.6_2.12@1.6.0?classifier=sources
+- pkg:maven/org.log4s/log4s_sjs0.6_2.12@1.6.1
+- pkg:maven/org.log4s/log4s_sjs0.6_2.12@1.6.1?classifier=sources

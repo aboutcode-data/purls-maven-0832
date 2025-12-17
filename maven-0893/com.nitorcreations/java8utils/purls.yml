@@ -1,2 +1,4 @@
 - pkg:maven/com.nitorcreations/java8utils@1.0.0
 - pkg:maven/com.nitorcreations/java8utils@1.0.0?classifier=sources
+- pkg:maven/com.nitorcreations/java8utils@1.0.1
+- pkg:maven/com.nitorcreations/java8utils@1.0.1?classifier=sources

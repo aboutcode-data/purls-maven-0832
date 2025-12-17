@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tpakula/redis-bin@3.2.11.0
+- pkg:maven/com.github.tpakula/redis-bin@3.2.11.0?classifier=sources

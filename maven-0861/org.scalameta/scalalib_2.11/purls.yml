@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/scalalib_2.11@3.4.0
+- pkg:maven/org.scalameta/scalalib_2.11@3.4.0?classifier=sources

@@ -108,6 +108,8 @@
 - pkg:maven/com.github.tminglei/slick-pg_core_2.10@0.8.5?classifier=sources
 - pkg:maven/com.github.tminglei/slick-pg_core_2.10@0.8.5_json4s-3.2.11
 - pkg:maven/com.github.tminglei/slick-pg_core_2.10@0.8.5_json4s-3.2.11?classifier=sources
+- pkg:maven/com.github.tminglei/slick-pg_core_2.10@0.8.6
+- pkg:maven/com.github.tminglei/slick-pg_core_2.10@0.8.6?classifier=sources
 - pkg:maven/com.github.tminglei/slick-pg_core_2.10@0.9.0
 - pkg:maven/com.github.tminglei/slick-pg_core_2.10@0.9.0-beta
 - pkg:maven/com.github.tminglei/slick-pg_core_2.10@0.9.0-beta?classifier=sources

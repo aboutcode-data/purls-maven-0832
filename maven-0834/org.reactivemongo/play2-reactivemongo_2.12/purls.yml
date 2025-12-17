@@ -10,3 +10,5 @@
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@0.12.6-play26?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@0.12.7-play26
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@0.12.7-play26?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@0.13.0-play26
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@0.13.0-play26?classifier=sources

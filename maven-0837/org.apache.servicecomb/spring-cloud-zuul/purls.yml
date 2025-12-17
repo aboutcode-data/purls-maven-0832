@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicecomb/spring-cloud-zuul@1.0.0-m1
+- pkg:maven/org.apache.servicecomb/spring-cloud-zuul@1.0.0-m1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/io.github.openunirest/unirest-java@2.0.02
+- pkg:maven/io.github.openunirest/unirest-java@2.0.02?classifier=sources
+- pkg:maven/io.github.openunirest/unirest-java@2.1.01
+- pkg:maven/io.github.openunirest/unirest-java@2.1.01?classifier=sources
+- pkg:maven/io.github.openunirest/unirest-java@2.2.00
+- pkg:maven/io.github.openunirest/unirest-java@2.2.00?classifier=sources
+- pkg:maven/io.github.openunirest/unirest-java@2.2.01
+- pkg:maven/io.github.openunirest/unirest-java@2.2.01?classifier=sources
+- pkg:maven/io.github.openunirest/unirest-java@2.2.02
+- pkg:maven/io.github.openunirest/unirest-java@2.2.02?classifier=sources
+- pkg:maven/io.github.openunirest/unirest-java@2.2.03
+- pkg:maven/io.github.openunirest/unirest-java@2.2.03?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/ws.ament.hammock/util-brave@1.5?classifier=sources
 - pkg:maven/ws.ament.hammock/util-brave@2.0
 - pkg:maven/ws.ament.hammock/util-brave@2.0?classifier=sources
+- pkg:maven/ws.ament.hammock/util-brave@2.1
+- pkg:maven/ws.ament.hammock/util-brave@2.1?classifier=sources

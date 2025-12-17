@@ -10,3 +10,5 @@
 - pkg:maven/info.informationsea.tableio/tableio-core@0.1.1?classifier=sources
 - pkg:maven/info.informationsea.tableio/tableio-core@0.1.2
 - pkg:maven/info.informationsea.tableio/tableio-core@0.1.2?classifier=sources
+- pkg:maven/info.informationsea.tableio/tableio-core@0.2
+- pkg:maven/info.informationsea.tableio/tableio-core@0.2?classifier=sources

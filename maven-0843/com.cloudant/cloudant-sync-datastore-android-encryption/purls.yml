@@ -32,3 +32,5 @@
 - pkg:maven/com.cloudant/cloudant-sync-datastore-android-encryption@2.0.2?classifier=sources
 - pkg:maven/com.cloudant/cloudant-sync-datastore-android-encryption@2.1.0
 - pkg:maven/com.cloudant/cloudant-sync-datastore-android-encryption@2.1.0?classifier=sources
+- pkg:maven/com.cloudant/cloudant-sync-datastore-android-encryption@2.2.0
+- pkg:maven/com.cloudant/cloudant-sync-datastore-android-encryption@2.2.0?classifier=sources
