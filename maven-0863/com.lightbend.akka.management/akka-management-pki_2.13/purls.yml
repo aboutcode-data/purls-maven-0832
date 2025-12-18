@@ -1,2 +1,4 @@
 - pkg:maven/com.lightbend.akka.management/akka-management-pki_2.13@1.1.0
 - pkg:maven/com.lightbend.akka.management/akka-management-pki_2.13@1.1.0?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management-pki_2.13@1.1.1
+- pkg:maven/com.lightbend.akka.management/akka-management-pki_2.13@1.1.1?classifier=sources

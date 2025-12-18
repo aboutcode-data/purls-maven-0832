@@ -20,3 +20,4 @@
 - pkg:maven/org.ejml/ejml-zdense@0.39?classifier=sources
 - pkg:maven/org.ejml/ejml-zdense@0.40
 - pkg:maven/org.ejml/ejml-zdense@0.40?classifier=sources
+- pkg:maven/org.ejml/ejml-zdense@0.41?classifier=sources

@@ -1,2 +1,9 @@
 - pkg:maven/com.soywiz.korlibs.korio/korio-jvm@2.0.10?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korio/korio-jvm@2.1.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-jvm@2.2.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-jvm@2.2.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-jvm@2.3.0-M1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-jvm@2.3.0-M2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-jvm@2.3.0-M5?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-jvm@2.3.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-jvm@2.3.1?classifier=sources

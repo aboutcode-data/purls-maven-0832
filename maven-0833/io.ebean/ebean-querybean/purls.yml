@@ -96,6 +96,8 @@
 - pkg:maven/io.ebean/ebean-querybean@12.1.8?classifier=sources
 - pkg:maven/io.ebean/ebean-querybean@12.1.9
 - pkg:maven/io.ebean/ebean-querybean@12.1.9?classifier=sources
+- pkg:maven/io.ebean/ebean-querybean@12.10.0
+- pkg:maven/io.ebean/ebean-querybean@12.10.0?classifier=sources
 - pkg:maven/io.ebean/ebean-querybean@12.2.1
 - pkg:maven/io.ebean/ebean-querybean@12.2.1?classifier=sources
 - pkg:maven/io.ebean/ebean-querybean@12.2.2
@@ -162,3 +164,9 @@
 - pkg:maven/io.ebean/ebean-querybean@12.8.3?classifier=sources
 - pkg:maven/io.ebean/ebean-querybean@12.9.0
 - pkg:maven/io.ebean/ebean-querybean@12.9.0?classifier=sources
+- pkg:maven/io.ebean/ebean-querybean@12.9.1
+- pkg:maven/io.ebean/ebean-querybean@12.9.1?classifier=sources
+- pkg:maven/io.ebean/ebean-querybean@12.9.2
+- pkg:maven/io.ebean/ebean-querybean@12.9.2?classifier=sources
+- pkg:maven/io.ebean/ebean-querybean@12.9.3
+- pkg:maven/io.ebean/ebean-querybean@12.9.3?classifier=sources

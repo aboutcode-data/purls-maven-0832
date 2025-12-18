@@ -1,2 +1,6 @@
 - pkg:maven/org.beangle.doc/beangle-doc-docx_2.13@0.0.4
 - pkg:maven/org.beangle.doc/beangle-doc-docx_2.13@0.0.4?classifier=sources
+- pkg:maven/org.beangle.doc/beangle-doc-docx_2.13@0.0.5
+- pkg:maven/org.beangle.doc/beangle-doc-docx_2.13@0.0.5?classifier=sources
+- pkg:maven/org.beangle.doc/beangle-doc-docx_2.13@0.0.6
+- pkg:maven/org.beangle.doc/beangle-doc-docx_2.13@0.0.6?classifier=sources

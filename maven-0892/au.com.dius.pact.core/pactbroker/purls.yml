@@ -12,6 +12,8 @@
 - pkg:maven/au.com.dius.pact.core/pactbroker@4.1.1?classifier=sources
 - pkg:maven/au.com.dius.pact.core/pactbroker@4.1.20?classifier=sources
 - pkg:maven/au.com.dius.pact.core/pactbroker@4.1.21?classifier=sources
+- pkg:maven/au.com.dius.pact.core/pactbroker@4.1.22?classifier=sources
+- pkg:maven/au.com.dius.pact.core/pactbroker@4.1.23?classifier=sources
 - pkg:maven/au.com.dius.pact.core/pactbroker@4.1.2?classifier=sources
 - pkg:maven/au.com.dius.pact.core/pactbroker@4.1.3?classifier=sources
 - pkg:maven/au.com.dius.pact.core/pactbroker@4.1.4?classifier=sources
@@ -31,3 +33,4 @@
 - pkg:maven/au.com.dius.pact.core/pactbroker@4.2.4?classifier=sources
 - pkg:maven/au.com.dius.pact.core/pactbroker@4.2.5?classifier=sources
 - pkg:maven/au.com.dius.pact.core/pactbroker@4.2.6?classifier=sources
+- pkg:maven/au.com.dius.pact.core/pactbroker@4.2.7?classifier=sources

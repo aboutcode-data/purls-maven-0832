@@ -18,6 +18,12 @@
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20210415-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20210506-1.31.0
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20210506-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20210506-1.31.5
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20210506-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20210625-1.31.5
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20210625-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20210625-1.32.1
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20210625-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20200914-1.30.10
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20200914-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20200924-1.30.10

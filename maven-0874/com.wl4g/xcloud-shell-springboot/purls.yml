@@ -9,3 +9,7 @@
 - pkg:maven/com.wl4g/xcloud-shell-springboot@2.2.1?classifier=sources
 - pkg:maven/com.wl4g/xcloud-shell-springboot@2.2.2
 - pkg:maven/com.wl4g/xcloud-shell-springboot@2.2.2?classifier=sources
+- pkg:maven/com.wl4g/xcloud-shell-springboot@3.0.0
+- pkg:maven/com.wl4g/xcloud-shell-springboot@3.0.0?classifier=sources
+- pkg:maven/com.wl4g/xcloud-shell-springboot@3.1.0
+- pkg:maven/com.wl4g/xcloud-shell-springboot@3.1.0?classifier=sources

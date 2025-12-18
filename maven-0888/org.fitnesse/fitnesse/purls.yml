@@ -119,3 +119,5 @@
 - pkg:maven/org.fitnesse/fitnesse@20210410
 - pkg:maven/org.fitnesse/fitnesse@20210410?classifier=sources
 - pkg:maven/org.fitnesse/fitnesse@20210516?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20210605?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20210606?classifier=sources

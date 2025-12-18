@@ -10,8 +10,12 @@
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.25.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.26.0
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.26.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.27.0
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.27.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.10.0
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.10.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.11.0
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.11.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.5.0
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.5.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.6.0

@@ -1,3 +1,5 @@
 - pkg:maven/com.smartdevicelink/bson_java_port@1.2.0?classifier=sources
 - pkg:maven/com.smartdevicelink/bson_java_port@1.2.2?classifier=sources
 - pkg:maven/com.smartdevicelink/bson_java_port@1.2.4?classifier=sources
+- pkg:maven/com.smartdevicelink/bson_java_port@1.2.5?classifier=sources
+- pkg:maven/com.smartdevicelink/bson_java_port@1.2.5_RC?classifier=sources

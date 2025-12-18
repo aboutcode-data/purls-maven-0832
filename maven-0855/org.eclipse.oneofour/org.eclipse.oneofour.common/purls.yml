@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.oneofour/org.eclipse.oneofour.common@0.1.0
+- pkg:maven/org.eclipse.oneofour/org.eclipse.oneofour.common@0.1.0?classifier=sources

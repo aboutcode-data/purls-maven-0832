@@ -1,0 +1,2 @@
+- pkg:maven/com.sasak-ui/sasak-ui-basic@1.0.1
+- pkg:maven/com.sasak-ui/sasak-ui-basic@1.0.1?classifier=sources

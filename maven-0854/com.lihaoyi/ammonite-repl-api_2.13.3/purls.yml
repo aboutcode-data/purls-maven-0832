@@ -45,6 +45,8 @@
 - pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-123-0b9a8c9b?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-124-2da846d2
 - pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-124-2da846d2?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-125-f6bb1cf9
+- pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-125-f6bb1cf9?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-2-376ee9d4
 - pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-2-376ee9d4?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-3-05aed517
@@ -88,3 +90,7 @@
 - pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-67-4b6c67db
 - pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8-67-4b6c67db?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.3.8?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.4.0
+- pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.4.0-5-534c9436
+- pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.4.0-5-534c9436?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-repl-api_2.13.3@2.4.0?classifier=sources

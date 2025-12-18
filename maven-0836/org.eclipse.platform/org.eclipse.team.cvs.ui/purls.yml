@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.ui@3.4.800?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.ui@3.4.900
 - pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.ui@3.4.900?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.ui@3.5.0
+- pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.ui@3.5.0?classifier=sources

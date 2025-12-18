@@ -30,3 +30,5 @@
 - pkg:maven/com.haoxuer.discover/discover-common-make@3.3.5-20210515?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-common-make@3.3.6-20210522
 - pkg:maven/com.haoxuer.discover/discover-common-make@3.3.6-20210522?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-common-make@3.3.7-20210610
+- pkg:maven/com.haoxuer.discover/discover-common-make@3.3.7-20210610?classifier=sources

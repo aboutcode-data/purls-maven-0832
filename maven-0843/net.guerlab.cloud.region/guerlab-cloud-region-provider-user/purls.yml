@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab.cloud.region/guerlab-cloud-region-provider-user@21.7.2
+- pkg:maven/net.guerlab.cloud.region/guerlab-cloud-region-provider-user@21.7.2?classifier=sources

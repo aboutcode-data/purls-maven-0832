@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-revision-entity-service@0.7.0?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-revision-entity-service@0.8.0
 - pkg:maven/org.apache.nifi.registry/nifi-registry-revision-entity-service@0.8.0?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-revision-entity-service@1.14.0
+- pkg:maven/org.apache.nifi.registry/nifi-registry-revision-entity-service@1.14.0?classifier=sources

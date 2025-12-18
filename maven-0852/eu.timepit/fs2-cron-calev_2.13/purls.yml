@@ -1,0 +1,2 @@
+- pkg:maven/eu.timepit/fs2-cron-calev_2.13@0.7.1
+- pkg:maven/eu.timepit/fs2-cron-calev_2.13@0.7.1?classifier=sources

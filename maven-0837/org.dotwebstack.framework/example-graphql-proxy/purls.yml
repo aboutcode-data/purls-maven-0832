@@ -1,0 +1,6 @@
+- pkg:maven/org.dotwebstack.framework/example-graphql-proxy@0.3.32
+- pkg:maven/org.dotwebstack.framework/example-graphql-proxy@0.3.32?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-graphql-proxy@0.3.33
+- pkg:maven/org.dotwebstack.framework/example-graphql-proxy@0.3.33?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-graphql-proxy@0.3.34
+- pkg:maven/org.dotwebstack.framework/example-graphql-proxy@0.3.34?classifier=sources

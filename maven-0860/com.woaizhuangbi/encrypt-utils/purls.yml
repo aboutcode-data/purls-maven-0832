@@ -1,0 +1,2 @@
+- pkg:maven/com.woaizhuangbi/encrypt-utils@0.0.1-RELEASE
+- pkg:maven/com.woaizhuangbi/encrypt-utils@0.0.1-RELEASE?classifier=sources

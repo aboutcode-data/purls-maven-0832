@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qqnp1100/arouter-api@1.5.2?classifier=sources
+- pkg:maven/io.github.qqnp1100/arouter-api@1.5.2?type=aar

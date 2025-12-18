@@ -1,2 +1,3 @@
 - pkg:maven/com.azure.android/azure-core-http-okhttp@1.0.0-beta.4?classifier=sources
 - pkg:maven/com.azure.android/azure-core-http-okhttp@1.0.0-beta.5?classifier=sources
+- pkg:maven/com.azure.android/azure-core-http-okhttp@1.0.0-beta.6?classifier=sources

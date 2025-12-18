@@ -10,3 +10,5 @@
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-http-webclient@2.1.4?classifier=sources
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-http-webclient@2.1.5?classifier=sources
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-http-webclient@2.1.6?classifier=sources
+- pkg:maven/org.finos.symphony.bdk/symphony-bdk-http-webclient@2.1.7?classifier=sources
+- pkg:maven/org.finos.symphony.bdk/symphony-bdk-http-webclient@2.1.8?classifier=sources

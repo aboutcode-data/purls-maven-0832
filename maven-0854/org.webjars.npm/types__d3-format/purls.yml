@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/types__d3-format@1.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3-format@2.0.0
 - pkg:maven/org.webjars.npm/types__d3-format@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__d3-format@3.0.1
+- pkg:maven/org.webjars.npm/types__d3-format@3.0.1?classifier=sources

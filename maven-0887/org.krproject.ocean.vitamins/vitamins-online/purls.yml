@@ -1,0 +1,2 @@
+- pkg:maven/org.krproject.ocean.vitamins/vitamins-online@2.5.0
+- pkg:maven/org.krproject.ocean.vitamins/vitamins-online@2.5.0?classifier=sources

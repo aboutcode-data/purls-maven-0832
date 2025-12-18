@@ -4,3 +4,7 @@
 - pkg:maven/me.dehasi/zeliba@2020.02.25?classifier=sources
 - pkg:maven/me.dehasi/zeliba@2020.03.08
 - pkg:maven/me.dehasi/zeliba@2020.03.08?classifier=sources
+- pkg:maven/me.dehasi/zeliba@2021.06.19
+- pkg:maven/me.dehasi/zeliba@2021.06.19?classifier=sources
+- pkg:maven/me.dehasi/zeliba@2021.06.22
+- pkg:maven/me.dehasi/zeliba@2021.06.22?classifier=sources

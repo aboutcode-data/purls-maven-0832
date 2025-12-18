@@ -2,3 +2,5 @@
 - pkg:maven/com.intuit.graphql/com.intuit.graphql.web@1.0.12?type=war
 - pkg:maven/com.intuit.graphql/com.intuit.graphql.web@1.0.15?classifier=sources
 - pkg:maven/com.intuit.graphql/com.intuit.graphql.web@1.0.15?type=war
+- pkg:maven/com.intuit.graphql/com.intuit.graphql.web@3.0.0?classifier=sources
+- pkg:maven/com.intuit.graphql/com.intuit.graphql.web@3.0.0?type=war

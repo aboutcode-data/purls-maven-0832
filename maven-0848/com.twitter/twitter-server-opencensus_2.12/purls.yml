@@ -54,3 +54,5 @@
 - pkg:maven/com.twitter/twitter-server-opencensus_2.12@21.4.0?classifier=sources
 - pkg:maven/com.twitter/twitter-server-opencensus_2.12@21.5.0
 - pkg:maven/com.twitter/twitter-server-opencensus_2.12@21.5.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-opencensus_2.12@21.6.0
+- pkg:maven/com.twitter/twitter-server-opencensus_2.12@21.6.0?classifier=sources

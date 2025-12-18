@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rain9155/switchbutton@1.0.1?classifier=sources
+- pkg:maven/io.github.rain9155/switchbutton@1.0.1?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.fastjrun.codeg/apiworld-api-message-result@1.1
+- pkg:maven/com.fastjrun.codeg/apiworld-api-message-result@1.1?classifier=sources

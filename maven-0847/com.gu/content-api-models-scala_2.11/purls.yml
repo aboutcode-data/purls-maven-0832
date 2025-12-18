@@ -156,3 +156,5 @@
 - pkg:maven/com.gu/content-api-models-scala_2.11@16.2.0-RC1?classifier=sources
 - pkg:maven/com.gu/content-api-models-scala_2.11@17.0.0
 - pkg:maven/com.gu/content-api-models-scala_2.11@17.0.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.11@17.1.0
+- pkg:maven/com.gu/content-api-models-scala_2.11@17.1.0?classifier=sources

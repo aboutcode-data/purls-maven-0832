@@ -1,0 +1,2 @@
+- pkg:maven/com.github.drinkjava2/enhancedjdbc@5.0.7.jre8
+- pkg:maven/com.github.drinkjava2/enhancedjdbc@5.0.7.jre8?classifier=sources

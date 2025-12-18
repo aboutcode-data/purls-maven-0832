@@ -5,6 +5,10 @@
 - pkg:maven/org.jpmml/jpmml-transpiler@1.1.1
 - pkg:maven/org.jpmml/jpmml-transpiler@1.1.10
 - pkg:maven/org.jpmml/jpmml-transpiler@1.1.10?classifier=sources
+- pkg:maven/org.jpmml/jpmml-transpiler@1.1.11
+- pkg:maven/org.jpmml/jpmml-transpiler@1.1.11?classifier=sources
+- pkg:maven/org.jpmml/jpmml-transpiler@1.1.12
+- pkg:maven/org.jpmml/jpmml-transpiler@1.1.12?classifier=sources
 - pkg:maven/org.jpmml/jpmml-transpiler@1.1.1?classifier=sources
 - pkg:maven/org.jpmml/jpmml-transpiler@1.1.2
 - pkg:maven/org.jpmml/jpmml-transpiler@1.1.2?classifier=sources

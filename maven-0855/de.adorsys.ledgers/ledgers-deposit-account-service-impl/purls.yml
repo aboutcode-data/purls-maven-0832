@@ -93,6 +93,8 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@3.13?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@3.14
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@3.14?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@3.15
+- pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@3.15?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@3.1?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@3.2
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@3.2?classifier=sources
@@ -131,6 +133,10 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.11?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.12
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.12?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.13
+- pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.13?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.14
+- pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.14?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.1?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.2
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.2?classifier=sources
@@ -143,6 +149,8 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.6
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.6?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.7
+- pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.7.1
+- pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.7.1?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.7?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.8
 - pkg:maven/de.adorsys.ledgers/ledgers-deposit-account-service-impl@4.8?classifier=sources

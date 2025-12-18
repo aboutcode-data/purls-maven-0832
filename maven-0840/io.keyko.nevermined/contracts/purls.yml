@@ -40,3 +40,7 @@
 - pkg:maven/io.keyko.nevermined/contracts@1.0.0-rc8
 - pkg:maven/io.keyko.nevermined/contracts@1.0.0-rc8?classifier=sources
 - pkg:maven/io.keyko.nevermined/contracts@1.0.0?classifier=sources
+- pkg:maven/io.keyko.nevermined/contracts@1.1.0
+- pkg:maven/io.keyko.nevermined/contracts@1.1.0?classifier=sources
+- pkg:maven/io.keyko.nevermined/contracts@1.1.1
+- pkg:maven/io.keyko.nevermined/contracts@1.1.1?classifier=sources

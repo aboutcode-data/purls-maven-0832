@@ -1,2 +1,4 @@
 - pkg:maven/dev.zio/root_2.13@1.0.11
 - pkg:maven/dev.zio/root_2.13@1.0.11?classifier=sources
+- pkg:maven/dev.zio/root_2.13@1.0.12
+- pkg:maven/dev.zio/root_2.13@1.0.12?classifier=sources

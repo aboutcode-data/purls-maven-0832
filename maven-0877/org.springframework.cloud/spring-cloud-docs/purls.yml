@@ -8,6 +8,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR10?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR11
 - pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR11?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR12
+- pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR12?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR8
 - pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR8?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR9

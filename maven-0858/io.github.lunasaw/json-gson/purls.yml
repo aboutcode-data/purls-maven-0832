@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lunasaw/json-gson@1.1.0-RELEASE
+- pkg:maven/io.github.lunasaw/json-gson@1.1.0-RELEASE?classifier=sources

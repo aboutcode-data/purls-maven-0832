@@ -1,3 +1,6 @@
 - pkg:maven/com.indicative.client.android/Indicative-Android@1.0.1?type=aar
 - pkg:maven/com.indicative.client.android/Indicative-Android@1.0.2?type=aar
 - pkg:maven/com.indicative.client.android/Indicative-Android@1.0.3?type=aar
+- pkg:maven/com.indicative.client.android/Indicative-Android@1.0.5?type=aar
+- pkg:maven/com.indicative.client.android/Indicative-Android@1.0.6?type=aar
+- pkg:maven/com.indicative.client.android/Indicative-Android@1.1.0?type=aar

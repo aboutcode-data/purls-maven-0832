@@ -1,0 +1,2 @@
+- pkg:maven/org.uniknow.c4Modeling/c4Modeling-maven-plugin@0.1.0
+- pkg:maven/org.uniknow.c4Modeling/c4Modeling-maven-plugin@0.1.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi.minifi/minifi-standard-nar@1.14.0?classifier=sources

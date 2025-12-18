@@ -49,6 +49,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@11.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@11.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@11.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@11.1.0
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@11.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@11.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@11.1.1
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@11.1.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@11.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@2.0.0?classifier=sources-commercial
@@ -148,6 +154,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@8.3.1
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@8.3.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@8.3.1?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@8.3.2
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@8.3.2?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@8.3.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@9.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@9.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.account.api@9.0.0?classifier=sources-commercial

@@ -2,3 +2,7 @@
 - pkg:maven/ru.progrm-jarvis/unsafe-methods-access-generator@1.0.0-rc.1?classifier=sources
 - pkg:maven/ru.progrm-jarvis/unsafe-methods-access-generator@1.0.0-rc.2
 - pkg:maven/ru.progrm-jarvis/unsafe-methods-access-generator@1.0.0-rc.2?classifier=sources
+- pkg:maven/ru.progrm-jarvis/unsafe-methods-access-generator@1.0.0-rc.3
+- pkg:maven/ru.progrm-jarvis/unsafe-methods-access-generator@1.0.0-rc.3?classifier=sources
+- pkg:maven/ru.progrm-jarvis/unsafe-methods-access-generator@1.0.0-rc.4
+- pkg:maven/ru.progrm-jarvis/unsafe-methods-access-generator@1.0.0-rc.4?classifier=sources

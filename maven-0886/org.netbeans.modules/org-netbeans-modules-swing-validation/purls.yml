@@ -9,4 +9,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE90?classifier=sources

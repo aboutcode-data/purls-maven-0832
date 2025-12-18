@@ -1,0 +1,2 @@
+- pkg:maven/io.github.thebesteric.framework/mocker-core@0.0.2
+- pkg:maven/io.github.thebesteric.framework/mocker-core@0.0.2?classifier=sources

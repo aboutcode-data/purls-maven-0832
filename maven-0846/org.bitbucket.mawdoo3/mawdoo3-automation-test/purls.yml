@@ -28,3 +28,5 @@
 - pkg:maven/org.bitbucket.mawdoo3/mawdoo3-automation-test@1.24.2?classifier=sources
 - pkg:maven/org.bitbucket.mawdoo3/mawdoo3-automation-test@1.24.3
 - pkg:maven/org.bitbucket.mawdoo3/mawdoo3-automation-test@1.24.3?classifier=sources
+- pkg:maven/org.bitbucket.mawdoo3/mawdoo3-automation-test@1.25.0
+- pkg:maven/org.bitbucket.mawdoo3/mawdoo3-automation-test@1.25.0?classifier=sources

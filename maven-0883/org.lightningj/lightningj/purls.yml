@@ -18,6 +18,8 @@
 - pkg:maven/org.lightningj/lightningj@0.12.0-Beta?classifier=sources
 - pkg:maven/org.lightningj/lightningj@0.12.1-Beta
 - pkg:maven/org.lightningj/lightningj@0.12.1-Beta?classifier=sources
+- pkg:maven/org.lightningj/lightningj@0.13.0-Beta
+- pkg:maven/org.lightningj/lightningj@0.13.0-Beta?classifier=sources
 - pkg:maven/org.lightningj/lightningj@0.2-Beta
 - pkg:maven/org.lightningj/lightningj@0.2-Beta?classifier=sources
 - pkg:maven/org.lightningj/lightningj@0.3-Beta

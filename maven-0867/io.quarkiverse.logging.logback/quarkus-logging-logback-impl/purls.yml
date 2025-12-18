@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkiverse.logging.logback/quarkus-logging-logback-impl@0.1.0
+- pkg:maven/io.quarkiverse.logging.logback/quarkus-logging-logback-impl@0.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.logging.logback/quarkus-logging-logback-impl@0.1.1
+- pkg:maven/io.quarkiverse.logging.logback/quarkus-logging-logback-impl@0.1.1?classifier=sources

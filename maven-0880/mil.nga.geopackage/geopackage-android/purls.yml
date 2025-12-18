@@ -64,3 +64,5 @@
 - pkg:maven/mil.nga.geopackage/geopackage-android@5.0.0?type=aar
 - pkg:maven/mil.nga.geopackage/geopackage-android@5.1.0?classifier=sources
 - pkg:maven/mil.nga.geopackage/geopackage-android@5.1.0?type=aar
+- pkg:maven/mil.nga.geopackage/geopackage-android@6.0.0?classifier=sources
+- pkg:maven/mil.nga.geopackage/geopackage-android@6.0.0?type=aar

@@ -91,6 +91,8 @@
 - pkg:maven/com.github.mizool/mizool-core@0.44?classifier=sources
 - pkg:maven/com.github.mizool/mizool-core@0.45
 - pkg:maven/com.github.mizool/mizool-core@0.45?classifier=sources
+- pkg:maven/com.github.mizool/mizool-core@0.46
+- pkg:maven/com.github.mizool/mizool-core@0.46?classifier=sources
 - pkg:maven/com.github.mizool/mizool-core@0.4?classifier=sources
 - pkg:maven/com.github.mizool/mizool-core@0.5
 - pkg:maven/com.github.mizool/mizool-core@0.5?classifier=sources

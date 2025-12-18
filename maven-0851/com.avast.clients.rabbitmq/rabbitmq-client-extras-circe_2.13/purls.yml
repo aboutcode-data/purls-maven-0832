@@ -1,3 +1,5 @@
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@8.5.0?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@8.6.0?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@8.6.1?classifier=sources
+- pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@8.6.2?classifier=sources
+- pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@8.6.3?classifier=sources

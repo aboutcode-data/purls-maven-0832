@@ -194,3 +194,7 @@
 - pkg:maven/org.wvlet.airframe/airframe-http-recorder_2.12@21.5.3?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-http-recorder_2.12@21.5.4
 - pkg:maven/org.wvlet.airframe/airframe-http-recorder_2.12@21.5.4?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-recorder_2.12@21.6.0
+- pkg:maven/org.wvlet.airframe/airframe-http-recorder_2.12@21.6.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-recorder_2.12@21.7.0
+- pkg:maven/org.wvlet.airframe/airframe-http-recorder_2.12@21.7.0?classifier=sources

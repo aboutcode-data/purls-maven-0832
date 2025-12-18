@@ -1,2 +1,4 @@
 - pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@4.6.0
 - pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@4.6.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@4.7.0
+- pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@4.7.0?classifier=sources

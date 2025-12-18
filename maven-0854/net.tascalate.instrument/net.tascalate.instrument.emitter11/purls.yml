@@ -1,0 +1,2 @@
+- pkg:maven/net.tascalate.instrument/net.tascalate.instrument.emitter11@1.0.0
+- pkg:maven/net.tascalate.instrument/net.tascalate.instrument.emitter11@1.0.0?classifier=sources

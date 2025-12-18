@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.jena/jena-commonsrdf@3.17.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-commonsrdf@4.0.0
 - pkg:maven/org.apache.jena/jena-commonsrdf@4.0.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-commonsrdf@4.1.0
+- pkg:maven/org.apache.jena/jena-commonsrdf@4.1.0?classifier=sources

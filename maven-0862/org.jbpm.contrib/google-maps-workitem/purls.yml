@@ -43,3 +43,6 @@
 - pkg:maven/org.jbpm.contrib/google-maps-workitem@7.52.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/google-maps-workitem@7.53.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/google-maps-workitem@7.54.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/google-maps-workitem@7.55.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/google-maps-workitem@7.56.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/google-maps-workitem@7.57.0.Final?classifier=sources

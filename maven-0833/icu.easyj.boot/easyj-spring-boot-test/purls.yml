@@ -1,0 +1,4 @@
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.1.3
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.1.3?classifier=sources
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.1.4
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.1.4?classifier=sources

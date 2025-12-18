@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.14.900?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.15.0
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.15.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.15.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.15.100?classifier=sources

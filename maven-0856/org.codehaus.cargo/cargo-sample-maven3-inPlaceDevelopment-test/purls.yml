@@ -3,3 +3,4 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-inPlaceDevelopment-test@1.9.2?type=war
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-inPlaceDevelopment-test@1.9.3?type=war
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-inPlaceDevelopment-test@1.9.4?type=war
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven3-inPlaceDevelopment-test@1.9.5?type=war

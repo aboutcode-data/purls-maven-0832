@@ -2,3 +2,5 @@
 - pkg:maven/com.github.tadukoo.github/TadukooGitHub@0.1-Alpha?classifier=sources
 - pkg:maven/com.github.tadukoo.github/TadukooGitHub@0.1.1-Alpha
 - pkg:maven/com.github.tadukoo.github/TadukooGitHub@0.1.1-Alpha?classifier=sources
+- pkg:maven/com.github.tadukoo.github/TadukooGitHub@0.1.2-Alpha
+- pkg:maven/com.github.tadukoo.github/TadukooGitHub@0.1.2-Alpha?classifier=sources

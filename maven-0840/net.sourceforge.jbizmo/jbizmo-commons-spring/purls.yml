@@ -6,3 +6,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@4.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@5.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@5.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@6.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@6.0.0?classifier=sources

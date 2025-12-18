@@ -8,3 +8,5 @@
 - pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.5?classifier=sources
 - pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.6
 - pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@0.6?classifier=sources
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@1.1
+- pkg:maven/com.j256.spring-request-doclet/spring-request-doclet@1.1?classifier=sources

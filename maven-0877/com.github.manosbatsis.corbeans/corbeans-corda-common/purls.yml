@@ -44,3 +44,5 @@
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common@0.53?classifier=sources
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common@0.54
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common@0.54?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common@0.55
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common@0.55?classifier=sources

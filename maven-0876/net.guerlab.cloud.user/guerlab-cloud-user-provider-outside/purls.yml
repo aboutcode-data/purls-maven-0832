@@ -1,0 +1,4 @@
+- pkg:maven/net.guerlab.cloud.user/guerlab-cloud-user-provider-outside@21.7.0
+- pkg:maven/net.guerlab.cloud.user/guerlab-cloud-user-provider-outside@21.7.0?classifier=sources
+- pkg:maven/net.guerlab.cloud.user/guerlab-cloud-user-provider-outside@21.7.1
+- pkg:maven/net.guerlab.cloud.user/guerlab-cloud-user-provider-outside@21.7.1?classifier=sources

@@ -7,6 +7,10 @@
 - pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0
 - pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B10-f07467f2
 - pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B10-f07467f2?classifier=sources
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B31-c1e094c9
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B31-c1e094c9?classifier=sources
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B38-c366a18c
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B38-c366a18c?classifier=sources
 - pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B4-f86458f7
 - pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B4-f86458f7?classifier=sources
 - pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B6-c2b4441c
@@ -14,3 +18,15 @@
 - pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B8-fe0a0f10
 - pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0%2B8-fe0a0f10?classifier=sources
 - pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.1.0?classifier=sources
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.0
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.0%2B14-c7a533fb
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.0%2B14-c7a533fb?classifier=sources
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.0%2B5-14c6f4b0
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.0%2B5-14c6f4b0?classifier=sources
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.0%2B8-a59b2a3b
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.0%2B8-a59b2a3b?classifier=sources
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.0?classifier=sources
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.1
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.1%2B5-f8c711a1
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.1%2B5-f8c711a1?classifier=sources
+- pkg:maven/io.janstenpickle/hotswap-ref_2.13@0.2.1?classifier=sources

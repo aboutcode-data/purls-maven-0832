@@ -64,3 +64,5 @@
 - pkg:maven/org.cristalise/cristalise-kernel@5.3.4?classifier=sources
 - pkg:maven/org.cristalise/cristalise-kernel@5.4.0
 - pkg:maven/org.cristalise/cristalise-kernel@5.4.0?classifier=sources
+- pkg:maven/org.cristalise/cristalise-kernel@5.5.0
+- pkg:maven/org.cristalise/cristalise-kernel@5.5.0?classifier=sources

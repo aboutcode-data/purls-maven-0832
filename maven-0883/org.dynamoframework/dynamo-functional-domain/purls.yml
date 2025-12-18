@@ -63,4 +63,6 @@
 - pkg:maven/org.dynamoframework/dynamo-functional-domain@2.8.5?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-functional-domain@2.8.6
 - pkg:maven/org.dynamoframework/dynamo-functional-domain@2.8.6?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-functional-domain@2.8.7
+- pkg:maven/org.dynamoframework/dynamo-functional-domain@2.8.7?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-functional-domain@2.8?classifier=sources

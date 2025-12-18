@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.karaf/camel-zookeeper-master-osgi@3.11.0
+- pkg:maven/org.apache.camel.karaf/camel-zookeeper-master-osgi@3.11.0?classifier=sources

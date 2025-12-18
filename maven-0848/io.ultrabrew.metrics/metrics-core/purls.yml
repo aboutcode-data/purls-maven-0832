@@ -1,1 +1,2 @@
 - pkg:maven/io.ultrabrew.metrics/metrics-core@0.8.0?classifier=sources
+- pkg:maven/io.ultrabrew.metrics/metrics-core@0.9.0?classifier=sources

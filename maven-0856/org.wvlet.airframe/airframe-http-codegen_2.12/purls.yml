@@ -2,3 +2,5 @@
 - pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@21.5.2?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@21.5.3?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@21.5.4?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@21.6.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@21.7.0?classifier=sources

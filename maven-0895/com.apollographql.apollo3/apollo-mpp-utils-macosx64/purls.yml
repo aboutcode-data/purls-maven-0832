@@ -1,0 +1,5 @@
+- pkg:maven/com.apollographql.apollo3/apollo-mpp-utils-macosx64@3.0.0-alpha01?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-mpp-utils-macosx64@3.0.0-alpha02?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-mpp-utils-macosx64@3.0.0-dev12?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-mpp-utils-macosx64@3.0.0-dev13?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-mpp-utils-macosx64@3.0.0-dev14?classifier=sources

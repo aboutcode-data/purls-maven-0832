@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/ros-cdk-brainindustrial@1.0.2
+- pkg:maven/com.aliyun/ros-cdk-brainindustrial@1.0.2?classifier=sources

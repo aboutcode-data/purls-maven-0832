@@ -26,6 +26,12 @@
 - pkg:maven/com.google.apis/google-api-services-gameservices@v1-rev20210408-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gameservices@v1-rev20210511-1.31.0
 - pkg:maven/com.google.apis/google-api-services-gameservices@v1-rev20210511-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1-rev20210511-1.31.5
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1-rev20210511-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1-rev20210511-1.32.1
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1-rev20210511-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1-rev20210707-1.32.1
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1-rev20210707-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200327-1.30.9
 - pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200327-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200402-1.30.9
@@ -66,3 +72,9 @@
 - pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20210429-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20210511-1.31.0
 - pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20210511-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20210527-1.31.0
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20210527-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20210527-1.31.5
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20210527-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20210527-1.32.1
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20210527-1.32.1?classifier=sources

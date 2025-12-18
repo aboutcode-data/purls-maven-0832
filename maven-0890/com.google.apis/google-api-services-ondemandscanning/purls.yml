@@ -6,6 +6,12 @@
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20210410-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20210524-1.31.0
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20210524-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20210524-1.31.5
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20210524-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20210613-1.31.5
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20210613-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20210613-1.32.1
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20210613-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210222-1.31.0
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210222-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210319-1.31.0
@@ -18,3 +24,9 @@
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210410-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210524-1.31.0
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210524-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210524-1.31.5
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210524-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210613-1.31.5
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210613-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210613-1.32.1
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210613-1.32.1?classifier=sources

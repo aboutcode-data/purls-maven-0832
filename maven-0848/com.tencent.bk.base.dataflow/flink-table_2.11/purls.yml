@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.bk.base.dataflow/flink-table_2.11@v1.7.2-bkbase.1
+- pkg:maven/com.tencent.bk.base.dataflow/flink-table_2.11@v1.7.2-bkbase.1?classifier=sources

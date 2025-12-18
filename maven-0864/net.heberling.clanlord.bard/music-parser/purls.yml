@@ -4,5 +4,7 @@
 - pkg:maven/net.heberling.clanlord.bard/music-parser@0.2.0?classifier=sources
 - pkg:maven/net.heberling.clanlord.bard/music-parser@0.3.0
 - pkg:maven/net.heberling.clanlord.bard/music-parser@0.3.0?classifier=sources
+- pkg:maven/net.heberling.clanlord.bard/music-parser@0.3.1
+- pkg:maven/net.heberling.clanlord.bard/music-parser@0.3.1?classifier=sources
 - pkg:maven/net.heberling.clanlord.bard/music-parser@v0.1.0
 - pkg:maven/net.heberling.clanlord.bard/music-parser@v0.1.0?classifier=sources

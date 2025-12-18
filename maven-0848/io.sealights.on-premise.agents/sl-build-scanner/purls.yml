@@ -34,3 +34,9 @@
 - pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@3.1.1910?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@3.1.1925
 - pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@3.1.1925?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@3.1.1932
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@3.1.1932?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@3.1.1955
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@3.1.1955?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@3.1.1956
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@3.1.1956?classifier=sources

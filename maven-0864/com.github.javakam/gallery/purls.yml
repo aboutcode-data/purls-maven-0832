@@ -1,2 +1,4 @@
 - pkg:maven/com.github.javakam/gallery@1.5.0?classifier=sources
 - pkg:maven/com.github.javakam/gallery@2.0.0?classifier=sources
+- pkg:maven/com.github.javakam/gallery@4.0.0?classifier=sources
+- pkg:maven/com.github.javakam/gallery@5.2.0?classifier=sources

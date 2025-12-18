@@ -1,0 +1,12 @@
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.42.1?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.42.2?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.42.3?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.42.4?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.42.5?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.43.3?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.43.4?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.44.0?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.44.1?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.44.2?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.44.3?classifier=sources
+- pkg:maven/ai.databand/dbnd-azkaban-agent@0.44.4?classifier=sources

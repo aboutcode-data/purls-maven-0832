@@ -4,6 +4,10 @@
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.1.33?classifier=sources
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.1.34
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.1.34?classifier=sources
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.4.20
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.4.20?classifier=sources
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.4.20E
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.4.20E?classifier=sources
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.4.6
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.4.6.1
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-linux64@10.4.6.1?classifier=sources

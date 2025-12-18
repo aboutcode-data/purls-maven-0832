@@ -1,2 +1,3 @@
 - pkg:maven/tz.co.asoft/expect-core-iosx64@0.0.21?classifier=sources
 - pkg:maven/tz.co.asoft/expect-core-iosx64@0.0.30?classifier=sources
+- pkg:maven/tz.co.asoft/expect-core-iosx64@0.0.40?classifier=sources

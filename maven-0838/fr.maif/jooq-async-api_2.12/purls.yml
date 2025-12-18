@@ -6,3 +6,5 @@
 - pkg:maven/fr.maif/jooq-async-api_2.12@1.0.1-BETA3?classifier=sources
 - pkg:maven/fr.maif/jooq-async-api_2.12@1.1.0
 - pkg:maven/fr.maif/jooq-async-api_2.12@1.1.0?classifier=sources
+- pkg:maven/fr.maif/jooq-async-api_2.12@1.1.2
+- pkg:maven/fr.maif/jooq-async-api_2.12@1.1.2?classifier=sources

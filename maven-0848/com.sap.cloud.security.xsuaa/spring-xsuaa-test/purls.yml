@@ -16,6 +16,12 @@
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.0.0?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.1.0
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.1.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.10.0
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.10.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.10.1
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.10.1?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.10.2
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.10.2?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.2.0
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.3.0
@@ -84,3 +90,5 @@
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.8.8?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.8.9
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.8.9?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.9.0
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa-test@2.9.0?classifier=sources

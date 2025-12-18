@@ -20,6 +20,7 @@
 - pkg:maven/org.embulk/embulk-spi@0.10.29?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.30?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.31?classifier=sources
+- pkg:maven/org.embulk/embulk-spi@0.10.32?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.7?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.8?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.9?classifier=sources

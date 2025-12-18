@@ -1,0 +1,2 @@
+- pkg:maven/org.shredzone.acme4j/acme4j-smime@2.12
+- pkg:maven/org.shredzone.acme4j/acme4j-smime@2.12?classifier=sources

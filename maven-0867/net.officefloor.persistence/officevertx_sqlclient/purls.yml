@@ -1,2 +1,6 @@
 - pkg:maven/net.officefloor.persistence/officevertx_sqlclient@3.36.0
 - pkg:maven/net.officefloor.persistence/officevertx_sqlclient@3.36.0?classifier=sources
+- pkg:maven/net.officefloor.persistence/officevertx_sqlclient@3.37.0
+- pkg:maven/net.officefloor.persistence/officevertx_sqlclient@3.37.0?classifier=sources
+- pkg:maven/net.officefloor.persistence/officevertx_sqlclient@3.38.0
+- pkg:maven/net.officefloor.persistence/officevertx_sqlclient@3.38.0?classifier=sources

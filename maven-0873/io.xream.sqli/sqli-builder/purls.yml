@@ -4,3 +4,7 @@
 - pkg:maven/io.xream.sqli/sqli-builder@1.2.0.RELEASE?classifier=sources
 - pkg:maven/io.xream.sqli/sqli-builder@1.3.0.RELEASE
 - pkg:maven/io.xream.sqli/sqli-builder@1.3.0.RELEASE?classifier=sources
+- pkg:maven/io.xream.sqli/sqli-builder@1.4.0.RELEASE
+- pkg:maven/io.xream.sqli/sqli-builder@1.4.0.RELEASE?classifier=sources
+- pkg:maven/io.xream.sqli/sqli-builder@1.5.0.RELEASE
+- pkg:maven/io.xream.sqli/sqli-builder@1.5.0.RELEASE?classifier=sources

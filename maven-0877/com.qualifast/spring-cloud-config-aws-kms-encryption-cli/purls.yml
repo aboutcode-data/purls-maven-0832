@@ -1,0 +1,2 @@
+- pkg:maven/com.qualifast/spring-cloud-config-aws-kms-encryption-cli@5.3
+- pkg:maven/com.qualifast/spring-cloud-config-aws-kms-encryption-cli@5.3?classifier=sources

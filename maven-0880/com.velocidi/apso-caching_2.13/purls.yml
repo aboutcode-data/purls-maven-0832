@@ -32,3 +32,7 @@
 - pkg:maven/com.velocidi/apso-caching_2.13@0.16.9?classifier=sources
 - pkg:maven/com.velocidi/apso-caching_2.13@0.17.0
 - pkg:maven/com.velocidi/apso-caching_2.13@0.17.0?classifier=sources
+- pkg:maven/com.velocidi/apso-caching_2.13@0.18.0
+- pkg:maven/com.velocidi/apso-caching_2.13@0.18.0?classifier=sources
+- pkg:maven/com.velocidi/apso-caching_2.13@0.18.1
+- pkg:maven/com.velocidi/apso-caching_2.13@0.18.1?classifier=sources

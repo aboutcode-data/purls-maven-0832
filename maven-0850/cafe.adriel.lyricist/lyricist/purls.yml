@@ -1,0 +1,2 @@
+- pkg:maven/cafe.adriel.lyricist/lyricist@0.0.1?classifier=sources
+- pkg:maven/cafe.adriel.lyricist/lyricist@1.0.0-beta01?classifier=sources

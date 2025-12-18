@@ -14,3 +14,15 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.177?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.182
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.182?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.183
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.183?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.184
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.184?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.185
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.185?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.190
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.190?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.191?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.192?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.193?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.194?classifier=sources

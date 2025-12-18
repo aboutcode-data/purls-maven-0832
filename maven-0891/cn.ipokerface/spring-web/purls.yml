@@ -12,3 +12,9 @@
 - pkg:maven/cn.ipokerface/spring-web@2.7.1?classifier=sources
 - pkg:maven/cn.ipokerface/spring-web@2.7.2
 - pkg:maven/cn.ipokerface/spring-web@2.7.2?classifier=sources
+- pkg:maven/cn.ipokerface/spring-web@2.7.3
+- pkg:maven/cn.ipokerface/spring-web@2.7.3?classifier=sources
+- pkg:maven/cn.ipokerface/spring-web@2.7.4
+- pkg:maven/cn.ipokerface/spring-web@2.7.4?classifier=sources
+- pkg:maven/cn.ipokerface/spring-web@2.8.0
+- pkg:maven/cn.ipokerface/spring-web@2.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.bk.base.datalab/jackson-dataformat-yaml@2.8.10-bkbase.1
+- pkg:maven/com.tencent.bk.base.datalab/jackson-dataformat-yaml@2.8.10-bkbase.1?classifier=sources

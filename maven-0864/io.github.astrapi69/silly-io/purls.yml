@@ -1,1 +1,2 @@
 - pkg:maven/io.github.astrapi69/silly-io@1.4?classifier=sources
+- pkg:maven/io.github.astrapi69/silly-io@1.5?classifier=sources

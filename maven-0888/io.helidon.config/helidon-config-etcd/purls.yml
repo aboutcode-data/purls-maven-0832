@@ -45,6 +45,8 @@
 - pkg:maven/io.helidon.config/helidon-config-etcd@1.4.0
 - pkg:maven/io.helidon.config/helidon-config-etcd@1.4.0?classifier=sources
 - pkg:maven/io.helidon.config/helidon-config-etcd@1.4.1
+- pkg:maven/io.helidon.config/helidon-config-etcd@1.4.10
+- pkg:maven/io.helidon.config/helidon-config-etcd@1.4.10?classifier=sources
 - pkg:maven/io.helidon.config/helidon-config-etcd@1.4.1?classifier=sources
 - pkg:maven/io.helidon.config/helidon-config-etcd@1.4.2
 - pkg:maven/io.helidon.config/helidon-config-etcd@1.4.2?classifier=sources
@@ -60,6 +62,8 @@
 - pkg:maven/io.helidon.config/helidon-config-etcd@1.4.7?classifier=sources
 - pkg:maven/io.helidon.config/helidon-config-etcd@1.4.8
 - pkg:maven/io.helidon.config/helidon-config-etcd@1.4.8?classifier=sources
+- pkg:maven/io.helidon.config/helidon-config-etcd@1.4.9
+- pkg:maven/io.helidon.config/helidon-config-etcd@1.4.9?classifier=sources
 - pkg:maven/io.helidon.config/helidon-config-etcd@2.0.0
 - pkg:maven/io.helidon.config/helidon-config-etcd@2.0.0-M1
 - pkg:maven/io.helidon.config/helidon-config-etcd@2.0.0-M1?classifier=sources
@@ -88,3 +92,7 @@
 - pkg:maven/io.helidon.config/helidon-config-etcd@2.2.2?classifier=sources
 - pkg:maven/io.helidon.config/helidon-config-etcd@2.3.0
 - pkg:maven/io.helidon.config/helidon-config-etcd@2.3.0?classifier=sources
+- pkg:maven/io.helidon.config/helidon-config-etcd@2.3.1
+- pkg:maven/io.helidon.config/helidon-config-etcd@2.3.1?classifier=sources
+- pkg:maven/io.helidon.config/helidon-config-etcd@2.3.2
+- pkg:maven/io.helidon.config/helidon-config-etcd@2.3.2?classifier=sources

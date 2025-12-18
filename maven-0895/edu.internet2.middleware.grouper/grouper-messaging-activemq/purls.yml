@@ -82,5 +82,7 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.51?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.52
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.52?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.53
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.53?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.9
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.9?classifier=sources

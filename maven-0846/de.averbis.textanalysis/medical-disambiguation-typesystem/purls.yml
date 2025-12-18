@@ -28,3 +28,5 @@
 - pkg:maven/de.averbis.textanalysis/medical-disambiguation-typesystem@2.37.0?classifier=sources
 - pkg:maven/de.averbis.textanalysis/medical-disambiguation-typesystem@2.38.0
 - pkg:maven/de.averbis.textanalysis/medical-disambiguation-typesystem@2.38.0?classifier=sources
+- pkg:maven/de.averbis.textanalysis/medical-disambiguation-typesystem@3.0.1
+- pkg:maven/de.averbis.textanalysis/medical-disambiguation-typesystem@3.0.1?classifier=sources

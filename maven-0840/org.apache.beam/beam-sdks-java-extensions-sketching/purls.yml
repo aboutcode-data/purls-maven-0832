@@ -35,6 +35,8 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sketching@2.29.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sketching@2.3.0
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sketching@2.3.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sketching@2.30.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sketching@2.31.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sketching@2.4.0
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sketching@2.4.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sketching@2.5.0?classifier=sources

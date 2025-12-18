@@ -1,0 +1,4 @@
+- pkg:maven/dev.inmo/micro_utils.fsm.common-jvm@0.5.13?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.common-jvm@0.5.14?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.common-jvm@0.5.15?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.common-jvm@0.5.16?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.aparapi/aparapi@1.9.0?classifier=sources
 - pkg:maven/com.aparapi/aparapi@2.0.0
 - pkg:maven/com.aparapi/aparapi@2.0.0?classifier=sources
+- pkg:maven/com.aparapi/aparapi@3.0.0
+- pkg:maven/com.aparapi/aparapi@3.0.0?classifier=sources

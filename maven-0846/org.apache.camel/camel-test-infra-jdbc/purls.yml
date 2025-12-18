@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.10.0
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.10.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.11.0
+- pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.11.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.7.0
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.7.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.7.1
@@ -10,6 +12,8 @@
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.7.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.7.4
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.7.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.7.5
+- pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.7.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.8.0
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-jdbc@3.9.0

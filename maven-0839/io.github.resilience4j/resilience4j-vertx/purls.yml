@@ -46,3 +46,4 @@
 - pkg:maven/io.github.resilience4j/resilience4j-vertx@1.6.1?classifier=sources
 - pkg:maven/io.github.resilience4j/resilience4j-vertx@1.7.0
 - pkg:maven/io.github.resilience4j/resilience4j-vertx@1.7.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-vertx@1.7.1?classifier=sources

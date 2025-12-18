@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ginvavilon.traghentto/zip@0.6.2
+- pkg:maven/com.github.ginvavilon.traghentto/zip@0.6.2?classifier=sources

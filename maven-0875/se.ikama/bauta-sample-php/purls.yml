@@ -26,3 +26,9 @@
 - pkg:maven/se.ikama/bauta-sample-php@0.0.54?classifier=sources
 - pkg:maven/se.ikama/bauta-sample-php@0.0.56
 - pkg:maven/se.ikama/bauta-sample-php@0.0.56?classifier=sources
+- pkg:maven/se.ikama/bauta-sample-php@0.0.57
+- pkg:maven/se.ikama/bauta-sample-php@0.0.57?classifier=sources
+- pkg:maven/se.ikama/bauta-sample-php@0.0.58
+- pkg:maven/se.ikama/bauta-sample-php@0.0.58?classifier=sources
+- pkg:maven/se.ikama/bauta-sample-php@0.0.59
+- pkg:maven/se.ikama/bauta-sample-php@0.0.59?classifier=sources

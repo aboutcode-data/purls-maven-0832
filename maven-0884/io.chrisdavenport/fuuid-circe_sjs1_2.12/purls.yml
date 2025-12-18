@@ -6,6 +6,8 @@
 - pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.5.0?classifier=sources
 - pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.6.0
 - pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.6.0?classifier=sources
+- pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.6.1
+- pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.6.1?classifier=sources
 - pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.7.0-M1
 - pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.7.0-M1?classifier=sources
 - pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.8.0-M1

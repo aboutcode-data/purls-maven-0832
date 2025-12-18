@@ -8,3 +8,5 @@
 - pkg:maven/com.rbkmoney/bender-proto@1.15-0d5813b?classifier=sources
 - pkg:maven/com.rbkmoney/bender-proto@1.16-dfe271b
 - pkg:maven/com.rbkmoney/bender-proto@1.16-dfe271b?classifier=sources
+- pkg:maven/com.rbkmoney/bender-proto@1.17-75be941
+- pkg:maven/com.rbkmoney/bender-proto@1.17-75be941?classifier=sources

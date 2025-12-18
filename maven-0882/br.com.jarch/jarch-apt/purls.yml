@@ -62,3 +62,7 @@
 - pkg:maven/br.com.jarch/jarch-apt@21.3.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-apt@21.4.0
 - pkg:maven/br.com.jarch/jarch-apt@21.4.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-apt@21.5.0
+- pkg:maven/br.com.jarch/jarch-apt@21.5.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-apt@21.6.0
+- pkg:maven/br.com.jarch/jarch-apt@21.6.0?classifier=sources

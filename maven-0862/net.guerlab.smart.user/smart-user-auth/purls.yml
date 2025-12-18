@@ -48,3 +48,5 @@
 - pkg:maven/net.guerlab.smart.user/smart-user-auth@21.3.2?classifier=sources
 - pkg:maven/net.guerlab.smart.user/smart-user-auth@21.4.0
 - pkg:maven/net.guerlab.smart.user/smart-user-auth@21.4.0?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-auth@21.5.0
+- pkg:maven/net.guerlab.smart.user/smart-user-auth@21.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.japgolly.scalajs-react/scalafix_2.13@2.0.0-RC2
+- pkg:maven/com.github.japgolly.scalajs-react/scalafix_2.13@2.0.0-RC2?classifier=sources

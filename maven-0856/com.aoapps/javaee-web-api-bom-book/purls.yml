@@ -1,0 +1,2 @@
+- pkg:maven/com.aoapps/javaee-web-api-bom-book@7.0.0
+- pkg:maven/com.aoapps/javaee-web-api-bom-book@7.0.0?classifier=sources

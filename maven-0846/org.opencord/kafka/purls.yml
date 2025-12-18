@@ -12,3 +12,4 @@
 - pkg:maven/org.opencord/kafka@2.4.0?classifier=sources
 - pkg:maven/org.opencord/kafka@2.5.0?classifier=sources
 - pkg:maven/org.opencord/kafka@2.6.0?classifier=sources
+- pkg:maven/org.opencord/kafka@2.7.0?classifier=sources

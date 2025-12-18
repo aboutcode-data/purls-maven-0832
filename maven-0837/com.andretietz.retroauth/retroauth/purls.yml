@@ -17,3 +17,4 @@
 - pkg:maven/com.andretietz.retroauth/retroauth@3.0.1
 - pkg:maven/com.andretietz.retroauth/retroauth@3.0.1?classifier=sources
 - pkg:maven/com.andretietz.retroauth/retroauth@3.1.0?classifier=sources
+- pkg:maven/com.andretietz.retroauth/retroauth@3.2.0?classifier=sources

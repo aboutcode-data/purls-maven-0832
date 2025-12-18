@@ -67,6 +67,9 @@
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@2.0.30
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@2.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@2.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.authentication.google.web@2.0.31
+- pkg:maven/com.liferay/com.liferay.login.authentication.google.web@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.authentication.google.web@2.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@2.0.4
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@2.0.4?classifier=sources
@@ -127,6 +130,12 @@
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.21
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.22
+- pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.23
+- pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.login.authentication.google.web@3.0.3

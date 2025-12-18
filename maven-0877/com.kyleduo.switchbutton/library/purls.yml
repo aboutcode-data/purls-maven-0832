@@ -1,0 +1,2 @@
+- pkg:maven/com.kyleduo.switchbutton/library@2.1.0?classifier=sources
+- pkg:maven/com.kyleduo.switchbutton/library@2.1.0?type=aar

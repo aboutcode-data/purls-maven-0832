@@ -17,3 +17,4 @@
 - pkg:maven/org.glassfish.main.jms/gf-jms-injection@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.jms/gf-jms-injection@6.0.0?classifier=sources
 - pkg:maven/org.glassfish.main.jms/gf-jms-injection@6.1.0?classifier=sources
+- pkg:maven/org.glassfish.main.jms/gf-jms-injection@6.2.0?classifier=sources

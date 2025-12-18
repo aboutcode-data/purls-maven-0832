@@ -46,3 +46,9 @@
 - pkg:maven/org.dashbuilder/dashbuilder-kie-server-api@7.53.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-kie-server-api@7.54.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-kie-server-api@7.54.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-kie-server-api@7.55.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-kie-server-api@7.55.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-kie-server-api@7.56.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-kie-server-api@7.56.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-kie-server-api@7.57.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-kie-server-api@7.57.0.Final?classifier=sources

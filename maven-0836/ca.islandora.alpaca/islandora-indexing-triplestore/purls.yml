@@ -26,3 +26,5 @@
 - pkg:maven/ca.islandora.alpaca/islandora-indexing-triplestore@1.0.3?classifier=sources
 - pkg:maven/ca.islandora.alpaca/islandora-indexing-triplestore@1.0.4
 - pkg:maven/ca.islandora.alpaca/islandora-indexing-triplestore@1.0.4?classifier=sources
+- pkg:maven/ca.islandora.alpaca/islandora-indexing-triplestore@1.0.5
+- pkg:maven/ca.islandora.alpaca/islandora-indexing-triplestore@1.0.5?classifier=sources

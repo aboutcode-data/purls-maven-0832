@@ -1,0 +1,2 @@
+- pkg:maven/net.nebupookins/exceptional-code@0.1.0
+- pkg:maven/net.nebupookins/exceptional-code@0.1.0?classifier=sources

@@ -1,5 +1,9 @@
 - pkg:maven/gg.jte/jte-kotlin@1.10.0
 - pkg:maven/gg.jte/jte-kotlin@1.10.0?classifier=sources
+- pkg:maven/gg.jte/jte-kotlin@1.11.0
+- pkg:maven/gg.jte/jte-kotlin@1.11.0?classifier=sources
+- pkg:maven/gg.jte/jte-kotlin@1.11.1
+- pkg:maven/gg.jte/jte-kotlin@1.11.1?classifier=sources
 - pkg:maven/gg.jte/jte-kotlin@1.8.0
 - pkg:maven/gg.jte/jte-kotlin@1.8.0?classifier=sources
 - pkg:maven/gg.jte/jte-kotlin@1.9.0

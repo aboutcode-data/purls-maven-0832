@@ -1,2 +1,4 @@
 - pkg:maven/com.streamxhub.streamx/streamx-flink-shims_flink-1.12@1.0.0
 - pkg:maven/com.streamxhub.streamx/streamx-flink-shims_flink-1.12@1.0.0?classifier=sources
+- pkg:maven/com.streamxhub.streamx/streamx-flink-shims_flink-1.12@1.1.0
+- pkg:maven/com.streamxhub.streamx/streamx-flink-shims_flink-1.12@1.1.0?classifier=sources

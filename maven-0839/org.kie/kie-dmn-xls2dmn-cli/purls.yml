@@ -1,0 +1,4 @@
+- pkg:maven/org.kie/kie-dmn-xls2dmn-cli@7.57.0.Final
+- pkg:maven/org.kie/kie-dmn-xls2dmn-cli@7.57.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-xls2dmn-cli@7.58.0.Beta1
+- pkg:maven/org.kie/kie-dmn-xls2dmn-cli@7.58.0.Beta1?classifier=sources

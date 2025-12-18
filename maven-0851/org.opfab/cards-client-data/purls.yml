@@ -1,2 +1,5 @@
 - pkg:maven/org.opfab/cards-client-data@2.4.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/cards-client-data@2.5.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/cards-client-data@2.6.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/cards-client-data@2.7.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/cards-client-data@2.8.0.RELEASE?classifier=sources

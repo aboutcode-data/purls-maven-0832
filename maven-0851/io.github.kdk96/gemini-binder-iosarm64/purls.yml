@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kdk96/gemini-binder-iosarm64@2.0.0-alpha5-native-mt?classifier=sources
+- pkg:maven/io.github.kdk96/gemini-binder-iosarm64@2.0.0-alpha5?classifier=sources

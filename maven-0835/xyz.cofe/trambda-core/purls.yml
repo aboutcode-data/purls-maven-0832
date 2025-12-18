@@ -1,2 +1,4 @@
 - pkg:maven/xyz.cofe/trambda-core@1.0
 - pkg:maven/xyz.cofe/trambda-core@1.0?classifier=sources
+- pkg:maven/xyz.cofe/trambda-core@2.0
+- pkg:maven/xyz.cofe/trambda-core@2.0?classifier=sources

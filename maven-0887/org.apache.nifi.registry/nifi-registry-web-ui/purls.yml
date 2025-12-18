@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@0.7.0?type=war
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@0.8.0?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@0.8.0?type=war
+- pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@1.14.0?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@1.14.0?type=war

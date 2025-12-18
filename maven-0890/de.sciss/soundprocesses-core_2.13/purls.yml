@@ -82,3 +82,7 @@
 - pkg:maven/de.sciss/soundprocesses-core_2.13@4.7.5?classifier=sources
 - pkg:maven/de.sciss/soundprocesses-core_2.13@4.7.6
 - pkg:maven/de.sciss/soundprocesses-core_2.13@4.7.6?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-core_2.13@4.7.7
+- pkg:maven/de.sciss/soundprocesses-core_2.13@4.7.7?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-core_2.13@4.8.0
+- pkg:maven/de.sciss/soundprocesses-core_2.13@4.8.0?classifier=sources

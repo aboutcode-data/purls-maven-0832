@@ -51,6 +51,9 @@
 - pkg:maven/org.kie/kie-server-spring-boot-starter-optaplanner@7.52.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-starter-optaplanner@7.53.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-starter-optaplanner@7.54.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-starter-optaplanner@7.55.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-starter-optaplanner@7.56.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-starter-optaplanner@7.57.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-starter-optaplanner@7.6.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-starter-optaplanner@7.7.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-starter-optaplanner@7.8.0.Final

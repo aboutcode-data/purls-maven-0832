@@ -1,0 +1,4 @@
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.8.2
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.8.2?classifier=sources
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.8.3
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.8.3?classifier=sources

@@ -252,3 +252,4 @@
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.99
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.99?classifier=sources
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.9?classifier=sources
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@5.0.0

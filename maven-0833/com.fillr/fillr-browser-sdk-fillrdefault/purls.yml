@@ -2,3 +2,7 @@
 - pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.0?classifier=sources
 - pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.1?classifier=sources
 - pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.3?classifier=sources
+- pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.4?classifier=sources
+- pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.5?classifier=sources
+- pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.6?classifier=sources
+- pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.8?classifier=sources

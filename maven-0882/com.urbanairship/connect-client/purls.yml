@@ -14,3 +14,5 @@
 - pkg:maven/com.urbanairship/connect-client@5.0.2?classifier=sources
 - pkg:maven/com.urbanairship/connect-client@5.2.0
 - pkg:maven/com.urbanairship/connect-client@5.2.0?classifier=sources
+- pkg:maven/com.urbanairship/connect-client@5.3.1
+- pkg:maven/com.urbanairship/connect-client@5.3.1?classifier=sources

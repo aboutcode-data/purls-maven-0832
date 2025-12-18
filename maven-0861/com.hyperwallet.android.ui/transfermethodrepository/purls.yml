@@ -14,3 +14,5 @@
 - pkg:maven/com.hyperwallet.android.ui/transfermethodrepository@1.0.0-beta09?type=aar
 - pkg:maven/com.hyperwallet.android.ui/transfermethodrepository@1.0.0-beta10?classifier=sources
 - pkg:maven/com.hyperwallet.android.ui/transfermethodrepository@1.0.0-beta10?type=aar
+- pkg:maven/com.hyperwallet.android.ui/transfermethodrepository@1.0.0-beta11?classifier=sources
+- pkg:maven/com.hyperwallet.android.ui/transfermethodrepository@1.0.0-beta11?type=aar

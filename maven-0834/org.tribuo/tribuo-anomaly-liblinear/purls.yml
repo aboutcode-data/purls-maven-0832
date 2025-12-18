@@ -1,0 +1,2 @@
+- pkg:maven/org.tribuo/tribuo-anomaly-liblinear@4.1.0
+- pkg:maven/org.tribuo/tribuo-anomaly-liblinear@4.1.0?classifier=sources

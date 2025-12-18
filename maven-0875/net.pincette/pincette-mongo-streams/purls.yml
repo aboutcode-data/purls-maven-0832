@@ -29,4 +29,6 @@
 - pkg:maven/net.pincette/pincette-mongo-streams@1.3.6?classifier=sources
 - pkg:maven/net.pincette/pincette-mongo-streams@1.3.7
 - pkg:maven/net.pincette/pincette-mongo-streams@1.3.7?classifier=sources
+- pkg:maven/net.pincette/pincette-mongo-streams@1.3.8
+- pkg:maven/net.pincette/pincette-mongo-streams@1.3.8?classifier=sources
 - pkg:maven/net.pincette/pincette-mongo-streams@1.3?classifier=sources

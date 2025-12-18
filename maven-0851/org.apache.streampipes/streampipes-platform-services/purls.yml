@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.streampipes/streampipes-platform-services@0.68.0
+- pkg:maven/org.apache.streampipes/streampipes-platform-services@0.68.0?classifier=sources

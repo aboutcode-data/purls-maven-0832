@@ -1,0 +1,2 @@
+- pkg:maven/com.paypal/paypalhttp-testutils@1.0.2
+- pkg:maven/com.paypal/paypalhttp-testutils@1.0.2?classifier=sources

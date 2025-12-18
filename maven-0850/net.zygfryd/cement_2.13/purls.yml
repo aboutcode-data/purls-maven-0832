@@ -1,2 +1,4 @@
 - pkg:maven/net.zygfryd/cement_2.13@0.2.2
 - pkg:maven/net.zygfryd/cement_2.13@0.2.2?classifier=sources
+- pkg:maven/net.zygfryd/cement_2.13@0.3.0
+- pkg:maven/net.zygfryd/cement_2.13@0.3.0?classifier=sources

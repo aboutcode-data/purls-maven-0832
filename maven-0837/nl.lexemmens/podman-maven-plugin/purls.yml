@@ -50,3 +50,5 @@
 - pkg:maven/nl.lexemmens/podman-maven-plugin@1.6.0-alpha3
 - pkg:maven/nl.lexemmens/podman-maven-plugin@1.6.0-alpha3?classifier=sources
 - pkg:maven/nl.lexemmens/podman-maven-plugin@1.6.0?classifier=sources
+- pkg:maven/nl.lexemmens/podman-maven-plugin@1.7.0
+- pkg:maven/nl.lexemmens/podman-maven-plugin@1.7.0?classifier=sources

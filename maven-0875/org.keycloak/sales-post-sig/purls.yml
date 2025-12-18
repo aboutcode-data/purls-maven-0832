@@ -5,3 +5,4 @@
 - pkg:maven/org.keycloak/sales-post-sig@12.0.4?type=war
 - pkg:maven/org.keycloak/sales-post-sig@13.0.0?type=war
 - pkg:maven/org.keycloak/sales-post-sig@13.0.1?type=war
+- pkg:maven/org.keycloak/sales-post-sig@14.0.0?type=war

@@ -128,3 +128,11 @@
 - pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap1?type=aar
 - pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap2?classifier=sources
 - pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap2?type=aar
+- pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap3?classifier=sources
+- pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap3?type=aar
+- pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap4?classifier=sources
+- pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap4?type=aar
+- pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap5?classifier=sources
+- pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap5?type=aar
+- pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap6?classifier=sources
+- pkg:maven/org.videolan.android/libvlc-all@3.4.0-eap6?type=aar

@@ -7,3 +7,9 @@
 - pkg:maven/com.exactpro.sf/service-itch@3.2.1577?classifier=sources
 - pkg:maven/com.exactpro.sf/service-itch@3.2.1579?classifier=sources
 - pkg:maven/com.exactpro.sf/service-itch@3.2.1583?classifier=sources
+- pkg:maven/com.exactpro.sf/service-itch@3.2.1589?classifier=sources
+- pkg:maven/com.exactpro.sf/service-itch@3.2.1594?classifier=sources
+- pkg:maven/com.exactpro.sf/service-itch@3.2.1596?classifier=sources
+- pkg:maven/com.exactpro.sf/service-itch@3.2.1603?classifier=sources
+- pkg:maven/com.exactpro.sf/service-itch@3.2.1611?classifier=sources
+- pkg:maven/com.exactpro.sf/service-itch@3.2.1622?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/org.webjars.bowergithub.components/codemirror@5.59.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.components/codemirror@5.6.0
 - pkg:maven/org.webjars.bowergithub.components/codemirror@5.6.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.components/codemirror@5.61.1
+- pkg:maven/org.webjars.bowergithub.components/codemirror@5.61.1?classifier=sources

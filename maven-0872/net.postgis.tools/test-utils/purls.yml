@@ -1,2 +1,4 @@
 - pkg:maven/net.postgis.tools/test-utils@2.5.0
 - pkg:maven/net.postgis.tools/test-utils@2.5.0?classifier=sources
+- pkg:maven/net.postgis.tools/test-utils@2.5.1
+- pkg:maven/net.postgis.tools/test-utils@2.5.1?classifier=sources

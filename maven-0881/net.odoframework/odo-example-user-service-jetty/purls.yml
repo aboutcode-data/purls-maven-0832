@@ -1,0 +1,2 @@
+- pkg:maven/net.odoframework/odo-example-user-service-jetty@0.0.4
+- pkg:maven/net.odoframework/odo-example-user-service-jetty@0.0.4?classifier=sources

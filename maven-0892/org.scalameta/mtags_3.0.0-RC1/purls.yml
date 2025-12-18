@@ -6,3 +6,5 @@
 - pkg:maven/org.scalameta/mtags_3.0.0-RC1@0.10.2?classifier=sources
 - pkg:maven/org.scalameta/mtags_3.0.0-RC1@0.10.3
 - pkg:maven/org.scalameta/mtags_3.0.0-RC1@0.10.3?classifier=sources
+- pkg:maven/org.scalameta/mtags_3.0.0-RC1@0.10.4
+- pkg:maven/org.scalameta/mtags_3.0.0-RC1@0.10.4?classifier=sources

@@ -23,6 +23,12 @@
 - pkg:maven/net.optionfactory.spring/upstream-soap@5.1
 - pkg:maven/net.optionfactory.spring/upstream-soap@5.10
 - pkg:maven/net.optionfactory.spring/upstream-soap@5.10?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream-soap@5.11
+- pkg:maven/net.optionfactory.spring/upstream-soap@5.11?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream-soap@5.12
+- pkg:maven/net.optionfactory.spring/upstream-soap@5.12?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream-soap@5.13
+- pkg:maven/net.optionfactory.spring/upstream-soap@5.13?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream-soap@5.1?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream-soap@5.2
 - pkg:maven/net.optionfactory.spring/upstream-soap@5.2?classifier=sources

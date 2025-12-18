@@ -22,3 +22,5 @@
 - pkg:maven/pl.jalokim.utils/java-utils@2.1.0?classifier=sources
 - pkg:maven/pl.jalokim.utils/java-utils@3.0.0
 - pkg:maven/pl.jalokim.utils/java-utils@3.0.0?classifier=sources
+- pkg:maven/pl.jalokim.utils/java-utils@3.0.1
+- pkg:maven/pl.jalokim.utils/java-utils@3.0.1?classifier=sources

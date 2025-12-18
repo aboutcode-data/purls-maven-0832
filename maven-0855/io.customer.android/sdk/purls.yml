@@ -1,0 +1,2 @@
+- pkg:maven/io.customer.android/sdk@0.1.1-alpha?classifier=sources
+- pkg:maven/io.customer.android/sdk@0.1.1-alpha?type=aar

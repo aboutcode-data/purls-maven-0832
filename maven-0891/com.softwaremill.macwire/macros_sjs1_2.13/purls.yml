@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.4.0
+- pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.4.0?classifier=sources

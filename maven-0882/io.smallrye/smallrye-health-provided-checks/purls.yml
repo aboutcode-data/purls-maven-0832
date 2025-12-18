@@ -16,7 +16,13 @@
 - pkg:maven/io.smallrye/smallrye-health-provided-checks@3.0.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-health-provided-checks@3.0.2
 - pkg:maven/io.smallrye/smallrye-health-provided-checks@3.0.2?classifier=sources
+- pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.0
 - pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.0-RC1
 - pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.0-RC1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.0-RC2
 - pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.0-RC2?classifier=sources
+- pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.0-RC3
+- pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.0-RC3?classifier=sources
+- pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.1
+- pkg:maven/io.smallrye/smallrye-health-provided-checks@3.1.1?classifier=sources
