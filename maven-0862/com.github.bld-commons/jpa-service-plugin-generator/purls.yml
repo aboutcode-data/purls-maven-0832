@@ -12,3 +12,5 @@
 - pkg:maven/com.github.bld-commons/jpa-service-plugin-generator@1.0.4?classifier=sources
 - pkg:maven/com.github.bld-commons/jpa-service-plugin-generator@1.0.5
 - pkg:maven/com.github.bld-commons/jpa-service-plugin-generator@1.0.5?classifier=sources
+- pkg:maven/com.github.bld-commons/jpa-service-plugin-generator@1.1.0
+- pkg:maven/com.github.bld-commons/jpa-service-plugin-generator@1.1.0?classifier=sources

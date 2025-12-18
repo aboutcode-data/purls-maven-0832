@@ -1,0 +1,2 @@
+- pkg:maven/org.oxerr.spring.security.otp/spring-security-otp-core@2.0.0
+- pkg:maven/org.oxerr.spring.security.otp/spring-security-otp-core@2.0.0?classifier=sources

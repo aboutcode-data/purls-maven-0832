@@ -6,3 +6,5 @@
 - pkg:maven/com.adobe.aem/aem-sdk-deprecated-6.5-api@6?classifier=sources
 - pkg:maven/com.adobe.aem/aem-sdk-deprecated-6.5-api@7
 - pkg:maven/com.adobe.aem/aem-sdk-deprecated-6.5-api@7?classifier=sources
+- pkg:maven/com.adobe.aem/aem-sdk-deprecated-6.5-api@8
+- pkg:maven/com.adobe.aem/aem-sdk-deprecated-6.5-api@8?classifier=sources

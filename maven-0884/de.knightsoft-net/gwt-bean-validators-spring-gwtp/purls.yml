@@ -228,3 +228,15 @@
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.1
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.1?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.2
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.2?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.3
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.3?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.4
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.4?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.5
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.5?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.7
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.7?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.8
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.8.8?classifier=sources

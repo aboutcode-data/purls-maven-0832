@@ -1,2 +1,5 @@
+- pkg:maven/net.guerlab.cloud.resource/guerlab-cloud-resource-stream-provider@2022.0.0
+- pkg:maven/net.guerlab.cloud.resource/guerlab-cloud-resource-stream-provider@2022.0.0?classifier=sources
+- pkg:maven/net.guerlab.cloud.resource/guerlab-cloud-resource-stream-provider@2022.1.0?classifier=sources
 - pkg:maven/net.guerlab.cloud.resource/guerlab-cloud-resource-stream-provider@21.11.0
 - pkg:maven/net.guerlab.cloud.resource/guerlab-cloud-resource-stream-provider@21.11.0?classifier=sources

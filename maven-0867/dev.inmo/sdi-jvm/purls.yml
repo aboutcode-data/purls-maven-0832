@@ -2,3 +2,4 @@
 - pkg:maven/dev.inmo/sdi-jvm@0.4.0?classifier=sources
 - pkg:maven/dev.inmo/sdi-jvm@0.4.1?classifier=sources
 - pkg:maven/dev.inmo/sdi-jvm@0.5.0?classifier=sources
+- pkg:maven/dev.inmo/sdi-jvm@0.6.0?classifier=sources

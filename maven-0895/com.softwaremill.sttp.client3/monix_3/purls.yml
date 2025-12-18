@@ -1,2 +1,6 @@
 - pkg:maven/com.softwaremill.sttp.client3/monix_3@3.3.16
 - pkg:maven/com.softwaremill.sttp.client3/monix_3@3.3.16?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/monix_3@3.3.17
+- pkg:maven/com.softwaremill.sttp.client3/monix_3@3.3.17?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/monix_3@3.3.18
+- pkg:maven/com.softwaremill.sttp.client3/monix_3@3.3.18?classifier=sources

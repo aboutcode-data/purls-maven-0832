@@ -16,6 +16,9 @@
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@1.0.14
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@1.0.15
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@1.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@1.0.2
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@1.0.2?classifier=sources
@@ -60,6 +63,9 @@
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@2.0.6
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@2.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@2.0.7
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.0
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.0?classifier=sources-commercial
@@ -73,6 +79,9 @@
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.12
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.13
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@3.0.2
@@ -126,6 +135,9 @@
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@4.0.8
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@4.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@4.0.9
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@4.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@4.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.0
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.0?classifier=sources-commercial
@@ -153,3 +165,6 @@
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.8
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.9
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.9?classifier=sources-commercial

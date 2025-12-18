@@ -38,6 +38,8 @@
 - pkg:maven/org.apache.tika/tika-example@1.26?classifier=sources
 - pkg:maven/org.apache.tika/tika-example@1.27
 - pkg:maven/org.apache.tika/tika-example@1.27?classifier=sources
+- pkg:maven/org.apache.tika/tika-example@1.28
+- pkg:maven/org.apache.tika/tika-example@1.28?classifier=sources
 - pkg:maven/org.apache.tika/tika-example@1.6
 - pkg:maven/org.apache.tika/tika-example@1.6?classifier=sources
 - pkg:maven/org.apache.tika/tika-example@1.7
@@ -54,3 +56,7 @@
 - pkg:maven/org.apache.tika/tika-example@2.0.0?classifier=sources
 - pkg:maven/org.apache.tika/tika-example@2.1.0
 - pkg:maven/org.apache.tika/tika-example@2.1.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-example@2.2.0
+- pkg:maven/org.apache.tika/tika-example@2.2.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-example@2.2.1
+- pkg:maven/org.apache.tika/tika-example@2.2.1?classifier=sources

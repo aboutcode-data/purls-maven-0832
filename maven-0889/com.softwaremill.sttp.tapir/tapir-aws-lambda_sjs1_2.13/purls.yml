@@ -1,2 +1,14 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.0-M14
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.0-M14?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.0-M15
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.0-M15?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.0-M16
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.0-M16?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.1?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.3
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.19.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.20.0-M2
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-lambda_sjs1_2.13@0.20.0-M2?classifier=sources

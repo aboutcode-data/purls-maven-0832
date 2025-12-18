@@ -8,3 +8,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-single-step-batch-job@2.3.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-single-step-batch-job@2.3.4
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-single-step-batch-job@2.3.4?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-single-step-batch-job@2.3.5
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-single-step-batch-job@2.3.5?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-single-step-batch-job@2.4.0
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-single-step-batch-job@2.4.0?classifier=sources

@@ -826,6 +826,13 @@
 - pkg:maven/org.http4k/http4k-server-jetty@4.16.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-jetty@4.16.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-jetty@4.16.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@4.17.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@4.17.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@4.17.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@4.17.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@4.17.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@4.17.5.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-jetty@4.17.6.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-jetty@4.2.0.0
 - pkg:maven/org.http4k/http4k-server-jetty@4.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-jetty@4.3.0.0

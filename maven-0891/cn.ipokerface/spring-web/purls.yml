@@ -36,3 +36,7 @@
 - pkg:maven/cn.ipokerface/spring-web@2.8.8?classifier=sources
 - pkg:maven/cn.ipokerface/spring-web@2.8.9
 - pkg:maven/cn.ipokerface/spring-web@2.8.9?classifier=sources
+- pkg:maven/cn.ipokerface/spring-web@2.9.0
+- pkg:maven/cn.ipokerface/spring-web@2.9.0?classifier=sources
+- pkg:maven/cn.ipokerface/spring-web@2.9.1
+- pkg:maven/cn.ipokerface/spring-web@2.9.1?classifier=sources

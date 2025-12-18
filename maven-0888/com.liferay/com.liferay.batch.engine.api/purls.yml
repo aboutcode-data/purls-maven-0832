@@ -44,6 +44,9 @@
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@11.0.16
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@11.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@11.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@11.0.17
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@11.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@11.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@11.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@11.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@11.0.2
@@ -92,6 +95,9 @@
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@12.0.16
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@12.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@12.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@12.0.17
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@12.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@12.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@12.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@12.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@12.0.2
@@ -178,6 +184,9 @@
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@13.2.3
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@13.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@13.2.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@13.2.4
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@13.2.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@13.2.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@14.0.0
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@14.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@14.0.0?classifier=sources-commercial
@@ -214,6 +223,9 @@
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@14.4.2
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@14.4.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@14.4.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@14.5.0
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@14.5.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@14.5.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@2.0.0?classifier=sources-commercial

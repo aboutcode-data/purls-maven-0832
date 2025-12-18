@@ -1,0 +1,2 @@
+- pkg:maven/com.codezjx.library/andlinker@0.8.0?classifier=sources
+- pkg:maven/com.codezjx.library/andlinker@0.8.0?type=aar

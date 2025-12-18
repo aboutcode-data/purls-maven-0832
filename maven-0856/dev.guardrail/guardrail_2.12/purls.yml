@@ -18,3 +18,7 @@
 - pkg:maven/dev.guardrail/guardrail_2.12@0.67.0?classifier=sources
 - pkg:maven/dev.guardrail/guardrail_2.12@0.68.0
 - pkg:maven/dev.guardrail/guardrail_2.12@0.68.0?classifier=sources
+- pkg:maven/dev.guardrail/guardrail_2.12@0.68.1
+- pkg:maven/dev.guardrail/guardrail_2.12@0.68.1?classifier=sources
+- pkg:maven/dev.guardrail/guardrail_2.12@0.69.0
+- pkg:maven/dev.guardrail/guardrail_2.12@0.69.0?classifier=sources

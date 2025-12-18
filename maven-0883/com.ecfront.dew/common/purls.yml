@@ -85,4 +85,6 @@
 - pkg:maven/com.ecfront.dew/common@3.0.0-beta2?classifier=sources
 - pkg:maven/com.ecfront.dew/common@3.0.0-beta3
 - pkg:maven/com.ecfront.dew/common@3.0.0-beta3?classifier=sources
+- pkg:maven/com.ecfront.dew/common@3.0.0-beta4
+- pkg:maven/com.ecfront.dew/common@3.0.0-beta4?classifier=sources
 - pkg:maven/com.ecfront.dew/common@3.0.0-beta?classifier=sources

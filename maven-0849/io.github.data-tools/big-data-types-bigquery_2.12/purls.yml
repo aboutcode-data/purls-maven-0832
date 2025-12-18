@@ -24,3 +24,5 @@
 - pkg:maven/io.github.data-tools/big-data-types-bigquery_2.12@0.5.2?classifier=sources
 - pkg:maven/io.github.data-tools/big-data-types-bigquery_2.12@1.0.0
 - pkg:maven/io.github.data-tools/big-data-types-bigquery_2.12@1.0.0?classifier=sources
+- pkg:maven/io.github.data-tools/big-data-types-bigquery_2.12@1.1.0
+- pkg:maven/io.github.data-tools/big-data-types-bigquery_2.12@1.1.0?classifier=sources

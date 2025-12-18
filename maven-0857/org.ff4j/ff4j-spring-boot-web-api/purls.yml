@@ -26,6 +26,8 @@
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.10?classifier=sources
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.11
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.11?classifier=sources
+- pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.12
+- pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.12?classifier=sources
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.1?classifier=sources
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.2
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.2?classifier=sources

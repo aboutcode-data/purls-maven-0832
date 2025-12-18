@@ -28,3 +28,9 @@
 - pkg:maven/com.vaadin/flow-gradle-plugin@8.0.3?classifier=sources
 - pkg:maven/com.vaadin/flow-gradle-plugin@8.0.4
 - pkg:maven/com.vaadin/flow-gradle-plugin@8.0.4?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@8.0.5
+- pkg:maven/com.vaadin/flow-gradle-plugin@8.0.5?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.0
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.0?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.1
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.1?classifier=sources

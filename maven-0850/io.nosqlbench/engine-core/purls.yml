@@ -302,3 +302,7 @@
 - pkg:maven/io.nosqlbench/engine-core@4.15.62?classifier=sources
 - pkg:maven/io.nosqlbench/engine-core@4.15.63
 - pkg:maven/io.nosqlbench/engine-core@4.15.63?classifier=sources
+- pkg:maven/io.nosqlbench/engine-core@4.15.64
+- pkg:maven/io.nosqlbench/engine-core@4.15.64?classifier=sources
+- pkg:maven/io.nosqlbench/engine-core@4.15.70
+- pkg:maven/io.nosqlbench/engine-core@4.15.70?classifier=sources

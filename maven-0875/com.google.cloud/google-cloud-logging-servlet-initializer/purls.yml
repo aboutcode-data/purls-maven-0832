@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud/google-cloud-logging-servlet-initializer@0.1.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-logging-servlet-initializer@0.1.0-alpha?classifier=sources

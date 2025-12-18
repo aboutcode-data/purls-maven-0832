@@ -1,0 +1,2 @@
+- pkg:maven/de.tu-darmstadt.stg/rescala_2.11@0.31.0
+- pkg:maven/de.tu-darmstadt.stg/rescala_2.11@0.31.0?classifier=sources

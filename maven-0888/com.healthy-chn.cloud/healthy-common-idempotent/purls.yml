@@ -8,3 +8,7 @@
 - pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@1.2.4.RELEASE?classifier=sources
 - pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@1.2.5.RELEASE
 - pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@1.2.5.RELEASE?classifier=sources
+- pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@1.2.6.RELEASE
+- pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@1.2.6.RELEASE?classifier=sources
+- pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@1.2.7.RELEASE
+- pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@1.2.7.RELEASE?classifier=sources

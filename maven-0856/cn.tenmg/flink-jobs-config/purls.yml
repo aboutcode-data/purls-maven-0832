@@ -1,0 +1,6 @@
+- pkg:maven/cn.tenmg/flink-jobs-config@1.1.4
+- pkg:maven/cn.tenmg/flink-jobs-config@1.1.4.Final
+- pkg:maven/cn.tenmg/flink-jobs-config@1.1.4.Final?classifier=sources
+- pkg:maven/cn.tenmg/flink-jobs-config@1.1.4?classifier=sources
+- pkg:maven/cn.tenmg/flink-jobs-config@1.1.5
+- pkg:maven/cn.tenmg/flink-jobs-config@1.1.5?classifier=sources

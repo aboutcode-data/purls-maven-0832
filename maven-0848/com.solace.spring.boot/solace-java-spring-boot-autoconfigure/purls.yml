@@ -18,3 +18,4 @@
 - pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@4.0.0?classifier=sources
 - pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@4.1.0
 - pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@4.1.0?classifier=sources
+- pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@4.1.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/icu.windea.breezeframework/breeze-logger@3.0.0?classifier=sources
+- pkg:maven/icu.windea.breezeframework/breeze-logger@3.1.0?classifier=sources

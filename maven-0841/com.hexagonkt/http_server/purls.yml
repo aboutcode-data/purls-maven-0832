@@ -1,2 +1,5 @@
+- pkg:maven/com.hexagonkt/http_server@1.4.10?classifier=sources
+- pkg:maven/com.hexagonkt/http_server@1.4.11?classifier=sources
 - pkg:maven/com.hexagonkt/http_server@1.4.8?classifier=sources
 - pkg:maven/com.hexagonkt/http_server@1.4.9?classifier=sources
+- pkg:maven/com.hexagonkt/http_server@1.5.0?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-webclient@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-webclient@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-webclient@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-webclient@RELEASE126?classifier=sources

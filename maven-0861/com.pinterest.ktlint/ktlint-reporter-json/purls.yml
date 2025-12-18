@@ -28,3 +28,5 @@
 - pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.42.0?classifier=sources
 - pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.42.1?classifier=sources
 - pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.43.0?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.43.1?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.43.2?classifier=sources

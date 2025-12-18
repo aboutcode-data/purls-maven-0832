@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/hpcc-js__wasm@0.3.13
 - pkg:maven/org.webjars.npm/hpcc-js__wasm@0.3.13?classifier=sources
+- pkg:maven/org.webjars.npm/hpcc-js__wasm@1.12.6
+- pkg:maven/org.webjars.npm/hpcc-js__wasm@1.12.6?classifier=sources

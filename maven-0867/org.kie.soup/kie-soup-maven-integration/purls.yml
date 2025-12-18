@@ -160,6 +160,14 @@
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.6.0.t022?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.60.0.Final
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.60.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.61.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.61.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.62.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.62.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.63.0.Final
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.63.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.63.0.t20211129
+- pkg:maven/org.kie.soup/kie-soup-maven-integration@7.63.0.t20211129?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.7.0.Final
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.7.0.Final?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-maven-integration@7.8.0.Final

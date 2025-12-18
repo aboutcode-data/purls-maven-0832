@@ -25,6 +25,9 @@
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-runner@0.13.3?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-runner@0.16.7?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-runner@0.16.8?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-runner@0.16.9?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-runner@0.17.0?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-runner@0.17.1?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-runner@0.8.10?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-runner@0.8.11?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-runner@0.8.12?classifier=sources

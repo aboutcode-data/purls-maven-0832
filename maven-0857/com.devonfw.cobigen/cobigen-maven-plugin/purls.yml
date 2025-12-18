@@ -2,6 +2,8 @@
 - pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@2021.08.001?classifier=sources
 - pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@2021.08.002
 - pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@2021.08.002?classifier=sources
+- pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@2021.12.001
+- pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@2021.12.001?classifier=sources
 - pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@5.0.0
 - pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@5.0.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@5.2.0

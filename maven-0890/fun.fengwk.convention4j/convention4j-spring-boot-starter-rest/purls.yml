@@ -1,0 +1,2 @@
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-boot-starter-rest@0.0.1
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-boot-starter-rest@0.0.1?classifier=sources

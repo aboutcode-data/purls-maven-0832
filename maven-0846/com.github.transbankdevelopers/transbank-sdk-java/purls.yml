@@ -48,3 +48,5 @@
 - pkg:maven/com.github.transbankdevelopers/transbank-sdk-java@1.9.4?classifier=sources
 - pkg:maven/com.github.transbankdevelopers/transbank-sdk-java@2.0.0
 - pkg:maven/com.github.transbankdevelopers/transbank-sdk-java@2.0.0?classifier=sources
+- pkg:maven/com.github.transbankdevelopers/transbank-sdk-java@3.0.0
+- pkg:maven/com.github.transbankdevelopers/transbank-sdk-java@3.0.0?classifier=sources

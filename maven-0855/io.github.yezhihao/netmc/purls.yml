@@ -22,3 +22,13 @@
 - pkg:maven/io.github.yezhihao/netmc@2.0.4.RELEASE?classifier=sources
 - pkg:maven/io.github.yezhihao/netmc@2.0.5.RELEASE
 - pkg:maven/io.github.yezhihao/netmc@2.0.5.RELEASE?classifier=sources
+- pkg:maven/io.github.yezhihao/netmc@2.0.6.RELEASE
+- pkg:maven/io.github.yezhihao/netmc@2.0.6.RELEASE?classifier=sources
+- pkg:maven/io.github.yezhihao/netmc@2.0.7.RELEASE
+- pkg:maven/io.github.yezhihao/netmc@2.0.7.RELEASE?classifier=sources
+- pkg:maven/io.github.yezhihao/netmc@2.0.8.RELEASE
+- pkg:maven/io.github.yezhihao/netmc@2.0.8.RELEASE?classifier=sources
+- pkg:maven/io.github.yezhihao/netmc@2.0.9.RELEASE
+- pkg:maven/io.github.yezhihao/netmc@2.0.9.RELEASE?classifier=sources
+- pkg:maven/io.github.yezhihao/netmc@3.0.0
+- pkg:maven/io.github.yezhihao/netmc@3.0.0?classifier=sources

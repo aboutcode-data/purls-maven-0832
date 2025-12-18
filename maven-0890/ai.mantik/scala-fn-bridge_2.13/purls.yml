@@ -1,0 +1,4 @@
+- pkg:maven/ai.mantik/scala-fn-bridge_2.13@0.4.0
+- pkg:maven/ai.mantik/scala-fn-bridge_2.13@0.4.0-rc1
+- pkg:maven/ai.mantik/scala-fn-bridge_2.13@0.4.0-rc1?classifier=sources
+- pkg:maven/ai.mantik/scala-fn-bridge_2.13@0.4.0?classifier=sources

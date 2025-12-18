@@ -239,6 +239,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@1.22.0-sp.1?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@1.22.0-sp.2
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@1.22.0-sp.2?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@1.22.0-sp.3
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@1.22.0-sp.3?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@1.22.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@1.23.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@1.23.0?classifier=sources
@@ -290,3 +292,9 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@2.1.4?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@2.2.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@2.2.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@2.3.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@2.3.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@2.3.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@2.3.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@2.4.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-v2@2.4.0?classifier=sources

@@ -258,6 +258,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi2dav@2.21.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi2dav@2.21.8
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi2dav@2.21.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi2dav@2.21.9
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi2dav@2.21.9?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi2dav@2.3.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi2dav@2.3.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi2dav@2.3.2

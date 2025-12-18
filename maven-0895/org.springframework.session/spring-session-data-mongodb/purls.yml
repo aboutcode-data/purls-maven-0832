@@ -63,3 +63,5 @@
 - pkg:maven/org.springframework.session/spring-session-data-mongodb@2.4.4?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-data-mongodb@2.5.0
 - pkg:maven/org.springframework.session/spring-session-data-mongodb@2.5.0?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-data-mongodb@2.6.0?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-data-mongodb@2.6.1?classifier=sources

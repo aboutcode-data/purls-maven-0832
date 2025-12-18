@@ -14,3 +14,7 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-data-model@0.8.0?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-data-model@1.14.0
 - pkg:maven/org.apache.nifi.registry/nifi-registry-data-model@1.14.0?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-data-model@1.15.0
+- pkg:maven/org.apache.nifi.registry/nifi-registry-data-model@1.15.0?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-data-model@1.15.1
+- pkg:maven/org.apache.nifi.registry/nifi-registry-data-model@1.15.1?classifier=sources

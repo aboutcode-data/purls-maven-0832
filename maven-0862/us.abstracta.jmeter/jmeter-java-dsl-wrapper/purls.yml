@@ -1,0 +1,5 @@
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.41?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.42
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.42?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.43
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.43?classifier=sources

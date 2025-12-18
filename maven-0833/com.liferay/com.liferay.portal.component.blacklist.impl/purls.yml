@@ -35,6 +35,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@1.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@1.0.2
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@1.0.20
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@1.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@1.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@1.0.3
@@ -86,6 +89,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@2.0.17
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@2.0.18
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@2.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@2.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@2.0.2
@@ -149,6 +155,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@3.0.20
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@3.0.21
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@3.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@3.0.3
@@ -197,6 +206,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@4.0.17
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@4.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@4.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@4.0.18
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@4.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@4.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@4.0.2
@@ -230,6 +242,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@5.0.10
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@5.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@5.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@5.0.11
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@5.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@5.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.component.blacklist.impl@5.0.2

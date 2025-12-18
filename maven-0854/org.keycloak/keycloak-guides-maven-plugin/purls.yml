@@ -1,0 +1,8 @@
+- pkg:maven/org.keycloak/keycloak-guides-maven-plugin@15.1.0
+- pkg:maven/org.keycloak/keycloak-guides-maven-plugin@15.1.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-guides-maven-plugin@15.1.1
+- pkg:maven/org.keycloak/keycloak-guides-maven-plugin@15.1.1?classifier=sources
+- pkg:maven/org.keycloak/keycloak-guides-maven-plugin@16.0.0
+- pkg:maven/org.keycloak/keycloak-guides-maven-plugin@16.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-guides-maven-plugin@16.1.0
+- pkg:maven/org.keycloak/keycloak-guides-maven-plugin@16.1.0?classifier=sources

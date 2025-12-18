@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/lex@1.136.0
+- pkg:maven/software.amazon.awscdk/lex@1.136.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.137.0
+- pkg:maven/software.amazon.awscdk/lex@1.137.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-hints@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-hints@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-hints@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-hints@RELEASE126?classifier=sources

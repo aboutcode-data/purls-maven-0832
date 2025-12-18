@@ -148,3 +148,5 @@
 - pkg:maven/org.t-io/tio-core@3.7.4.v20210808-RELEASE?classifier=sources
 - pkg:maven/org.t-io/tio-core@3.7.5.v20211028-RELEASE
 - pkg:maven/org.t-io/tio-core@3.7.5.v20211028-RELEASE?classifier=sources
+- pkg:maven/org.t-io/tio-core@3.7.6.v20211212-RELEASE
+- pkg:maven/org.t-io/tio-core@3.7.6.v20211212-RELEASE?classifier=sources

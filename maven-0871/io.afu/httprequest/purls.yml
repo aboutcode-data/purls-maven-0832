@@ -12,3 +12,5 @@
 - pkg:maven/io.afu/httprequest@1.6-RELEASE?classifier=sources
 - pkg:maven/io.afu/httprequest@1.7-RELEASE
 - pkg:maven/io.afu/httprequest@1.7-RELEASE?classifier=sources
+- pkg:maven/io.afu/httprequest@1.8-RELEASE
+- pkg:maven/io.afu/httprequest@1.8-RELEASE?classifier=sources

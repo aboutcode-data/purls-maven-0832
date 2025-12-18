@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jinahya/org-ehcache-v3-bind-jakarta@0.0.2
+- pkg:maven/com.github.jinahya/org-ehcache-v3-bind-jakarta@0.0.2?classifier=sources

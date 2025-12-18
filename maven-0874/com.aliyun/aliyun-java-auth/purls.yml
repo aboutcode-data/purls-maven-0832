@@ -2,3 +2,9 @@
 - pkg:maven/com.aliyun/aliyun-java-auth@0.0.1-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-auth@0.0.2-beta
 - pkg:maven/com.aliyun/aliyun-java-auth@0.0.2-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-auth@0.0.3-beta
+- pkg:maven/com.aliyun/aliyun-java-auth@0.0.3-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-auth@0.0.4-beta
+- pkg:maven/com.aliyun/aliyun-java-auth@0.0.4-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-auth@0.0.5-beta
+- pkg:maven/com.aliyun/aliyun-java-auth@0.0.5-beta?classifier=sources

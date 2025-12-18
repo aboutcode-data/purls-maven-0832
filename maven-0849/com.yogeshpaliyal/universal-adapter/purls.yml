@@ -1,1 +1,2 @@
 - pkg:maven/com.yogeshpaliyal/universal-adapter@1.0.0?classifier=sources
+- pkg:maven/com.yogeshpaliyal/universal-adapter@3.0.0?classifier=sources

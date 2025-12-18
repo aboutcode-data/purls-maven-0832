@@ -30,3 +30,5 @@
 - pkg:maven/com.leanplum/leanplum-core@5.6.4?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.7.0?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.8.0?classifier=sources
+- pkg:maven/com.leanplum/leanplum-core@5.8.1?classifier=sources
+- pkg:maven/com.leanplum/leanplum-core@5.8.2?classifier=sources

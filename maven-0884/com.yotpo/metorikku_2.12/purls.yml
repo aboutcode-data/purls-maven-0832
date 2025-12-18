@@ -66,5 +66,11 @@
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.134?classifier=sources
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.135
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.135?classifier=sources
+- pkg:maven/com.yotpo/metorikku_2.12@0.0.137
+- pkg:maven/com.yotpo/metorikku_2.12@0.0.137?classifier=sources
+- pkg:maven/com.yotpo/metorikku_2.12@0.0.138
+- pkg:maven/com.yotpo/metorikku_2.12@0.0.138?classifier=sources
+- pkg:maven/com.yotpo/metorikku_2.12@0.0.139
+- pkg:maven/com.yotpo/metorikku_2.12@0.0.139?classifier=sources
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.99
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.99?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.7.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.7.2-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.8.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.9.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.9.1-alpha?classifier=sources

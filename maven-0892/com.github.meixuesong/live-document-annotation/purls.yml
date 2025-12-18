@@ -28,3 +28,4 @@
 - pkg:maven/com.github.meixuesong/live-document-annotation@1.5.1?classifier=sources
 - pkg:maven/com.github.meixuesong/live-document-annotation@1.5.2?classifier=sources
 - pkg:maven/com.github.meixuesong/live-document-annotation@1.5.3?classifier=sources
+- pkg:maven/com.github.meixuesong/live-document-annotation@1.6.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/net.guerlab.cloud.resource/guerlab-cloud-resource-provider-commons@2022.0.0
+- pkg:maven/net.guerlab.cloud.resource/guerlab-cloud-resource-provider-commons@2022.0.0?classifier=sources
+- pkg:maven/net.guerlab.cloud.resource/guerlab-cloud-resource-provider-commons@2022.1.0?classifier=sources

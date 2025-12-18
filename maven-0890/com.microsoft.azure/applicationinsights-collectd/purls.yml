@@ -40,3 +40,5 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.3-BETA-HEYA-TEST
 - pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.3-BETA-HEYA-TEST?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.3?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.4
+- pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.4?classifier=sources

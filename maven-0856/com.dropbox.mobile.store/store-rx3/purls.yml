@@ -8,3 +8,6 @@
 - pkg:maven/com.dropbox.mobile.store/store-rx3@4.0.1?classifier=sources
 - pkg:maven/com.dropbox.mobile.store/store-rx3@4.0.2-KT15
 - pkg:maven/com.dropbox.mobile.store/store-rx3@4.0.2-KT15?classifier=sources
+- pkg:maven/com.dropbox.mobile.store/store-rx3@4.0.3-KT15
+- pkg:maven/com.dropbox.mobile.store/store-rx3@4.0.3-KT15?classifier=sources
+- pkg:maven/com.dropbox.mobile.store/store-rx3@4.0.4-KT15?classifier=sources

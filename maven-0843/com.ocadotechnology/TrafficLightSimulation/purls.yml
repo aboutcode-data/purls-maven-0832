@@ -12,6 +12,8 @@
 - pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.17.5?classifier=sources
 - pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.20.5
 - pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.20.5?classifier=sources
+- pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.21.10
+- pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.21.10?classifier=sources
 - pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.4
 - pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.4?classifier=sources
 - pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.8.17

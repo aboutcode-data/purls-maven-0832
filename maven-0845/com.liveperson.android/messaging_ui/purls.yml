@@ -1,7 +1,13 @@
 - pkg:maven/com.liveperson.android/messaging_ui@4.10.0?classifier=sources
+- pkg:maven/com.liveperson.android/messaging_ui@4.6.0?classifier=sources
+- pkg:maven/com.liveperson.android/messaging_ui@4.7.0?classifier=sources
+- pkg:maven/com.liveperson.android/messaging_ui@4.7.1?classifier=sources
 - pkg:maven/com.liveperson.android/messaging_ui@4.8.1?classifier=sources
 - pkg:maven/com.liveperson.android/messaging_ui@4.9.0?classifier=sources
 - pkg:maven/com.liveperson.android/messaging_ui@4.9.1?classifier=sources
+- pkg:maven/com.liveperson.android/messaging_ui@5.4.0?classifier=sources
+- pkg:maven/com.liveperson.android/messaging_ui@5.5.0?classifier=sources
+- pkg:maven/com.liveperson.android/messaging_ui@5.5.1?classifier=sources
 - pkg:maven/com.liveperson.android/messaging_ui@5.6.0?classifier=sources
 - pkg:maven/com.liveperson.android/messaging_ui@5.7.0?classifier=sources
 - pkg:maven/com.liveperson.android/messaging_ui@5.7.1?classifier=sources

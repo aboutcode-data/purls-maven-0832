@@ -1,6 +1,12 @@
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.1-ib
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.1-ib?classifier=source-release&type=zip
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.1-ib?classifier=sources
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.10-ib
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.10-ib?classifier=source-release&type=zip
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.10-ib?classifier=sources
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.11-ib
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.11-ib?classifier=source-release&type=zip
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.11-ib?classifier=sources
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.2-ib
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.2-ib?classifier=source-release&type=zip
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.2-ib?classifier=sources
@@ -19,3 +25,6 @@
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.8-ib
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.8-ib?classifier=source-release&type=zip
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.8-ib?classifier=sources
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.9-ib
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.9-ib?classifier=source-release&type=zip
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.9-ib?classifier=sources

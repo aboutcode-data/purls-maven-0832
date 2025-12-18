@@ -135,8 +135,12 @@
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.76
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.77
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.78
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.79
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.7?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.8
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.80
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.81
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.82
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.8?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.9
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@1.9?classifier=sources

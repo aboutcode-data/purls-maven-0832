@@ -6,3 +6,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-retailadvqa-public@3.3.26?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-retailadvqa-public@3.3.27
 - pkg:maven/com.aliyun/aliyun-java-sdk-retailadvqa-public@3.3.27?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-retailadvqa-public@3.3.30
+- pkg:maven/com.aliyun/aliyun-java-sdk-retailadvqa-public@3.3.30?classifier=sources

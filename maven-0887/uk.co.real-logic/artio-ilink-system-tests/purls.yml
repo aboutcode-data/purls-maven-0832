@@ -6,6 +6,12 @@
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.105?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.106?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.107?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.108?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.109?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.110?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.111?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.112?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.113?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.55?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.56?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.57?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/tz.co.asoft/foundation-plugins@1.4.21?classifier=sources
+- pkg:maven/tz.co.asoft/foundation-plugins@1.4.22?classifier=sources
+- pkg:maven/tz.co.asoft/foundation-plugins@1.4.30?classifier=sources
+- pkg:maven/tz.co.asoft/foundation-plugins@1.4.40?classifier=sources

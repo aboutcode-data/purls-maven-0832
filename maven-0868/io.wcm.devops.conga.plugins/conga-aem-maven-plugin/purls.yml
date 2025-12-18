@@ -62,3 +62,5 @@
 - pkg:maven/io.wcm.devops.conga.plugins/conga-aem-maven-plugin@1.9.2?classifier=sources
 - pkg:maven/io.wcm.devops.conga.plugins/conga-aem-maven-plugin@2.15.0
 - pkg:maven/io.wcm.devops.conga.plugins/conga-aem-maven-plugin@2.15.0?classifier=sources
+- pkg:maven/io.wcm.devops.conga.plugins/conga-aem-maven-plugin@2.16.0
+- pkg:maven/io.wcm.devops.conga.plugins/conga-aem-maven-plugin@2.16.0?classifier=sources

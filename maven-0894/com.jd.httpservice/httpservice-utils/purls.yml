@@ -6,3 +6,5 @@
 - pkg:maven/com.jd.httpservice/httpservice-utils@2.0.2.RELEASE?classifier=sources
 - pkg:maven/com.jd.httpservice/httpservice-utils@2.0.3.RELEASE
 - pkg:maven/com.jd.httpservice/httpservice-utils@2.0.3.RELEASE?classifier=sources
+- pkg:maven/com.jd.httpservice/httpservice-utils@2.1.0.RELEASE
+- pkg:maven/com.jd.httpservice/httpservice-utils@2.1.0.RELEASE?classifier=sources

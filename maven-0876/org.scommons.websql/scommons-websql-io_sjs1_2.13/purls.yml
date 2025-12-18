@@ -1,0 +1,2 @@
+- pkg:maven/org.scommons.websql/scommons-websql-io_sjs1_2.13@0.7.1
+- pkg:maven/org.scommons.websql/scommons-websql-io_sjs1_2.13@0.7.1?classifier=sources

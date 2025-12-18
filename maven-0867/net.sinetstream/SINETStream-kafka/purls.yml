@@ -1,1 +1,2 @@
 - pkg:maven/net.sinetstream/SINETStream-kafka@1.5.2?classifier=sources
+- pkg:maven/net.sinetstream/SINETStream-kafka@1.6.0?classifier=sources

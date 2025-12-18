@@ -54,3 +54,4 @@
 - pkg:maven/org.opendaylight.transportpce/test-common@3.2.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/test-common@3.3.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/test-common@4.0.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/test-common@4.1.0?classifier=sources

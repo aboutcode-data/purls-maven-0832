@@ -1,0 +1,6 @@
+- pkg:maven/ru.easydonate.easydonate4j/jackson-json-provider@2.0.0
+- pkg:maven/ru.easydonate.easydonate4j/jackson-json-provider@2.0.0?classifier=sources
+- pkg:maven/ru.easydonate.easydonate4j/jackson-json-provider@2.0.1
+- pkg:maven/ru.easydonate.easydonate4j/jackson-json-provider@2.0.1?classifier=sources
+- pkg:maven/ru.easydonate.easydonate4j/jackson-json-provider@2.0.2
+- pkg:maven/ru.easydonate.easydonate4j/jackson-json-provider@2.0.2?classifier=sources

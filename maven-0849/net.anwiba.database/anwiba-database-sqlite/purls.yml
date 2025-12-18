@@ -8,3 +8,5 @@
 - pkg:maven/net.anwiba.database/anwiba-database-sqlite@1.0.185?classifier=sources
 - pkg:maven/net.anwiba.database/anwiba-database-sqlite@1.1.121
 - pkg:maven/net.anwiba.database/anwiba-database-sqlite@1.1.121?classifier=sources
+- pkg:maven/net.anwiba.database/anwiba-database-sqlite@1.1.158
+- pkg:maven/net.anwiba.database/anwiba-database-sqlite@1.1.158?classifier=sources

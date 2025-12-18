@@ -30,6 +30,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@2.0.18
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@2.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@2.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@2.0.19
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@2.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@2.0.2
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@2.0.2?classifier=sources
@@ -60,6 +63,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@3.0.11
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@3.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@3.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@3.0.12
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@3.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@3.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@3.0.2
@@ -111,6 +117,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.16
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.17
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@4.0.2
@@ -162,6 +171,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@5.0.16
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@5.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@5.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@5.0.17
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@5.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@5.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@5.0.2
@@ -212,3 +224,6 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@6.0.7
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@6.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@6.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@6.0.8
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@6.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.theme.contributor@6.0.8?classifier=sources-commercial

@@ -5,3 +5,5 @@
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-jdbc@3.5.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-jdbc@3.6.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-jdbc@3.7.0
+- pkg:maven/com.ontimize.boot/ontimize-boot-starter-jdbc@3.8.0
+- pkg:maven/com.ontimize.boot/ontimize-boot-starter-jdbc@3.8.1

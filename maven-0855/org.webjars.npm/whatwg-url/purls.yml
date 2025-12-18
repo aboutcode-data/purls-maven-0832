@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.npm/whatwg-url@8.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/whatwg-url@8.4.0
 - pkg:maven/org.webjars.npm/whatwg-url@8.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/whatwg-url@8.7.0
+- pkg:maven/org.webjars.npm/whatwg-url@8.7.0?classifier=sources

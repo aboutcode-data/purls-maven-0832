@@ -22,3 +22,5 @@
 - pkg:maven/org.openscience.cdk/cdk-renderextra@2.3?classifier=sources
 - pkg:maven/org.openscience.cdk/cdk-renderextra@2.5
 - pkg:maven/org.openscience.cdk/cdk-renderextra@2.5?classifier=sources
+- pkg:maven/org.openscience.cdk/cdk-renderextra@2.6
+- pkg:maven/org.openscience.cdk/cdk-renderextra@2.6?classifier=sources

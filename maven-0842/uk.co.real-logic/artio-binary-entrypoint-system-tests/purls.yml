@@ -6,6 +6,12 @@
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.105?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.106?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.107?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.108?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.109?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.110?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.111?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.112?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.113?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.90?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.91?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-system-tests@0.92?classifier=sources

@@ -1,3 +1,7 @@
 - pkg:maven/com.joom.lightsaber/lightsaber-core-kotlin@1.0.0-alpha05?classifier=sources
 - pkg:maven/com.joom.lightsaber/lightsaber-core-kotlin@1.0.0-alpha06?classifier=sources
 - pkg:maven/com.joom.lightsaber/lightsaber-core-kotlin@1.0.0-alpha07?classifier=sources
+- pkg:maven/com.joom.lightsaber/lightsaber-core-kotlin@1.0.0-alpha08?classifier=sources
+- pkg:maven/com.joom.lightsaber/lightsaber-core-kotlin@1.0.0-alpha09?classifier=sources
+- pkg:maven/com.joom.lightsaber/lightsaber-core-kotlin@1.0.0-alpha10?classifier=sources
+- pkg:maven/com.joom.lightsaber/lightsaber-core-kotlin@1.0.0-alpha11?classifier=sources

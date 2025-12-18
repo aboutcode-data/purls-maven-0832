@@ -1,0 +1,2 @@
+- pkg:maven/io.github.prakashiit/jasypt@1.10.0
+- pkg:maven/io.github.prakashiit/jasypt@1.10.0?classifier=sources

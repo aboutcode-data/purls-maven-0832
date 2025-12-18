@@ -12,5 +12,7 @@
 - pkg:maven/io.github.zkpursuit/kaka-core@3.3?classifier=sources
 - pkg:maven/io.github.zkpursuit/kaka-core@4.0
 - pkg:maven/io.github.zkpursuit/kaka-core@4.0?classifier=sources
+- pkg:maven/io.github.zkpursuit/kaka-core@5.0
 - pkg:maven/io.github.zkpursuit/kaka-core@5.0-preview
 - pkg:maven/io.github.zkpursuit/kaka-core@5.0-preview?classifier=sources
+- pkg:maven/io.github.zkpursuit/kaka-core@5.0?classifier=sources

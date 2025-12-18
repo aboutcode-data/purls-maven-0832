@@ -18,3 +18,5 @@
 - pkg:maven/org.litote.kmongo/kmongo-reactor-core-tests@4.2.8?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-reactor-core-tests@4.3.0
 - pkg:maven/org.litote.kmongo/kmongo-reactor-core-tests@4.3.0?classifier=sources
+- pkg:maven/org.litote.kmongo/kmongo-reactor-core-tests@4.4.0
+- pkg:maven/org.litote.kmongo/kmongo-reactor-core-tests@4.4.0?classifier=sources

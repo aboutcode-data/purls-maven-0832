@@ -7,3 +7,5 @@
 - pkg:maven/net.simonix.scripts/groovy-jmeter@0.12.1
 - pkg:maven/net.simonix.scripts/groovy-jmeter@0.12.1?classifier=sources
 - pkg:maven/net.simonix.scripts/groovy-jmeter@0.13.0?classifier=sources
+- pkg:maven/net.simonix.scripts/groovy-jmeter@0.14.0?classifier=sources
+- pkg:maven/net.simonix.scripts/groovy-jmeter@0.15.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/vue3-sfc-loader@0.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/vue3-sfc-loader@0.8.3
 - pkg:maven/org.webjars.npm/vue3-sfc-loader@0.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/vue3-sfc-loader@0.8.4
+- pkg:maven/org.webjars.npm/vue3-sfc-loader@0.8.4?classifier=sources

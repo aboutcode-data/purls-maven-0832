@@ -14,3 +14,5 @@
 - pkg:maven/io.vasilev/cats-effect-std_2.13@3.3-77-04f114d?classifier=sources
 - pkg:maven/io.vasilev/cats-effect-std_2.13@3.3-77-1e0e47c
 - pkg:maven/io.vasilev/cats-effect-std_2.13@3.3-77-1e0e47c?classifier=sources
+- pkg:maven/io.vasilev/cats-effect-std_2.13@3.3-87-1d1f0ff
+- pkg:maven/io.vasilev/cats-effect-std_2.13@3.3-87-1d1f0ff?classifier=sources

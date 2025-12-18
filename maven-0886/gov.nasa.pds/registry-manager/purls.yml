@@ -12,5 +12,7 @@
 - pkg:maven/gov.nasa.pds/registry-manager@4.1.0?classifier=sources
 - pkg:maven/gov.nasa.pds/registry-manager@4.2.0
 - pkg:maven/gov.nasa.pds/registry-manager@4.2.0?classifier=sources
+- pkg:maven/gov.nasa.pds/registry-manager@4.3.0
+- pkg:maven/gov.nasa.pds/registry-manager@4.3.0?classifier=sources
 - pkg:maven/gov.nasa.pds/registry-manager@v4.0.2
 - pkg:maven/gov.nasa.pds/registry-manager@v4.0.2?classifier=sources

@@ -31,3 +31,6 @@
 - pkg:maven/io.kvision/kvision-server-javalin-js@5.4.2?classifier=sources
 - pkg:maven/io.kvision/kvision-server-javalin-js@5.4.3?classifier=sources
 - pkg:maven/io.kvision/kvision-server-javalin-js@5.5.0?classifier=sources
+- pkg:maven/io.kvision/kvision-server-javalin-js@5.5.1?classifier=sources
+- pkg:maven/io.kvision/kvision-server-javalin-js@5.6.0?classifier=sources
+- pkg:maven/io.kvision/kvision-server-javalin-js@5.6.1?classifier=sources

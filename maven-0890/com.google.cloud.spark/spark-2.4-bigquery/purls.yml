@@ -1,0 +1,4 @@
+- pkg:maven/com.google.cloud.spark/spark-2.4-bigquery@0.23.0-preview
+- pkg:maven/com.google.cloud.spark/spark-2.4-bigquery@0.23.0-preview?classifier=sources
+- pkg:maven/com.google.cloud.spark/spark-2.4-bigquery@0.23.1-preview
+- pkg:maven/com.google.cloud.spark/spark-2.4-bigquery@0.23.1-preview?classifier=sources

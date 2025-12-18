@@ -1,0 +1,2 @@
+- pkg:maven/kr.entree/spigradle-annotations@2.1.1?classifier=sources
+- pkg:maven/kr.entree/spigradle-annotations@2.2.0?classifier=sources

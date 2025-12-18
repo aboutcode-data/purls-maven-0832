@@ -1,0 +1,2 @@
+- pkg:maven/com.whisk/docker-testkit-config_3@0.11.0-beta1
+- pkg:maven/com.whisk/docker-testkit-config_3@0.11.0-beta1?classifier=sources

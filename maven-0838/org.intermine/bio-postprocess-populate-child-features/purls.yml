@@ -6,3 +6,7 @@
 - pkg:maven/org.intermine/bio-postprocess-populate-child-features@5.0.2?classifier=sources
 - pkg:maven/org.intermine/bio-postprocess-populate-child-features@5.0.3
 - pkg:maven/org.intermine/bio-postprocess-populate-child-features@5.0.3?classifier=sources
+- pkg:maven/org.intermine/bio-postprocess-populate-child-features@5.0.4
+- pkg:maven/org.intermine/bio-postprocess-populate-child-features@5.0.4?classifier=sources
+- pkg:maven/org.intermine/bio-postprocess-populate-child-features@5.0.5
+- pkg:maven/org.intermine/bio-postprocess-populate-child-features@5.0.5?classifier=sources

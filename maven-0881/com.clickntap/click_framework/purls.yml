@@ -127,6 +127,8 @@
 - pkg:maven/com.clickntap/click_framework@1.18
 - pkg:maven/com.clickntap/click_framework@1.180
 - pkg:maven/com.clickntap/click_framework@1.180?classifier=sources
+- pkg:maven/com.clickntap/click_framework@1.181
+- pkg:maven/com.clickntap/click_framework@1.181?classifier=sources
 - pkg:maven/com.clickntap/click_framework@1.18?classifier=sources
 - pkg:maven/com.clickntap/click_framework@1.19
 - pkg:maven/com.clickntap/click_framework@1.19?classifier=sources

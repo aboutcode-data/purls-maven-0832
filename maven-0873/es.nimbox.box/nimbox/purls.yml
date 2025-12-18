@@ -6,3 +6,7 @@
 - pkg:maven/es.nimbox.box/nimbox@0.1.36?classifier=sources
 - pkg:maven/es.nimbox.box/nimbox@0.1.38
 - pkg:maven/es.nimbox.box/nimbox@0.1.38?classifier=sources
+- pkg:maven/es.nimbox.box/nimbox@0.1.39
+- pkg:maven/es.nimbox.box/nimbox@0.1.39?classifier=sources
+- pkg:maven/es.nimbox.box/nimbox@0.1.40
+- pkg:maven/es.nimbox.box/nimbox@0.1.40?classifier=sources

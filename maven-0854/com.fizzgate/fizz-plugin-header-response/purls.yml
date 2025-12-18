@@ -1,0 +1,2 @@
+- pkg:maven/com.fizzgate/fizz-plugin-header-response@2.5.0-beta1
+- pkg:maven/com.fizzgate/fizz-plugin-header-response@2.5.0-beta1?classifier=sources

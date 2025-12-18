@@ -4,3 +4,4 @@
 - pkg:maven/ch.bfh.unicrypt/unicrypt@2.2?classifier=sources
 - pkg:maven/ch.bfh.unicrypt/unicrypt@2.3
 - pkg:maven/ch.bfh.unicrypt/unicrypt@2.3?classifier=sources
+- pkg:maven/ch.bfh.unicrypt/unicrypt@2.4?classifier=sources

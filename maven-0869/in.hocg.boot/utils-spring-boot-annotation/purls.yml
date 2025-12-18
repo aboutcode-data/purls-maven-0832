@@ -1,0 +1,2 @@
+- pkg:maven/in.hocg.boot/utils-spring-boot-annotation@1.0.22
+- pkg:maven/in.hocg.boot/utils-spring-boot-annotation@1.0.22?classifier=sources

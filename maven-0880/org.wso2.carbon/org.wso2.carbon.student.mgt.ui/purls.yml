@@ -72,3 +72,5 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.7.0-m3
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.7.0-m4
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.7.0-m5
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.7.0-m6
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.7.0-m7

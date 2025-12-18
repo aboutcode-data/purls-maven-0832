@@ -50,3 +50,5 @@
 - pkg:maven/com.influxdb/influxdb-client-reactive@3.3.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-reactive@3.4.0
 - pkg:maven/com.influxdb/influxdb-client-reactive@3.4.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-reactive@4.0.0
+- pkg:maven/com.influxdb/influxdb-client-reactive@4.0.0?classifier=sources

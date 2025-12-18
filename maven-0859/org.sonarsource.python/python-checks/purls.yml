@@ -66,3 +66,4 @@
 - pkg:maven/org.sonarsource.python/python-checks@3.5.0.8244?classifier=sources
 - pkg:maven/org.sonarsource.python/python-checks@3.6.0.8488?classifier=sources
 - pkg:maven/org.sonarsource.python/python-checks@3.7.0.8753?classifier=sources
+- pkg:maven/org.sonarsource.python/python-checks@3.8.0.8883?classifier=sources

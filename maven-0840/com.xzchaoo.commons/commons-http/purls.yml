@@ -1,2 +1,6 @@
 - pkg:maven/com.xzchaoo.commons/commons-http@1.6.0
 - pkg:maven/com.xzchaoo.commons/commons-http@1.6.0?classifier=sources
+- pkg:maven/com.xzchaoo.commons/commons-http@1.7.0
+- pkg:maven/com.xzchaoo.commons/commons-http@1.7.0?classifier=sources
+- pkg:maven/com.xzchaoo.commons/commons-http@1.8.0
+- pkg:maven/com.xzchaoo.commons/commons-http@1.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gdxsoft.easyweb/emp-script-spring@1.1.1
+- pkg:maven/com.gdxsoft.easyweb/emp-script-spring@1.1.1?classifier=sources

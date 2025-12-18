@@ -565,6 +565,8 @@
 - pkg:maven/org.neo4j/neo4j@3.5.29?classifier=sources
 - pkg:maven/org.neo4j/neo4j@3.5.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j@3.5.3
+- pkg:maven/org.neo4j/neo4j@3.5.30
+- pkg:maven/org.neo4j/neo4j@3.5.30?classifier=sources
 - pkg:maven/org.neo4j/neo4j@3.5.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j@3.5.4
 - pkg:maven/org.neo4j/neo4j@3.5.4?classifier=sources
@@ -611,6 +613,8 @@
 - pkg:maven/org.neo4j/neo4j@4.1.1
 - pkg:maven/org.neo4j/neo4j@4.1.10
 - pkg:maven/org.neo4j/neo4j@4.1.10?classifier=sources
+- pkg:maven/org.neo4j/neo4j@4.1.11
+- pkg:maven/org.neo4j/neo4j@4.1.11?classifier=sources
 - pkg:maven/org.neo4j/neo4j@4.1.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j@4.1.2
 - pkg:maven/org.neo4j/neo4j@4.1.2?classifier=sources
@@ -635,6 +639,10 @@
 - pkg:maven/org.neo4j/neo4j@4.2.10?classifier=sources
 - pkg:maven/org.neo4j/neo4j@4.2.11
 - pkg:maven/org.neo4j/neo4j@4.2.11?classifier=sources
+- pkg:maven/org.neo4j/neo4j@4.2.12
+- pkg:maven/org.neo4j/neo4j@4.2.12?classifier=sources
+- pkg:maven/org.neo4j/neo4j@4.2.13
+- pkg:maven/org.neo4j/neo4j@4.2.13?classifier=sources
 - pkg:maven/org.neo4j/neo4j@4.2.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j@4.2.2
 - pkg:maven/org.neo4j/neo4j@4.2.2?classifier=sources
@@ -668,3 +676,13 @@
 - pkg:maven/org.neo4j/neo4j@4.3.6?classifier=sources
 - pkg:maven/org.neo4j/neo4j@4.3.7
 - pkg:maven/org.neo4j/neo4j@4.3.7?classifier=sources
+- pkg:maven/org.neo4j/neo4j@4.3.8
+- pkg:maven/org.neo4j/neo4j@4.3.8?classifier=sources
+- pkg:maven/org.neo4j/neo4j@4.3.9
+- pkg:maven/org.neo4j/neo4j@4.3.9?classifier=sources
+- pkg:maven/org.neo4j/neo4j@4.4.0
+- pkg:maven/org.neo4j/neo4j@4.4.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j@4.4.1
+- pkg:maven/org.neo4j/neo4j@4.4.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j@4.4.2
+- pkg:maven/org.neo4j/neo4j@4.4.2?classifier=sources

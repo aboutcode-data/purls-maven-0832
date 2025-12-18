@@ -1,0 +1,4 @@
+- pkg:maven/com.auiucloud/auiu-meta-cloud@1.0.0_beta
+- pkg:maven/com.auiucloud/auiu-meta-cloud@1.0.0_beta?classifier=sources
+- pkg:maven/com.auiucloud/auiu-meta-cloud@1.0.1
+- pkg:maven/com.auiucloud/auiu-meta-cloud@1.0.1?classifier=sources

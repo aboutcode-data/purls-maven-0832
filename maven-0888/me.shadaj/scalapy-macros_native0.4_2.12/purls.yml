@@ -105,4 +105,6 @@
 - pkg:maven/me.shadaj/scalapy-macros_native0.4_2.12@0.5.0%2B9-cc4b0863?classifier=sources
 - pkg:maven/me.shadaj/scalapy-macros_native0.4_2.12@0.5.0?classifier=sources
 - pkg:maven/me.shadaj/scalapy-macros_native0.4_2.12@0.5.1
+- pkg:maven/me.shadaj/scalapy-macros_native0.4_2.12@0.5.1%2B1-a19bda77
+- pkg:maven/me.shadaj/scalapy-macros_native0.4_2.12@0.5.1%2B1-a19bda77?classifier=sources
 - pkg:maven/me.shadaj/scalapy-macros_native0.4_2.12@0.5.1?classifier=sources

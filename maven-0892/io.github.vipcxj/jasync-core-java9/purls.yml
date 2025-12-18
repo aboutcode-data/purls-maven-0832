@@ -20,3 +20,5 @@
 - pkg:maven/io.github.vipcxj/jasync-core-java9@0.1.7?classifier=sources
 - pkg:maven/io.github.vipcxj/jasync-core-java9@0.1.8
 - pkg:maven/io.github.vipcxj/jasync-core-java9@0.1.8?classifier=sources
+- pkg:maven/io.github.vipcxj/jasync-core-java9@0.1.9
+- pkg:maven/io.github.vipcxj/jasync-core-java9@0.1.9?classifier=sources

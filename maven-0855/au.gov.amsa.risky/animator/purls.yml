@@ -14,3 +14,9 @@
 - pkg:maven/au.gov.amsa.risky/animator@0.6.1.2?classifier=sources
 - pkg:maven/au.gov.amsa.risky/animator@0.6.2.0
 - pkg:maven/au.gov.amsa.risky/animator@0.6.2.0?classifier=sources
+- pkg:maven/au.gov.amsa.risky/animator@0.6.3
+- pkg:maven/au.gov.amsa.risky/animator@0.6.3?classifier=sources
+- pkg:maven/au.gov.amsa.risky/animator@0.6.4
+- pkg:maven/au.gov.amsa.risky/animator@0.6.4?classifier=sources
+- pkg:maven/au.gov.amsa.risky/animator@0.6.5
+- pkg:maven/au.gov.amsa.risky/animator@0.6.5?classifier=sources

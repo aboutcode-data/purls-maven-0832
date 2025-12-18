@@ -86,3 +86,7 @@
 - pkg:maven/com.sinszm/szm-boot-web@1.0.9.RELEASE?classifier=sources
 - pkg:maven/com.sinszm/szm-boot-web@1.1.0.RELEASE
 - pkg:maven/com.sinszm/szm-boot-web@1.1.0.RELEASE?classifier=sources
+- pkg:maven/com.sinszm/szm-boot-web@1.1.1.RELEASE
+- pkg:maven/com.sinszm/szm-boot-web@1.1.1.RELEASE?classifier=sources
+- pkg:maven/com.sinszm/szm-boot-web@1.1.2.RELEASE
+- pkg:maven/com.sinszm/szm-boot-web@1.1.2.RELEASE?classifier=sources

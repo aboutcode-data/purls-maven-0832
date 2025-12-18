@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yyzsdk/Agile_ECloud_SDK@3.7.5-RELEASE
+- pkg:maven/io.github.yyzsdk/Agile_ECloud_SDK@3.7.5-RELEASE?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/org.apache.arrow/arrow-tools@5.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-tools@6.0.0
 - pkg:maven/org.apache.arrow/arrow-tools@6.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-tools@6.0.1
+- pkg:maven/org.apache.arrow/arrow-tools@6.0.1?classifier=sources

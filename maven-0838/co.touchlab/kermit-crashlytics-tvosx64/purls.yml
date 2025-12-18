@@ -2,3 +2,5 @@
 - pkg:maven/co.touchlab/kermit-crashlytics-tvosx64@1.0.0-rc2?classifier=sources
 - pkg:maven/co.touchlab/kermit-crashlytics-tvosx64@1.0.0-rc4?classifier=sources
 - pkg:maven/co.touchlab/kermit-crashlytics-tvosx64@1.0.0?classifier=sources
+- pkg:maven/co.touchlab/kermit-crashlytics-tvosx64@1.0.2?classifier=sources
+- pkg:maven/co.touchlab/kermit-crashlytics-tvosx64@1.0.3?classifier=sources

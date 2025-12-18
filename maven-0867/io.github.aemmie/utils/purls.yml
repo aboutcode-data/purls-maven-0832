@@ -1,0 +1,4 @@
+- pkg:maven/io.github.aemmie/utils@0.01
+- pkg:maven/io.github.aemmie/utils@0.01?classifier=sources
+- pkg:maven/io.github.aemmie/utils@0.02
+- pkg:maven/io.github.aemmie/utils@0.02?classifier=sources

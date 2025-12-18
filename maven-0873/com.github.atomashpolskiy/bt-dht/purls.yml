@@ -1,3 +1,5 @@
+- pkg:maven/com.github.atomashpolskiy/bt-dht@1.10
+- pkg:maven/com.github.atomashpolskiy/bt-dht@1.10?classifier=sources
 - pkg:maven/com.github.atomashpolskiy/bt-dht@1.3
 - pkg:maven/com.github.atomashpolskiy/bt-dht@1.3.1
 - pkg:maven/com.github.atomashpolskiy/bt-dht@1.3.1?classifier=sources

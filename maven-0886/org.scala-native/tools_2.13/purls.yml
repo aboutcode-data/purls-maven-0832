@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-native/tools_2.13@0.4.2
+- pkg:maven/org.scala-native/tools_2.13@0.4.2?classifier=sources

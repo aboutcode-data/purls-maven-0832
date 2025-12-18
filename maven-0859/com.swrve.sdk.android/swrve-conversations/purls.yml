@@ -41,3 +41,4 @@
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@7.6.1?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@8.0.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@9.0.0?classifier=sources
+- pkg:maven/com.swrve.sdk.android/swrve-conversations@9.1.0?classifier=sources

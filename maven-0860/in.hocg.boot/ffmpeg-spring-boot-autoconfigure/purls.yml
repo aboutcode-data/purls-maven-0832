@@ -1,0 +1,8 @@
+- pkg:maven/in.hocg.boot/ffmpeg-spring-boot-autoconfigure@1.0.19
+- pkg:maven/in.hocg.boot/ffmpeg-spring-boot-autoconfigure@1.0.19?classifier=sources
+- pkg:maven/in.hocg.boot/ffmpeg-spring-boot-autoconfigure@1.0.20
+- pkg:maven/in.hocg.boot/ffmpeg-spring-boot-autoconfigure@1.0.20?classifier=sources
+- pkg:maven/in.hocg.boot/ffmpeg-spring-boot-autoconfigure@1.0.21
+- pkg:maven/in.hocg.boot/ffmpeg-spring-boot-autoconfigure@1.0.21?classifier=sources
+- pkg:maven/in.hocg.boot/ffmpeg-spring-boot-autoconfigure@1.0.22
+- pkg:maven/in.hocg.boot/ffmpeg-spring-boot-autoconfigure@1.0.22?classifier=sources

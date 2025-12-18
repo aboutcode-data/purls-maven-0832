@@ -18,6 +18,8 @@
 - pkg:maven/org.apache.iotdb/iotdb-grafana@0.12.1?type=war
 - pkg:maven/org.apache.iotdb/iotdb-grafana@0.12.2?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-grafana@0.12.2?type=war
+- pkg:maven/org.apache.iotdb/iotdb-grafana@0.12.3?classifier=sources
+- pkg:maven/org.apache.iotdb/iotdb-grafana@0.12.3?type=war
 - pkg:maven/org.apache.iotdb/iotdb-grafana@0.8.0?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-grafana@0.8.0?type=war
 - pkg:maven/org.apache.iotdb/iotdb-grafana@0.8.1?classifier=sources

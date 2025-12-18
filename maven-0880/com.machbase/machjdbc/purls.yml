@@ -1,2 +1,4 @@
 - pkg:maven/com.machbase/machjdbc@5.5.0
 - pkg:maven/com.machbase/machjdbc@5.5.0?classifier=sources
+- pkg:maven/com.machbase/machjdbc@6.5.13
+- pkg:maven/com.machbase/machjdbc@6.5.13?classifier=sources

@@ -4,3 +4,11 @@
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.20?classifier=sources
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.21
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.21?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.22
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.22?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.23
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.23?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.24
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.24?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.26
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.26?classifier=sources

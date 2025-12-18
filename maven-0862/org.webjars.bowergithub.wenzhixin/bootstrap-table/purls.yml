@@ -26,3 +26,7 @@
 - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.18.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.18.3
 - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.18.3?classifier=sources
+- pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.19.0
+- pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.19.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.19.1
+- pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.19.1?classifier=sources

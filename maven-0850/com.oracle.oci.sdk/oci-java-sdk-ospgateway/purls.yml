@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.12.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.12.0?classifier=sources

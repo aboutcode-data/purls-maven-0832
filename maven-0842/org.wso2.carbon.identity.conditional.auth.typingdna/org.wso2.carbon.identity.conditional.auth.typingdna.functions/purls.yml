@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.functions@1.0.0
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.functions@1.0.0?classifier=sources

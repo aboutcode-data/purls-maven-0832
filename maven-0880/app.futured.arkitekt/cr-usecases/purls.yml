@@ -1,1 +1,2 @@
 - pkg:maven/app.futured.arkitekt/cr-usecases@5.0.0?classifier=sources
+- pkg:maven/app.futured.arkitekt/cr-usecases@5.1.0?classifier=sources

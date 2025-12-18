@@ -104,6 +104,10 @@
 - pkg:maven/org.eclipse.californium/californium-core@2.6.4?classifier=sources
 - pkg:maven/org.eclipse.californium/californium-core@2.6.5
 - pkg:maven/org.eclipse.californium/californium-core@2.6.5?classifier=sources
+- pkg:maven/org.eclipse.californium/californium-core@2.6.6
+- pkg:maven/org.eclipse.californium/californium-core@2.6.6?classifier=sources
+- pkg:maven/org.eclipse.californium/californium-core@2.7.0
+- pkg:maven/org.eclipse.californium/californium-core@2.7.0?classifier=sources
 - pkg:maven/org.eclipse.californium/californium-core@3.0.0
 - pkg:maven/org.eclipse.californium/californium-core@3.0.0-M1
 - pkg:maven/org.eclipse.californium/californium-core@3.0.0-M1?classifier=sources
@@ -118,3 +122,5 @@
 - pkg:maven/org.eclipse.californium/californium-core@3.0.0-RC2
 - pkg:maven/org.eclipse.californium/californium-core@3.0.0-RC2?classifier=sources
 - pkg:maven/org.eclipse.californium/californium-core@3.0.0?classifier=sources
+- pkg:maven/org.eclipse.californium/californium-core@3.1.0
+- pkg:maven/org.eclipse.californium/californium-core@3.1.0?classifier=sources

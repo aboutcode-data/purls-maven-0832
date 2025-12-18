@@ -34,3 +34,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@15.0.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@15.1.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.0.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@16.1.0?classifier=sources

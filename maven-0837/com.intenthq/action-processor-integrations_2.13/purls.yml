@@ -12,3 +12,13 @@
 - pkg:maven/com.intenthq/action-processor-integrations_2.13@3.1.1?classifier=sources
 - pkg:maven/com.intenthq/action-processor-integrations_2.13@3.2.0
 - pkg:maven/com.intenthq/action-processor-integrations_2.13@3.2.0?classifier=sources
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.0.0
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.0.0-RC1
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.0.0-RC1?classifier=sources
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.0.0?classifier=sources
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.1.0
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.1.0-RC-1
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.1.0-RC-1?classifier=sources
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.1.0-RC-2
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.1.0-RC-2?classifier=sources
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@4.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.hibernate.validator/hibernate-validator-tck-runner@6.2.1.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-tck-runner@6.2.1.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator-tck-runner@7.0.2.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-tck-runner@7.0.2.Final?classifier=sources

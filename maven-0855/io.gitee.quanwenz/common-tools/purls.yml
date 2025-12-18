@@ -7,3 +7,5 @@
 - pkg:maven/io.gitee.quanwenz/common-tools@1.0.3-20210915-1?classifier=sources
 - pkg:maven/io.gitee.quanwenz/common-tools@2.0.1-20211031-1?classifier=sources
 - pkg:maven/io.gitee.quanwenz/common-tools@2.0.1-20211031-3?classifier=sources
+- pkg:maven/io.gitee.quanwenz/common-tools@2.0.2-20211206-1?classifier=sources
+- pkg:maven/io.gitee.quanwenz/common-tools@2.0.2-20211213-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/asyncapi__parser@1.13.1
+- pkg:maven/org.webjars.npm/asyncapi__parser@1.13.1?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/com.github.tianjing/tgtools.activiti.explorer@5.22.0.14?classifier=sources
 - pkg:maven/com.github.tianjing/tgtools.activiti.explorer@5.22.0.15
 - pkg:maven/com.github.tianjing/tgtools.activiti.explorer@5.22.0.15?classifier=sources
+- pkg:maven/com.github.tianjing/tgtools.activiti.explorer@5.22.0.16
+- pkg:maven/com.github.tianjing/tgtools.activiti.explorer@5.22.0.16?classifier=sources
 - pkg:maven/com.github.tianjing/tgtools.activiti.explorer@5.22.0.8
 - pkg:maven/com.github.tianjing/tgtools.activiti.explorer@5.22.0.8?classifier=sources
 - pkg:maven/com.github.tianjing/tgtools.activiti.explorer@5.22.0.9

@@ -40,3 +40,9 @@
 - pkg:maven/org.wildfly/wildfly-preview-dist@25.0.1.Final?classifier=src&type=tar.gz
 - pkg:maven/org.wildfly/wildfly-preview-dist@25.0.1.Final?classifier=src&type=zip
 - pkg:maven/org.wildfly/wildfly-preview-dist@25.0.1.Final?type=zip
+- pkg:maven/org.wildfly/wildfly-preview-dist@26.0.0.Beta1?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-preview-dist@26.0.0.Beta1?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-preview-dist@26.0.0.Beta1?type=zip
+- pkg:maven/org.wildfly/wildfly-preview-dist@26.0.0.Final?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-preview-dist@26.0.0.Final?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-preview-dist@26.0.0.Final?type=zip

@@ -217,6 +217,8 @@
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.32?classifier=sources
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.33
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.33?classifier=sources
+- pkg:maven/org.jpmml/jpmml-sklearn@1.6.34
+- pkg:maven/org.jpmml/jpmml-sklearn@1.6.34?classifier=sources
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.3?classifier=sources
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.4
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.4?classifier=sources
