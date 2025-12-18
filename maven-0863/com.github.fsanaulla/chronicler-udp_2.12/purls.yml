@@ -72,3 +72,5 @@
 - pkg:maven/com.github.fsanaulla/chronicler-udp_2.12@0.6.7?classifier=sources
 - pkg:maven/com.github.fsanaulla/chronicler-udp_2.12@0.6.8
 - pkg:maven/com.github.fsanaulla/chronicler-udp_2.12@0.6.8?classifier=sources
+- pkg:maven/com.github.fsanaulla/chronicler-udp_2.12@0.6.9
+- pkg:maven/com.github.fsanaulla/chronicler-udp_2.12@0.6.9?classifier=sources

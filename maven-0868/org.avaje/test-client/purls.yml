@@ -1,0 +1,2 @@
+- pkg:maven/org.avaje/test-client@1.12
+- pkg:maven/org.avaje/test-client@1.12?classifier=sources

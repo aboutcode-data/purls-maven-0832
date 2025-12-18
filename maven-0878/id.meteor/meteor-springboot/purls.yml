@@ -6,3 +6,5 @@
 - pkg:maven/id.meteor/meteor-springboot@0.0.6?classifier=sources
 - pkg:maven/id.meteor/meteor-springboot@0.0.7?classifier=sources
 - pkg:maven/id.meteor/meteor-springboot@0.0.8?classifier=sources
+- pkg:maven/id.meteor/meteor-springboot@0.0.9?classifier=sources
+- pkg:maven/id.meteor/meteor-springboot@1.0.0?classifier=sources

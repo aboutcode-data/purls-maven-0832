@@ -1,0 +1,5 @@
+- pkg:maven/com.paytabs/pt-test-sdk@6.2.0-beta03?type=aar
+- pkg:maven/com.paytabs/pt-test-sdk@6.2.2-beta01?type=aar
+- pkg:maven/com.paytabs/pt-test-sdk@6.2.2-beta02?type=aar
+- pkg:maven/com.paytabs/pt-test-sdk@6.2.2-beta03?type=aar
+- pkg:maven/com.paytabs/pt-test-sdk@6.2.2-beta04?type=aar

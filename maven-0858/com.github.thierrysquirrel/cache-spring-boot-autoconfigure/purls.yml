@@ -32,3 +32,7 @@
 - pkg:maven/com.github.thierrysquirrel/cache-spring-boot-autoconfigure@1.2.0.5-RELEASE?classifier=sources
 - pkg:maven/com.github.thierrysquirrel/cache-spring-boot-autoconfigure@1.2.0.6-RELEASE
 - pkg:maven/com.github.thierrysquirrel/cache-spring-boot-autoconfigure@1.2.0.6-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/cache-spring-boot-autoconfigure@1.2.0.7-RELEASE
+- pkg:maven/com.github.thierrysquirrel/cache-spring-boot-autoconfigure@1.2.0.7-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/cache-spring-boot-autoconfigure@1.2.0.8-RELEASE
+- pkg:maven/com.github.thierrysquirrel/cache-spring-boot-autoconfigure@1.2.0.8-RELEASE?classifier=sources

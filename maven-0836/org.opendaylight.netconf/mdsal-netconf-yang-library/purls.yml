@@ -18,6 +18,7 @@
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@1.13.3?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@1.13.4
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@1.13.4?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@1.13.5?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@1.2.0-Carbon
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@1.2.0-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@1.2.1-Carbon
@@ -102,3 +103,9 @@
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@2.0.2?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@2.0.3
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@2.0.3?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@2.0.4?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@2.0.5?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@2.0.6?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@2.0.7?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@2.0.8
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@2.0.8?classifier=sources

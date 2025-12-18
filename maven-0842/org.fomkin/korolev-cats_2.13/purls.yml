@@ -32,3 +32,5 @@
 - pkg:maven/org.fomkin/korolev-cats_2.13@1.0.0-RC2
 - pkg:maven/org.fomkin/korolev-cats_2.13@1.0.0-RC2?classifier=sources
 - pkg:maven/org.fomkin/korolev-cats_2.13@1.0.0?classifier=sources
+- pkg:maven/org.fomkin/korolev-cats_2.13@1.0.1
+- pkg:maven/org.fomkin/korolev-cats_2.13@1.0.1?classifier=sources

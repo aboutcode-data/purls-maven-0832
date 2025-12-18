@@ -1,0 +1,8 @@
+- pkg:maven/software.amazon.awscdk/neptune-alpha@2.0.0-alpha.2
+- pkg:maven/software.amazon.awscdk/neptune-alpha@2.0.0-alpha.2?classifier=sources
+- pkg:maven/software.amazon.awscdk/neptune-alpha@2.0.0-alpha.3
+- pkg:maven/software.amazon.awscdk/neptune-alpha@2.0.0-alpha.3?classifier=sources
+- pkg:maven/software.amazon.awscdk/neptune-alpha@2.0.0-alpha.4
+- pkg:maven/software.amazon.awscdk/neptune-alpha@2.0.0-alpha.4?classifier=sources
+- pkg:maven/software.amazon.awscdk/neptune-alpha@2.0.0-rc.24
+- pkg:maven/software.amazon.awscdk/neptune-alpha@2.0.0-rc.24?classifier=sources

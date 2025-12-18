@@ -1,0 +1,2 @@
+- pkg:maven/io.sentry/sentry-jdbc@5.3.0
+- pkg:maven/io.sentry/sentry-jdbc@5.3.0?classifier=sources

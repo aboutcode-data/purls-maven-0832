@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/jscad__json-deserializer@2.0.10
+- pkg:maven/org.webjars.npm/jscad__json-deserializer@2.0.10?classifier=sources
+- pkg:maven/org.webjars.npm/jscad__json-deserializer@2.0.11
+- pkg:maven/org.webjars.npm/jscad__json-deserializer@2.0.11?classifier=sources
+- pkg:maven/org.webjars.npm/jscad__json-deserializer@2.0.9
+- pkg:maven/org.webjars.npm/jscad__json-deserializer@2.0.9?classifier=sources

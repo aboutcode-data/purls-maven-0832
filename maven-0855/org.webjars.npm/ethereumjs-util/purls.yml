@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/ethereumjs-util@5.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/ethereumjs-util@7.1.0
 - pkg:maven/org.webjars.npm/ethereumjs-util@7.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/ethereumjs-util@7.1.2
+- pkg:maven/org.webjars.npm/ethereumjs-util@7.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/ethereumjs-util@7.1.3
+- pkg:maven/org.webjars.npm/ethereumjs-util@7.1.3?classifier=sources

@@ -8,3 +8,9 @@
 - pkg:maven/cz.pumpitup.pn5/http-remote-client-2@0.4.27?classifier=sources
 - pkg:maven/cz.pumpitup.pn5/http-remote-client-2@0.4.28
 - pkg:maven/cz.pumpitup.pn5/http-remote-client-2@0.4.28?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/http-remote-client-2@0.4.29
+- pkg:maven/cz.pumpitup.pn5/http-remote-client-2@0.4.29?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/http-remote-client-2@0.4.30
+- pkg:maven/cz.pumpitup.pn5/http-remote-client-2@0.4.30?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/http-remote-client-2@0.4.31
+- pkg:maven/cz.pumpitup.pn5/http-remote-client-2@0.4.31?classifier=sources

@@ -3,6 +3,8 @@
 - pkg:maven/xyz.wc1950/chis4cloud-api-system@3.1.0
 - pkg:maven/xyz.wc1950/chis4cloud-api-system@3.1.0?classifier=sources
 - pkg:maven/xyz.wc1950/chis4cloud-api-system@3.2.0
+- pkg:maven/xyz.wc1950/chis4cloud-api-system@3.2.0.1.RY
+- pkg:maven/xyz.wc1950/chis4cloud-api-system@3.2.0.1.RY?classifier=sources
 - pkg:maven/xyz.wc1950/chis4cloud-api-system@3.2.0.RY
 - pkg:maven/xyz.wc1950/chis4cloud-api-system@3.2.0.RY?classifier=sources
 - pkg:maven/xyz.wc1950/chis4cloud-api-system@3.2.0?classifier=sources

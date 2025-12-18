@@ -1,2 +1,4 @@
 - pkg:maven/com.ibm.cloud/cis-range-applications@0.21.3
 - pkg:maven/com.ibm.cloud/cis-range-applications@0.21.3?classifier=sources
+- pkg:maven/com.ibm.cloud/cis-range-applications@0.22.3
+- pkg:maven/com.ibm.cloud/cis-range-applications@0.22.3?classifier=sources

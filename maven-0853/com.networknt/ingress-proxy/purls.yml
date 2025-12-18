@@ -4,3 +4,7 @@
 - pkg:maven/com.networknt/ingress-proxy@2.0.29?classifier=sources
 - pkg:maven/com.networknt/ingress-proxy@2.0.30
 - pkg:maven/com.networknt/ingress-proxy@2.0.30?classifier=sources
+- pkg:maven/com.networknt/ingress-proxy@2.0.31
+- pkg:maven/com.networknt/ingress-proxy@2.0.31?classifier=sources
+- pkg:maven/com.networknt/ingress-proxy@2.0.32
+- pkg:maven/com.networknt/ingress-proxy@2.0.32?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.abiquo/draas-plugin-model@5.2.1?classifier=sources
 - pkg:maven/com.abiquo/draas-plugin-model@5.3.0
 - pkg:maven/com.abiquo/draas-plugin-model@5.3.0?classifier=sources
+- pkg:maven/com.abiquo/draas-plugin-model@5.4.0
+- pkg:maven/com.abiquo/draas-plugin-model@5.4.0?classifier=sources

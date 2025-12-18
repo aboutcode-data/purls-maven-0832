@@ -16,3 +16,6 @@
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.6-ib
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.6-ib?classifier=source-release&type=zip
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.6-ib?classifier=sources
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.8-ib
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.8-ib?classifier=source-release&type=zip
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.8-ib?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp2?classifier=sources
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp3
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp3?classifier=sources
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp4
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp4?classifier=sources

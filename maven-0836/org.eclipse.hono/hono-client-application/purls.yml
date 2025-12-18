@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.hono/hono-client-application@1.10.0
+- pkg:maven/org.eclipse.hono/hono-client-application@1.10.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-application@1.7.0
 - pkg:maven/org.eclipse.hono/hono-client-application@1.7.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-application@1.7.1

@@ -1,0 +1,2 @@
+- pkg:maven/nl.basjes.parse.useragent/yauaa-snowflake@6.2
+- pkg:maven/nl.basjes.parse.useragent/yauaa-snowflake@6.2?classifier=sources

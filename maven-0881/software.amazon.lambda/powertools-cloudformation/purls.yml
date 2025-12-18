@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.lambda/powertools-cloudformation@1.8.0
+- pkg:maven/software.amazon.lambda/powertools-cloudformation@1.8.0?classifier=sources

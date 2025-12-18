@@ -21,3 +21,6 @@
 - pkg:maven/ai.tock/tock-nlp-integration-tests@21.3.3
 - pkg:maven/ai.tock/tock-nlp-integration-tests@21.3.4
 - pkg:maven/ai.tock/tock-nlp-integration-tests@21.3.5
+- pkg:maven/ai.tock/tock-nlp-integration-tests@21.9.0
+- pkg:maven/ai.tock/tock-nlp-integration-tests@21.9.1
+- pkg:maven/ai.tock/tock-nlp-integration-tests@21.9.2

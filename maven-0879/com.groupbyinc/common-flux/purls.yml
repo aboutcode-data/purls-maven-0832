@@ -160,6 +160,8 @@
 - pkg:maven/com.groupbyinc/common-flux@193?classifier=sources
 - pkg:maven/com.groupbyinc/common-flux@194
 - pkg:maven/com.groupbyinc/common-flux@194?classifier=sources
+- pkg:maven/com.groupbyinc/common-flux@195
+- pkg:maven/com.groupbyinc/common-flux@195?classifier=sources
 - pkg:maven/com.groupbyinc/common-flux@47
 - pkg:maven/com.groupbyinc/common-flux@47?classifier=sources
 - pkg:maven/com.groupbyinc/common-flux@48

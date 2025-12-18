@@ -102,6 +102,14 @@
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.52.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.53.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.53.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.54.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.54.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.55.1
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.55.1?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.56.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.56.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.57.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.57.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.6.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.6.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-connectivity@3.7.0

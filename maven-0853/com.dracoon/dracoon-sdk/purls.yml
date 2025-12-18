@@ -32,3 +32,5 @@
 - pkg:maven/com.dracoon/dracoon-sdk@2.3.0-beta1?classifier=sources
 - pkg:maven/com.dracoon/dracoon-sdk@2.4.0-beta1
 - pkg:maven/com.dracoon/dracoon-sdk@2.4.0-beta1?classifier=sources
+- pkg:maven/com.dracoon/dracoon-sdk@2.5.0
+- pkg:maven/com.dracoon/dracoon-sdk@2.5.0?classifier=sources

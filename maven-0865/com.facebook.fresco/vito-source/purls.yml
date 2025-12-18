@@ -1,1 +1,2 @@
 - pkg:maven/com.facebook.fresco/vito-source@2.5.0-alpha?classifier=sources
+- pkg:maven/com.facebook.fresco/vito-source@2.6.0-alpha?classifier=sources

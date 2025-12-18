@@ -1,2 +1,6 @@
 - pkg:maven/com.ejlchina/jsonkit-jackson@1.0.0
 - pkg:maven/com.ejlchina/jsonkit-jackson@1.0.0?classifier=sources
+- pkg:maven/com.ejlchina/jsonkit-jackson@1.1.0
+- pkg:maven/com.ejlchina/jsonkit-jackson@1.1.0?classifier=sources
+- pkg:maven/com.ejlchina/jsonkit-jackson@1.1.1
+- pkg:maven/com.ejlchina/jsonkit-jackson@1.1.1?classifier=sources

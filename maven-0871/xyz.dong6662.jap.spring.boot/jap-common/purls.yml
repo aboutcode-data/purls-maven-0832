@@ -1,0 +1,4 @@
+- pkg:maven/xyz.dong6662.jap.spring.boot/jap-common@0.0.1
+- pkg:maven/xyz.dong6662.jap.spring.boot/jap-common@0.0.1?classifier=sources
+- pkg:maven/xyz.dong6662.jap.spring.boot/jap-common@1.0.0
+- pkg:maven/xyz.dong6662.jap.spring.boot/jap-common@1.0.0?classifier=sources

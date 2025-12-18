@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.graphql.examples/dgs-spring-boot@1.4.0
+- pkg:maven/org.neo4j.graphql.examples/dgs-spring-boot@1.4.0?classifier=sources

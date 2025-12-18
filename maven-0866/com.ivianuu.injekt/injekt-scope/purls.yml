@@ -17,3 +17,6 @@
 - pkg:maven/com.ivianuu.injekt/injekt-scope@0.0.1-dev597?classifier=sources
 - pkg:maven/com.ivianuu.injekt/injekt-scope@0.0.1-dev598?classifier=sources
 - pkg:maven/com.ivianuu.injekt/injekt-scope@0.0.1-dev611?classifier=sources
+- pkg:maven/com.ivianuu.injekt/injekt-scope@0.0.1-dev612?classifier=sources
+- pkg:maven/com.ivianuu.injekt/injekt-scope@0.0.1-dev613?classifier=sources
+- pkg:maven/com.ivianuu.injekt/injekt-scope@0.0.1-dev615?classifier=sources

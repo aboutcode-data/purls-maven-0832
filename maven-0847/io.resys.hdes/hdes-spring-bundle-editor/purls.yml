@@ -52,3 +52,9 @@
 - pkg:maven/io.resys.hdes/hdes-spring-bundle-editor@3.0.8?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-spring-bundle-editor@3.0.9
 - pkg:maven/io.resys.hdes/hdes-spring-bundle-editor@3.0.9?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-spring-bundle-editor@3.1.2
+- pkg:maven/io.resys.hdes/hdes-spring-bundle-editor@3.1.2?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-spring-bundle-editor@3.1.3
+- pkg:maven/io.resys.hdes/hdes-spring-bundle-editor@3.1.3?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-spring-bundle-editor@3.1.4
+- pkg:maven/io.resys.hdes/hdes-spring-bundle-editor@3.1.4?classifier=sources

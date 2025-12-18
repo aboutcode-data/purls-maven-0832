@@ -1,0 +1,2 @@
+- pkg:maven/org.jitsi/libjitsi@1.1-0-g19f651af
+- pkg:maven/org.jitsi/libjitsi@1.1-0-g19f651af?classifier=sources

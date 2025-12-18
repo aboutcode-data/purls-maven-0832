@@ -1,0 +1,2 @@
+- pkg:maven/io.arkitik.tracker/tracker-core@v1.0.0
+- pkg:maven/io.arkitik.tracker/tracker-core@v1.0.0?classifier=sources

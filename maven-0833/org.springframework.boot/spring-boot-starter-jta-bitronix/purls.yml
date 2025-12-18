@@ -188,6 +188,8 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-jta-bitronix@2.3.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-jta-bitronix@2.4.0?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-jta-bitronix@2.4.10?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-jta-bitronix@2.4.11?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-jta-bitronix@2.4.12?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-jta-bitronix@2.4.1?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-jta-bitronix@2.4.2?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-jta-bitronix@2.4.3?classifier=sources

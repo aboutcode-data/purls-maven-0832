@@ -1,0 +1,2 @@
+- pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.70.Final
+- pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.70.Final?classifier=sources

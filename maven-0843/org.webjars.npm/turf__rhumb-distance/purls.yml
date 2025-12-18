@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/turf__rhumb-distance@5.1.5?classifier=sources
 - pkg:maven/org.webjars.npm/turf__rhumb-distance@6.0.1
 - pkg:maven/org.webjars.npm/turf__rhumb-distance@6.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/turf__rhumb-distance@6.5.0
+- pkg:maven/org.webjars.npm/turf__rhumb-distance@6.5.0?classifier=sources

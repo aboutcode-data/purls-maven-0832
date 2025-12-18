@@ -48,3 +48,7 @@
 - pkg:maven/sh.ory.keto/keto-client@0.5.7-alpha.1.pre.0?classifier=sources
 - pkg:maven/sh.ory.keto/keto-client@0.6.0-alpha.6
 - pkg:maven/sh.ory.keto/keto-client@0.6.0-alpha.6?classifier=sources
+- pkg:maven/sh.ory.keto/keto-client@0.7.0-alpha.0
+- pkg:maven/sh.ory.keto/keto-client@0.7.0-alpha.0?classifier=sources
+- pkg:maven/sh.ory.keto/keto-client@0.7.0-alpha.1
+- pkg:maven/sh.ory.keto/keto-client@0.7.0-alpha.1?classifier=sources

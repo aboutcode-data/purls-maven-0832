@@ -28,6 +28,8 @@
 - pkg:maven/com.twitter/finagle-serversets_2.13@20.9.0?classifier=sources
 - pkg:maven/com.twitter/finagle-serversets_2.13@21.1.0
 - pkg:maven/com.twitter/finagle-serversets_2.13@21.1.0?classifier=sources
+- pkg:maven/com.twitter/finagle-serversets_2.13@21.10.0
+- pkg:maven/com.twitter/finagle-serversets_2.13@21.10.0?classifier=sources
 - pkg:maven/com.twitter/finagle-serversets_2.13@21.2.0
 - pkg:maven/com.twitter/finagle-serversets_2.13@21.2.0?classifier=sources
 - pkg:maven/com.twitter/finagle-serversets_2.13@21.3.0
@@ -40,3 +42,5 @@
 - pkg:maven/com.twitter/finagle-serversets_2.13@21.6.0?classifier=sources
 - pkg:maven/com.twitter/finagle-serversets_2.13@21.8.0
 - pkg:maven/com.twitter/finagle-serversets_2.13@21.8.0?classifier=sources
+- pkg:maven/com.twitter/finagle-serversets_2.13@21.9.0
+- pkg:maven/com.twitter/finagle-serversets_2.13@21.9.0?classifier=sources

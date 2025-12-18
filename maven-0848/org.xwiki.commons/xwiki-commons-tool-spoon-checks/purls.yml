@@ -1,5 +1,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@12.10
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@12.10.1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@12.10.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@12.10.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@12.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@12.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@12.10.2?classifier=sources
@@ -91,6 +93,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.4.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.4.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.4.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.4.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.4.4?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.4.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.4.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.5
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.5-rc-1
@@ -104,3 +110,11 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.7-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.7-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.7?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.8
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.8-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.8-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.8?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.9
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.9-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.9-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.9?classifier=sources

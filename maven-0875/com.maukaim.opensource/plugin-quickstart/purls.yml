@@ -1,0 +1,4 @@
+- pkg:maven/com.maukaim.opensource/plugin-quickstart@1.0.10?classifier=sources
+- pkg:maven/com.maukaim.opensource/plugin-quickstart@1.0.11?classifier=sources
+- pkg:maven/com.maukaim.opensource/plugin-quickstart@1.0.61?classifier=sources
+- pkg:maven/com.maukaim.opensource/plugin-quickstart@1.0.9?classifier=sources

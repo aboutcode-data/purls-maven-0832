@@ -6,6 +6,8 @@
 - pkg:maven/org.opencastproject/opencast-dublincore@10.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@10.3
 - pkg:maven/org.opencastproject/opencast-dublincore@10.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-dublincore@10.4
+- pkg:maven/org.opencastproject/opencast-dublincore@10.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@6.6
 - pkg:maven/org.opencastproject/opencast-dublincore@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@7.2
@@ -62,3 +64,5 @@
 - pkg:maven/org.opencastproject/opencast-dublincore@9.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@9.7
 - pkg:maven/org.opencastproject/opencast-dublincore@9.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-dublincore@9.9
+- pkg:maven/org.opencastproject/opencast-dublincore@9.9?classifier=sources

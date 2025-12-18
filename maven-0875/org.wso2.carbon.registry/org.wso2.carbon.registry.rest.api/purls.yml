@@ -102,3 +102,13 @@
 - pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.40?type=war
 - pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.41?classifier=sources
 - pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.41?type=war
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.42?classifier=sources
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.42?type=war
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.43?classifier=sources
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.43?type=war
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.44?classifier=sources
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.44?type=war
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.45?classifier=sources
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.45?type=war
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.46?classifier=sources
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.rest.api@4.7.46?type=war

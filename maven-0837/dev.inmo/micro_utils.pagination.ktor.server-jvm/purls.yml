@@ -31,7 +31,11 @@
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.25?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.26?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.27?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.28?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.29?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.30?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.31?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.3?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.4?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.5?classifier=sources
@@ -39,3 +43,10 @@
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.7?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.8?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.5.9?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.6.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.7.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.7.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.7.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.7.3?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.7.4?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.8.0?classifier=sources

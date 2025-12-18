@@ -10,3 +10,15 @@
 - pkg:maven/me.zalo/sdk-analytics@2.6.0808F?type=aar
 - pkg:maven/me.zalo/sdk-analytics@2.6.0809?classifier=sources
 - pkg:maven/me.zalo/sdk-analytics@2.6.0809?type=aar
+- pkg:maven/me.zalo/sdk-analytics@4.0.1014?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@4.0.1014?type=aar
+- pkg:maven/me.zalo/sdk-analytics@4.0.1014test2?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@4.0.1014test2?type=aar
+- pkg:maven/me.zalo/sdk-analytics@4.0.1014test3?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@4.0.1014test3?type=aar
+- pkg:maven/me.zalo/sdk-analytics@4.0.1015?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@4.0.1015?type=aar
+- pkg:maven/me.zalo/sdk-analytics@4.0.1019?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@4.0.1019?type=aar
+- pkg:maven/me.zalo/sdk-analytics@4.0.1020?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@4.0.1020?type=aar

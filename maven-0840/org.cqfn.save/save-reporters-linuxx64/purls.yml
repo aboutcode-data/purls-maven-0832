@@ -1,3 +1,7 @@
 - pkg:maven/org.cqfn.save/save-reporters-linuxx64@0.1.0-rc.1?classifier=sources
 - pkg:maven/org.cqfn.save/save-reporters-linuxx64@0.1.0?classifier=sources
 - pkg:maven/org.cqfn.save/save-reporters-linuxx64@0.1.1?classifier=sources
+- pkg:maven/org.cqfn.save/save-reporters-linuxx64@0.2.0?classifier=sources
+- pkg:maven/org.cqfn.save/save-reporters-linuxx64@0.2.1?classifier=sources
+- pkg:maven/org.cqfn.save/save-reporters-linuxx64@0.2.2?classifier=sources
+- pkg:maven/org.cqfn.save/save-reporters-linuxx64@0.2.3?classifier=sources

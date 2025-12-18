@@ -78,6 +78,12 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.20.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.21.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.21.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.22.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.22.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.23.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.23.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.23.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.23.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.4.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.4.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-edas@3.5.0

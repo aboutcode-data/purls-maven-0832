@@ -9,3 +9,6 @@
 - pkg:maven/io.trino/trino-resource-group-managers@359?classifier=sources
 - pkg:maven/io.trino/trino-resource-group-managers@360?classifier=sources
 - pkg:maven/io.trino/trino-resource-group-managers@361?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@362?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@363?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@364?classifier=sources

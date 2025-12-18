@@ -54,6 +54,8 @@
 - pkg:maven/io.github.openfeign/feign-sax@11.5?classifier=sources
 - pkg:maven/io.github.openfeign/feign-sax@11.6
 - pkg:maven/io.github.openfeign/feign-sax@11.6?classifier=sources
+- pkg:maven/io.github.openfeign/feign-sax@11.7
+- pkg:maven/io.github.openfeign/feign-sax@11.7?classifier=sources
 - pkg:maven/io.github.openfeign/feign-sax@9.0.0
 - pkg:maven/io.github.openfeign/feign-sax@9.0.0?classifier=sources
 - pkg:maven/io.github.openfeign/feign-sax@9.1.0

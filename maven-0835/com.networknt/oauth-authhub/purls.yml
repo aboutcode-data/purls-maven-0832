@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/oauth-authhub@2.0.31
+- pkg:maven/com.networknt/oauth-authhub@2.0.31?classifier=sources

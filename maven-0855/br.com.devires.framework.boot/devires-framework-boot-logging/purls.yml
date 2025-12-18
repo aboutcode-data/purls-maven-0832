@@ -1,0 +1,2 @@
+- pkg:maven/br.com.devires.framework.boot/devires-framework-boot-logging@1.0.0?classifier=sources
+- pkg:maven/br.com.devires.framework.boot/devires-framework-boot-logging@1.0.1?classifier=sources

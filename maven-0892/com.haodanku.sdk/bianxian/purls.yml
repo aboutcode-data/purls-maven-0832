@@ -1,5 +1,9 @@
 - pkg:maven/com.haodanku.sdk/bianxian@1.0.0?classifier=sources
+- pkg:maven/com.haodanku.sdk/bianxian@1.0.10?classifier=sources
 - pkg:maven/com.haodanku.sdk/bianxian@1.0.1?classifier=sources
 - pkg:maven/com.haodanku.sdk/bianxian@1.0.2?classifier=sources
 - pkg:maven/com.haodanku.sdk/bianxian@1.0.5?classifier=sources
 - pkg:maven/com.haodanku.sdk/bianxian@1.0.6?classifier=sources
+- pkg:maven/com.haodanku.sdk/bianxian@1.0.7?classifier=sources
+- pkg:maven/com.haodanku.sdk/bianxian@1.0.8?classifier=sources
+- pkg:maven/com.haodanku.sdk/bianxian@1.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.northdata.client/france-insee-api@3.9
+- pkg:maven/com.northdata.client/france-insee-api@3.9?classifier=sources

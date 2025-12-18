@@ -1,3 +1,4 @@
+- pkg:maven/org.zalando/riptide-micrometer@3.0.0
 - pkg:maven/org.zalando/riptide-micrometer@3.0.0-RC.10
 - pkg:maven/org.zalando/riptide-micrometer@3.0.0-RC.10?classifier=sources
 - pkg:maven/org.zalando/riptide-micrometer@3.0.0-RC.11
@@ -26,3 +27,4 @@
 - pkg:maven/org.zalando/riptide-micrometer@3.0.0-RC.8?classifier=sources
 - pkg:maven/org.zalando/riptide-micrometer@3.0.0-RC.9
 - pkg:maven/org.zalando/riptide-micrometer@3.0.0-RC.9?classifier=sources
+- pkg:maven/org.zalando/riptide-micrometer@3.0.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-24-b4a313e0
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-24-b4a313e0?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-27-65476446
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-27-65476446?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-28-60dca3cf
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-28-60dca3cf?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-29-d9c16e33
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-29-d9c16e33?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-30-5fe6da56
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-30-5fe6da56?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-31-ba6214b1
+- pkg:maven/com.lihaoyi/ammonite-compiler_2.13.7@2.4.0-31-ba6214b1?classifier=sources

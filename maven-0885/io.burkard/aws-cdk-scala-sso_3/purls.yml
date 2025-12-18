@@ -1,0 +1,2 @@
+- pkg:maven/io.burkard/aws-cdk-scala-sso_3@0.1.2
+- pkg:maven/io.burkard/aws-cdk-scala-sso_3@0.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ru.tinkoff.top/camunda-delegator-spring-boot-starter@5.0.8?classifier=sources
+- pkg:maven/ru.tinkoff.top/camunda-delegator-spring-boot-starter@5.0.9?classifier=sources

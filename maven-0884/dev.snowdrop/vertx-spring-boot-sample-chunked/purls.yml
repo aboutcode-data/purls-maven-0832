@@ -10,3 +10,7 @@
 - pkg:maven/dev.snowdrop/vertx-spring-boot-sample-chunked@1.2.1.Beta2
 - pkg:maven/dev.snowdrop/vertx-spring-boot-sample-chunked@1.2.1.Beta2?classifier=sources
 - pkg:maven/dev.snowdrop/vertx-spring-boot-sample-chunked@1.2.1?classifier=sources
+- pkg:maven/dev.snowdrop/vertx-spring-boot-sample-chunked@1.2.2
+- pkg:maven/dev.snowdrop/vertx-spring-boot-sample-chunked@1.2.2.Alpha1
+- pkg:maven/dev.snowdrop/vertx-spring-boot-sample-chunked@1.2.2.Alpha1?classifier=sources
+- pkg:maven/dev.snowdrop/vertx-spring-boot-sample-chunked@1.2.2?classifier=sources

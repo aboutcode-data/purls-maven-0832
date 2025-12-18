@@ -1,1 +1,4 @@
 - pkg:maven/icu.easyj.boot/easyj-spring-boot-starter-sdk-dwz-s3@0.1.8
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-starter-sdk-dwz-s3@0.1.9
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-starter-sdk-dwz-s3@0.2.0
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-starter-sdk-dwz-s3@0.2.1

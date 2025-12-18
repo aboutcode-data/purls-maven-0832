@@ -74,6 +74,7 @@
 - pkg:maven/org.biojava/biojava-ontology@5.3.0?classifier=sources
 - pkg:maven/org.biojava/biojava-ontology@5.4.0
 - pkg:maven/org.biojava/biojava-ontology@5.4.0?classifier=sources
+- pkg:maven/org.biojava/biojava-ontology@6.0.0
 - pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha1
 - pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha1?classifier=sources
 - pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha2
@@ -82,3 +83,12 @@
 - pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha3?classifier=sources
 - pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha4
 - pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha4?classifier=sources
+- pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha5
+- pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha5?classifier=sources
+- pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha6
+- pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha6?classifier=sources
+- pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha7
+- pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha7?classifier=sources
+- pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha8
+- pkg:maven/org.biojava/biojava-ontology@6.0.0-alpha8?classifier=sources
+- pkg:maven/org.biojava/biojava-ontology@6.0.0?classifier=sources

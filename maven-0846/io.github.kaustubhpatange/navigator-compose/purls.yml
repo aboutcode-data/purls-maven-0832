@@ -22,3 +22,7 @@
 - pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha20-SNAPSHOT-b5fa2fa?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha20?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha21?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha22?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha23?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha24?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha25?classifier=sources

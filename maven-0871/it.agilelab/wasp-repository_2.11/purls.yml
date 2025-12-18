@@ -1,0 +1,6 @@
+- pkg:maven/it.agilelab/wasp-repository_2.11@2.27.0
+- pkg:maven/it.agilelab/wasp-repository_2.11@2.27.0-cdh6
+- pkg:maven/it.agilelab/wasp-repository_2.11@2.27.0-cdh6?classifier=sources
+- pkg:maven/it.agilelab/wasp-repository_2.11@2.27.0-cdp717
+- pkg:maven/it.agilelab/wasp-repository_2.11@2.27.0-cdp717?classifier=sources
+- pkg:maven/it.agilelab/wasp-repository_2.11@2.27.0?classifier=sources

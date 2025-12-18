@@ -4,6 +4,8 @@
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.0.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.1.0
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.1.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.10.0
+- pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.10.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.2.0
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.2.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.3.0
@@ -18,3 +20,5 @@
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.7.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.8.0
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.8.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.9.0
+- pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-test@2.9.0?classifier=sources

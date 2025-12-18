@@ -30,3 +30,9 @@
 - pkg:maven/com.immomo.momomedia/effect@2.3.1-20210828200700?type=aar
 - pkg:maven/com.immomo.momomedia/effect@2.3.1-20210913161101?classifier=sources
 - pkg:maven/com.immomo.momomedia/effect@2.3.1-20210913161101?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20211108151201?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20211108151201?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.4.1-20210929000001?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.4.1-20210929000001?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.4.1-20211011000001?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.4.1-20211011000001?type=aar

@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/jscad__amf-serializer@2.0.10
+- pkg:maven/org.webjars.npm/jscad__amf-serializer@2.0.10?classifier=sources
+- pkg:maven/org.webjars.npm/jscad__amf-serializer@2.0.9
+- pkg:maven/org.webjars.npm/jscad__amf-serializer@2.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/jscad__amf-serializer@2.1.0
+- pkg:maven/org.webjars.npm/jscad__amf-serializer@2.1.0?classifier=sources

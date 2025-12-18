@@ -1,2 +1,4 @@
 - pkg:maven/io.github.thehonesttech/zio-entity-postgres_2.13@0.0.20
 - pkg:maven/io.github.thehonesttech/zio-entity-postgres_2.13@0.0.20?classifier=sources
+- pkg:maven/io.github.thehonesttech/zio-entity-postgres_2.13@0.0.26
+- pkg:maven/io.github.thehonesttech/zio-entity-postgres_2.13@0.0.26?classifier=sources

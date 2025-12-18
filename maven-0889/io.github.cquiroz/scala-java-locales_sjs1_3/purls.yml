@@ -1,3 +1,5 @@
+- pkg:maven/io.github.cquiroz/scala-java-locales_sjs1_3@0.7.0
+- pkg:maven/io.github.cquiroz/scala-java-locales_sjs1_3@0.7.0?classifier=sources
 - pkg:maven/io.github.cquiroz/scala-java-locales_sjs1_3@1.2.0
 - pkg:maven/io.github.cquiroz/scala-java-locales_sjs1_3@1.2.0?classifier=sources
 - pkg:maven/io.github.cquiroz/scala-java-locales_sjs1_3@1.2.1

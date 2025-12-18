@@ -10,3 +10,13 @@
 - pkg:maven/org.yarnandtail/andhow-core@0.4.1.1
 - pkg:maven/org.yarnandtail/andhow-core@0.4.1.1?classifier=sources
 - pkg:maven/org.yarnandtail/andhow-core@0.4.1?classifier=sources
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc2
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc2?classifier=sources
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc3
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc3?classifier=sources
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc4
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc4?classifier=sources
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc5
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc5?classifier=sources
+- pkg:maven/org.yarnandtail/andhow-core@0.4.2?classifier=sources

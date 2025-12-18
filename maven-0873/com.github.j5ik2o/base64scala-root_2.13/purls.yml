@@ -34,6 +34,10 @@
 - pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.27?classifier=sources
 - pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.28
 - pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.28?classifier=sources
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.29
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.29?classifier=sources
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.30
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.30?classifier=sources
 - pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.8
 - pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.8?classifier=sources
 - pkg:maven/com.github.j5ik2o/base64scala-root_2.13@1.0.9

@@ -9,3 +9,5 @@
 - pkg:maven/tz.co.asoft/later-core-jvm@0.0.63?classifier=sources
 - pkg:maven/tz.co.asoft/later-core-jvm@0.0.64?classifier=sources
 - pkg:maven/tz.co.asoft/later-core-jvm@1.4.0?classifier=sources
+- pkg:maven/tz.co.asoft/later-core-jvm@1.4.10?classifier=sources
+- pkg:maven/tz.co.asoft/later-core-jvm@1.4.11?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/druid-influx-extensions@0.21.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/druid-influx-extensions@0.21.1
 - pkg:maven/org.apache.druid.extensions.contrib/druid-influx-extensions@0.21.1?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/druid-influx-extensions@0.22.0
+- pkg:maven/org.apache.druid.extensions.contrib/druid-influx-extensions@0.22.0?classifier=sources

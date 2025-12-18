@@ -52,6 +52,8 @@
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20210819-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20210824-1.32.1
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20210824-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20211004-1.32.1
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20211004-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev2-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev2-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev2-1.25.0
@@ -106,6 +108,8 @@
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210701-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210819-1.32.1
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210819-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20211004-1.32.1
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20211004-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev2-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev2-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev2-1.25.0
@@ -160,3 +164,5 @@
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210701-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210819-1.32.1
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210819-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20211004-1.32.1
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20211004-1.32.1?classifier=sources

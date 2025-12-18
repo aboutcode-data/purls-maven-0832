@@ -1,2 +1,5 @@
 - pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-27@2.8.0
 - pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-27@2.8.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-27@2.8.1
+- pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-27@2.8.1?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-27@3.0.0?classifier=sources

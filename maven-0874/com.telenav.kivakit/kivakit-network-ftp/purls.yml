@@ -6,3 +6,7 @@
 - pkg:maven/com.telenav.kivakit/kivakit-network-ftp@0.9.8-beta?classifier=sources
 - pkg:maven/com.telenav.kivakit/kivakit-network-ftp@1.0.0
 - pkg:maven/com.telenav.kivakit/kivakit-network-ftp@1.0.0?classifier=sources
+- pkg:maven/com.telenav.kivakit/kivakit-network-ftp@1.1.0
+- pkg:maven/com.telenav.kivakit/kivakit-network-ftp@1.1.0?classifier=sources
+- pkg:maven/com.telenav.kivakit/kivakit-network-ftp@1.1.1
+- pkg:maven/com.telenav.kivakit/kivakit-network-ftp@1.1.1?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-jaeger-exporter_3@0.12.0
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-jaeger-exporter_3@0.12.0%2B39-4315fe94
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-jaeger-exporter_3@0.12.0%2B39-4315fe94?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-jaeger-exporter_3@0.12.0%2B50-19f0faec
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-jaeger-exporter_3@0.12.0%2B50-19f0faec?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-jaeger-exporter_3@0.12.0-RC2%2B8-d361d219
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-jaeger-exporter_3@0.12.0-RC2%2B8-d361d219?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-jaeger-exporter_3@0.12.0?classifier=sources

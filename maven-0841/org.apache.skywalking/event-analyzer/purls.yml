@@ -1,3 +1,7 @@
 - pkg:maven/org.apache.skywalking/event-analyzer@8.5.0
 - pkg:maven/org.apache.skywalking/event-analyzer@8.6.0
 - pkg:maven/org.apache.skywalking/event-analyzer@8.7.0
+- pkg:maven/org.apache.skywalking/event-analyzer@8.8.0
+- pkg:maven/org.apache.skywalking/event-analyzer@8.8.0?classifier=sources
+- pkg:maven/org.apache.skywalking/event-analyzer@8.8.1
+- pkg:maven/org.apache.skywalking/event-analyzer@8.8.1?classifier=sources

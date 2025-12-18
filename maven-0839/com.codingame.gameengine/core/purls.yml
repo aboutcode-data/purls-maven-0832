@@ -202,3 +202,7 @@
 - pkg:maven/com.codingame.gameengine/core@4.0.2?classifier=sources
 - pkg:maven/com.codingame.gameengine/core@4.1.2
 - pkg:maven/com.codingame.gameengine/core@4.1.2?classifier=sources
+- pkg:maven/com.codingame.gameengine/core@4.1.3
+- pkg:maven/com.codingame.gameengine/core@4.1.3?classifier=sources
+- pkg:maven/com.codingame.gameengine/core@4.1.4
+- pkg:maven/com.codingame.gameengine/core@4.1.4?classifier=sources

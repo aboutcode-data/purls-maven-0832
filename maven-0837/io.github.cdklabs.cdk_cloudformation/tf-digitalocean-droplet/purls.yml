@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/tf-digitalocean-droplet@1.0.0-alpha.1
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/tf-digitalocean-droplet@1.0.0-alpha.1?classifier=sources

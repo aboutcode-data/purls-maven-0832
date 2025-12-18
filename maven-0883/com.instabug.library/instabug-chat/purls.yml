@@ -8,6 +8,8 @@
 - pkg:maven/com.instabug.library/instabug-chat@10.1.0?type=aar
 - pkg:maven/com.instabug.library/instabug-chat@10.1.1?classifier=sources
 - pkg:maven/com.instabug.library/instabug-chat@10.1.1?type=aar
+- pkg:maven/com.instabug.library/instabug-chat@10.10.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-chat@10.10.0?type=aar
 - pkg:maven/com.instabug.library/instabug-chat@10.2.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-chat@10.2.0?type=aar
 - pkg:maven/com.instabug.library/instabug-chat@10.3.0?classifier=sources
@@ -42,6 +44,8 @@
 - pkg:maven/com.instabug.library/instabug-chat@10.8.2?type=aar
 - pkg:maven/com.instabug.library/instabug-chat@10.9.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-chat@10.9.0?type=aar
+- pkg:maven/com.instabug.library/instabug-chat@10.9.1?classifier=sources
+- pkg:maven/com.instabug.library/instabug-chat@10.9.1?type=aar
 - pkg:maven/com.instabug.library/instabug-chat@4.10.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-chat@4.10.0?type=aar
 - pkg:maven/com.instabug.library/instabug-chat@4.10.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito.examples/pmml-incubation-api-quarkus@1.12.0.Final
+- pkg:maven/org.kie.kogito.examples/pmml-incubation-api-quarkus@1.12.0.Final?classifier=sources

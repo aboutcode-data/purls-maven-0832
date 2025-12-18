@@ -1,3 +1,13 @@
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.10.0
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.10.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.10.1
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.10.1?classifier=sources
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.11.0
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.11.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.12.0
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.12.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.12.1
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.12.1?classifier=sources
 - pkg:maven/org.projectnessie/nessie-jaxrs@0.8.2
 - pkg:maven/org.projectnessie/nessie-jaxrs@0.8.2?classifier=sources
 - pkg:maven/org.projectnessie/nessie-jaxrs@0.8.3

@@ -1,0 +1,2 @@
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.db@5.25.1
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.db@5.25.1?classifier=sources

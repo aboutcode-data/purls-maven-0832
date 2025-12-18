@@ -33,3 +33,5 @@
 - pkg:maven/org.kiwiproject/registry-aware-jersey-client@0.9.0?classifier=sources
 - pkg:maven/org.kiwiproject/registry-aware-jersey-client@1.0.0
 - pkg:maven/org.kiwiproject/registry-aware-jersey-client@1.0.0?classifier=sources
+- pkg:maven/org.kiwiproject/registry-aware-jersey-client@1.1.0
+- pkg:maven/org.kiwiproject/registry-aware-jersey-client@1.1.0?classifier=sources

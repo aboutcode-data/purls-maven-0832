@@ -1,0 +1,2 @@
+- pkg:maven/com.webank.wedatasphere.dss/spring-origin-dss-project-plugin@1.0.0
+- pkg:maven/com.webank.wedatasphere.dss/spring-origin-dss-project-plugin@1.0.0?classifier=sources

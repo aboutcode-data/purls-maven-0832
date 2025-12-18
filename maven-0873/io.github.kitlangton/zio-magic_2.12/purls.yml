@@ -36,3 +36,5 @@
 - pkg:maven/io.github.kitlangton/zio-magic_2.12@0.3.7?classifier=sources
 - pkg:maven/io.github.kitlangton/zio-magic_2.12@0.3.8
 - pkg:maven/io.github.kitlangton/zio-magic_2.12@0.3.8?classifier=sources
+- pkg:maven/io.github.kitlangton/zio-magic_2.12@0.3.9
+- pkg:maven/io.github.kitlangton/zio-magic_2.12@0.3.9?classifier=sources

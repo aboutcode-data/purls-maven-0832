@@ -1,0 +1,10 @@
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5-11-334582e
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5-11-334582e?classifier=sources
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5-2-4dad691
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5-2-4dad691?classifier=sources
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5-9-9fd87ac
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5-9-9fd87ac?classifier=sources
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5.0-M2
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5.0-M2?classifier=sources
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5.0-M3
+- pkg:maven/com.busymachines/pureharm-route-http4s-tapir-ce2_2.13@0.5.0-M3?classifier=sources

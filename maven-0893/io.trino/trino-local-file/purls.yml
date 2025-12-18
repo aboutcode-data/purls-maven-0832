@@ -9,3 +9,6 @@
 - pkg:maven/io.trino/trino-local-file@359?classifier=sources
 - pkg:maven/io.trino/trino-local-file@360?classifier=sources
 - pkg:maven/io.trino/trino-local-file@361?classifier=sources
+- pkg:maven/io.trino/trino-local-file@362?classifier=sources
+- pkg:maven/io.trino/trino-local-file@363?classifier=sources
+- pkg:maven/io.trino/trino-local-file@364?classifier=sources

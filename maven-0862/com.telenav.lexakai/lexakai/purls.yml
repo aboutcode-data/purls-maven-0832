@@ -4,3 +4,5 @@
 - pkg:maven/com.telenav.lexakai/lexakai@0.9.8-beta?classifier=sources
 - pkg:maven/com.telenav.lexakai/lexakai@1.0.0
 - pkg:maven/com.telenav.lexakai/lexakai@1.0.0?classifier=sources
+- pkg:maven/com.telenav.lexakai/lexakai@1.0.1
+- pkg:maven/com.telenav.lexakai/lexakai@1.0.1?classifier=sources

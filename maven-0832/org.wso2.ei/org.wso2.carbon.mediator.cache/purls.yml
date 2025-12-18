@@ -42,3 +42,5 @@
 - pkg:maven/org.wso2.ei/org.wso2.carbon.mediator.cache@4.0.0-m8
 - pkg:maven/org.wso2.ei/org.wso2.carbon.mediator.cache@4.0.0-m8?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.carbon.mediator.cache@4.0.0?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.carbon.mediator.cache@4.1.0-m1
+- pkg:maven/org.wso2.ei/org.wso2.carbon.mediator.cache@4.1.0-m1?classifier=sources

@@ -3,4 +3,8 @@
 - pkg:maven/io.github.nickd3000/minvio@1.01?classifier=sources
 - pkg:maven/io.github.nickd3000/minvio@1.02
 - pkg:maven/io.github.nickd3000/minvio@1.02?classifier=sources
+- pkg:maven/io.github.nickd3000/minvio@1.03
+- pkg:maven/io.github.nickd3000/minvio@1.03?classifier=sources
+- pkg:maven/io.github.nickd3000/minvio@1.04
+- pkg:maven/io.github.nickd3000/minvio@1.04?classifier=sources
 - pkg:maven/io.github.nickd3000/minvio@1.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.vivoweb/vivo-languages-webapp-en_CA@1.12.0?type=war
+- pkg:maven/org.vivoweb/vivo-languages-webapp-en_CA@1.12.1?type=war

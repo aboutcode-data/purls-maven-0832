@@ -1,1 +1,2 @@
 - pkg:maven/fi.evident.apina/apina-core@0.16.0?classifier=sources
+- pkg:maven/fi.evident.apina/apina-core@0.17.5?classifier=sources

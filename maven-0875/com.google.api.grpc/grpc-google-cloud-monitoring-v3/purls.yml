@@ -284,3 +284,11 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.0.4?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.0.5
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.0.5?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.0.6
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.0.6?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.0.7
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.0.7?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.0.8
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.0.8?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.1.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-v3@3.1.0?classifier=sources

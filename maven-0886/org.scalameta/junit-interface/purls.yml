@@ -64,3 +64,5 @@
 - pkg:maven/org.scalameta/junit-interface@0.7.8?classifier=sources
 - pkg:maven/org.scalameta/junit-interface@0.7.9
 - pkg:maven/org.scalameta/junit-interface@0.7.9?classifier=sources
+- pkg:maven/org.scalameta/junit-interface@1.0.0-M1
+- pkg:maven/org.scalameta/junit-interface@1.0.0-M1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.orienteer.transponder/transponder-arcadedb@1.0
+- pkg:maven/org.orienteer.transponder/transponder-arcadedb@1.0?classifier=sources

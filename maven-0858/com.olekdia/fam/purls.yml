@@ -1,2 +1,4 @@
 - pkg:maven/com.olekdia/fam@3.4.2?classifier=sources
 - pkg:maven/com.olekdia/fam@3.4.3?classifier=sources
+- pkg:maven/com.olekdia/fam@3.7.0?classifier=sources
+- pkg:maven/com.olekdia/fam@3.7.1?classifier=sources

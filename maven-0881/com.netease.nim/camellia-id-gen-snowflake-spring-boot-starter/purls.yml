@@ -1,0 +1,10 @@
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.38
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.38?classifier=sources
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.39
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.39?classifier=sources
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.40
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.40?classifier=sources
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.41
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.41?classifier=sources
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.42
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.42?classifier=sources

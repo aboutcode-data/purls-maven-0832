@@ -1,0 +1,2 @@
+- pkg:maven/io.github.chiclaim/router-compiler@1.0.4
+- pkg:maven/io.github.chiclaim/router-compiler@1.0.4?classifier=sources

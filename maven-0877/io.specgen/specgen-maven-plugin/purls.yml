@@ -1,0 +1,14 @@
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.682
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.682?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.696
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.696?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.699
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.699?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.702
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.702?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.808
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.808?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.825
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.825?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.841
+- pkg:maven/io.specgen/specgen-maven-plugin@2.0.841?classifier=sources

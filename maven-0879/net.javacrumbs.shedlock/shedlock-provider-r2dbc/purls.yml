@@ -1,0 +1,2 @@
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-r2dbc@4.29.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-r2dbc@4.29.0?classifier=sources

@@ -1,2 +1,10 @@
+- pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.0.CR1
+- pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.0.CR2
+- pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.0.CR2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.0.Dev04
 - pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.0.Dev04?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.0.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.1.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-sql@13.0.1.Final?classifier=sources

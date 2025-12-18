@@ -1,1 +1,5 @@
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-iossimulatorarm64@0.6.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-iossimulatorarm64@0.7.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-iossimulatorarm64@0.8.0-kotlin-1.6.0-new-mm?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-iossimulatorarm64@0.8.0-kotlin-1.6.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-iossimulatorarm64@0.8.0?classifier=sources

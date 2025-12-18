@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/jfrog-artifactory-existingvpc-module@1.11.0-alpha.1
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/jfrog-artifactory-existingvpc-module@1.11.0-alpha.1?classifier=sources

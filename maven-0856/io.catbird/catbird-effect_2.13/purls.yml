@@ -20,3 +20,5 @@
 - pkg:maven/io.catbird/catbird-effect_2.13@21.2.0?classifier=sources
 - pkg:maven/io.catbird/catbird-effect_2.13@21.5.0
 - pkg:maven/io.catbird/catbird-effect_2.13@21.5.0?classifier=sources
+- pkg:maven/io.catbird/catbird-effect_2.13@21.8.0
+- pkg:maven/io.catbird/catbird-effect_2.13@21.8.0?classifier=sources

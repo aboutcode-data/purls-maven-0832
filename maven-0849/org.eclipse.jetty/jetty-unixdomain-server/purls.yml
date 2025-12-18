@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.7
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.7?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.7
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.7?classifier=sources

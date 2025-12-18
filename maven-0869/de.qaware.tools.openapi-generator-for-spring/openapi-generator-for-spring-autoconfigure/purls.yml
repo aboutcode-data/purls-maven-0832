@@ -26,3 +26,5 @@
 - pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-autoconfigure@4.1.0?classifier=sources
 - pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-autoconfigure@5.0.0
 - pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-autoconfigure@5.0.0?classifier=sources
+- pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-autoconfigure@5.1.0
+- pkg:maven/de.qaware.tools.openapi-generator-for-spring/openapi-generator-for-spring-autoconfigure@5.1.0?classifier=sources

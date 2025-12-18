@@ -17,11 +17,14 @@
 - pkg:maven/org.embulk/embulk-spi@0.10.26?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.27?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.28?classifier=sources
+- pkg:maven/org.embulk/embulk-spi@0.10.29.1?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.29?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.30?classifier=sources
+- pkg:maven/org.embulk/embulk-spi@0.10.31.1?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.31?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.32?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.33?classifier=sources
+- pkg:maven/org.embulk/embulk-spi@0.10.34?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.7?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.8?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.9?classifier=sources

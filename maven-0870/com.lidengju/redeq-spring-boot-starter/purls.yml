@@ -1,0 +1,2 @@
+- pkg:maven/com.lidengju/redeq-spring-boot-starter@1.1.1-ALPHA
+- pkg:maven/com.lidengju/redeq-spring-boot-starter@1.1.1-ALPHA?classifier=sources

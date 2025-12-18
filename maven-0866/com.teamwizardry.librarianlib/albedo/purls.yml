@@ -1,2 +1,4 @@
+- pkg:maven/com.teamwizardry.librarianlib/albedo@5.0.0-alpha.10?classifier=sources
 - pkg:maven/com.teamwizardry.librarianlib/albedo@5.0.0-alpha.7?classifier=sources
 - pkg:maven/com.teamwizardry.librarianlib/albedo@5.0.0-alpha.8?classifier=sources
+- pkg:maven/com.teamwizardry.librarianlib/albedo@5.0.0-alpha.9?classifier=sources

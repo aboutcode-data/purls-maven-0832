@@ -1,0 +1,4 @@
+- pkg:maven/com.zdawn/jwt-token@1.2.0
+- pkg:maven/com.zdawn/jwt-token@1.2.0?classifier=sources
+- pkg:maven/com.zdawn/jwt-token@1.2.1
+- pkg:maven/com.zdawn/jwt-token@1.2.1?classifier=sources

@@ -40,3 +40,11 @@
 - pkg:maven/com.egzosn/pay-java-paypal@2.14.1-b
 - pkg:maven/com.egzosn/pay-java-paypal@2.14.1-b?classifier=sources
 - pkg:maven/com.egzosn/pay-java-paypal@2.14.1?classifier=sources
+- pkg:maven/com.egzosn/pay-java-paypal@2.14.2
+- pkg:maven/com.egzosn/pay-java-paypal@2.14.2?classifier=sources
+- pkg:maven/com.egzosn/pay-java-paypal@2.14.3
+- pkg:maven/com.egzosn/pay-java-paypal@2.14.3-b
+- pkg:maven/com.egzosn/pay-java-paypal@2.14.3-b1
+- pkg:maven/com.egzosn/pay-java-paypal@2.14.3-b1?classifier=sources
+- pkg:maven/com.egzosn/pay-java-paypal@2.14.3-b?classifier=sources
+- pkg:maven/com.egzosn/pay-java-paypal@2.14.3?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/com.github.japgolly.univeq/univeq-cats_sjs1_3@1.5.0?classifier=sources
 - pkg:maven/com.github.japgolly.univeq/univeq-cats_sjs1_3@1.6.0
 - pkg:maven/com.github.japgolly.univeq/univeq-cats_sjs1_3@1.6.0?classifier=sources
+- pkg:maven/com.github.japgolly.univeq/univeq-cats_sjs1_3@2.0.0
+- pkg:maven/com.github.japgolly.univeq/univeq-cats_sjs1_3@2.0.0-RC1
+- pkg:maven/com.github.japgolly.univeq/univeq-cats_sjs1_3@2.0.0-RC1?classifier=sources
+- pkg:maven/com.github.japgolly.univeq/univeq-cats_sjs1_3@2.0.0?classifier=sources

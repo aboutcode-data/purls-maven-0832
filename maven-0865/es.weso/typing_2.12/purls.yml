@@ -1,3 +1,5 @@
+- pkg:maven/es.weso/typing_2.12@0.1.100
+- pkg:maven/es.weso/typing_2.12@0.1.100?classifier=sources
 - pkg:maven/es.weso/typing_2.12@0.1.88
 - pkg:maven/es.weso/typing_2.12@0.1.88?classifier=sources
 - pkg:maven/es.weso/typing_2.12@0.1.92

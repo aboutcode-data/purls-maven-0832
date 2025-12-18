@@ -4,6 +4,8 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-infinispan-health@1.11.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-infinispan-health@1.11.1.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-infinispan-health@1.11.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-infinispan-health@1.12.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-infinispan-health@1.12.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-infinispan-health@1.8.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-infinispan-health@1.8.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-infinispan-health@1.9.0.Final

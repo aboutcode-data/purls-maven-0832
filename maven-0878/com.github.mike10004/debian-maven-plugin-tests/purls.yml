@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mike10004/debian-maven-plugin-tests@3.3
+- pkg:maven/com.github.mike10004/debian-maven-plugin-tests@3.3?classifier=sources

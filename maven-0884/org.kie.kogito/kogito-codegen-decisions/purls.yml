@@ -4,6 +4,8 @@
 - pkg:maven/org.kie.kogito/kogito-codegen-decisions@1.11.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-codegen-decisions@1.11.1.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-decisions@1.11.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-codegen-decisions@1.12.0.Final
+- pkg:maven/org.kie.kogito/kogito-codegen-decisions@1.12.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-codegen-decisions@1.3.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-decisions@1.3.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-codegen-decisions@1.4.0.Final

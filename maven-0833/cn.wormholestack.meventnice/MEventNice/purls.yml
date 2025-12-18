@@ -1,0 +1,2 @@
+- pkg:maven/cn.wormholestack.meventnice/MEventNice@1.0.2
+- pkg:maven/cn.wormholestack.meventnice/MEventNice@1.0.2?classifier=sources

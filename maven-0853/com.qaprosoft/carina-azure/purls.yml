@@ -10,3 +10,5 @@
 - pkg:maven/com.qaprosoft/carina-azure@7.2.10?classifier=sources
 - pkg:maven/com.qaprosoft/carina-azure@7.2.11
 - pkg:maven/com.qaprosoft/carina-azure@7.2.11?classifier=sources
+- pkg:maven/com.qaprosoft/carina-azure@7.2.12
+- pkg:maven/com.qaprosoft/carina-azure@7.2.12?classifier=sources

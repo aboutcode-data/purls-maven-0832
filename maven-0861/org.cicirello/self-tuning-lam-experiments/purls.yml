@@ -1,0 +1,2 @@
+- pkg:maven/org.cicirello/self-tuning-lam-experiments@1.0.0
+- pkg:maven/org.cicirello/self-tuning-lam-experiments@1.0.0?classifier=sources

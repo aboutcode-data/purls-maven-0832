@@ -24,6 +24,10 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.15.4.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.15.5.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.15.5.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.15.6.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.15.6.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.15.7.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.15.7.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.16.0.CR1
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.16.0.CR1?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.16.0.Final
@@ -32,6 +36,10 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.16.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.17.0.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.17.0.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.17.1.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.17.1.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.17.2.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-http-external@1.17.2.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@2.0.0.Alpha10
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@2.0.0.Alpha10?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-http-external@2.0.0.Alpha8

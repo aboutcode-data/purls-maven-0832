@@ -42,3 +42,5 @@
 - pkg:maven/com.microsoft.azure/azure-cosmos@3.7.4?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-cosmos@3.7.5
 - pkg:maven/com.microsoft.azure/azure-cosmos@3.7.5?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-cosmos@3.7.6
+- pkg:maven/com.microsoft.azure/azure-cosmos@3.7.6?classifier=sources

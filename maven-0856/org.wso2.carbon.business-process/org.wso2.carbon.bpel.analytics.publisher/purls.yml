@@ -254,3 +254,5 @@
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.analytics.publisher@4.5.44?classifier=sources
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.analytics.publisher@4.5.45
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.analytics.publisher@4.5.45?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.analytics.publisher@4.5.47
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.analytics.publisher@4.5.47?classifier=sources

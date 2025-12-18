@@ -1,0 +1,2 @@
+- pkg:maven/com.apollographql.apollo3/apollo-adapters-macosarm64@3.0.0-beta02?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-adapters-macosarm64@3.0.0-beta03?classifier=sources

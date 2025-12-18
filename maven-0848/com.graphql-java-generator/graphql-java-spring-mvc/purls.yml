@@ -11,4 +11,8 @@
 - pkg:maven/com.graphql-java-generator/graphql-java-spring-mvc@1.16
 - pkg:maven/com.graphql-java-generator/graphql-java-spring-mvc@1.16?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-java-spring-mvc@1.17
+- pkg:maven/com.graphql-java-generator/graphql-java-spring-mvc@1.17.2
+- pkg:maven/com.graphql-java-generator/graphql-java-spring-mvc@1.17.2?classifier=sources
+- pkg:maven/com.graphql-java-generator/graphql-java-spring-mvc@1.17.3
+- pkg:maven/com.graphql-java-generator/graphql-java-spring-mvc@1.17.3?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-java-spring-mvc@1.17?classifier=sources

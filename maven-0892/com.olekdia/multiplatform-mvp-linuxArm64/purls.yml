@@ -1,1 +1,2 @@
 - pkg:maven/com.olekdia/multiplatform-mvp-linuxArm64@0.2.1?classifier=sources
+- pkg:maven/com.olekdia/multiplatform-mvp-linuxArm64@0.3.0?classifier=sources

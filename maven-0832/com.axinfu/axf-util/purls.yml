@@ -1,0 +1,10 @@
+- pkg:maven/com.axinfu/axf-util@1.0.1R
+- pkg:maven/com.axinfu/axf-util@1.0.1R?classifier=sources
+- pkg:maven/com.axinfu/axf-util@1.0.2R
+- pkg:maven/com.axinfu/axf-util@1.0.2R?classifier=sources
+- pkg:maven/com.axinfu/axf-util@1.0.3R
+- pkg:maven/com.axinfu/axf-util@1.0.3R?classifier=sources
+- pkg:maven/com.axinfu/axf-util@1.0.4R
+- pkg:maven/com.axinfu/axf-util@1.0.4R?classifier=sources
+- pkg:maven/com.axinfu/axf-util@1.0.5R
+- pkg:maven/com.axinfu/axf-util@1.0.5R?classifier=sources

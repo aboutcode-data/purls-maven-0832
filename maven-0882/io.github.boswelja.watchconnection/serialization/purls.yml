@@ -1,0 +1,2 @@
+- pkg:maven/io.github.boswelja.watchconnection/serialization@6.1.0?classifier=sources
+- pkg:maven/io.github.boswelja.watchconnection/serialization@7.0.0?classifier=sources

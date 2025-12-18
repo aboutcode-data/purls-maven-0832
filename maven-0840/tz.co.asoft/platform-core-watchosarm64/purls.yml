@@ -1,2 +1,4 @@
 - pkg:maven/tz.co.asoft/platform-core-watchosarm64@0.0.10?classifier=sources
 - pkg:maven/tz.co.asoft/platform-core-watchosarm64@1.4.0?classifier=sources
+- pkg:maven/tz.co.asoft/platform-core-watchosarm64@1.4.10?classifier=sources
+- pkg:maven/tz.co.asoft/platform-core-watchosarm64@1.4.11?classifier=sources

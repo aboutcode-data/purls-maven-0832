@@ -20,3 +20,9 @@
 - pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.2.2?classifier=sources
 - pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.2.3
 - pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.2.3?classifier=sources
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.3.0
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.3.0?classifier=sources
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.3.1
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.3.1?classifier=sources
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.4.0
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.4.0?classifier=sources

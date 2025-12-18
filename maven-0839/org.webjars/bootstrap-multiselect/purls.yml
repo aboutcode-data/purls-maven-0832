@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars/bootstrap-multiselect@0a857a085d?classifier=sources
 - pkg:maven/org.webjars/bootstrap-multiselect@1.0.0
 - pkg:maven/org.webjars/bootstrap-multiselect@1.0.0?classifier=sources
+- pkg:maven/org.webjars/bootstrap-multiselect@1.1.1
+- pkg:maven/org.webjars/bootstrap-multiselect@1.1.1?classifier=sources

@@ -71,6 +71,8 @@
 - pkg:maven/ch.epfl.scala/scalafix-interfaces@0.9.3
 - pkg:maven/ch.epfl.scala/scalafix-interfaces@0.9.30
 - pkg:maven/ch.epfl.scala/scalafix-interfaces@0.9.30?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-interfaces@0.9.31
+- pkg:maven/ch.epfl.scala/scalafix-interfaces@0.9.31?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-interfaces@0.9.3?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-interfaces@0.9.4
 - pkg:maven/ch.epfl.scala/scalafix-interfaces@0.9.4?classifier=sources

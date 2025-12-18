@@ -1,0 +1,2 @@
+- pkg:maven/org.locationtech.geowave/geowave-migration@2.0.0
+- pkg:maven/org.locationtech.geowave/geowave-migration@2.0.0?classifier=sources

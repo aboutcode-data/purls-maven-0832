@@ -2,3 +2,4 @@
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@4.0.0-RC2?classifier=sources
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@4.0.0-RC3?classifier=sources
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@4.0.0?classifier=sources
+- pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@4.0.1?classifier=sources

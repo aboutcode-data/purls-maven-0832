@@ -12,3 +12,5 @@
 - pkg:maven/com.github.losizm/little-json_3@8.0.0?classifier=sources
 - pkg:maven/com.github.losizm/little-json_3@8.1.0
 - pkg:maven/com.github.losizm/little-json_3@8.1.0?classifier=sources
+- pkg:maven/com.github.losizm/little-json_3@9.0.0
+- pkg:maven/com.github.losizm/little-json_3@9.0.0?classifier=sources

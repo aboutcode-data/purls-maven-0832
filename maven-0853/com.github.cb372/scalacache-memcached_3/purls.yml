@@ -1,2 +1,4 @@
 - pkg:maven/com.github.cb372/scalacache-memcached_3@1.0.0-M4
 - pkg:maven/com.github.cb372/scalacache-memcached_3@1.0.0-M4?classifier=sources
+- pkg:maven/com.github.cb372/scalacache-memcached_3@1.0.0-M5
+- pkg:maven/com.github.cb372/scalacache-memcached_3@1.0.0-M5?classifier=sources

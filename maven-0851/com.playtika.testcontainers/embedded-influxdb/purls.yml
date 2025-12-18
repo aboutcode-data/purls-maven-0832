@@ -70,6 +70,10 @@
 - pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.13?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.14
 - pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.14?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.15
+- pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.15?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.16
+- pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.16?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.3
 - pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.3?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-influxdb@2.0.4
