@@ -4,3 +4,5 @@
 - pkg:maven/com.github.arteam/simple-json-rpc-client@0.7?classifier=sources
 - pkg:maven/com.github.arteam/simple-json-rpc-client@0.9
 - pkg:maven/com.github.arteam/simple-json-rpc-client@0.9?classifier=sources
+- pkg:maven/com.github.arteam/simple-json-rpc-client@1.0
+- pkg:maven/com.github.arteam/simple-json-rpc-client@1.0?classifier=sources

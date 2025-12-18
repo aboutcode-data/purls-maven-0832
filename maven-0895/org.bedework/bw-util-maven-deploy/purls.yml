@@ -12,3 +12,5 @@
 - pkg:maven/org.bedework/bw-util-maven-deploy@4.0.23?classifier=sources
 - pkg:maven/org.bedework/bw-util-maven-deploy@4.0.24
 - pkg:maven/org.bedework/bw-util-maven-deploy@4.0.24?classifier=sources
+- pkg:maven/org.bedework/bw-util-maven-deploy@4.0.25
+- pkg:maven/org.bedework/bw-util-maven-deploy@4.0.25?classifier=sources

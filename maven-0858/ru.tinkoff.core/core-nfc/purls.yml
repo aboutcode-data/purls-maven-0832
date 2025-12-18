@@ -9,3 +9,7 @@
 - pkg:maven/ru.tinkoff.core/core-nfc@3.2.13?type=aar
 - pkg:maven/ru.tinkoff.core/core-nfc@3.2.18?classifier=sources
 - pkg:maven/ru.tinkoff.core/core-nfc@3.2.18?type=aar
+- pkg:maven/ru.tinkoff.core/core-nfc@3.3.15?classifier=sources
+- pkg:maven/ru.tinkoff.core/core-nfc@3.3.15?type=aar
+- pkg:maven/ru.tinkoff.core/core-nfc@3.3.17?classifier=sources
+- pkg:maven/ru.tinkoff.core/core-nfc@3.3.17?type=aar

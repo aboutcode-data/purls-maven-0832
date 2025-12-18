@@ -4,3 +4,9 @@
 - pkg:maven/cn.org.faster/faster-sms@1.1.0.RELEASE?classifier=sources
 - pkg:maven/cn.org.faster/faster-sms@1.1.1.RELEASE
 - pkg:maven/cn.org.faster/faster-sms@1.1.1.RELEASE?classifier=sources
+- pkg:maven/cn.org.faster/faster-sms@1.2.0.RELEASE
+- pkg:maven/cn.org.faster/faster-sms@1.2.0.RELEASE?classifier=sources
+- pkg:maven/cn.org.faster/faster-sms@1.3.0.RELEASE
+- pkg:maven/cn.org.faster/faster-sms@1.3.0.RELEASE?classifier=sources
+- pkg:maven/cn.org.faster/faster-sms@1.3.1.RELEASE
+- pkg:maven/cn.org.faster/faster-sms@1.3.1.RELEASE?classifier=sources

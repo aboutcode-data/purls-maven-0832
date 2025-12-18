@@ -42,3 +42,7 @@
 - pkg:maven/io.rollout.rox/rox-java-server@4.6.3?classifier=sources
 - pkg:maven/io.rollout.rox/rox-java-server@4.6.4
 - pkg:maven/io.rollout.rox/rox-java-server@4.6.4?classifier=sources
+- pkg:maven/io.rollout.rox/rox-java-server@4.8.0
+- pkg:maven/io.rollout.rox/rox-java-server@4.8.0?classifier=sources
+- pkg:maven/io.rollout.rox/rox-java-server@4.8.1
+- pkg:maven/io.rollout.rox/rox-java-server@4.8.1?classifier=sources

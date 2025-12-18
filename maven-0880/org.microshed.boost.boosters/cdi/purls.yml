@@ -1,0 +1,4 @@
+- pkg:maven/org.microshed.boost.boosters/cdi@1.2-0.2.0
+- pkg:maven/org.microshed.boost.boosters/cdi@1.2-0.2.1
+- pkg:maven/org.microshed.boost.boosters/cdi@2.0-0.2.0
+- pkg:maven/org.microshed.boost.boosters/cdi@2.0-0.2.1

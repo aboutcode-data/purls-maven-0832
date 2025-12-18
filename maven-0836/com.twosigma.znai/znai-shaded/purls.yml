@@ -1,1 +1,5 @@
 - pkg:maven/com.twosigma.znai/znai-shaded@0.16
+- pkg:maven/com.twosigma.znai/znai-shaded@1.18
+- pkg:maven/com.twosigma.znai/znai-shaded@1.19
+- pkg:maven/com.twosigma.znai/znai-shaded@1.20
+- pkg:maven/com.twosigma.znai/znai-shaded@1.21

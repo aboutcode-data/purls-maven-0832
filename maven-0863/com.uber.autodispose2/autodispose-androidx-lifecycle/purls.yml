@@ -1,0 +1,2 @@
+- pkg:maven/com.uber.autodispose2/autodispose-androidx-lifecycle@2.0.0-RC1?classifier=sources
+- pkg:maven/com.uber.autodispose2/autodispose-androidx-lifecycle@2.0.0-RC1?type=aar

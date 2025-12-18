@@ -1,0 +1,2 @@
+- pkg:maven/it.unimi.dsi/law-library@2.6.0
+- pkg:maven/it.unimi.dsi/law-library@2.6.0?classifier=sources

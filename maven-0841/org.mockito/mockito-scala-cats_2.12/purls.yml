@@ -21,6 +21,14 @@
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.13?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.14
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.14?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.15
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.15?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.16
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.16?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.17
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.17?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.18
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.18?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.1?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.2
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.2?classifier=sources
@@ -34,3 +42,11 @@
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.8?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.9
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.5.9?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.6.1
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.6.1?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.6.2
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.6.2?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.7.0
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.7.0?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.7.1
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jun1983/jstf@1.0.0
+- pkg:maven/io.github.jun1983/jstf@1.0.0?classifier=sources

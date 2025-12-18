@@ -8,3 +8,5 @@
 - pkg:maven/net.time4j/time4j-sqlxml@5.3?classifier=sources
 - pkg:maven/net.time4j/time4j-sqlxml@5.4
 - pkg:maven/net.time4j/time4j-sqlxml@5.4?classifier=sources
+- pkg:maven/net.time4j/time4j-sqlxml@5.5
+- pkg:maven/net.time4j/time4j-sqlxml@5.5?classifier=sources

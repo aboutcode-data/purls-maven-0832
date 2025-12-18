@@ -44,3 +44,5 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-ironmq_2.11@1.1.0?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-ironmq_2.11@1.1.1
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-ironmq_2.11@1.1.1?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-ironmq_2.11@1.1.2
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-ironmq_2.11@1.1.2?classifier=sources

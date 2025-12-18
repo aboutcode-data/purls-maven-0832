@@ -32,3 +32,7 @@
 - pkg:maven/io.quarkus/quarkus-junit4@0.21.0?classifier=sources
 - pkg:maven/io.quarkus/quarkus-junit4@0.21.1
 - pkg:maven/io.quarkus/quarkus-junit4@0.21.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-junit4@0.21.2
+- pkg:maven/io.quarkus/quarkus-junit4@0.21.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-junit4@0.22.0
+- pkg:maven/io.quarkus/quarkus-junit4@0.22.0?classifier=sources

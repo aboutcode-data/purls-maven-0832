@@ -108,6 +108,8 @@
 - pkg:maven/org.webjars.npm/uportal__open-id-connect@1.32.1?classifier=sources
 - pkg:maven/org.webjars.npm/uportal__open-id-connect@1.33.1
 - pkg:maven/org.webjars.npm/uportal__open-id-connect@1.33.1?classifier=sources
+- pkg:maven/org.webjars.npm/uportal__open-id-connect@1.33.2
+- pkg:maven/org.webjars.npm/uportal__open-id-connect@1.33.2?classifier=sources
 - pkg:maven/org.webjars.npm/uportal__open-id-connect@1.5.0
 - pkg:maven/org.webjars.npm/uportal__open-id-connect@1.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/uportal__open-id-connect@1.6.0

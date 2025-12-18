@@ -7,3 +7,4 @@
 - pkg:maven/com.github.jobservice/job-service-html@2.6.0-383?type=war
 - pkg:maven/com.github.jobservice/job-service-html@2.7.0-440?type=war
 - pkg:maven/com.github.jobservice/job-service-html@3.0.0-471?type=war
+- pkg:maven/com.github.jobservice/job-service-html@3.1.0-578?type=war

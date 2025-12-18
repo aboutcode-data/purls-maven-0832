@@ -62,6 +62,10 @@
 - pkg:maven/org.jruby.jcodings/jcodings@1.0.43?classifier=sources
 - pkg:maven/org.jruby.jcodings/jcodings@1.0.44
 - pkg:maven/org.jruby.jcodings/jcodings@1.0.44?classifier=sources
+- pkg:maven/org.jruby.jcodings/jcodings@1.0.45
+- pkg:maven/org.jruby.jcodings/jcodings@1.0.45?classifier=sources
+- pkg:maven/org.jruby.jcodings/jcodings@1.0.46
+- pkg:maven/org.jruby.jcodings/jcodings@1.0.46?classifier=sources
 - pkg:maven/org.jruby.jcodings/jcodings@1.0.4?classifier=sources
 - pkg:maven/org.jruby.jcodings/jcodings@1.0.5
 - pkg:maven/org.jruby.jcodings/jcodings@1.0.5?classifier=sources

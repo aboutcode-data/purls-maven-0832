@@ -1,0 +1,8 @@
+- pkg:maven/ru.fix/jfix-stdlib-files@1.0.59
+- pkg:maven/ru.fix/jfix-stdlib-files@1.0.59?classifier=sources
+- pkg:maven/ru.fix/jfix-stdlib-files@1.0.60
+- pkg:maven/ru.fix/jfix-stdlib-files@1.0.60?classifier=sources
+- pkg:maven/ru.fix/jfix-stdlib-files@1.0.61
+- pkg:maven/ru.fix/jfix-stdlib-files@1.0.61?classifier=sources
+- pkg:maven/ru.fix/jfix-stdlib-files@1.0.62
+- pkg:maven/ru.fix/jfix-stdlib-files@1.0.62?classifier=sources

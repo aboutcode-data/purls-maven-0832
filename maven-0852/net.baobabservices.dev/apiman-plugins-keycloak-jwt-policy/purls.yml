@@ -1,0 +1,2 @@
+- pkg:maven/net.baobabservices.dev/apiman-plugins-keycloak-jwt-policy@1.1?classifier=sources
+- pkg:maven/net.baobabservices.dev/apiman-plugins-keycloak-jwt-policy@1.1?type=war

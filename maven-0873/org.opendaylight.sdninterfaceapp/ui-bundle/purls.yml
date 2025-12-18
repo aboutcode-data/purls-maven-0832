@@ -1,0 +1,16 @@
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.0.3-Boron-SR2
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.0.3-Boron-SR2?classifier=sources
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.0.4-Boron-SR3
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.0.4-Boron-SR3?classifier=sources
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.0.5-Boron-SR4
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.0.5-Boron-SR4?classifier=sources
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.0-Carbon
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.1-Carbon
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.1-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.2-Carbon
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.2-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.3-Carbon
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.3-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.4-Carbon
+- pkg:maven/org.opendaylight.sdninterfaceapp/ui-bundle@0.1.4-Carbon?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.cellery.distribution/io.cellery.cell.api.publisher@0.4.0
+- pkg:maven/io.cellery.distribution/io.cellery.cell.api.publisher@0.4.0?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/com.treasuredata/td-android-sdk@0.1.9?classifier=sources
 - pkg:maven/com.treasuredata/td-android-sdk@0.2.0
 - pkg:maven/com.treasuredata/td-android-sdk@0.2.0?classifier=sources
+- pkg:maven/com.treasuredata/td-android-sdk@0.3.0
+- pkg:maven/com.treasuredata/td-android-sdk@0.3.0?classifier=sources

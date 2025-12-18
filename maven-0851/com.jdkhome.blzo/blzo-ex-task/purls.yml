@@ -6,3 +6,9 @@
 - pkg:maven/com.jdkhome.blzo/blzo-ex-task@0.3.0.1.RELEASE?classifier=sources
 - pkg:maven/com.jdkhome.blzo/blzo-ex-task@0.3.0.RELEASE
 - pkg:maven/com.jdkhome.blzo/blzo-ex-task@0.3.0.RELEASE?classifier=sources
+- pkg:maven/com.jdkhome.blzo/blzo-ex-task@0.3.1.1.RELEASE
+- pkg:maven/com.jdkhome.blzo/blzo-ex-task@0.3.1.1.RELEASE?classifier=sources
+- pkg:maven/com.jdkhome.blzo/blzo-ex-task@0.3.1.RELEASE
+- pkg:maven/com.jdkhome.blzo/blzo-ex-task@0.3.1.RELEASE?classifier=sources
+- pkg:maven/com.jdkhome.blzo/blzo-ex-task@0.3.2.RELEASE
+- pkg:maven/com.jdkhome.blzo/blzo-ex-task@0.3.2.RELEASE?classifier=sources

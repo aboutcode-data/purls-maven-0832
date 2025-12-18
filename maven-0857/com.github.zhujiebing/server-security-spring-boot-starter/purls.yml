@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhujiebing/server-security-spring-boot-starter@2.0
+- pkg:maven/com.github.zhujiebing/server-security-spring-boot-starter@2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pl.tlinkowski.unij/pl.tlinkowski.unij.bundle.jdk11@0.1.1
+- pkg:maven/pl.tlinkowski.unij/pl.tlinkowski.unij.bundle.jdk11@0.1.1?classifier=sources

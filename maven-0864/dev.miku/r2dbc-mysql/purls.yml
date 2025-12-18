@@ -1,0 +1,6 @@
+- pkg:maven/dev.miku/r2dbc-mysql@0.8.0.RC1
+- pkg:maven/dev.miku/r2dbc-mysql@0.8.0.RC1?classifier=sources
+- pkg:maven/dev.miku/r2dbc-mysql@0.8.0.RC2
+- pkg:maven/dev.miku/r2dbc-mysql@0.8.0.RC2?classifier=sources
+- pkg:maven/dev.miku/r2dbc-mysql@0.8.0.RELEASE
+- pkg:maven/dev.miku/r2dbc-mysql@0.8.0.RELEASE?classifier=sources

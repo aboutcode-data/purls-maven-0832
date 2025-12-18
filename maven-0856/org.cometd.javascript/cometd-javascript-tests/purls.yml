@@ -1,0 +1,2 @@
+- pkg:maven/org.cometd.javascript/cometd-javascript-tests@5.0.0-BETA0
+- pkg:maven/org.cometd.javascript/cometd-javascript-tests@5.0.0-BETA0?classifier=sources

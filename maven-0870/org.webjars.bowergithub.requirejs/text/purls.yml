@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.requirejs/text@2.0.15
 - pkg:maven/org.webjars.bowergithub.requirejs/text@2.0.15?classifier=sources
+- pkg:maven/org.webjars.bowergithub.requirejs/text@2.0.16
+- pkg:maven/org.webjars.bowergithub.requirejs/text@2.0.16?classifier=sources

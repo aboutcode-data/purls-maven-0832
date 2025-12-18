@@ -1,0 +1,2 @@
+- pkg:maven/com.datarobot/datarobot-ai-java@2.0.8
+- pkg:maven/com.datarobot/datarobot-ai-java@2.0.8?classifier=sources

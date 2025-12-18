@@ -19,6 +19,7 @@
 - pkg:maven/org.wso2.carbon.dashboards/shindig-wso2-extensions@2.0.22
 - pkg:maven/org.wso2.carbon.dashboards/shindig-wso2-extensions@2.0.23
 - pkg:maven/org.wso2.carbon.dashboards/shindig-wso2-extensions@2.0.24
+- pkg:maven/org.wso2.carbon.dashboards/shindig-wso2-extensions@2.0.27
 - pkg:maven/org.wso2.carbon.dashboards/shindig-wso2-extensions@2.0.3
 - pkg:maven/org.wso2.carbon.dashboards/shindig-wso2-extensions@2.0.4
 - pkg:maven/org.wso2.carbon.dashboards/shindig-wso2-extensions@2.0.5

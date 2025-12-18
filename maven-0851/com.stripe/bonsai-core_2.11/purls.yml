@@ -12,3 +12,5 @@
 - pkg:maven/com.stripe/bonsai-core_2.11@0.2.1?classifier=sources
 - pkg:maven/com.stripe/bonsai-core_2.11@0.3.0
 - pkg:maven/com.stripe/bonsai-core_2.11@0.3.0?classifier=sources
+- pkg:maven/com.stripe/bonsai-core_2.11@0.3.1
+- pkg:maven/com.stripe/bonsai-core_2.11@0.3.1?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/common-utils@5.3.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/common-utils@6.0.0
 - pkg:maven/org.daisy.pipeline.modules.braille/common-utils@6.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/common-utils@7.0.0
+- pkg:maven/org.daisy.pipeline.modules.braille/common-utils@7.0.0?classifier=sources

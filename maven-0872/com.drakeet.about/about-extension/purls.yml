@@ -1,0 +1,8 @@
+- pkg:maven/com.drakeet.about/about-extension@2.3.0?classifier=sources
+- pkg:maven/com.drakeet.about/about-extension@2.3.0?type=aar
+- pkg:maven/com.drakeet.about/about-extension@2.3.1?classifier=sources
+- pkg:maven/com.drakeet.about/about-extension@2.3.1?type=aar
+- pkg:maven/com.drakeet.about/about-extension@2.4.0?classifier=sources
+- pkg:maven/com.drakeet.about/about-extension@2.4.0?type=aar
+- pkg:maven/com.drakeet.about/about-extension@2.4.1?classifier=sources
+- pkg:maven/com.drakeet.about/about-extension@2.4.1?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.groestlcoin/eclair-node_2.11@0.3.2
+- pkg:maven/com.github.groestlcoin/eclair-node_2.11@0.3.2?classifier=sources

@@ -1,2 +1,8 @@
+- pkg:maven/org.gnieh/diffson-core_2.13@4.0.0
 - pkg:maven/org.gnieh/diffson-core_2.13@4.0.0-M4
 - pkg:maven/org.gnieh/diffson-core_2.13@4.0.0-M4?classifier=sources
+- pkg:maven/org.gnieh/diffson-core_2.13@4.0.0-M5
+- pkg:maven/org.gnieh/diffson-core_2.13@4.0.0-M5?classifier=sources
+- pkg:maven/org.gnieh/diffson-core_2.13@4.0.0?classifier=sources
+- pkg:maven/org.gnieh/diffson-core_2.13@4.0.1
+- pkg:maven/org.gnieh/diffson-core_2.13@4.0.1?classifier=sources

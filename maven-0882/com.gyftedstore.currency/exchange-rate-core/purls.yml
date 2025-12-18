@@ -8,3 +8,9 @@
 - pkg:maven/com.gyftedstore.currency/exchange-rate-core@1.0.4?classifier=sources
 - pkg:maven/com.gyftedstore.currency/exchange-rate-core@1.0.5
 - pkg:maven/com.gyftedstore.currency/exchange-rate-core@1.0.5?classifier=sources
+- pkg:maven/com.gyftedstore.currency/exchange-rate-core@1.0.6
+- pkg:maven/com.gyftedstore.currency/exchange-rate-core@1.0.6?classifier=sources
+- pkg:maven/com.gyftedstore.currency/exchange-rate-core@1.0.7
+- pkg:maven/com.gyftedstore.currency/exchange-rate-core@1.0.7?classifier=sources
+- pkg:maven/com.gyftedstore.currency/exchange-rate-core@1.0.8
+- pkg:maven/com.gyftedstore.currency/exchange-rate-core@1.0.8?classifier=sources

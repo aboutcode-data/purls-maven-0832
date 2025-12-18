@@ -8,3 +8,5 @@
 - pkg:maven/com.exonum.binding/exonum-java-binding-common@0.6.0?classifier=sources
 - pkg:maven/com.exonum.binding/exonum-java-binding-common@0.7.0
 - pkg:maven/com.exonum.binding/exonum-java-binding-common@0.7.0?classifier=sources
+- pkg:maven/com.exonum.binding/exonum-java-binding-common@0.8.0
+- pkg:maven/com.exonum.binding/exonum-java-binding-common@0.8.0?classifier=sources

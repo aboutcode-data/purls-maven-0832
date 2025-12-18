@@ -12,6 +12,12 @@
 - pkg:maven/io.takari/takari-archiver@0.1.18?classifier=sources
 - pkg:maven/io.takari/takari-archiver@0.1.19?classifier=sources
 - pkg:maven/io.takari/takari-archiver@0.1.1?classifier=sources
+- pkg:maven/io.takari/takari-archiver@0.1.20?classifier=sources
+- pkg:maven/io.takari/takari-archiver@0.1.21?classifier=sources
+- pkg:maven/io.takari/takari-archiver@0.1.22?classifier=sources
+- pkg:maven/io.takari/takari-archiver@0.1.23?classifier=sources
+- pkg:maven/io.takari/takari-archiver@0.1.24?classifier=sources
+- pkg:maven/io.takari/takari-archiver@0.1.25?classifier=sources
 - pkg:maven/io.takari/takari-archiver@0.1.2?classifier=sources
 - pkg:maven/io.takari/takari-archiver@0.1.4?classifier=sources
 - pkg:maven/io.takari/takari-archiver@0.1.5?classifier=sources

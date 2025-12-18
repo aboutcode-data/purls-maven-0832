@@ -10,3 +10,7 @@
 - pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@3.0.0?classifier=sources
 - pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@3.1.0
 - pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@3.1.0?classifier=sources
+- pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@3.2.0
+- pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@3.2.0?classifier=sources
+- pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@3.2.1
+- pkg:maven/com.solace.spring.boot/solace-java-spring-boot-autoconfigure@3.2.1?classifier=sources

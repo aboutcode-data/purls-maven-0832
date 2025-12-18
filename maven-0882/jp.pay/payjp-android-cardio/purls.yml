@@ -1,0 +1,6 @@
+- pkg:maven/jp.pay/payjp-android-cardio@1.0.0-RC1?classifier=sources
+- pkg:maven/jp.pay/payjp-android-cardio@1.0.0-RC1?type=aar
+- pkg:maven/jp.pay/payjp-android-cardio@1.0.0-RC2?classifier=sources
+- pkg:maven/jp.pay/payjp-android-cardio@1.0.0-RC2?type=aar
+- pkg:maven/jp.pay/payjp-android-cardio@1.0.0?classifier=sources
+- pkg:maven/jp.pay/payjp-android-cardio@1.0.0?type=aar

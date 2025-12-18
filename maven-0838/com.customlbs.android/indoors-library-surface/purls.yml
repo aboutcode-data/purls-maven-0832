@@ -3,3 +3,4 @@
 - pkg:maven/com.customlbs.android/indoors-library-surface@4.15.3?type=aar
 - pkg:maven/com.customlbs.android/indoors-library-surface@4.16.2?type=aar
 - pkg:maven/com.customlbs.android/indoors-library-surface@4.16.8?type=aar
+- pkg:maven/com.customlbs.android/indoors-library-surface@4.17.0?type=aar

@@ -8,6 +8,8 @@
 - pkg:maven/com.appoptics.agent.java/appoptics-agent@6.12.0?classifier=sources
 - pkg:maven/com.appoptics.agent.java/appoptics-agent@6.13.0
 - pkg:maven/com.appoptics.agent.java/appoptics-agent@6.13.0?classifier=sources
+- pkg:maven/com.appoptics.agent.java/appoptics-agent@6.14.0
+- pkg:maven/com.appoptics.agent.java/appoptics-agent@6.14.0?classifier=sources
 - pkg:maven/com.appoptics.agent.java/appoptics-agent@6.5.0
 - pkg:maven/com.appoptics.agent.java/appoptics-agent@6.5.0?classifier=sources
 - pkg:maven/com.appoptics.agent.java/appoptics-agent@6.5.1

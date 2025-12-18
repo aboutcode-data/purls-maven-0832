@@ -3,4 +3,16 @@
 - pkg:maven/com.thoughtworks.sde/core_2.13@3.3.1%2B144-00bb8f12
 - pkg:maven/com.thoughtworks.sde/core_2.13@3.3.1%2B144-00bb8f12?classifier=sources
 - pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B16-791c69b2
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B16-791c69b2?classifier=sources
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B17-df1cef73
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B17-df1cef73?classifier=sources
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B21-91f2b433
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B21-91f2b433?classifier=sources
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B24-6dbbb894
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B24-6dbbb894?classifier=sources
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B26-8a817e27
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B26-8a817e27?classifier=sources
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B28-d944b7c0
+- pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2%2B28-d944b7c0?classifier=sources
 - pkg:maven/com.thoughtworks.sde/core_2.13@3.3.2?classifier=sources

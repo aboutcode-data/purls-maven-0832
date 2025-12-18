@@ -4,3 +4,5 @@
 - pkg:maven/io.ebean/ebean-redis@11.31.1?classifier=sources
 - pkg:maven/io.ebean/ebean-redis@11.38.1
 - pkg:maven/io.ebean/ebean-redis@11.38.1?classifier=sources
+- pkg:maven/io.ebean/ebean-redis@12.1.1
+- pkg:maven/io.ebean/ebean-redis@12.1.1?classifier=sources

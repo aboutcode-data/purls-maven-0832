@@ -32,7 +32,16 @@
 - pkg:maven/org.opensourcebim/oauthclienttest@0.0.42
 - pkg:maven/org.opensourcebim/oauthclienttest@0.0.43
 - pkg:maven/org.opensourcebim/oauthclienttest@0.0.44
+- pkg:maven/org.opensourcebim/oauthclienttest@0.0.45
+- pkg:maven/org.opensourcebim/oauthclienttest@0.0.46
 - pkg:maven/org.opensourcebim/oauthclienttest@0.0.5
+- pkg:maven/org.opensourcebim/oauthclienttest@0.0.50
+- pkg:maven/org.opensourcebim/oauthclienttest@0.0.51
+- pkg:maven/org.opensourcebim/oauthclienttest@0.0.52
+- pkg:maven/org.opensourcebim/oauthclienttest@0.0.53
+- pkg:maven/org.opensourcebim/oauthclienttest@0.0.54
 - pkg:maven/org.opensourcebim/oauthclienttest@0.0.7
 - pkg:maven/org.opensourcebim/oauthclienttest@0.0.8
 - pkg:maven/org.opensourcebim/oauthclienttest@0.0.9
+- pkg:maven/org.opensourcebim/oauthclienttest@oauthclienttest-0.0.46
+- pkg:maven/org.opensourcebim/oauthclienttest@oauthclienttest-oauthclienttest-0.0.47

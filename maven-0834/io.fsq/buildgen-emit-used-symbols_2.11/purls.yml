@@ -8,3 +8,5 @@
 - pkg:maven/io.fsq/buildgen-emit-used-symbols_2.11@2.0.2?classifier=sources
 - pkg:maven/io.fsq/buildgen-emit-used-symbols_2.11@2.1.0
 - pkg:maven/io.fsq/buildgen-emit-used-symbols_2.11@2.1.0?classifier=sources
+- pkg:maven/io.fsq/buildgen-emit-used-symbols_2.11@2.3.0
+- pkg:maven/io.fsq/buildgen-emit-used-symbols_2.11@2.3.0?classifier=sources

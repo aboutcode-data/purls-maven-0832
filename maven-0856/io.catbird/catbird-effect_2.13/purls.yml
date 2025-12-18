@@ -1,0 +1,6 @@
+- pkg:maven/io.catbird/catbird-effect_2.13@19.10.0
+- pkg:maven/io.catbird/catbird-effect_2.13@19.10.0?classifier=sources
+- pkg:maven/io.catbird/catbird-effect_2.13@19.11.0
+- pkg:maven/io.catbird/catbird-effect_2.13@19.11.0?classifier=sources
+- pkg:maven/io.catbird/catbird-effect_2.13@19.9.0
+- pkg:maven/io.catbird/catbird-effect_2.13@19.9.0?classifier=sources

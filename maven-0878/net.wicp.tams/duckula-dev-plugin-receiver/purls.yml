@@ -2,3 +2,5 @@
 - pkg:maven/net.wicp.tams/duckula-dev-plugin-receiver@2.0.0?classifier=sources
 - pkg:maven/net.wicp.tams/duckula-dev-plugin-receiver@2.0.1
 - pkg:maven/net.wicp.tams/duckula-dev-plugin-receiver@2.0.1?classifier=sources
+- pkg:maven/net.wicp.tams/duckula-dev-plugin-receiver@2.0.3
+- pkg:maven/net.wicp.tams/duckula-dev-plugin-receiver@2.0.3?classifier=sources

@@ -39,3 +39,5 @@
 - pkg:maven/org.jboss.windup.reporting/windup-reporting-tests@4.2.1.Alpha1
 - pkg:maven/org.jboss.windup.reporting/windup-reporting-tests@4.2.1.Alpha2
 - pkg:maven/org.jboss.windup.reporting/windup-reporting-tests@4.2.1.Final
+- pkg:maven/org.jboss.windup.reporting/windup-reporting-tests@4.3.0.Alpha1
+- pkg:maven/org.jboss.windup.reporting/windup-reporting-tests@4.3.0.Alpha2

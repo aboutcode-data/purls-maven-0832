@@ -54,3 +54,9 @@
 - pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.36?classifier=sources
 - pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.37
 - pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.37?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.38
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.38?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.39
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.39?classifier=sources
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.40
+- pkg:maven/edu.psu.swe.commons/commons-jaxrs@1.40?classifier=sources

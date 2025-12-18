@@ -1,0 +1,2 @@
+- pkg:maven/org.primefaces.extensions/primefaces-arquillian@7.0.0
+- pkg:maven/org.primefaces.extensions/primefaces-arquillian@7.0.0?classifier=sources

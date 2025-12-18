@@ -1,0 +1,2 @@
+- pkg:maven/fr.vsct.tock/tock-bot-connector-web@19.3.3
+- pkg:maven/fr.vsct.tock/tock-bot-connector-web@19.3.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-registry-utils-kafka@1.0.2.Final
+- pkg:maven/io.apicurio/apicurio-registry-utils-kafka@1.0.2.Final?classifier=sources

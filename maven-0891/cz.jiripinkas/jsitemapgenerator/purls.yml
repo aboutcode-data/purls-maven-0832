@@ -31,6 +31,10 @@
 - pkg:maven/cz.jiripinkas/jsitemapgenerator@3.13?classifier=sources
 - pkg:maven/cz.jiripinkas/jsitemapgenerator@3.14
 - pkg:maven/cz.jiripinkas/jsitemapgenerator@3.14?classifier=sources
+- pkg:maven/cz.jiripinkas/jsitemapgenerator@3.15
+- pkg:maven/cz.jiripinkas/jsitemapgenerator@3.15?classifier=sources
+- pkg:maven/cz.jiripinkas/jsitemapgenerator@3.16
+- pkg:maven/cz.jiripinkas/jsitemapgenerator@3.16?classifier=sources
 - pkg:maven/cz.jiripinkas/jsitemapgenerator@3.1?classifier=sources
 - pkg:maven/cz.jiripinkas/jsitemapgenerator@3.2
 - pkg:maven/cz.jiripinkas/jsitemapgenerator@3.2?classifier=sources
@@ -48,3 +52,5 @@
 - pkg:maven/cz.jiripinkas/jsitemapgenerator@3.8?classifier=sources
 - pkg:maven/cz.jiripinkas/jsitemapgenerator@3.9
 - pkg:maven/cz.jiripinkas/jsitemapgenerator@3.9?classifier=sources
+- pkg:maven/cz.jiripinkas/jsitemapgenerator@4.0
+- pkg:maven/cz.jiripinkas/jsitemapgenerator@4.0?classifier=sources

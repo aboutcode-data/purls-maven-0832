@@ -1,2 +1,4 @@
 - pkg:maven/com.ghdiri.abdallah/junit5-dummy-sftp-server@0.1.0
 - pkg:maven/com.ghdiri.abdallah/junit5-dummy-sftp-server@0.1.0?classifier=sources
+- pkg:maven/com.ghdiri.abdallah/junit5-dummy-sftp-server@0.2.0
+- pkg:maven/com.ghdiri.abdallah/junit5-dummy-sftp-server@0.2.0?classifier=sources

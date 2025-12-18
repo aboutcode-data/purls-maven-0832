@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-tooling@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-tooling@RELEASE112?classifier=sources

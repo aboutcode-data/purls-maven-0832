@@ -1,0 +1,2 @@
+- pkg:maven/io.codekontor.mojos/copydependencies-maven-plugin@1.0.0.RC1
+- pkg:maven/io.codekontor.mojos/copydependencies-maven-plugin@1.0.0.RC1?classifier=sources

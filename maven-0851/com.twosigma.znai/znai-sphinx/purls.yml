@@ -1,2 +1,10 @@
 - pkg:maven/com.twosigma.znai/znai-sphinx@0.16
 - pkg:maven/com.twosigma.znai/znai-sphinx@0.16?classifier=sources
+- pkg:maven/com.twosigma.znai/znai-sphinx@1.18
+- pkg:maven/com.twosigma.znai/znai-sphinx@1.18?classifier=sources
+- pkg:maven/com.twosigma.znai/znai-sphinx@1.19
+- pkg:maven/com.twosigma.znai/znai-sphinx@1.19?classifier=sources
+- pkg:maven/com.twosigma.znai/znai-sphinx@1.20
+- pkg:maven/com.twosigma.znai/znai-sphinx@1.20?classifier=sources
+- pkg:maven/com.twosigma.znai/znai-sphinx@1.21
+- pkg:maven/com.twosigma.znai/znai-sphinx@1.21?classifier=sources

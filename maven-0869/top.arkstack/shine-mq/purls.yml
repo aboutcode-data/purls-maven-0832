@@ -20,3 +20,5 @@
 - pkg:maven/top.arkstack/shine-mq@2.0.5?classifier=sources
 - pkg:maven/top.arkstack/shine-mq@2.1.0
 - pkg:maven/top.arkstack/shine-mq@2.1.0?classifier=sources
+- pkg:maven/top.arkstack/shine-mq@2.2.0
+- pkg:maven/top.arkstack/shine-mq@2.2.0?classifier=sources

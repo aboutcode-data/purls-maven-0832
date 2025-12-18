@@ -22,3 +22,11 @@
 - pkg:maven/com.codacy/metrics-core_2.11@1.3.0?classifier=sources
 - pkg:maven/com.codacy/metrics-core_2.11@1.3.1
 - pkg:maven/com.codacy/metrics-core_2.11@1.3.1?classifier=sources
+- pkg:maven/com.codacy/metrics-core_2.11@2.0.0
+- pkg:maven/com.codacy/metrics-core_2.11@2.0.0?classifier=sources
+- pkg:maven/com.codacy/metrics-core_2.11@2.0.1-allowcustommetricname.1f2e389
+- pkg:maven/com.codacy/metrics-core_2.11@2.0.1-allowcustommetricname.1f2e389?classifier=sources
+- pkg:maven/com.codacy/metrics-core_2.11@2.0.1-allowcustommetricname.75edb3e
+- pkg:maven/com.codacy/metrics-core_2.11@2.0.1-allowcustommetricname.75edb3e?classifier=sources
+- pkg:maven/com.codacy/metrics-core_2.11@3.0.0
+- pkg:maven/com.codacy/metrics-core_2.11@3.0.0?classifier=sources

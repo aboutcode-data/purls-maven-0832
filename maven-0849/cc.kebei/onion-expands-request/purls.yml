@@ -4,3 +4,5 @@
 - pkg:maven/cc.kebei/onion-expands-request@3.0.3?classifier=sources
 - pkg:maven/cc.kebei/onion-expands-request@3.0.4
 - pkg:maven/cc.kebei/onion-expands-request@3.0.4?classifier=sources
+- pkg:maven/cc.kebei/onion-expands-request@3.0.5
+- pkg:maven/cc.kebei/onion-expands-request@3.0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.bahir/bahir-spark-distribution_2.12@2.4.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.bahir/bahir-spark-distribution_2.12@2.4.0?classifier=src&type=zip

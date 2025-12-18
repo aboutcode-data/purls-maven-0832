@@ -1,0 +1,1 @@
+- pkg:maven/io.servicetalk/servicetalk-opentracing-zipkin-publisher@0.20.0?classifier=sources

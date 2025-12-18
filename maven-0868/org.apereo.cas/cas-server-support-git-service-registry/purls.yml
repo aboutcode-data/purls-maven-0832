@@ -1,3 +1,4 @@
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0
 - pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC1
 - pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC2
@@ -6,3 +7,13 @@
 - pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC4
 - pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC5
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC5?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC6
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0-RC6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.1
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.2
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.1.2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-git-service-registry@6.2.0-RC1?classifier=sources

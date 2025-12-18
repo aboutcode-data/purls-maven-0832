@@ -26,3 +26,11 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@3.3.3?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@3.4.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@3.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@3.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@3.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@3.5.1
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@3.5.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@3.5.2
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@3.5.2?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@4.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation-velocity@4.0.0?classifier=sources

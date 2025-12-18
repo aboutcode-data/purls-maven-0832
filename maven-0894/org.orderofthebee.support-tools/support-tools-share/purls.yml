@@ -1,2 +1,4 @@
 - pkg:maven/org.orderofthebee.support-tools/support-tools-share@0.0.1.0?classifier=sources
 - pkg:maven/org.orderofthebee.support-tools/support-tools-share@1.0.0.0?classifier=sources
+- pkg:maven/org.orderofthebee.support-tools/support-tools-share@1.1.0.0
+- pkg:maven/org.orderofthebee.support-tools/support-tools-share@1.1.0.0?classifier=sources

@@ -18,6 +18,12 @@
 - pkg:maven/org.verapdf/feature-reporting@1.14.101?classifier=sources
 - pkg:maven/org.verapdf/feature-reporting@1.14.102
 - pkg:maven/org.verapdf/feature-reporting@1.14.102?classifier=sources
+- pkg:maven/org.verapdf/feature-reporting@1.14.103
+- pkg:maven/org.verapdf/feature-reporting@1.14.103?classifier=sources
+- pkg:maven/org.verapdf/feature-reporting@1.14.104
+- pkg:maven/org.verapdf/feature-reporting@1.14.104?classifier=sources
+- pkg:maven/org.verapdf/feature-reporting@1.14.105
+- pkg:maven/org.verapdf/feature-reporting@1.14.105?classifier=sources
 - pkg:maven/org.verapdf/feature-reporting@1.14.4-RC
 - pkg:maven/org.verapdf/feature-reporting@1.14.4-RC?classifier=sources
 - pkg:maven/org.verapdf/feature-reporting@1.14.6-RC

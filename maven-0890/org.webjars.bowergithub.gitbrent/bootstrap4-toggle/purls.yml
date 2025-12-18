@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.gitbrent/bootstrap4-toggle@3.4.0
 - pkg:maven/org.webjars.bowergithub.gitbrent/bootstrap4-toggle@3.4.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.gitbrent/bootstrap4-toggle@3.6.1
+- pkg:maven/org.webjars.bowergithub.gitbrent/bootstrap4-toggle@3.6.1?classifier=sources

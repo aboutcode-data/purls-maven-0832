@@ -1,0 +1,3 @@
+- pkg:maven/com.gnerv.boot/utils@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.gnerv.boot/utils@1.0.1-RELEASE
+- pkg:maven/com.gnerv.boot/utils@1.0.1-RELEASE?classifier=sources

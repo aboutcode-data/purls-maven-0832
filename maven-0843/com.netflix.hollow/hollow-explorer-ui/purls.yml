@@ -185,6 +185,10 @@
 - pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.10?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.11
 - pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.11?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.12
+- pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.12?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.13
+- pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.13?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.1?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.2
 - pkg:maven/com.netflix.hollow/hollow-explorer-ui@4.7.2?classifier=sources

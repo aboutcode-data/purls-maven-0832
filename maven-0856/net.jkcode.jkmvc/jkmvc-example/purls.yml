@@ -1,0 +1,2 @@
+- pkg:maven/net.jkcode.jkmvc/jkmvc-example@1.8.0
+- pkg:maven/net.jkcode.jkmvc/jkmvc-example@1.8.0?classifier=sources

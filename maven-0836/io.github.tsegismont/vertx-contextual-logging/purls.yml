@@ -1,0 +1,4 @@
+- pkg:maven/io.github.tsegismont/vertx-contextual-logging@1.0.0-alpha
+- pkg:maven/io.github.tsegismont/vertx-contextual-logging@1.0.0-alpha2
+- pkg:maven/io.github.tsegismont/vertx-contextual-logging@1.0.0-alpha2?classifier=sources
+- pkg:maven/io.github.tsegismont/vertx-contextual-logging@1.0.0-alpha?classifier=sources

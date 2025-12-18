@@ -8,3 +8,11 @@
 - pkg:maven/de.adorsys/last-module-codecoverage-check@0.4.1
 - pkg:maven/de.adorsys/last-module-codecoverage-check@0.4.2
 - pkg:maven/de.adorsys/last-module-codecoverage-check@0.4.3
+- pkg:maven/de.adorsys/last-module-codecoverage-check@0.5
+- pkg:maven/de.adorsys/last-module-codecoverage-check@0.6.0
+- pkg:maven/de.adorsys/last-module-codecoverage-check@0.6.1
+- pkg:maven/de.adorsys/last-module-codecoverage-check@0.6.2
+- pkg:maven/de.adorsys/last-module-codecoverage-check@0.7.0
+- pkg:maven/de.adorsys/last-module-codecoverage-check@0.7.1
+- pkg:maven/de.adorsys/last-module-codecoverage-check@1.0.0
+- pkg:maven/de.adorsys/last-module-codecoverage-check@1.0.0.1

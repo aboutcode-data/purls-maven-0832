@@ -1,0 +1,6 @@
+- pkg:maven/org.linuxprobe/shiro-pac4j-spring-boot-start@0.0.1.RS1
+- pkg:maven/org.linuxprobe/shiro-pac4j-spring-boot-start@0.0.1.RS1?classifier=sources
+- pkg:maven/org.linuxprobe/shiro-pac4j-spring-boot-start@0.0.1.RS2
+- pkg:maven/org.linuxprobe/shiro-pac4j-spring-boot-start@0.0.1.RS2?classifier=sources
+- pkg:maven/org.linuxprobe/shiro-pac4j-spring-boot-start@0.0.1.RS3
+- pkg:maven/org.linuxprobe/shiro-pac4j-spring-boot-start@0.0.1.RS3?classifier=sources

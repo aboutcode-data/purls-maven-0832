@@ -8,5 +8,7 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.pluggable.core@1.2.200?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.pluggable.core@1.2.300
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.pluggable.core@1.2.300?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.pluggable.core@1.2.400
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.pluggable.core@1.2.400?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.pluggable.core@1.2.50
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.pluggable.core@1.2.50?classifier=sources

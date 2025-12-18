@@ -1,0 +1,2 @@
+- pkg:maven/com.github.spring-boot-ext/aliyun-ext@2.1.4
+- pkg:maven/com.github.spring-boot-ext/aliyun-ext@2.1.4?classifier=sources

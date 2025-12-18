@@ -1,0 +1,10 @@
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.10-de7b64a
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.10-de7b64a?classifier=sources
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.2-c8b077c
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.2-c8b077c?classifier=sources
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.3-d7f6302
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.3-d7f6302?classifier=sources
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.5-328d21d
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.5-328d21d?classifier=sources
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.8-90c47f8
+- pkg:maven/zone.gryphon.dropwizard/dropwizard-toolbox-test-logging@1.0.8-90c47f8?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-executable@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-executable@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-executable@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-executable@RELEASE112?classifier=sources

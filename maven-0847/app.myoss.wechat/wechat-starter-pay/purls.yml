@@ -1,0 +1,2 @@
+- pkg:maven/app.myoss.wechat/wechat-starter-pay@1.1.1.RELEASE
+- pkg:maven/app.myoss.wechat/wechat-starter-pay@1.1.1.RELEASE?classifier=sources

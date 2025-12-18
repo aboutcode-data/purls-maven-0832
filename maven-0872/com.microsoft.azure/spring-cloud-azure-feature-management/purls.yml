@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M4
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M4?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M5
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M5?classifier=sources

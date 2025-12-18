@@ -1,0 +1,2 @@
+- pkg:maven/io.r2dbc/r2dbc-spi-test@0.8.0.RELEASE
+- pkg:maven/io.r2dbc/r2dbc-spi-test@0.8.0.RELEASE?classifier=sources

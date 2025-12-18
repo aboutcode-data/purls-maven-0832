@@ -1,0 +1,10 @@
+- pkg:maven/com.github.ants-double/mainhua@1.0-RELEASE
+- pkg:maven/com.github.ants-double/mainhua@1.0-RELEASE?classifier=sources
+- pkg:maven/com.github.ants-double/mainhua@1.01-RELEASE
+- pkg:maven/com.github.ants-double/mainhua@1.01-RELEASE?classifier=sources
+- pkg:maven/com.github.ants-double/mainhua@1.02-RELEASE
+- pkg:maven/com.github.ants-double/mainhua@1.02-RELEASE?classifier=sources
+- pkg:maven/com.github.ants-double/mainhua@1.03-RELEASE
+- pkg:maven/com.github.ants-double/mainhua@1.03-RELEASE?classifier=sources
+- pkg:maven/com.github.ants-double/mainhua@1.04
+- pkg:maven/com.github.ants-double/mainhua@1.04?classifier=sources

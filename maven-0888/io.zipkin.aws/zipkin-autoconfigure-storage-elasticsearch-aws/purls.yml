@@ -48,3 +48,7 @@
 - pkg:maven/io.zipkin.aws/zipkin-autoconfigure-storage-elasticsearch-aws@0.17.3?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-autoconfigure-storage-elasticsearch-aws@0.17.4
 - pkg:maven/io.zipkin.aws/zipkin-autoconfigure-storage-elasticsearch-aws@0.17.4?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-autoconfigure-storage-elasticsearch-aws@0.18.0
+- pkg:maven/io.zipkin.aws/zipkin-autoconfigure-storage-elasticsearch-aws@0.18.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-autoconfigure-storage-elasticsearch-aws@0.18.1
+- pkg:maven/io.zipkin.aws/zipkin-autoconfigure-storage-elasticsearch-aws@0.18.1?classifier=sources

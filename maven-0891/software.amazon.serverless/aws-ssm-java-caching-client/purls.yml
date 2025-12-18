@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.serverless/aws-ssm-java-caching-client@1.0.0
+- pkg:maven/software.amazon.serverless/aws-ssm-java-caching-client@1.0.0?classifier=sources

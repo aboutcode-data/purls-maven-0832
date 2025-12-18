@@ -172,6 +172,10 @@
 - pkg:maven/org.uberfire/uberfire-client-all@2.21.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-client-all@2.22.0.Final
 - pkg:maven/org.uberfire/uberfire-client-all@2.22.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-all@2.23.0.Final
+- pkg:maven/org.uberfire/uberfire-client-all@2.23.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-all@2.24.0.Final
+- pkg:maven/org.uberfire/uberfire-client-all@2.24.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-client-all@2.3.0.Final
 - pkg:maven/org.uberfire/uberfire-client-all@2.3.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-client-all@2.4.0.Final
@@ -186,3 +190,9 @@
 - pkg:maven/org.uberfire/uberfire-client-all@2.8.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-client-all@2.9.0.Final
 - pkg:maven/org.uberfire/uberfire-client-all@2.9.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-all@7.28.0.Final
+- pkg:maven/org.uberfire/uberfire-client-all@7.28.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-all@7.29.0.Final
+- pkg:maven/org.uberfire/uberfire-client-all@7.29.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-all@7.30.0.Final
+- pkg:maven/org.uberfire/uberfire-client-all@7.30.0.Final?classifier=sources

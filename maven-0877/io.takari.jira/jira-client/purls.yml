@@ -1,0 +1,2 @@
+- pkg:maven/io.takari.jira/jira-client@0.6?classifier=sources
+- pkg:maven/io.takari.jira/jira-client@0.7?classifier=sources

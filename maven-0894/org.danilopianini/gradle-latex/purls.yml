@@ -1,0 +1,14 @@
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0-archeo%2B2e4c60a
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0-archeo%2B2e4c60a?classifier=sources
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0-archeo%2B514a80f
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0-archeo%2B514a80f?classifier=sources
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0-archeo%2Bc5ccc7c
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0-archeo%2Bc5ccc7c?classifier=sources
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0-dev03%2Ba250213
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0-dev03%2Ba250213?classifier=sources
+- pkg:maven/org.danilopianini/gradle-latex@0.1.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-latex@0.1.1
+- pkg:maven/org.danilopianini/gradle-latex@0.1.1-dev01%2B4d0243b
+- pkg:maven/org.danilopianini/gradle-latex@0.1.1-dev01%2B4d0243b?classifier=sources
+- pkg:maven/org.danilopianini/gradle-latex@0.1.1?classifier=sources

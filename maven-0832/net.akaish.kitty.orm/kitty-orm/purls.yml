@@ -12,5 +12,7 @@
 - pkg:maven/net.akaish.kitty.orm/kitty-orm@0.2.0?type=aar
 - pkg:maven/net.akaish.kitty.orm/kitty-orm@0.2.1?classifier=sources
 - pkg:maven/net.akaish.kitty.orm/kitty-orm@0.2.1?type=aar
+- pkg:maven/net.akaish.kitty.orm/kitty-orm@0.2.21?classifier=sources
+- pkg:maven/net.akaish.kitty.orm/kitty-orm@0.2.21?type=aar
 - pkg:maven/net.akaish.kitty.orm/kitty-orm@0.2.2?classifier=sources
 - pkg:maven/net.akaish.kitty.orm/kitty-orm@0.2.2?type=aar

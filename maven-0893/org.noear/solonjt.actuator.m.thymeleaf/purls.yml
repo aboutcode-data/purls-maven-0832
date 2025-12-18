@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solonjt.actuator.m.thymeleaf@1.0.1
+- pkg:maven/org.noear/solonjt.actuator.m.thymeleaf@1.0.1?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/com.trasier/trasier-client-spring-grpc-starter@1.4.2
+- pkg:maven/com.trasier/trasier-client-spring-grpc-starter@2.0.0
+- pkg:maven/com.trasier/trasier-client-spring-grpc-starter@2.0.1

@@ -8,3 +8,5 @@
 - pkg:maven/io.prestosql.tempto/tempto-logging-log4j@164?classifier=sources
 - pkg:maven/io.prestosql.tempto/tempto-logging-log4j@165
 - pkg:maven/io.prestosql.tempto/tempto-logging-log4j@165?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-logging-log4j@166
+- pkg:maven/io.prestosql.tempto/tempto-logging-log4j@166?classifier=sources

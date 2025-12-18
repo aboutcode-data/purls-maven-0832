@@ -10,6 +10,10 @@
 - pkg:maven/br.com.jarch/jarch-apt@19.1.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-apt@19.1.1
 - pkg:maven/br.com.jarch/jarch-apt@19.1.1?classifier=sources
+- pkg:maven/br.com.jarch/jarch-apt@19.10.0
+- pkg:maven/br.com.jarch/jarch-apt@19.10.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-apt@19.11.0
+- pkg:maven/br.com.jarch/jarch-apt@19.11.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-apt@19.2.0
 - pkg:maven/br.com.jarch/jarch-apt@19.2.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-apt@19.3.0
@@ -22,5 +26,9 @@
 - pkg:maven/br.com.jarch/jarch-apt@19.6.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-apt@19.7.0
 - pkg:maven/br.com.jarch/jarch-apt@19.7.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-apt@19.8.0
+- pkg:maven/br.com.jarch/jarch-apt@19.8.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-apt@19.9.0
+- pkg:maven/br.com.jarch/jarch-apt@19.9.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-apt@2.23.5
 - pkg:maven/br.com.jarch/jarch-apt@2.23.5?classifier=sources

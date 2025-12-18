@@ -1,0 +1,4 @@
+- pkg:maven/com.walterjwhite.java.modules.workflow.examples/user-provisioning@0.0.17
+- pkg:maven/com.walterjwhite.java.modules.workflow.examples/user-provisioning@0.0.17?classifier=sources
+- pkg:maven/com.walterjwhite.java.modules.workflow.examples/user-provisioning@0.0.18
+- pkg:maven/com.walterjwhite.java.modules.workflow.examples/user-provisioning@0.0.18?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.tinyspline/tinyspline@0.3.0-1
+- pkg:maven/org.tinyspline/tinyspline@0.3.0-1?classifier=sources

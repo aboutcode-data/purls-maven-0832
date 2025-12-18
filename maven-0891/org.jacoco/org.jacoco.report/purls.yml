@@ -47,3 +47,5 @@
 - pkg:maven/org.jacoco/org.jacoco.report@0.8.3?classifier=sources
 - pkg:maven/org.jacoco/org.jacoco.report@0.8.4
 - pkg:maven/org.jacoco/org.jacoco.report@0.8.4?classifier=sources
+- pkg:maven/org.jacoco/org.jacoco.report@0.8.5
+- pkg:maven/org.jacoco/org.jacoco.report@0.8.5?classifier=sources

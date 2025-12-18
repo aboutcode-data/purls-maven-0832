@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-azure-services-api-nar@1.10.0?classifier=sources

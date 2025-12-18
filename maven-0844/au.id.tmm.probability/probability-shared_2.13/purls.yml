@@ -1,0 +1,2 @@
+- pkg:maven/au.id.tmm.probability/probability-shared_2.13@0.1.0
+- pkg:maven/au.id.tmm.probability/probability-shared_2.13@0.1.0?classifier=sources

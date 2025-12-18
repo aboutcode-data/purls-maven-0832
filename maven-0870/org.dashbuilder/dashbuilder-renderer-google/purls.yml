@@ -130,6 +130,10 @@
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.21.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.22.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.22.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.23.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.23.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.24.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.24.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.3.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.3.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.4.0.Final
@@ -144,3 +148,9 @@
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.8.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.9.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-google@2.9.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@7.28.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@7.28.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@7.29.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@7.29.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@7.30.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-google@7.30.0.Final?classifier=sources

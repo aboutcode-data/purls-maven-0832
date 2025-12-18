@@ -1,0 +1,2 @@
+- pkg:maven/com.github.albfernandez.richfaces.cdk.test/cdk-test-component@4.6.0.ayg
+- pkg:maven/com.github.albfernandez.richfaces.cdk.test/cdk-test-component@4.6.0.ayg?classifier=sources

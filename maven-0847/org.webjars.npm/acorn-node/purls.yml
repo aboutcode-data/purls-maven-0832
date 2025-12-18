@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/acorn-node@1.6.2?classifier=sources
 - pkg:maven/org.webjars.npm/acorn-node@1.7.0
 - pkg:maven/org.webjars.npm/acorn-node@1.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/acorn-node@1.8.2
+- pkg:maven/org.webjars.npm/acorn-node@1.8.2?classifier=sources

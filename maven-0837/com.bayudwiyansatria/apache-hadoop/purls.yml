@@ -1,0 +1,2 @@
+- pkg:maven/com.bayudwiyansatria/apache-hadoop@1.0
+- pkg:maven/com.bayudwiyansatria/apache-hadoop@1.0?classifier=sources

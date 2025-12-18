@@ -62,3 +62,5 @@
 - pkg:maven/org.codehaus.plexus/plexus-component-metadata@1.7?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-component-metadata@2.0.0
 - pkg:maven/org.codehaus.plexus/plexus-component-metadata@2.0.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-component-metadata@2.1.0
+- pkg:maven/org.codehaus.plexus/plexus-component-metadata@2.1.0?classifier=sources

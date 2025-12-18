@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/codestar-notifications@770.2.568.0
+- pkg:maven/com.cognitect.aws/codestar-notifications@770.2.568.0?classifier=sources

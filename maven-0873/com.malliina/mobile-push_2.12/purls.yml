@@ -28,6 +28,12 @@
 - pkg:maven/com.malliina/mobile-push_2.12@1.18.3?classifier=sources
 - pkg:maven/com.malliina/mobile-push_2.12@1.18.8
 - pkg:maven/com.malliina/mobile-push_2.12@1.18.8?classifier=sources
+- pkg:maven/com.malliina/mobile-push_2.12@1.19.0
+- pkg:maven/com.malliina/mobile-push_2.12@1.19.0?classifier=sources
+- pkg:maven/com.malliina/mobile-push_2.12@1.20.0
+- pkg:maven/com.malliina/mobile-push_2.12@1.20.0?classifier=sources
+- pkg:maven/com.malliina/mobile-push_2.12@1.21.0
+- pkg:maven/com.malliina/mobile-push_2.12@1.21.0?classifier=sources
 - pkg:maven/com.malliina/mobile-push_2.12@1.7.2
 - pkg:maven/com.malliina/mobile-push_2.12@1.7.2?classifier=sources
 - pkg:maven/com.malliina/mobile-push_2.12@1.7.3

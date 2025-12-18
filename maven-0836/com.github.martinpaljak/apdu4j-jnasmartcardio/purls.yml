@@ -1,2 +1,4 @@
 - pkg:maven/com.github.martinpaljak/apdu4j-jnasmartcardio@0.2.7%2B190425
 - pkg:maven/com.github.martinpaljak/apdu4j-jnasmartcardio@0.2.7%2B190425?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j-jnasmartcardio@0.2.7%2B191107
+- pkg:maven/com.github.martinpaljak/apdu4j-jnasmartcardio@0.2.7%2B191107?classifier=sources

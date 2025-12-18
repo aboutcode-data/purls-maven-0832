@@ -8,3 +8,5 @@
 - pkg:maven/com.github.waffle/waffle-spring-boot-autoconfigure@2.0.0-beta2
 - pkg:maven/com.github.waffle/waffle-spring-boot-autoconfigure@2.0.0-beta2?classifier=sources
 - pkg:maven/com.github.waffle/waffle-spring-boot-autoconfigure@2.0.0?classifier=sources
+- pkg:maven/com.github.waffle/waffle-spring-boot-autoconfigure@2.1.0
+- pkg:maven/com.github.waffle/waffle-spring-boot-autoconfigure@2.1.0?classifier=sources

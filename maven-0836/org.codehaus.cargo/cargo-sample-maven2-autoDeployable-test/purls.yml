@@ -52,3 +52,4 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-autoDeployable-test@1.7.5?type=war
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-autoDeployable-test@1.7.6?type=war
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-autoDeployable-test@1.7.7?type=war
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-autoDeployable-test@1.7.8?type=war

@@ -80,3 +80,7 @@
 - pkg:maven/com.netflix.nebula/nebula-clojure-plugin@8.1.4?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-clojure-plugin@9.0.0
 - pkg:maven/com.netflix.nebula/nebula-clojure-plugin@9.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-clojure-plugin@9.1.0
+- pkg:maven/com.netflix.nebula/nebula-clojure-plugin@9.1.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-clojure-plugin@9.1.2?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-clojure-plugin@9.2.0?classifier=sources

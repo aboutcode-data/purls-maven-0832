@@ -2,6 +2,9 @@
 - pkg:maven/com.nexmo.android/client-sdk@0.0.11?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.0.13?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.0.14?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@0.0.15?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@0.0.16?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@0.0.17?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.0.1?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.0.2?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.0.3?type=aar
@@ -11,7 +14,15 @@
 - pkg:maven/com.nexmo.android/client-sdk@0.0.7?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.0.8?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.0.9?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@0.0.A?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@0.0.AA?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@0.0.B?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.2.65?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.2.66?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.2.67?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@0.3.0?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@1.0.0?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@1.0.1?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@1.0.2?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@1.0.3?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@1.1.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/io.razem/scala-influxdb-client_2.12@0.6.2
+- pkg:maven/io.razem/scala-influxdb-client_2.12@0.6.2?classifier=sources

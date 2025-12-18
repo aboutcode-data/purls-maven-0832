@@ -1,0 +1,2 @@
+- pkg:maven/dev.travisbrown/cats-core_2.11@2.0.0-CATS_3043-1
+- pkg:maven/dev.travisbrown/cats-core_2.11@2.0.0-CATS_3043-1?classifier=sources

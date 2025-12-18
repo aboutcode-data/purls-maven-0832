@@ -4,3 +4,5 @@
 - pkg:maven/com.spotify/ratatool-extras_2.11@0.3.11?classifier=sources
 - pkg:maven/com.spotify/ratatool-extras_2.11@0.3.12
 - pkg:maven/com.spotify/ratatool-extras_2.11@0.3.12?classifier=sources
+- pkg:maven/com.spotify/ratatool-extras_2.11@0.3.13
+- pkg:maven/com.spotify/ratatool-extras_2.11@0.3.13?classifier=sources

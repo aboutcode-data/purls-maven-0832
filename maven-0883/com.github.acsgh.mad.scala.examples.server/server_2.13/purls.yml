@@ -1,0 +1,2 @@
+- pkg:maven/com.github.acsgh.mad.scala.examples.server/server_2.13@0.7.0
+- pkg:maven/com.github.acsgh.mad.scala.examples.server/server_2.13@0.7.0?classifier=sources

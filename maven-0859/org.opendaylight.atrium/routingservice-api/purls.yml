@@ -1,0 +1,10 @@
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.1-Boron
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.1-Boron?classifier=sources
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.2-Boron-SR1
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.2-Boron-SR1?classifier=sources
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.3-Boron-SR2
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.3-Boron-SR2?classifier=sources
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.4-Boron-SR3
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.4-Boron-SR3?classifier=sources
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.5-Boron-SR4
+- pkg:maven/org.opendaylight.atrium/routingservice-api@0.0.5-Boron-SR4?classifier=sources

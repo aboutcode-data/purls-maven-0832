@@ -10,3 +10,5 @@
 - pkg:maven/org.tpolecat/doobie-free_2.13.0-M5@0.7.0-M5
 - pkg:maven/org.tpolecat/doobie-free_2.13.0-M5@0.7.0-M5?classifier=sources
 - pkg:maven/org.tpolecat/doobie-free_2.13.0-M5@0.7.0?classifier=sources
+- pkg:maven/org.tpolecat/doobie-free_2.13.0-M5@0.7.1
+- pkg:maven/org.tpolecat/doobie-free_2.13.0-M5@0.7.1?classifier=sources

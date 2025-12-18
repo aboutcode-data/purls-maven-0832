@@ -117,7 +117,10 @@
 - pkg:maven/io.joynr.tools.generator/dependency-libs@1.6.5
 - pkg:maven/io.joynr.tools.generator/dependency-libs@1.7.0
 - pkg:maven/io.joynr.tools.generator/dependency-libs@1.7.1
+- pkg:maven/io.joynr.tools.generator/dependency-libs@1.7.2
+- pkg:maven/io.joynr.tools.generator/dependency-libs@1.7.3
 - pkg:maven/io.joynr.tools.generator/dependency-libs@1.8.0
 - pkg:maven/io.joynr.tools.generator/dependency-libs@1.8.2
 - pkg:maven/io.joynr.tools.generator/dependency-libs@1.9.0
 - pkg:maven/io.joynr.tools.generator/dependency-libs@1.9.1
+- pkg:maven/io.joynr.tools.generator/dependency-libs@1.9.2

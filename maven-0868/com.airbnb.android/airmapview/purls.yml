@@ -32,3 +32,5 @@
 - pkg:maven/com.airbnb.android/airmapview@1.8.0?type=aar
 - pkg:maven/com.airbnb.android/airmapview@1.9.0?classifier=sources
 - pkg:maven/com.airbnb.android/airmapview@1.9.0?type=aar
+- pkg:maven/com.airbnb.android/airmapview@2.1.1?classifier=sources
+- pkg:maven/com.airbnb.android/airmapview@2.1.1?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/tech.mlsql/streamingpro-spark-2.4.0-adaptor_2.11@1.4.0
+- pkg:maven/tech.mlsql/streamingpro-spark-2.4.0-adaptor_2.11@1.4.0?classifier=sources

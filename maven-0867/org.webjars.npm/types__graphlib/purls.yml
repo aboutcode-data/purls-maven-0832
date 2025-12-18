@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__graphlib@2.1.4
 - pkg:maven/org.webjars.npm/types__graphlib@2.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/types__graphlib@2.1.5
+- pkg:maven/org.webjars.npm/types__graphlib@2.1.5?classifier=sources

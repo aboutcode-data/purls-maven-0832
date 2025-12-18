@@ -25,3 +25,6 @@
 - pkg:maven/com.github.maven-nar/nar-maven-plugin@3.6.0
 - pkg:maven/com.github.maven-nar/nar-maven-plugin@3.6.0?classifier=source-release&type=zip
 - pkg:maven/com.github.maven-nar/nar-maven-plugin@3.6.0?classifier=sources
+- pkg:maven/com.github.maven-nar/nar-maven-plugin@3.9.1
+- pkg:maven/com.github.maven-nar/nar-maven-plugin@3.9.1?classifier=source-release&type=zip
+- pkg:maven/com.github.maven-nar/nar-maven-plugin@3.9.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/tech.allegro.schema.json2avro/converter@0.2.7?classifier=sources
 - pkg:maven/tech.allegro.schema.json2avro/converter@0.2.8
 - pkg:maven/tech.allegro.schema.json2avro/converter@0.2.8?classifier=sources
+- pkg:maven/tech.allegro.schema.json2avro/converter@0.2.9
+- pkg:maven/tech.allegro.schema.json2avro/converter@0.2.9?classifier=sources

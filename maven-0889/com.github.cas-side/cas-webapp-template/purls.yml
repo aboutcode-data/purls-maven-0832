@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cas-side/cas-webapp-template@5.3.11
+- pkg:maven/com.github.cas-side/cas-webapp-template@5.3.11?classifier=sources

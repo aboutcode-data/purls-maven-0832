@@ -372,6 +372,12 @@
 - pkg:maven/io.shiftleft/query-primitives@0.9.318?classifier=sources
 - pkg:maven/io.shiftleft/query-primitives@0.9.319
 - pkg:maven/io.shiftleft/query-primitives@0.9.319?classifier=sources
+- pkg:maven/io.shiftleft/query-primitives@0.9.320
+- pkg:maven/io.shiftleft/query-primitives@0.9.320?classifier=sources
+- pkg:maven/io.shiftleft/query-primitives@0.9.321
+- pkg:maven/io.shiftleft/query-primitives@0.9.321?classifier=sources
+- pkg:maven/io.shiftleft/query-primitives@0.9.322
+- pkg:maven/io.shiftleft/query-primitives@0.9.322?classifier=sources
 - pkg:maven/io.shiftleft/query-primitives@0.9.45
 - pkg:maven/io.shiftleft/query-primitives@0.9.45?classifier=sources
 - pkg:maven/io.shiftleft/query-primitives@0.9.46

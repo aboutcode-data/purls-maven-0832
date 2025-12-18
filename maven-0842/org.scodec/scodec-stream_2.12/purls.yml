@@ -24,3 +24,5 @@
 - pkg:maven/org.scodec/scodec-stream_2.12@1.2.0?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@1.2.1
 - pkg:maven/org.scodec/scodec-stream_2.12@1.2.1?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0.0
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0.0?classifier=sources

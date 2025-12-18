@@ -176,6 +176,10 @@
 - pkg:maven/org.uberfire/uberfire-nio2-jgit@2.21.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-nio2-jgit@2.22.0.Final
 - pkg:maven/org.uberfire/uberfire-nio2-jgit@2.22.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@2.23.0.Final
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@2.23.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@2.24.0.Final
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@2.24.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-nio2-jgit@2.3.0.Final
 - pkg:maven/org.uberfire/uberfire-nio2-jgit@2.3.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-nio2-jgit@2.4.0.Final
@@ -190,3 +194,9 @@
 - pkg:maven/org.uberfire/uberfire-nio2-jgit@2.8.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-nio2-jgit@2.9.0.Final
 - pkg:maven/org.uberfire/uberfire-nio2-jgit@2.9.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@7.28.0.Final
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@7.28.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@7.29.0.Final
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@7.29.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@7.30.0.Final
+- pkg:maven/org.uberfire/uberfire-nio2-jgit@7.30.0.Final?classifier=sources

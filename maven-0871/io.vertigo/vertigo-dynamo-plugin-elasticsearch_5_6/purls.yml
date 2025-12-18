@@ -1,2 +1,4 @@
 - pkg:maven/io.vertigo/vertigo-dynamo-plugin-elasticsearch_5_6@2.0.0
 - pkg:maven/io.vertigo/vertigo-dynamo-plugin-elasticsearch_5_6@2.0.0?classifier=sources
+- pkg:maven/io.vertigo/vertigo-dynamo-plugin-elasticsearch_5_6@2.1.0
+- pkg:maven/io.vertigo/vertigo-dynamo-plugin-elasticsearch_5_6@2.1.0?classifier=sources

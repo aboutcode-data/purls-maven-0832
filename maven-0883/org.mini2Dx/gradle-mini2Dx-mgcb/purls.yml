@@ -2,3 +2,5 @@
 - pkg:maven/org.mini2Dx/gradle-mini2Dx-mgcb@1.0.0?classifier=sources
 - pkg:maven/org.mini2Dx/gradle-mini2Dx-mgcb@1.0.1
 - pkg:maven/org.mini2Dx/gradle-mini2Dx-mgcb@1.0.1?classifier=sources
+- pkg:maven/org.mini2Dx/gradle-mini2Dx-mgcb@1.0.2
+- pkg:maven/org.mini2Dx/gradle-mini2Dx-mgcb@1.0.2?classifier=sources

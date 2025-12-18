@@ -1,0 +1,2 @@
+- pkg:maven/edu.byu.hbll/callnumber@1.0.3
+- pkg:maven/edu.byu.hbll/callnumber@1.0.3?classifier=sources

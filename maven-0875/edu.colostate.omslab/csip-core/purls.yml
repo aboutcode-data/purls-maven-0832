@@ -50,5 +50,11 @@
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.66?classifier=sources
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.68
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.68?classifier=sources
+- pkg:maven/edu.colostate.omslab/csip-core@2.4.69
+- pkg:maven/edu.colostate.omslab/csip-core@2.4.69?classifier=sources
+- pkg:maven/edu.colostate.omslab/csip-core@2.4.88
+- pkg:maven/edu.colostate.omslab/csip-core@2.4.88?classifier=sources
+- pkg:maven/edu.colostate.omslab/csip-core@2.4.89
+- pkg:maven/edu.colostate.omslab/csip-core@2.4.89?classifier=sources
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.9
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.9?classifier=sources

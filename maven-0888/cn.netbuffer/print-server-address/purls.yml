@@ -2,3 +2,5 @@
 - pkg:maven/cn.netbuffer/print-server-address@1.1.1?classifier=sources
 - pkg:maven/cn.netbuffer/print-server-address@2.0.0
 - pkg:maven/cn.netbuffer/print-server-address@2.0.0?classifier=sources
+- pkg:maven/cn.netbuffer/print-server-address@2.1.0
+- pkg:maven/cn.netbuffer/print-server-address@2.1.0?classifier=sources

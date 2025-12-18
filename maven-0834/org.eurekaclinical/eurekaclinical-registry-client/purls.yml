@@ -27,4 +27,6 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.4-Beta-2?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.4-Beta-3
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.4-Beta-3?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.4-Beta-5
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.4-Beta-5?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.4?classifier=sources

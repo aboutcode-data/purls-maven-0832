@@ -1,0 +1,2 @@
+- pkg:maven/com.9isuper.pelecanus/pelecanus-mq-mqtt-starter@1.0.3.M1
+- pkg:maven/com.9isuper.pelecanus/pelecanus-mq-mqtt-starter@1.0.3.M1?classifier=sources

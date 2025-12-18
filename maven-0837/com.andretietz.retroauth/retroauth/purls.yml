@@ -6,3 +6,9 @@
 - pkg:maven/com.andretietz.retroauth/retroauth@3.0.0-beta12?classifier=sources
 - pkg:maven/com.andretietz.retroauth/retroauth@3.0.0-beta14
 - pkg:maven/com.andretietz.retroauth/retroauth@3.0.0-beta14?classifier=sources
+- pkg:maven/com.andretietz.retroauth/retroauth@3.0.0-beta19
+- pkg:maven/com.andretietz.retroauth/retroauth@3.0.0-beta19?classifier=sources
+- pkg:maven/com.andretietz.retroauth/retroauth@3.0.0-beta20
+- pkg:maven/com.andretietz.retroauth/retroauth@3.0.0-beta20?classifier=sources
+- pkg:maven/com.andretietz.retroauth/retroauth@3.0.0-beta21
+- pkg:maven/com.andretietz.retroauth/retroauth@3.0.0-beta21?classifier=sources

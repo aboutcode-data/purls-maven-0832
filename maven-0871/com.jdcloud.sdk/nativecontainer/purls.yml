@@ -6,3 +6,5 @@
 - pkg:maven/com.jdcloud.sdk/nativecontainer@1.0.2?classifier=sources
 - pkg:maven/com.jdcloud.sdk/nativecontainer@2.1.0
 - pkg:maven/com.jdcloud.sdk/nativecontainer@2.1.0?classifier=sources
+- pkg:maven/com.jdcloud.sdk/nativecontainer@2.2.0
+- pkg:maven/com.jdcloud.sdk/nativecontainer@2.2.0?classifier=sources

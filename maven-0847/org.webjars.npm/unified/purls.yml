@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/unified@6.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/unified@7.1.0
 - pkg:maven/org.webjars.npm/unified@7.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/unified@8.4.1
+- pkg:maven/org.webjars.npm/unified@8.4.1?classifier=sources

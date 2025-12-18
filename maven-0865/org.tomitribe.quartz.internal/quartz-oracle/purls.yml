@@ -1,0 +1,4 @@
+- pkg:maven/org.tomitribe.quartz.internal/quartz-oracle@2.2.4
+- pkg:maven/org.tomitribe.quartz.internal/quartz-oracle@2.2.4?classifier=sources
+- pkg:maven/org.tomitribe.quartz.internal/quartz-oracle@2.3.2
+- pkg:maven/org.tomitribe.quartz.internal/quartz-oracle@2.3.2?classifier=sources

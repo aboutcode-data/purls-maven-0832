@@ -30,6 +30,8 @@
 - pkg:maven/org.scalaz/scalaz-core_native0.3_2.11@7.2.27?classifier=sources
 - pkg:maven/org.scalaz/scalaz-core_native0.3_2.11@7.2.28
 - pkg:maven/org.scalaz/scalaz-core_native0.3_2.11@7.2.28?classifier=sources
+- pkg:maven/org.scalaz/scalaz-core_native0.3_2.11@7.2.29
+- pkg:maven/org.scalaz/scalaz-core_native0.3_2.11@7.2.29?classifier=sources
 - pkg:maven/org.scalaz/scalaz-core_native0.3_2.11@7.3.0-M13
 - pkg:maven/org.scalaz/scalaz-core_native0.3_2.11@7.3.0-M13?classifier=sources
 - pkg:maven/org.scalaz/scalaz-core_native0.3_2.11@7.3.0-M14

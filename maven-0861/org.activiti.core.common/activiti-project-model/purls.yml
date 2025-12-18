@@ -1,0 +1,4 @@
+- pkg:maven/org.activiti.core.common/activiti-project-model@7.1.0.M4
+- pkg:maven/org.activiti.core.common/activiti-project-model@7.1.0.M4?classifier=sources
+- pkg:maven/org.activiti.core.common/activiti-project-model@7.1.0.M5
+- pkg:maven/org.activiti.core.common/activiti-project-model@7.1.0.M5?classifier=sources

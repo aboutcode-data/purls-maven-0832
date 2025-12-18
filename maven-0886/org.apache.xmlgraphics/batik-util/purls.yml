@@ -2,6 +2,8 @@
 - pkg:maven/org.apache.xmlgraphics/batik-util@1.10?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-util@1.11
 - pkg:maven/org.apache.xmlgraphics/batik-util@1.11?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/batik-util@1.12
+- pkg:maven/org.apache.xmlgraphics/batik-util@1.12?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-util@1.6.1
 - pkg:maven/org.apache.xmlgraphics/batik-util@1.7
 - pkg:maven/org.apache.xmlgraphics/batik-util@1.7?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE112?classifier=sources

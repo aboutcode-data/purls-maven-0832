@@ -2,3 +2,7 @@
 - pkg:maven/de.wayofquality.blended/blended.security.crypto_2.12@3.0-M19?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.security.crypto_2.12@3.0-M6
 - pkg:maven/de.wayofquality.blended/blended.security.crypto_2.12@3.0-M6?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.security.crypto_2.12@3.0.3
+- pkg:maven/de.wayofquality.blended/blended.security.crypto_2.12@3.0.3?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.security.crypto_2.12@3.0.5
+- pkg:maven/de.wayofquality.blended/blended.security.crypto_2.12@3.0.5?classifier=sources

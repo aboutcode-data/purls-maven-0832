@@ -6,3 +6,5 @@
 - pkg:maven/hr.laplacian.laplas/laplas-redis_2.11@1.0.0?classifier=sources
 - pkg:maven/hr.laplacian.laplas/laplas-redis_2.11@1.0.2
 - pkg:maven/hr.laplacian.laplas/laplas-redis_2.11@1.0.2?classifier=sources
+- pkg:maven/hr.laplacian.laplas/laplas-redis_2.11@1.1.0
+- pkg:maven/hr.laplacian.laplas/laplas-redis_2.11@1.1.0?classifier=sources

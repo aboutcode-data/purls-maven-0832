@@ -10,3 +10,5 @@
 - pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@0.8.2?classifier=sources
 - pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@0.9.0
 - pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@0.9.0?classifier=sources
+- pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@1.0.0
+- pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@1.0.0?classifier=sources

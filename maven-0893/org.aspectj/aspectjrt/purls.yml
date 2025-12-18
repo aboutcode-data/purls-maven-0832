@@ -72,3 +72,5 @@
 - pkg:maven/org.aspectj/aspectjrt@1.9.3?classifier=sources
 - pkg:maven/org.aspectj/aspectjrt@1.9.4
 - pkg:maven/org.aspectj/aspectjrt@1.9.4?classifier=sources
+- pkg:maven/org.aspectj/aspectjrt@1.9.5
+- pkg:maven/org.aspectj/aspectjrt@1.9.5?classifier=sources

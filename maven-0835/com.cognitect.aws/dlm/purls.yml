@@ -6,3 +6,13 @@
 - pkg:maven/com.cognitect.aws/dlm@705.2.400.0?classifier=sources
 - pkg:maven/com.cognitect.aws/dlm@722.2.465.0
 - pkg:maven/com.cognitect.aws/dlm@722.2.465.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dlm@746.2.533.0
+- pkg:maven/com.cognitect.aws/dlm@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dlm@770.2.568.0
+- pkg:maven/com.cognitect.aws/dlm@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dlm@773.2.571.0
+- pkg:maven/com.cognitect.aws/dlm@773.2.571.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dlm@773.2.576.0
+- pkg:maven/com.cognitect.aws/dlm@773.2.576.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dlm@773.2.579.0
+- pkg:maven/com.cognitect.aws/dlm@773.2.579.0?classifier=sources

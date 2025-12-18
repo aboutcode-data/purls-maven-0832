@@ -1,5 +1,15 @@
 - pkg:maven/com.virgilsecurity.crypto/pythia-android@0.10.0?classifier=sources
 - pkg:maven/com.virgilsecurity.crypto/pythia-android@0.10.0?type=aar
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.10.1?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.10.1?type=aar
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.10.2?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.10.2?type=aar
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.10.3?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.10.3?type=aar
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.11.0?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.11.0?type=aar
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.11.1?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/pythia-android@0.11.1?type=aar
 - pkg:maven/com.virgilsecurity.crypto/pythia-android@0.7.0?classifier=sources
 - pkg:maven/com.virgilsecurity.crypto/pythia-android@0.7.0?type=aar
 - pkg:maven/com.virgilsecurity.crypto/pythia-android@0.7.1?classifier=sources

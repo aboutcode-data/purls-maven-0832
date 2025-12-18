@@ -1,0 +1,2 @@
+- pkg:maven/io.siddhi.extension.io.ibmmq/siddhi-io-ibmmq@3.0.0
+- pkg:maven/io.siddhi.extension.io.ibmmq/siddhi-io-ibmmq@3.0.0?classifier=sources

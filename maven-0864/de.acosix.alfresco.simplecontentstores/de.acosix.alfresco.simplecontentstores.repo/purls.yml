@@ -1,0 +1,2 @@
+- pkg:maven/de.acosix.alfresco.simplecontentstores/de.acosix.alfresco.simplecontentstores.repo@1.0.0
+- pkg:maven/de.acosix.alfresco.simplecontentstores/de.acosix.alfresco.simplecontentstores.repo@1.0.0?classifier=sources
