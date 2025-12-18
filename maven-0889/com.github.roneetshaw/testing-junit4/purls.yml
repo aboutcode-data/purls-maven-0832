@@ -1,3 +1,7 @@
+- pkg:maven/com.github.roneetshaw/testing-junit4@0.0.22
+- pkg:maven/com.github.roneetshaw/testing-junit4@0.0.22?classifier=sources
+- pkg:maven/com.github.roneetshaw/testing-junit4@1.0.127
+- pkg:maven/com.github.roneetshaw/testing-junit4@1.0.127?classifier=sources
 - pkg:maven/com.github.roneetshaw/testing-junit4@1.0.3
 - pkg:maven/com.github.roneetshaw/testing-junit4@1.0.3?classifier=sources
 - pkg:maven/com.github.roneetshaw/testing-junit4@1.0.6
@@ -6,3 +10,5 @@
 - pkg:maven/com.github.roneetshaw/testing-junit4@2.0.17?classifier=sources
 - pkg:maven/com.github.roneetshaw/testing-junit4@2.0.18
 - pkg:maven/com.github.roneetshaw/testing-junit4@2.0.18?classifier=sources
+- pkg:maven/com.github.roneetshaw/testing-junit4@2.0.21
+- pkg:maven/com.github.roneetshaw/testing-junit4@2.0.21?classifier=sources

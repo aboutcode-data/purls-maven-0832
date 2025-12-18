@@ -1,0 +1,12 @@
+- pkg:maven/io.github.novareseller/tool@1.0.0.alpha
+- pkg:maven/io.github.novareseller/tool@1.0.0.alpha?classifier=sources
+- pkg:maven/io.github.novareseller/tool@1.0.1.alpha
+- pkg:maven/io.github.novareseller/tool@1.0.1.alpha?classifier=sources
+- pkg:maven/io.github.novareseller/tool@1.1.0.alpha
+- pkg:maven/io.github.novareseller/tool@1.1.0.alpha?classifier=sources
+- pkg:maven/io.github.novareseller/tool@1.2.0.beta
+- pkg:maven/io.github.novareseller/tool@1.2.0.beta?classifier=sources
+- pkg:maven/io.github.novareseller/tool@1.2.1.beta
+- pkg:maven/io.github.novareseller/tool@1.2.1.beta?classifier=sources
+- pkg:maven/io.github.novareseller/tool@1.2.2.beta
+- pkg:maven/io.github.novareseller/tool@1.2.2.beta?classifier=sources

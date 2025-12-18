@@ -41,4 +41,8 @@
 - pkg:maven/com.jfinal/enjoy@4.9.06?classifier=sources
 - pkg:maven/com.jfinal/enjoy@4.9.08
 - pkg:maven/com.jfinal/enjoy@4.9.08?classifier=sources
+- pkg:maven/com.jfinal/enjoy@4.9.10
+- pkg:maven/com.jfinal/enjoy@4.9.10?classifier=sources
+- pkg:maven/com.jfinal/enjoy@4.9.11
+- pkg:maven/com.jfinal/enjoy@4.9.11?classifier=sources
 - pkg:maven/com.jfinal/enjoy@4.9?classifier=sources

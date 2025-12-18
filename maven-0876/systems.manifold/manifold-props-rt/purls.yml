@@ -7,6 +7,8 @@
 - pkg:maven/systems.manifold/manifold-props-rt@2021.1.10?classifier=sources
 - pkg:maven/systems.manifold/manifold-props-rt@2021.1.11
 - pkg:maven/systems.manifold/manifold-props-rt@2021.1.11?classifier=sources
+- pkg:maven/systems.manifold/manifold-props-rt@2021.1.12
+- pkg:maven/systems.manifold/manifold-props-rt@2021.1.12?classifier=sources
 - pkg:maven/systems.manifold/manifold-props-rt@2021.1.1?classifier=sources
 - pkg:maven/systems.manifold/manifold-props-rt@2021.1.2
 - pkg:maven/systems.manifold/manifold-props-rt@2021.1.2?classifier=sources

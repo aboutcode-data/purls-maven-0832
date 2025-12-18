@@ -1,0 +1,1 @@
+- pkg:maven/io.aiven/aiven-kafka-connect-s3@2.10.0?classifier=sources

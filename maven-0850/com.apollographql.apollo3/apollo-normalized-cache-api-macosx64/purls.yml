@@ -1,4 +1,8 @@
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-macosx64@3.0.0-dev10?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-macosx64@3.0.0-dev3?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-macosx64@3.0.0-dev4?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-macosx64@3.0.0-dev5?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-macosx64@3.0.0-dev6?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-macosx64@3.0.0-dev7?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-macosx64@3.0.0-dev8?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-macosx64@3.0.0-dev9?classifier=sources

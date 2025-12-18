@@ -1,0 +1,5 @@
+- pkg:maven/com.palantir.patches.sourceforge/trove3@3.0.3-p5
+- pkg:maven/com.palantir.patches.sourceforge/trove3@3.0.3-p5?classifier=sources
+- pkg:maven/com.palantir.patches.sourceforge/trove3@3.0.3-p8
+- pkg:maven/com.palantir.patches.sourceforge/trove3@3.0.3-p8?classifier=sources
+- pkg:maven/com.palantir.patches.sourceforge/trove3@3.0.3-p9?classifier=sources

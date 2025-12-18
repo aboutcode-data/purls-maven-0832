@@ -6,3 +6,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-dataflow-ui@2.6.5
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-dataflow-ui@2.7.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-dataflow-ui@2.7.1
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-dataflow-ui@2.7.2

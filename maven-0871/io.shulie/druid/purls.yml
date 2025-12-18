@@ -1,0 +1,2 @@
+- pkg:maven/io.shulie/druid@1.1.21
+- pkg:maven/io.shulie/druid@1.1.21?classifier=sources

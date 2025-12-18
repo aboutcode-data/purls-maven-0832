@@ -1,0 +1,2 @@
+- pkg:maven/in.hocg.payment/payment-module-alipay@1.0.0
+- pkg:maven/in.hocg.payment/payment-module-alipay@1.0.0?classifier=sources

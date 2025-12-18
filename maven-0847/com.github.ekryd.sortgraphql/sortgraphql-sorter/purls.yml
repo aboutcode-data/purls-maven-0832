@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ekryd.sortgraphql/sortgraphql-sorter@0.0.1
+- pkg:maven/com.github.ekryd.sortgraphql/sortgraphql-sorter@0.0.1?classifier=sources

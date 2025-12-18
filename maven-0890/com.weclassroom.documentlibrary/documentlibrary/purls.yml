@@ -1,0 +1,5 @@
+- pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.0.1?classifier=sources
+- pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.1.1.teacher?classifier=sources
+- pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.4.6.xinkb?classifier=sources
+- pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.4.6.yach?classifier=sources
+- pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.4.7?classifier=sources

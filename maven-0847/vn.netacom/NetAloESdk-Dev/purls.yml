@@ -6,3 +6,4 @@
 - pkg:maven/vn.netacom/NetAloESdk-Dev@1.5.68?classifier=sources
 - pkg:maven/vn.netacom/NetAloESdk-Dev@1.5.69?classifier=sources
 - pkg:maven/vn.netacom/NetAloESdk-Dev@1.5.70?classifier=sources
+- pkg:maven/vn.netacom/NetAloESdk-Dev@1.6.01?classifier=sources

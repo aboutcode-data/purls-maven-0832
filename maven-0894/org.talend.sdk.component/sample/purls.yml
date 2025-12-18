@@ -112,3 +112,7 @@
 - pkg:maven/org.talend.sdk.component/sample@1.31.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/sample@1.31.2
 - pkg:maven/org.talend.sdk.component/sample@1.31.2?classifier=sources
+- pkg:maven/org.talend.sdk.component/sample@1.32.0
+- pkg:maven/org.talend.sdk.component/sample@1.32.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/sample@1.33.0
+- pkg:maven/org.talend.sdk.component/sample@1.33.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/jawn-util_3.0.0-RC3@1.1.2
+- pkg:maven/org.typelevel/jawn-util_3.0.0-RC3@1.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.polyv.android/polyvSDKCloudClass@0.16.4?classifier=sources
+- pkg:maven/net.polyv.android/polyvSDKCloudClass@0.16.4?type=aar

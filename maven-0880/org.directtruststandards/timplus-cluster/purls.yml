@@ -1,0 +1,2 @@
+- pkg:maven/org.directtruststandards/timplus-cluster@1.0.0
+- pkg:maven/org.directtruststandards/timplus-cluster@1.0.0?classifier=sources

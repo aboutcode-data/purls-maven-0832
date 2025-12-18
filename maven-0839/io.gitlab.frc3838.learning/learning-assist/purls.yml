@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.frc3838.learning/learning-assist@0.1
+- pkg:maven/io.gitlab.frc3838.learning/learning-assist@0.1?classifier=sources

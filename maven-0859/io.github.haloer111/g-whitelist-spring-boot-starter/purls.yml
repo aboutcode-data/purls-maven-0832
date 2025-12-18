@@ -1,0 +1,2 @@
+- pkg:maven/io.github.haloer111/g-whitelist-spring-boot-starter@1.0
+- pkg:maven/io.github.haloer111/g-whitelist-spring-boot-starter@1.0?classifier=sources

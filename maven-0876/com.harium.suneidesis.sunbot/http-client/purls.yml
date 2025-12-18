@@ -1,0 +1,4 @@
+- pkg:maven/com.harium.suneidesis.sunbot/http-client@0.3.0
+- pkg:maven/com.harium.suneidesis.sunbot/http-client@0.3.0?classifier=sources
+- pkg:maven/com.harium.suneidesis.sunbot/http-client@0.4.0
+- pkg:maven/com.harium.suneidesis.sunbot/http-client@0.4.0?classifier=sources

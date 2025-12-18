@@ -1,0 +1,2 @@
+- pkg:maven/com.github.japgolly.nyaya/nyaya-test_3@0.10.0
+- pkg:maven/com.github.japgolly.nyaya/nyaya-test_3@0.10.0?classifier=sources

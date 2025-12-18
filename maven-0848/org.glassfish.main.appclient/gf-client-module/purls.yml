@@ -17,3 +17,4 @@
 - pkg:maven/org.glassfish.main.appclient/gf-client-module@6.0.0-RC3?classifier=sources
 - pkg:maven/org.glassfish.main.appclient/gf-client-module@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.appclient/gf-client-module@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.appclient/gf-client-module@6.1.0?classifier=sources

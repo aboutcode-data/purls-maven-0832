@@ -1,1 +1,4 @@
+- pkg:maven/com.eygraber/kodein-di-android-material-components@%277.5.0%27?classifier=sources
 - pkg:maven/com.eygraber/kodein-di-android-material-components@7.4.0?classifier=sources
+- pkg:maven/com.eygraber/kodein-di-android-material-components@7.5.0?classifier=sources
+- pkg:maven/com.eygraber/kodein-di-android-material-components@7.6.0?classifier=sources

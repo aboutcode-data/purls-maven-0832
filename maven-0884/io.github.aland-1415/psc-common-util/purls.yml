@@ -1,0 +1,4 @@
+- pkg:maven/io.github.aland-1415/psc-common-util@1.0.0
+- pkg:maven/io.github.aland-1415/psc-common-util@1.0.0?classifier=sources
+- pkg:maven/io.github.aland-1415/psc-common-util@1.0.1
+- pkg:maven/io.github.aland-1415/psc-common-util@1.0.1?classifier=sources

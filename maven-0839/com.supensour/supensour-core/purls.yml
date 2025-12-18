@@ -1,2 +1,4 @@
 - pkg:maven/com.supensour/supensour-core@0.1.0
 - pkg:maven/com.supensour/supensour-core@0.1.0?classifier=sources
+- pkg:maven/com.supensour/supensour-core@0.1.1-RC
+- pkg:maven/com.supensour/supensour-core@0.1.1-RC?classifier=sources

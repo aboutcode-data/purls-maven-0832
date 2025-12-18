@@ -1,0 +1,2 @@
+- pkg:maven/io.github.github-brijframework/github-brijframework-boot@1.1
+- pkg:maven/io.github.github-brijframework/github-brijframework-boot@1.1?classifier=sources

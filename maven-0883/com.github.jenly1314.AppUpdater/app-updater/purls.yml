@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jenly1314.AppUpdater/app-updater@1.0.10-androidx?classifier=sources
+- pkg:maven/com.github.jenly1314.AppUpdater/app-updater@1.0.10?classifier=sources

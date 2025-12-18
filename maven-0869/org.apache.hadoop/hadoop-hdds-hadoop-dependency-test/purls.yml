@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.hadoop/hadoop-hdds-hadoop-dependency-test@1.0.0
+- pkg:maven/org.apache.hadoop/hadoop-hdds-hadoop-dependency-test@1.1.0

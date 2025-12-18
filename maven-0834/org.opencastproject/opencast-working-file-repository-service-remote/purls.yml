@@ -46,3 +46,7 @@
 - pkg:maven/org.opencastproject/opencast-working-file-repository-service-remote@9.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-working-file-repository-service-remote@9.3
 - pkg:maven/org.opencastproject/opencast-working-file-repository-service-remote@9.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-working-file-repository-service-remote@9.4
+- pkg:maven/org.opencastproject/opencast-working-file-repository-service-remote@9.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-working-file-repository-service-remote@9.5
+- pkg:maven/org.opencastproject/opencast-working-file-repository-service-remote@9.5?classifier=sources

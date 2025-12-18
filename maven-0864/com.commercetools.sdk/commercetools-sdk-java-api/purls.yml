@@ -32,3 +32,5 @@
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@3.1.1?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@3.1.2?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@4.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@4.0.1?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@4.1.0?classifier=sources

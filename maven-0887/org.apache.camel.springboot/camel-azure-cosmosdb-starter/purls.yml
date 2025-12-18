@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.springboot/camel-azure-cosmosdb-starter@3.10.0
+- pkg:maven/org.apache.camel.springboot/camel-azure-cosmosdb-starter@3.10.0?classifier=sources

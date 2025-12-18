@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/ssmcontacts@1.106.0
+- pkg:maven/software.amazon.awscdk/ssmcontacts@1.106.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ssmcontacts@1.106.1
+- pkg:maven/software.amazon.awscdk/ssmcontacts@1.106.1?classifier=sources

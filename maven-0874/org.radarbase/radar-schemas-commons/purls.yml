@@ -1,0 +1,2 @@
+- pkg:maven/org.radarbase/radar-schemas-commons@0.6.0?classifier=sources
+- pkg:maven/org.radarbase/radar-schemas-commons@0.7.0?classifier=sources

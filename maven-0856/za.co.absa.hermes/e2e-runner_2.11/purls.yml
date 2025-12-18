@@ -10,3 +10,5 @@
 - pkg:maven/za.co.absa.hermes/e2e-runner_2.11@0.3.0?classifier=sources
 - pkg:maven/za.co.absa.hermes/e2e-runner_2.11@0.3.1
 - pkg:maven/za.co.absa.hermes/e2e-runner_2.11@0.3.1?classifier=sources
+- pkg:maven/za.co.absa.hermes/e2e-runner_2.11@0.3.2
+- pkg:maven/za.co.absa.hermes/e2e-runner_2.11@0.3.2?classifier=sources

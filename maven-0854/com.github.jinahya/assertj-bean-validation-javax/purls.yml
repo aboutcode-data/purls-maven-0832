@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jinahya/assertj-bean-validation-javax@0.0.9
+- pkg:maven/com.github.jinahya/assertj-bean-validation-javax@0.0.9?classifier=sources

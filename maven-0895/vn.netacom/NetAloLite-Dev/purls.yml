@@ -7,3 +7,11 @@
 - pkg:maven/vn.netacom/NetAloLite-Dev@1.5.68?classifier=sources
 - pkg:maven/vn.netacom/NetAloLite-Dev@1.5.69?classifier=sources
 - pkg:maven/vn.netacom/NetAloLite-Dev@1.5.70?classifier=sources
+- pkg:maven/vn.netacom/NetAloLite-Dev@1.6.01?classifier=sources
+- pkg:maven/vn.netacom/NetAloLite-Dev@1.6.02?classifier=sources
+- pkg:maven/vn.netacom/NetAloLite-Dev@1.6.03?classifier=sources
+- pkg:maven/vn.netacom/NetAloLite-Dev@1.6.04?classifier=sources
+- pkg:maven/vn.netacom/NetAloLite-Dev@1.6.05?classifier=sources
+- pkg:maven/vn.netacom/NetAloLite-Dev@1.6.06?classifier=sources
+- pkg:maven/vn.netacom/NetAloLite-Dev@1.6.07?classifier=sources
+- pkg:maven/vn.netacom/NetAloLite-Dev@1.6.08?classifier=sources

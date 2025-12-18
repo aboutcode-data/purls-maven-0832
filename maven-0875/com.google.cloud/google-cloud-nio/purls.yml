@@ -59,6 +59,12 @@
 - pkg:maven/com.google.cloud/google-cloud-nio@0.122.10?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.122.11
 - pkg:maven/com.google.cloud/google-cloud-nio@0.122.11?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio@0.122.12
+- pkg:maven/com.google.cloud/google-cloud-nio@0.122.12?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio@0.122.13
+- pkg:maven/com.google.cloud/google-cloud-nio@0.122.13?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio@0.122.14
+- pkg:maven/com.google.cloud/google-cloud-nio@0.122.14?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.122.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.122.2
 - pkg:maven/com.google.cloud/google-cloud-nio@0.122.2?classifier=sources
@@ -75,6 +81,8 @@
 - pkg:maven/com.google.cloud/google-cloud-nio@0.122.8?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.122.9
 - pkg:maven/com.google.cloud/google-cloud-nio@0.122.9?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio@0.123.0
+- pkg:maven/com.google.cloud/google-cloud-nio@0.123.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.13.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-nio@0.13.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.14.0-alpha

@@ -1,1 +1,2 @@
 - pkg:maven/org.infrastructurebuilder.util.logging/iblogconfig@0.13.0
+- pkg:maven/org.infrastructurebuilder.util.logging/iblogconfig@0.13.1

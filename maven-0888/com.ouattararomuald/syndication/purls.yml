@@ -2,3 +2,5 @@
 - pkg:maven/com.ouattararomuald/syndication@0.1.0-rc.1?classifier=sources
 - pkg:maven/com.ouattararomuald/syndication@1.1.0
 - pkg:maven/com.ouattararomuald/syndication@1.1.0?classifier=sources
+- pkg:maven/com.ouattararomuald/syndication@2.1.1
+- pkg:maven/com.ouattararomuald/syndication@2.1.1?classifier=sources

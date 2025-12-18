@@ -1,3 +1,7 @@
+- pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-test@0.1.10
+- pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-test@0.1.10?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-test@0.1.11
+- pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-test@0.1.11?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-test@0.1.2
 - pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-test@0.1.2?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-test@0.1.3

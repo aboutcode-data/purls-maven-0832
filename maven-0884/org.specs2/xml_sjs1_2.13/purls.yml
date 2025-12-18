@@ -1,0 +1,2 @@
+- pkg:maven/org.specs2/xml_sjs1_2.13@4.11.0
+- pkg:maven/org.specs2/xml_sjs1_2.13@4.11.0?classifier=sources

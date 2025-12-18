@@ -1,0 +1,5 @@
+- pkg:maven/com.motorro.rxlcemodel/kserializer@2.1.4?classifier=sources
+- pkg:maven/com.motorro.rxlcemodel/kserializer@2.12.2?classifier=sources
+- pkg:maven/com.motorro.rxlcemodel/kserializer@2.12.8?classifier=sources
+- pkg:maven/com.motorro.rxlcemodel/kserializer@3.0.0?classifier=sources
+- pkg:maven/com.motorro.rxlcemodel/kserializer@3.0.1?classifier=sources

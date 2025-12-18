@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yakivy/jam-core_sjs1_3@0.0.5
+- pkg:maven/com.github.yakivy/jam-core_sjs1_3@0.0.5?classifier=sources

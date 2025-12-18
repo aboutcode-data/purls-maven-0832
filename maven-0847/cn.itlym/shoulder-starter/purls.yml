@@ -3,3 +3,4 @@
 - pkg:maven/cn.itlym/shoulder-starter@0.3?classifier=sources
 - pkg:maven/cn.itlym/shoulder-starter@0.4
 - pkg:maven/cn.itlym/shoulder-starter@0.5
+- pkg:maven/cn.itlym/shoulder-starter@0.6

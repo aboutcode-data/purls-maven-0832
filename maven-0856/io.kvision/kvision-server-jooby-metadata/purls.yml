@@ -6,3 +6,4 @@
 - pkg:maven/io.kvision/kvision-server-jooby-metadata@4.2.2?classifier=sources
 - pkg:maven/io.kvision/kvision-server-jooby-metadata@4.2.3?classifier=sources
 - pkg:maven/io.kvision/kvision-server-jooby-metadata@4.3.0?classifier=sources
+- pkg:maven/io.kvision/kvision-server-jooby-metadata@4.4.0?classifier=sources

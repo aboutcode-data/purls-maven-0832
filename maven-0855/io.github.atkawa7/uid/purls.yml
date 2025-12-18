@@ -1,0 +1,2 @@
+- pkg:maven/io.github.atkawa7/uid@1.0.5
+- pkg:maven/io.github.atkawa7/uid@1.0.5?classifier=sources

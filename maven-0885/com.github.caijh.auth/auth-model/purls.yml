@@ -1,0 +1,2 @@
+- pkg:maven/com.github.caijh.auth/auth-model@1.0.0
+- pkg:maven/com.github.caijh.auth/auth-model@1.0.0?classifier=sources

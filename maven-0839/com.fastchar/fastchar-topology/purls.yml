@@ -1,0 +1,2 @@
+- pkg:maven/com.fastchar/fastchar-topology@1.0.2
+- pkg:maven/com.fastchar/fastchar-topology@1.0.2?classifier=sources

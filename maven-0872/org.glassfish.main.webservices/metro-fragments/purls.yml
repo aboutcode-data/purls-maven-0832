@@ -18,3 +18,4 @@
 - pkg:maven/org.glassfish.main.webservices/metro-fragments@6.0.0-RC3?classifier=sources
 - pkg:maven/org.glassfish.main.webservices/metro-fragments@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.webservices/metro-fragments@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.webservices/metro-fragments@6.1.0?classifier=sources

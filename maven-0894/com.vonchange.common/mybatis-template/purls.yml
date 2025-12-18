@@ -29,4 +29,6 @@
 - pkg:maven/com.vonchange.common/mybatis-template@1.8.5?classifier=sources
 - pkg:maven/com.vonchange.common/mybatis-template@1.8.6
 - pkg:maven/com.vonchange.common/mybatis-template@1.8.6?classifier=sources
+- pkg:maven/com.vonchange.common/mybatis-template@1.8.7
+- pkg:maven/com.vonchange.common/mybatis-template@1.8.7?classifier=sources
 - pkg:maven/com.vonchange.common/mybatis-template@1.8?classifier=sources

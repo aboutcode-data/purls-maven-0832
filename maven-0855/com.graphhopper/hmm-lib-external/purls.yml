@@ -1,6 +1,14 @@
+- pkg:maven/com.graphhopper/hmm-lib-external@3.0
 - pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre1
 - pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre1?classifier=sources
 - pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre2
 - pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre2?classifier=sources
 - pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre3
 - pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre3?classifier=sources
+- pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre4
+- pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre4?classifier=sources
+- pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre5
+- pkg:maven/com.graphhopper/hmm-lib-external@3.0-pre5?classifier=sources
+- pkg:maven/com.graphhopper/hmm-lib-external@3.0?classifier=sources
+- pkg:maven/com.graphhopper/hmm-lib-external@client_hc_no_vehicle
+- pkg:maven/com.graphhopper/hmm-lib-external@client_hc_no_vehicle?classifier=sources

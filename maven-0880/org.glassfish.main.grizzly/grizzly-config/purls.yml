@@ -12,3 +12,4 @@
 - pkg:maven/org.glassfish.main.grizzly/grizzly-config@6.0.0-RC3?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/grizzly-config@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/grizzly-config@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.grizzly/grizzly-config@6.1.0?classifier=sources

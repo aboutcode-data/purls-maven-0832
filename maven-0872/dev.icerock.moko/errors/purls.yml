@@ -1,1 +1,2 @@
 - pkg:maven/dev.icerock.moko/errors@0.3.2?classifier=sources
+- pkg:maven/dev.icerock.moko/errors@0.3.3?classifier=sources

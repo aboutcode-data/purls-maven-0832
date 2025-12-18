@@ -1,1 +1,2 @@
 - pkg:maven/io.github.harvies.charon/charon-shardingsphere-jdbc-spring-boot-starter@0.0.6
+- pkg:maven/io.github.harvies.charon/charon-shardingsphere-jdbc-spring-boot-starter@0.0.7

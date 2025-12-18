@@ -95,6 +95,14 @@
 - pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.44?classifier=sources
 - pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.45
 - pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.45?classifier=sources
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.46
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.46?classifier=sources
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.47
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.47?classifier=sources
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.48
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.48?classifier=sources
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.49
+- pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.49?classifier=sources
 - pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.4?classifier=sources
 - pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.5
 - pkg:maven/ru.curs/spring-boot-starter-celesta@2.1.5?classifier=sources

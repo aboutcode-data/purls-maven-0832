@@ -1,0 +1,6 @@
+- pkg:maven/me.hekr.iotos.softgateway/example@3.1.0
+- pkg:maven/me.hekr.iotos.softgateway/example@3.1.0?classifier=sources
+- pkg:maven/me.hekr.iotos.softgateway/example@3.2.4
+- pkg:maven/me.hekr.iotos.softgateway/example@3.2.4?classifier=sources
+- pkg:maven/me.hekr.iotos.softgateway/example@3.3.0
+- pkg:maven/me.hekr.iotos.softgateway/example@3.3.0?classifier=sources

@@ -1,4 +1,8 @@
+- pkg:maven/org.pgpainless/pgpainless-sop@0.2.0-alpha10?classifier=sources
+- pkg:maven/org.pgpainless/pgpainless-sop@0.2.0-alpha11?classifier=sources
+- pkg:maven/org.pgpainless/pgpainless-sop@0.2.0-alpha12?classifier=sources
 - pkg:maven/org.pgpainless/pgpainless-sop@0.2.0-alpha5?classifier=sources
 - pkg:maven/org.pgpainless/pgpainless-sop@0.2.0-alpha6?classifier=sources
 - pkg:maven/org.pgpainless/pgpainless-sop@0.2.0-alpha7?classifier=sources
 - pkg:maven/org.pgpainless/pgpainless-sop@0.2.0-alpha8?classifier=sources
+- pkg:maven/org.pgpainless/pgpainless-sop@0.2.0-alpha9?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/io.mfj/textricator@9.2.57?classifier=sources
 - pkg:maven/io.mfj/textricator@9.3.62
 - pkg:maven/io.mfj/textricator@9.3.62?classifier=sources
+- pkg:maven/io.mfj/textricator@9.4.63
+- pkg:maven/io.mfj/textricator@9.4.63?classifier=sources
+- pkg:maven/io.mfj/textricator@9.4.64
+- pkg:maven/io.mfj/textricator@9.4.64?classifier=sources

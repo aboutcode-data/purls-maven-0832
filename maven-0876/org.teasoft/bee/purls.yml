@@ -16,3 +16,5 @@
 - pkg:maven/org.teasoft/bee@1.8.99
 - pkg:maven/org.teasoft/bee@1.8.99?classifier=sources
 - pkg:maven/org.teasoft/bee@1.8?classifier=sources
+- pkg:maven/org.teasoft/bee@1.9.5
+- pkg:maven/org.teasoft/bee@1.9.5?classifier=sources

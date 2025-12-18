@@ -78,3 +78,4 @@
 - pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.82.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.83.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.84.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.85.0?classifier=sources

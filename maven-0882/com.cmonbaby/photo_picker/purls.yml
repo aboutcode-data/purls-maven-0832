@@ -1,0 +1,2 @@
+- pkg:maven/com.cmonbaby/photo_picker@1.0.0?classifier=sources
+- pkg:maven/com.cmonbaby/photo_picker@1.0.0?type=aar

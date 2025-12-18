@@ -1,2 +1,6 @@
+- pkg:maven/com.ocadotechnology/OcavaCore@10.10.14
+- pkg:maven/com.ocadotechnology/OcavaCore@10.10.14?classifier=sources
 - pkg:maven/com.ocadotechnology/OcavaCore@10.4
 - pkg:maven/com.ocadotechnology/OcavaCore@10.4?classifier=sources
+- pkg:maven/com.ocadotechnology/OcavaCore@10.8.17
+- pkg:maven/com.ocadotechnology/OcavaCore@10.8.17?classifier=sources

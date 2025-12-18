@@ -1,0 +1,6 @@
+- pkg:maven/org.emergent-order/onnx-scala-proto_2.13@0.12.0
+- pkg:maven/org.emergent-order/onnx-scala-proto_2.13@0.12.0?classifier=sources
+- pkg:maven/org.emergent-order/onnx-scala-proto_2.13@0.13.0
+- pkg:maven/org.emergent-order/onnx-scala-proto_2.13@0.13.0?classifier=sources
+- pkg:maven/org.emergent-order/onnx-scala-proto_2.13@0.14.0
+- pkg:maven/org.emergent-order/onnx-scala-proto_2.13@0.14.0?classifier=sources

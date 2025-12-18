@@ -1,0 +1,6 @@
+- pkg:maven/io.github.yanfeiwuji/mybatis-plus-web-query@0.0.1-RELEASE
+- pkg:maven/io.github.yanfeiwuji/mybatis-plus-web-query@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.yanfeiwuji/mybatis-plus-web-query@1.0.0-RELEASE
+- pkg:maven/io.github.yanfeiwuji/mybatis-plus-web-query@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.yanfeiwuji/mybatis-plus-web-query@1.0.1-RELEASE
+- pkg:maven/io.github.yanfeiwuji/mybatis-plus-web-query@1.0.1-RELEASE?classifier=sources

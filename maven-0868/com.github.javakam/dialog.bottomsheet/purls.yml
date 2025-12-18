@@ -1,0 +1,5 @@
+- pkg:maven/com.github.javakam/dialog.bottomsheet@1.5.0?classifier=sources
+- pkg:maven/com.github.javakam/dialog.bottomsheet@2.0.0?classifier=sources
+- pkg:maven/com.github.javakam/dialog.bottomsheet@3.0.0?classifier=sources
+- pkg:maven/com.github.javakam/dialog.bottomsheet@3.2.0?classifier=sources
+- pkg:maven/com.github.javakam/dialog.bottomsheet@3.3.0?classifier=sources

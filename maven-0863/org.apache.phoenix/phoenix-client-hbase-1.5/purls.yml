@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.phoenix/phoenix-client-hbase-1.5@4.16.0
 - pkg:maven/org.apache.phoenix/phoenix-client-hbase-1.5@4.16.0?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-client-hbase-1.5@4.16.1
+- pkg:maven/org.apache.phoenix/phoenix-client-hbase-1.5@4.16.1?classifier=sources

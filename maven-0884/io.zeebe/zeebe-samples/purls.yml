@@ -158,6 +158,10 @@
 - pkg:maven/io.zeebe/zeebe-samples@0.26.1?classifier=sources
 - pkg:maven/io.zeebe/zeebe-samples@0.26.2
 - pkg:maven/io.zeebe/zeebe-samples@0.26.2?classifier=sources
+- pkg:maven/io.zeebe/zeebe-samples@0.26.3
+- pkg:maven/io.zeebe/zeebe-samples@0.26.3?classifier=sources
+- pkg:maven/io.zeebe/zeebe-samples@0.26.4
+- pkg:maven/io.zeebe/zeebe-samples@0.26.4?classifier=sources
 - pkg:maven/io.zeebe/zeebe-samples@0.3.0
 - pkg:maven/io.zeebe/zeebe-samples@0.3.0?classifier=sources
 - pkg:maven/io.zeebe/zeebe-samples@0.4.0
@@ -182,3 +186,7 @@
 - pkg:maven/io.zeebe/zeebe-samples@1.0.0-alpha4?classifier=sources
 - pkg:maven/io.zeebe/zeebe-samples@1.0.0-alpha5
 - pkg:maven/io.zeebe/zeebe-samples@1.0.0-alpha5?classifier=sources
+- pkg:maven/io.zeebe/zeebe-samples@1.0.0-alpha6
+- pkg:maven/io.zeebe/zeebe-samples@1.0.0-alpha6?classifier=sources
+- pkg:maven/io.zeebe/zeebe-samples@1.0.0-alpha7
+- pkg:maven/io.zeebe/zeebe-samples@1.0.0-alpha7?classifier=sources

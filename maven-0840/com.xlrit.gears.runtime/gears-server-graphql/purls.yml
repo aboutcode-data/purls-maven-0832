@@ -30,3 +30,11 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.34?type=war
 - pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.35?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.35?type=war
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.36?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.36?type=war
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.37?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.37?type=war
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.38?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.38?type=war
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.39?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.39?type=war

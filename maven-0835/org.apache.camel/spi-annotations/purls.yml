@@ -156,6 +156,8 @@
 - pkg:maven/org.apache.camel/spi-annotations@2.25.2?classifier=sources
 - pkg:maven/org.apache.camel/spi-annotations@2.25.3
 - pkg:maven/org.apache.camel/spi-annotations@2.25.3?classifier=sources
+- pkg:maven/org.apache.camel/spi-annotations@2.25.4
+- pkg:maven/org.apache.camel/spi-annotations@2.25.4?classifier=sources
 - pkg:maven/org.apache.camel/spi-annotations@3.0.0
 - pkg:maven/org.apache.camel/spi-annotations@3.0.0-M1
 - pkg:maven/org.apache.camel/spi-annotations@3.0.0-M1?classifier=sources
@@ -176,6 +178,8 @@
 - pkg:maven/org.apache.camel/spi-annotations@3.0.1?classifier=sources
 - pkg:maven/org.apache.camel/spi-annotations@3.1.0
 - pkg:maven/org.apache.camel/spi-annotations@3.1.0?classifier=sources
+- pkg:maven/org.apache.camel/spi-annotations@3.10.0
+- pkg:maven/org.apache.camel/spi-annotations@3.10.0?classifier=sources
 - pkg:maven/org.apache.camel/spi-annotations@3.2.0
 - pkg:maven/org.apache.camel/spi-annotations@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel/spi-annotations@3.3.0
@@ -204,6 +208,8 @@
 - pkg:maven/org.apache.camel/spi-annotations@3.7.2?classifier=sources
 - pkg:maven/org.apache.camel/spi-annotations@3.7.3
 - pkg:maven/org.apache.camel/spi-annotations@3.7.3?classifier=sources
+- pkg:maven/org.apache.camel/spi-annotations@3.7.4
+- pkg:maven/org.apache.camel/spi-annotations@3.7.4?classifier=sources
 - pkg:maven/org.apache.camel/spi-annotations@3.8.0
 - pkg:maven/org.apache.camel/spi-annotations@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel/spi-annotations@3.9.0

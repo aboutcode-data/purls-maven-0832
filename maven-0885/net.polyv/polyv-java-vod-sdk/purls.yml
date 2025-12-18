@@ -28,6 +28,10 @@
 - pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.22?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.23
 - pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.23?classifier=sources
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.24
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.24?classifier=sources
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.25
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.25?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.2?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.3
 - pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.3?classifier=sources
@@ -43,3 +47,15 @@
 - pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.8?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.9
 - pkg:maven/net.polyv/polyv-java-vod-sdk@1.0.9?classifier=sources
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.0
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.0?classifier=sources
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.2
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.2?classifier=sources
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.3
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.3?classifier=sources
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.4
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.4?classifier=sources
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.5
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.5?classifier=sources
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.6
+- pkg:maven/net.polyv/polyv-java-vod-sdk@1.1.6?classifier=sources

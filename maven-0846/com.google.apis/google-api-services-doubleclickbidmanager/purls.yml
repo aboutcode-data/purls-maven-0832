@@ -232,6 +232,8 @@
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1-rev20201016-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1-rev20201016-1.31.0
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1-rev20201016-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1-rev20210420-1.31.0
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1-rev20210420-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1-rev21-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1-rev21-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1-rev21-1.15.0-rc
@@ -694,6 +696,16 @@
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210323-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210331-1.31.0
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210331-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210406-1.31.0
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210406-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210420-1.31.0
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210420-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210428-1.31.0
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210428-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210504-1.31.0
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210504-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210524-1.31.0
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20210524-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev3-1.25.0

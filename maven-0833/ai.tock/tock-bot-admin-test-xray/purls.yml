@@ -34,3 +34,7 @@
 - pkg:maven/ai.tock/tock-bot-admin-test-xray@20.9.3?classifier=sources
 - pkg:maven/ai.tock/tock-bot-admin-test-xray@21.3.0
 - pkg:maven/ai.tock/tock-bot-admin-test-xray@21.3.0?classifier=sources
+- pkg:maven/ai.tock/tock-bot-admin-test-xray@21.3.1
+- pkg:maven/ai.tock/tock-bot-admin-test-xray@21.3.1?classifier=sources
+- pkg:maven/ai.tock/tock-bot-admin-test-xray@21.3.2
+- pkg:maven/ai.tock/tock-bot-admin-test-xray@21.3.2?classifier=sources

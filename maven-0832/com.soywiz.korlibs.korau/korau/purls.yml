@@ -1,1 +1,2 @@
 - pkg:maven/com.soywiz.korlibs.korau/korau@2.0.11?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau@2.1.1?classifier=sources

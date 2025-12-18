@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lwq497539389/changelog-maven-plugin@1.0.0
+- pkg:maven/io.github.lwq497539389/changelog-maven-plugin@1.0.0?classifier=sources

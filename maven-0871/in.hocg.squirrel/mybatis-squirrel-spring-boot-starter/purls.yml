@@ -1,0 +1,2 @@
+- pkg:maven/in.hocg.squirrel/mybatis-squirrel-spring-boot-starter@0.1.1
+- pkg:maven/in.hocg.squirrel/mybatis-squirrel-spring-boot-starter@0.1.1?classifier=sources

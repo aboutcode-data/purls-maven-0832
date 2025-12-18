@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-redocly-openapi-cli@1.0.0-beta.44
+- pkg:maven/org.webjars.npm/github-com-redocly-openapi-cli@1.0.0-beta.44?classifier=sources

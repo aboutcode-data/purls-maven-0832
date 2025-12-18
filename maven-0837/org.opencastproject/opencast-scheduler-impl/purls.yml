@@ -46,3 +46,7 @@
 - pkg:maven/org.opencastproject/opencast-scheduler-impl@9.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-scheduler-impl@9.3
 - pkg:maven/org.opencastproject/opencast-scheduler-impl@9.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-scheduler-impl@9.4
+- pkg:maven/org.opencastproject/opencast-scheduler-impl@9.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-scheduler-impl@9.5
+- pkg:maven/org.opencastproject/opencast-scheduler-impl@9.5?classifier=sources

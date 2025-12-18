@@ -112,3 +112,5 @@
 - pkg:maven/org.wildfly/jipijapa-hibernate4-1@23.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/jipijapa-hibernate4-1@23.0.1.Final
 - pkg:maven/org.wildfly/jipijapa-hibernate4-1@23.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/jipijapa-hibernate4-1@23.0.2.Final
+- pkg:maven/org.wildfly/jipijapa-hibernate4-1@23.0.2.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.teliver.sdk/TeliverSdk@4.0.0?classifier=sources
+- pkg:maven/io.teliver.sdk/TeliverSdk@4.0.0?type=aar

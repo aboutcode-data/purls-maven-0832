@@ -29,3 +29,5 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.2.4
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.2.5
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.2.6
+- pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.2.7
+- pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.3.0

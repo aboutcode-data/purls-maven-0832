@@ -111,6 +111,8 @@
 - pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.21?classifier=sources
 - pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.22
 - pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.22?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.23
+- pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.23?classifier=sources
 - pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.2?classifier=sources
 - pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.3
 - pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.3?classifier=sources
@@ -126,3 +128,15 @@
 - pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.8?classifier=sources
 - pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.9
 - pkg:maven/com.github.chengyuxing/rabbit-sql@4.3.9?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.0
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.0?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.1
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.1?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.2
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.2?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.3
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.3?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.4
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.4?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.5
+- pkg:maven/com.github.chengyuxing/rabbit-sql@5.0.5?classifier=sources

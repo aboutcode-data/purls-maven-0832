@@ -1,0 +1,4 @@
+- pkg:maven/com.meetup.sbt/sbt-openapi_2.10@0.0.4
+- pkg:maven/com.meetup.sbt/sbt-openapi_2.10@0.0.4?classifier=sources
+- pkg:maven/com.meetup.sbt/sbt-openapi_2.10@0.0.9
+- pkg:maven/com.meetup.sbt/sbt-openapi_2.10@0.0.9?classifier=sources

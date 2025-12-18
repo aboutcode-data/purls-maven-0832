@@ -58,3 +58,5 @@
 - pkg:maven/io.vlingo/vlingo-symbio-geode@1.5.2?classifier=sources
 - pkg:maven/io.vlingo/vlingo-symbio-geode@1.6.0
 - pkg:maven/io.vlingo/vlingo-symbio-geode@1.6.0?classifier=sources
+- pkg:maven/io.vlingo/vlingo-symbio-geode@1.7.5
+- pkg:maven/io.vlingo/vlingo-symbio-geode@1.7.5?classifier=sources

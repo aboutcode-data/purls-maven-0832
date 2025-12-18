@@ -1,0 +1,4 @@
+- pkg:maven/com.midtrans/issuetracker@1.11.0-SANDBOX?type=aar
+- pkg:maven/com.midtrans/issuetracker@1.11.0?type=aar
+- pkg:maven/com.midtrans/issuetracker@1.12.0-SANDBOX?type=aar
+- pkg:maven/com.midtrans/issuetracker@1.12.0?type=aar

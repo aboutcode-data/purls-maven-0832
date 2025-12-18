@@ -196,6 +196,9 @@
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.33
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.33?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.33?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.34
+- pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.34?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.34?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@2.4
@@ -240,3 +243,6 @@
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@3.0.1
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@3.0.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@3.0.2
+- pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@3.0.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/https-clientserver-grizzly@3.0.2?classifier=sources

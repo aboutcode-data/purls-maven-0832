@@ -84,6 +84,10 @@
 - pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.41.0?classifier=sources
 - pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.5.0
 - pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.5.0?classifier=sources
+- pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.51.0
+- pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.51.0?classifier=sources
+- pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.52.0
+- pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.52.0?classifier=sources
 - pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.6.0
 - pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.6.0?classifier=sources
 - pkg:maven/com.github.arturopala/buffer-and-slice_2.12@1.6.1

@@ -16,3 +16,5 @@
 - pkg:maven/org.openksavi.sponge/sponge-examples-base@1.16.5?classifier=sources
 - pkg:maven/org.openksavi.sponge/sponge-examples-base@1.17.0
 - pkg:maven/org.openksavi.sponge/sponge-examples-base@1.17.0?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-examples-base@1.17.1
+- pkg:maven/org.openksavi.sponge/sponge-examples-base@1.17.1?classifier=sources

@@ -17,6 +17,8 @@
 - pkg:maven/nl.stokpop/events-gatling-maven-plugin@3.1.0-events-2
 - pkg:maven/nl.stokpop/events-gatling-maven-plugin@3.1.0-events-2.0
 - pkg:maven/nl.stokpop/events-gatling-maven-plugin@3.1.0-events-2.0?classifier=sources
+- pkg:maven/nl.stokpop/events-gatling-maven-plugin@3.1.0-events-2.1
+- pkg:maven/nl.stokpop/events-gatling-maven-plugin@3.1.0-events-2.1?classifier=sources
 - pkg:maven/nl.stokpop/events-gatling-maven-plugin@3.1.0-events-2?classifier=sources
 - pkg:maven/nl.stokpop/events-gatling-maven-plugin@3.1.0-events-3
 - pkg:maven/nl.stokpop/events-gatling-maven-plugin@3.1.0-events-3?classifier=sources

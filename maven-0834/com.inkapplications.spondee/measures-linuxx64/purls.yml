@@ -1,0 +1,2 @@
+- pkg:maven/com.inkapplications.spondee/measures-linuxx64@0.0.3?classifier=sources
+- pkg:maven/com.inkapplications.spondee/measures-linuxx64@0.1.0?classifier=sources

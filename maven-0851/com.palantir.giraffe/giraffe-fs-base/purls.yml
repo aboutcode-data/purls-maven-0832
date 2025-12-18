@@ -1,0 +1,12 @@
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.10.0
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.10.0?classifier=sources
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.10.1
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.10.1?classifier=sources
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.7.0
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.7.0?classifier=sources
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.8.0
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.8.0?classifier=sources
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.8.1
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.8.1?classifier=sources
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.9.0
+- pkg:maven/com.palantir.giraffe/giraffe-fs-base@0.9.0?classifier=sources

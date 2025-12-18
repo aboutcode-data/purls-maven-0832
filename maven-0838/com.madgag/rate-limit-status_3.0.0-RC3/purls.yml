@@ -1,0 +1,2 @@
+- pkg:maven/com.madgag/rate-limit-status_3.0.0-RC3@0.6
+- pkg:maven/com.madgag/rate-limit-status_3.0.0-RC3@0.6?classifier=sources

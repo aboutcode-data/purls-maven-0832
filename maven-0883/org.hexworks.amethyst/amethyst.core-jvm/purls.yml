@@ -2,3 +2,6 @@
 - pkg:maven/org.hexworks.amethyst/amethyst.core-jvm@2020.1.0-RELEASE?classifier=sources
 - pkg:maven/org.hexworks.amethyst/amethyst.core-jvm@2020.1.1-RELEASE?classifier=sources
 - pkg:maven/org.hexworks.amethyst/amethyst.core-jvm@2020.1.2-RELEASE?classifier=sources
+- pkg:maven/org.hexworks.amethyst/amethyst.core-jvm@2021.0.1-RELEASE?classifier=sources
+- pkg:maven/org.hexworks.amethyst/amethyst.core-jvm@2021.0.2-RELEASE?classifier=sources
+- pkg:maven/org.hexworks.amethyst/amethyst.core-jvm@2021.0.3-RELEASE?classifier=sources

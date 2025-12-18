@@ -46,3 +46,7 @@
 - pkg:maven/net.sourceforge.pmd/pmd-lang-test@6.32.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-lang-test@6.33.0
 - pkg:maven/net.sourceforge.pmd/pmd-lang-test@6.33.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-lang-test@6.34.0
+- pkg:maven/net.sourceforge.pmd/pmd-lang-test@6.34.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-lang-test@6.35.0
+- pkg:maven/net.sourceforge.pmd/pmd-lang-test@6.35.0?classifier=sources

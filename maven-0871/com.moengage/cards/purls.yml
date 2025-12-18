@@ -4,3 +4,4 @@
 - pkg:maven/com.moengage/cards@2.0.01?classifier=sources
 - pkg:maven/com.moengage/cards@2.0.01?type=aar
 - pkg:maven/com.moengage/cards@2.0.02?classifier=sources
+- pkg:maven/com.moengage/cards@2.1.00?classifier=sources

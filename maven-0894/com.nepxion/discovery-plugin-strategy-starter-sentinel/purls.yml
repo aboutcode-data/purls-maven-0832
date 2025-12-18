@@ -16,6 +16,10 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@3.24.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@3.25.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@3.25.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@3.26.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@3.26.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@6.10.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@6.10.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@6.3.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@6.3.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel@6.3.1

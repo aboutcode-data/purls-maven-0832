@@ -1,0 +1,2 @@
+- pkg:maven/org.piax/piax-compat@4.0
+- pkg:maven/org.piax/piax-compat@4.0?classifier=sources

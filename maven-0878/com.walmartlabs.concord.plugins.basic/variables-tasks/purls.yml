@@ -121,4 +121,5 @@
 - pkg:maven/com.walmartlabs.concord.plugins.basic/variables-tasks@1.82.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/variables-tasks@1.83.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/variables-tasks@1.84.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins.basic/variables-tasks@1.85.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/variables-tasks@1.9.0?classifier=sources

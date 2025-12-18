@@ -224,6 +224,10 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.30.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.31.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.31.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.32.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.32.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.33.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.33.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.4.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.4.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator@1.4.5.Final

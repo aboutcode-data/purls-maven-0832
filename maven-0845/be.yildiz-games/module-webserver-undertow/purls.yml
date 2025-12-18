@@ -5,6 +5,8 @@
 - pkg:maven/be.yildiz-games/module-webserver-undertow@1.1.1
 - pkg:maven/be.yildiz-games/module-webserver-undertow@1.1.10
 - pkg:maven/be.yildiz-games/module-webserver-undertow@1.1.10?classifier=sources
+- pkg:maven/be.yildiz-games/module-webserver-undertow@1.1.11
+- pkg:maven/be.yildiz-games/module-webserver-undertow@1.1.11?classifier=sources
 - pkg:maven/be.yildiz-games/module-webserver-undertow@1.1.1?classifier=sources
 - pkg:maven/be.yildiz-games/module-webserver-undertow@1.1.3
 - pkg:maven/be.yildiz-games/module-webserver-undertow@1.1.3?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.beangle.cache/beangle-cache-redis_2.13@0.0.20?classifier=sources
 - pkg:maven/org.beangle.cache/beangle-cache-redis_2.13@0.0.21
 - pkg:maven/org.beangle.cache/beangle-cache-redis_2.13@0.0.21?classifier=sources
+- pkg:maven/org.beangle.cache/beangle-cache-redis_2.13@0.0.22
+- pkg:maven/org.beangle.cache/beangle-cache-redis_2.13@0.0.22?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.avast.cloud/datadog4s-api_3@0.13.1
+- pkg:maven/com.avast.cloud/datadog4s-api_3@0.13.1?classifier=sources

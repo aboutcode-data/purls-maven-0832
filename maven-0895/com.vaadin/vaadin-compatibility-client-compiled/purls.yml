@@ -54,6 +54,10 @@
 - pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.12.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.12.4
 - pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.12.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.13.0
+- pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.13.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.13.1
+- pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.13.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.2.0
 - pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-compatibility-client-compiled@8.2.1

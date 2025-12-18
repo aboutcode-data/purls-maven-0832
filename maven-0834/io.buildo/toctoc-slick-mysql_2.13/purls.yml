@@ -1,0 +1,2 @@
+- pkg:maven/io.buildo/toctoc-slick-mysql_2.13@0.3.1
+- pkg:maven/io.buildo/toctoc-slick-mysql_2.13@0.3.1?classifier=sources

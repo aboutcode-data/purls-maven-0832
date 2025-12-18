@@ -1,0 +1,1 @@
+- pkg:maven/com.palantir.config.crypto/encrypted-config-value-bundle@2.2.0?classifier=sources

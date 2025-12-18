@@ -66,3 +66,5 @@
 - pkg:maven/com.taobao.arthas/arthas-spy@3.4.8?classifier=sources
 - pkg:maven/com.taobao.arthas/arthas-spy@3.5.0
 - pkg:maven/com.taobao.arthas/arthas-spy@3.5.0?classifier=sources
+- pkg:maven/com.taobao.arthas/arthas-spy@3.5.1
+- pkg:maven/com.taobao.arthas/arthas-spy@3.5.1?classifier=sources

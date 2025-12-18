@@ -16,3 +16,4 @@
 - pkg:maven/net.gotev/cookie-store@1.3.3?type=aar
 - pkg:maven/net.gotev/cookie-store@1.3.4?classifier=sources
 - pkg:maven/net.gotev/cookie-store@1.3.4?type=aar
+- pkg:maven/net.gotev/cookie-store@1.3.5?classifier=sources

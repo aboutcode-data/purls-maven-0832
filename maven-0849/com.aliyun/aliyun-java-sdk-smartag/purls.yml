@@ -20,3 +20,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-smartag@1.5.3?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-smartag@2.0.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-smartag@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-smartag@2.0.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-smartag@2.0.1?classifier=sources

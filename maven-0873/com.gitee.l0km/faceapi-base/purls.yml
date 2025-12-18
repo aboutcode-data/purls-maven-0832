@@ -103,3 +103,7 @@
 - pkg:maven/com.gitee.l0km/faceapi-base@3.2.9?classifier=sources
 - pkg:maven/com.gitee.l0km/faceapi-base@3.3.0
 - pkg:maven/com.gitee.l0km/faceapi-base@3.3.0?classifier=sources
+- pkg:maven/com.gitee.l0km/faceapi-base@3.4.0
+- pkg:maven/com.gitee.l0km/faceapi-base@3.4.0?classifier=sources
+- pkg:maven/com.gitee.l0km/faceapi-base@4.0.0
+- pkg:maven/com.gitee.l0km/faceapi-base@4.0.0?classifier=sources

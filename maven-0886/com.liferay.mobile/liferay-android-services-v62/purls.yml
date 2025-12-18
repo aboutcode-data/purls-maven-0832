@@ -1,0 +1,3 @@
+- pkg:maven/com.liferay.mobile/liferay-android-services-v62@7.2.3?classifier=sources
+- pkg:maven/com.liferay.mobile/liferay-android-services-v62@7.3.0?classifier=sources
+- pkg:maven/com.liferay.mobile/liferay-android-services-v62@7.3.0?type=aar

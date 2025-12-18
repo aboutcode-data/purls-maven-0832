@@ -1,0 +1,6 @@
+- pkg:maven/vn.sohatv/SDK_Login_Lotus_Page@1.0.0?classifier=sources
+- pkg:maven/vn.sohatv/SDK_Login_Lotus_Page@1.0.0?type=aar
+- pkg:maven/vn.sohatv/SDK_Login_Lotus_Page@1.1.7.0
+- pkg:maven/vn.sohatv/SDK_Login_Lotus_Page@1.1.7.1
+- pkg:maven/vn.sohatv/SDK_Login_Lotus_Page@1.1.7.2
+- pkg:maven/vn.sohatv/SDK_Login_Lotus_Page@1.1.7.3

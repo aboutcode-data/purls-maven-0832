@@ -38,3 +38,4 @@
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@7.5.0?type=aar
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@7.6.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@7.6.0?type=aar
+- pkg:maven/com.swrve.sdk.android/swrve-conversations@7.6.1?classifier=sources

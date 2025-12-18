@@ -40,3 +40,5 @@
 - pkg:maven/net.razorvine/pyrolite@4.9?classifier=sources
 - pkg:maven/net.razorvine/pyrolite@5.0
 - pkg:maven/net.razorvine/pyrolite@5.0?classifier=sources
+- pkg:maven/net.razorvine/pyrolite@5.1
+- pkg:maven/net.razorvine/pyrolite@5.1?classifier=sources

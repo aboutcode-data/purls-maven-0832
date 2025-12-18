@@ -1,0 +1,2 @@
+- pkg:maven/com.eed3si9n/repatch-github_2.13@dispatch1.2.0_0.1.0
+- pkg:maven/com.eed3si9n/repatch-github_2.13@dispatch1.2.0_0.1.0?classifier=sources

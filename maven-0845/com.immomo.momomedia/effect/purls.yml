@@ -1,0 +1,8 @@
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20210207164501?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20210207164501?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20210427192102?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20210427192102?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20210428152101?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20210428152101?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-2021042870101?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-2021042870101?type=aar

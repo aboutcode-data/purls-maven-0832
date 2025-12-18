@@ -1,2 +1,4 @@
 - pkg:maven/com.codecommit/gll-combinators_2.12@2.3
 - pkg:maven/com.codecommit/gll-combinators_2.12@2.3?classifier=sources
+- pkg:maven/com.codecommit/gll-combinators_2.12@2.5-53b190b
+- pkg:maven/com.codecommit/gll-combinators_2.12@2.5-53b190b?classifier=sources

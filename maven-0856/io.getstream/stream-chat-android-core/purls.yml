@@ -1,3 +1,4 @@
+- pkg:maven/io.getstream/stream-chat-android-core@4.10.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-core@4.4.3?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-core@4.4.5?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-core@4.4.6?classifier=sources
@@ -14,3 +15,6 @@
 - pkg:maven/io.getstream/stream-chat-android-core@4.7.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-core@4.8.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-core@4.8.1?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-core@4.9.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-core@4.9.1?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-core@4.9.2?classifier=sources

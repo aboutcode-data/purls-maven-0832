@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.service-common/helidon-service-common-rest@2.3.0
+- pkg:maven/io.helidon.service-common/helidon-service-common-rest@2.3.0?classifier=sources

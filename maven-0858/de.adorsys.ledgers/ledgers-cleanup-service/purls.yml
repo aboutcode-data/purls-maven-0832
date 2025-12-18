@@ -1,2 +1,6 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-cleanup-service@4.10
 - pkg:maven/de.adorsys.ledgers/ledgers-cleanup-service@4.10?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-cleanup-service@4.11
+- pkg:maven/de.adorsys.ledgers/ledgers-cleanup-service@4.11?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-cleanup-service@4.12
+- pkg:maven/de.adorsys.ledgers/ledgers-cleanup-service@4.12?classifier=sources

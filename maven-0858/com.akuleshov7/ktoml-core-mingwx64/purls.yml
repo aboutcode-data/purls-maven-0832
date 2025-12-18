@@ -1,0 +1,7 @@
+- pkg:maven/com.akuleshov7/ktoml-core-mingwx64@0.2.0-alpha.0.0%2B20210511T153950Z?classifier=sources
+- pkg:maven/com.akuleshov7/ktoml-core-mingwx64@0.2.0?classifier=sources
+- pkg:maven/com.akuleshov7/ktoml-core-mingwx64@0.2.1?classifier=sources
+- pkg:maven/com.akuleshov7/ktoml-core-mingwx64@0.2.2?classifier=sources
+- pkg:maven/com.akuleshov7/ktoml-core-mingwx64@0.2.3?classifier=sources
+- pkg:maven/com.akuleshov7/ktoml-core-mingwx64@0.2.4?classifier=sources
+- pkg:maven/com.akuleshov7/ktoml-core-mingwx64@0.2.5?classifier=sources

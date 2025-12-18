@@ -4,3 +4,5 @@
 - pkg:maven/com.infobip/infobip-kafka-testcontainers-spring-boot-starter@3.1.0?classifier=sources
 - pkg:maven/com.infobip/infobip-kafka-testcontainers-spring-boot-starter@3.1.6
 - pkg:maven/com.infobip/infobip-kafka-testcontainers-spring-boot-starter@3.1.6?classifier=sources
+- pkg:maven/com.infobip/infobip-kafka-testcontainers-spring-boot-starter@3.2.1
+- pkg:maven/com.infobip/infobip-kafka-testcontainers-spring-boot-starter@3.2.1?classifier=sources

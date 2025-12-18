@@ -1,0 +1,2 @@
+- pkg:maven/io.archimedesfw.data/archimedes-data-jdbc-spring@0.0.1
+- pkg:maven/io.archimedesfw.data/archimedes-data-jdbc-spring@0.0.1?classifier=sources

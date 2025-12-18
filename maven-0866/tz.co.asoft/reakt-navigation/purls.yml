@@ -5,3 +5,4 @@
 - pkg:maven/tz.co.asoft/reakt-navigation@0.0.8?classifier=sources
 - pkg:maven/tz.co.asoft/reakt-navigation@0.0.90?classifier=sources
 - pkg:maven/tz.co.asoft/reakt-navigation@0.1.0?classifier=sources
+- pkg:maven/tz.co.asoft/reakt-navigation@0.1.10?classifier=sources

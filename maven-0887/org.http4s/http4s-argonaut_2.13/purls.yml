@@ -51,6 +51,10 @@
 - pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.21?classifier=sources
 - pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.22
 - pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.22?classifier=sources
+- pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.23
+- pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.23?classifier=sources
+- pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.24
+- pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.24?classifier=sources
 - pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.2?classifier=sources
 - pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.3
 - pkg:maven/org.http4s/http4s-argonaut_2.13@0.21.3?classifier=sources

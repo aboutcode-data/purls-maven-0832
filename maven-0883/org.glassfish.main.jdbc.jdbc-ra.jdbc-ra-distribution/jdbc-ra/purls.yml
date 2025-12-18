@@ -16,3 +16,4 @@
 - pkg:maven/org.glassfish.main.jdbc.jdbc-ra.jdbc-ra-distribution/jdbc-ra@6.0.0-RC3?classifier=sources
 - pkg:maven/org.glassfish.main.jdbc.jdbc-ra.jdbc-ra-distribution/jdbc-ra@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.jdbc.jdbc-ra.jdbc-ra-distribution/jdbc-ra@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.jdbc.jdbc-ra.jdbc-ra-distribution/jdbc-ra@6.1.0?classifier=sources

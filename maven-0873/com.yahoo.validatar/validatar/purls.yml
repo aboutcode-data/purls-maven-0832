@@ -1,0 +1,4 @@
+- pkg:maven/com.yahoo.validatar/validatar@0.6.2
+- pkg:maven/com.yahoo.validatar/validatar@0.6.2?classifier=sources
+- pkg:maven/com.yahoo.validatar/validatar@0.6.3
+- pkg:maven/com.yahoo.validatar/validatar@0.6.3?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.heron/heron-kafka-spout@0.20.3-incubating?classifier=sources
+- pkg:maven/org.apache.heron/heron-kafka-spout@0.20.4-incubating?classifier=sources

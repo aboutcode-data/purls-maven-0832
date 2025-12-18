@@ -16,3 +16,5 @@
 - pkg:maven/com.github.fs2-blobstore/core_2.13@0.8.0-beta2?classifier=sources
 - pkg:maven/com.github.fs2-blobstore/core_2.13@0.8.0-beta3
 - pkg:maven/com.github.fs2-blobstore/core_2.13@0.8.0-beta3?classifier=sources
+- pkg:maven/com.github.fs2-blobstore/core_2.13@0.9.0-beta3
+- pkg:maven/com.github.fs2-blobstore/core_2.13@0.9.0-beta3?classifier=sources

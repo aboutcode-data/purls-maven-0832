@@ -1,0 +1,2 @@
+- pkg:maven/org.deeplearning4j/deeplearning4j-cuda-11.2@1.0.0-M1
+- pkg:maven/org.deeplearning4j/deeplearning4j-cuda-11.2@1.0.0-M1?classifier=sources

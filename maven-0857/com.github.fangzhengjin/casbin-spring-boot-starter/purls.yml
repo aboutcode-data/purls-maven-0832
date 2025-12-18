@@ -1,2 +1,4 @@
+- pkg:maven/com.github.fangzhengjin/casbin-spring-boot-starter@0.0.13-SNAPSHOT-TEST2?classifier=sources
+- pkg:maven/com.github.fangzhengjin/casbin-spring-boot-starter@0.0.13?classifier=sources
 - pkg:maven/com.github.fangzhengjin/casbin-spring-boot-starter@0.0.2
 - pkg:maven/com.github.fangzhengjin/casbin-spring-boot-starter@0.0.2?classifier=sources

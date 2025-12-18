@@ -16,3 +16,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@1.0.5
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@1.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.0
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.1
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.0
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.0
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.0?classifier=sources-commercial

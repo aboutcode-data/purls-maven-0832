@@ -1,1 +1,4 @@
 - pkg:maven/org.tomitribe.jamira/jamira-cli@0.1?classifier=sources
+- pkg:maven/org.tomitribe.jamira/jamira-cli@0.2?classifier=sources
+- pkg:maven/org.tomitribe.jamira/jamira-cli@0.4?classifier=sources
+- pkg:maven/org.tomitribe.jamira/jamira-cli@0.5?classifier=sources

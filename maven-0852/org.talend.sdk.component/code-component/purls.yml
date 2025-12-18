@@ -60,3 +60,7 @@
 - pkg:maven/org.talend.sdk.component/code-component@1.31.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/code-component@1.31.2
 - pkg:maven/org.talend.sdk.component/code-component@1.31.2?classifier=sources
+- pkg:maven/org.talend.sdk.component/code-component@1.32.0
+- pkg:maven/org.talend.sdk.component/code-component@1.32.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/code-component@1.33.0
+- pkg:maven/org.talend.sdk.component/code-component@1.33.0?classifier=sources

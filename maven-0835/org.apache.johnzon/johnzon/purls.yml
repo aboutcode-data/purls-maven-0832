@@ -33,6 +33,8 @@
 - pkg:maven/org.apache.johnzon/johnzon@1.1.9?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@1.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@1.2.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.johnzon/johnzon@1.2.11?classifier=source-release&type=zip
+- pkg:maven/org.apache.johnzon/johnzon@1.2.12?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@1.2.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@1.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@1.2.3?classifier=source-release&type=zip

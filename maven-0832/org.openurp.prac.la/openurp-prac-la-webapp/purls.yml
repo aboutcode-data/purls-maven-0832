@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.prac.la/openurp-prac-la-webapp@0.0.2?classifier=sources
+- pkg:maven/org.openurp.prac.la/openurp-prac-la-webapp@0.0.2?type=war

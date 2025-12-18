@@ -25,3 +25,5 @@
 - pkg:maven/io.siddhi.extension.io.http/siddhi-io-http@2.3.1?classifier=sources
 - pkg:maven/io.siddhi.extension.io.http/siddhi-io-http@2.3.2
 - pkg:maven/io.siddhi.extension.io.http/siddhi-io-http@2.3.2?classifier=sources
+- pkg:maven/io.siddhi.extension.io.http/siddhi-io-http@2.3.3
+- pkg:maven/io.siddhi.extension.io.http/siddhi-io-http@2.3.3?classifier=sources

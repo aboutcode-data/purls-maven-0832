@@ -50,3 +50,5 @@
 - pkg:maven/cn.craccd/jpaHelper@0.2.7?classifier=sources
 - pkg:maven/cn.craccd/jpaHelper@0.2.8
 - pkg:maven/cn.craccd/jpaHelper@0.2.8?classifier=sources
+- pkg:maven/cn.craccd/jpaHelper@0.2.9
+- pkg:maven/cn.craccd/jpaHelper@0.2.9?classifier=sources

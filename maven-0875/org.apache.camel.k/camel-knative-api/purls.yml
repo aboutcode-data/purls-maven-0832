@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.camel.k/camel-knative-api@1.5.0?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-knative-api@1.6.0
 - pkg:maven/org.apache.camel.k/camel-knative-api@1.6.0?classifier=sources
+- pkg:maven/org.apache.camel.k/camel-knative-api@1.7.0
+- pkg:maven/org.apache.camel.k/camel-knative-api@1.7.0?classifier=sources

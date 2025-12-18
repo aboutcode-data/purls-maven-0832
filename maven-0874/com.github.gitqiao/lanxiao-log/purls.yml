@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gitqiao/lanxiao-log@0.0.1
+- pkg:maven/com.github.gitqiao/lanxiao-log@0.0.1?classifier=sources

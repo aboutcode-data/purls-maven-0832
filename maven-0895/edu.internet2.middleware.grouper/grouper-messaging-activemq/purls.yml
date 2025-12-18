@@ -72,5 +72,15 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.46?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.47
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.47?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.48
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.48?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.49
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.49?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.50
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.50?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.51
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.51?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.52
+- pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.52?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.9
 - pkg:maven/edu.internet2.middleware.grouper/grouper-messaging-activemq@2.5.9?classifier=sources

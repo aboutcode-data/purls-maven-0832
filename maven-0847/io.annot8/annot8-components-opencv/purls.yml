@@ -1,0 +1,2 @@
+- pkg:maven/io.annot8/annot8-components-opencv@1.2.0
+- pkg:maven/io.annot8/annot8-components-opencv@1.2.0?classifier=sources

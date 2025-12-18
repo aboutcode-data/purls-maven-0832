@@ -1,0 +1,2 @@
+- pkg:maven/io.h8/borscht-jackson_3.0.0-RC3@1.0.0-RC2
+- pkg:maven/io.h8/borscht-jackson_3.0.0-RC3@1.0.0-RC2?classifier=sources

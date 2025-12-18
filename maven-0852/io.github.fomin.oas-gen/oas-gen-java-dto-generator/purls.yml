@@ -30,3 +30,5 @@
 - pkg:maven/io.github.fomin.oas-gen/oas-gen-java-dto-generator@0.0.39?classifier=sources
 - pkg:maven/io.github.fomin.oas-gen/oas-gen-java-dto-generator@0.0.40?classifier=sources
 - pkg:maven/io.github.fomin.oas-gen/oas-gen-java-dto-generator@0.0.41?classifier=sources
+- pkg:maven/io.github.fomin.oas-gen/oas-gen-java-dto-generator@0.0.42?classifier=sources
+- pkg:maven/io.github.fomin.oas-gen/oas-gen-java-dto-generator@0.0.43?classifier=sources

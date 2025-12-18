@@ -1,0 +1,2 @@
+- pkg:maven/com.payermax/payment-iap-androidx@1.2.38?classifier=sources
+- pkg:maven/com.payermax/payment-iap-androidx@1.2.38?type=aar

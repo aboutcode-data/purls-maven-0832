@@ -1,0 +1,2 @@
+- pkg:maven/com.rallyhealth/play27-json-tests-sc14_2.13@4.4.0
+- pkg:maven/com.rallyhealth/play27-json-tests-sc14_2.13@4.4.0?classifier=sources
