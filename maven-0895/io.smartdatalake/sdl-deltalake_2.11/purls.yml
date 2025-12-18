@@ -1,0 +1,2 @@
+- pkg:maven/io.smartdatalake/sdl-deltalake_2.11@1.2.4
+- pkg:maven/io.smartdatalake/sdl-deltalake_2.11@1.2.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.uniqueck.asciidoctorj.extensions/asciidoctorj-liquibase-extension@0.1.0
+- pkg:maven/de.uniqueck.asciidoctorj.extensions/asciidoctorj-liquibase-extension@0.1.0?classifier=sources
+- pkg:maven/de.uniqueck.asciidoctorj.extensions/asciidoctorj-liquibase-extension@0.1.1
+- pkg:maven/de.uniqueck.asciidoctorj.extensions/asciidoctorj-liquibase-extension@0.1.1?classifier=sources

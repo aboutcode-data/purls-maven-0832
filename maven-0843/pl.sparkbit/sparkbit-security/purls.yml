@@ -1,2 +1,6 @@
+- pkg:maven/pl.sparkbit/sparkbit-security@2.0.10
+- pkg:maven/pl.sparkbit/sparkbit-security@2.0.10?classifier=sources
 - pkg:maven/pl.sparkbit/sparkbit-security@2.0.8
 - pkg:maven/pl.sparkbit/sparkbit-security@2.0.8?classifier=sources
+- pkg:maven/pl.sparkbit/sparkbit-security@2.0.9
+- pkg:maven/pl.sparkbit/sparkbit-security@2.0.9?classifier=sources

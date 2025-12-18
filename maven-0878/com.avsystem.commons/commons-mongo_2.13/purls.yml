@@ -40,3 +40,5 @@
 - pkg:maven/com.avsystem.commons/commons-mongo_2.13@2.0.0-ghtest5
 - pkg:maven/com.avsystem.commons/commons-mongo_2.13@2.0.0-ghtest5?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.13@2.0.0?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-mongo_2.13@2.1.0
+- pkg:maven/com.avsystem.commons/commons-mongo_2.13@2.1.0?classifier=sources

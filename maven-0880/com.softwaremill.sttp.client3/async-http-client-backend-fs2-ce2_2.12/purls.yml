@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend-fs2-ce2_2.12@3.3.0-RC1
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend-fs2-ce2_2.12@3.3.0-RC1?classifier=sources

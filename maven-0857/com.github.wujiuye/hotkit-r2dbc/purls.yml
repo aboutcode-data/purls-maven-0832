@@ -2,3 +2,7 @@
 - pkg:maven/com.github.wujiuye/hotkit-r2dbc@1.1.0-RELEASE?classifier=sources
 - pkg:maven/com.github.wujiuye/hotkit-r2dbc@1.1.1-RELEASE
 - pkg:maven/com.github.wujiuye/hotkit-r2dbc@1.1.1-RELEASE?classifier=sources
+- pkg:maven/com.github.wujiuye/hotkit-r2dbc@1.2.0-RELEASE
+- pkg:maven/com.github.wujiuye/hotkit-r2dbc@1.2.0-RELEASE?classifier=sources
+- pkg:maven/com.github.wujiuye/hotkit-r2dbc@2021.001.RC
+- pkg:maven/com.github.wujiuye/hotkit-r2dbc@2021.001.RC?classifier=sources

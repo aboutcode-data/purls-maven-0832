@@ -38,3 +38,5 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-net-serial-over-tcp@1.13.3?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-net-serial-over-tcp@1.13.4
 - pkg:maven/org.bidib.jbidib/jbidibc-net-serial-over-tcp@1.13.4?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-net-serial-over-tcp@1.13.5
+- pkg:maven/org.bidib.jbidib/jbidibc-net-serial-over-tcp@1.13.5?classifier=sources

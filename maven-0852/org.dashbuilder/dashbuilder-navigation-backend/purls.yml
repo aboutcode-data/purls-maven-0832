@@ -140,3 +140,7 @@
 - pkg:maven/org.dashbuilder/dashbuilder-navigation-backend@7.49.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-navigation-backend@7.50.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-navigation-backend@7.50.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-navigation-backend@7.51.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-navigation-backend@7.51.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-navigation-backend@7.52.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-navigation-backend@7.52.0.Final?classifier=sources

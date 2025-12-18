@@ -8,3 +8,5 @@
 - pkg:maven/org.bytedeco/cpython-platform@3.7.7-1.5.3?classifier=sources
 - pkg:maven/org.bytedeco/cpython-platform@3.7.9-1.5.4
 - pkg:maven/org.bytedeco/cpython-platform@3.7.9-1.5.4?classifier=sources
+- pkg:maven/org.bytedeco/cpython-platform@3.9.2-1.5.5
+- pkg:maven/org.bytedeco/cpython-platform@3.9.2-1.5.5?classifier=sources

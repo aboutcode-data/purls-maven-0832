@@ -114,3 +114,9 @@
 - pkg:maven/redis.clients/jedis@3.5.0?classifier=sources
 - pkg:maven/redis.clients/jedis@3.5.1
 - pkg:maven/redis.clients/jedis@3.5.1?classifier=sources
+- pkg:maven/redis.clients/jedis@3.5.2
+- pkg:maven/redis.clients/jedis@3.5.2?classifier=sources
+- pkg:maven/redis.clients/jedis@3.6.0
+- pkg:maven/redis.clients/jedis@3.6.0-RC1
+- pkg:maven/redis.clients/jedis@3.6.0-RC1?classifier=sources
+- pkg:maven/redis.clients/jedis@3.6.0?classifier=sources

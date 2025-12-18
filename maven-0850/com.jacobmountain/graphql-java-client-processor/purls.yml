@@ -3,3 +3,6 @@
 - pkg:maven/com.jacobmountain/graphql-java-client-processor@0.1.2?classifier=sources
 - pkg:maven/com.jacobmountain/graphql-java-client-processor@0.2.0?classifier=sources
 - pkg:maven/com.jacobmountain/graphql-java-client-processor@0.3.0?classifier=sources
+- pkg:maven/com.jacobmountain/graphql-java-client-processor@0.3.1?classifier=sources
+- pkg:maven/com.jacobmountain/graphql-java-client-processor@0.3.2?classifier=sources
+- pkg:maven/com.jacobmountain/graphql-java-client-processor@0.4.0?classifier=sources

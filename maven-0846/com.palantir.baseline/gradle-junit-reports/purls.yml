@@ -1,0 +1,1 @@
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@3.76.0?classifier=sources

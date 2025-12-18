@@ -48,6 +48,10 @@
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.0?classifier=sources
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.1
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.10
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.100
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.100?classifier=sources
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.101
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.101?classifier=sources
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.10?classifier=sources
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.11
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.11?classifier=sources
@@ -237,4 +241,10 @@
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.95?classifier=sources
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.96
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.96?classifier=sources
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.97
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.97?classifier=sources
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.98
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.98?classifier=sources
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.99
+- pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.99?classifier=sources
 - pkg:maven/de.monochromata.cucumber/reporting-plugin@4.0.9?classifier=sources

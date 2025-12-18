@@ -10,3 +10,5 @@
 - pkg:maven/com.adamlewis/guice-persist-jooq@0.2.0?classifier=sources
 - pkg:maven/com.adamlewis/guice-persist-jooq@1.0.0
 - pkg:maven/com.adamlewis/guice-persist-jooq@1.0.0?classifier=sources
+- pkg:maven/com.adamlewis/guice-persist-jooq@1.1.0
+- pkg:maven/com.adamlewis/guice-persist-jooq@1.1.0?classifier=sources

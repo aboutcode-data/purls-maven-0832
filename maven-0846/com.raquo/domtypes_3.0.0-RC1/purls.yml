@@ -1,2 +1,8 @@
 - pkg:maven/com.raquo/domtypes_3.0.0-RC1@0.12.0
 - pkg:maven/com.raquo/domtypes_3.0.0-RC1@0.12.0?classifier=sources
+- pkg:maven/com.raquo/domtypes_3.0.0-RC1@0.14.0
+- pkg:maven/com.raquo/domtypes_3.0.0-RC1@0.14.0?classifier=sources
+- pkg:maven/com.raquo/domtypes_3.0.0-RC1@0.14.1
+- pkg:maven/com.raquo/domtypes_3.0.0-RC1@0.14.1?classifier=sources
+- pkg:maven/com.raquo/domtypes_3.0.0-RC1@0.14.2
+- pkg:maven/com.raquo/domtypes_3.0.0-RC1@0.14.2?classifier=sources

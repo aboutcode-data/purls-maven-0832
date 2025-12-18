@@ -6,3 +6,7 @@
 - pkg:maven/vip.mate/mate-starter-oss@2.1.8?classifier=sources
 - pkg:maven/vip.mate/mate-starter-oss@2.2.8
 - pkg:maven/vip.mate/mate-starter-oss@2.2.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-oss@2.3.8
+- pkg:maven/vip.mate/mate-starter-oss@2.3.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-oss@2.5.8
+- pkg:maven/vip.mate/mate-starter-oss@2.5.8?classifier=sources

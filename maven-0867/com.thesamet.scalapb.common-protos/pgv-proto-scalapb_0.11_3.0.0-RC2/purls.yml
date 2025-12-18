@@ -1,0 +1,2 @@
+- pkg:maven/com.thesamet.scalapb.common-protos/pgv-proto-scalapb_0.11_3.0.0-RC2@0.4.1-4
+- pkg:maven/com.thesamet.scalapb.common-protos/pgv-proto-scalapb_0.11_3.0.0-RC2@0.4.1-4?classifier=sources

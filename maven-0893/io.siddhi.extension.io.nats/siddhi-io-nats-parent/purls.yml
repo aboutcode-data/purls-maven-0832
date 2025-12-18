@@ -1,5 +1,6 @@
 - pkg:maven/io.siddhi.extension.io.nats/siddhi-io-nats-parent@2.0.10?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.nats/siddhi-io-nats-parent@2.0.11?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.nats/siddhi-io-nats-parent@2.0.12?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.nats/siddhi-io-nats-parent@2.0.3?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.nats/siddhi-io-nats-parent@2.0.4?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.nats/siddhi-io-nats-parent@2.0.5?classifier=source-release&type=zip

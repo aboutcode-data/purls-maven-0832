@@ -1,0 +1,2 @@
+- pkg:maven/xyz.doikki.android.dkplayer/dkplayer-java@3.2.7?classifier=sources
+- pkg:maven/xyz.doikki.android.dkplayer/dkplayer-java@3.3.0?classifier=sources

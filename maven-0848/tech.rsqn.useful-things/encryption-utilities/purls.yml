@@ -40,3 +40,11 @@
 - pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.58?classifier=sources
 - pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.59
 - pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.59?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.60
+- pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.60?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.61
+- pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.61?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.62
+- pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.62?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.63
+- pkg:maven/tech.rsqn.useful-things/encryption-utilities@1.0.63?classifier=sources

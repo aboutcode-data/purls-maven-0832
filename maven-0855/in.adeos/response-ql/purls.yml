@@ -1,0 +1,4 @@
+- pkg:maven/in.adeos/response-ql@1.0.0
+- pkg:maven/in.adeos/response-ql@1.0.0?classifier=sources
+- pkg:maven/in.adeos/response-ql@1.0.1
+- pkg:maven/in.adeos/response-ql@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.purang.search/esy-domain_3.0.0-RC1@3.1.0-RC3
+- pkg:maven/org.purang.search/esy-domain_3.0.0-RC1@3.1.0-RC3?classifier=sources

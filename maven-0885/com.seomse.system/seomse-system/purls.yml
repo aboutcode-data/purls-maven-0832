@@ -18,3 +18,5 @@
 - pkg:maven/com.seomse.system/seomse-system@0.9.8?classifier=sources
 - pkg:maven/com.seomse.system/seomse-system@0.9.9
 - pkg:maven/com.seomse.system/seomse-system@0.9.9?classifier=sources
+- pkg:maven/com.seomse.system/seomse-system@1.0.0
+- pkg:maven/com.seomse.system/seomse-system@1.0.0?classifier=sources

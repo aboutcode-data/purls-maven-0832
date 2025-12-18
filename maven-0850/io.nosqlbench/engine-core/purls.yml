@@ -110,6 +110,8 @@
 - pkg:maven/io.nosqlbench/engine-core@3.12.200?classifier=sources
 - pkg:maven/io.nosqlbench/engine-core@3.12.201
 - pkg:maven/io.nosqlbench/engine-core@3.12.201?classifier=sources
+- pkg:maven/io.nosqlbench/engine-core@3.12.202
+- pkg:maven/io.nosqlbench/engine-core@3.12.202?classifier=sources
 - pkg:maven/io.nosqlbench/engine-core@3.12.20?classifier=sources
 - pkg:maven/io.nosqlbench/engine-core@3.12.21
 - pkg:maven/io.nosqlbench/engine-core@3.12.21?classifier=sources
@@ -238,3 +240,7 @@
 - pkg:maven/io.nosqlbench/engine-core@3.12.98?classifier=sources
 - pkg:maven/io.nosqlbench/engine-core@3.12.99
 - pkg:maven/io.nosqlbench/engine-core@3.12.99?classifier=sources
+- pkg:maven/io.nosqlbench/engine-core@4.15.31
+- pkg:maven/io.nosqlbench/engine-core@4.15.31?classifier=sources
+- pkg:maven/io.nosqlbench/engine-core@4.15.33
+- pkg:maven/io.nosqlbench/engine-core@4.15.33?classifier=sources

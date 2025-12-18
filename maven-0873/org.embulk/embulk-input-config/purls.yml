@@ -1,0 +1,1 @@
+- pkg:maven/org.embulk/embulk-input-config@0.10.29?classifier=sources

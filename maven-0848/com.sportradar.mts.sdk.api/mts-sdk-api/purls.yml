@@ -1,0 +1,2 @@
+- pkg:maven/com.sportradar.mts.sdk.api/mts-sdk-api@2.3.6.0-1
+- pkg:maven/com.sportradar.mts.sdk.api/mts-sdk-api@2.3.6.0-1?classifier=sources

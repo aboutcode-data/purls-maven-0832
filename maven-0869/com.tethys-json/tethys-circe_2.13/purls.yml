@@ -4,3 +4,7 @@
 - pkg:maven/com.tethys-json/tethys-circe_2.13@0.20.0?classifier=sources
 - pkg:maven/com.tethys-json/tethys-circe_2.13@0.21.0
 - pkg:maven/com.tethys-json/tethys-circe_2.13@0.21.0?classifier=sources
+- pkg:maven/com.tethys-json/tethys-circe_2.13@0.22.0
+- pkg:maven/com.tethys-json/tethys-circe_2.13@0.22.0?classifier=sources
+- pkg:maven/com.tethys-json/tethys-circe_2.13@0.23.0
+- pkg:maven/com.tethys-json/tethys-circe_2.13@0.23.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.luohuasheng.bee/lhs-bee-jdbc-generate@1.0.8
+- pkg:maven/net.luohuasheng.bee/lhs-bee-jdbc-generate@1.0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.guizmaii/jruby-safe-libphonenumber_2.12@1.2.2
+- pkg:maven/com.guizmaii/jruby-safe-libphonenumber_2.12@1.2.2?classifier=sources

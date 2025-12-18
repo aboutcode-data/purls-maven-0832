@@ -1,0 +1,2 @@
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@1.0.0.RELEASE
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@1.0.0.RELEASE?classifier=sources

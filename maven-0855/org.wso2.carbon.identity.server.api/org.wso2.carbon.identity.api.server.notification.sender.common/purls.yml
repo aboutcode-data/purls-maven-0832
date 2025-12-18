@@ -34,3 +34,7 @@
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.notification.sender.common@1.0.222?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.notification.sender.common@1.0.223
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.notification.sender.common@1.0.223?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.notification.sender.common@1.0.224
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.notification.sender.common@1.0.224?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.notification.sender.common@1.0.225
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.notification.sender.common@1.0.225?classifier=sources

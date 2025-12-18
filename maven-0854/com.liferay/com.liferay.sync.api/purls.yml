@@ -72,6 +72,9 @@
 - pkg:maven/com.liferay/com.liferay.sync.api@3.0.26
 - pkg:maven/com.liferay/com.liferay.sync.api@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.api@3.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.api@3.0.27
+- pkg:maven/com.liferay/com.liferay.sync.api@3.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.api@3.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.api@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.api@3.0.3
 - pkg:maven/com.liferay/com.liferay.sync.api@3.0.3?classifier=sources
@@ -137,6 +140,9 @@
 - pkg:maven/com.liferay/com.liferay.sync.api@4.0.21
 - pkg:maven/com.liferay/com.liferay.sync.api@4.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.api@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.api@4.0.22
+- pkg:maven/com.liferay/com.liferay.sync.api@4.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.api@4.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.api@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.api@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.api@4.0.3
@@ -208,6 +214,9 @@
 - pkg:maven/com.liferay/com.liferay.sync.api@5.1.8
 - pkg:maven/com.liferay/com.liferay.sync.api@5.1.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.api@5.1.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.api@5.1.9
+- pkg:maven/com.liferay/com.liferay.sync.api@5.1.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.api@5.1.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.api@6.0.0
 - pkg:maven/com.liferay/com.liferay.sync.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.api@6.0.0?classifier=sources-commercial
@@ -241,3 +250,9 @@
 - pkg:maven/com.liferay/com.liferay.sync.api@6.2.7
 - pkg:maven/com.liferay/com.liferay.sync.api@6.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.api@6.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.api@6.2.8
+- pkg:maven/com.liferay/com.liferay.sync.api@6.2.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.api@6.2.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.api@7.0.0
+- pkg:maven/com.liferay/com.liferay.sync.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.api@7.0.0?classifier=sources-commercial

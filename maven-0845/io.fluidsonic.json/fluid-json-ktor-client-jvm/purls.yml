@@ -1,1 +1,2 @@
 - pkg:maven/io.fluidsonic.json/fluid-json-ktor-client-jvm@1.2.0?classifier=sources
+- pkg:maven/io.fluidsonic.json/fluid-json-ktor-client-jvm@1.2.1?classifier=sources

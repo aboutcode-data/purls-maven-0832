@@ -1,0 +1,6 @@
+- pkg:maven/de.fraunhofer.iosb.io.moquette/moquette-broker@0.14.1
+- pkg:maven/de.fraunhofer.iosb.io.moquette/moquette-broker@0.14.1?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.io.moquette/moquette-broker@0.14.2
+- pkg:maven/de.fraunhofer.iosb.io.moquette/moquette-broker@0.14.2?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.io.moquette/moquette-broker@0.14.3
+- pkg:maven/de.fraunhofer.iosb.io.moquette/moquette-broker@0.14.3?classifier=sources

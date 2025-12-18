@@ -32,3 +32,5 @@
 - pkg:maven/com.starkbank/sdk@2.5.0?classifier=sources
 - pkg:maven/com.starkbank/sdk@2.5.1
 - pkg:maven/com.starkbank/sdk@2.5.1?classifier=sources
+- pkg:maven/com.starkbank/sdk@2.6.0
+- pkg:maven/com.starkbank/sdk@2.6.0?classifier=sources

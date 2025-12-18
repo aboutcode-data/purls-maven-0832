@@ -1,0 +1,2 @@
+- pkg:maven/com.oscarg798.shipbotplugin/shipBotPlugin@1.0.0
+- pkg:maven/com.oscarg798.shipbotplugin/shipBotPlugin@1.0.0?classifier=sources

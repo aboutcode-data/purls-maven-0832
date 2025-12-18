@@ -1,2 +1,6 @@
 - pkg:maven/net.minidev/json-smart-action@2.3
 - pkg:maven/net.minidev/json-smart-action@2.3?classifier=sources
+- pkg:maven/net.minidev/json-smart-action@2.4.1
+- pkg:maven/net.minidev/json-smart-action@2.4.1?classifier=sources
+- pkg:maven/net.minidev/json-smart-action@2.4.2
+- pkg:maven/net.minidev/json-smart-action@2.4.2?classifier=sources

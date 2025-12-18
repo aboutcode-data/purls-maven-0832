@@ -22,3 +22,5 @@
 - pkg:maven/de.jangassen/jfa@1.1.9
 - pkg:maven/de.jangassen/jfa@1.1.9?classifier=sources
 - pkg:maven/de.jangassen/jfa@1.1?classifier=sources
+- pkg:maven/de.jangassen/jfa@1.2.0
+- pkg:maven/de.jangassen/jfa@1.2.0?classifier=sources

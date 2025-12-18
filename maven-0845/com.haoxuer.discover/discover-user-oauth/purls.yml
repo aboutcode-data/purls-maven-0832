@@ -16,3 +16,11 @@
 - pkg:maven/com.haoxuer.discover/discover-user-oauth@2.1.0?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-user-oauth@3.1.4-20201031
 - pkg:maven/com.haoxuer.discover/discover-user-oauth@3.1.4-20201031?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-user-oauth@3.2.5-20210225
+- pkg:maven/com.haoxuer.discover/discover-user-oauth@3.2.5-20210225?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-user-oauth@3.2.6-20210222
+- pkg:maven/com.haoxuer.discover/discover-user-oauth@3.2.6-20210222?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-user-oauth@3.3.0-20210320
+- pkg:maven/com.haoxuer.discover/discover-user-oauth@3.3.0-20210320?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-user-oauth@3.3.1-20210328
+- pkg:maven/com.haoxuer.discover/discover-user-oauth@3.3.1-20210328?classifier=sources

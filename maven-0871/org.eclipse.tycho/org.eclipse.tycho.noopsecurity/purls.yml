@@ -26,3 +26,4 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.noopsecurity@2.0.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.noopsecurity@2.1.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.noopsecurity@2.2.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.noopsecurity@2.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.smesec.platform/flatifier-maven-plugin@0.3.0
+- pkg:maven/eu.smesec.platform/flatifier-maven-plugin@0.3.0?classifier=sources

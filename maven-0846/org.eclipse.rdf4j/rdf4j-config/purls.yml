@@ -172,3 +172,7 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-config@3.6.0-M3
 - pkg:maven/org.eclipse.rdf4j/rdf4j-config@3.6.0-M3?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-config@3.6.0?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-config@3.6.1
+- pkg:maven/org.eclipse.rdf4j/rdf4j-config@3.6.1?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-config@3.6.2
+- pkg:maven/org.eclipse.rdf4j/rdf4j-config@3.6.2?classifier=sources

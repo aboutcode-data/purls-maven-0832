@@ -1,0 +1,12 @@
+- pkg:maven/org.realityforge.akasha/akasha-java@0.01
+- pkg:maven/org.realityforge.akasha/akasha-java@0.01?classifier=sources
+- pkg:maven/org.realityforge.akasha/akasha-java@0.02
+- pkg:maven/org.realityforge.akasha/akasha-java@0.02?classifier=sources
+- pkg:maven/org.realityforge.akasha/akasha-java@0.03
+- pkg:maven/org.realityforge.akasha/akasha-java@0.03?classifier=sources
+- pkg:maven/org.realityforge.akasha/akasha-java@0.04
+- pkg:maven/org.realityforge.akasha/akasha-java@0.04?classifier=sources
+- pkg:maven/org.realityforge.akasha/akasha-java@0.05
+- pkg:maven/org.realityforge.akasha/akasha-java@0.05?classifier=sources
+- pkg:maven/org.realityforge.akasha/akasha-java@0.06
+- pkg:maven/org.realityforge.akasha/akasha-java@0.06?classifier=sources

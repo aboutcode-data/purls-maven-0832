@@ -14,6 +14,8 @@
 - pkg:maven/com.blazebit/blaze-expression-editor-monaco@1.0.0-Alpha17?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-editor-monaco@1.0.0-Alpha18
 - pkg:maven/com.blazebit/blaze-expression-editor-monaco@1.0.0-Alpha18?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-editor-monaco@1.0.0-Alpha19
+- pkg:maven/com.blazebit/blaze-expression-editor-monaco@1.0.0-Alpha20
 - pkg:maven/com.blazebit/blaze-expression-editor-monaco@1.0.0-Alpha8
 - pkg:maven/com.blazebit/blaze-expression-editor-monaco@1.0.0-Alpha8?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-editor-monaco@1.0.0-Alpha9

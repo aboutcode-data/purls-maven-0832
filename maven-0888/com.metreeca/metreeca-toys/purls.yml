@@ -1,0 +1,2 @@
+- pkg:maven/com.metreeca/metreeca-toys@0.55.0?classifier=sources
+- pkg:maven/com.metreeca/metreeca-toys@0.55.0?type=war

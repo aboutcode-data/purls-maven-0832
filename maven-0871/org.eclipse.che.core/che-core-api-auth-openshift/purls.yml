@@ -90,3 +90,15 @@
 - pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.26.0?classifier=sources
 - pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.26.1
 - pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.26.1?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.26.2
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.26.2?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.27.0
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.27.0?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.27.1
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.27.1?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.27.2
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.27.2?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.28.0
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.28.0?classifier=sources
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.28.2
+- pkg:maven/org.eclipse.che.core/che-core-api-auth-openshift@7.28.2?classifier=sources

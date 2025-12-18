@@ -1,0 +1,2 @@
+- pkg:maven/org.scalacheck/scalacheck_3.0.0-RC2@1.15.3
+- pkg:maven/org.scalacheck/scalacheck_3.0.0-RC2@1.15.3?classifier=sources

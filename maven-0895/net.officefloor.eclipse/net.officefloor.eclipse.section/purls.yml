@@ -31,6 +31,8 @@
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.section@3.30.2?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.section@3.31.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.section@3.32.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.section@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.section@3.34.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.section@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.section@3.5.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.section@3.5.1?classifier=sources

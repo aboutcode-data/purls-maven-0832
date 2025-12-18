@@ -1,0 +1,2 @@
+- pkg:maven/io.github.berkleytechnologyservices/restdocs-spec-maven-plugin@0.20
+- pkg:maven/io.github.berkleytechnologyservices/restdocs-spec-maven-plugin@0.20?classifier=sources

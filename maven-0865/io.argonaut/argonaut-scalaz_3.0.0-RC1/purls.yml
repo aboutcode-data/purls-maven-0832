@@ -1,0 +1,2 @@
+- pkg:maven/io.argonaut/argonaut-scalaz_3.0.0-RC1@6.3.3
+- pkg:maven/io.argonaut/argonaut-scalaz_3.0.0-RC1@6.3.3?classifier=sources

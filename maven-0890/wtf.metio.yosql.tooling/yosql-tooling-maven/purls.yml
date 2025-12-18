@@ -1,0 +1,4 @@
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2021.4.18
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2021.4.18?classifier=sources
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2021.4.21
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2021.4.21?classifier=sources

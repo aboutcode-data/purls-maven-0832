@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.ratis/ratis-hadoop@0.5.0?classifier=sources
 - pkg:maven/org.apache.ratis/ratis-hadoop@1.0.0
 - pkg:maven/org.apache.ratis/ratis-hadoop@1.0.0?classifier=sources
+- pkg:maven/org.apache.ratis/ratis-hadoop@2.0.0
+- pkg:maven/org.apache.ratis/ratis-hadoop@2.0.0?classifier=sources

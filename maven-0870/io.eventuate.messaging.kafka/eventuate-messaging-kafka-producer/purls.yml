@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.messaging.kafka/eventuate-messaging-kafka-producer@0.13.0.RELEASE?classifier=sources

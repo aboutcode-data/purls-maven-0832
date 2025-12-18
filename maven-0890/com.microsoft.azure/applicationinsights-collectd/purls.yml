@@ -36,3 +36,7 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.2-BETA.2?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.2-BETA?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.2?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.3
+- pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.3-BETA-HEYA-TEST
+- pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.3-BETA-HEYA-TEST?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-collectd@2.6.3?classifier=sources

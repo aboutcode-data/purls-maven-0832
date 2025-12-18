@@ -1,0 +1,2 @@
+- pkg:maven/org.apereo.cas/cas-server-support-events-redis@6.4.0-RC2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-events-redis@6.4.0-RC3?classifier=sources

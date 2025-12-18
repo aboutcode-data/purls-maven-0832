@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client3/fs2ce2_2.11@3.3.0-RC1
+- pkg:maven/com.softwaremill.sttp.client3/fs2ce2_2.11@3.3.0-RC1?classifier=sources

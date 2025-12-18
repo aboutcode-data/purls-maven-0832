@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jackson-common@1.13.1.Final
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jackson-common@1.13.1.Final?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/cn.stylefeng.roses/system-business-notice@7.0.0
+- pkg:maven/cn.stylefeng.roses/system-business-notice@7.0.0?classifier=sources
+- pkg:maven/cn.stylefeng.roses/system-business-notice@7.0.1
+- pkg:maven/cn.stylefeng.roses/system-business-notice@7.0.1?classifier=sources
+- pkg:maven/cn.stylefeng.roses/system-business-notice@7.0.2
+- pkg:maven/cn.stylefeng.roses/system-business-notice@7.0.2?classifier=sources

@@ -50,6 +50,8 @@
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-1eee311?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-2-2098c24
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-2-2098c24?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-2-c5d746b
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-2-c5d746b?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-20-408d4ec
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-20-408d4ec?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-20-cfc9f4d
@@ -70,6 +72,8 @@
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-3-cc66577?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-3dcb32f
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-3dcb32f?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-4-552b08a
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-4-552b08a?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-4-710f015
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-4-710f015?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-4-bb29198
@@ -82,6 +86,8 @@
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-49a2bca?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-5b0b85a
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-5b0b85a?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-6-15faedf
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-6-15faedf?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-6-51bc6ca
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-6-51bc6ca?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.1-6-5ab3b18
@@ -156,3 +162,17 @@
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.7.0?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.7.1
 - pkg:maven/org.typelevel/scalacheck-effect_2.13@0.7.1?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-10-5208290
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-10-5208290?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-12-7c4c364
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-12-7c4c364?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-15-6603054
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-15-6603054?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-2-0ab4a5f
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-2-0ab4a5f?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-4-10319fc
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-4-10319fc?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-6-1270d49
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0-6-1270d49?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0.0
+- pkg:maven/org.typelevel/scalacheck-effect_2.13@1.0.0?classifier=sources

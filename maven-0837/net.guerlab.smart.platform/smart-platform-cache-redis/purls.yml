@@ -18,3 +18,5 @@
 - pkg:maven/net.guerlab.smart.platform/smart-platform-cache-redis@20.2.0?classifier=sources
 - pkg:maven/net.guerlab.smart.platform/smart-platform-cache-redis@20.3.0
 - pkg:maven/net.guerlab.smart.platform/smart-platform-cache-redis@20.3.0?classifier=sources
+- pkg:maven/net.guerlab.smart.platform/smart-platform-cache-redis@21.0.0
+- pkg:maven/net.guerlab.smart.platform/smart-platform-cache-redis@21.0.0?classifier=sources

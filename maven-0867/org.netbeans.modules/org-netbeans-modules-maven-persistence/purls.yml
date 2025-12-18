@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE90?classifier=sources

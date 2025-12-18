@@ -14,3 +14,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-dropwizard2@1.4.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-dropwizard2@1.5.0
 - pkg:maven/com.linecorp.armeria/armeria-dropwizard2@1.5.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-dropwizard2@1.6.0
+- pkg:maven/com.linecorp.armeria/armeria-dropwizard2@1.6.0?classifier=sources

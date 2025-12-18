@@ -1,0 +1,2 @@
+- pkg:maven/nz.co.bottech/example_2.13@0.1.13
+- pkg:maven/nz.co.bottech/example_2.13@0.1.13?classifier=sources

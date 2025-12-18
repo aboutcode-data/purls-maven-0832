@@ -1,0 +1,2 @@
+- pkg:maven/io.ktor/ktor-server-sessions-kotlinMultiplatform@1.5.2?classifier=sources
+- pkg:maven/io.ktor/ktor-server-sessions-kotlinMultiplatform@1.5.3?classifier=sources

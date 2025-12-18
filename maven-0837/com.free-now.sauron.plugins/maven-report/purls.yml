@@ -1,0 +1,2 @@
+- pkg:maven/com.free-now.sauron.plugins/maven-report@0.0.20
+- pkg:maven/com.free-now.sauron.plugins/maven-report@0.0.20?classifier=sources

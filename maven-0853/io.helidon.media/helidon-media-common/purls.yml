@@ -38,6 +38,8 @@
 - pkg:maven/io.helidon.media/helidon-media-common@1.4.6?classifier=sources
 - pkg:maven/io.helidon.media/helidon-media-common@1.4.7
 - pkg:maven/io.helidon.media/helidon-media-common@1.4.7?classifier=sources
+- pkg:maven/io.helidon.media/helidon-media-common@1.4.8
+- pkg:maven/io.helidon.media/helidon-media-common@1.4.8?classifier=sources
 - pkg:maven/io.helidon.media/helidon-media-common@2.0.0
 - pkg:maven/io.helidon.media/helidon-media-common@2.0.0-M1
 - pkg:maven/io.helidon.media/helidon-media-common@2.0.0-M1?classifier=sources
@@ -62,3 +64,5 @@
 - pkg:maven/io.helidon.media/helidon-media-common@2.2.0?classifier=sources
 - pkg:maven/io.helidon.media/helidon-media-common@2.2.1
 - pkg:maven/io.helidon.media/helidon-media-common@2.2.1?classifier=sources
+- pkg:maven/io.helidon.media/helidon-media-common@2.2.2
+- pkg:maven/io.helidon.media/helidon-media-common@2.2.2?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/com.netease.nim/camellia-spring-redis-eureka-discovery-spring-boot-starter@1.0.18?classifier=sources
 - pkg:maven/com.netease.nim/camellia-spring-redis-eureka-discovery-spring-boot-starter@1.0.19
 - pkg:maven/com.netease.nim/camellia-spring-redis-eureka-discovery-spring-boot-starter@1.0.19?classifier=sources
+- pkg:maven/com.netease.nim/camellia-spring-redis-eureka-discovery-spring-boot-starter@1.0.20
+- pkg:maven/com.netease.nim/camellia-spring-redis-eureka-discovery-spring-boot-starter@1.0.20?classifier=sources
+- pkg:maven/com.netease.nim/camellia-spring-redis-eureka-discovery-spring-boot-starter@1.0.21
+- pkg:maven/com.netease.nim/camellia-spring-redis-eureka-discovery-spring-boot-starter@1.0.21?classifier=sources

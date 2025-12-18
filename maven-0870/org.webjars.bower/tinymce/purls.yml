@@ -84,3 +84,5 @@
 - pkg:maven/org.webjars.bower/tinymce@5.5.1?classifier=sources
 - pkg:maven/org.webjars.bower/tinymce@5.6.1
 - pkg:maven/org.webjars.bower/tinymce@5.6.1?classifier=sources
+- pkg:maven/org.webjars.bower/tinymce@5.7.0
+- pkg:maven/org.webjars.bower/tinymce@5.7.0?classifier=sources

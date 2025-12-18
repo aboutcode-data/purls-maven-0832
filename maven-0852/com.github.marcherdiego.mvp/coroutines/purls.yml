@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marcherdiego.mvp/coroutines@1.1.1?classifier=sources
+- pkg:maven/com.github.marcherdiego.mvp/coroutines@1.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.openlr/openlr-simple-map@2.0-beta1
+- pkg:maven/org.openlr/openlr-simple-map@2.0-beta1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/net.guerlab.smart.platform/smart-platform-excel@20.2.0?classifier=sources
 - pkg:maven/net.guerlab.smart.platform/smart-platform-excel@20.3.0
 - pkg:maven/net.guerlab.smart.platform/smart-platform-excel@20.3.0?classifier=sources
+- pkg:maven/net.guerlab.smart.platform/smart-platform-excel@21.0.0
+- pkg:maven/net.guerlab.smart.platform/smart-platform-excel@21.0.0?classifier=sources

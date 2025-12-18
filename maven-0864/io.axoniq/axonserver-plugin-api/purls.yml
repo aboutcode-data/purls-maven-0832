@@ -1,0 +1,2 @@
+- pkg:maven/io.axoniq/axonserver-plugin-api@4.5
+- pkg:maven/io.axoniq/axonserver-plugin-api@4.5?classifier=sources

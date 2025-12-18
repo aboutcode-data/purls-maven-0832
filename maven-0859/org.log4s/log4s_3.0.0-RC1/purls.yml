@@ -1,2 +1,4 @@
 - pkg:maven/org.log4s/log4s_3.0.0-RC1@1.10.0-M5
 - pkg:maven/org.log4s/log4s_3.0.0-RC1@1.10.0-M5?classifier=sources
+- pkg:maven/org.log4s/log4s_3.0.0-RC1@1.10.0-M6
+- pkg:maven/org.log4s/log4s_3.0.0-RC1@1.10.0-M6?classifier=sources

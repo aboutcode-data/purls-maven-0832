@@ -157,4 +157,10 @@
 - pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.93?classifier=sources
 - pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.94
 - pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.94?classifier=sources
+- pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.95
+- pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.95?classifier=sources
+- pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.96
+- pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.96?classifier=sources
+- pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.98
+- pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.98?classifier=sources
 - pkg:maven/org.teamapps/teamapps-server-tomcat-embedded@0.9.9?classifier=sources

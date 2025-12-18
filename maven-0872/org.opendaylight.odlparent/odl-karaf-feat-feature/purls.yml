@@ -82,3 +82,4 @@
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@8.0.2?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@8.0.3?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@8.1.0?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@8.1.1?classifier=sources

@@ -108,6 +108,12 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.21.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.22.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.23.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.23.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.24.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.24.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.25.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.25.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.8.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.8.0-RC1
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.8.0-RC1?classifier=sources
@@ -434,6 +440,12 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.5.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.6.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.6.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.7.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.7.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.8.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.8.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.9.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.9.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@Edgware.1.0.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@Edgware.1.0.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@Finchley.1.0.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sanskrit-coders/stardict@0.1
+- pkg:maven/com.github.sanskrit-coders/stardict@0.1?classifier=sources

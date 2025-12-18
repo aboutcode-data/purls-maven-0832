@@ -40,3 +40,13 @@
 - pkg:maven/com.helger.phase4/phase4-profile-peppol@0.14.0?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-profile-peppol@0.9.17
 - pkg:maven/com.helger.phase4/phase4-profile-peppol@0.9.17?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.0.0
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.0.0-rc1
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.0.0-rc1?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.0.0?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.1.0
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.1.0?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.1.1
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.1.1?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.2.0
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/mx.dapp.sdk/core@2.4.0?classifier=sources
+- pkg:maven/mx.dapp.sdk/core@2.5.0?classifier=sources

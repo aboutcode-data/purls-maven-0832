@@ -44,3 +44,7 @@
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-jprofiler@5.0.8?classifier=sources
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-jprofiler@5.0.9
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-jprofiler@5.0.9?classifier=sources
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-jprofiler@5.1.1
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-jprofiler@5.1.1?classifier=sources
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-jprofiler@5.1.2
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-jprofiler@5.1.2?classifier=sources

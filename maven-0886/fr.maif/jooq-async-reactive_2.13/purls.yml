@@ -1,0 +1,6 @@
+- pkg:maven/fr.maif/jooq-async-reactive_2.13@1.0.1-BETA2
+- pkg:maven/fr.maif/jooq-async-reactive_2.13@1.0.1-BETA2?classifier=sources
+- pkg:maven/fr.maif/jooq-async-reactive_2.13@1.0.1-BETA3
+- pkg:maven/fr.maif/jooq-async-reactive_2.13@1.0.1-BETA3?classifier=sources
+- pkg:maven/fr.maif/jooq-async-reactive_2.13@1.1.0
+- pkg:maven/fr.maif/jooq-async-reactive_2.13@1.1.0?classifier=sources

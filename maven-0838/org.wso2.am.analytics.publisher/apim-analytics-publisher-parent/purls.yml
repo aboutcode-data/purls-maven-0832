@@ -5,3 +5,9 @@
 - pkg:maven/org.wso2.am.analytics.publisher/apim-analytics-publisher-parent@0.2.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.am.analytics.publisher/apim-analytics-publisher-parent@0.3.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.am.analytics.publisher/apim-analytics-publisher-parent@0.4.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.analytics.publisher/apim-analytics-publisher-parent@1.0.0-ALPHA2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.analytics.publisher/apim-analytics-publisher-parent@1.0.0-ALPHA?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.analytics.publisher/apim-analytics-publisher-parent@1.0.0-BETA2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.analytics.publisher/apim-analytics-publisher-parent@1.0.0-BETA?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.analytics.publisher/apim-analytics-publisher-parent@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.analytics.publisher/apim-analytics-publisher-parent@1.0.1?classifier=source-release&type=zip

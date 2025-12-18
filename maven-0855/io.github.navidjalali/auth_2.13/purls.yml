@@ -1,0 +1,2 @@
+- pkg:maven/io.github.navidjalali/auth_2.13@0.1.2
+- pkg:maven/io.github.navidjalali/auth_2.13@0.1.2?classifier=sources

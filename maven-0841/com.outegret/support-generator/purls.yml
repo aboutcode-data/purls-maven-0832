@@ -2,3 +2,5 @@
 - pkg:maven/com.outegret/support-generator@1.5.1.RELEASE?classifier=sources
 - pkg:maven/com.outegret/support-generator@1.5.2.RELEASE
 - pkg:maven/com.outegret/support-generator@1.5.2.RELEASE?classifier=sources
+- pkg:maven/com.outegret/support-generator@1.6.0.RELEASE
+- pkg:maven/com.outegret/support-generator@1.6.0.RELEASE?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/dev.dirs/directories@22?classifier=sources
 - pkg:maven/dev.dirs/directories@23
 - pkg:maven/dev.dirs/directories@23?classifier=sources
+- pkg:maven/dev.dirs/directories@24
+- pkg:maven/dev.dirs/directories@24?classifier=sources

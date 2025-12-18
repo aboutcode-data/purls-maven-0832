@@ -4,3 +4,9 @@
 - pkg:maven/com.syntaxphoenix.syntaxapi/service-download@2.0.2?classifier=sources
 - pkg:maven/com.syntaxphoenix.syntaxapi/service-download@2.0.4
 - pkg:maven/com.syntaxphoenix.syntaxapi/service-download@2.0.4?classifier=sources
+- pkg:maven/com.syntaxphoenix.syntaxapi/service-download@2.0.5
+- pkg:maven/com.syntaxphoenix.syntaxapi/service-download@2.0.5?classifier=sources
+- pkg:maven/com.syntaxphoenix.syntaxapi/service-download@2.0.6
+- pkg:maven/com.syntaxphoenix.syntaxapi/service-download@2.0.6?classifier=sources
+- pkg:maven/com.syntaxphoenix.syntaxapi/service-download@2.0.7
+- pkg:maven/com.syntaxphoenix.syntaxapi/service-download@2.0.7?classifier=sources

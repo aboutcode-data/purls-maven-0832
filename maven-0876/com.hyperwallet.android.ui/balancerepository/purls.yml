@@ -1,0 +1,2 @@
+- pkg:maven/com.hyperwallet.android.ui/balancerepository@1.0.0-beta10?classifier=sources
+- pkg:maven/com.hyperwallet.android.ui/balancerepository@1.0.0-beta10?type=aar

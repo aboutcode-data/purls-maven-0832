@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jochenw.qse/qse-is-core@0.2.1
+- pkg:maven/com.github.jochenw.qse/qse-is-core@0.2.1?classifier=sources

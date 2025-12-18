@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel/camel-test-infra-azure-storage-datalake@3.8.0
 - pkg:maven/org.apache.camel/camel-test-infra-azure-storage-datalake@3.8.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-azure-storage-datalake@3.9.0
+- pkg:maven/org.apache.camel/camel-test-infra-azure-storage-datalake@3.9.0?classifier=sources

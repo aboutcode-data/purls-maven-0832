@@ -1,3 +1,5 @@
 - pkg:maven/it.czerwinski/kotlin-util-androidnativex86@1.4.20?classifier=sources
 - pkg:maven/it.czerwinski/kotlin-util-androidnativex86@1.4.21?classifier=sources
 - pkg:maven/it.czerwinski/kotlin-util-androidnativex86@1.4.30?classifier=sources
+- pkg:maven/it.czerwinski/kotlin-util-androidnativex86@1.4.31?classifier=sources
+- pkg:maven/it.czerwinski/kotlin-util-androidnativex86@1.4.32?classifier=sources

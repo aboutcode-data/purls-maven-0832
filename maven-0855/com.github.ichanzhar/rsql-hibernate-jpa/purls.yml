@@ -7,3 +7,4 @@
 - pkg:maven/com.github.ichanzhar/rsql-hibernate-jpa@0.6b?classifier=sources
 - pkg:maven/com.github.ichanzhar/rsql-hibernate-jpa@0.7?classifier=sources
 - pkg:maven/com.github.ichanzhar/rsql-hibernate-jpa@0.8?classifier=sources
+- pkg:maven/com.github.ichanzhar/rsql-hibernate-jpa@0.9?classifier=sources

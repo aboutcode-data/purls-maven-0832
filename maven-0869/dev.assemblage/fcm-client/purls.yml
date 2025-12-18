@@ -1,0 +1,2 @@
+- pkg:maven/dev.assemblage/fcm-client@1.0.0?classifier=sources
+- pkg:maven/dev.assemblage/fcm-client@2.2.0?classifier=sources

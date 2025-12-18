@@ -1,0 +1,2 @@
+- pkg:maven/org.playframework.anorm/anorm-enumeratum_2.12@2.6.10
+- pkg:maven/org.playframework.anorm/anorm-enumeratum_2.12@2.6.10?classifier=sources

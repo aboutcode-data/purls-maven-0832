@@ -28,3 +28,7 @@
 - pkg:maven/com.netease.nimlib/ysfkit@8.2.0?type=aar
 - pkg:maven/com.netease.nimlib/ysfkit@8.2.2?classifier=sources
 - pkg:maven/com.netease.nimlib/ysfkit@8.2.2?type=aar
+- pkg:maven/com.netease.nimlib/ysfkit@8.3.0?classifier=sources
+- pkg:maven/com.netease.nimlib/ysfkit@8.3.0?type=aar
+- pkg:maven/com.netease.nimlib/ysfkit@8.3.1?classifier=sources
+- pkg:maven/com.netease.nimlib/ysfkit@8.3.1?type=aar

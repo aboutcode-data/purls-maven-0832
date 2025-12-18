@@ -32,6 +32,10 @@
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20201222-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20210209-1.31.0
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20210209-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20210305-1.31.0
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20210305-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20210324-1.31.0
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1-rev20210324-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev2-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev2-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev2-1.25.0
@@ -68,6 +72,10 @@
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210112-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210209-1.31.0
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210209-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210305-1.31.0
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210305-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210324-1.31.0
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1alpha1-rev20210324-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev2-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev2-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev2-1.25.0
@@ -104,3 +112,7 @@
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210112-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210209-1.31.0
 - pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210209-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210305-1.31.0
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210305-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210324-1.31.0
+- pkg:maven/com.google.apis/google-api-services-managedidentities@v1beta1-rev20210324-1.31.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.felix/atomos-distribution@1.0.0?classifier=source-release&type=zip

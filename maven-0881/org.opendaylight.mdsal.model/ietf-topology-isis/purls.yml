@@ -156,6 +156,8 @@
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.7?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.8
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.8?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.9
+- pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.9?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.8-Beryllium
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.8-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.8.1-Beryllium-SR1

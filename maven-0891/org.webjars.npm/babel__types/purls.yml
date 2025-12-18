@@ -28,6 +28,14 @@
 - pkg:maven/org.webjars.npm/babel__types@7.12.6?classifier=sources
 - pkg:maven/org.webjars.npm/babel__types@7.12.7
 - pkg:maven/org.webjars.npm/babel__types@7.12.7?classifier=sources
+- pkg:maven/org.webjars.npm/babel__types@7.13.0
+- pkg:maven/org.webjars.npm/babel__types@7.13.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__types@7.13.12
+- pkg:maven/org.webjars.npm/babel__types@7.13.12?classifier=sources
+- pkg:maven/org.webjars.npm/babel__types@7.13.13
+- pkg:maven/org.webjars.npm/babel__types@7.13.13?classifier=sources
+- pkg:maven/org.webjars.npm/babel__types@7.13.14
+- pkg:maven/org.webjars.npm/babel__types@7.13.14?classifier=sources
 - pkg:maven/org.webjars.npm/babel__types@7.2.0
 - pkg:maven/org.webjars.npm/babel__types@7.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__types@7.2.2

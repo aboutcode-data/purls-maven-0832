@@ -2,6 +2,8 @@
 - pkg:maven/org.cicirello/chips-n-salsa@2.0.0?classifier=sources
 - pkg:maven/org.cicirello/chips-n-salsa@2.1.0
 - pkg:maven/org.cicirello/chips-n-salsa@2.1.0?classifier=sources
+- pkg:maven/org.cicirello/chips-n-salsa@2.10.0
+- pkg:maven/org.cicirello/chips-n-salsa@2.10.0?classifier=sources
 - pkg:maven/org.cicirello/chips-n-salsa@2.2.0
 - pkg:maven/org.cicirello/chips-n-salsa@2.2.0?classifier=sources
 - pkg:maven/org.cicirello/chips-n-salsa@2.3.0
@@ -18,3 +20,9 @@
 - pkg:maven/org.cicirello/chips-n-salsa@2.5.2?classifier=sources
 - pkg:maven/org.cicirello/chips-n-salsa@2.6.0
 - pkg:maven/org.cicirello/chips-n-salsa@2.6.0?classifier=sources
+- pkg:maven/org.cicirello/chips-n-salsa@2.7.0
+- pkg:maven/org.cicirello/chips-n-salsa@2.7.0?classifier=sources
+- pkg:maven/org.cicirello/chips-n-salsa@2.8.0
+- pkg:maven/org.cicirello/chips-n-salsa@2.8.0?classifier=sources
+- pkg:maven/org.cicirello/chips-n-salsa@2.9.0
+- pkg:maven/org.cicirello/chips-n-salsa@2.9.0?classifier=sources

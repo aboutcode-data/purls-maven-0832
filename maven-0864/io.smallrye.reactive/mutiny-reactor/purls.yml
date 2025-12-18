@@ -24,6 +24,10 @@
 - pkg:maven/io.smallrye.reactive/mutiny-reactor@0.12.5?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-reactor@0.13.0
 - pkg:maven/io.smallrye.reactive/mutiny-reactor@0.13.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-reactor@0.14.0
+- pkg:maven/io.smallrye.reactive/mutiny-reactor@0.14.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-reactor@0.15.0
+- pkg:maven/io.smallrye.reactive/mutiny-reactor@0.15.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-reactor@0.2.0
 - pkg:maven/io.smallrye.reactive/mutiny-reactor@0.2.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-reactor@0.3.0

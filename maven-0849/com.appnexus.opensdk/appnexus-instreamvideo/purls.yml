@@ -36,6 +36,8 @@
 - pkg:maven/com.appnexus.opensdk/appnexus-instreamvideo@6.2-1.15?type=aar
 - pkg:maven/com.appnexus.opensdk/appnexus-instreamvideo@7.0-1.16?type=aar
 - pkg:maven/com.appnexus.opensdk/appnexus-instreamvideo@7.1-1.17?type=aar
+- pkg:maven/com.appnexus.opensdk/appnexus-instreamvideo@7.10-1.25?type=aar
+- pkg:maven/com.appnexus.opensdk/appnexus-instreamvideo@7.11-1.26?type=aar
 - pkg:maven/com.appnexus.opensdk/appnexus-instreamvideo@7.2-1.18?type=aar
 - pkg:maven/com.appnexus.opensdk/appnexus-instreamvideo@7.3-1.19?type=aar
 - pkg:maven/com.appnexus.opensdk/appnexus-instreamvideo@7.3.1-1.19?type=aar

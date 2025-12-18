@@ -6,6 +6,10 @@
 - pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.10.2?classifier=sources
 - pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.10.3
 - pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.10.3?classifier=sources
+- pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.11.0
+- pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.11.0?classifier=sources
+- pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.12.0
+- pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.12.0?classifier=sources
 - pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.9.10
 - pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.9.10?classifier=sources
 - pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@0.9.11

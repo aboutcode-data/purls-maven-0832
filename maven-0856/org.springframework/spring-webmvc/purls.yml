@@ -370,3 +370,4 @@
 - pkg:maven/org.springframework/spring-webmvc@5.3.2?classifier=sources
 - pkg:maven/org.springframework/spring-webmvc@5.3.3?classifier=sources
 - pkg:maven/org.springframework/spring-webmvc@5.3.4?classifier=sources
+- pkg:maven/org.springframework/spring-webmvc@5.3.5?classifier=sources

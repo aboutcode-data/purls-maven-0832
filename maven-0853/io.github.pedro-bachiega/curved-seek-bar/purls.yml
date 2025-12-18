@@ -1,0 +1,6 @@
+- pkg:maven/io.github.pedro-bachiega/curved-seek-bar@1.0.0?classifier=sources
+- pkg:maven/io.github.pedro-bachiega/curved-seek-bar@1.0.0?type=aar
+- pkg:maven/io.github.pedro-bachiega/curved-seek-bar@1.0.1?classifier=sources
+- pkg:maven/io.github.pedro-bachiega/curved-seek-bar@1.0.1?type=aar
+- pkg:maven/io.github.pedro-bachiega/curved-seek-bar@1.0.2-alpha01?classifier=sources
+- pkg:maven/io.github.pedro-bachiega/curved-seek-bar@1.0.2-alpha01?type=aar

@@ -16,3 +16,4 @@
 - pkg:maven/me.snowdrop/narayana-spring-boot-starter-it@2.4.1
 - pkg:maven/me.snowdrop/narayana-spring-boot-starter-it@2.5.0
 - pkg:maven/me.snowdrop/narayana-spring-boot-starter-it@2.5.1
+- pkg:maven/me.snowdrop/narayana-spring-boot-starter-it@2.5.2

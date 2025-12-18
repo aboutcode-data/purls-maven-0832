@@ -1,0 +1,4 @@
+- pkg:maven/com.adelegue/elastic-scala-http_2.13@0.0.16-BETA1
+- pkg:maven/com.adelegue/elastic-scala-http_2.13@0.0.16-BETA1?classifier=sources
+- pkg:maven/com.adelegue/elastic-scala-http_2.13@1.0.0
+- pkg:maven/com.adelegue/elastic-scala-http_2.13@1.0.0?classifier=sources

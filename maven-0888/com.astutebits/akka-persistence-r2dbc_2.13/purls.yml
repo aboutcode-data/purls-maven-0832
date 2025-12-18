@@ -1,4 +1,8 @@
 - pkg:maven/com.astutebits/akka-persistence-r2dbc_2.13@0.1.1
 - pkg:maven/com.astutebits/akka-persistence-r2dbc_2.13@0.1.1?classifier=sources
 - pkg:maven/com.astutebits/akka-persistence-r2dbc_2.13@0.2.0
+- pkg:maven/com.astutebits/akka-persistence-r2dbc_2.13@0.2.0%2B30-5ed25295%2B20210404-1638
+- pkg:maven/com.astutebits/akka-persistence-r2dbc_2.13@0.2.0%2B30-5ed25295%2B20210404-1638?classifier=sources
 - pkg:maven/com.astutebits/akka-persistence-r2dbc_2.13@0.2.0?classifier=sources
+- pkg:maven/com.astutebits/akka-persistence-r2dbc_2.13@0.3.0
+- pkg:maven/com.astutebits/akka-persistence-r2dbc_2.13@0.3.0?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.jena/jena-integration-tests@3.8.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-integration-tests@3.9.0
 - pkg:maven/org.apache.jena/jena-integration-tests@3.9.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-integration-tests@4.0.0
+- pkg:maven/org.apache.jena/jena-integration-tests@4.0.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/it.tidalwave.bluemarine2/it-tidalwave-bluemarine2-rest@1.0-ALPHA-19?classifier=sources
 - pkg:maven/it.tidalwave.bluemarine2/it-tidalwave-bluemarine2-rest@1.0-ALPHA-20
 - pkg:maven/it.tidalwave.bluemarine2/it-tidalwave-bluemarine2-rest@1.0-ALPHA-20?classifier=sources
+- pkg:maven/it.tidalwave.bluemarine2/it-tidalwave-bluemarine2-rest@1.1-ALPHA-1
+- pkg:maven/it.tidalwave.bluemarine2/it-tidalwave-bluemarine2-rest@1.1-ALPHA-1?classifier=sources

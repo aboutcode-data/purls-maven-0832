@@ -23,3 +23,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-ant-users-test@1.8.5
 - pkg:maven/org.codehaus.cargo/cargo-sample-ant-users-test@1.9.0
 - pkg:maven/org.codehaus.cargo/cargo-sample-ant-users-test@1.9.1
+- pkg:maven/org.codehaus.cargo/cargo-sample-ant-users-test@1.9.2
+- pkg:maven/org.codehaus.cargo/cargo-sample-ant-users-test@1.9.3

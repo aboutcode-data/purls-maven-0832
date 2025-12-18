@@ -1,0 +1,2 @@
+- pkg:maven/org.drewcarlson/torrentsearch-macos@0.0.2?classifier=sources
+- pkg:maven/org.drewcarlson/torrentsearch-macos@0.0.3?classifier=sources

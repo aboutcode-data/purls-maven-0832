@@ -1,0 +1,17 @@
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.312.2-rc2?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.312.2-rc3?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.314.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.315.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.316.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.316.1?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.317.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.317.2?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.317.3?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.318.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.320.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.321.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.321.1?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.321.2?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.321.3?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.321.4?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-processors@0.321.5?classifier=sources

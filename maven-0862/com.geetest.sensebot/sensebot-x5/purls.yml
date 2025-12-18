@@ -1,0 +1,2 @@
+- pkg:maven/com.geetest.sensebot/sensebot-x5@4.3.1?classifier=sources
+- pkg:maven/com.geetest.sensebot/sensebot-x5@4.3.1?type=aar

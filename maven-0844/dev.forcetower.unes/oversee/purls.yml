@@ -1,2 +1,3 @@
 - pkg:maven/dev.forcetower.unes/oversee@1.0
 - pkg:maven/dev.forcetower.unes/oversee@1.0?classifier=sources
+- pkg:maven/dev.forcetower.unes/oversee@1.1.0?classifier=sources

@@ -98,3 +98,13 @@
 - pkg:maven/com.rasterfoundry/datamodel_2.12@1.57.0?classifier=sources
 - pkg:maven/com.rasterfoundry/datamodel_2.12@1.58.0
 - pkg:maven/com.rasterfoundry/datamodel_2.12@1.58.0?classifier=sources
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.59.0
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.59.0?classifier=sources
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.60.0
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.60.0?classifier=sources
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.61.0
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.61.0?classifier=sources
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.61.1
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.61.1?classifier=sources
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.61.2
+- pkg:maven/com.rasterfoundry/datamodel_2.12@1.61.2?classifier=sources

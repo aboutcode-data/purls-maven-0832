@@ -9,3 +9,5 @@
 - pkg:maven/com.webank/wecross-java-sdk@1.0.0-rc4?classifier=sources
 - pkg:maven/com.webank/wecross-java-sdk@1.0.0?classifier=sources
 - pkg:maven/com.webank/wecross-java-sdk@1.1.0?classifier=sources
+- pkg:maven/com.webank/wecross-java-sdk@1.1.1
+- pkg:maven/com.webank/wecross-java-sdk@1.1.1?classifier=sources

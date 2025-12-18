@@ -1,0 +1,2 @@
+- pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.6.5?classifier=sources
+- pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.0?classifier=sources

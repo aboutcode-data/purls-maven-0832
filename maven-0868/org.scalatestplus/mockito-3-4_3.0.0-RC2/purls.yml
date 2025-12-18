@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatestplus/mockito-3-4_3.0.0-RC2@3.2.7.0
+- pkg:maven/org.scalatestplus/mockito-3-4_3.0.0-RC2@3.2.7.0?classifier=sources

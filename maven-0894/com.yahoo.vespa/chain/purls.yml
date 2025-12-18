@@ -638,8 +638,14 @@
 - pkg:maven/com.yahoo.vespa/chain@7.355.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/chain@7.356.23
 - pkg:maven/com.yahoo.vespa/chain@7.356.23?classifier=sources
+- pkg:maven/com.yahoo.vespa/chain@7.358.44
+- pkg:maven/com.yahoo.vespa/chain@7.358.44?classifier=sources
+- pkg:maven/com.yahoo.vespa/chain@7.359.24
+- pkg:maven/com.yahoo.vespa/chain@7.359.24?classifier=sources
 - pkg:maven/com.yahoo.vespa/chain@7.36.43
 - pkg:maven/com.yahoo.vespa/chain@7.36.43?classifier=sources
+- pkg:maven/com.yahoo.vespa/chain@7.360.24
+- pkg:maven/com.yahoo.vespa/chain@7.360.24?classifier=sources
 - pkg:maven/com.yahoo.vespa/chain@7.37.20
 - pkg:maven/com.yahoo.vespa/chain@7.37.20?classifier=sources
 - pkg:maven/com.yahoo.vespa/chain@7.38.38

@@ -1,0 +1,6 @@
+- pkg:maven/org.tpolecat/natchez-datadog_3.0.0-RC2@0.0.21
+- pkg:maven/org.tpolecat/natchez-datadog_3.0.0-RC2@0.0.21?classifier=sources
+- pkg:maven/org.tpolecat/natchez-datadog_3.0.0-RC2@0.0.22
+- pkg:maven/org.tpolecat/natchez-datadog_3.0.0-RC2@0.0.22?classifier=sources
+- pkg:maven/org.tpolecat/natchez-datadog_3.0.0-RC2@0.1.0
+- pkg:maven/org.tpolecat/natchez-datadog_3.0.0-RC2@0.1.0?classifier=sources

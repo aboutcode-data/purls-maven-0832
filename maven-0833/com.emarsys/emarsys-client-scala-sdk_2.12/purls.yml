@@ -96,3 +96,5 @@
 - pkg:maven/com.emarsys/emarsys-client-scala-sdk_2.12@2.3.3?classifier=sources
 - pkg:maven/com.emarsys/emarsys-client-scala-sdk_2.12@2.3.4
 - pkg:maven/com.emarsys/emarsys-client-scala-sdk_2.12@2.3.4?classifier=sources
+- pkg:maven/com.emarsys/emarsys-client-scala-sdk_2.12@2.3.5
+- pkg:maven/com.emarsys/emarsys-client-scala-sdk_2.12@2.3.5?classifier=sources

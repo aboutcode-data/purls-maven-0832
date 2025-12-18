@@ -30,3 +30,7 @@
 - pkg:maven/com.influxdb/influxdb-client-reactive@1.8.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-reactive@1.9.0
 - pkg:maven/com.influxdb/influxdb-client-reactive@1.9.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-reactive@2.0.0
+- pkg:maven/com.influxdb/influxdb-client-reactive@2.0.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-reactive@2.1.0
+- pkg:maven/com.influxdb/influxdb-client-reactive@2.1.0?classifier=sources

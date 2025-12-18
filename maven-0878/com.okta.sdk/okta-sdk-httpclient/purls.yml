@@ -42,3 +42,6 @@
 - pkg:maven/com.okta.sdk/okta-sdk-httpclient@3.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-httpclient@3.0.1
 - pkg:maven/com.okta.sdk/okta-sdk-httpclient@3.0.2
+- pkg:maven/com.okta.sdk/okta-sdk-httpclient@3.0.3
+- pkg:maven/com.okta.sdk/okta-sdk-httpclient@3.1.0
+- pkg:maven/com.okta.sdk/okta-sdk-httpclient@4.0.0

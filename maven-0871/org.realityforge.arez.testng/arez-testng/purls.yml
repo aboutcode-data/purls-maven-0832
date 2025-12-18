@@ -46,3 +46,11 @@
 - pkg:maven/org.realityforge.arez.testng/arez-testng@0.23?classifier=sources
 - pkg:maven/org.realityforge.arez.testng/arez-testng@0.24
 - pkg:maven/org.realityforge.arez.testng/arez-testng@0.24?classifier=sources
+- pkg:maven/org.realityforge.arez.testng/arez-testng@0.25
+- pkg:maven/org.realityforge.arez.testng/arez-testng@0.25?classifier=sources
+- pkg:maven/org.realityforge.arez.testng/arez-testng@0.26
+- pkg:maven/org.realityforge.arez.testng/arez-testng@0.26?classifier=sources
+- pkg:maven/org.realityforge.arez.testng/arez-testng@0.27
+- pkg:maven/org.realityforge.arez.testng/arez-testng@0.27?classifier=sources
+- pkg:maven/org.realityforge.arez.testng/arez-testng@0.28
+- pkg:maven/org.realityforge.arez.testng/arez-testng@0.28?classifier=sources

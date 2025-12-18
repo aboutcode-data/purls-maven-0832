@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/ros-cdk-tsdb@1.0.1
+- pkg:maven/com.aliyun/ros-cdk-tsdb@1.0.1?classifier=sources

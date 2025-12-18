@@ -1,0 +1,2 @@
+- pkg:maven/org.jeecgframework.nacos/nacos-consistency@1.4.1
+- pkg:maven/org.jeecgframework.nacos/nacos-consistency@1.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/finatra-http-server_2.12@21.3.0
+- pkg:maven/com.twitter/finatra-http-server_2.12@21.3.0?classifier=sources

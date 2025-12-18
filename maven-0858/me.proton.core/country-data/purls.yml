@@ -1,0 +1,2 @@
+- pkg:maven/me.proton.core/country-data@0.1.2?classifier=sources
+- pkg:maven/me.proton.core/country-data@0.1?classifier=sources

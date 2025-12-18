@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nexus-actions.sample/nexus-actions-demo-metadata@0.1?classifier=sources
+- pkg:maven/com.github.nexus-actions.sample/nexus-actions-demo-metadata@0.2?classifier=sources

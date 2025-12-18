@@ -1,0 +1,2 @@
+- pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.4
+- pkg:maven/com.ocadotechnology/TrafficLightSimulation@10.4?classifier=sources

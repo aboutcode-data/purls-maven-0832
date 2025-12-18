@@ -1,2 +1,4 @@
 - pkg:maven/org.atnos/eff-scalaz_native0.4_2.12@5.14.0
 - pkg:maven/org.atnos/eff-scalaz_native0.4_2.12@5.14.0?classifier=sources
+- pkg:maven/org.atnos/eff-scalaz_native0.4_2.12@5.15.0
+- pkg:maven/org.atnos/eff-scalaz_native0.4_2.12@5.15.0?classifier=sources

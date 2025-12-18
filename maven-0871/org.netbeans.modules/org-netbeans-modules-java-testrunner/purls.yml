@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE90?classifier=sources

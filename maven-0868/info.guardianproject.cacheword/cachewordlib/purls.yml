@@ -1,0 +1,2 @@
+- pkg:maven/info.guardianproject.cacheword/cachewordlib@0.1.1?classifier=sources
+- pkg:maven/info.guardianproject.cacheword/cachewordlib@0.1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.aliyun/ocr20191230@0.2.16?classifier=sources
 - pkg:maven/com.aliyun/ocr20191230@1.0.0
 - pkg:maven/com.aliyun/ocr20191230@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/ocr20191230@1.0.1
+- pkg:maven/com.aliyun/ocr20191230@1.0.1?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.10.1?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.10.2
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.10.2?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.17.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.17.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.3.1
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.3.1?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@7.4.0
@@ -74,6 +76,10 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.1.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.10.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.10.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.11.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.11.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.11.1
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.11.1?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.3.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.3.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@8.6.0
@@ -100,3 +106,9 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@9.1.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@9.2.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@9.2.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@9.2.1
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@9.2.1?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@9.3.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@9.3.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@9.3.1
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-base@9.3.1?classifier=sources

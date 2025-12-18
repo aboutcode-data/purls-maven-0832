@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/log4cats-noop_sjs1_3.0.0-RC2@1.2.2
+- pkg:maven/org.typelevel/log4cats-noop_sjs1_3.0.0-RC2@1.2.2?classifier=sources
+- pkg:maven/org.typelevel/log4cats-noop_sjs1_3.0.0-RC2@2.0.1
+- pkg:maven/org.typelevel/log4cats-noop_sjs1_3.0.0-RC2@2.0.1?classifier=sources

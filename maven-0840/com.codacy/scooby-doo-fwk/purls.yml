@@ -8,3 +8,11 @@
 - pkg:maven/com.codacy/scooby-doo-fwk@1.24.0?classifier=sources
 - pkg:maven/com.codacy/scooby-doo-fwk@1.26.0
 - pkg:maven/com.codacy/scooby-doo-fwk@1.26.0?classifier=sources
+- pkg:maven/com.codacy/scooby-doo-fwk@1.28.0
+- pkg:maven/com.codacy/scooby-doo-fwk@1.28.0?classifier=sources
+- pkg:maven/com.codacy/scooby-doo-fwk@1.28.2
+- pkg:maven/com.codacy/scooby-doo-fwk@1.28.2?classifier=sources
+- pkg:maven/com.codacy/scooby-doo-fwk@1.28.3
+- pkg:maven/com.codacy/scooby-doo-fwk@1.28.3?classifier=sources
+- pkg:maven/com.codacy/scooby-doo-fwk@1.28.5
+- pkg:maven/com.codacy/scooby-doo-fwk@1.28.5?classifier=sources

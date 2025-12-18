@@ -32,3 +32,5 @@
 - pkg:maven/ai.tock/tock-bot-connector-teams@20.9.2?classifier=sources
 - pkg:maven/ai.tock/tock-bot-connector-teams@20.9.3
 - pkg:maven/ai.tock/tock-bot-connector-teams@20.9.3?classifier=sources
+- pkg:maven/ai.tock/tock-bot-connector-teams@21.3.0
+- pkg:maven/ai.tock/tock-bot-connector-teams@21.3.0?classifier=sources

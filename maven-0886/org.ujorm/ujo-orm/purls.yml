@@ -115,5 +115,13 @@
 - pkg:maven/org.ujorm/ujo-orm@2.10?classifier=sources
 - pkg:maven/org.ujorm/ujo-orm@2.11
 - pkg:maven/org.ujorm/ujo-orm@2.11?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@2.12
 - pkg:maven/org.ujorm/ujo-orm@2.12-rc
 - pkg:maven/org.ujorm/ujo-orm@2.12-rc?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@2.12?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@2.13
+- pkg:maven/org.ujorm/ujo-orm@2.13?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@2.14
+- pkg:maven/org.ujorm/ujo-orm@2.14?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@2.15
+- pkg:maven/org.ujorm/ujo-orm@2.15?classifier=sources

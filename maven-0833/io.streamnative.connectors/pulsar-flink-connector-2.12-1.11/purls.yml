@@ -1,0 +1,4 @@
+- pkg:maven/io.streamnative.connectors/pulsar-flink-connector-2.12-1.11@2.5.8.3
+- pkg:maven/io.streamnative.connectors/pulsar-flink-connector-2.12-1.11@2.5.8.3?classifier=sources
+- pkg:maven/io.streamnative.connectors/pulsar-flink-connector-2.12-1.11@2.5.8.4
+- pkg:maven/io.streamnative.connectors/pulsar-flink-connector-2.12-1.11@2.5.8.4?classifier=sources

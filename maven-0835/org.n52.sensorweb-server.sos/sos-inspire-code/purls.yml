@@ -18,9 +18,13 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@5.2.4?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@5.2.5
 - pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@5.2.5?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@5.2.6
+- pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@5.2.6?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@5.3.0
 - pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@5.3.0?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@5.3.1
 - pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@5.3.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@6.0.0-PR.1
 - pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@6.0.0-PR.1?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@6.0.0-PR.2
+- pkg:maven/org.n52.sensorweb-server.sos/sos-inspire-code@6.0.0-PR.2?classifier=sources

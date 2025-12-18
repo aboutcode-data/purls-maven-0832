@@ -1,0 +1,2 @@
+- pkg:maven/org.dashj/dashj-tools@0.17.5
+- pkg:maven/org.dashj/dashj-tools@0.17.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.toast.android/pushsdk@1.7.0-rc0?classifier=sources
+- pkg:maven/com.toast.android/pushsdk@1.7.0-rc0?type=aar
+- pkg:maven/com.toast.android/pushsdk@1.7.0?classifier=sources
+- pkg:maven/com.toast.android/pushsdk@1.7.0?type=aar

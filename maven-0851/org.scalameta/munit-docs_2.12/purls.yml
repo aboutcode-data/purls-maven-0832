@@ -45,6 +45,8 @@
 - pkg:maven/org.scalameta/munit-docs_2.12@0.7.21?classifier=sources
 - pkg:maven/org.scalameta/munit-docs_2.12@0.7.22
 - pkg:maven/org.scalameta/munit-docs_2.12@0.7.22?classifier=sources
+- pkg:maven/org.scalameta/munit-docs_2.12@0.7.23
+- pkg:maven/org.scalameta/munit-docs_2.12@0.7.23?classifier=sources
 - pkg:maven/org.scalameta/munit-docs_2.12@0.7.2?classifier=sources
 - pkg:maven/org.scalameta/munit-docs_2.12@0.7.3
 - pkg:maven/org.scalameta/munit-docs_2.12@0.7.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.pravega/pravega-shared-basic-authplugin@0.9.0
+- pkg:maven/io.pravega/pravega-shared-basic-authplugin@0.9.0?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/io.joyrpc/joyrpc-extension-spring@1.4.4-RELEASE?classifier=sources
 - pkg:maven/io.joyrpc/joyrpc-extension-spring@1.4.5-RELEASE
 - pkg:maven/io.joyrpc/joyrpc-extension-spring@1.4.5-RELEASE?classifier=sources
+- pkg:maven/io.joyrpc/joyrpc-extension-spring@1.4.6-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-extension-spring@1.4.6-RELEASE?classifier=sources
+- pkg:maven/io.joyrpc/joyrpc-extension-spring@1.4.7-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-extension-spring@1.4.7-RELEASE?classifier=sources

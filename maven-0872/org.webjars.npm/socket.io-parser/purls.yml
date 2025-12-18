@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/socket.io-parser@3.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/socket.io-parser@3.4.1
 - pkg:maven/org.webjars.npm/socket.io-parser@3.4.1?classifier=sources
+- pkg:maven/org.webjars.npm/socket.io-parser@4.0.4
+- pkg:maven/org.webjars.npm/socket.io-parser@4.0.4?classifier=sources

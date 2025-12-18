@@ -8,3 +8,5 @@
 - pkg:maven/org.zalando/opentracing-flowid-autoconfigure@3.0.0-RC.3?classifier=sources
 - pkg:maven/org.zalando/opentracing-flowid-autoconfigure@4.0.0
 - pkg:maven/org.zalando/opentracing-flowid-autoconfigure@4.0.0?classifier=sources
+- pkg:maven/org.zalando/opentracing-flowid-autoconfigure@4.0.2
+- pkg:maven/org.zalando/opentracing-flowid-autoconfigure@4.0.2?classifier=sources

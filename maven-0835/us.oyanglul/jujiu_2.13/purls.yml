@@ -4,6 +4,8 @@
 - pkg:maven/us.oyanglul/jujiu_2.13@0.24.0?classifier=sources
 - pkg:maven/us.oyanglul/jujiu_2.13@0.25.0
 - pkg:maven/us.oyanglul/jujiu_2.13@0.25.0?classifier=sources
+- pkg:maven/us.oyanglul/jujiu_2.13@0.26.0
+- pkg:maven/us.oyanglul/jujiu_2.13@0.26.0?classifier=sources
 - pkg:maven/us.oyanglul/jujiu_2.13@0.3.0
 - pkg:maven/us.oyanglul/jujiu_2.13@0.3.0?classifier=sources
 - pkg:maven/us.oyanglul/jujiu_2.13@0.3.3

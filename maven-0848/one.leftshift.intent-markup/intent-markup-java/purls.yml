@@ -1,0 +1,2 @@
+- pkg:maven/one.leftshift.intent-markup/intent-markup-java@0.6.0
+- pkg:maven/one.leftshift.intent-markup/intent-markup-java@0.6.0?classifier=sources

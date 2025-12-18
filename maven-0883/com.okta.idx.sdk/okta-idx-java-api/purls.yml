@@ -6,3 +6,5 @@
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-api@0.1.0-beta.3?classifier=sources
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-api@0.1.0-beta.4
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-api@0.1.0-beta.4?classifier=sources
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-api@0.1.0-beta.5
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-api@0.1.0-beta.5?classifier=sources

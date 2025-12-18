@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/lerna__version@3.22.1
+- pkg:maven/org.webjars.npm/lerna__version@3.22.1?classifier=sources

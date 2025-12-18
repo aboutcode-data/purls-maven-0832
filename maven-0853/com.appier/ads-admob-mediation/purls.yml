@@ -1,0 +1,2 @@
+- pkg:maven/com.appier/ads-admob-mediation@1.0.0?classifier=sources
+- pkg:maven/com.appier/ads-admob-mediation@1.0.0?type=aar

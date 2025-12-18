@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-installer-maven@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-installer-maven@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-installer-maven@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-installer-maven@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-installer-maven@RELEASE90?classifier=sources

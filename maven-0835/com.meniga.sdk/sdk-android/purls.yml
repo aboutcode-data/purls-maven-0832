@@ -90,3 +90,7 @@
 - pkg:maven/com.meniga.sdk/sdk-android@1.1.92?type=aar
 - pkg:maven/com.meniga.sdk/sdk-android@1.1.93?classifier=sources
 - pkg:maven/com.meniga.sdk/sdk-android@1.1.93?type=aar
+- pkg:maven/com.meniga.sdk/sdk-android@1.1.94?classifier=sources
+- pkg:maven/com.meniga.sdk/sdk-android@1.1.94?type=aar
+- pkg:maven/com.meniga.sdk/sdk-android@1.1.95?classifier=sources
+- pkg:maven/com.meniga.sdk/sdk-android@1.1.95?type=aar

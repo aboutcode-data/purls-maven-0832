@@ -1,0 +1,2 @@
+- pkg:maven/ru.johnspade/tgbot-callback-data_2.13@0.4.0
+- pkg:maven/ru.johnspade/tgbot-callback-data_2.13@0.4.0?classifier=sources
