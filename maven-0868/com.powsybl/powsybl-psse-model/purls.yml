@@ -1,0 +1,2 @@
+- pkg:maven/com.powsybl/powsybl-psse-model@3.3.0
+- pkg:maven/com.powsybl/powsybl-psse-model@3.3.0?classifier=sources

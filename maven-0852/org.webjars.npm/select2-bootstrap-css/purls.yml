@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/select2-bootstrap-css@1.4.6
+- pkg:maven/org.webjars.npm/select2-bootstrap-css@1.4.6?classifier=sources

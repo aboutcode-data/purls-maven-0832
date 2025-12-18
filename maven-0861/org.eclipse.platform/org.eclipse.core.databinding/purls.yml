@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding@1.7.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding@1.7.700
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding@1.7.700?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.databinding@1.8.0
+- pkg:maven/org.eclipse.platform/org.eclipse.core.databinding@1.8.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apigateway@1.0.68
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apigateway@1.0.68?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apigateway@1.1.0
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apigateway@1.1.0?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apigateway@1.1.4
+- pkg:maven/cn.com.antcloud.api/antcloud-api-apigateway@1.1.4?classifier=sources

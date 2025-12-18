@@ -5,4 +5,5 @@
 - pkg:maven/com.impossibl.pgjdbc-ng.tools/udt-gen@0.8.2?classifier=sources
 - pkg:maven/com.impossibl.pgjdbc-ng.tools/udt-gen@0.8.3
 - pkg:maven/com.impossibl.pgjdbc-ng.tools/udt-gen@0.8.3?classifier=sources
+- pkg:maven/com.impossibl.pgjdbc-ng.tools/udt-gen@0.8.4?classifier=sources
 - pkg:maven/com.impossibl.pgjdbc-ng.tools/udt-gen@0.8?classifier=sources

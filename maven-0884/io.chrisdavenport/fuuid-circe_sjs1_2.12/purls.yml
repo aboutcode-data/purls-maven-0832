@@ -1,0 +1,2 @@
+- pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.4.0
+- pkg:maven/io.chrisdavenport/fuuid-circe_sjs1_2.12@0.4.0?classifier=sources

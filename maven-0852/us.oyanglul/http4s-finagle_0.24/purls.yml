@@ -1,0 +1,2 @@
+- pkg:maven/us.oyanglul/http4s-finagle_0.24@0.21.3-20.4.1-0
+- pkg:maven/us.oyanglul/http4s-finagle_0.24@0.21.3-20.4.1-0?classifier=sources

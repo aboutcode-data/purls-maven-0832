@@ -14,3 +14,7 @@
 - pkg:maven/ch.swaechter/smbjwrapper@0.0.7?classifier=sources
 - pkg:maven/ch.swaechter/smbjwrapper@0.0.8
 - pkg:maven/ch.swaechter/smbjwrapper@0.0.8?classifier=sources
+- pkg:maven/ch.swaechter/smbjwrapper@1.0.0
+- pkg:maven/ch.swaechter/smbjwrapper@1.0.0?classifier=sources
+- pkg:maven/ch.swaechter/smbjwrapper@1.1.0
+- pkg:maven/ch.swaechter/smbjwrapper@1.1.0?classifier=sources

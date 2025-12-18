@@ -65,3 +65,6 @@
 - pkg:maven/io.freefair.gradle/code-generator-api@5.0.0-rc4?classifier=sources
 - pkg:maven/io.freefair.gradle/code-generator-api@5.0.0-rc5?classifier=sources
 - pkg:maven/io.freefair.gradle/code-generator-api@5.0.0-rc6?classifier=sources
+- pkg:maven/io.freefair.gradle/code-generator-api@5.0.0?classifier=sources
+- pkg:maven/io.freefair.gradle/code-generator-api@5.0.1?classifier=sources
+- pkg:maven/io.freefair.gradle/code-generator-api@5.1.0?classifier=sources

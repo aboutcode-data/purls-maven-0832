@@ -1,0 +1,4 @@
+- pkg:maven/de.dev-eth0.spring-boot.httpclient/httpclient-spring-boot-starter@1.0.2
+- pkg:maven/de.dev-eth0.spring-boot.httpclient/httpclient-spring-boot-starter@1.0.3
+- pkg:maven/de.dev-eth0.spring-boot.httpclient/httpclient-spring-boot-starter@1.0.4
+- pkg:maven/de.dev-eth0.spring-boot.httpclient/httpclient-spring-boot-starter@1.1.0

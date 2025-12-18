@@ -1,2 +1,4 @@
 - pkg:maven/org.fanjr.simplify/simplify-rest-starter@1.0.0
 - pkg:maven/org.fanjr.simplify/simplify-rest-starter@1.0.0?classifier=sources
+- pkg:maven/org.fanjr.simplify/simplify-rest-starter@2.0.0
+- pkg:maven/org.fanjr.simplify/simplify-rest-starter@2.0.0?classifier=sources

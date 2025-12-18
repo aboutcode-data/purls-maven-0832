@@ -1,0 +1,2 @@
+- pkg:maven/com.ganshane.specs/jd-cps-client@2.2
+- pkg:maven/com.ganshane.specs/jd-cps-client@2.2?classifier=sources

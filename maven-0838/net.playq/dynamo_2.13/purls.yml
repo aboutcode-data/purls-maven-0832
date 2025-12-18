@@ -1,0 +1,2 @@
+- pkg:maven/net.playq/dynamo_2.13@1.0.0
+- pkg:maven/net.playq/dynamo_2.13@1.0.0?classifier=sources

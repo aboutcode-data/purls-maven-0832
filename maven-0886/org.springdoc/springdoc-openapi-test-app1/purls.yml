@@ -22,5 +22,7 @@
 - pkg:maven/org.springdoc/springdoc-openapi-test-app1@3.1.0?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-test-app1@3.1.1
 - pkg:maven/org.springdoc/springdoc-openapi-test-app1@3.1.1?classifier=sources
+- pkg:maven/org.springdoc/springdoc-openapi-test-app1@3.1.2
+- pkg:maven/org.springdoc/springdoc-openapi-test-app1@3.1.2?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-test-app1@3.O.0
 - pkg:maven/org.springdoc/springdoc-openapi-test-app1@3.O.0?classifier=sources

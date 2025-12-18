@@ -1,0 +1,2 @@
+- pkg:maven/io.pivotal.services.dataTx/dataTx-spring-batch-geode-extensions@0.0.1
+- pkg:maven/io.pivotal.services.dataTx/dataTx-spring-batch-geode-extensions@0.0.1?classifier=sources

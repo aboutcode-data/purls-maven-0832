@@ -18,3 +18,5 @@
 - pkg:maven/com.vendasta/accounts.v1@3.0.0?classifier=sources
 - pkg:maven/com.vendasta/accounts.v1@3.0.2
 - pkg:maven/com.vendasta/accounts.v1@3.0.2?classifier=sources
+- pkg:maven/com.vendasta/accounts.v1@3.1.0
+- pkg:maven/com.vendasta/accounts.v1@3.1.0?classifier=sources

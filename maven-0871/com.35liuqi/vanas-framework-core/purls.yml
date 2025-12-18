@@ -1,0 +1,16 @@
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.0.0304001-Preview
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.0.0304001-Preview?classifier=sources
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.0.4-Preview
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.0.4-Preview?classifier=sources
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1-Preview
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1-Preview?classifier=sources
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.1-Preview
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.1-Preview?classifier=sources
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.2-Preview
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.2-Preview?classifier=sources
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.3-Preview
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.3-Preview?classifier=sources
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.4-Preview
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.4-Preview?classifier=sources
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.5-Preview
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.5-Preview?classifier=sources

@@ -22,3 +22,6 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@4.1.0
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@4.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@4.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@4.4.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@4.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@4.6.0

@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.itez/jwinner-d20@0.0.1
+- pkg:maven/cn.com.itez/jwinner-d20@0.0.1?classifier=sources

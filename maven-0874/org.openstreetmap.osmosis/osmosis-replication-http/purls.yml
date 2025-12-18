@@ -13,4 +13,8 @@
 - pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.47.1-1-g80be2971?classifier=sources
 - pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.47.2
 - pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.47.2?classifier=sources
+- pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.47.3
+- pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.47.3?classifier=sources
 - pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.47?classifier=sources
+- pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.48.0
+- pkg:maven/org.openstreetmap.osmosis/osmosis-replication-http@0.48.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/win.delin/idcards@1.0
+- pkg:maven/win.delin/idcards@1.0?classifier=sources
+- pkg:maven/win.delin/idcards@1.1
+- pkg:maven/win.delin/idcards@1.1?classifier=sources

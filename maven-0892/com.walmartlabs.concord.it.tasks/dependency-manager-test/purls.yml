@@ -23,3 +23,16 @@
 - pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.42.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.43.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.44.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.45.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.46.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.47.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.47.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.47.2?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.48.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.48.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.49.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.50.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.50.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.51.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.52.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/dependency-manager-test@1.53.0?classifier=sources

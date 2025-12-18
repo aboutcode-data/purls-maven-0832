@@ -1,0 +1,2 @@
+- pkg:maven/com.github.thierrysquirrel/cache-spring-boot-autoconfigure@1.0.1-RELEASE
+- pkg:maven/com.github.thierrysquirrel/cache-spring-boot-autoconfigure@1.0.1-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@2.1.1593
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@2.1.1593?classifier=sources

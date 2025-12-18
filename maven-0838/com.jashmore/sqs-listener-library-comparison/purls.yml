@@ -8,3 +8,7 @@
 - pkg:maven/com.jashmore/sqs-listener-library-comparison@3.0.0-M3
 - pkg:maven/com.jashmore/sqs-listener-library-comparison@3.0.0-M3?classifier=sources
 - pkg:maven/com.jashmore/sqs-listener-library-comparison@3.0.0?classifier=sources
+- pkg:maven/com.jashmore/sqs-listener-library-comparison@3.1.0
+- pkg:maven/com.jashmore/sqs-listener-library-comparison@3.1.0?classifier=sources
+- pkg:maven/com.jashmore/sqs-listener-library-comparison@3.1.1
+- pkg:maven/com.jashmore/sqs-listener-library-comparison@3.1.1?classifier=sources

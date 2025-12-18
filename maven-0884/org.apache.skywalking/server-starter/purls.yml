@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.skywalking/server-starter@6.4.0
 - pkg:maven/org.apache.skywalking/server-starter@6.5.0
 - pkg:maven/org.apache.skywalking/server-starter@6.6.0
+- pkg:maven/org.apache.skywalking/server-starter@7.0.0
+- pkg:maven/org.apache.skywalking/server-starter@8.0.0

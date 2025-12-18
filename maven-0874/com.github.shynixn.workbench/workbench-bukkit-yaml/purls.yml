@@ -1,0 +1,4 @@
+- pkg:maven/com.github.shynixn.workbench/workbench-bukkit-yaml@0.0.17
+- pkg:maven/com.github.shynixn.workbench/workbench-bukkit-yaml@0.0.17?classifier=sources
+- pkg:maven/com.github.shynixn.workbench/workbench-bukkit-yaml@0.0.19
+- pkg:maven/com.github.shynixn.workbench/workbench-bukkit-yaml@0.0.19?classifier=sources

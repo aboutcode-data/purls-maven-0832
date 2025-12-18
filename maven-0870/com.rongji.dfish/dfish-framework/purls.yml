@@ -2,3 +2,5 @@
 - pkg:maven/com.rongji.dfish/dfish-framework@3.1.17.RELEASE?classifier=sources
 - pkg:maven/com.rongji.dfish/dfish-framework@3.2.6.RELEASE
 - pkg:maven/com.rongji.dfish/dfish-framework@3.2.6.RELEASE?classifier=sources
+- pkg:maven/com.rongji.dfish/dfish-framework@5.0.0.RELEASE
+- pkg:maven/com.rongji.dfish/dfish-framework@5.0.0.RELEASE?classifier=sources

@@ -38,3 +38,7 @@
 - pkg:maven/com.baidu/brpc-java-naming-zookeeper@2.5.8?classifier=sources
 - pkg:maven/com.baidu/brpc-java-naming-zookeeper@2.5.9
 - pkg:maven/com.baidu/brpc-java-naming-zookeeper@2.5.9?classifier=sources
+- pkg:maven/com.baidu/brpc-java-naming-zookeeper@3.0.0
+- pkg:maven/com.baidu/brpc-java-naming-zookeeper@3.0.0?classifier=sources
+- pkg:maven/com.baidu/brpc-java-naming-zookeeper@3.0.1
+- pkg:maven/com.baidu/brpc-java-naming-zookeeper@3.0.1?classifier=sources

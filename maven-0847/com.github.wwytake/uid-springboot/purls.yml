@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wwytake/uid-springboot@2.0.2-release
+- pkg:maven/com.github.wwytake/uid-springboot@2.0.2-release?classifier=sources

@@ -10,6 +10,12 @@
 - pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.13.0?classifier=sources
 - pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.14.0
 - pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.14.0?classifier=sources
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.15.0
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.15.0%2B46-37dde73f
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.15.0%2B46-37dde73f?classifier=sources
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.15.0%2B90-108c999c
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.15.0%2B90-108c999c?classifier=sources
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.15.0?classifier=sources
 - pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.6.0
 - pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.6.0?classifier=sources
 - pkg:maven/org.julienrf/endpoints-json-schema-circe_2.12@0.7.0

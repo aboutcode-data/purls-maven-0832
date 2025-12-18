@@ -1,0 +1,2 @@
+- pkg:maven/com.symphony.oss.allegro/allegro-ui@0.3.0
+- pkg:maven/com.symphony.oss.allegro/allegro-ui@0.3.0?classifier=sources

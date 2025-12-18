@@ -1,0 +1,2 @@
+- pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_0.23@0.10.0
+- pkg:maven/com.github.plokhotnyuk.rtree2d/rtree2d-core_0.23@0.10.0?classifier=sources

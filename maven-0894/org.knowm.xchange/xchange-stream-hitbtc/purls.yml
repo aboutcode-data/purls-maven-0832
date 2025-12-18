@@ -1,0 +1,2 @@
+- pkg:maven/org.knowm.xchange/xchange-stream-hitbtc@5.0.0
+- pkg:maven/org.knowm.xchange/xchange-stream-hitbtc@5.0.0?classifier=sources

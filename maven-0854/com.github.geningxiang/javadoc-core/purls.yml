@@ -1,0 +1,8 @@
+- pkg:maven/com.github.geningxiang/javadoc-core@1.1.1
+- pkg:maven/com.github.geningxiang/javadoc-core@1.1.1-SNAPSHOTS
+- pkg:maven/com.github.geningxiang/javadoc-core@1.1.1-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.geningxiang/javadoc-core@1.1.1?classifier=sources
+- pkg:maven/com.github.geningxiang/javadoc-core@1.1.2
+- pkg:maven/com.github.geningxiang/javadoc-core@1.1.2-snapshots
+- pkg:maven/com.github.geningxiang/javadoc-core@1.1.2-snapshots?classifier=sources
+- pkg:maven/com.github.geningxiang/javadoc-core@1.1.2?classifier=sources

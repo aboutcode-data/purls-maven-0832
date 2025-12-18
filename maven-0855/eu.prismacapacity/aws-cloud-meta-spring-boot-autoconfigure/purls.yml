@@ -1,0 +1,2 @@
+- pkg:maven/eu.prismacapacity/aws-cloud-meta-spring-boot-autoconfigure@1.0.0
+- pkg:maven/eu.prismacapacity/aws-cloud-meta-spring-boot-autoconfigure@1.0.0?classifier=sources

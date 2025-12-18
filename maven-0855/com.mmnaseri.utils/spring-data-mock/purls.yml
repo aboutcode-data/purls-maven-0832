@@ -16,3 +16,7 @@
 - pkg:maven/com.mmnaseri.utils/spring-data-mock@1.1.4
 - pkg:maven/com.mmnaseri.utils/spring-data-mock@1.1.4?classifier=sources
 - pkg:maven/com.mmnaseri.utils/spring-data-mock@1.1?classifier=sources
+- pkg:maven/com.mmnaseri.utils/spring-data-mock@2.0.0
+- pkg:maven/com.mmnaseri.utils/spring-data-mock@2.0.0?classifier=sources
+- pkg:maven/com.mmnaseri.utils/spring-data-mock@2.1.0
+- pkg:maven/com.mmnaseri.utils/spring-data-mock@2.1.0?classifier=sources

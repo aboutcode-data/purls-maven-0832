@@ -1,0 +1,6 @@
+- pkg:maven/eu.toop/tc-api@2.0.0-beta3
+- pkg:maven/eu.toop/tc-api@2.0.0-beta3?classifier=sources
+- pkg:maven/eu.toop/tc-api@2.0.0-beta4
+- pkg:maven/eu.toop/tc-api@2.0.0-beta4?classifier=sources
+- pkg:maven/eu.toop/tc-api@2.0.0-beta5
+- pkg:maven/eu.toop/tc-api@2.0.0-beta5?classifier=sources

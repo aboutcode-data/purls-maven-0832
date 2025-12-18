@@ -1,8 +1,13 @@
 - pkg:maven/ru.fix/jfix-zookeeper@1.0.10
 - pkg:maven/ru.fix/jfix-zookeeper@1.0.10?classifier=sources
+- pkg:maven/ru.fix/jfix-zookeeper@1.0.11
+- pkg:maven/ru.fix/jfix-zookeeper@1.0.11?classifier=sources
+- pkg:maven/ru.fix/jfix-zookeeper@1.0.12
+- pkg:maven/ru.fix/jfix-zookeeper@1.0.12?classifier=sources
 - pkg:maven/ru.fix/jfix-zookeeper@1.0.4
 - pkg:maven/ru.fix/jfix-zookeeper@1.0.4?classifier=sources
 - pkg:maven/ru.fix/jfix-zookeeper@1.0.7
 - pkg:maven/ru.fix/jfix-zookeeper@1.0.7?classifier=sources
 - pkg:maven/ru.fix/jfix-zookeeper@1.0.8
 - pkg:maven/ru.fix/jfix-zookeeper@1.0.8?classifier=sources
+- pkg:maven/ru.fix/jfix-zookeeper@1.1.0?classifier=sources

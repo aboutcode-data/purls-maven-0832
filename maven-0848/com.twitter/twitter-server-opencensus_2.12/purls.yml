@@ -24,3 +24,9 @@
 - pkg:maven/com.twitter/twitter-server-opencensus_2.12@20.1.0?classifier=sources
 - pkg:maven/com.twitter/twitter-server-opencensus_2.12@20.3.0
 - pkg:maven/com.twitter/twitter-server-opencensus_2.12@20.3.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-opencensus_2.12@20.4.0
+- pkg:maven/com.twitter/twitter-server-opencensus_2.12@20.4.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-opencensus_2.12@20.4.1
+- pkg:maven/com.twitter/twitter-server-opencensus_2.12@20.4.1?classifier=sources
+- pkg:maven/com.twitter/twitter-server-opencensus_2.12@20.5.0
+- pkg:maven/com.twitter/twitter-server-opencensus_2.12@20.5.0?classifier=sources

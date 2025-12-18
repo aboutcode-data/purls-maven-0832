@@ -1,0 +1,6 @@
+- pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.20
+- pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.20?classifier=sources
+- pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.21
+- pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.21?classifier=sources
+- pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.22
+- pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.22?classifier=sources

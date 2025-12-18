@@ -10,5 +10,9 @@
 - pkg:maven/com.mikepenz/fastadapter-extensions-paged@5.0.0-a03?type=aar
 - pkg:maven/com.mikepenz/fastadapter-extensions-paged@5.0.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/fastadapter-extensions-paged@5.0.0-b01?type=aar
+- pkg:maven/com.mikepenz/fastadapter-extensions-paged@5.0.2?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-extensions-paged@5.0.2?type=aar
+- pkg:maven/com.mikepenz/fastadapter-extensions-paged@5.1.0?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-extensions-paged@5.1.0?type=aar
 - pkg:maven/com.mikepenz/fastadapter-extensions-paged@v4.1.2-rc01?classifier=sources
 - pkg:maven/com.mikepenz/fastadapter-extensions-paged@v4.1.2-rc01?type=aar

@@ -57,3 +57,5 @@
 - pkg:maven/org.copper-engine/copper-spring@5.0.2?classifier=sources
 - pkg:maven/org.copper-engine/copper-spring@5.1.0
 - pkg:maven/org.copper-engine/copper-spring@5.1.0?classifier=sources
+- pkg:maven/org.copper-engine/copper-spring@5.2.0
+- pkg:maven/org.copper-engine/copper-spring@5.2.0?classifier=sources

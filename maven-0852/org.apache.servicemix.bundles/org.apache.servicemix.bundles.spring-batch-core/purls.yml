@@ -6,6 +6,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.1.RELEASE_2?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.1.RELEASE_2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.1.RELEASE_2?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.10.RELEASE_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.10.RELEASE_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.10.RELEASE_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.10.RELEASE_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.2.RELEASE_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.2.RELEASE_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@3.0.2.RELEASE_1?classifier=src&type=tar.gz
@@ -38,6 +42,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.0.1.RELEASE_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.0.1.RELEASE_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.0.1.RELEASE_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.0.2.RELEASE_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.0.2.RELEASE_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.0.2.RELEASE_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.0.2.RELEASE_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.1.1.RELEASE_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.1.1.RELEASE_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.1.1.RELEASE_1?classifier=src&type=tar.gz
@@ -50,3 +58,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.2.1.RELEASE_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.2.1.RELEASE_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.2.1.RELEASE_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.2.2.RELEASE_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.2.2.RELEASE_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.2.2.RELEASE_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-batch-core@4.2.2.RELEASE_1?classifier=src&type=zip

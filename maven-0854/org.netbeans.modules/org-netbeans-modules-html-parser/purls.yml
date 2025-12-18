@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE90?classifier=sources

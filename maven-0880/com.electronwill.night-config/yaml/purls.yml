@@ -20,3 +20,5 @@
 - pkg:maven/com.electronwill.night-config/yaml@3.6.0?classifier=sources
 - pkg:maven/com.electronwill.night-config/yaml@3.6.2
 - pkg:maven/com.electronwill.night-config/yaml@3.6.2?classifier=sources
+- pkg:maven/com.electronwill.night-config/yaml@3.6.3
+- pkg:maven/com.electronwill.night-config/yaml@3.6.3?classifier=sources

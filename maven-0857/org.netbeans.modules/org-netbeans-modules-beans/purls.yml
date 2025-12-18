@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-beans@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-beans@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-beans@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-beans@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-beans@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-beans@RELEASE90?classifier=sources

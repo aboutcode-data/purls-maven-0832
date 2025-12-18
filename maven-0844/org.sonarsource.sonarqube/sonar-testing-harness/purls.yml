@@ -141,6 +141,10 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@7.9.1?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@7.9.2
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@7.9.2?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@7.9.3
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@7.9.3.33150
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@7.9.3.33150?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@7.9.3?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@7.9?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@8.0
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@8.0?classifier=sources
@@ -150,3 +154,7 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@8.1.0.31237?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@8.2.0.32929
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@8.2.0.32929?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@8.3.0.34182
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@8.3.0.34182?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@8.3.1.34397
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@8.3.1.34397?classifier=sources

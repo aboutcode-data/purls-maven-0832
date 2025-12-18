@@ -1,0 +1,2 @@
+- pkg:maven/systems.manifold/manifold-graphql-rt@2020.1.13
+- pkg:maven/systems.manifold/manifold-graphql-rt@2020.1.13?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.devebot.opflow/opflow-shade-consul-client@1.4.2
+- pkg:maven/com.devebot.opflow/opflow-shade-consul-client@1.4.2?classifier=sources

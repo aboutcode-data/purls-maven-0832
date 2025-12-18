@@ -1,0 +1,2 @@
+- pkg:maven/io.debezium/debezium-server@1.2.0.Beta2
+- pkg:maven/io.debezium/debezium-server@1.2.0.Beta2?classifier=sources

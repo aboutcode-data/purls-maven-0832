@@ -196,6 +196,8 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.29.v20191105?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.3.v20140905
 - pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.3.v20140905?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.30.v20200428
+- pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.30.v20200428?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.4.v20141103
 - pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.4.v20141103?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-core@9.2.5.v20141112

@@ -1,0 +1,2 @@
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda-money@2.11.0
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda-money@2.11.0?classifier=sources

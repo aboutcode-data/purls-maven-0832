@@ -24,9 +24,15 @@
 - pkg:maven/org.webjars.npm/csstype@2.6.6?classifier=sources
 - pkg:maven/org.webjars.npm/csstype@2.6.7
 - pkg:maven/org.webjars.npm/csstype@2.6.7?classifier=sources
+- pkg:maven/org.webjars.npm/csstype@2.6.9
+- pkg:maven/org.webjars.npm/csstype@2.6.9?classifier=sources
 - pkg:maven/org.webjars.npm/csstype@3.0.0-alpha.0
 - pkg:maven/org.webjars.npm/csstype@3.0.0-alpha.0?classifier=sources
 - pkg:maven/org.webjars.npm/csstype@3.0.0-alpha.2
 - pkg:maven/org.webjars.npm/csstype@3.0.0-alpha.2?classifier=sources
 - pkg:maven/org.webjars.npm/csstype@3.0.0-beta.1
 - pkg:maven/org.webjars.npm/csstype@3.0.0-beta.1?classifier=sources
+- pkg:maven/org.webjars.npm/csstype@3.0.0-beta.2
+- pkg:maven/org.webjars.npm/csstype@3.0.0-beta.2?classifier=sources
+- pkg:maven/org.webjars.npm/csstype@3.0.0-beta.3
+- pkg:maven/org.webjars.npm/csstype@3.0.0-beta.3?classifier=sources

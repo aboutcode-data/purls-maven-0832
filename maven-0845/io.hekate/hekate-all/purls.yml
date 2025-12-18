@@ -46,3 +46,5 @@
 - pkg:maven/io.hekate/hekate-all@3.7.0?classifier=sources
 - pkg:maven/io.hekate/hekate-all@3.8.0
 - pkg:maven/io.hekate/hekate-all@3.8.0?classifier=sources
+- pkg:maven/io.hekate/hekate-all@3.9.0
+- pkg:maven/io.hekate/hekate-all@3.9.0?classifier=sources

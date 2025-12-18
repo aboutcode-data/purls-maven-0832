@@ -46,3 +46,6 @@
 - pkg:maven/org.litote.kmongo/kmongo@3.9.0
 - pkg:maven/org.litote.kmongo/kmongo@3.9.1
 - pkg:maven/org.litote.kmongo/kmongo@3.9.2
+- pkg:maven/org.litote.kmongo/kmongo@4.0.0
+- pkg:maven/org.litote.kmongo/kmongo@4.0.1
+- pkg:maven/org.litote.kmongo/kmongo@4.0.2

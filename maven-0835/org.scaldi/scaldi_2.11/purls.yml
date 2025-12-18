@@ -22,3 +22,5 @@
 - pkg:maven/org.scaldi/scaldi_2.11@0.5.8
 - pkg:maven/org.scaldi/scaldi_2.11@0.5.8?classifier=sources
 - pkg:maven/org.scaldi/scaldi_2.11@0.5?classifier=sources
+- pkg:maven/org.scaldi/scaldi_2.11@0.6.0
+- pkg:maven/org.scaldi/scaldi_2.11@0.6.0?classifier=sources

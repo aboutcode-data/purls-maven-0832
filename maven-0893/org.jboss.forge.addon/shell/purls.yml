@@ -160,3 +160,5 @@
 - pkg:maven/org.jboss.forge.addon/shell@3.9.5.Final?classifier=sources
 - pkg:maven/org.jboss.forge.addon/shell@3.9.6.Final
 - pkg:maven/org.jboss.forge.addon/shell@3.9.6.Final?classifier=sources
+- pkg:maven/org.jboss.forge.addon/shell@3.9.7.Final
+- pkg:maven/org.jboss.forge.addon/shell@3.9.7.Final?classifier=sources

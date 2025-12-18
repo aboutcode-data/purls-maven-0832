@@ -1,0 +1,2 @@
+- pkg:maven/love.forte.simple-robot-module/simple-robot-module-debugger-client@1.0-1.12
+- pkg:maven/love.forte.simple-robot-module/simple-robot-module-debugger-client@1.0-1.12?classifier=sources

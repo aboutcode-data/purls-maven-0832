@@ -22,3 +22,5 @@
 - pkg:maven/com.github.almasb/fxgl-io@11.7?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-io@11.8
 - pkg:maven/com.github.almasb/fxgl-io@11.8?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-io@11.9
+- pkg:maven/com.github.almasb/fxgl-io@11.9?classifier=sources

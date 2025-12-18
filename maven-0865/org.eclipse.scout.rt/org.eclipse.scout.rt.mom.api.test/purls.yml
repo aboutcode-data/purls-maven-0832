@@ -1,5 +1,9 @@
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.api.test@10.0.14
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.api.test@10.0.18
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.api.test@10.0.19
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.api.test@10.0.2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.api.test@10.0.2-alpha.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.api.test@10.0.21
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.api.test@10.0.3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.api.test@10.0.6
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.api.test@10.0.7

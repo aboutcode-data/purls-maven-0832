@@ -20,6 +20,8 @@
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-attribute@0.16.1?classifier=sources
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-attribute@0.17.0
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-attribute@0.17.0?classifier=sources
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-attribute@0.18.0
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-attribute@0.18.0?classifier=sources
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-attribute@0.5.0
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-attribute@0.5.0?classifier=sources
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-attribute@0.6.0

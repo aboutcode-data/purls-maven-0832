@@ -78,3 +78,5 @@
 - pkg:maven/com.ecfront.dew/common@1.5.0?classifier=sources
 - pkg:maven/com.ecfront.dew/common@1.5.1
 - pkg:maven/com.ecfront.dew/common@1.5.1?classifier=sources
+- pkg:maven/com.ecfront.dew/common@2.0.0
+- pkg:maven/com.ecfront.dew/common@2.0.0?classifier=sources

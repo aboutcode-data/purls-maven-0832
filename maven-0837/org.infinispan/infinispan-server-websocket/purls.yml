@@ -376,5 +376,7 @@
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.3.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.3.8.Final
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.3.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-websocket@9.3.9.Final
+- pkg:maven/org.infinispan/infinispan-server-websocket@9.3.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.4.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.4.0.Alpha1?classifier=sources

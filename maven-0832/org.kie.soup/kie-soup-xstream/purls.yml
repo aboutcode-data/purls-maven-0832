@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.soup/kie-soup-xstream@7.38.0.Final
+- pkg:maven/org.kie.soup/kie-soup-xstream@7.38.0.Final?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.tangchen-blip/security-extension@1.0.0
+- pkg:maven/com.github.tangchen-blip/security-extension@1.0.0?classifier=sources
+- pkg:maven/com.github.tangchen-blip/security-extension@1.0.3-RELEASE?classifier=sources
+- pkg:maven/com.github.tangchen-blip/security-extension@1.0.3.RELEASE
+- pkg:maven/com.github.tangchen-blip/security-extension@1.0.3.RELEASE?classifier=sources
+- pkg:maven/com.github.tangchen-blip/security-extension@1.0.4?classifier=sources

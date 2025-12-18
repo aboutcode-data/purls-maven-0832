@@ -1,0 +1,2 @@
+- pkg:maven/com.saucelabs/salsa_verde@0.1.0
+- pkg:maven/com.saucelabs/salsa_verde@0.1.0?classifier=sources

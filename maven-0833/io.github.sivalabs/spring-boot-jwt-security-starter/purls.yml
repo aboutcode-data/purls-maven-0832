@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sivalabs/spring-boot-jwt-security-starter@0.0.1
+- pkg:maven/io.github.sivalabs/spring-boot-jwt-security-starter@0.0.1?classifier=sources

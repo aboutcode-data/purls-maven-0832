@@ -1,0 +1,2 @@
+- pkg:maven/com.github.a-langer/jsr223-commonjs-modules@1.0.0
+- pkg:maven/com.github.a-langer/jsr223-commonjs-modules@1.0.0?classifier=sources

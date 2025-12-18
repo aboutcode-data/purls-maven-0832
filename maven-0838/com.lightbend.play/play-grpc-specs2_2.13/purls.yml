@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.play/play-grpc-specs2_2.13@0.8.2
+- pkg:maven/com.lightbend.play/play-grpc-specs2_2.13@0.8.2?classifier=sources

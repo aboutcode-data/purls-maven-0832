@@ -1,1 +1,4 @@
 - pkg:maven/org.eclipse.jetty.tests/test-proxy-webapp@10.0.0.alpha1?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-proxy-webapp@10.0.0.alpha2?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-proxy-webapp@10.0.0.beta0?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-proxy-webapp@11.0.0-alpha0?type=war

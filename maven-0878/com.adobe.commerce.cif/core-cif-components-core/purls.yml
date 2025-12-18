@@ -1,4 +1,6 @@
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@0.1.0
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-core@0.10.0
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-core@0.10.1
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@0.2.0
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@0.3.0
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@0.4.0
@@ -6,3 +8,4 @@
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@0.6.0
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@0.7.0
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@0.9.0
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-core@1.0.0

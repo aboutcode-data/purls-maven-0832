@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.beiding/hotcode@1.0.1-RELEASE
+- pkg:maven/com.gitee.beiding/hotcode@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.gitee.beiding/hotcode@1.1.1-RELEASE
+- pkg:maven/com.gitee.beiding/hotcode@1.1.1-RELEASE?classifier=sources

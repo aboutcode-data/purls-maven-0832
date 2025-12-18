@@ -4,3 +4,5 @@
 - pkg:maven/com.github.shoothzj/sdk-redis@3.0.16.RELEASE?classifier=sources
 - pkg:maven/com.github.shoothzj/sdk-redis@3.0.18.RELEASE
 - pkg:maven/com.github.shoothzj/sdk-redis@3.0.18.RELEASE?classifier=sources
+- pkg:maven/com.github.shoothzj/sdk-redis@3.0.20.RELEASE
+- pkg:maven/com.github.shoothzj/sdk-redis@3.0.20.RELEASE?classifier=sources

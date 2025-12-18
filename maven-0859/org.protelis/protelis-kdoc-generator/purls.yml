@@ -1,2 +1,7 @@
 - pkg:maven/org.protelis/protelis-kdoc-generator@0.1.1
 - pkg:maven/org.protelis/protelis-kdoc-generator@0.1.1?classifier=sources
+- pkg:maven/org.protelis/protelis-kdoc-generator@0.2.1?classifier=sources
+- pkg:maven/org.protelis/protelis-kdoc-generator@0.2.2-dev0e%2B6580afe?classifier=sources
+- pkg:maven/org.protelis/protelis-kdoc-generator@0.2.2-dev0f%2B3c5933d?classifier=sources
+- pkg:maven/org.protelis/protelis-kdoc-generator@0.3.0?classifier=sources
+- pkg:maven/org.protelis/protelis-kdoc-generator@0.3.1?classifier=sources

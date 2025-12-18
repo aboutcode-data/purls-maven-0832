@@ -1,0 +1,4 @@
+- pkg:maven/de.martinpallmann.gchat/gchat-tck_2.13@0.0.22
+- pkg:maven/de.martinpallmann.gchat/gchat-tck_2.13@0.0.22?classifier=sources
+- pkg:maven/de.martinpallmann.gchat/gchat-tck_2.13@0.0.23
+- pkg:maven/de.martinpallmann.gchat/gchat-tck_2.13@0.0.23?classifier=sources

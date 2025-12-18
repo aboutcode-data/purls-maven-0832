@@ -1,0 +1,2 @@
+- pkg:maven/io.liftwizard/liftwizard-connection-manager-h2-memory@0.1.0
+- pkg:maven/io.liftwizard/liftwizard-connection-manager-h2-memory@0.1.0?classifier=sources

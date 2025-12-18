@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.700
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.700?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.800
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.800?classifier=sources

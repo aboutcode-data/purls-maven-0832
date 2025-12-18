@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/got@7.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/got@8.3.2
 - pkg:maven/org.webjars.npm/got@8.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/got@9.6.0
+- pkg:maven/org.webjars.npm/got@9.6.0?classifier=sources

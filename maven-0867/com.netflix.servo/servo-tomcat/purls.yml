@@ -72,6 +72,8 @@
 - pkg:maven/com.netflix.servo/servo-tomcat@0.12.8?classifier=sources
 - pkg:maven/com.netflix.servo/servo-tomcat@0.12.9
 - pkg:maven/com.netflix.servo/servo-tomcat@0.12.9?classifier=sources
+- pkg:maven/com.netflix.servo/servo-tomcat@0.13.0
+- pkg:maven/com.netflix.servo/servo-tomcat@0.13.0?classifier=sources
 - pkg:maven/com.netflix.servo/servo-tomcat@0.9.0
 - pkg:maven/com.netflix.servo/servo-tomcat@0.9.0?classifier=sources
 - pkg:maven/com.netflix.servo/servo-tomcat@0.9.1

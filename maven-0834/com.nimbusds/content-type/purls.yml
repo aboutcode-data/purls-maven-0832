@@ -2,3 +2,5 @@
 - pkg:maven/com.nimbusds/content-type@1.0?classifier=sources
 - pkg:maven/com.nimbusds/content-type@2.0
 - pkg:maven/com.nimbusds/content-type@2.0?classifier=sources
+- pkg:maven/com.nimbusds/content-type@2.1
+- pkg:maven/com.nimbusds/content-type@2.1?classifier=sources

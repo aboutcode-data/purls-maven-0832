@@ -50,5 +50,7 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-http@5.6.0?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-http@5.7.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-http@5.7.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-http@5.7.1
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-http@5.7.1?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-http@6.0.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-http@6.0.0?classifier=sources

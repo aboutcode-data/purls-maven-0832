@@ -16,6 +16,10 @@
 - pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.17.0?classifier=sources
 - pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.18.0
 - pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.18.0?classifier=sources
+- pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.19.0
+- pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.19.0?classifier=sources
+- pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.20.0
+- pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.20.0?classifier=sources
 - pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.5.0
 - pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.5.0?classifier=sources
 - pkg:maven/com.frugalmechanic/fm-serializer_2.12@0.6.0

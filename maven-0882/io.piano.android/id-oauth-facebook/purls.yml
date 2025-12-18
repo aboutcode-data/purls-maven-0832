@@ -1,0 +1,4 @@
+- pkg:maven/io.piano.android/id-oauth-facebook@2.0.0-alpha01?classifier=sources
+- pkg:maven/io.piano.android/id-oauth-facebook@2.0.0-alpha01?type=aar
+- pkg:maven/io.piano.android/id-oauth-facebook@2.0.0-beta01?classifier=sources
+- pkg:maven/io.piano.android/id-oauth-facebook@2.0.0-beta01?type=aar

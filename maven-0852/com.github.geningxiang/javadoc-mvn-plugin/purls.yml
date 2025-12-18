@@ -1,0 +1,2 @@
+- pkg:maven/com.github.geningxiang/javadoc-mvn-plugin@1.1.2
+- pkg:maven/com.github.geningxiang/javadoc-mvn-plugin@1.1.2?classifier=sources

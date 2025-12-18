@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-theme-alice@4.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-theme-alice@4.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-theme-alice@4.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-theme-alice@4.4.0
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-theme-alice@4.4.0?classifier=sources

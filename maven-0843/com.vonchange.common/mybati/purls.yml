@@ -1,0 +1,4 @@
+- pkg:maven/com.vonchange.common/mybati@3.5.2
+- pkg:maven/com.vonchange.common/mybati@3.5.2.1
+- pkg:maven/com.vonchange.common/mybati@3.5.2.1?classifier=sources
+- pkg:maven/com.vonchange.common/mybati@3.5.2?classifier=sources

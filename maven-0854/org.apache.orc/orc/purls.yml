@@ -17,6 +17,7 @@
 - pkg:maven/org.apache.orc/orc@1.4.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@1.4.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@1.5.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.orc/orc@1.5.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@1.5.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@1.5.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@1.5.3?classifier=source-release&type=zip
@@ -29,3 +30,4 @@
 - pkg:maven/org.apache.orc/orc@1.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@1.6.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@1.6.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.orc/orc@1.6.3?classifier=source-release&type=zip

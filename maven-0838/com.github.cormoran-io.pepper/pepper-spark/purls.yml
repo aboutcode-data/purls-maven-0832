@@ -22,3 +22,7 @@
 - pkg:maven/com.github.cormoran-io.pepper/pepper-spark@1.22?classifier=sources
 - pkg:maven/com.github.cormoran-io.pepper/pepper-spark@1.23
 - pkg:maven/com.github.cormoran-io.pepper/pepper-spark@1.23?classifier=sources
+- pkg:maven/com.github.cormoran-io.pepper/pepper-spark@1.24
+- pkg:maven/com.github.cormoran-io.pepper/pepper-spark@1.24?classifier=sources
+- pkg:maven/com.github.cormoran-io.pepper/pepper-spark@1.25
+- pkg:maven/com.github.cormoran-io.pepper/pepper-spark@1.25?classifier=sources

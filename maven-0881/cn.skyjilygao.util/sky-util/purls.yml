@@ -1,0 +1,4 @@
+- pkg:maven/cn.skyjilygao.util/sky-util@2.0.0
+- pkg:maven/cn.skyjilygao.util/sky-util@2.0.0?classifier=sources
+- pkg:maven/cn.skyjilygao.util/sky-util@2.0.2
+- pkg:maven/cn.skyjilygao.util/sky-util@2.0.2?classifier=sources

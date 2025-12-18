@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.javax-el-api-3.0.2@3.0.2_1
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.javax-el-api-3.0.2@3.0.2_1?classifier=sources
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.javax-el-api-3.0.2@3.0.2_2
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.javax-el-api-3.0.2@3.0.2_2?classifier=sources

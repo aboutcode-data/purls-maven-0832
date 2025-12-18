@@ -1,2 +1,4 @@
 - pkg:maven/me.phoboslabs.illuminati/illuminati-jscollector@0.5.18
 - pkg:maven/me.phoboslabs.illuminati/illuminati-jscollector@0.5.18?classifier=sources
+- pkg:maven/me.phoboslabs.illuminati/illuminati-jscollector@0.5.19
+- pkg:maven/me.phoboslabs.illuminati/illuminati-jscollector@0.5.19?classifier=sources

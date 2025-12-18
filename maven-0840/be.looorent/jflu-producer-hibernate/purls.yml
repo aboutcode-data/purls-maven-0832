@@ -48,3 +48,5 @@
 - pkg:maven/be.looorent/jflu-producer-hibernate@0.9?classifier=sources
 - pkg:maven/be.looorent/jflu-producer-hibernate@1.0.0
 - pkg:maven/be.looorent/jflu-producer-hibernate@1.0.0?classifier=sources
+- pkg:maven/be.looorent/jflu-producer-hibernate@1.0.1
+- pkg:maven/be.looorent/jflu-producer-hibernate@1.0.1?classifier=sources

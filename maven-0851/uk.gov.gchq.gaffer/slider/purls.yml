@@ -33,6 +33,7 @@
 - pkg:maven/uk.gov.gchq.gaffer/slider@1.10.4?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/slider@1.10.5?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/slider@1.11.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/slider@1.12.0?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/slider@1.2.0-RC1?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/slider@1.2.0?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/slider@1.3.0-RC1?classifier=sources

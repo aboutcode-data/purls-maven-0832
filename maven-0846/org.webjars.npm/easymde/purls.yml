@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/easymde@2.5.2-142.0
 - pkg:maven/org.webjars.npm/easymde@2.5.2-142.0?classifier=sources
+- pkg:maven/org.webjars.npm/easymde@2.7.1-202.0
+- pkg:maven/org.webjars.npm/easymde@2.7.1-202.0?classifier=sources
 - pkg:maven/org.webjars.npm/easymde@2.8.0
 - pkg:maven/org.webjars.npm/easymde@2.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/easymde@2.8.1-210.0

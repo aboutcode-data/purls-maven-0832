@@ -1,4 +1,6 @@
 - pkg:maven/org.aposin.licensescout/licensescout-report-maven-plugin@1.4.0.RC1
+- pkg:maven/org.aposin.licensescout/licensescout-report-maven-plugin@1.4.0.RC12
+- pkg:maven/org.aposin.licensescout/licensescout-report-maven-plugin@1.4.0.RC12?classifier=sources
 - pkg:maven/org.aposin.licensescout/licensescout-report-maven-plugin@1.4.0.RC1?classifier=sources
 - pkg:maven/org.aposin.licensescout/licensescout-report-maven-plugin@1.4.0.RC4
 - pkg:maven/org.aposin.licensescout/licensescout-report-maven-plugin@1.4.0.RC4?classifier=sources

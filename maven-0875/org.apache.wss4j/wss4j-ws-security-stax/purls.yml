@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@2.2.3?classifier=sources
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@2.2.4
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@2.2.4?classifier=sources
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@2.2.5
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@2.2.5?classifier=sources

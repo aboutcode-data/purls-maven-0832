@@ -60,3 +60,5 @@
 - pkg:maven/net.morimekta.providence/providence-thrift-compat@2.6.0?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-thrift-compat@2.6.1
 - pkg:maven/net.morimekta.providence/providence-thrift-compat@2.6.1?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-thrift-compat@2.7.0
+- pkg:maven/net.morimekta.providence/providence-thrift-compat@2.7.0?classifier=sources

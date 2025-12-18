@@ -1,0 +1,6 @@
+- pkg:maven/nl.elec332.sdr/sdrlib@0.1-j8-win
+- pkg:maven/nl.elec332.sdr/sdrlib@0.1-j8-win?classifier=sources
+- pkg:maven/nl.elec332.sdr/sdrlib@0.1.1-j8-win
+- pkg:maven/nl.elec332.sdr/sdrlib@0.1.1-j8-win?classifier=sources
+- pkg:maven/nl.elec332.sdr/sdrlib@0.2-Beta
+- pkg:maven/nl.elec332.sdr/sdrlib@0.2-Beta?classifier=sources

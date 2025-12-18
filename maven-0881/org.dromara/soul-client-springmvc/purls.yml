@@ -2,3 +2,5 @@
 - pkg:maven/org.dromara/soul-client-springmvc@2.1.1-RELEASE?classifier=sources
 - pkg:maven/org.dromara/soul-client-springmvc@2.1.2-RELEASE
 - pkg:maven/org.dromara/soul-client-springmvc@2.1.2-RELEASE?classifier=sources
+- pkg:maven/org.dromara/soul-client-springmvc@2.2.0
+- pkg:maven/org.dromara/soul-client-springmvc@2.2.0?classifier=sources

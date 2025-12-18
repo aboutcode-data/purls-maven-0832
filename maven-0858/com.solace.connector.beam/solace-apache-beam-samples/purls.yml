@@ -1,0 +1,2 @@
+- pkg:maven/com.solace.connector.beam/solace-apache-beam-samples@1.0.0
+- pkg:maven/com.solace.connector.beam/solace-apache-beam-samples@1.0.0?classifier=sources

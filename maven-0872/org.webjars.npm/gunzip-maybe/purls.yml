@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/gunzip-maybe@1.4.2
+- pkg:maven/org.webjars.npm/gunzip-maybe@1.4.2?classifier=sources

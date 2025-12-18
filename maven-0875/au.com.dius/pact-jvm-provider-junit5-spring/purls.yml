@@ -1,2 +1,8 @@
+- pkg:maven/au.com.dius/pact-jvm-provider-junit5-spring@4.0.10
+- pkg:maven/au.com.dius/pact-jvm-provider-junit5-spring@4.0.10?classifier=sources
 - pkg:maven/au.com.dius/pact-jvm-provider-junit5-spring@4.0.7
 - pkg:maven/au.com.dius/pact-jvm-provider-junit5-spring@4.0.7?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-junit5-spring@4.0.8
+- pkg:maven/au.com.dius/pact-jvm-provider-junit5-spring@4.0.8?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-junit5-spring@4.0.9
+- pkg:maven/au.com.dius/pact-jvm-provider-junit5-spring@4.0.9?classifier=sources

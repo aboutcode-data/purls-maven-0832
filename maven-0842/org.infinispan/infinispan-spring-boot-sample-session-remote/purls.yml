@@ -1,0 +1,2 @@
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-session-remote@2.2.4.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-session-remote@2.2.4.Final?classifier=sources

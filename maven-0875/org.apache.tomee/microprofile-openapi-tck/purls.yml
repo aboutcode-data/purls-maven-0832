@@ -8,3 +8,4 @@
 - pkg:maven/org.apache.tomee/microprofile-openapi-tck@8.0.0?classifier=sources
 - pkg:maven/org.apache.tomee/microprofile-openapi-tck@8.0.1
 - pkg:maven/org.apache.tomee/microprofile-openapi-tck@8.0.1?classifier=sources
+- pkg:maven/org.apache.tomee/microprofile-openapi-tck@8.0.2?classifier=sources

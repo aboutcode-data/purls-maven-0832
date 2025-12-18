@@ -4,3 +4,5 @@
 - pkg:maven/de.bitgrip.ficum/ficum-converter-spring@0.11.2?classifier=sources
 - pkg:maven/de.bitgrip.ficum/ficum-converter-spring@0.11.3
 - pkg:maven/de.bitgrip.ficum/ficum-converter-spring@0.11.3?classifier=sources
+- pkg:maven/de.bitgrip.ficum/ficum-converter-spring@0.12.0
+- pkg:maven/de.bitgrip.ficum/ficum-converter-spring@0.12.0?classifier=sources

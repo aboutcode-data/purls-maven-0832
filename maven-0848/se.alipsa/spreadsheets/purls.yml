@@ -1,0 +1,4 @@
+- pkg:maven/se.alipsa/spreadsheets@1.0
+- pkg:maven/se.alipsa/spreadsheets@1.0?classifier=sources
+- pkg:maven/se.alipsa/spreadsheets@1.1
+- pkg:maven/se.alipsa/spreadsheets@1.1?classifier=sources

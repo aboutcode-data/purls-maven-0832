@@ -1,0 +1,2 @@
+- pkg:maven/com.escalableapps.framework/ea-spring-starter-rest@0.0.0
+- pkg:maven/com.escalableapps.framework/ea-spring-starter-rest@0.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/oauth.signpost/signpost-commonshttp3@2.0.0
+- pkg:maven/oauth.signpost/signpost-commonshttp3@2.0.0?classifier=sources

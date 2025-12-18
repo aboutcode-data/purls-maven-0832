@@ -111,6 +111,7 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-scala@2.24.2?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-scala@2.24.3?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-scala@2.25.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-scala@2.25.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-scala@2.3.0
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-scala@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-scala@2.4.0

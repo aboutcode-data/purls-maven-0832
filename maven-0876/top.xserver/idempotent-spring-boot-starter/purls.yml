@@ -1,0 +1,6 @@
+- pkg:maven/top.xserver/idempotent-spring-boot-starter@0.0.1.RELEASE
+- pkg:maven/top.xserver/idempotent-spring-boot-starter@0.0.1.RELEASE?classifier=sources
+- pkg:maven/top.xserver/idempotent-spring-boot-starter@0.0.2.RELEASE
+- pkg:maven/top.xserver/idempotent-spring-boot-starter@0.0.2.RELEASE?classifier=sources
+- pkg:maven/top.xserver/idempotent-spring-boot-starter@0.0.3.RELEASE
+- pkg:maven/top.xserver/idempotent-spring-boot-starter@0.0.3.RELEASE?classifier=sources

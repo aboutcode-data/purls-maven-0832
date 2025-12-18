@@ -8,3 +8,5 @@
 - pkg:maven/io.cloudslang.content/cs-azure@0.0.4?classifier=sources
 - pkg:maven/io.cloudslang.content/cs-azure@0.0.7
 - pkg:maven/io.cloudslang.content/cs-azure@0.0.7?classifier=sources
+- pkg:maven/io.cloudslang.content/cs-azure@0.0.9
+- pkg:maven/io.cloudslang.content/cs-azure@0.0.9?classifier=sources

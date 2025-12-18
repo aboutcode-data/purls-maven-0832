@@ -1,0 +1,2 @@
+- pkg:maven/com.avsystem.commons/commons-rest_sjs1_2.12@1.44.2
+- pkg:maven/com.avsystem.commons/commons-rest_sjs1_2.12@1.44.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nd00rn/bytebuffer@0.0.1
+- pkg:maven/com.github.nd00rn/bytebuffer@0.0.1?classifier=sources

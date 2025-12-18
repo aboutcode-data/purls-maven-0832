@@ -50,5 +50,7 @@
 - pkg:maven/io.helidon/helidon-javadocs@1.4.2?classifier=sources
 - pkg:maven/io.helidon/helidon-javadocs@1.4.3
 - pkg:maven/io.helidon/helidon-javadocs@1.4.3?classifier=sources
+- pkg:maven/io.helidon/helidon-javadocs@1.4.4
+- pkg:maven/io.helidon/helidon-javadocs@1.4.4?classifier=sources
 - pkg:maven/io.helidon/helidon-javadocs@2.0.0-M1
 - pkg:maven/io.helidon/helidon-javadocs@2.0.0-M1?classifier=sources

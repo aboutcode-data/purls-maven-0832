@@ -28,6 +28,10 @@
 - pkg:maven/io.vertx/vertx-web-api-service@3.8.4?classifier=sources
 - pkg:maven/io.vertx/vertx-web-api-service@3.8.5
 - pkg:maven/io.vertx/vertx-web-api-service@3.8.5?classifier=sources
+- pkg:maven/io.vertx/vertx-web-api-service@3.9.0
+- pkg:maven/io.vertx/vertx-web-api-service@3.9.0?classifier=sources
+- pkg:maven/io.vertx/vertx-web-api-service@3.9.1
+- pkg:maven/io.vertx/vertx-web-api-service@3.9.1?classifier=sources
 - pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone1
 - pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone1?classifier=sources
 - pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone2
@@ -36,3 +40,5 @@
 - pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone3?classifier=sources
 - pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone4
 - pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone4?classifier=sources
+- pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone5
+- pkg:maven/io.vertx/vertx-web-api-service@4.0.0-milestone5?classifier=sources

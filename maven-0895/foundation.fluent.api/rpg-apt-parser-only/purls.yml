@@ -1,0 +1,10 @@
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.3
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.3?classifier=sources
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.4
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.4?classifier=sources
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.5
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.5?classifier=sources
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.6
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.6?classifier=sources
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.7
+- pkg:maven/foundation.fluent.api/rpg-apt-parser-only@0.7?classifier=sources

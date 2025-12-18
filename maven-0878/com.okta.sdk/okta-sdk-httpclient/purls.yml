@@ -36,3 +36,4 @@
 - pkg:maven/com.okta.sdk/okta-sdk-httpclient@1.5.3?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-httpclient@1.5.4
 - pkg:maven/com.okta.sdk/okta-sdk-httpclient@1.5.4?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-httpclient@1.6.0

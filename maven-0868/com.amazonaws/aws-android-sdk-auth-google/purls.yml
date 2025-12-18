@@ -52,6 +52,12 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.15.2?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.10?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.10?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.11?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.11?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.12?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.12?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.1?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.1?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-google@2.16.2?classifier=sources

@@ -74,6 +74,16 @@
 - pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.33.0.Final?type=war
 - pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.34.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.34.0.Final?type=war
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.35.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.35.0.Final?type=war
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.36.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.36.0.Final?type=war
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.36.1.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.36.1.Final?type=war
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.37.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.37.0.Final?type=war
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.38.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.38.0.Final?type=war
 - pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.4.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.4.0.Final?type=war
 - pkg:maven/org.jbpm/jbpm-wb-case-mgmt-showcase@7.4.1.Final?classifier=sources

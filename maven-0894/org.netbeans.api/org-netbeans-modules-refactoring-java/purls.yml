@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-refactoring-java@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-refactoring-java@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-refactoring-java@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-refactoring-java@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-refactoring-java@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-refactoring-java@RELEASE90?classifier=sources

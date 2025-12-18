@@ -40,3 +40,5 @@
 - pkg:maven/io.github.cquiroz/scala-java-locales_sjs0.6_2.11@0.5.5-cldr31?classifier=sources
 - pkg:maven/io.github.cquiroz/scala-java-locales_sjs0.6_2.11@0.6.0
 - pkg:maven/io.github.cquiroz/scala-java-locales_sjs0.6_2.11@0.6.0?classifier=sources
+- pkg:maven/io.github.cquiroz/scala-java-locales_sjs0.6_2.11@1.0.0
+- pkg:maven/io.github.cquiroz/scala-java-locales_sjs0.6_2.11@1.0.0?classifier=sources

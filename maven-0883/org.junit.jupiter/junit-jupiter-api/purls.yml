@@ -77,3 +77,6 @@
 - pkg:maven/org.junit.jupiter/junit-jupiter-api@5.6.0-M1?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-api@5.6.0-RC1?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-api@5.6.0?classifier=sources
+- pkg:maven/org.junit.jupiter/junit-jupiter-api@5.6.1?classifier=sources
+- pkg:maven/org.junit.jupiter/junit-jupiter-api@5.6.2?classifier=sources
+- pkg:maven/org.junit.jupiter/junit-jupiter-api@5.7.0-M1?classifier=sources

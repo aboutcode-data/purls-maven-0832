@@ -1,0 +1,4 @@
+- pkg:maven/com.github.DDLoveWorld/common-query@1.0.0
+- pkg:maven/com.github.DDLoveWorld/common-query@1.0.0?classifier=sources
+- pkg:maven/com.github.DDLoveWorld/common-query@1.0.1-SNAPHOST
+- pkg:maven/com.github.DDLoveWorld/common-query@1.0.1-SNAPHOST?classifier=sources

@@ -1,3 +1,8 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.books.registry.api@4.0.0?classifier=sources
 - pkg:maven/org.librarysimplified/org.librarysimplified.books.registry.api@4.0.0?type=aar
 - pkg:maven/org.librarysimplified/org.librarysimplified.books.registry.api@5.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.registry.api@5.1.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.registry.api@5.1.1?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.registry.api@5.2.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.registry.api@5.3.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.registry.api@5.3.1?classifier=sources

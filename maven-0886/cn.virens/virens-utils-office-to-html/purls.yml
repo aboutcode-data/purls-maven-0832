@@ -1,0 +1,2 @@
+- pkg:maven/cn.virens/virens-utils-office-to-html@1.4.7
+- pkg:maven/cn.virens/virens-utils-office-to-html@1.4.7?classifier=sources

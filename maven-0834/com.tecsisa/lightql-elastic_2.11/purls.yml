@@ -50,3 +50,5 @@
 - pkg:maven/com.tecsisa/lightql-elastic_2.11@6.2.4?classifier=sources
 - pkg:maven/com.tecsisa/lightql-elastic_2.11@6.7.1
 - pkg:maven/com.tecsisa/lightql-elastic_2.11@6.7.1?classifier=sources
+- pkg:maven/com.tecsisa/lightql-elastic_2.11@6.7.2
+- pkg:maven/com.tecsisa/lightql-elastic_2.11@6.7.2?classifier=sources

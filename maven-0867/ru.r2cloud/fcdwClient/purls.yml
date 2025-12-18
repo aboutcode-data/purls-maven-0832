@@ -1,2 +1,4 @@
 - pkg:maven/ru.r2cloud/fcdwClient@1.0
 - pkg:maven/ru.r2cloud/fcdwClient@1.0?classifier=sources
+- pkg:maven/ru.r2cloud/fcdwClient@1.1
+- pkg:maven/ru.r2cloud/fcdwClient@1.1?classifier=sources

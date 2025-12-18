@@ -83,6 +83,10 @@
 - pkg:maven/com.itv/bucky-core_2.12@2.0.0-M23?classifier=sources
 - pkg:maven/com.itv/bucky-core_2.12@2.0.0-M24
 - pkg:maven/com.itv/bucky-core_2.12@2.0.0-M24?classifier=sources
+- pkg:maven/com.itv/bucky-core_2.12@2.0.0-M25
+- pkg:maven/com.itv/bucky-core_2.12@2.0.0-M25?classifier=sources
+- pkg:maven/com.itv/bucky-core_2.12@2.0.0-M26
+- pkg:maven/com.itv/bucky-core_2.12@2.0.0-M26?classifier=sources
 - pkg:maven/com.itv/bucky-core_2.12@2.0.0-M2?classifier=sources
 - pkg:maven/com.itv/bucky-core_2.12@2.0.0-M3
 - pkg:maven/com.itv/bucky-core_2.12@2.0.0-M3?classifier=sources

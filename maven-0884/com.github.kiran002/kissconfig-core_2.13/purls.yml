@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kiran002/kissconfig-core_2.13@1.0.2
+- pkg:maven/com.github.kiran002/kissconfig-core_2.13@1.0.2?classifier=sources

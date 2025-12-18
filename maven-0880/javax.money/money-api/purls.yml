@@ -16,3 +16,5 @@
 - pkg:maven/javax.money/money-api@1.0.3
 - pkg:maven/javax.money/money-api@1.0.3?classifier=sources
 - pkg:maven/javax.money/money-api@1.0?classifier=sources
+- pkg:maven/javax.money/money-api@1.1
+- pkg:maven/javax.money/money-api@1.1?classifier=sources

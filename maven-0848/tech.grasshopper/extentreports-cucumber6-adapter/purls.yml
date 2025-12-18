@@ -1,0 +1,2 @@
+- pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@1.0.0
+- pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@1.0.0?classifier=sources

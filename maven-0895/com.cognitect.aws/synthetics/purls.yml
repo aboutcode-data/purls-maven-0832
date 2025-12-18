@@ -1,0 +1,4 @@
+- pkg:maven/com.cognitect.aws/synthetics@796.2.667.0
+- pkg:maven/com.cognitect.aws/synthetics@796.2.667.0?classifier=sources
+- pkg:maven/com.cognitect.aws/synthetics@799.2.682.0
+- pkg:maven/com.cognitect.aws/synthetics@799.2.682.0?classifier=sources

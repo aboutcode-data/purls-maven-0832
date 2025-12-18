@@ -25,3 +25,5 @@
 - pkg:maven/org.glassfish.gmbal/gmbal-api-only@3.2.0-b001
 - pkg:maven/org.glassfish.gmbal/gmbal-api-only@3.2.0-b002
 - pkg:maven/org.glassfish.gmbal/gmbal-api-only@3.2.0-b003
+- pkg:maven/org.glassfish.gmbal/gmbal-api-only@4.0.2
+- pkg:maven/org.glassfish.gmbal/gmbal-api-only@4.0.2?classifier=sources

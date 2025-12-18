@@ -1,0 +1,1 @@
+- pkg:maven/org.caffinitas.gradle.aggregatetestresults/gradle-aggretate-tests@0.1?classifier=sources

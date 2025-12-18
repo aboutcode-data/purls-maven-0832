@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/munit_0.23@0.6.0-M1
+- pkg:maven/com.sandinh/munit_0.23@0.6.0-M1?classifier=sources

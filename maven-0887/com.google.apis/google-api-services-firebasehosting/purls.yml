@@ -156,6 +156,14 @@
 - pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200224-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200309-1.30.9
 - pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200309-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200407-1.30.9
+- pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200407-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200430-1.30.9
+- pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200430-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200512-1.30.9
+- pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200512-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200601-1.30.9
+- pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev20200601-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebasehosting@v1beta1-rev21-1.22.0

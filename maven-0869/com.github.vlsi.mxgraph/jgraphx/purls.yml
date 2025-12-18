@@ -14,3 +14,7 @@
 - pkg:maven/com.github.vlsi.mxgraph/jgraphx@4.0.0?classifier=sources
 - pkg:maven/com.github.vlsi.mxgraph/jgraphx@4.0.5
 - pkg:maven/com.github.vlsi.mxgraph/jgraphx@4.0.5?classifier=sources
+- pkg:maven/com.github.vlsi.mxgraph/jgraphx@4.0.6
+- pkg:maven/com.github.vlsi.mxgraph/jgraphx@4.0.6?classifier=sources
+- pkg:maven/com.github.vlsi.mxgraph/jgraphx@4.1.0
+- pkg:maven/com.github.vlsi.mxgraph/jgraphx@4.1.0?classifier=sources

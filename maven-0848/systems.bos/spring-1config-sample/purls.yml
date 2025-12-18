@@ -1,0 +1,2 @@
+- pkg:maven/systems.bos/spring-1config-sample@0.0.5
+- pkg:maven/systems.bos/spring-1config-sample@0.0.5?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/com.fizzed/blaze-vagrant@0.18.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-vagrant@0.20.0
 - pkg:maven/com.fizzed/blaze-vagrant@0.20.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-vagrant@0.21.0
+- pkg:maven/com.fizzed/blaze-vagrant@0.21.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-vagrant@1.0.0
+- pkg:maven/com.fizzed/blaze-vagrant@1.0.0?classifier=sources

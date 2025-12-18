@@ -1,0 +1,7 @@
+- pkg:maven/org.internetitem/logback-elasticsearch-appender@1.8
+- pkg:maven/org.internetitem/logback-elasticsearch-appender@1.8?classifier=sources
+- pkg:maven/org.internetitem/logback-elasticsearch-appender@1.9
+- pkg:maven/org.internetitem/logback-elasticsearch-appender@1.9?classifier=sources
+- pkg:maven/org.internetitem/logback-elasticsearch-appender@2.0?classifier=sources
+- pkg:maven/org.internetitem/logback-elasticsearch-appender@2.1
+- pkg:maven/org.internetitem/logback-elasticsearch-appender@2.1?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/org.jdbi/jdbi3-generator@3.12.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-generator@3.12.2
 - pkg:maven/org.jdbi/jdbi3-generator@3.12.2?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-generator@3.13.0
+- pkg:maven/org.jdbi/jdbi3-generator@3.13.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-generator@3.14.0
+- pkg:maven/org.jdbi/jdbi3-generator@3.14.0?classifier=sources

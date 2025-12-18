@@ -1,0 +1,2 @@
+- pkg:maven/ch.rhj/rhj-utils@20200505
+- pkg:maven/ch.rhj/rhj-utils@20200505?classifier=sources

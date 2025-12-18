@@ -18,6 +18,12 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.18.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.19.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.19.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.20.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.20.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.21.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.21.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.22.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.22.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.7.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.7.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.8.0

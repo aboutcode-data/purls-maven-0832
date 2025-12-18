@@ -1,0 +1,2 @@
+- pkg:maven/org.openksavi.sponge/sponge-remote-api-client@1.16.0
+- pkg:maven/org.openksavi.sponge/sponge-remote-api-client@1.16.0?classifier=sources

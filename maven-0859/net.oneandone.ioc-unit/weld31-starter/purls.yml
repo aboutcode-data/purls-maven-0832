@@ -1,0 +1,2 @@
+- pkg:maven/net.oneandone.ioc-unit/weld31-starter@2.0.28
+- pkg:maven/net.oneandone.ioc-unit/weld31-starter@2.0.28?classifier=sources

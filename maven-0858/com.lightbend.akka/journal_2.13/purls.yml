@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.akka/journal_2.13@0.1-M0
+- pkg:maven/com.lightbend.akka/journal_2.13@0.1-M0?classifier=sources

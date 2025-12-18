@@ -1,0 +1,2 @@
+- pkg:maven/be.wegenenverkeer/rxhttpclient-fs2_2.12@2.0-RC2
+- pkg:maven/be.wegenenverkeer/rxhttpclient-fs2_2.12@2.0-RC2?classifier=sources

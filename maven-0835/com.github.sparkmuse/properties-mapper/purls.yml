@@ -1,0 +1,4 @@
+- pkg:maven/com.github.sparkmuse/properties-mapper@1.1.10
+- pkg:maven/com.github.sparkmuse/properties-mapper@1.1.10?classifier=sources
+- pkg:maven/com.github.sparkmuse/properties-mapper@1.1.9
+- pkg:maven/com.github.sparkmuse/properties-mapper@1.1.9?classifier=sources

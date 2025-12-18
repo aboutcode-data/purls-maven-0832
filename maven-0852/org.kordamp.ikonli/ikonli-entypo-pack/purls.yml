@@ -18,5 +18,13 @@
 - pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@11.3.4?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@11.3.5
 - pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@11.3.5?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@11.4.0
+- pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@11.4.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@11.5.0
+- pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@11.5.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@2.4.0
 - pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@2.4.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@2.5.0
+- pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@2.5.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@2.6.0
+- pkg:maven/org.kordamp.ikonli/ikonli-entypo-pack@2.6.0?classifier=sources

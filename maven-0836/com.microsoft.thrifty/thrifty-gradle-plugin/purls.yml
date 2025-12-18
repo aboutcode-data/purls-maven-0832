@@ -1,0 +1,1 @@
+- pkg:maven/com.microsoft.thrifty/thrifty-gradle-plugin@2.1.0?classifier=sources

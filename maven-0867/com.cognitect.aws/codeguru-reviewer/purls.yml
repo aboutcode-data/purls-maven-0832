@@ -1,2 +1,8 @@
 - pkg:maven/com.cognitect.aws/codeguru-reviewer@780.2.584.0
 - pkg:maven/com.cognitect.aws/codeguru-reviewer@780.2.584.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codeguru-reviewer@796.2.655.0
+- pkg:maven/com.cognitect.aws/codeguru-reviewer@796.2.655.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codeguru-reviewer@796.2.661.0
+- pkg:maven/com.cognitect.aws/codeguru-reviewer@796.2.661.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codeguru-reviewer@798.2.674.0
+- pkg:maven/com.cognitect.aws/codeguru-reviewer@798.2.674.0?classifier=sources

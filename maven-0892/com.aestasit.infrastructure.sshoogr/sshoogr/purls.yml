@@ -15,6 +15,7 @@
 - pkg:maven/com.aestasit.infrastructure.sshoogr/sshoogr@0.9.24?classifier=sources
 - pkg:maven/com.aestasit.infrastructure.sshoogr/sshoogr@0.9.25?classifier=sources
 - pkg:maven/com.aestasit.infrastructure.sshoogr/sshoogr@0.9.26?classifier=sources
+- pkg:maven/com.aestasit.infrastructure.sshoogr/sshoogr@0.9.28?classifier=sources
 - pkg:maven/com.aestasit.infrastructure.sshoogr/sshoogr@0.9.3
 - pkg:maven/com.aestasit.infrastructure.sshoogr/sshoogr@0.9.3?classifier=sources
 - pkg:maven/com.aestasit.infrastructure.sshoogr/sshoogr@0.9.4

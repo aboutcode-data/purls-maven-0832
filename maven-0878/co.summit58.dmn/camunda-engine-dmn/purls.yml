@@ -1,0 +1,4 @@
+- pkg:maven/co.summit58.dmn/camunda-engine-dmn@7.12.0
+- pkg:maven/co.summit58.dmn/camunda-engine-dmn@7.12.0?classifier=sources
+- pkg:maven/co.summit58.dmn/camunda-engine-dmn@7.12.1
+- pkg:maven/co.summit58.dmn/camunda-engine-dmn@7.12.1?classifier=sources

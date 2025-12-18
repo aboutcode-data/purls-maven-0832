@@ -2,3 +2,11 @@
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.167.RELEASE?classifier=sources
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.202.RELEASE
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.202.RELEASE?classifier=sources
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.207.RELEASE
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.207.RELEASE?classifier=sources
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.210.RELEASE
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.210.RELEASE?classifier=sources
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.215.RELEASE
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.215.RELEASE?classifier=sources
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.218.RELEASE
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.218.RELEASE?classifier=sources

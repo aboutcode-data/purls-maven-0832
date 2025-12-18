@@ -1,0 +1,4 @@
+- pkg:maven/edu.gemini/gsp-core-ocs2-api_sjs1_2.13@0.2.0
+- pkg:maven/edu.gemini/gsp-core-ocs2-api_sjs1_2.13@0.2.0?classifier=sources
+- pkg:maven/edu.gemini/gsp-core-ocs2-api_sjs1_2.13@0.2.1
+- pkg:maven/edu.gemini/gsp-core-ocs2-api_sjs1_2.13@0.2.1?classifier=sources

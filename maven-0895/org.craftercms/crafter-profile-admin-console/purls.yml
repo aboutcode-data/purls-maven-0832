@@ -106,6 +106,8 @@
 - pkg:maven/org.craftercms/crafter-profile-admin-console@3.0.25?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@3.0.26?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-admin-console@3.0.26?type=war
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.0.27?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.0.27?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@3.0.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-admin-console@3.0.2?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@3.0.3?classifier=sources
@@ -136,6 +138,14 @@
 - pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.5?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.5E?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.5E?type=war
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.6?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.6?type=war
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.6E?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.6E?type=war
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.7?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.7?type=war
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.7E?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-admin-console@3.1.7E?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@v2.4.1-RC2?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@v2.4.1-RC3?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@v2.4.2?type=war

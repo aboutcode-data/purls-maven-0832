@@ -6,3 +6,5 @@
 - pkg:maven/com.oracle.database.security/osdt_cert@18.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/osdt_cert@19.3.0.0
 - pkg:maven/com.oracle.database.security/osdt_cert@19.3.0.0?classifier=sources
+- pkg:maven/com.oracle.database.security/osdt_cert@19.6.0.0
+- pkg:maven/com.oracle.database.security/osdt_cert@19.6.0.0?classifier=sources

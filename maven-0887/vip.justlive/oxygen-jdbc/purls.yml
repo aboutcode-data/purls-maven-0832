@@ -29,6 +29,14 @@
 - pkg:maven/vip.justlive/oxygen-jdbc@2.1.1
 - pkg:maven/vip.justlive/oxygen-jdbc@2.1.10
 - pkg:maven/vip.justlive/oxygen-jdbc@2.1.10?classifier=sources
+- pkg:maven/vip.justlive/oxygen-jdbc@2.1.11
+- pkg:maven/vip.justlive/oxygen-jdbc@2.1.11?classifier=sources
+- pkg:maven/vip.justlive/oxygen-jdbc@2.1.12
+- pkg:maven/vip.justlive/oxygen-jdbc@2.1.12?classifier=sources
+- pkg:maven/vip.justlive/oxygen-jdbc@2.1.13
+- pkg:maven/vip.justlive/oxygen-jdbc@2.1.13.0
+- pkg:maven/vip.justlive/oxygen-jdbc@2.1.13.0?classifier=sources
+- pkg:maven/vip.justlive/oxygen-jdbc@2.1.13?classifier=sources
 - pkg:maven/vip.justlive/oxygen-jdbc@2.1.1?classifier=sources
 - pkg:maven/vip.justlive/oxygen-jdbc@2.1.2
 - pkg:maven/vip.justlive/oxygen-jdbc@2.1.2?classifier=sources
@@ -48,3 +56,5 @@
 - pkg:maven/vip.justlive/oxygen-jdbc@2.1.8?classifier=sources
 - pkg:maven/vip.justlive/oxygen-jdbc@2.1.9
 - pkg:maven/vip.justlive/oxygen-jdbc@2.1.9?classifier=sources
+- pkg:maven/vip.justlive/oxygen-jdbc@3.0.0
+- pkg:maven/vip.justlive/oxygen-jdbc@3.0.0?classifier=sources

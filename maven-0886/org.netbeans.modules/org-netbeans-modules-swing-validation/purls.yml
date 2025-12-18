@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE90?classifier=sources

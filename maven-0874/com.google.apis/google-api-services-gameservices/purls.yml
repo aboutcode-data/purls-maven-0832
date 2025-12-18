@@ -1,0 +1,10 @@
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200327-1.30.9
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200327-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200402-1.30.9
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200402-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200416-1.30.9
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200416-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200423-1.30.9
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200423-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200507-1.30.9
+- pkg:maven/com.google.apis/google-api-services-gameservices@v1beta-rev20200507-1.30.9?classifier=sources
