@@ -8,3 +8,17 @@
 - pkg:maven/org.fomkin/korolev-monix_2.13@0.16.1?classifier=sources
 - pkg:maven/org.fomkin/korolev-monix_2.13@0.16.2
 - pkg:maven/org.fomkin/korolev-monix_2.13@0.16.2?classifier=sources
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.16.3
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.16.3?classifier=sources
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.16.4
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.16.4?classifier=sources
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.16.5
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.16.5?classifier=sources
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.17-M1
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.17-M1?classifier=sources
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.17-M2
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.17-M2?classifier=sources
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.17-M3
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.17-M3?classifier=sources
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.17.0
+- pkg:maven/org.fomkin/korolev-monix_2.13@0.17.0?classifier=sources

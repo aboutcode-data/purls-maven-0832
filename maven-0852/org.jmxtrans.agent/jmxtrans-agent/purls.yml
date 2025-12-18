@@ -24,6 +24,8 @@
 - pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.0?classifier=sources
 - pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.10
 - pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.10?classifier=sources
+- pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.11-rc-1
+- pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.11-rc-1?classifier=sources
 - pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.2
 - pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.2?classifier=sources
 - pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.3

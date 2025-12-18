@@ -27,7 +27,12 @@
 - pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.28.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.28.1?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.28.2?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.29.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.3.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.30.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.30.2?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.31.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.32.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.5.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/net.officefloor.woof.feature@3.5.1?classifier=sources

@@ -66,3 +66,6 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@2.2.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@2.2.4.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@2.2.5.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@2.2.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@3.0.0
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@3.0.1

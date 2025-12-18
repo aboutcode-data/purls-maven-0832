@@ -26,3 +26,7 @@
 - pkg:maven/org.scala-lang.modules/scala-asm@7.0.0-scala-1?classifier=sources
 - pkg:maven/org.scala-lang.modules/scala-asm@7.3.1-scala-1
 - pkg:maven/org.scala-lang.modules/scala-asm@7.3.1-scala-1?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-asm@9.0.0-scala-1
+- pkg:maven/org.scala-lang.modules/scala-asm@9.0.0-scala-1?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-asm@9.1.0-scala-1
+- pkg:maven/org.scala-lang.modules/scala-asm@9.1.0-scala-1?classifier=sources

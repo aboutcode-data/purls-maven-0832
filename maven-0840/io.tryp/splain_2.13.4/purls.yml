@@ -1,2 +1,4 @@
 - pkg:maven/io.tryp/splain_2.13.4@0.5.7
 - pkg:maven/io.tryp/splain_2.13.4@0.5.7?classifier=sources
+- pkg:maven/io.tryp/splain_2.13.4@0.5.8
+- pkg:maven/io.tryp/splain_2.13.4@0.5.8?classifier=sources

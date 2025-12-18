@@ -1,0 +1,2 @@
+- pkg:maven/io.imast/work4j-channel@0.0.1.PREVIEW
+- pkg:maven/io.imast/work4j-channel@0.0.1.PREVIEW?classifier=sources

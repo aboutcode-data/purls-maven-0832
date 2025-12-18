@@ -78,6 +78,10 @@
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@11.0.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@11.0.8.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@11.0.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@11.0.9.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@11.0.9.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.CR1
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.CR1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.Dev02
@@ -94,6 +98,12 @@
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.Dev07?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.Dev3
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.Dev3?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.1.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.1.0.Dev01
+- pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@12.1.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@9.0.0.Beta1
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@9.0.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-protostuff-bundle@9.0.0.Beta2

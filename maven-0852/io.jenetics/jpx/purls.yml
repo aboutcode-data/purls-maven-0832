@@ -39,3 +39,4 @@
 - pkg:maven/io.jenetics/jpx@2.0.0
 - pkg:maven/io.jenetics/jpx@2.0.0?classifier=sources
 - pkg:maven/io.jenetics/jpx@2.1.0?classifier=sources
+- pkg:maven/io.jenetics/jpx@2.2.0?classifier=sources

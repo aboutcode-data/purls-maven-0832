@@ -1,0 +1,4 @@
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.1.0
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.1.0-RC1
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.1.0-RC1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.1.0?classifier=sources

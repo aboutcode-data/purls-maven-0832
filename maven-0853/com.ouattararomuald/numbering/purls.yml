@@ -1,0 +1,6 @@
+- pkg:maven/com.ouattararomuald/numbering@0.1
+- pkg:maven/com.ouattararomuald/numbering@0.1?classifier=sources
+- pkg:maven/com.ouattararomuald/numbering@1.0.1
+- pkg:maven/com.ouattararomuald/numbering@1.0.1?classifier=sources
+- pkg:maven/com.ouattararomuald/numbering@2.0.1
+- pkg:maven/com.ouattararomuald/numbering@2.0.1?classifier=sources

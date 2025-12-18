@@ -18,3 +18,5 @@
 - pkg:maven/com.scalar-labs/scalardl-java-client-sdk@2.0.8?classifier=sources
 - pkg:maven/com.scalar-labs/scalardl-java-client-sdk@2.0.9
 - pkg:maven/com.scalar-labs/scalardl-java-client-sdk@2.0.9?classifier=sources
+- pkg:maven/com.scalar-labs/scalardl-java-client-sdk@2.1.0
+- pkg:maven/com.scalar-labs/scalardl-java-client-sdk@2.1.0?classifier=sources

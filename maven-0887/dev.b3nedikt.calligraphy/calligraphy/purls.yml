@@ -1,0 +1,6 @@
+- pkg:maven/dev.b3nedikt.calligraphy/calligraphy@4.0.0?classifier=sources
+- pkg:maven/dev.b3nedikt.calligraphy/calligraphy@4.0.0?type=aar
+- pkg:maven/dev.b3nedikt.calligraphy/calligraphy@4.0.1?classifier=sources
+- pkg:maven/dev.b3nedikt.calligraphy/calligraphy@4.0.1?type=aar
+- pkg:maven/dev.b3nedikt.calligraphy/calligraphy@4.0.2?classifier=sources
+- pkg:maven/dev.b3nedikt.calligraphy/calligraphy@4.0.2?type=aar

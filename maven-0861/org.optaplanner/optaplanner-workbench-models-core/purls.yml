@@ -92,10 +92,16 @@
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.46.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.47.0.Final
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.47.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.48.0.Final
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.48.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.49.0.Final
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.49.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.5.0.Final
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.5.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.5.0.t018
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.5.0.t018?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.50.0.Final
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.50.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.6.0.Final
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.6.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.6.0.t022

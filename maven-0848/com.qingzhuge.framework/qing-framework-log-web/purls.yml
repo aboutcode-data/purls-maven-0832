@@ -3,4 +3,6 @@
 - pkg:maven/com.qingzhuge.framework/qing-framework-log-web@1.0.1
 - pkg:maven/com.qingzhuge.framework/qing-framework-log-web@1.0.1.3
 - pkg:maven/com.qingzhuge.framework/qing-framework-log-web@1.0.1.3?classifier=sources
+- pkg:maven/com.qingzhuge.framework/qing-framework-log-web@1.0.1.4
+- pkg:maven/com.qingzhuge.framework/qing-framework-log-web@1.0.1.4?classifier=sources
 - pkg:maven/com.qingzhuge.framework/qing-framework-log-web@1.0.1?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-ribbon@2.2.4.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-ribbon@2.2.5.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-ribbon@2.2.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-ribbon@2.2.7.RELEASE

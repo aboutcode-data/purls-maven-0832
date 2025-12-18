@@ -1,0 +1,2 @@
+- pkg:maven/com.github.josecardenas2021/test-project@0.0.54
+- pkg:maven/com.github.josecardenas2021/test-project@0.0.54?classifier=sources

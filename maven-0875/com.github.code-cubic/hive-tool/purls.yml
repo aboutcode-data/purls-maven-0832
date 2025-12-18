@@ -1,0 +1,2 @@
+- pkg:maven/com.github.code-cubic/hive-tool@1.2.2.20201201-RELEASE
+- pkg:maven/com.github.code-cubic/hive-tool@1.2.2.20201201-RELEASE?classifier=sources

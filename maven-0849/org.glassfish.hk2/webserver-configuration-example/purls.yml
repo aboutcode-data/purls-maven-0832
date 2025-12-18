@@ -210,3 +210,5 @@
 - pkg:maven/org.glassfish.hk2/webserver-configuration-example@3.0.0-RC1
 - pkg:maven/org.glassfish.hk2/webserver-configuration-example@3.0.0-RC1?classifier=sources
 - pkg:maven/org.glassfish.hk2/webserver-configuration-example@3.0.0?classifier=sources
+- pkg:maven/org.glassfish.hk2/webserver-configuration-example@3.0.1
+- pkg:maven/org.glassfish.hk2/webserver-configuration-example@3.0.1?classifier=sources

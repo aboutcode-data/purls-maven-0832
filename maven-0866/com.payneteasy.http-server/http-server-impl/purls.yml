@@ -1,0 +1,2 @@
+- pkg:maven/com.payneteasy.http-server/http-server-impl@1.0-1
+- pkg:maven/com.payneteasy.http-server/http-server-impl@1.0-1?classifier=sources

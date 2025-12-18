@@ -4,3 +4,7 @@
 - pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-cli@14.5.3?type=zip
 - pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-cli@14.5.4?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-cli@14.5.4?type=zip
+- pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-cli@14.6.1?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-cli@14.6.1?type=zip
+- pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-cli@14.6.2?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-cli@14.6.2?type=zip

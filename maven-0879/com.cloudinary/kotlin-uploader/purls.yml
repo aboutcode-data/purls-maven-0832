@@ -1,0 +1,2 @@
+- pkg:maven/com.cloudinary/kotlin-uploader@0.0.1-alpha.1
+- pkg:maven/com.cloudinary/kotlin-uploader@0.0.1-alpha.1?classifier=sources

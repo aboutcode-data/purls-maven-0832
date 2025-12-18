@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/databot20200330@1.0.0
+- pkg:maven/com.aliyun/databot20200330@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/databot20200330@2.0.0
+- pkg:maven/com.aliyun/databot20200330@2.0.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.4-Preview?classifier=sources
 - pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.5-Preview
 - pkg:maven/com.35liuqi/vanas-framework-core@1.0.1.5-Preview?classifier=sources
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0_res_210113
+- pkg:maven/com.35liuqi/vanas-framework-core@1.0_res_210113?classifier=sources

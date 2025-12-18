@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.tika/tika-example@1.8?classifier=sources
 - pkg:maven/org.apache.tika/tika-example@1.9
 - pkg:maven/org.apache.tika/tika-example@1.9?classifier=sources
+- pkg:maven/org.apache.tika/tika-example@2.0.0-ALPHA
+- pkg:maven/org.apache.tika/tika-example@2.0.0-ALPHA?classifier=sources

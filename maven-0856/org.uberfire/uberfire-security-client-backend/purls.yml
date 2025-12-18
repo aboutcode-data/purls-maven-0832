@@ -68,3 +68,9 @@
 - pkg:maven/org.uberfire/uberfire-security-client-backend@7.46.0.t20201030?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-client-backend@7.47.0.Final
 - pkg:maven/org.uberfire/uberfire-security-client-backend@7.47.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-client-backend@7.48.0.Final
+- pkg:maven/org.uberfire/uberfire-security-client-backend@7.48.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-client-backend@7.49.0.Final
+- pkg:maven/org.uberfire/uberfire-security-client-backend@7.49.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-client-backend@7.50.0.Final
+- pkg:maven/org.uberfire/uberfire-security-client-backend@7.50.0.Final?classifier=sources

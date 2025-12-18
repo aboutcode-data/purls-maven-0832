@@ -22,3 +22,5 @@
 - pkg:maven/com.smartlogic.csclient/Semaphore-CS-Client@Semaphore-4.2.4?classifier=sources
 - pkg:maven/com.smartlogic.csclient/Semaphore-CS-Client@Semaphore-4.3.0
 - pkg:maven/com.smartlogic.csclient/Semaphore-CS-Client@Semaphore-4.3.0?classifier=sources
+- pkg:maven/com.smartlogic.csclient/Semaphore-CS-Client@Semaphore-5.0.0
+- pkg:maven/com.smartlogic.csclient/Semaphore-CS-Client@Semaphore-5.0.0?classifier=sources

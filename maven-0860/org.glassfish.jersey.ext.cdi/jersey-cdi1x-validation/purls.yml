@@ -66,6 +66,8 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.31?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.32
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.32?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.33
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@2.33?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@3.0.0
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@3.0.0-M1?classifier=sources
@@ -74,3 +76,5 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@3.0.0-RC2
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@3.0.0-RC2?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@3.0.0?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@3.0.1
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x-validation@3.0.1?classifier=sources

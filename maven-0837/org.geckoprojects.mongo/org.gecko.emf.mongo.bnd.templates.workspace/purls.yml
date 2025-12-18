@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.mongo/org.gecko.emf.mongo.bnd.templates.workspace@6.0.0
+- pkg:maven/org.geckoprojects.mongo/org.gecko.emf.mongo.bnd.templates.workspace@6.0.0?classifier=sources

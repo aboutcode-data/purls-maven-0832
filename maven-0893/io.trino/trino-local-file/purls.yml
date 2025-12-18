@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-local-file@351?classifier=sources
+- pkg:maven/io.trino/trino-local-file@352?classifier=sources

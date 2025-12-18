@@ -1,0 +1,4 @@
+- pkg:maven/io.github.vlmiroshnikov/authz-core_3.0.0-M3@0.1.8
+- pkg:maven/io.github.vlmiroshnikov/authz-core_3.0.0-M3@0.1.8?classifier=sources
+- pkg:maven/io.github.vlmiroshnikov/authz-core_3.0.0-M3@0.1.9
+- pkg:maven/io.github.vlmiroshnikov/authz-core_3.0.0-M3@0.1.9?classifier=sources

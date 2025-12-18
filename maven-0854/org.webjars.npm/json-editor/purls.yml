@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/json-editor@0.7.28
+- pkg:maven/org.webjars.npm/json-editor@0.7.28?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.gitee.sshhzz/balance@0.0.2-Release
+- pkg:maven/com.gitee.sshhzz/balance@0.0.2-Release?classifier=sources
+- pkg:maven/com.gitee.sshhzz/balance@0.0.3-Release
+- pkg:maven/com.gitee.sshhzz/balance@0.0.3-Release?classifier=sources
+- pkg:maven/com.gitee.sshhzz/balance@0.0.4-Release
+- pkg:maven/com.gitee.sshhzz/balance@0.0.4-Release?classifier=sources

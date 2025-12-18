@@ -10,3 +10,5 @@
 - pkg:maven/hr.ngs.templater/templater_2.13@4.6.0
 - pkg:maven/hr.ngs.templater/templater_2.13@5.0.0
 - pkg:maven/hr.ngs.templater/templater_2.13@5.0.1
+- pkg:maven/hr.ngs.templater/templater_2.13@5.1.0
+- pkg:maven/hr.ngs.templater/templater_2.13@5.1.1

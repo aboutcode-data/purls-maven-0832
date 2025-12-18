@@ -3,3 +3,4 @@
 - pkg:maven/org.opencrx/opencrx-core-models@4.3-alpha-9?classifier=sources
 - pkg:maven/org.opencrx/opencrx-core-models@4.3.0?classifier=sources
 - pkg:maven/org.opencrx/opencrx-core-models@5.0.0?classifier=sources
+- pkg:maven/org.opencrx/opencrx-core-models@5.0.1?classifier=sources

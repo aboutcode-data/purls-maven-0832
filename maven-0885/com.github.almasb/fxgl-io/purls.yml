@@ -12,6 +12,10 @@
 - pkg:maven/com.github.almasb/fxgl-io@11.10?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-io@11.11
 - pkg:maven/com.github.almasb/fxgl-io@11.11?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-io@11.12
+- pkg:maven/com.github.almasb/fxgl-io@11.12?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-io@11.13
+- pkg:maven/com.github.almasb/fxgl-io@11.13?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-io@11.2-beta
 - pkg:maven/com.github.almasb/fxgl-io@11.2-beta?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-io@11.3

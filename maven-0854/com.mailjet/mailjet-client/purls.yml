@@ -20,3 +20,9 @@
 - pkg:maven/com.mailjet/mailjet-client@4.5.0?classifier=sources
 - pkg:maven/com.mailjet/mailjet-client@4.6.0
 - pkg:maven/com.mailjet/mailjet-client@4.6.0?classifier=sources
+- pkg:maven/com.mailjet/mailjet-client@5.0.0
+- pkg:maven/com.mailjet/mailjet-client@5.0.0?classifier=sources
+- pkg:maven/com.mailjet/mailjet-client@5.1.0
+- pkg:maven/com.mailjet/mailjet-client@5.1.0?classifier=sources
+- pkg:maven/com.mailjet/mailjet-client@5.1.1
+- pkg:maven/com.mailjet/mailjet-client@5.1.1?classifier=sources

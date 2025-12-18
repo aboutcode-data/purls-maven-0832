@@ -6,3 +6,5 @@
 - pkg:maven/io.github.msg134/IEEE1516e@2.1.1?classifier=sources
 - pkg:maven/io.github.msg134/IEEE1516e@3.0.0
 - pkg:maven/io.github.msg134/IEEE1516e@3.0.0?classifier=sources
+- pkg:maven/io.github.msg134/IEEE1516e@4.0.0
+- pkg:maven/io.github.msg134/IEEE1516e@4.0.0?classifier=sources

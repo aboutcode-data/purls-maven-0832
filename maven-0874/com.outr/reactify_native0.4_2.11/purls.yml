@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/reactify_native0.4_2.11@4.0.4
+- pkg:maven/com.outr/reactify_native0.4_2.11@4.0.4?classifier=sources

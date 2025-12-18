@@ -64,3 +64,11 @@
 - pkg:maven/com.facebook.presto/presto-spark-launcher@0.244.1
 - pkg:maven/com.facebook.presto/presto-spark-launcher@0.244.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-spark-launcher@0.244?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.245
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.245.1
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.245.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.245?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.246
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.246?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.247
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.247?classifier=sources

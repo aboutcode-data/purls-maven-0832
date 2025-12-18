@@ -64,3 +64,11 @@
 - pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.55?classifier=sources
 - pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.56
 - pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.56?classifier=sources
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.58
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.58?classifier=sources
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.59
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.59?classifier=sources
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.60
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.60?classifier=sources
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.61
+- pkg:maven/io.datarouter/datarouter-gcp-bigtable-hbase@0.0.61?classifier=sources

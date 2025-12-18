@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-hazelcast-services-nar@1.13.0?classifier=sources

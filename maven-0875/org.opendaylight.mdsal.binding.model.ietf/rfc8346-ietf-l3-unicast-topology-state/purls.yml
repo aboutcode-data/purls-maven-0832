@@ -4,3 +4,9 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8346-ietf-l3-unicast-topology-state@7.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8346-ietf-l3-unicast-topology-state@7.0.2
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8346-ietf-l3-unicast-topology-state@7.0.2?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8346-ietf-l3-unicast-topology-state@7.0.3
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8346-ietf-l3-unicast-topology-state@7.0.3?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8346-ietf-l3-unicast-topology-state@7.0.4
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8346-ietf-l3-unicast-topology-state@7.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8346-ietf-l3-unicast-topology-state@7.0.5
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8346-ietf-l3-unicast-topology-state@7.0.5?classifier=sources

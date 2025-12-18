@@ -74,3 +74,9 @@
 - pkg:maven/org.kie/business-central-tests-gui@7.46.0.Final?classifier=sources
 - pkg:maven/org.kie/business-central-tests-gui@7.47.0.Final
 - pkg:maven/org.kie/business-central-tests-gui@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-tests-gui@7.48.0.Final
+- pkg:maven/org.kie/business-central-tests-gui@7.48.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-tests-gui@7.49.0.Final
+- pkg:maven/org.kie/business-central-tests-gui@7.49.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-tests-gui@7.50.0.Final
+- pkg:maven/org.kie/business-central-tests-gui@7.50.0.Final?classifier=sources

@@ -12,9 +12,15 @@
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.0.0-1054?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.0.0-1061
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.0.0-1061?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.0.0-1091
+- pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.0.0-1091?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.0.1-1020
+- pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.0.1-1020?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.1.0-1049
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.1.0-1049?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.1.0-1096
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.1.0-1096?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.1.0-1109
+- pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.1.0-1109?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.5.0-1067
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.5.0-1067?classifier=sources

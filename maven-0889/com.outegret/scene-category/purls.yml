@@ -26,3 +26,7 @@
 - pkg:maven/com.outegret/scene-category@1.4.3.RELEASE?classifier=sources
 - pkg:maven/com.outegret/scene-category@1.4.5.RELEASE
 - pkg:maven/com.outegret/scene-category@1.4.5.RELEASE?classifier=sources
+- pkg:maven/com.outegret/scene-category@1.5.0.RELEASE
+- pkg:maven/com.outegret/scene-category@1.5.0.RELEASE?classifier=sources
+- pkg:maven/com.outegret/scene-category@1.5.1.RELEASE
+- pkg:maven/com.outegret/scene-category@1.5.1.RELEASE?classifier=sources

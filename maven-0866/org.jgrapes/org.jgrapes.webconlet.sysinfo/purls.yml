@@ -1,0 +1,2 @@
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.sysinfo@0.28.0
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.sysinfo@0.28.0?classifier=sources

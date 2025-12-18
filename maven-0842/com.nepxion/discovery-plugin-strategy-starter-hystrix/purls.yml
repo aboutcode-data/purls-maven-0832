@@ -104,6 +104,10 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.20.2?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.20.3
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.20.3?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.21.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.21.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.22.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.22.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.8.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.8.0-RC1
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@3.8.0-RC1?classifier=sources
@@ -426,6 +430,10 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.3.2?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.3.3
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.3.3?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.5.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.5.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.6.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@6.6.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@Edgware.1.0.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@Edgware.1.0.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-hystrix@Finchley.1.0.0

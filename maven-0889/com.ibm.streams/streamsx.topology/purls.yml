@@ -10,3 +10,9 @@
 - pkg:maven/com.ibm.streams/streamsx.topology@1.17.0?classifier=sources
 - pkg:maven/com.ibm.streams/streamsx.topology@1.17.1
 - pkg:maven/com.ibm.streams/streamsx.topology@1.17.1?classifier=sources
+- pkg:maven/com.ibm.streams/streamsx.topology@1.18.0
+- pkg:maven/com.ibm.streams/streamsx.topology@1.18.0?classifier=sources
+- pkg:maven/com.ibm.streams/streamsx.topology@2.0.0
+- pkg:maven/com.ibm.streams/streamsx.topology@2.0.0?classifier=sources
+- pkg:maven/com.ibm.streams/streamsx.topology@2.1.0
+- pkg:maven/com.ibm.streams/streamsx.topology@2.1.0?classifier=sources

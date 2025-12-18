@@ -6,3 +6,6 @@
 - pkg:maven/com.symphony.platformsolutions/symphony-bdk-spring@1.4.0.BETA?classifier=sources
 - pkg:maven/com.symphony.platformsolutions/symphony-bdk-spring@1.5.0.BETA?classifier=sources
 - pkg:maven/com.symphony.platformsolutions/symphony-bdk-spring@1.5.1.BETA?classifier=sources
+- pkg:maven/com.symphony.platformsolutions/symphony-bdk-spring@1.6.0.BETA?classifier=sources
+- pkg:maven/com.symphony.platformsolutions/symphony-bdk-spring@2.0.0.RC1?classifier=sources
+- pkg:maven/com.symphony.platformsolutions/symphony-bdk-spring@2.0.0?classifier=sources

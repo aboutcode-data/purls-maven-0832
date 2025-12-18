@@ -112,3 +112,11 @@
 - pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.0.Beta1?classifier=sources
 - pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.0.Final
 - pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.0.Final?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.1.Alpha1
+- pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.1.Alpha1?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.1.Final
+- pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.2.Alpha1
+- pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.2.Alpha1?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.2.Final
+- pkg:maven/org.jboss.windup.decompiler/decompiler-api@5.1.2.Final?classifier=sources

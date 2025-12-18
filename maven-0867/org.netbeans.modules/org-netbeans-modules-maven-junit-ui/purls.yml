@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-junit-ui@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-junit-ui@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-junit-ui@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-junit-ui@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-junit-ui@RELEASE90?classifier=sources

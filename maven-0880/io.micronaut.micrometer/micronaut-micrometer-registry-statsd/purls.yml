@@ -7,3 +7,4 @@
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-statsd@3.0.0?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-statsd@3.0.1?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-statsd@3.1.0?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-statsd@3.2.0?classifier=sources

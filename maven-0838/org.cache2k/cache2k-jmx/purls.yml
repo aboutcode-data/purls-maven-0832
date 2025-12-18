@@ -4,3 +4,13 @@
 - pkg:maven/org.cache2k/cache2k-jmx@1.9.2.Alpha?classifier=sources
 - pkg:maven/org.cache2k/cache2k-jmx@1.9.3.Alpha
 - pkg:maven/org.cache2k/cache2k-jmx@1.9.3.Alpha?classifier=sources
+- pkg:maven/org.cache2k/cache2k-jmx@1.9.4.Beta
+- pkg:maven/org.cache2k/cache2k-jmx@1.9.4.Beta?classifier=sources
+- pkg:maven/org.cache2k/cache2k-jmx@1.9.5.Beta
+- pkg:maven/org.cache2k/cache2k-jmx@1.9.5.Beta?classifier=sources
+- pkg:maven/org.cache2k/cache2k-jmx@1.9.6.Beta
+- pkg:maven/org.cache2k/cache2k-jmx@1.9.6.Beta?classifier=sources
+- pkg:maven/org.cache2k/cache2k-jmx@2.0.0.Final
+- pkg:maven/org.cache2k/cache2k-jmx@2.0.0.Final?classifier=sources
+- pkg:maven/org.cache2k/cache2k-jmx@2.1.1.Alpha
+- pkg:maven/org.cache2k/cache2k-jmx@2.1.1.Alpha?classifier=sources

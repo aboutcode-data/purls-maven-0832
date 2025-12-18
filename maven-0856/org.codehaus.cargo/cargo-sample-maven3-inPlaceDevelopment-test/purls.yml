@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven3-inPlaceDevelopment-test@1.9.0?type=war
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven3-inPlaceDevelopment-test@1.9.1?type=war

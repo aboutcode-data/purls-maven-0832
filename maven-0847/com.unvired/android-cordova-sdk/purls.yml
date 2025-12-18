@@ -11,5 +11,6 @@
 - pkg:maven/com.unvired/android-cordova-sdk@3.0.91?type=aar
 - pkg:maven/com.unvired/android-cordova-sdk@3.0.92?type=aar
 - pkg:maven/com.unvired/android-cordova-sdk@3.0.94?type=aar
+- pkg:maven/com.unvired/android-cordova-sdk@4.0.132?type=aar
 - pkg:maven/com.unvired/android-cordova-sdk@4.0.55?type=aar
 - pkg:maven/com.unvired/android-cordova-sdk@4.0.63?type=aar

@@ -48,3 +48,7 @@
 - pkg:maven/io.helidon.security.integration/helidon-security-integration-grpc@2.0.2?classifier=sources
 - pkg:maven/io.helidon.security.integration/helidon-security-integration-grpc@2.1.0
 - pkg:maven/io.helidon.security.integration/helidon-security-integration-grpc@2.1.0?classifier=sources
+- pkg:maven/io.helidon.security.integration/helidon-security-integration-grpc@2.2.0
+- pkg:maven/io.helidon.security.integration/helidon-security-integration-grpc@2.2.0?classifier=sources
+- pkg:maven/io.helidon.security.integration/helidon-security-integration-grpc@2.2.1
+- pkg:maven/io.helidon.security.integration/helidon-security-integration-grpc@2.2.1?classifier=sources

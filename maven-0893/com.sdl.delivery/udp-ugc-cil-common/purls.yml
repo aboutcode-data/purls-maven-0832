@@ -14,9 +14,17 @@
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.0.0-1072?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.0.0-1074
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.0.0-1074?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.0.0-1097
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.0.0-1097?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.0.0-1108
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.0.0-1108?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.0.1-1019
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.0.1-1019?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.1.0-1061
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.1.0-1061?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.1.0-1112
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.1.0-1112?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.1.0-1128
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.1.0-1128?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.5.0-1054
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.5.0-1054?classifier=sources

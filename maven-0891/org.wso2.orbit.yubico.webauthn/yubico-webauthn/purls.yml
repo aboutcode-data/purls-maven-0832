@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.yubico.webauthn/yubico-webauthn@1.3.0.wso2v3
+- pkg:maven/org.wso2.orbit.yubico.webauthn/yubico-webauthn@1.3.0.wso2v4

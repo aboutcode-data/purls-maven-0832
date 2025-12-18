@@ -24,3 +24,5 @@
 - pkg:maven/com.github.cafdataprocessing/worker-document-interface@4.3.0-593?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-document-interface@4.4.0-707
 - pkg:maven/com.github.cafdataprocessing/worker-document-interface@4.4.0-707?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@4.5.0-820
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@4.5.0-820?classifier=sources

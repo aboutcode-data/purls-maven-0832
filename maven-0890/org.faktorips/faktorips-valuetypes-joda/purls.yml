@@ -12,12 +12,14 @@
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@19.7.1?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@19.7.2
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@19.7.2?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.12.0
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.12.0-m01
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.12.0-m01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.12.0-rc01
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.12.0-rc01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.12.0-rc02
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.12.0-rc02?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.12.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.0
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.0-m02
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.0-m02?classifier=sources

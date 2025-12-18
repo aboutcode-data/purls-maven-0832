@@ -1,0 +1,6 @@
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@3.3.7
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@3.3.7?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@3.4.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@3.4.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.0.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.0.0?classifier=sources

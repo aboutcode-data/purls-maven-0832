@@ -1,2 +1,6 @@
 - pkg:maven/com.github.veithen.daemon/daemon@0.1.1?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen.daemon/daemon@0.1.2?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen.daemon/daemon@0.1?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen.daemon/daemon@0.2.0?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen.daemon/daemon@0.2.1?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen.daemon/daemon@0.3.0?classifier=source-release&type=zip

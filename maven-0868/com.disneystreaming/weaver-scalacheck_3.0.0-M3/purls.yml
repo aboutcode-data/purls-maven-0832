@@ -1,0 +1,12 @@
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.6.0-M4
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.6.0-M4?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.6.0-M5
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.6.0-M5?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.6.0-M6
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.6.0-M6?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.7.0-M4
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.7.0-M4?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.7.0-M5
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.7.0-M5?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.7.0-M6
+- pkg:maven/com.disneystreaming/weaver-scalacheck_3.0.0-M3@0.7.0-M6?classifier=sources

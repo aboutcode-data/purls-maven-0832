@@ -1,0 +1,2 @@
+- pkg:maven/cn.ipokerface/spring-boot-starter-web@2.1.0
+- pkg:maven/cn.ipokerface/spring-boot-starter-web@2.1.0?classifier=sources

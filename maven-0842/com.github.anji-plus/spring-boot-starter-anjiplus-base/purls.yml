@@ -1,0 +1,2 @@
+- pkg:maven/com.github.anji-plus/spring-boot-starter-anjiplus-base@1.0.0.RELEASE
+- pkg:maven/com.github.anji-plus/spring-boot-starter-anjiplus-base@1.0.0.RELEASE?classifier=sources

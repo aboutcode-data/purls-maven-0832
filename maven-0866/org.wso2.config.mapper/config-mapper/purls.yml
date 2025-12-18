@@ -7,6 +7,9 @@
 - pkg:maven/org.wso2.config.mapper/config-mapper@1.0.12
 - pkg:maven/org.wso2.config.mapper/config-mapper@1.0.12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.config.mapper/config-mapper@1.0.12?classifier=sources
+- pkg:maven/org.wso2.config.mapper/config-mapper@1.0.13
+- pkg:maven/org.wso2.config.mapper/config-mapper@1.0.13?classifier=source-release&type=zip
+- pkg:maven/org.wso2.config.mapper/config-mapper@1.0.13?classifier=sources
 - pkg:maven/org.wso2.config.mapper/config-mapper@1.0.3
 - pkg:maven/org.wso2.config.mapper/config-mapper@1.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.config.mapper/config-mapper@1.0.3?classifier=sources

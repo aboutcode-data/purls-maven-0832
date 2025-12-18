@@ -1,0 +1,2 @@
+- pkg:maven/com.github.javahello/erm-generator-mybatis-maven-plugin@0.0.1
+- pkg:maven/com.github.javahello/erm-generator-mybatis-maven-plugin@0.0.1?classifier=sources

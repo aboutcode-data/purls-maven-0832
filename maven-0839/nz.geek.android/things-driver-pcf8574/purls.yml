@@ -1,0 +1,2 @@
+- pkg:maven/nz.geek.android/things-driver-pcf8574@0.5?classifier=sources
+- pkg:maven/nz.geek.android/things-driver-pcf8574@0.6?classifier=sources

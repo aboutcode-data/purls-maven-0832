@@ -1,0 +1,2 @@
+- pkg:maven/com.yahoo.athenz/athenz-instance-provider@1.10.4
+- pkg:maven/com.yahoo.athenz/athenz-instance-provider@1.10.4?classifier=sources

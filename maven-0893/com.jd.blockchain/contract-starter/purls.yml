@@ -1,3 +1,6 @@
 - pkg:maven/com.jd.blockchain/contract-starter@1.2.0.RELEASE
 - pkg:maven/com.jd.blockchain/contract-starter@1.2.1.RELEASE
 - pkg:maven/com.jd.blockchain/contract-starter@1.3.0.RELEASE
+- pkg:maven/com.jd.blockchain/contract-starter@1.4.0.RELEASE
+- pkg:maven/com.jd.blockchain/contract-starter@1.4.1.RELEASE
+- pkg:maven/com.jd.blockchain/contract-starter@1.4.2.RELEASE

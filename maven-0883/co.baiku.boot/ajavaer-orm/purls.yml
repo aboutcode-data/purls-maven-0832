@@ -1,0 +1,6 @@
+- pkg:maven/co.baiku.boot/ajavaer-orm@0.0.1-RELEASE
+- pkg:maven/co.baiku.boot/ajavaer-orm@0.0.1-RELEASE?classifier=sources
+- pkg:maven/co.baiku.boot/ajavaer-orm@0.0.2-RELEASE
+- pkg:maven/co.baiku.boot/ajavaer-orm@0.0.2-RELEASE?classifier=sources
+- pkg:maven/co.baiku.boot/ajavaer-orm@0.3.0-RELEASES
+- pkg:maven/co.baiku.boot/ajavaer-orm@0.3.0-RELEASES?classifier=sources

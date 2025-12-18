@@ -1,0 +1,2 @@
+- pkg:maven/com.grzm/pqconninfo.alpha@0.7.0
+- pkg:maven/com.grzm/pqconninfo.alpha@0.7.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.memoria.jutils/eventsourcing-adapter@0.229.0
+- pkg:maven/io.memoria.jutils/eventsourcing-adapter@0.229.0?classifier=sources
+- pkg:maven/io.memoria.jutils/eventsourcing-adapter@0.231.0
+- pkg:maven/io.memoria.jutils/eventsourcing-adapter@0.231.0?classifier=sources

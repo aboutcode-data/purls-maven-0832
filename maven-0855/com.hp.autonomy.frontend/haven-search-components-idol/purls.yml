@@ -310,6 +310,8 @@
 - pkg:maven/com.hp.autonomy.frontend/haven-search-components-idol@0.66.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend/haven-search-components-idol@0.67.0
 - pkg:maven/com.hp.autonomy.frontend/haven-search-components-idol@0.67.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend/haven-search-components-idol@0.68.0
+- pkg:maven/com.hp.autonomy.frontend/haven-search-components-idol@0.68.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend/haven-search-components-idol@0.7.0
 - pkg:maven/com.hp.autonomy.frontend/haven-search-components-idol@0.7.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend/haven-search-components-idol@0.7.1

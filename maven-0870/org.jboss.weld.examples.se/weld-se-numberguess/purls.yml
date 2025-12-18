@@ -324,6 +324,8 @@
 - pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@3.1.5.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@3.1.5.SP1
 - pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@3.1.5.SP1?classifier=sources
+- pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@3.1.6.Final
+- pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@3.1.6.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@4.0.0.Alpha1
 - pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@4.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@4.0.0.Alpha2
@@ -342,3 +344,5 @@
 - pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@4.0.0.Beta5?classifier=sources
 - pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@4.0.0.CR1
 - pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@4.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@4.0.0.Final
+- pkg:maven/org.jboss.weld.examples.se/weld-se-numberguess@4.0.0.Final?classifier=sources

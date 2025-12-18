@@ -180,6 +180,8 @@
 - pkg:maven/org.apache.camel/camel-mina2@2.25.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-mina2@2.25.2
 - pkg:maven/org.apache.camel/camel-mina2@2.25.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-mina2@2.25.3
+- pkg:maven/org.apache.camel/camel-mina2@2.25.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-mina2@2.9.1
 - pkg:maven/org.apache.camel/camel-mina2@2.9.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-mina2@2.9.2

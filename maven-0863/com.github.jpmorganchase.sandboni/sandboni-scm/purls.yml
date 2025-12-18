@@ -75,6 +75,8 @@
 - pkg:maven/com.github.jpmorganchase.sandboni/sandboni-scm@1.1.4
 - pkg:maven/com.github.jpmorganchase.sandboni/sandboni-scm@1.1.40
 - pkg:maven/com.github.jpmorganchase.sandboni/sandboni-scm@1.1.40?classifier=sources
+- pkg:maven/com.github.jpmorganchase.sandboni/sandboni-scm@1.1.44
+- pkg:maven/com.github.jpmorganchase.sandboni/sandboni-scm@1.1.44?classifier=sources
 - pkg:maven/com.github.jpmorganchase.sandboni/sandboni-scm@1.1.4?classifier=sources
 - pkg:maven/com.github.jpmorganchase.sandboni/sandboni-scm@1.1.5
 - pkg:maven/com.github.jpmorganchase.sandboni/sandboni-scm@1.1.5?classifier=sources

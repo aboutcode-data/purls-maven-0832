@@ -22,3 +22,4 @@
 - pkg:maven/org.teiid.wildfly.connectors/connector-salesforce-41@14.0.2
 - pkg:maven/org.teiid.wildfly.connectors/connector-salesforce-41@15.0.0
 - pkg:maven/org.teiid.wildfly.connectors/connector-salesforce-41@15.0.1
+- pkg:maven/org.teiid.wildfly.connectors/connector-salesforce-41@16.0.0

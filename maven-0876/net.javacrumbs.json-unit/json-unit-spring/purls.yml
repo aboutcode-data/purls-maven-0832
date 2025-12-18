@@ -122,6 +122,12 @@
 - pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.21.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.22.0
 - pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.22.0?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.22.1
+- pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.22.1?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.23.0
+- pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.23.0?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.24.0
+- pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.24.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.3.0
 - pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.3.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-spring@2.4.0

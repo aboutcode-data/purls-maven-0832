@@ -1,0 +1,2 @@
+- pkg:maven/de.qaware.tools.collection-cacheable-for-spring/collection-cacheable-for-spring-api@1.0.0
+- pkg:maven/de.qaware.tools.collection-cacheable-for-spring/collection-cacheable-for-spring-api@1.0.0?classifier=sources

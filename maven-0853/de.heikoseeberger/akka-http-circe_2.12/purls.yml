@@ -76,3 +76,5 @@
 - pkg:maven/de.heikoseeberger/akka-http-circe_2.12@1.35.0?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-http-circe_2.12@1.35.2
 - pkg:maven/de.heikoseeberger/akka-http-circe_2.12@1.35.2?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-circe_2.12@1.35.3
+- pkg:maven/de.heikoseeberger/akka-http-circe_2.12@1.35.3?classifier=sources

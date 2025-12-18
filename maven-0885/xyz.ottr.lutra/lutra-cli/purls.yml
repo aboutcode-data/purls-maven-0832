@@ -1,2 +1,4 @@
+- pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.10
+- pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.10?classifier=sources
 - pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.9
 - pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.9?classifier=sources

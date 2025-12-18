@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang/scaladoc_3.0.0-RC1@3.0.0-RC1
+- pkg:maven/org.scala-lang/scaladoc_3.0.0-RC1@3.0.0-RC1?classifier=sources

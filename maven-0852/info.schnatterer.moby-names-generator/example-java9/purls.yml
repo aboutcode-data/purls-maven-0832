@@ -1,0 +1,2 @@
+- pkg:maven/info.schnatterer.moby-names-generator/example-java9@20.10.1-r0
+- pkg:maven/info.schnatterer.moby-names-generator/example-java9@20.10.1-r0?classifier=sources

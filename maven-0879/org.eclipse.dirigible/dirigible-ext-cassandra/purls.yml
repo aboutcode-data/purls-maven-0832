@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-cassandra@5.8.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-cassandra@5.8.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.dyvil/library@0.44.1
+- pkg:maven/org.dyvil/library@0.44.1?classifier=sources
+- pkg:maven/org.dyvil/library@0.45.0
+- pkg:maven/org.dyvil/library@0.45.0?classifier=sources
+- pkg:maven/org.dyvil/library@0.46.0
+- pkg:maven/org.dyvil/library@0.46.0?classifier=sources
+- pkg:maven/org.dyvil/library@0.47.0
+- pkg:maven/org.dyvil/library@0.47.0?classifier=sources

@@ -238,6 +238,8 @@
 - pkg:maven/org.springframework/spring-aop@4.3.29.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@4.3.3.RELEASE
 - pkg:maven/org.springframework/spring-aop@4.3.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-aop@4.3.30.RELEASE
+- pkg:maven/org.springframework/spring-aop@4.3.30.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@4.3.4.RELEASE
 - pkg:maven/org.springframework/spring-aop@4.3.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@4.3.5.RELEASE
@@ -276,6 +278,8 @@
 - pkg:maven/org.springframework/spring-aop@5.0.19.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.0.2.RELEASE
 - pkg:maven/org.springframework/spring-aop@5.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-aop@5.0.20.RELEASE
+- pkg:maven/org.springframework/spring-aop@5.0.20.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.0.3.RELEASE
 - pkg:maven/org.springframework/spring-aop@5.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.0.4.RELEASE
@@ -316,6 +320,8 @@
 - pkg:maven/org.springframework/spring-aop@5.1.19.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.1.2.RELEASE
 - pkg:maven/org.springframework/spring-aop@5.1.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-aop@5.1.20.RELEASE
+- pkg:maven/org.springframework/spring-aop@5.1.20.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.1.3.RELEASE
 - pkg:maven/org.springframework/spring-aop@5.1.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.1.4.RELEASE
@@ -338,6 +344,10 @@
 - pkg:maven/org.springframework/spring-aop@5.2.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.2.11.RELEASE
 - pkg:maven/org.springframework/spring-aop@5.2.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-aop@5.2.12.RELEASE
+- pkg:maven/org.springframework/spring-aop@5.2.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-aop@5.2.13.RELEASE
+- pkg:maven/org.springframework/spring-aop@5.2.13.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.2.2.RELEASE
 - pkg:maven/org.springframework/spring-aop@5.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.2.3.RELEASE
@@ -356,3 +366,6 @@
 - pkg:maven/org.springframework/spring-aop@5.2.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.3.0?classifier=sources
 - pkg:maven/org.springframework/spring-aop@5.3.1?classifier=sources
+- pkg:maven/org.springframework/spring-aop@5.3.2?classifier=sources
+- pkg:maven/org.springframework/spring-aop@5.3.3?classifier=sources
+- pkg:maven/org.springframework/spring-aop@5.3.4?classifier=sources

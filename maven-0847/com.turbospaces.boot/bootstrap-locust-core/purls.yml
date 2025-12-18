@@ -1,0 +1,2 @@
+- pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.3
+- pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.3?classifier=sources

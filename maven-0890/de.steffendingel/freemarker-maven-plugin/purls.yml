@@ -1,0 +1,2 @@
+- pkg:maven/de.steffendingel/freemarker-maven-plugin@1.0.0
+- pkg:maven/de.steffendingel/freemarker-maven-plugin@1.0.0?classifier=sources

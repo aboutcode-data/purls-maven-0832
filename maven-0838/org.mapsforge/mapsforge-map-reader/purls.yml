@@ -8,6 +8,8 @@
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.13.0?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.14.0
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.14.0?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.15.0
+- pkg:maven/org.mapsforge/mapsforge-map-reader@0.15.0?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.4.1
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.4.1?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-map-reader@0.4.2

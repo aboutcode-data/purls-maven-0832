@@ -25,6 +25,14 @@
 - pkg:maven/com.github.gentity/gentity-test@0.20?classifier=sources
 - pkg:maven/com.github.gentity/gentity-test@0.21
 - pkg:maven/com.github.gentity/gentity-test@0.21?classifier=sources
+- pkg:maven/com.github.gentity/gentity-test@0.22
+- pkg:maven/com.github.gentity/gentity-test@0.22?classifier=sources
+- pkg:maven/com.github.gentity/gentity-test@0.23
+- pkg:maven/com.github.gentity/gentity-test@0.23?classifier=sources
+- pkg:maven/com.github.gentity/gentity-test@0.24
+- pkg:maven/com.github.gentity/gentity-test@0.24?classifier=sources
+- pkg:maven/com.github.gentity/gentity-test@0.25
+- pkg:maven/com.github.gentity/gentity-test@0.25?classifier=sources
 - pkg:maven/com.github.gentity/gentity-test@0.2?classifier=sources
 - pkg:maven/com.github.gentity/gentity-test@0.3
 - pkg:maven/com.github.gentity/gentity-test@0.3?classifier=sources

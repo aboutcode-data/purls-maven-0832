@@ -156,10 +156,16 @@
 - pkg:maven/org.kie/kie-performance-kit@7.46.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-performance-kit@7.47.0.Final
 - pkg:maven/org.kie/kie-performance-kit@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-performance-kit@7.48.0.Final
+- pkg:maven/org.kie/kie-performance-kit@7.48.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-performance-kit@7.49.0.Final
+- pkg:maven/org.kie/kie-performance-kit@7.49.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-performance-kit@7.5.0.Final
 - pkg:maven/org.kie/kie-performance-kit@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-performance-kit@7.5.0.t018
 - pkg:maven/org.kie/kie-performance-kit@7.5.0.t018?classifier=sources
+- pkg:maven/org.kie/kie-performance-kit@7.50.0.Final
+- pkg:maven/org.kie/kie-performance-kit@7.50.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-performance-kit@7.6.0.Final
 - pkg:maven/org.kie/kie-performance-kit@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-performance-kit@7.6.0.t022

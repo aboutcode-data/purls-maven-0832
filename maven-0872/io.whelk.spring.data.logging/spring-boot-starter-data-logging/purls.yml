@@ -1,0 +1,4 @@
+- pkg:maven/io.whelk.spring.data.logging/spring-boot-starter-data-logging@0.1.1
+- pkg:maven/io.whelk.spring.data.logging/spring-boot-starter-data-logging@0.1.1?classifier=sources
+- pkg:maven/io.whelk.spring.data.logging/spring-boot-starter-data-logging@0.1.2
+- pkg:maven/io.whelk.spring.data.logging/spring-boot-starter-data-logging@0.1.2?classifier=sources

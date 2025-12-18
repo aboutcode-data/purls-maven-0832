@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/featran-xgboost_3.0.0-M3@0.8.0-RC1
+- pkg:maven/com.spotify/featran-xgboost_3.0.0-M3@0.8.0-RC1?classifier=sources

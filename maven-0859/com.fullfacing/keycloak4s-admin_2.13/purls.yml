@@ -38,3 +38,5 @@
 - pkg:maven/com.fullfacing/keycloak4s-admin_2.13@2.2.9?classifier=sources
 - pkg:maven/com.fullfacing/keycloak4s-admin_2.13@2.3.0
 - pkg:maven/com.fullfacing/keycloak4s-admin_2.13@2.3.0?classifier=sources
+- pkg:maven/com.fullfacing/keycloak4s-admin_2.13@2.4.0
+- pkg:maven/com.fullfacing/keycloak4s-admin_2.13@2.4.0?classifier=sources

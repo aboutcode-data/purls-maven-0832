@@ -1,0 +1,8 @@
+- pkg:maven/nl.vpro.media/media-tva@5.20.2
+- pkg:maven/nl.vpro.media/media-tva@5.20.2?classifier=sources
+- pkg:maven/nl.vpro.media/media-tva@5.21.0
+- pkg:maven/nl.vpro.media/media-tva@5.21.0?classifier=sources
+- pkg:maven/nl.vpro.media/media-tva@5.22.0
+- pkg:maven/nl.vpro.media/media-tva@5.22.0?classifier=sources
+- pkg:maven/nl.vpro.media/media-tva@5.23.0
+- pkg:maven/nl.vpro.media/media-tva@5.23.0?classifier=sources

@@ -74,4 +74,7 @@
 - pkg:maven/com.google.appengine/appengine-endpoints-deps@1.9.81
 - pkg:maven/com.google.appengine/appengine-endpoints-deps@1.9.82
 - pkg:maven/com.google.appengine/appengine-endpoints-deps@1.9.83
+- pkg:maven/com.google.appengine/appengine-endpoints-deps@1.9.84
+- pkg:maven/com.google.appengine/appengine-endpoints-deps@1.9.85
+- pkg:maven/com.google.appengine/appengine-endpoints-deps@1.9.86
 - pkg:maven/com.google.appengine/appengine-endpoints-deps@1.9.9

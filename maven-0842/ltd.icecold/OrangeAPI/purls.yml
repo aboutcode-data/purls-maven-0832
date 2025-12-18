@@ -1,0 +1,4 @@
+- pkg:maven/ltd.icecold/OrangeAPI@1.0.0
+- pkg:maven/ltd.icecold/OrangeAPI@1.0.0?classifier=sources
+- pkg:maven/ltd.icecold/OrangeAPI@1.0.1
+- pkg:maven/ltd.icecold/OrangeAPI@1.0.1?classifier=sources

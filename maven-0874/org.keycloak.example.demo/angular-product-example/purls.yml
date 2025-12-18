@@ -1,0 +1,4 @@
+- pkg:maven/org.keycloak.example.demo/angular-product-example@12.0.0?type=war
+- pkg:maven/org.keycloak.example.demo/angular-product-example@12.0.1?type=war
+- pkg:maven/org.keycloak.example.demo/angular-product-example@12.0.2?type=war
+- pkg:maven/org.keycloak.example.demo/angular-product-example@12.0.3?type=war

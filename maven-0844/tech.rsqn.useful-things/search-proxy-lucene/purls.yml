@@ -26,3 +26,7 @@
 - pkg:maven/tech.rsqn.useful-things/search-proxy-lucene@1.0.28
 - pkg:maven/tech.rsqn.useful-things/search-proxy-lucene@1.0.28?classifier=sources
 - pkg:maven/tech.rsqn.useful-things/search-proxy-lucene@1.0.2?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/search-proxy-lucene@1.0.3
+- pkg:maven/tech.rsqn.useful-things/search-proxy-lucene@1.0.3?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/search-proxy-lucene@1.0.4
+- pkg:maven/tech.rsqn.useful-things/search-proxy-lucene@1.0.4?classifier=sources

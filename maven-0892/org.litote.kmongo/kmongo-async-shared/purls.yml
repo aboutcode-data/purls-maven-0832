@@ -74,3 +74,7 @@
 - pkg:maven/org.litote.kmongo/kmongo-async-shared@4.2.1?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-async-shared@4.2.2
 - pkg:maven/org.litote.kmongo/kmongo-async-shared@4.2.2?classifier=sources
+- pkg:maven/org.litote.kmongo/kmongo-async-shared@4.2.3
+- pkg:maven/org.litote.kmongo/kmongo-async-shared@4.2.3?classifier=sources
+- pkg:maven/org.litote.kmongo/kmongo-async-shared@4.2.4
+- pkg:maven/org.litote.kmongo/kmongo-async-shared@4.2.4?classifier=sources

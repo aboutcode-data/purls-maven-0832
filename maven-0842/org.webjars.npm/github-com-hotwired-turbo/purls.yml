@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-hotwired-turbo@7.0.0-beta.1
+- pkg:maven/org.webjars.npm/github-com-hotwired-turbo@7.0.0-beta.1?classifier=sources

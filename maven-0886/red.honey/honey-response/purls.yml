@@ -1,0 +1,2 @@
+- pkg:maven/red.honey/honey-response@1.0.0
+- pkg:maven/red.honey/honey-response@1.0.0?classifier=sources

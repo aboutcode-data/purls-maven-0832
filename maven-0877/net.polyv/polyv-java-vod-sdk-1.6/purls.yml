@@ -1,0 +1,2 @@
+- pkg:maven/net.polyv/polyv-java-vod-sdk-1.6@1.0.22
+- pkg:maven/net.polyv/polyv-java-vod-sdk-1.6@1.0.22?classifier=sources

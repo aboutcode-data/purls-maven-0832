@@ -1,0 +1,5 @@
+- pkg:maven/com.alachisoft/security@5.2-alpha-14
+- pkg:maven/com.alachisoft/security@5.2-alpha-14?classifier=sources
+- pkg:maven/com.alachisoft/security@5.2-alpha-15
+- pkg:maven/com.alachisoft/security@5.2-alpha-16
+- pkg:maven/com.alachisoft/security@5.2-alpha-16?classifier=sources

@@ -28,3 +28,13 @@
 - pkg:maven/ky.korins/blake3_2.13@1.9.0?classifier=sources
 - pkg:maven/ky.korins/blake3_2.13@2.0.0
 - pkg:maven/ky.korins/blake3_2.13@2.0.0?classifier=sources
+- pkg:maven/ky.korins/blake3_2.13@2.0.1
+- pkg:maven/ky.korins/blake3_2.13@2.0.1?classifier=sources
+- pkg:maven/ky.korins/blake3_2.13@2.1.0
+- pkg:maven/ky.korins/blake3_2.13@2.1.0-0-6476b6e4-20210104-1114
+- pkg:maven/ky.korins/blake3_2.13@2.1.0-0-6476b6e4-20210104-1114?classifier=sources
+- pkg:maven/ky.korins/blake3_2.13@2.1.0?classifier=sources
+- pkg:maven/ky.korins/blake3_2.13@2.2.0
+- pkg:maven/ky.korins/blake3_2.13@2.2.0?classifier=sources
+- pkg:maven/ky.korins/blake3_2.13@2.3.0
+- pkg:maven/ky.korins/blake3_2.13@2.3.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.4.0?classifier=sources
 - pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.5.0
 - pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.5.0?classifier=sources
+- pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.6.0
+- pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.6.0?classifier=sources

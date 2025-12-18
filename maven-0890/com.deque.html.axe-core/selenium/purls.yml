@@ -1,4 +1,10 @@
+- pkg:maven/com.deque.html.axe-core/selenium@1.0.5
+- pkg:maven/com.deque.html.axe-core/selenium@1.0.5?classifier=sources
+- pkg:maven/com.deque.html.axe-core/selenium@1.0.6
+- pkg:maven/com.deque.html.axe-core/selenium@1.0.6?classifier=sources
 - pkg:maven/com.deque.html.axe-core/selenium@4.0.0
 - pkg:maven/com.deque.html.axe-core/selenium@4.0.0?classifier=sources
 - pkg:maven/com.deque.html.axe-core/selenium@4.1.0
 - pkg:maven/com.deque.html.axe-core/selenium@4.1.0?classifier=sources
+- pkg:maven/com.deque.html.axe-core/selenium@4.1.1
+- pkg:maven/com.deque.html.axe-core/selenium@4.1.1?classifier=sources

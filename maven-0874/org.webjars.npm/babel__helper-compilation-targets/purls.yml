@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/babel__helper-compilation-targets@7.10.4
 - pkg:maven/org.webjars.npm/babel__helper-compilation-targets@7.10.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-compilation-targets@7.12.5
+- pkg:maven/org.webjars.npm/babel__helper-compilation-targets@7.12.5?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-compilation-targets@7.8.3
 - pkg:maven/org.webjars.npm/babel__helper-compilation-targets@7.8.3?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-compilation-targets@7.8.4

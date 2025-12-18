@@ -1,2 +1,8 @@
 - pkg:maven/org.typelevel/cats-free_3.0.0-M2@2.3.0
 - pkg:maven/org.typelevel/cats-free_3.0.0-M2@2.3.0?classifier=sources
+- pkg:maven/org.typelevel/cats-free_3.0.0-M2@2.3.1
+- pkg:maven/org.typelevel/cats-free_3.0.0-M2@2.3.1?classifier=sources
+- pkg:maven/org.typelevel/cats-free_3.0.0-M2@2.4.0
+- pkg:maven/org.typelevel/cats-free_3.0.0-M2@2.4.0?classifier=sources
+- pkg:maven/org.typelevel/cats-free_3.0.0-M2@2.4.1
+- pkg:maven/org.typelevel/cats-free_3.0.0-M2@2.4.1?classifier=sources

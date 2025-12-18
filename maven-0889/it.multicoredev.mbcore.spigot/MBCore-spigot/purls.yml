@@ -2,3 +2,5 @@
 - pkg:maven/it.multicoredev.mbcore.spigot/MBCore-spigot@6.0.4?classifier=sources
 - pkg:maven/it.multicoredev.mbcore.spigot/MBCore-spigot@7.0.1
 - pkg:maven/it.multicoredev.mbcore.spigot/MBCore-spigot@7.0.1?classifier=sources
+- pkg:maven/it.multicoredev.mbcore.spigot/MBCore-spigot@7.0.3
+- pkg:maven/it.multicoredev.mbcore.spigot/MBCore-spigot@7.0.3?classifier=sources

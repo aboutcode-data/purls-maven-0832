@@ -42,3 +42,5 @@
 - pkg:maven/org.scala-sbt/io_2.13@1.4.0-M8
 - pkg:maven/org.scala-sbt/io_2.13@1.4.0-M8?classifier=sources
 - pkg:maven/org.scala-sbt/io_2.13@1.4.0?classifier=sources
+- pkg:maven/org.scala-sbt/io_2.13@1.5.0-M1
+- pkg:maven/org.scala-sbt/io_2.13@1.5.0-M1?classifier=sources

@@ -72,6 +72,8 @@
 - pkg:maven/com.networknt/tram-consumer-kafka@1.6.1?classifier=sources
 - pkg:maven/com.networknt/tram-consumer-kafka@1.6.2
 - pkg:maven/com.networknt/tram-consumer-kafka@1.6.2?classifier=sources
+- pkg:maven/com.networknt/tram-consumer-kafka@1.6.30
+- pkg:maven/com.networknt/tram-consumer-kafka@1.6.30?classifier=sources
 - pkg:maven/com.networknt/tram-consumer-kafka@1.6.4
 - pkg:maven/com.networknt/tram-consumer-kafka@1.6.4?classifier=sources
 - pkg:maven/com.networknt/tram-consumer-kafka@1.6.5

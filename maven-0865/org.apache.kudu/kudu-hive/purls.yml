@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.kudu/kudu-hive@1.12.0?classifier=sources
 - pkg:maven/org.apache.kudu/kudu-hive@1.13.0
 - pkg:maven/org.apache.kudu/kudu-hive@1.13.0?classifier=sources
+- pkg:maven/org.apache.kudu/kudu-hive@1.14.0
+- pkg:maven/org.apache.kudu/kudu-hive@1.14.0?classifier=sources

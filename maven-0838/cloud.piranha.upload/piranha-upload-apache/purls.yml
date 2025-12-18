@@ -2,6 +2,8 @@
 - pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.10.0?classifier=sources
 - pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.11.0
 - pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.11.0?classifier=sources
+- pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.12.0
+- pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.12.0?classifier=sources
 - pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.5.0
 - pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.5.0?classifier=sources
 - pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.6.0
@@ -12,3 +14,5 @@
 - pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.8.0?classifier=sources
 - pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.9.0
 - pkg:maven/cloud.piranha.upload/piranha-upload-apache@20.9.0?classifier=sources
+- pkg:maven/cloud.piranha.upload/piranha-upload-apache@21.1.0
+- pkg:maven/cloud.piranha.upload/piranha-upload-apache@21.1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/net.cactusthorn.routing/validation-javax@0.25
+- pkg:maven/net.cactusthorn.routing/validation-javax@0.25?classifier=sources
+- pkg:maven/net.cactusthorn.routing/validation-javax@0.26
+- pkg:maven/net.cactusthorn.routing/validation-javax@0.26?classifier=sources
+- pkg:maven/net.cactusthorn.routing/validation-javax@0.27
+- pkg:maven/net.cactusthorn.routing/validation-javax@0.27?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/org.teiid.wildfly/teiid-wildfly@14.0.2?classifier=src&type=zip
 - pkg:maven/org.teiid.wildfly/teiid-wildfly@15.0.0?classifier=src&type=zip
 - pkg:maven/org.teiid.wildfly/teiid-wildfly@15.0.1?classifier=src&type=zip
+- pkg:maven/org.teiid.wildfly/teiid-wildfly@16.0.0?classifier=src&type=zip

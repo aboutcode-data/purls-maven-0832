@@ -1,0 +1,2 @@
+- pkg:maven/com.ionoscloud/ionos-cloud-sdk@5.0.0?classifier=sources
+- pkg:maven/com.ionoscloud/ionos-cloud-sdk@5.0.1?classifier=sources

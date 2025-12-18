@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/monitoring-core-common@1.1.0.Final
+- pkg:maven/org.kie.kogito/monitoring-core-common@1.1.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/monitoring-core-common@1.2.0.Final
+- pkg:maven/org.kie.kogito/monitoring-core-common@1.2.0.Final?classifier=sources

@@ -14,3 +14,15 @@
 - pkg:maven/org.scorexfoundation/sigma-state_2.11@3.3.2?classifier=sources
 - pkg:maven/org.scorexfoundation/sigma-state_2.11@3.3.3
 - pkg:maven/org.scorexfoundation/sigma-state_2.11@3.3.3?classifier=sources
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@3.3.4-RC4
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@3.3.4-RC4?classifier=sources
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0.0
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0.0-J8
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0.0-J8?classifier=sources
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0.0-java8
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0.0-java8?classifier=sources
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0.0?classifier=sources
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0.1
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0.1?classifier=sources
+- pkg:maven/org.scorexfoundation/sigma-state_2.11@4.0?classifier=sources

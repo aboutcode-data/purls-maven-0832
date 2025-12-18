@@ -14,3 +14,9 @@
 - pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.0.0-alpha-5
 - pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.0.0-beta-1
 - pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.0.0-beta-2
+- pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.0.1-7
+- pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.0.1-8
+- pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.0.1-9
+- pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.0.2-10
+- pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.0.2-11
+- pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.0.2-12

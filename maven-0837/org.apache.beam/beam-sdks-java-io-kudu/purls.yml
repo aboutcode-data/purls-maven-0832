@@ -29,6 +29,8 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.24.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.24.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.25.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.26.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.27.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.7.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.7.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kudu@2.8.0

@@ -366,3 +366,13 @@
 - pkg:maven/no.nav.common/feature-toggle@2.2020.11.04_12.14-2f2d89c3992e?classifier=sources
 - pkg:maven/no.nav.common/feature-toggle@2.2020.11.25_13.46-a7ba8251568a
 - pkg:maven/no.nav.common/feature-toggle@2.2020.11.25_13.46-a7ba8251568a?classifier=sources
+- pkg:maven/no.nav.common/feature-toggle@2.2021.01.04_07.54-f12e91e62d5b
+- pkg:maven/no.nav.common/feature-toggle@2.2021.01.04_07.54-f12e91e62d5b?classifier=sources
+- pkg:maven/no.nav.common/feature-toggle@2.2021.01.05_08.07-2c586ccadf95
+- pkg:maven/no.nav.common/feature-toggle@2.2021.01.05_08.07-2c586ccadf95?classifier=sources
+- pkg:maven/no.nav.common/feature-toggle@2.2021.01.26_14.08-0d410b34f6a3
+- pkg:maven/no.nav.common/feature-toggle@2.2021.01.26_14.08-0d410b34f6a3?classifier=sources
+- pkg:maven/no.nav.common/feature-toggle@2.2021.02.03_08.08-9d0c8281f06b
+- pkg:maven/no.nav.common/feature-toggle@2.2021.02.03_08.08-9d0c8281f06b?classifier=sources
+- pkg:maven/no.nav.common/feature-toggle@2.2021.02.08_08.29-beea07de78ad
+- pkg:maven/no.nav.common/feature-toggle@2.2021.02.08_08.29-beea07de78ad?classifier=sources

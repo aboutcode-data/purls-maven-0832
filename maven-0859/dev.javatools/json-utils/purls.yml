@@ -1,0 +1,6 @@
+- pkg:maven/dev.javatools/json-utils@0.0.1
+- pkg:maven/dev.javatools/json-utils@0.0.1?classifier=sources
+- pkg:maven/dev.javatools/json-utils@0.0.5
+- pkg:maven/dev.javatools/json-utils@0.0.5?classifier=sources
+- pkg:maven/dev.javatools/json-utils@1.0.1
+- pkg:maven/dev.javatools/json-utils@1.0.1?classifier=sources

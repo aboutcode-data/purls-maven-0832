@@ -1,0 +1,4 @@
+- pkg:maven/net.sc8s/lagom-circe-testkit_2.13@0.7.1
+- pkg:maven/net.sc8s/lagom-circe-testkit_2.13@0.7.1?classifier=sources
+- pkg:maven/net.sc8s/lagom-circe-testkit_2.13@0.7.2
+- pkg:maven/net.sc8s/lagom-circe-testkit_2.13@0.7.2?classifier=sources

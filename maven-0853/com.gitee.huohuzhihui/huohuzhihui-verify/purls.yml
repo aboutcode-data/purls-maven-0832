@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.huohuzhihui/huohuzhihui-verify@1.0.3.RELEASE
+- pkg:maven/com.gitee.huohuzhihui/huohuzhihui-verify@1.0.3.RELEASE?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/de.sciss/scalacolliderswing-plotting_3.0.0-M2@2.4.1
+- pkg:maven/de.sciss/scalacolliderswing-plotting_3.0.0-M2@2.4.1?classifier=sources
+- pkg:maven/de.sciss/scalacolliderswing-plotting_3.0.0-M2@2.5.0
+- pkg:maven/de.sciss/scalacolliderswing-plotting_3.0.0-M2@2.5.0?classifier=sources
+- pkg:maven/de.sciss/scalacolliderswing-plotting_3.0.0-M2@2.6.0
+- pkg:maven/de.sciss/scalacolliderswing-plotting_3.0.0-M2@2.6.0?classifier=sources

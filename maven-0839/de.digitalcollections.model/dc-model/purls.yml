@@ -24,3 +24,7 @@
 - pkg:maven/de.digitalcollections.model/dc-model@7.0.0?classifier=sources
 - pkg:maven/de.digitalcollections.model/dc-model@8.0.0
 - pkg:maven/de.digitalcollections.model/dc-model@8.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.model/dc-model@8.1.0
+- pkg:maven/de.digitalcollections.model/dc-model@8.1.0?classifier=sources
+- pkg:maven/de.digitalcollections.model/dc-model@8.2.0
+- pkg:maven/de.digitalcollections.model/dc-model@8.2.0?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/com.github.mohitgoyal91/cosmosdbquery-utils@1.5.0?classifier=sources
 - pkg:maven/com.github.mohitgoyal91/cosmosdbquery-utils@1.6.0
 - pkg:maven/com.github.mohitgoyal91/cosmosdbquery-utils@1.6.0?classifier=sources
+- pkg:maven/com.github.mohitgoyal91/cosmosdbquery-utils@1.6.10
+- pkg:maven/com.github.mohitgoyal91/cosmosdbquery-utils@1.6.10?classifier=sources
 - pkg:maven/com.github.mohitgoyal91/cosmosdbquery-utils@1.6.3
 - pkg:maven/com.github.mohitgoyal91/cosmosdbquery-utils@1.6.3?classifier=sources
 - pkg:maven/com.github.mohitgoyal91/cosmosdbquery-utils@1.6.4

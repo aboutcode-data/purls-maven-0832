@@ -14,9 +14,13 @@
 - pkg:maven/org.opencastproject/opencast-dublincore@7.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@7.8
 - pkg:maven/org.opencastproject/opencast-dublincore@7.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-dublincore@7.9
+- pkg:maven/org.opencastproject/opencast-dublincore@7.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@8.0
 - pkg:maven/org.opencastproject/opencast-dublincore@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@8.1
+- pkg:maven/org.opencastproject/opencast-dublincore@8.10
+- pkg:maven/org.opencastproject/opencast-dublincore@8.10?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@8.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@8.3
 - pkg:maven/org.opencastproject/opencast-dublincore@8.3?classifier=sources
@@ -28,3 +32,11 @@
 - pkg:maven/org.opencastproject/opencast-dublincore@8.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dublincore@8.7
 - pkg:maven/org.opencastproject/opencast-dublincore@8.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-dublincore@8.8
+- pkg:maven/org.opencastproject/opencast-dublincore@8.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-dublincore@8.9
+- pkg:maven/org.opencastproject/opencast-dublincore@8.9?classifier=sources
+- pkg:maven/org.opencastproject/opencast-dublincore@9.0
+- pkg:maven/org.opencastproject/opencast-dublincore@9.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-dublincore@9.1
+- pkg:maven/org.opencastproject/opencast-dublincore@9.1?classifier=sources

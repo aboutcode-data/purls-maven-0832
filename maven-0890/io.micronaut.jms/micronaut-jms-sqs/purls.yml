@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.jms/micronaut-jms-sqs@1.0.0.M1?classifier=sources

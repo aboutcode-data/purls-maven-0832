@@ -1,0 +1,5 @@
+- pkg:maven/com.github.embuc/nano2fa@1.3?classifier=sources
+- pkg:maven/com.github.embuc/nano2fa@1.4
+- pkg:maven/com.github.embuc/nano2fa@1.4?classifier=sources
+- pkg:maven/com.github.embuc/nano2fa@1.5
+- pkg:maven/com.github.embuc/nano2fa@1.5?classifier=sources

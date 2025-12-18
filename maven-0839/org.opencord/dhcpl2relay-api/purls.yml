@@ -20,3 +20,5 @@
 - pkg:maven/org.opencord/dhcpl2relay-api@2.2.1?classifier=sources
 - pkg:maven/org.opencord/dhcpl2relay-api@2.2.2
 - pkg:maven/org.opencord/dhcpl2relay-api@2.2.2?classifier=sources
+- pkg:maven/org.opencord/dhcpl2relay-api@2.3.0
+- pkg:maven/org.opencord/dhcpl2relay-api@2.3.0?classifier=sources

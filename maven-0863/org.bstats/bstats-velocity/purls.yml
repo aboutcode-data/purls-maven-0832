@@ -1,0 +1,2 @@
+- pkg:maven/org.bstats/bstats-velocity@2.2.0?classifier=sources
+- pkg:maven/org.bstats/bstats-velocity@2.2.1?classifier=sources

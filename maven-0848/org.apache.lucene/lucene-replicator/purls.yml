@@ -158,3 +158,5 @@
 - pkg:maven/org.apache.lucene/lucene-replicator@8.6.3?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-replicator@8.7.0
 - pkg:maven/org.apache.lucene/lucene-replicator@8.7.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-replicator@8.8.0
+- pkg:maven/org.apache.lucene/lucene-replicator@8.8.0?classifier=sources

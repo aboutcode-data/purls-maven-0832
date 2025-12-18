@@ -1,4 +1,12 @@
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.0.0-1017
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.0.0-1017?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.0.0-1030
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.0.0-1030?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.0.1-1024
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.0.1-1024?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-storage-api@11.1.0-1029
 - pkg:maven/com.sdl.delivery/udp-storage-api@11.1.0-1029?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.1.0-1043
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.1.0-1043?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-storage-api@11.5.0-1048
 - pkg:maven/com.sdl.delivery/udp-storage-api@11.5.0-1048?classifier=sources

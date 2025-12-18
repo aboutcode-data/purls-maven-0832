@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lapesd.rdfit/rdfit-commons-rdf-jena@1.0.4
+- pkg:maven/com.github.lapesd.rdfit/rdfit-commons-rdf-jena@1.0.4?classifier=sources

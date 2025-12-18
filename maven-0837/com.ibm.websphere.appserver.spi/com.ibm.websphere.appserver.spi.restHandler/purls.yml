@@ -38,3 +38,4 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@2.0.45
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@2.0.46
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@2.0.47
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.restHandler@2.0.48

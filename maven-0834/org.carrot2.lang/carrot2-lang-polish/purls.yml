@@ -9,3 +9,4 @@
 - pkg:maven/org.carrot2.lang/carrot2-lang-polish@4.0.2?classifier=sources
 - pkg:maven/org.carrot2.lang/carrot2-lang-polish@4.0.3?classifier=sources
 - pkg:maven/org.carrot2.lang/carrot2-lang-polish@4.0.4?classifier=sources
+- pkg:maven/org.carrot2.lang/carrot2-lang-polish@4.1.0?classifier=sources

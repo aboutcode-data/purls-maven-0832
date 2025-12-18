@@ -50,6 +50,8 @@
 - pkg:maven/org.webjars.npm/npm@6.12.0-next.0?classifier=sources
 - pkg:maven/org.webjars.npm/npm@6.13.1
 - pkg:maven/org.webjars.npm/npm@6.13.1?classifier=sources
+- pkg:maven/org.webjars.npm/npm@6.14.11
+- pkg:maven/org.webjars.npm/npm@6.14.11?classifier=sources
 - pkg:maven/org.webjars.npm/npm@6.14.5
 - pkg:maven/org.webjars.npm/npm@6.14.5?classifier=sources
 - pkg:maven/org.webjars.npm/npm@6.14.8
@@ -60,3 +62,7 @@
 - pkg:maven/org.webjars.npm/npm@6.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/npm@6.9.1-next.0
 - pkg:maven/org.webjars.npm/npm@6.9.1-next.0?classifier=sources
+- pkg:maven/org.webjars.npm/npm@7.3.0
+- pkg:maven/org.webjars.npm/npm@7.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/npm@7.4.0
+- pkg:maven/org.webjars.npm/npm@7.4.0?classifier=sources

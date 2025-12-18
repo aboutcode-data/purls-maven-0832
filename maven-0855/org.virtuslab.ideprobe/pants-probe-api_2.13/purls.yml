@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab.ideprobe/pants-probe-api_2.13@0.4.0
+- pkg:maven/org.virtuslab.ideprobe/pants-probe-api_2.13@0.4.0?classifier=sources

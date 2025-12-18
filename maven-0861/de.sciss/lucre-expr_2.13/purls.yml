@@ -44,3 +44,9 @@
 - pkg:maven/de.sciss/lucre-expr_2.13@4.1.0?classifier=sources
 - pkg:maven/de.sciss/lucre-expr_2.13@4.2.0
 - pkg:maven/de.sciss/lucre-expr_2.13@4.2.0?classifier=sources
+- pkg:maven/de.sciss/lucre-expr_2.13@4.3.0
+- pkg:maven/de.sciss/lucre-expr_2.13@4.3.0?classifier=sources
+- pkg:maven/de.sciss/lucre-expr_2.13@4.4.0
+- pkg:maven/de.sciss/lucre-expr_2.13@4.4.0?classifier=sources
+- pkg:maven/de.sciss/lucre-expr_2.13@4.4.1
+- pkg:maven/de.sciss/lucre-expr_2.13@4.4.1?classifier=sources

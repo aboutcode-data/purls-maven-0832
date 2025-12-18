@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tadukoo.github/TadukooGitHub@0.1-Alpha
+- pkg:maven/com.github.tadukoo.github/TadukooGitHub@0.1-Alpha?classifier=sources

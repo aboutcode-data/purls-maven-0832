@@ -1,0 +1,6 @@
+- pkg:maven/io.quarkus/quarkus-micrometer-registry-prometheus-deployment@1.11.0.CR1
+- pkg:maven/io.quarkus/quarkus-micrometer-registry-prometheus-deployment@1.11.0.Final
+- pkg:maven/io.quarkus/quarkus-micrometer-registry-prometheus-deployment@1.11.1.Final
+- pkg:maven/io.quarkus/quarkus-micrometer-registry-prometheus-deployment@1.11.2.Final
+- pkg:maven/io.quarkus/quarkus-micrometer-registry-prometheus-deployment@1.11.3.Final
+- pkg:maven/io.quarkus/quarkus-micrometer-registry-prometheus-deployment@1.12.0.CR1

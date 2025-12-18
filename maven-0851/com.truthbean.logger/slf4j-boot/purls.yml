@@ -8,3 +8,5 @@
 - pkg:maven/com.truthbean.logger/slf4j-boot@0.3.0-RELEASE?classifier=sources
 - pkg:maven/com.truthbean.logger/slf4j-boot@0.3.1-RELEASE
 - pkg:maven/com.truthbean.logger/slf4j-boot@0.3.1-RELEASE?classifier=sources
+- pkg:maven/com.truthbean.logger/slf4j-boot@0.4.0-RELEASE
+- pkg:maven/com.truthbean.logger/slf4j-boot@0.4.0-RELEASE?classifier=sources

@@ -74,3 +74,5 @@
 - pkg:maven/com.ibm.cos/ibm-cos-java-sdk-s3@2.7.0?classifier=sources
 - pkg:maven/com.ibm.cos/ibm-cos-java-sdk-s3@2.8.0
 - pkg:maven/com.ibm.cos/ibm-cos-java-sdk-s3@2.8.0?classifier=sources
+- pkg:maven/com.ibm.cos/ibm-cos-java-sdk-s3@2.9.0
+- pkg:maven/com.ibm.cos/ibm-cos-java-sdk-s3@2.9.0?classifier=sources

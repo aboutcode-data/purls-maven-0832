@@ -288,5 +288,9 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.3.2?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.3.3
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.3.3?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.5.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.5.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.6.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.6.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@Finchley.1.0.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@Finchley.1.0.0?classifier=sources

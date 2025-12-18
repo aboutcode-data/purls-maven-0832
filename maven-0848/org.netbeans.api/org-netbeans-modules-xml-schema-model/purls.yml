@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-model@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-model@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-model@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-model@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-model@RELEASE90?classifier=sources

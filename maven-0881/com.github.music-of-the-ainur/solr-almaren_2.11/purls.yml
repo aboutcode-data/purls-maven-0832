@@ -12,3 +12,5 @@
 - pkg:maven/com.github.music-of-the-ainur/solr-almaren_2.11@0.2.5-2-4?classifier=sources
 - pkg:maven/com.github.music-of-the-ainur/solr-almaren_2.11@0.2.6-2-4
 - pkg:maven/com.github.music-of-the-ainur/solr-almaren_2.11@0.2.6-2-4?classifier=sources
+- pkg:maven/com.github.music-of-the-ainur/solr-almaren_2.11@0.2.9-2-4
+- pkg:maven/com.github.music-of-the-ainur/solr-almaren_2.11@0.2.9-2-4?classifier=sources

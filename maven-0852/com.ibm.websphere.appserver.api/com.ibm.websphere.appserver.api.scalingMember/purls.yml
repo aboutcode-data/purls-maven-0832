@@ -37,4 +37,5 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.scalingMember@1.0.45
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.scalingMember@1.0.46
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.scalingMember@1.0.47
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.scalingMember@1.0.48
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.scalingMember@1.0.9

@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/fingertree_3.0.0-M3@1.5.5
+- pkg:maven/de.sciss/fingertree_3.0.0-M3@1.5.5?classifier=sources

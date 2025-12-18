@@ -175,8 +175,12 @@
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.37?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.38
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.38?classifier=sources
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.39
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.39?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.3?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.4
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.40
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.40?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.4?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.5
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.5?classifier=sources

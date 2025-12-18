@@ -1,0 +1,2 @@
+- pkg:maven/systems.manifold/manifold-props-rt@2020.1.51
+- pkg:maven/systems.manifold/manifold-props-rt@2020.1.51?classifier=sources

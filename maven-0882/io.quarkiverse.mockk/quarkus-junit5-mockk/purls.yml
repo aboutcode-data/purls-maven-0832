@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.mockk/quarkus-junit5-mockk@0.1.0
+- pkg:maven/io.quarkiverse.mockk/quarkus-junit5-mockk@0.1.0?classifier=sources

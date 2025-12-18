@@ -3,6 +3,9 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.1
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.10
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.102
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.102?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.102?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.11
@@ -284,5 +287,14 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.95
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.95?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.95?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.96
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.96?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.96?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.97
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.97?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.97?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.98
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.98?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.98?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.9?classifier=sources-commercial
