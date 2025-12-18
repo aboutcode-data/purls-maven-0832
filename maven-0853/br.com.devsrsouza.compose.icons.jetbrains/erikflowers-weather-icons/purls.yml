@@ -1,1 +1,2 @@
 - pkg:maven/br.com.devsrsouza.compose.icons.jetbrains/erikflowers-weather-icons@0.2.0?classifier=sources
+- pkg:maven/br.com.devsrsouza.compose.icons.jetbrains/erikflowers-weather-icons@1.0.0?classifier=sources

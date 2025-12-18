@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletapi@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletapi@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletapi@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-servletapi@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletapi@RELEASE90?classifier=sources

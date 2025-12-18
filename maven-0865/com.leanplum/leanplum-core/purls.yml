@@ -19,6 +19,7 @@
 - pkg:maven/com.leanplum/leanplum-core@5.4.1?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.4.2?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.5.0?classifier=sources
+- pkg:maven/com.leanplum/leanplum-core@5.5.1?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.6.0?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.6.1-beta1?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.6.1-beta3?classifier=sources
@@ -26,4 +27,5 @@
 - pkg:maven/com.leanplum/leanplum-core@5.6.1?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.6.2-beta1?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.6.2?classifier=sources
+- pkg:maven/com.leanplum/leanplum-core@5.6.4?classifier=sources
 - pkg:maven/com.leanplum/leanplum-core@5.7.0?classifier=sources

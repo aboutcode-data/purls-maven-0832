@@ -1,0 +1,2 @@
+- pkg:maven/ch.dvbern.oss.datatypes/datatypes@3.0.2
+- pkg:maven/ch.dvbern.oss.datatypes/datatypes@3.0.2?classifier=sources

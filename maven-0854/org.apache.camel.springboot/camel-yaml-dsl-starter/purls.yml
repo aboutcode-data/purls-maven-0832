@@ -2,5 +2,9 @@
 - pkg:maven/org.apache.camel.springboot/camel-yaml-dsl-starter@3.10.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-yaml-dsl-starter@3.11.0
 - pkg:maven/org.apache.camel.springboot/camel-yaml-dsl-starter@3.11.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-yaml-dsl-starter@3.11.1
+- pkg:maven/org.apache.camel.springboot/camel-yaml-dsl-starter@3.11.1?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-yaml-dsl-starter@3.11.2
+- pkg:maven/org.apache.camel.springboot/camel-yaml-dsl-starter@3.11.2?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-yaml-dsl-starter@3.9.0
 - pkg:maven/org.apache.camel.springboot/camel-yaml-dsl-starter@3.9.0?classifier=sources

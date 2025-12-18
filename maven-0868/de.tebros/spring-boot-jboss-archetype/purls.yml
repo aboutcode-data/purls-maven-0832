@@ -1,0 +1,2 @@
+- pkg:maven/de.tebros/spring-boot-jboss-archetype@1.0.0?classifier=sources
+- pkg:maven/de.tebros/spring-boot-jboss-archetype@1.0.1?classifier=sources

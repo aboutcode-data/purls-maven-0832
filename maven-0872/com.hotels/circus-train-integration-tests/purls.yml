@@ -29,3 +29,4 @@
 - pkg:maven/com.hotels/circus-train-integration-tests@16.3.1
 - pkg:maven/com.hotels/circus-train-integration-tests@16.3.2
 - pkg:maven/com.hotels/circus-train-integration-tests@16.3.3
+- pkg:maven/com.hotels/circus-train-integration-tests@16.4.0

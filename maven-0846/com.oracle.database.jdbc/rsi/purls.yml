@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.database.jdbc/rsi@21.1.0.0
 - pkg:maven/com.oracle.database.jdbc/rsi@21.1.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/rsi@21.3.0.0
+- pkg:maven/com.oracle.database.jdbc/rsi@21.3.0.0?classifier=sources

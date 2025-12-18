@@ -22,3 +22,6 @@
 - pkg:maven/net.oneandone.ioc-unit/weld31-starter@2.0.38?classifier=sources
 - pkg:maven/net.oneandone.ioc-unit/weld31-starter@2.0.39
 - pkg:maven/net.oneandone.ioc-unit/weld31-starter@2.0.39?classifier=sources
+- pkg:maven/net.oneandone.ioc-unit/weld31-starter@2.0.40
+- pkg:maven/net.oneandone.ioc-unit/weld31-starter@2.0.40?classifier=sources
+- pkg:maven/net.oneandone.ioc-unit/weld31-starter@2.0.42?classifier=sources

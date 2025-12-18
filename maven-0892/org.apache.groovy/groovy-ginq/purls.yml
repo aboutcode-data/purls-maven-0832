@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.groovy/groovy-ginq@4.0.0-alpha-3?classifier=sources
+- pkg:maven/org.apache.groovy/groovy-ginq@4.0.0-beta-1?classifier=sources

@@ -1,5 +1,9 @@
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-api@0.1.0
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-api@0.1.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-api@0.10.0
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-api@0.10.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-api@0.10.1
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-api@0.10.1?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-api@0.2.0
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-api@0.2.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-api@0.3.0

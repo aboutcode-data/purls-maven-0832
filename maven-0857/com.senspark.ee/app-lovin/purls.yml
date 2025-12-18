@@ -1,3 +1,7 @@
+- pkg:maven/com.senspark.ee/app-lovin@2.10.0?classifier=sources
+- pkg:maven/com.senspark.ee/app-lovin@2.10.1?classifier=sources
+- pkg:maven/com.senspark.ee/app-lovin@2.10.2?classifier=sources
+- pkg:maven/com.senspark.ee/app-lovin@2.10.3?classifier=sources
 - pkg:maven/com.senspark.ee/app-lovin@2.7.0?classifier=sources
 - pkg:maven/com.senspark.ee/app-lovin@2.7.1?classifier=sources
 - pkg:maven/com.senspark.ee/app-lovin@2.7.2?classifier=sources

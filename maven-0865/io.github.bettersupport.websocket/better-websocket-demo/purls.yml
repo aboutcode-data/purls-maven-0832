@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bettersupport.websocket/better-websocket-demo@1.0.0
+- pkg:maven/io.github.bettersupport.websocket/better-websocket-demo@1.0.0?classifier=sources

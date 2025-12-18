@@ -1,1 +1,6 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.4.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.4.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.5.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.5.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.5.2-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-annotation-support@1.5.3-alpha?classifier=sources

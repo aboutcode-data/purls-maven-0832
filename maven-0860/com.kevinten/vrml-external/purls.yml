@@ -1,2 +1,4 @@
 - pkg:maven/com.kevinten/vrml-external@1.0.0
 - pkg:maven/com.kevinten/vrml-external@1.0.0?classifier=sources
+- pkg:maven/com.kevinten/vrml-external@1.0.1-RELEASE
+- pkg:maven/com.kevinten/vrml-external@1.0.1-RELEASE?classifier=sources

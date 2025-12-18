@@ -1,0 +1,2 @@
+- pkg:maven/org.infinispan/infinispan-logging-annotations@13.0.0.Dev04
+- pkg:maven/org.infinispan/infinispan-logging-annotations@13.0.0.Dev04?classifier=sources

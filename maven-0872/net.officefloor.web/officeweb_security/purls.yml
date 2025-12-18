@@ -76,8 +76,12 @@
 - pkg:maven/net.officefloor.web/officeweb_security@3.37.0?classifier=sources
 - pkg:maven/net.officefloor.web/officeweb_security@3.38.0
 - pkg:maven/net.officefloor.web/officeweb_security@3.38.0?classifier=sources
+- pkg:maven/net.officefloor.web/officeweb_security@3.39.0
+- pkg:maven/net.officefloor.web/officeweb_security@3.39.0?classifier=sources
 - pkg:maven/net.officefloor.web/officeweb_security@3.4.0
 - pkg:maven/net.officefloor.web/officeweb_security@3.4.0?classifier=sources
+- pkg:maven/net.officefloor.web/officeweb_security@3.40.0
+- pkg:maven/net.officefloor.web/officeweb_security@3.40.0?classifier=sources
 - pkg:maven/net.officefloor.web/officeweb_security@3.5.0
 - pkg:maven/net.officefloor.web/officeweb_security@3.5.0?classifier=sources
 - pkg:maven/net.officefloor.web/officeweb_security@3.5.1

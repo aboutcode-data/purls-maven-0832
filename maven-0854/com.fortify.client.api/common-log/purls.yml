@@ -2,3 +2,4 @@
 - pkg:maven/com.fortify.client.api/common-log@6.0.1.RELEASE?classifier=sources
 - pkg:maven/com.fortify.client.api/common-log@6.0.2.RELEASE?classifier=sources
 - pkg:maven/com.fortify.client.api/common-log@6.0.3.RELEASE?classifier=sources
+- pkg:maven/com.fortify.client.api/common-log@6.1.0.RELEASE?classifier=sources

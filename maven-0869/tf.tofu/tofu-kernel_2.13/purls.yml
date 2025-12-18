@@ -1,2 +1,4 @@
 - pkg:maven/tf.tofu/tofu-kernel_2.13@0.10.3
 - pkg:maven/tf.tofu/tofu-kernel_2.13@0.10.3?classifier=sources
+- pkg:maven/tf.tofu/tofu-kernel_2.13@0.10.4
+- pkg:maven/tf.tofu/tofu-kernel_2.13@0.10.4?classifier=sources

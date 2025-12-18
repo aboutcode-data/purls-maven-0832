@@ -5,3 +5,5 @@
 - pkg:maven/org.bitbucket.cpointe.habushu/habushu-mixology@0.1.6?classifier=sources
 - pkg:maven/org.bitbucket.cpointe.habushu/habushu-mixology@0.1.7?classifier=sources
 - pkg:maven/org.bitbucket.cpointe.habushu/habushu-mixology@0.1.8?classifier=sources
+- pkg:maven/org.bitbucket.cpointe.habushu/habushu-mixology@0.1.9?classifier=sources
+- pkg:maven/org.bitbucket.cpointe.habushu/habushu-mixology@1.0.0?classifier=sources

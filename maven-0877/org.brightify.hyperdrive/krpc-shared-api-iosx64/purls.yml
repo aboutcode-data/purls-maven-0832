@@ -1,0 +1,9 @@
+- pkg:maven/org.brightify.hyperdrive/krpc-shared-api-iosx64@0.1.100?classifier=sources
+- pkg:maven/org.brightify.hyperdrive/krpc-shared-api-iosx64@0.1.101?classifier=sources
+- pkg:maven/org.brightify.hyperdrive/krpc-shared-api-iosx64@0.1.102?classifier=sources
+- pkg:maven/org.brightify.hyperdrive/krpc-shared-api-iosx64@0.1.103?classifier=sources
+- pkg:maven/org.brightify.hyperdrive/krpc-shared-api-iosx64@0.1.104?classifier=sources
+- pkg:maven/org.brightify.hyperdrive/krpc-shared-api-iosx64@0.1.95?classifier=sources
+- pkg:maven/org.brightify.hyperdrive/krpc-shared-api-iosx64@0.1.97?classifier=sources
+- pkg:maven/org.brightify.hyperdrive/krpc-shared-api-iosx64@0.1.98?classifier=sources
+- pkg:maven/org.brightify.hyperdrive/krpc-shared-api-iosx64@0.1.99?classifier=sources

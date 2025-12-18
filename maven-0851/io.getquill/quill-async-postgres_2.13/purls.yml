@@ -1,3 +1,5 @@
+- pkg:maven/io.getquill/quill-async-postgres_2.13@3.10.0
+- pkg:maven/io.getquill/quill-async-postgres_2.13@3.10.0?classifier=sources
 - pkg:maven/io.getquill/quill-async-postgres_2.13@3.5.2
 - pkg:maven/io.getquill/quill-async-postgres_2.13@3.5.2?classifier=sources
 - pkg:maven/io.getquill/quill-async-postgres_2.13@3.5.3
@@ -20,3 +22,5 @@
 - pkg:maven/io.getquill/quill-async-postgres_2.13@3.7.2?classifier=sources
 - pkg:maven/io.getquill/quill-async-postgres_2.13@3.8.0
 - pkg:maven/io.getquill/quill-async-postgres_2.13@3.8.0?classifier=sources
+- pkg:maven/io.getquill/quill-async-postgres_2.13@3.9.0
+- pkg:maven/io.getquill/quill-async-postgres_2.13@3.9.0?classifier=sources

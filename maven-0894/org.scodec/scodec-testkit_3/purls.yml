@@ -16,6 +16,8 @@
 - pkg:maven/org.scodec/scodec-testkit_3@2.0-25-919f964?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_3@2.0-27-c568b49
 - pkg:maven/org.scodec/scodec-testkit_3@2.0-27-c568b49?classifier=sources
+- pkg:maven/org.scodec/scodec-testkit_3@2.0-30-bca1ad7
+- pkg:maven/org.scodec/scodec-testkit_3@2.0-30-bca1ad7?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_3@2.0-4-77a2b93
 - pkg:maven/org.scodec/scodec-testkit_3@2.0-4-77a2b93?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_3@2.0-7-57a80f8

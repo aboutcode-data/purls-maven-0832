@@ -7,6 +7,8 @@
 - pkg:maven/com.simbachain/libsimba4j@0.1.11?classifier=sources
 - pkg:maven/com.simbachain/libsimba4j@0.1.12
 - pkg:maven/com.simbachain/libsimba4j@0.1.12?classifier=sources
+- pkg:maven/com.simbachain/libsimba4j@0.1.13
+- pkg:maven/com.simbachain/libsimba4j@0.1.13?classifier=sources
 - pkg:maven/com.simbachain/libsimba4j@0.1.1?classifier=sources
 - pkg:maven/com.simbachain/libsimba4j@0.1.2
 - pkg:maven/com.simbachain/libsimba4j@0.1.2?classifier=sources

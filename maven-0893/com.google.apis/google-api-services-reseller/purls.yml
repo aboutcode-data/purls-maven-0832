@@ -86,6 +86,10 @@
 - pkg:maven/com.google.apis/google-api-services-reseller@v1-rev20210623-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-reseller@v1-rev20210623-1.32.1
 - pkg:maven/com.google.apis/google-api-services-reseller@v1-rev20210623-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-reseller@v1-rev20210720-1.32.1
+- pkg:maven/com.google.apis/google-api-services-reseller@v1-rev20210720-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-reseller@v1-rev20210904-1.32.1
+- pkg:maven/com.google.apis/google-api-services-reseller@v1-rev20210904-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-reseller@v1-rev21-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-reseller@v1-rev21-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-reseller@v1-rev21-1.14.2-beta

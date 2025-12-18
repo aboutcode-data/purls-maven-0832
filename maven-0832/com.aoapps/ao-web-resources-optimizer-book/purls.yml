@@ -1,0 +1,2 @@
+- pkg:maven/com.aoapps/ao-web-resources-optimizer-book@0.4.0
+- pkg:maven/com.aoapps/ao-web-resources-optimizer-book@0.4.0?classifier=sources

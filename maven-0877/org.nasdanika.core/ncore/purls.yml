@@ -39,4 +39,6 @@
 - pkg:maven/org.nasdanika.core/ncore@2021.7.2
 - pkg:maven/org.nasdanika.core/ncore@2021.7.2?classifier=sources
 - pkg:maven/org.nasdanika.core/ncore@2021.7.3
+- pkg:maven/org.nasdanika.core/ncore@2021.7.3-java-8
+- pkg:maven/org.nasdanika.core/ncore@2021.7.3-java-8?classifier=sources
 - pkg:maven/org.nasdanika.core/ncore@2021.7.3?classifier=sources

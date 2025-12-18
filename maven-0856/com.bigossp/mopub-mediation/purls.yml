@@ -1,0 +1,2 @@
+- pkg:maven/com.bigossp/mopub-mediation@1.6.1.0?classifier=sources
+- pkg:maven/com.bigossp/mopub-mediation@1.6.1.0?type=aar

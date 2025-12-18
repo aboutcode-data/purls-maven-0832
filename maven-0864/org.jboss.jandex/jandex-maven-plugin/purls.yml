@@ -18,3 +18,5 @@
 - pkg:maven/org.jboss.jandex/jandex-maven-plugin@1.0.8
 - pkg:maven/org.jboss.jandex/jandex-maven-plugin@1.0.8?classifier=sources
 - pkg:maven/org.jboss.jandex/jandex-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/org.jboss.jandex/jandex-maven-plugin@1.1.1?classifier=sources
+- pkg:maven/org.jboss.jandex/jandex-maven-plugin@1.2.0?classifier=sources

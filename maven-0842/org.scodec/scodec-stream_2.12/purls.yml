@@ -24,6 +24,8 @@
 - pkg:maven/org.scodec/scodec-stream_2.12@1.2.0?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@1.2.1
 - pkg:maven/org.scodec/scodec-stream_2.12@1.2.1?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0-10-5e2b7b6
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0-10-5e2b7b6?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-101-ff89160
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-101-ff89160?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-103-cd4fb57
@@ -40,6 +42,8 @@
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-2-bfb94e2?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-2f45cd6
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-2f45cd6?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0-5-4953e48
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0-5-4953e48?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-6cdd95f
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-6cdd95f?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-77-de6c76f
@@ -48,6 +52,8 @@
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-78-fd1ec2e?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-79-a9ef0c3
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-79-a9ef0c3?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0-8-537c07c
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0-8-537c07c?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-80-4844d54
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-80-4844d54?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0-82-e33a43e
@@ -76,8 +82,12 @@
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0.1?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0.2
 - pkg:maven/org.scodec/scodec-stream_2.12@2.0.2?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0.3
+- pkg:maven/org.scodec/scodec-stream_2.12@2.0.3?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@3.0-1-0a08f86
 - pkg:maven/org.scodec/scodec-stream_2.12@3.0-1-0a08f86?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.12@3.0-13-6dc77bb
+- pkg:maven/org.scodec/scodec-stream_2.12@3.0-13-6dc77bb?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@3.0-3-01f5dc0
 - pkg:maven/org.scodec/scodec-stream_2.12@3.0-3-01f5dc0?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@3.0-89-8ba5529
@@ -92,3 +102,5 @@
 - pkg:maven/org.scodec/scodec-stream_2.12@3.0.0?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.12@3.0.1
 - pkg:maven/org.scodec/scodec-stream_2.12@3.0.1?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.12@3.0.2
+- pkg:maven/org.scodec/scodec-stream_2.12@3.0.2?classifier=sources

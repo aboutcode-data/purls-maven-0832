@@ -6,3 +6,7 @@
 - pkg:maven/com.cognitect.aws/synthetics@809.2.784.0?classifier=sources
 - pkg:maven/com.cognitect.aws/synthetics@809.2.797.0
 - pkg:maven/com.cognitect.aws/synthetics@809.2.797.0?classifier=sources
+- pkg:maven/com.cognitect.aws/synthetics@811.2.958.0
+- pkg:maven/com.cognitect.aws/synthetics@811.2.958.0?classifier=sources
+- pkg:maven/com.cognitect.aws/synthetics@813.2.963.0
+- pkg:maven/com.cognitect.aws/synthetics@813.2.963.0?classifier=sources

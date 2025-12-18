@@ -110,3 +110,7 @@
 - pkg:maven/com.ontotext.graphdb/graphdb-free-runtime@9.8.0?classifier=sources
 - pkg:maven/com.ontotext.graphdb/graphdb-free-runtime@9.8.1
 - pkg:maven/com.ontotext.graphdb/graphdb-free-runtime@9.8.1?classifier=sources
+- pkg:maven/com.ontotext.graphdb/graphdb-free-runtime@9.9.0
+- pkg:maven/com.ontotext.graphdb/graphdb-free-runtime@9.9.0?classifier=sources
+- pkg:maven/com.ontotext.graphdb/graphdb-free-runtime@9.9.1
+- pkg:maven/com.ontotext.graphdb/graphdb-free-runtime@9.9.1?classifier=sources

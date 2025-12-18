@@ -1,0 +1,2 @@
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.0
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.0?classifier=sources

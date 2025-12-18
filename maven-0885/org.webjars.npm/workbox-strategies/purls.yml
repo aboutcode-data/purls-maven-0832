@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/workbox-strategies@5.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/workbox-strategies@5.1.4
 - pkg:maven/org.webjars.npm/workbox-strategies@5.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/workbox-strategies@6.2.4
+- pkg:maven/org.webjars.npm/workbox-strategies@6.2.4?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.scalameta/mdoc-runtime_3@2.2.21?classifier=sources
 - pkg:maven/org.scalameta/mdoc-runtime_3@2.2.22
 - pkg:maven/org.scalameta/mdoc-runtime_3@2.2.22?classifier=sources
+- pkg:maven/org.scalameta/mdoc-runtime_3@2.2.23
+- pkg:maven/org.scalameta/mdoc-runtime_3@2.2.23?classifier=sources

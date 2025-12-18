@@ -1,0 +1,2 @@
+- pkg:maven/io.github.billywei001/packable@1.0.1
+- pkg:maven/io.github.billywei001/packable@1.0.1?classifier=sources

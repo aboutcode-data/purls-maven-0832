@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/view-android@1.25.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/view-android@22?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/view-android@23.25.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/view-android@23.27.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/view-android@23.28.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/view-android@23?classifier=sources

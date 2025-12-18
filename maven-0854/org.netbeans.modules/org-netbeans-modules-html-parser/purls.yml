@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE90?classifier=sources

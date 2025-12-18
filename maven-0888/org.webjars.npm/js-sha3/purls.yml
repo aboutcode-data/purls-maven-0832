@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/js-sha3@0.3.1
 - pkg:maven/org.webjars.npm/js-sha3@0.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/js-sha3@0.5.7
+- pkg:maven/org.webjars.npm/js-sha3@0.5.7?classifier=sources
 - pkg:maven/org.webjars.npm/js-sha3@0.8.0
 - pkg:maven/org.webjars.npm/js-sha3@0.8.0?classifier=sources

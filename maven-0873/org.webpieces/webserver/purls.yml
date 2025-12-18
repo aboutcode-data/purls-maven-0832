@@ -217,6 +217,8 @@
 - pkg:maven/org.webpieces/webserver@2.0.150?classifier=sources
 - pkg:maven/org.webpieces/webserver@2.0.151
 - pkg:maven/org.webpieces/webserver@2.0.151?classifier=sources
+- pkg:maven/org.webpieces/webserver@2.0.152
+- pkg:maven/org.webpieces/webserver@2.0.152?classifier=sources
 - pkg:maven/org.webpieces/webserver@2.0.1?classifier=sources
 - pkg:maven/org.webpieces/webserver@2.0.2
 - pkg:maven/org.webpieces/webserver@2.0.2?classifier=sources
@@ -234,3 +236,5 @@
 - pkg:maven/org.webpieces/webserver@2.0.8?classifier=sources
 - pkg:maven/org.webpieces/webserver@2.0.9
 - pkg:maven/org.webpieces/webserver@2.0.9?classifier=sources
+- pkg:maven/org.webpieces/webserver@2.1.0?classifier=sources
+- pkg:maven/org.webpieces/webserver@2.1.1?classifier=sources

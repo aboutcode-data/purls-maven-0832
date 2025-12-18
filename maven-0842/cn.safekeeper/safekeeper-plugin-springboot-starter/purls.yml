@@ -1,0 +1,6 @@
+- pkg:maven/cn.safekeeper/safekeeper-plugin-springboot-starter@0.0.3
+- pkg:maven/cn.safekeeper/safekeeper-plugin-springboot-starter@0.0.3?classifier=sources
+- pkg:maven/cn.safekeeper/safekeeper-plugin-springboot-starter@1.0.0
+- pkg:maven/cn.safekeeper/safekeeper-plugin-springboot-starter@1.0.0?classifier=sources
+- pkg:maven/cn.safekeeper/safekeeper-plugin-springboot-starter@1.1.0
+- pkg:maven/cn.safekeeper/safekeeper-plugin-springboot-starter@1.1.0?classifier=sources

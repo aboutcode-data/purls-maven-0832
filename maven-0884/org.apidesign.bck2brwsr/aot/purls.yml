@@ -32,5 +32,15 @@
 - pkg:maven/org.apidesign.bck2brwsr/aot@0.31?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/aot@0.32
 - pkg:maven/org.apidesign.bck2brwsr/aot@0.32?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.50
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.50?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.51
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.51?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.52
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.52?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.53
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.53?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.54
+- pkg:maven/org.apidesign.bck2brwsr/aot@0.54?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/aot@0.9
 - pkg:maven/org.apidesign.bck2brwsr/aot@0.9?classifier=sources

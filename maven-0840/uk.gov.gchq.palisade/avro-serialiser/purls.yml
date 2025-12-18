@@ -1,0 +1,2 @@
+- pkg:maven/uk.gov.gchq.palisade/avro-serialiser@0.5.1-RELEASE
+- pkg:maven/uk.gov.gchq.palisade/avro-serialiser@0.5.1-RELEASE?classifier=sources

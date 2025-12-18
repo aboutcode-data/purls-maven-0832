@@ -1,0 +1,14 @@
+- pkg:maven/com.github.losizm/little-json_3@7.0.0
+- pkg:maven/com.github.losizm/little-json_3@7.0.0?classifier=sources
+- pkg:maven/com.github.losizm/little-json_3@7.1.0
+- pkg:maven/com.github.losizm/little-json_3@7.1.0?classifier=sources
+- pkg:maven/com.github.losizm/little-json_3@7.2.0
+- pkg:maven/com.github.losizm/little-json_3@7.2.0?classifier=sources
+- pkg:maven/com.github.losizm/little-json_3@7.3.0
+- pkg:maven/com.github.losizm/little-json_3@7.3.0?classifier=sources
+- pkg:maven/com.github.losizm/little-json_3@7.4.0
+- pkg:maven/com.github.losizm/little-json_3@7.4.0?classifier=sources
+- pkg:maven/com.github.losizm/little-json_3@8.0.0
+- pkg:maven/com.github.losizm/little-json_3@8.0.0?classifier=sources
+- pkg:maven/com.github.losizm/little-json_3@8.1.0
+- pkg:maven/com.github.losizm/little-json_3@8.1.0?classifier=sources

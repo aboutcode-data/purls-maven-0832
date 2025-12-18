@@ -18,3 +18,5 @@
 - pkg:maven/com.twitter/util-mock_2.13@21.5.0?classifier=sources
 - pkg:maven/com.twitter/util-mock_2.13@21.6.0
 - pkg:maven/com.twitter/util-mock_2.13@21.6.0?classifier=sources
+- pkg:maven/com.twitter/util-mock_2.13@21.8.0
+- pkg:maven/com.twitter/util-mock_2.13@21.8.0?classifier=sources

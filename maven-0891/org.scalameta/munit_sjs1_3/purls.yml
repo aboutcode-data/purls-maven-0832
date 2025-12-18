@@ -4,3 +4,7 @@
 - pkg:maven/org.scalameta/munit_sjs1_3@0.7.26?classifier=sources
 - pkg:maven/org.scalameta/munit_sjs1_3@0.7.27
 - pkg:maven/org.scalameta/munit_sjs1_3@0.7.27?classifier=sources
+- pkg:maven/org.scalameta/munit_sjs1_3@0.7.28
+- pkg:maven/org.scalameta/munit_sjs1_3@0.7.28?classifier=sources
+- pkg:maven/org.scalameta/munit_sjs1_3@0.7.29
+- pkg:maven/org.scalameta/munit_sjs1_3@0.7.29?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.github.yezhihao/netmc@2.0.3.RELEASE?classifier=sources
 - pkg:maven/io.github.yezhihao/netmc@2.0.4.RELEASE
 - pkg:maven/io.github.yezhihao/netmc@2.0.4.RELEASE?classifier=sources
+- pkg:maven/io.github.yezhihao/netmc@2.0.5.RELEASE
+- pkg:maven/io.github.yezhihao/netmc@2.0.5.RELEASE?classifier=sources

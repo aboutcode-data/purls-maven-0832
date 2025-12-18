@@ -1,0 +1,2 @@
+- pkg:maven/com.busymachines/pureharm-db-testkit-doobie_3@0.3.0-M1
+- pkg:maven/com.busymachines/pureharm-db-testkit-doobie_3@0.3.0-M1?classifier=sources

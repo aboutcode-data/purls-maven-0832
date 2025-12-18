@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image-upload_mill0.9_2.13@0.1.2
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image-upload_mill0.9_2.13@0.1.2?classifier=sources

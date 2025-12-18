@@ -1,0 +1,2 @@
+- pkg:maven/io.shulie.surge.data.suppliers/jetty-supplier@1.0
+- pkg:maven/io.shulie.surge.data.suppliers/jetty-supplier@1.0?classifier=sources

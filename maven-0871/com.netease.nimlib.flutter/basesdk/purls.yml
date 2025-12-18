@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nimlib.flutter/basesdk@8.6.3?classifier=sources
+- pkg:maven/com.netease.nimlib.flutter/basesdk@8.6.3?type=aar

@@ -2,3 +2,5 @@
 - pkg:maven/dk.cachet.carp.clients/carp.clients.core@1.0.0-alpha.32?classifier=sources
 - pkg:maven/dk.cachet.carp.clients/carp.clients.core@1.0.0-alpha.33?classifier=sources
 - pkg:maven/dk.cachet.carp.clients/carp.clients.core@1.0.0-alpha.34?classifier=sources
+- pkg:maven/dk.cachet.carp.clients/carp.clients.core@1.0.0-alpha.35?classifier=sources
+- pkg:maven/dk.cachet.carp.clients/carp.clients.core@1.0.0-alpha.36?classifier=sources

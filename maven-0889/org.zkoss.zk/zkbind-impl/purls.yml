@@ -14,3 +14,7 @@
 - pkg:maven/org.zkoss.zk/zkbind-impl@9.5.0.2?classifier=sources
 - pkg:maven/org.zkoss.zk/zkbind-impl@9.5.0.3?classifier=sources
 - pkg:maven/org.zkoss.zk/zkbind-impl@9.5.0?classifier=sources
+- pkg:maven/org.zkoss.zk/zkbind-impl@9.6.0-jakarta?classifier=sources
+- pkg:maven/org.zkoss.zk/zkbind-impl@9.6.0.1-jakarta?classifier=sources
+- pkg:maven/org.zkoss.zk/zkbind-impl@9.6.0.1?classifier=sources
+- pkg:maven/org.zkoss.zk/zkbind-impl@9.6.0?classifier=sources

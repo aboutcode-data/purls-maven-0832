@@ -1,1 +1,2 @@
+- pkg:maven/org.apache.inlong/inlong@0.10.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.inlong/inlong@0.9.0-incubating?classifier=source-release&type=zip

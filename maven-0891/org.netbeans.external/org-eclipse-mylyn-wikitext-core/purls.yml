@@ -6,3 +6,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-core@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-core@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-core@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-core@RELEASE125?classifier=sources

@@ -32,3 +32,11 @@
 - pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.37?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.38
 - pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.38?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.39
+- pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.39?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.40
+- pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.40?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.41
+- pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.41?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.42
+- pkg:maven/fr.ird.observe/toolkit-runner-persistence@5.0.42?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/fr.varchar-dev/varlib@1.0.8?classifier=sources
 - pkg:maven/fr.varchar-dev/varlib@1.0.9?classifier=sources
 - pkg:maven/fr.varchar-dev/varlib@1.1.0?classifier=sources
+- pkg:maven/fr.varchar-dev/varlib@1.2.0?classifier=sources

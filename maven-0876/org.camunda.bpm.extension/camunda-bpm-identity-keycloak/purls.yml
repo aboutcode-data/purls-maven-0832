@@ -14,3 +14,7 @@
 - pkg:maven/org.camunda.bpm.extension/camunda-bpm-identity-keycloak@2.0.0?classifier=sources
 - pkg:maven/org.camunda.bpm.extension/camunda-bpm-identity-keycloak@2.1.0
 - pkg:maven/org.camunda.bpm.extension/camunda-bpm-identity-keycloak@2.1.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-identity-keycloak@2.2.0
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-identity-keycloak@2.2.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-identity-keycloak@2.2.1
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-identity-keycloak@2.2.1?classifier=sources

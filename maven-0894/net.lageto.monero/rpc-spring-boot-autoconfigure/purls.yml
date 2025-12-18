@@ -1,0 +1,2 @@
+- pkg:maven/net.lageto.monero/rpc-spring-boot-autoconfigure@0.3.0
+- pkg:maven/net.lageto.monero/rpc-spring-boot-autoconfigure@0.3.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/com.javiersc.gradle.plugins.kotlin.jvm/com.javiersc.gradle.plugins.kotlin.jvm.gradle.plugin@0.1.0-alpha.50?classifier=sources
+- pkg:maven/com.javiersc.gradle.plugins.kotlin.jvm/com.javiersc.gradle.plugins.kotlin.jvm.gradle.plugin@0.1.0-alpha.51?classifier=sources
+- pkg:maven/com.javiersc.gradle.plugins.kotlin.jvm/com.javiersc.gradle.plugins.kotlin.jvm.gradle.plugin@0.1.0-alpha.52?classifier=sources
+- pkg:maven/com.javiersc.gradle.plugins.kotlin.jvm/com.javiersc.gradle.plugins.kotlin.jvm.gradle.plugin@0.1.0-alpha.53?classifier=sources
+- pkg:maven/com.javiersc.gradle.plugins.kotlin.jvm/com.javiersc.gradle.plugins.kotlin.jvm.gradle.plugin@0.1.0-alpha.54?classifier=sources

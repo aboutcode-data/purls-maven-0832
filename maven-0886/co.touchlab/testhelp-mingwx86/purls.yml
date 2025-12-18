@@ -1,0 +1,3 @@
+- pkg:maven/co.touchlab/testhelp-mingwx86@0.5.3-hmpp?classifier=sources
+- pkg:maven/co.touchlab/testhelp-mingwx86@0.5.4?classifier=sources
+- pkg:maven/co.touchlab/testhelp-mingwx86@0.5.5?classifier=sources

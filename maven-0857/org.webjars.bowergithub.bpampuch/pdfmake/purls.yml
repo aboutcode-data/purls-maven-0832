@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.bowergithub.bpampuch/pdfmake@0.1.63?classifier=sources
 - pkg:maven/org.webjars.bowergithub.bpampuch/pdfmake@0.1.65
 - pkg:maven/org.webjars.bowergithub.bpampuch/pdfmake@0.1.65?classifier=sources
+- pkg:maven/org.webjars.bowergithub.bpampuch/pdfmake@0.1.72
+- pkg:maven/org.webjars.bowergithub.bpampuch/pdfmake@0.1.72?classifier=sources

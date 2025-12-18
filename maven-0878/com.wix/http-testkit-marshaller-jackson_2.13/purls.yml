@@ -4,3 +4,5 @@
 - pkg:maven/com.wix/http-testkit-marshaller-jackson_2.13@0.1.23?classifier=sources
 - pkg:maven/com.wix/http-testkit-marshaller-jackson_2.13@0.1.24
 - pkg:maven/com.wix/http-testkit-marshaller-jackson_2.13@0.1.24?classifier=sources
+- pkg:maven/com.wix/http-testkit-marshaller-jackson_2.13@0.1.25
+- pkg:maven/com.wix/http-testkit-marshaller-jackson_2.13@0.1.25?classifier=sources

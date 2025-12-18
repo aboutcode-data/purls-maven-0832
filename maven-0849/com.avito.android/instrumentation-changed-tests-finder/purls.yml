@@ -18,6 +18,13 @@
 - pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.25?classifier=sources
 - pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.26?classifier=sources
 - pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.27?classifier=sources
+- pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.28?classifier=sources
+- pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.29?classifier=sources
+- pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.30?classifier=sources
+- pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.31-agp7?classifier=sources
+- pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.31?classifier=sources
+- pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.32-agp7?classifier=sources
+- pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.32-rc-1?classifier=sources
 - pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.7?classifier=sources
 - pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.8?classifier=sources
 - pkg:maven/com.avito.android/instrumentation-changed-tests-finder@2021.9.1?classifier=sources

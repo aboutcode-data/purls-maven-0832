@@ -1,0 +1,2 @@
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-sarif@0.42.0?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-sarif@0.42.1?classifier=sources

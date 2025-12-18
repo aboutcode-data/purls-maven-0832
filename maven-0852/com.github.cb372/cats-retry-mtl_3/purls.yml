@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cb372/cats-retry-mtl_3@3.1.0
+- pkg:maven/com.github.cb372/cats-retry-mtl_3@3.1.0?classifier=sources

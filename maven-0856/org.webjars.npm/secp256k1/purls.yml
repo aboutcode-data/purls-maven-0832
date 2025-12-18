@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/secp256k1@3.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/secp256k1@3.8.0
 - pkg:maven/org.webjars.npm/secp256k1@3.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/secp256k1@4.0.2
+- pkg:maven/org.webjars.npm/secp256k1@4.0.2?classifier=sources

@@ -145,6 +145,8 @@
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.1
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.10
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.10?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.11
+- pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.11?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.2
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-isis@2013.10.21.18.2?classifier=sources

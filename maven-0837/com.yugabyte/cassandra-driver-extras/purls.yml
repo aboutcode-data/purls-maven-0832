@@ -1,3 +1,5 @@
+- pkg:maven/com.yugabyte/cassandra-driver-extras@3.10.3-yb-1-RC1
+- pkg:maven/com.yugabyte/cassandra-driver-extras@3.10.3-yb-1-RC1?classifier=sources
 - pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-10
 - pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-10?classifier=sources
 - pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-11

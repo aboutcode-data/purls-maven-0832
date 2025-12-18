@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shoothzj/distribute-impl-redis-lettuce@0.0.3
+- pkg:maven/com.github.shoothzj/distribute-impl-redis-lettuce@0.0.3?classifier=sources

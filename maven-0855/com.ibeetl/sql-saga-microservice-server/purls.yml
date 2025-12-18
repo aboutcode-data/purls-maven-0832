@@ -74,3 +74,17 @@
 - pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.1-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.2-RELEASE
 - pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.2-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.3-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.3-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.4-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.4-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.5-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.5-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.6-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.6.6-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.7.0-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.7.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.8.0-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.8.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.9.0-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-server@3.9.0-RELEASE?classifier=sources

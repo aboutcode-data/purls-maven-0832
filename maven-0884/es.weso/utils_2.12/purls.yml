@@ -6,3 +6,5 @@
 - pkg:maven/es.weso/utils_2.12@0.1.94?classifier=sources
 - pkg:maven/es.weso/utils_2.12@0.1.98
 - pkg:maven/es.weso/utils_2.12@0.1.98?classifier=sources
+- pkg:maven/es.weso/utils_2.12@0.1.99
+- pkg:maven/es.weso/utils_2.12@0.1.99?classifier=sources

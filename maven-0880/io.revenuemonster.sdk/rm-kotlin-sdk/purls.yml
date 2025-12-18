@@ -1,0 +1,5 @@
+- pkg:maven/io.revenuemonster.sdk/rm-kotlin-sdk@1.0.0-beta?classifier=sources
+- pkg:maven/io.revenuemonster.sdk/rm-kotlin-sdk@1.0.0-rc2?classifier=sources
+- pkg:maven/io.revenuemonster.sdk/rm-kotlin-sdk@1.0.0-rc3?classifier=sources
+- pkg:maven/io.revenuemonster.sdk/rm-kotlin-sdk@1.0.0-rc4?classifier=sources
+- pkg:maven/io.revenuemonster.sdk/rm-kotlin-sdk@v1.0.0-beta.10?classifier=sources

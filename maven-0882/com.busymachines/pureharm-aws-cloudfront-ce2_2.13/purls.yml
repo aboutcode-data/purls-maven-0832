@@ -1,0 +1,2 @@
+- pkg:maven/com.busymachines/pureharm-aws-cloudfront-ce2_2.13@0.4.0-M1
+- pkg:maven/com.busymachines/pureharm-aws-cloudfront-ce2_2.13@0.4.0-M1?classifier=sources

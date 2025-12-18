@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/babel__helper-validator-option@7.12.11?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-validator-option@7.12.17
 - pkg:maven/org.webjars.npm/babel__helper-validator-option@7.12.17?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-validator-option@7.14.5
+- pkg:maven/org.webjars.npm/babel__helper-validator-option@7.14.5?classifier=sources

@@ -24,5 +24,11 @@
 - pkg:maven/com.konghq/unirest-mocks@3.11.11?classifier=sources
 - pkg:maven/com.konghq/unirest-mocks@3.11.12
 - pkg:maven/com.konghq/unirest-mocks@3.11.12?classifier=sources
+- pkg:maven/com.konghq/unirest-mocks@3.11.13
+- pkg:maven/com.konghq/unirest-mocks@3.11.13?classifier=sources
+- pkg:maven/com.konghq/unirest-mocks@3.12.0
+- pkg:maven/com.konghq/unirest-mocks@3.12.0?classifier=sources
+- pkg:maven/com.konghq/unirest-mocks@3.13.0
+- pkg:maven/com.konghq/unirest-mocks@3.13.0?classifier=sources
 - pkg:maven/com.konghq/unirest-mocks@4.0.0-RC1
 - pkg:maven/com.konghq/unirest-mocks@4.0.0-RC1?classifier=sources

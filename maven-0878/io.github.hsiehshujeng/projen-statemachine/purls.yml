@@ -48,3 +48,13 @@
 - pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.42?classifier=sources
 - pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.43
 - pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.43?classifier=sources
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.44
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.44?classifier=sources
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.45
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.45?classifier=sources
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.46
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.46?classifier=sources
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.47
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.47?classifier=sources
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.48
+- pkg:maven/io.github.hsiehshujeng/projen-statemachine@0.1.48?classifier=sources

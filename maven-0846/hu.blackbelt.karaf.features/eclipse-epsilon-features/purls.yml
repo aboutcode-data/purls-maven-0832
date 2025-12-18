@@ -4,4 +4,5 @@
 - pkg:maven/hu.blackbelt.karaf.features/eclipse-epsilon-features@1.0.3?classifier=sources
 - pkg:maven/hu.blackbelt.karaf.features/eclipse-epsilon-features@1.0.4?classifier=sources
 - pkg:maven/hu.blackbelt.karaf.features/eclipse-epsilon-features@1.0.5?classifier=sources
+- pkg:maven/hu.blackbelt.karaf.features/eclipse-epsilon-features@1.0.6?classifier=sources
 - pkg:maven/hu.blackbelt.karaf.features/eclipse-epsilon-features@1.5.1_1?classifier=sources

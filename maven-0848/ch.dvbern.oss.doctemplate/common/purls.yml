@@ -1,0 +1,4 @@
+- pkg:maven/ch.dvbern.oss.doctemplate/common@3.0.0
+- pkg:maven/ch.dvbern.oss.doctemplate/common@3.0.0?classifier=sources
+- pkg:maven/ch.dvbern.oss.doctemplate/common@4.0.0
+- pkg:maven/ch.dvbern.oss.doctemplate/common@4.0.0?classifier=sources

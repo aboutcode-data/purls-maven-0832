@@ -12,3 +12,7 @@
 - pkg:maven/com.farao-community.farao/farao-glsk-virtual-hubs@2.4.3?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-glsk-virtual-hubs@3.0.0
 - pkg:maven/com.farao-community.farao/farao-glsk-virtual-hubs@3.0.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-glsk-virtual-hubs@3.1.0
+- pkg:maven/com.farao-community.farao/farao-glsk-virtual-hubs@3.1.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-glsk-virtual-hubs@3.2.0
+- pkg:maven/com.farao-community.farao/farao-glsk-virtual-hubs@3.2.0?classifier=sources

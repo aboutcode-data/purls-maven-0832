@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE125?classifier=sources

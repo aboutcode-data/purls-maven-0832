@@ -4,3 +4,5 @@
 - pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.0-rc.15?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.0-rc.16
 - pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.0-rc.16?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.0-rc.17
+- pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.0-rc.17?classifier=sources

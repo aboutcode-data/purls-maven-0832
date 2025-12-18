@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-editor@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-editor@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-editor@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-editor@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-editor@RELEASE90?classifier=sources

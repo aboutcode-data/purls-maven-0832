@@ -2,3 +2,8 @@
 - pkg:maven/com.mopub.mediation/mintegral@15.5.41.0?type=aar
 - pkg:maven/com.mopub.mediation/mintegral@15.5.51.0?type=aar
 - pkg:maven/com.mopub.mediation/mintegral@15.6.01.0?type=aar
+- pkg:maven/com.mopub.mediation/mintegral@15.6.11.0?type=aar
+- pkg:maven/com.mopub.mediation/mintegral@15.6.21.0?type=aar
+- pkg:maven/com.mopub.mediation/mintegral@15.6.31.0?type=aar
+- pkg:maven/com.mopub.mediation/mintegral@15.7.11.0?type=aar
+- pkg:maven/com.mopub.mediation/mintegral@15.7.21.0?type=aar

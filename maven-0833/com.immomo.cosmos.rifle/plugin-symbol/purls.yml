@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.rifle/plugin-symbol@1.0.2
+- pkg:maven/com.immomo.cosmos.rifle/plugin-symbol@1.0.2?classifier=sources

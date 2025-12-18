@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.bower/metisMenu@2.7.8?classifier=sources
 - pkg:maven/org.webjars.bower/metisMenu@3.0.3
 - pkg:maven/org.webjars.bower/metisMenu@3.0.3?classifier=sources
+- pkg:maven/org.webjars.bower/metisMenu@3.0.7
+- pkg:maven/org.webjars.bower/metisMenu@3.0.7?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.github.Shouheng88/icamera@0.1.7-beta?type=aar
 - pkg:maven/com.github.Shouheng88/icamera@0.2.0-beta?classifier=sources
 - pkg:maven/com.github.Shouheng88/icamera@0.2.0-beta?type=aar
+- pkg:maven/com.github.Shouheng88/icamera@0.3.0-beta?classifier=sources
+- pkg:maven/com.github.Shouheng88/icamera@0.3.0-beta?type=aar

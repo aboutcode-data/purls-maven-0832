@@ -1,3 +1,4 @@
 - pkg:maven/com.github.unive-ssv/lisa@0.1a2?classifier=sources
 - pkg:maven/com.github.unive-ssv/lisa@0.1a3?classifier=sources
 - pkg:maven/com.github.unive-ssv/lisa@0.1a4?classifier=sources
+- pkg:maven/com.github.unive-ssv/lisa@0.1b1?classifier=sources

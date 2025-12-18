@@ -2,3 +2,9 @@
 - pkg:maven/net.rossonet/ar4k-watson@0.9.1000?classifier=sources
 - pkg:maven/net.rossonet/ar4k-watson@0.9.1003
 - pkg:maven/net.rossonet/ar4k-watson@0.9.1003?classifier=sources
+- pkg:maven/net.rossonet/ar4k-watson@0.9.1005
+- pkg:maven/net.rossonet/ar4k-watson@0.9.1005?classifier=sources
+- pkg:maven/net.rossonet/ar4k-watson@0.9.1006
+- pkg:maven/net.rossonet/ar4k-watson@0.9.1006?classifier=sources
+- pkg:maven/net.rossonet/ar4k-watson@0.9.1009
+- pkg:maven/net.rossonet/ar4k-watson@0.9.1009?classifier=sources

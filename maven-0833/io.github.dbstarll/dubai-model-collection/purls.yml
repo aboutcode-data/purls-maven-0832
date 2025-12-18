@@ -1,0 +1,4 @@
+- pkg:maven/io.github.dbstarll/dubai-model-collection@1.0.0
+- pkg:maven/io.github.dbstarll/dubai-model-collection@1.0.0?classifier=sources
+- pkg:maven/io.github.dbstarll/dubai-model-collection@1.1.0
+- pkg:maven/io.github.dbstarll/dubai-model-collection@1.1.0?classifier=sources

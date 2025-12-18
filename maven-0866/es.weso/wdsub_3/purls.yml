@@ -1,0 +1,6 @@
+- pkg:maven/es.weso/wdsub_3@0.0.13
+- pkg:maven/es.weso/wdsub_3@0.0.13?classifier=sources
+- pkg:maven/es.weso/wdsub_3@0.0.14
+- pkg:maven/es.weso/wdsub_3@0.0.14?classifier=sources
+- pkg:maven/es.weso/wdsub_3@0.0.16
+- pkg:maven/es.weso/wdsub_3@0.0.16?classifier=sources

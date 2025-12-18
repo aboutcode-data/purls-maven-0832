@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch.plugin/opensearch-scripting-painless-spi@1.0.0?classifier=sources

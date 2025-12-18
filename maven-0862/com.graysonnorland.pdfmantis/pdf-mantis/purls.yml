@@ -1,0 +1,2 @@
+- pkg:maven/com.graysonnorland.pdfmantis/pdf-mantis@0.0.1
+- pkg:maven/com.graysonnorland.pdfmantis/pdf-mantis@0.0.1?classifier=sources

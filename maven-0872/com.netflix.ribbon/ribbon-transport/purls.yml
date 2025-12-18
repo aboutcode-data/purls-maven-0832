@@ -72,6 +72,7 @@
 - pkg:maven/com.netflix.ribbon/ribbon-transport@2.4.5?classifier=sources
 - pkg:maven/com.netflix.ribbon/ribbon-transport@2.4.6
 - pkg:maven/com.netflix.ribbon/ribbon-transport@2.4.6?classifier=sources
+- pkg:maven/com.netflix.ribbon/ribbon-transport@2.4.8?classifier=sources
 - pkg:maven/com.netflix.ribbon/ribbon-transport@2.6.7
 - pkg:maven/com.netflix.ribbon/ribbon-transport@2.6.7?classifier=sources
 - pkg:maven/com.netflix.ribbon/ribbon-transport@2.7.0

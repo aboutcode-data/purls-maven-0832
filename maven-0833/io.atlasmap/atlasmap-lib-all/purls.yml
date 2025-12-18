@@ -126,3 +126,7 @@
 - pkg:maven/io.atlasmap/atlasmap-lib-all@2.2.2?classifier=sources
 - pkg:maven/io.atlasmap/atlasmap-lib-all@2.2.3
 - pkg:maven/io.atlasmap/atlasmap-lib-all@2.2.3?classifier=sources
+- pkg:maven/io.atlasmap/atlasmap-lib-all@2.3.0-M.3
+- pkg:maven/io.atlasmap/atlasmap-lib-all@2.3.0-M.3?classifier=sources
+- pkg:maven/io.atlasmap/atlasmap-lib-all@2.3.0-M.5
+- pkg:maven/io.atlasmap/atlasmap-lib-all@2.3.0-M.5?classifier=sources

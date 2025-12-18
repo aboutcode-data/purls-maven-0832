@@ -1,0 +1,2 @@
+- pkg:maven/com.qmetry/qaf-support-angular@3.0.1b
+- pkg:maven/com.qmetry/qaf-support-angular@3.0.1b?classifier=sources

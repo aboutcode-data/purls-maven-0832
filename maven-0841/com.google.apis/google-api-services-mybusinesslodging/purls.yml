@@ -4,3 +4,5 @@
 - pkg:maven/com.google.apis/google-api-services-mybusinesslodging@v1-rev20210406-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-mybusinesslodging@v1-rev20210406-1.32.1
 - pkg:maven/com.google.apis/google-api-services-mybusinesslodging@v1-rev20210406-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-mybusinesslodging@v1-rev20210908-1.32.1
+- pkg:maven/com.google.apis/google-api-services-mybusinesslodging@v1-rev20210908-1.32.1?classifier=sources

@@ -381,6 +381,8 @@
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-validator-plugin@0.22.20?classifier=sources
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-validator-plugin@0.22.21
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-validator-plugin@0.22.21?classifier=sources
+- pkg:maven/org.pustefixframework.maven.plugins/pustefix-validator-plugin@0.22.22
+- pkg:maven/org.pustefixframework.maven.plugins/pustefix-validator-plugin@0.22.22?classifier=sources
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-validator-plugin@0.22.2?classifier=sources
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-validator-plugin@0.22.3
 - pkg:maven/org.pustefixframework.maven.plugins/pustefix-validator-plugin@0.22.3?classifier=sources

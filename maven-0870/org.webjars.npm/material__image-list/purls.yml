@@ -40,6 +40,8 @@
 - pkg:maven/org.webjars.npm/material__image-list@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__image-list@11.0.0
 - pkg:maven/org.webjars.npm/material__image-list@11.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__image-list@12.0.0
+- pkg:maven/org.webjars.npm/material__image-list@12.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__image-list@3.1.0
 - pkg:maven/org.webjars.npm/material__image-list@3.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__image-list@4.0.0

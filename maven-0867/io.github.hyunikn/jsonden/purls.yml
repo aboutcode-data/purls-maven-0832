@@ -1,2 +1,4 @@
 - pkg:maven/io.github.hyunikn/jsonden@0.9.6
 - pkg:maven/io.github.hyunikn/jsonden@0.9.6?classifier=sources
+- pkg:maven/io.github.hyunikn/jsonden@0.9.7
+- pkg:maven/io.github.hyunikn/jsonden@0.9.7?classifier=sources

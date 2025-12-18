@@ -1,0 +1,2 @@
+- pkg:maven/com.busymachines/pureharm-db-test-data-ce2_2.13@0.3.0
+- pkg:maven/com.busymachines/pureharm-db-test-data-ce2_2.13@0.3.0?classifier=sources

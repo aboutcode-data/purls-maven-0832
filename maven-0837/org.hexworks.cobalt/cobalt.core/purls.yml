@@ -1,0 +1,3 @@
+- pkg:maven/org.hexworks.cobalt/cobalt.core@2021.1.0-RELEASE?classifier=sources
+- pkg:maven/org.hexworks.cobalt/cobalt.core@2021.1.1-PREVIEW?classifier=sources
+- pkg:maven/org.hexworks.cobalt/cobalt.core@2021.1.2-PREVIEW?classifier=sources

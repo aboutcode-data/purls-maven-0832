@@ -1,3 +1,4 @@
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common-iosarm64@3.0.0-alpha01?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common-iosarm64@3.0.0-alpha02?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common-iosarm64@3.0.0-alpha03?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common-iosarm64@3.0.0-dev14?classifier=sources

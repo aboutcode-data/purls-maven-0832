@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yydzxz/bytedance-miniprogram@4.0.7
+- pkg:maven/io.github.yydzxz/bytedance-miniprogram@4.0.7?classifier=sources

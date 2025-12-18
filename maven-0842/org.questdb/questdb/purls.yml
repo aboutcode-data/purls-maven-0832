@@ -24,3 +24,5 @@
 - pkg:maven/org.questdb/questdb@6.0.4?classifier=sources
 - pkg:maven/org.questdb/questdb@6.0.4b
 - pkg:maven/org.questdb/questdb@6.0.4b?classifier=sources
+- pkg:maven/org.questdb/questdb@6.0.5
+- pkg:maven/org.questdb/questdb@6.0.5?classifier=sources

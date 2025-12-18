@@ -17,4 +17,12 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@1.6.11?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@1.6.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@1.7.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@1.7.12
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@1.7.12?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@1.7.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@1.7.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@1.7.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@2.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@3.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@3.0.0?classifier=sources

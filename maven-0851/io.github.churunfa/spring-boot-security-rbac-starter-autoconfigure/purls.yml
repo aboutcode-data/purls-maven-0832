@@ -1,0 +1,4 @@
+- pkg:maven/io.github.churunfa/spring-boot-security-rbac-starter-autoconfigure@1.0.0
+- pkg:maven/io.github.churunfa/spring-boot-security-rbac-starter-autoconfigure@1.0.0-RELEASE
+- pkg:maven/io.github.churunfa/spring-boot-security-rbac-starter-autoconfigure@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.churunfa/spring-boot-security-rbac-starter-autoconfigure@1.0.0?classifier=sources

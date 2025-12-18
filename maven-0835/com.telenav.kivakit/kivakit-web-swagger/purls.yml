@@ -2,3 +2,5 @@
 - pkg:maven/com.telenav.kivakit/kivakit-web-swagger@0.9.7-alpha?classifier=sources
 - pkg:maven/com.telenav.kivakit/kivakit-web-swagger@0.9.8-beta
 - pkg:maven/com.telenav.kivakit/kivakit-web-swagger@0.9.8-beta?classifier=sources
+- pkg:maven/com.telenav.kivakit/kivakit-web-swagger@1.0.0
+- pkg:maven/com.telenav.kivakit/kivakit-web-swagger@1.0.0?classifier=sources

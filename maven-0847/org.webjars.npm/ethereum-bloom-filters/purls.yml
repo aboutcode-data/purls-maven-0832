@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/ethereum-bloom-filters@1.0.10
+- pkg:maven/org.webjars.npm/ethereum-bloom-filters@1.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/ethereum-bloom-filters@1.0.7
 - pkg:maven/org.webjars.npm/ethereum-bloom-filters@1.0.7?classifier=sources

@@ -116,6 +116,10 @@
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.56.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.57.0.Final
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.57.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.58.0.Final
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.58.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.59.0.Final
+- pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.59.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.6.0.Final
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.6.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-workbench-models-core@7.6.0.t022

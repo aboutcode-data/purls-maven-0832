@@ -18,3 +18,6 @@
 - pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@2.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@2.0.1.Final
 - pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@2.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@2.0.2.Final
+- pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@2.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@2.0.2.Final?classifier=sources

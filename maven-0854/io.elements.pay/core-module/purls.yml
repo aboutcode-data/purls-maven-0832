@@ -9,3 +9,4 @@
 - pkg:maven/io.elements.pay/core-module@1.0.0-beta09?classifier=sources
 - pkg:maven/io.elements.pay/core-module@1.0.0-beta10?classifier=sources
 - pkg:maven/io.elements.pay/core-module@1.0.0-beta11?classifier=sources
+- pkg:maven/io.elements.pay/core-module@1.0.1-beta01?classifier=sources

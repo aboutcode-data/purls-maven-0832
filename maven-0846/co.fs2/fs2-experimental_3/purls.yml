@@ -1,3 +1,5 @@
+- pkg:maven/co.fs2/fs2-experimental_3@2.5-13-1a7ce3e
+- pkg:maven/co.fs2/fs2-experimental_3@2.5-13-1a7ce3e?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_3@2.5-14-d78ca55
 - pkg:maven/co.fs2/fs2-experimental_3@2.5-14-d78ca55?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_3@2.5-16-f51e5bd

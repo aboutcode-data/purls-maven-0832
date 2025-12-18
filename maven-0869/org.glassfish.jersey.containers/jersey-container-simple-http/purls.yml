@@ -121,6 +121,8 @@
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-simple-http@2.33?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-simple-http@2.34
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-simple-http@2.34?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-simple-http@2.35
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-simple-http@2.35?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-simple-http@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-simple-http@2.4
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-simple-http@2.4.1

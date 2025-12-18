@@ -66,3 +66,7 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.6.3-m2
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.6.3-m3
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.6.3-m4
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.6.3-m5
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.7.0-m1
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.7.0-m2
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.7.0-m3

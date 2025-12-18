@@ -98,3 +98,11 @@
 - pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.5-noshaded
 - pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.5-noshaded?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.5?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.6
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.6-noshaded
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.6-noshaded?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.6?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.7
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.7-noshaded
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.7-noshaded?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-geo_2.12@1.0.7?classifier=sources

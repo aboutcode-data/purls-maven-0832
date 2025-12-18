@@ -6,3 +6,7 @@
 - pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20210429-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20210429-1.32.1
 - pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20210429-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20210727-1.32.1
+- pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20210727-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20210826-1.32.1
+- pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20210826-1.32.1?classifier=sources

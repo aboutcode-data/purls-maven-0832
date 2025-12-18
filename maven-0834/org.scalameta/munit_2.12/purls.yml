@@ -83,6 +83,10 @@
 - pkg:maven/org.scalameta/munit_2.12@0.7.26?classifier=sources
 - pkg:maven/org.scalameta/munit_2.12@0.7.27
 - pkg:maven/org.scalameta/munit_2.12@0.7.27?classifier=sources
+- pkg:maven/org.scalameta/munit_2.12@0.7.28
+- pkg:maven/org.scalameta/munit_2.12@0.7.28?classifier=sources
+- pkg:maven/org.scalameta/munit_2.12@0.7.29
+- pkg:maven/org.scalameta/munit_2.12@0.7.29?classifier=sources
 - pkg:maven/org.scalameta/munit_2.12@0.7.2?classifier=sources
 - pkg:maven/org.scalameta/munit_2.12@0.7.3
 - pkg:maven/org.scalameta/munit_2.12@0.7.3?classifier=sources

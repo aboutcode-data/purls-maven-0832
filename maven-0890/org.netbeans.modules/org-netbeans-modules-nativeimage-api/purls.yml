@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE125?classifier=sources

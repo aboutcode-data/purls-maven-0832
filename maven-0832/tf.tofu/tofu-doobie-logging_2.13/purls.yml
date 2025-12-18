@@ -1,0 +1,2 @@
+- pkg:maven/tf.tofu/tofu-doobie-logging_2.13@0.10.4
+- pkg:maven/tf.tofu/tofu-doobie-logging_2.13@0.10.4?classifier=sources

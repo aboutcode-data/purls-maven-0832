@@ -72,3 +72,5 @@
 - pkg:maven/vip.justlive/oxygen-jdbc@3.0.6.0
 - pkg:maven/vip.justlive/oxygen-jdbc@3.0.6.0?classifier=sources
 - pkg:maven/vip.justlive/oxygen-jdbc@3.0.6?classifier=sources
+- pkg:maven/vip.justlive/oxygen-jdbc@3.0.7
+- pkg:maven/vip.justlive/oxygen-jdbc@3.0.7?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@4.7.1.Final
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@4.7.1.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/integration-tests-embedded@5.0.0.Alpha1
+- pkg:maven/org.jboss.resteasy/integration-tests-embedded@5.0.0.Alpha1?classifier=sources

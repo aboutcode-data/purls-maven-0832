@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.beautify-web/js-beautify@1.14.0
+- pkg:maven/org.webjars.bowergithub.beautify-web/js-beautify@1.14.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.beautify-web/js-beautify@1.7.5
 - pkg:maven/org.webjars.bowergithub.beautify-web/js-beautify@1.7.5?classifier=sources

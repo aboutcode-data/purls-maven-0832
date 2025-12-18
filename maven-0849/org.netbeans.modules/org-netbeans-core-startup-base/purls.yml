@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-startup-base@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-startup-base@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-startup-base@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-startup-base@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-startup-base@RELEASE90?classifier=sources

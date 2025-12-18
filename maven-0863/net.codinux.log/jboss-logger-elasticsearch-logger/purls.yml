@@ -1,0 +1,2 @@
+- pkg:maven/net.codinux.log/jboss-logger-elasticsearch-logger@1.0.0?classifier=sources
+- pkg:maven/net.codinux.log/jboss-logger-elasticsearch-logger@1.1.0?classifier=sources

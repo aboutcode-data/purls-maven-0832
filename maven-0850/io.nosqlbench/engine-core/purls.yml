@@ -278,3 +278,7 @@
 - pkg:maven/io.nosqlbench/engine-core@4.15.49?classifier=sources
 - pkg:maven/io.nosqlbench/engine-core@4.15.50
 - pkg:maven/io.nosqlbench/engine-core@4.15.50?classifier=sources
+- pkg:maven/io.nosqlbench/engine-core@4.15.52
+- pkg:maven/io.nosqlbench/engine-core@4.15.52?classifier=sources
+- pkg:maven/io.nosqlbench/engine-core@4.15.53
+- pkg:maven/io.nosqlbench/engine-core@4.15.53?classifier=sources

@@ -43,6 +43,8 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-client@1.16?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-client@1.17
 - pkg:maven/org.glassfish.tyrus/tyrus-client@1.17?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-client@1.18
+- pkg:maven/org.glassfish.tyrus/tyrus-client@1.18?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-client@1.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-client@1.2
 - pkg:maven/org.glassfish.tyrus/tyrus-client@1.2.1
@@ -88,3 +90,5 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-client@2.0.0-RC1
 - pkg:maven/org.glassfish.tyrus/tyrus-client@2.0.0-RC1?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-client@2.0.0?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-client@2.0.1
+- pkg:maven/org.glassfish.tyrus/tyrus-client@2.0.1?classifier=sources

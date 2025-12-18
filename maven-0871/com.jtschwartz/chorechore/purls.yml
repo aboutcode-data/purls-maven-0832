@@ -1,0 +1,2 @@
+- pkg:maven/com.jtschwartz/chorechore@1.1
+- pkg:maven/com.jtschwartz/chorechore@1.1?classifier=sources

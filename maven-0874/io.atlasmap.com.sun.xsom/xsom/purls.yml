@@ -88,3 +88,7 @@
 - pkg:maven/io.atlasmap.com.sun.xsom/xsom@2.2.2?classifier=sources
 - pkg:maven/io.atlasmap.com.sun.xsom/xsom@2.2.3
 - pkg:maven/io.atlasmap.com.sun.xsom/xsom@2.2.3?classifier=sources
+- pkg:maven/io.atlasmap.com.sun.xsom/xsom@2.3.0-M.3
+- pkg:maven/io.atlasmap.com.sun.xsom/xsom@2.3.0-M.3?classifier=sources
+- pkg:maven/io.atlasmap.com.sun.xsom/xsom@2.3.0-M.5
+- pkg:maven/io.atlasmap.com.sun.xsom/xsom@2.3.0-M.5?classifier=sources

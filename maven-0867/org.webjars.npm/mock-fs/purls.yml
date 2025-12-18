@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/mock-fs@4.12.0
 - pkg:maven/org.webjars.npm/mock-fs@4.12.0?classifier=sources
+- pkg:maven/org.webjars.npm/mock-fs@5.0.0-dev.1621792812199
+- pkg:maven/org.webjars.npm/mock-fs@5.0.0-dev.1621792812199?classifier=sources

@@ -106,3 +106,5 @@
 - pkg:maven/org.apache.pdfbox/pdfbox-app@2.0.9?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox-app@3.0.0-RC1
 - pkg:maven/org.apache.pdfbox/pdfbox-app@3.0.0-RC1?classifier=sources
+- pkg:maven/org.apache.pdfbox/pdfbox-app@3.0.0-alpha2
+- pkg:maven/org.apache.pdfbox/pdfbox-app@3.0.0-alpha2?classifier=sources

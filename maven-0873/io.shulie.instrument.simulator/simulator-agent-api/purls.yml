@@ -1,0 +1,2 @@
+- pkg:maven/io.shulie.instrument.simulator/simulator-agent-api@5.0.0
+- pkg:maven/io.shulie.instrument.simulator/simulator-agent-api@5.0.0?classifier=sources

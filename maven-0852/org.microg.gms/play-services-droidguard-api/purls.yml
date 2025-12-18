@@ -2,3 +2,4 @@
 - pkg:maven/org.microg.gms/play-services-droidguard-api@0.2.19.211515?classifier=sources
 - pkg:maven/org.microg.gms/play-services-droidguard-api@0.2.20.212158?classifier=sources
 - pkg:maven/org.microg.gms/play-services-droidguard-api@0.2.21.212158?classifier=sources
+- pkg:maven/org.microg.gms/play-services-droidguard-api@0.2.22.212658?classifier=sources

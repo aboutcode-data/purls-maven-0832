@@ -34,3 +34,7 @@
 - pkg:maven/org.odpi.egeria/open-connector-archives@2.8?classifier=sources
 - pkg:maven/org.odpi.egeria/open-connector-archives@2.9
 - pkg:maven/org.odpi.egeria/open-connector-archives@2.9?classifier=sources
+- pkg:maven/org.odpi.egeria/open-connector-archives@3.0
+- pkg:maven/org.odpi.egeria/open-connector-archives@3.0?classifier=sources
+- pkg:maven/org.odpi.egeria/open-connector-archives@3.1
+- pkg:maven/org.odpi.egeria/open-connector-archives@3.1?classifier=sources

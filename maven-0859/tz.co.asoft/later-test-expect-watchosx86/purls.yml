@@ -3,3 +3,5 @@
 - pkg:maven/tz.co.asoft/later-test-expect-watchosx86@0.0.61?classifier=sources
 - pkg:maven/tz.co.asoft/later-test-expect-watchosx86@0.0.62?classifier=sources
 - pkg:maven/tz.co.asoft/later-test-expect-watchosx86@0.0.63?classifier=sources
+- pkg:maven/tz.co.asoft/later-test-expect-watchosx86@0.0.64?classifier=sources
+- pkg:maven/tz.co.asoft/later-test-expect-watchosx86@1.4.0?classifier=sources

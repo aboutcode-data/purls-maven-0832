@@ -199,6 +199,12 @@
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.24?classifier=sources
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.25
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.25?classifier=sources
+- pkg:maven/org.jpmml/jpmml-sklearn@1.6.26
+- pkg:maven/org.jpmml/jpmml-sklearn@1.6.26?classifier=sources
+- pkg:maven/org.jpmml/jpmml-sklearn@1.6.27
+- pkg:maven/org.jpmml/jpmml-sklearn@1.6.27?classifier=sources
+- pkg:maven/org.jpmml/jpmml-sklearn@1.6.28
+- pkg:maven/org.jpmml/jpmml-sklearn@1.6.28?classifier=sources
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.2?classifier=sources
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.3
 - pkg:maven/org.jpmml/jpmml-sklearn@1.6.3?classifier=sources

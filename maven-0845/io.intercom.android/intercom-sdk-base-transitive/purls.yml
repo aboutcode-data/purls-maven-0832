@@ -4,6 +4,8 @@
 - pkg:maven/io.intercom.android/intercom-sdk-base-transitive@10.0.1?type=aar
 - pkg:maven/io.intercom.android/intercom-sdk-base-transitive@10.0.2?classifier=sources
 - pkg:maven/io.intercom.android/intercom-sdk-base-transitive@10.0.2?type=aar
+- pkg:maven/io.intercom.android/intercom-sdk-base-transitive@10.1.0?classifier=sources
+- pkg:maven/io.intercom.android/intercom-sdk-base-transitive@10.1.0?type=aar
 - pkg:maven/io.intercom.android/intercom-sdk-base-transitive@3.0.10?classifier=sources
 - pkg:maven/io.intercom.android/intercom-sdk-base-transitive@3.0.10?type=aar
 - pkg:maven/io.intercom.android/intercom-sdk-base-transitive@3.0.11?classifier=sources

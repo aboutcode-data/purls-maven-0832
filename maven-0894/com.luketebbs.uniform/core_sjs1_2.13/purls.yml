@@ -1,0 +1,2 @@
+- pkg:maven/com.luketebbs.uniform/core_sjs1_2.13@5.0.0-RC1
+- pkg:maven/com.luketebbs.uniform/core_sjs1_2.13@5.0.0-RC1?classifier=sources

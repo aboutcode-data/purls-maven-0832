@@ -5,3 +5,5 @@
 - pkg:maven/io.trino/trino-clickhouse@357?classifier=sources
 - pkg:maven/io.trino/trino-clickhouse@358?classifier=sources
 - pkg:maven/io.trino/trino-clickhouse@359?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@360?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@361?classifier=sources

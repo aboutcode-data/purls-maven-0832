@@ -1,0 +1,2 @@
+- pkg:maven/io.prometheus/servlet_jakarta_exporter_webxml@0.12.0?classifier=sources
+- pkg:maven/io.prometheus/servlet_jakarta_exporter_webxml@0.12.0?type=war

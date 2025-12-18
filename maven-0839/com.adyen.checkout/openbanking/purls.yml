@@ -2,3 +2,5 @@
 - pkg:maven/com.adyen.checkout/openbanking@4.0.0-beta02?type=aar
 - pkg:maven/com.adyen.checkout/openbanking@4.0.0-beta03?classifier=sources
 - pkg:maven/com.adyen.checkout/openbanking@4.0.0?classifier=sources
+- pkg:maven/com.adyen.checkout/openbanking@4.1.0?classifier=sources
+- pkg:maven/com.adyen.checkout/openbanking@4.1.1?classifier=sources

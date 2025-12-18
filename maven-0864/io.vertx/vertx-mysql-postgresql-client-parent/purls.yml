@@ -16,3 +16,4 @@
 - pkg:maven/io.vertx/vertx-mysql-postgresql-client-parent@3.9.6?classifier=sources
 - pkg:maven/io.vertx/vertx-mysql-postgresql-client-parent@3.9.7?classifier=sources
 - pkg:maven/io.vertx/vertx-mysql-postgresql-client-parent@3.9.8?classifier=sources
+- pkg:maven/io.vertx/vertx-mysql-postgresql-client-parent@3.9.9?classifier=sources

@@ -394,6 +394,16 @@
 - pkg:maven/com.facebook.presto/presto-benchmark@0.256?classifier=sources
 - pkg:maven/com.facebook.presto/presto-benchmark@0.257
 - pkg:maven/com.facebook.presto/presto-benchmark@0.257?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchmark@0.258
+- pkg:maven/com.facebook.presto/presto-benchmark@0.258?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchmark@0.259
+- pkg:maven/com.facebook.presto/presto-benchmark@0.259.1
+- pkg:maven/com.facebook.presto/presto-benchmark@0.259.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchmark@0.259?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchmark@0.260
+- pkg:maven/com.facebook.presto/presto-benchmark@0.260.1
+- pkg:maven/com.facebook.presto/presto-benchmark@0.260.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchmark@0.260?classifier=sources
 - pkg:maven/com.facebook.presto/presto-benchmark@0.69
 - pkg:maven/com.facebook.presto/presto-benchmark@0.69?classifier=sources
 - pkg:maven/com.facebook.presto/presto-benchmark@0.70

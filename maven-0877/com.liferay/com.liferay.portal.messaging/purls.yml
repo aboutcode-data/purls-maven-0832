@@ -93,6 +93,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.31
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.32
+- pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.4
@@ -171,6 +174,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.26
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.27
+- pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.3
@@ -246,6 +252,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.25
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.26
+- pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.3
@@ -353,3 +362,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.6
 - pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.7
+- pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.7?classifier=sources-commercial
