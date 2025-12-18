@@ -6,5 +6,9 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-client@10.0.0.alpha2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-client@10.0.0.beta0
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-client@10.0.0.beta0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket-client@10.0.0.beta1
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket-client@10.0.0.beta1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-client@11.0.0-alpha0
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-client@11.0.0-alpha0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket-client@11.0.0.beta1
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket-client@11.0.0.beta1?classifier=sources

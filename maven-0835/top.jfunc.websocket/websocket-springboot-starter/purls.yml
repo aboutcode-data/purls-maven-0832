@@ -15,4 +15,6 @@
 - pkg:maven/top.jfunc.websocket/websocket-springboot-starter@1.8.2.2?classifier=sources
 - pkg:maven/top.jfunc.websocket/websocket-springboot-starter@1.8.2.3
 - pkg:maven/top.jfunc.websocket/websocket-springboot-starter@1.8.2.3?classifier=sources
+- pkg:maven/top.jfunc.websocket/websocket-springboot-starter@1.8.2.4
+- pkg:maven/top.jfunc.websocket/websocket-springboot-starter@1.8.2.4?classifier=sources
 - pkg:maven/top.jfunc.websocket/websocket-springboot-starter@1.8.2?classifier=sources

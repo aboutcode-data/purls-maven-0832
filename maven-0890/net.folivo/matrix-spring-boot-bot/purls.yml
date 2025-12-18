@@ -7,6 +7,7 @@
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.0.RELEASE?classifier=sources
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.1.RELEASE?classifier=sources
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.10.RELEASE?classifier=sources
+- pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.11.RELEASE?classifier=sources
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.2.RELEASE?classifier=sources
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.3.RELEASE?classifier=sources
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.4.RELEASE?classifier=sources
@@ -15,3 +16,6 @@
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.7.RELEASE?classifier=sources
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.8.RELEASE?classifier=sources
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.2.9.RELEASE?classifier=sources
+- pkg:maven/net.folivo/matrix-spring-boot-bot@0.3.0.RELEASE?classifier=sources
+- pkg:maven/net.folivo/matrix-spring-boot-bot@0.3.1.RELEASE?classifier=sources
+- pkg:maven/net.folivo/matrix-spring-boot-bot@0.3.2.RELEASE?classifier=sources

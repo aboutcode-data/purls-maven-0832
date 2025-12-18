@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/pnotify@4.0.0-beta.2
 - pkg:maven/org.webjars.npm/pnotify@4.0.0-beta.2?classifier=sources
 - pkg:maven/org.webjars.npm/pnotify@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/pnotify@5.1.2
+- pkg:maven/org.webjars.npm/pnotify@5.1.2?classifier=sources

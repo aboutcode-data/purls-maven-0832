@@ -20,3 +20,7 @@
 - pkg:maven/com.cognitect.aws/kafka@789.2.611.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kafka@793.2.626.0
 - pkg:maven/com.cognitect.aws/kafka@793.2.626.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kafka@801.2.686.0
+- pkg:maven/com.cognitect.aws/kafka@801.2.686.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kafka@807.2.729.0
+- pkg:maven/com.cognitect.aws/kafka@807.2.729.0?classifier=sources

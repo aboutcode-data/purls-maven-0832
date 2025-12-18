@@ -1,2 +1,4 @@
 - pkg:maven/de.uni-mannheim.informatik.dws.melt/yet-another-alignment-api@2.4
 - pkg:maven/de.uni-mannheim.informatik.dws.melt/yet-another-alignment-api@2.4?classifier=sources
+- pkg:maven/de.uni-mannheim.informatik.dws.melt/yet-another-alignment-api@2.5
+- pkg:maven/de.uni-mannheim.informatik.dws.melt/yet-another-alignment-api@2.5?classifier=sources

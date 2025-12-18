@@ -13,4 +13,5 @@
 - pkg:maven/org.danilopianini/gradle-latex@0.1.1-dev01%2B4d0243b?classifier=sources
 - pkg:maven/org.danilopianini/gradle-latex@0.1.1?classifier=sources
 - pkg:maven/org.danilopianini/gradle-latex@0.2.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-latex@0.2.1-dev1c%2Ba2afb19?classifier=sources
 - pkg:maven/org.danilopianini/gradle-latex@0.2.1?classifier=sources

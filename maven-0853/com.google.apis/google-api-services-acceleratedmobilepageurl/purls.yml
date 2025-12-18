@@ -86,6 +86,8 @@
 - pkg:maven/com.google.apis/google-api-services-acceleratedmobilepageurl@v1-rev20200210-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-acceleratedmobilepageurl@v1-rev20200212-1.30.8
 - pkg:maven/com.google.apis/google-api-services-acceleratedmobilepageurl@v1-rev20200212-1.30.8?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-acceleratedmobilepageurl@v1-rev20200215-1.30.10
+- pkg:maven/com.google.apis/google-api-services-acceleratedmobilepageurl@v1-rev20200215-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-acceleratedmobilepageurl@v1-rev20200215-1.30.9
 - pkg:maven/com.google.apis/google-api-services-acceleratedmobilepageurl@v1-rev20200215-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-acceleratedmobilepageurl@v1-rev3-1.18.0-rc

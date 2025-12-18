@@ -23,6 +23,16 @@
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-20?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-21
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-21?classifier=sources
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-22
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-22?classifier=sources
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-23
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-23?classifier=sources
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-24
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-24?classifier=sources
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-25
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-25?classifier=sources
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-26
+- pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-26?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-2?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-3
 - pkg:maven/io.get-coursier/coursier-launcher-native_0.3_2.12@2.0.0-RC6-3?classifier=sources

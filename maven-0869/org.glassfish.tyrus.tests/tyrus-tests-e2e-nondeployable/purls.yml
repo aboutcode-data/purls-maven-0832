@@ -25,3 +25,4 @@
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-nondeployable@1.9?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-nondeployable@2.0.0-M1?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-nondeployable@2.0.0-M2?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-nondeployable@2.0.0-M3?type=war

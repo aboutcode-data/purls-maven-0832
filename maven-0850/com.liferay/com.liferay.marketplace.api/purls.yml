@@ -62,6 +62,9 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.21
 - pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.22
+- pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.api@4.4.3
@@ -104,6 +107,9 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.api@5.0.14
 - pkg:maven/com.liferay/com.liferay.marketplace.api@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@5.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.api@5.0.15
+- pkg:maven/com.liferay/com.liferay.marketplace.api@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.api@5.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.api@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.api@5.0.2
@@ -181,3 +187,9 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.api@7.2.1
 - pkg:maven/com.liferay/com.liferay.marketplace.api@7.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@7.2.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.api@7.2.2
+- pkg:maven/com.liferay/com.liferay.marketplace.api@7.2.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.api@7.2.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.api@7.2.3
+- pkg:maven/com.liferay/com.liferay.marketplace.api@7.2.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.api@7.2.3?classifier=sources-commercial

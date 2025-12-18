@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shumonsharif/quarkus-cxf-deployment@1.0.0-alpha-01
+- pkg:maven/com.github.shumonsharif/quarkus-cxf-deployment@1.0.0-alpha-01?classifier=sources

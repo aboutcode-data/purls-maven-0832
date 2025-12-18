@@ -88,3 +88,5 @@
 - pkg:maven/org.ikasan/ikasan-spring-resource@2.1.3?classifier=sources
 - pkg:maven/org.ikasan/ikasan-spring-resource@3.0.0
 - pkg:maven/org.ikasan/ikasan-spring-resource@3.0.0?classifier=sources
+- pkg:maven/org.ikasan/ikasan-spring-resource@3.0.1
+- pkg:maven/org.ikasan/ikasan-spring-resource@3.0.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-runtime@0.14.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-runtime@0.20.0
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-runtime@0.20.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-runtime@1.0-M1-1.4.0-rc?classifier=sources

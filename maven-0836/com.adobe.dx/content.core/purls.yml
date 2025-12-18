@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.dx/content.core@0.0.10
+- pkg:maven/com.adobe.dx/content.core@0.0.10?classifier=sources

@@ -2,3 +2,11 @@
 - pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.0?classifier=sources
 - pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.1
 - pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.1?classifier=sources
+- pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.2
+- pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.2?classifier=sources
+- pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.3
+- pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.3.1
+- pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.3.1?classifier=sources
+- pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.3?classifier=sources
+- pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.4
+- pkg:maven/org.scala-exercises/evaluator-client_2.13@0.6.4?classifier=sources

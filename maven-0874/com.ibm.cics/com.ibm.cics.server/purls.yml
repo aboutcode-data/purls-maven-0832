@@ -10,3 +10,4 @@
 - pkg:maven/com.ibm.cics/com.ibm.cics.server@1.700.1-5.4-PH25409
 - pkg:maven/com.ibm.cics/com.ibm.cics.server@1.700.1-5.5-PH11872
 - pkg:maven/com.ibm.cics/com.ibm.cics.server@1.700.1-5.5-PH25409
+- pkg:maven/com.ibm.cics/com.ibm.cics.server@1.800.0-5.6

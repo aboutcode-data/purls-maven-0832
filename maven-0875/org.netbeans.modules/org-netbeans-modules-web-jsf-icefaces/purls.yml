@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE121?classifier=sources

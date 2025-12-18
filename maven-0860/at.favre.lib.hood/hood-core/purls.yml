@@ -10,3 +10,5 @@
 - pkg:maven/at.favre.lib.hood/hood-core@0.5.3?type=aar
 - pkg:maven/at.favre.lib.hood/hood-core@0.6.0?classifier=sources
 - pkg:maven/at.favre.lib.hood/hood-core@0.6.0?type=aar
+- pkg:maven/at.favre.lib.hood/hood-core@0.7.0?classifier=sources
+- pkg:maven/at.favre.lib.hood/hood-core@0.7.0?type=aar

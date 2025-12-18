@@ -1,0 +1,2 @@
+- pkg:maven/io.joyrpc/joyrpc-extension-spring@1.2.0-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-extension-spring@1.2.0-RELEASE?classifier=sources

@@ -1,6 +1,12 @@
 - pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.0
 - pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.0?classifier=sources
 - pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.1
+- pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.10
+- pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.10?classifier=sources
+- pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.11
+- pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.11?classifier=sources
+- pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.12
+- pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.12?classifier=sources
 - pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.1?classifier=sources
 - pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.4
 - pkg:maven/com.github.robertdeocampojr/jspringbot-extension@1.4?classifier=sources

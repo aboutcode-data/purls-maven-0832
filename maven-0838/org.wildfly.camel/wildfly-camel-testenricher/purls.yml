@@ -12,6 +12,8 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@11.0.1?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@11.1.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@11.1.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@12.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@12.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@2.3.0.redhat-621084
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@2.3.0.redhat-621084?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-testenricher@2.3.0.redhat-621090

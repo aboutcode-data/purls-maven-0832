@@ -1,0 +1,2 @@
+- pkg:maven/com.github.neusnail/spring-eventbus@1.0
+- pkg:maven/com.github.neusnail/spring-eventbus@1.0?classifier=sources

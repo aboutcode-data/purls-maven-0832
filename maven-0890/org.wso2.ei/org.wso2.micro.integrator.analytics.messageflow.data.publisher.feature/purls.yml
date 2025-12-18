@@ -4,6 +4,7 @@
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher.feature@1.1.0-beta?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher.feature@1.1.0?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher.feature@1.2.0-alpha?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher.feature@1.2.0-beta?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher.feature@1.2.0-m1?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher.feature@1.2.0-m2?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher.feature@1.2.0-m3?classifier=sources

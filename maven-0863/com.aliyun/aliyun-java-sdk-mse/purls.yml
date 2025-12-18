@@ -12,3 +12,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-mse@2.4.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-mse@2.4.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-mse@2.4.3?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-mse@2.6.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-mse@2.6.0?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/com.formulasearchengine.mathmltools/mathml-converters@2.0.3?classifier=sources
 - pkg:maven/com.formulasearchengine.mathmltools/mathml-converters@2.0.4
 - pkg:maven/com.formulasearchengine.mathmltools/mathml-converters@2.0.4?classifier=sources
+- pkg:maven/com.formulasearchengine.mathmltools/mathml-converters@2.0.5
+- pkg:maven/com.formulasearchengine.mathmltools/mathml-converters@2.0.5?classifier=sources
 - pkg:maven/com.formulasearchengine.mathmltools/mathml-converters@mathmltools-2.0.2
 - pkg:maven/com.formulasearchengine.mathmltools/mathml-converters@mathmltools-2.0.2?classifier=sources
 - pkg:maven/com.formulasearchengine.mathmltools/mathml-converters@v2.0.0

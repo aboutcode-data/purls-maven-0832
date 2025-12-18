@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye/smallrye-health-provided-checks@2.2.3
+- pkg:maven/io.smallrye/smallrye-health-provided-checks@2.2.3?classifier=sources

@@ -59,6 +59,14 @@
 - pkg:maven/ru.r2cloud/jradio@1.4
 - pkg:maven/ru.r2cloud/jradio@1.41
 - pkg:maven/ru.r2cloud/jradio@1.41?classifier=sources
+- pkg:maven/ru.r2cloud/jradio@1.44
+- pkg:maven/ru.r2cloud/jradio@1.44?classifier=sources
+- pkg:maven/ru.r2cloud/jradio@1.45
+- pkg:maven/ru.r2cloud/jradio@1.45?classifier=sources
+- pkg:maven/ru.r2cloud/jradio@1.46
+- pkg:maven/ru.r2cloud/jradio@1.46?classifier=sources
+- pkg:maven/ru.r2cloud/jradio@1.47
+- pkg:maven/ru.r2cloud/jradio@1.47?classifier=sources
 - pkg:maven/ru.r2cloud/jradio@1.4?classifier=sources
 - pkg:maven/ru.r2cloud/jradio@1.5
 - pkg:maven/ru.r2cloud/jradio@1.5?classifier=sources

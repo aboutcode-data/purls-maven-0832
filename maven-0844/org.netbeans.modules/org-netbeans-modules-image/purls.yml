@@ -4,5 +4,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-image@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-image@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-image@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-image@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-image@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-image@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-image@RELEASE90?classifier=sources

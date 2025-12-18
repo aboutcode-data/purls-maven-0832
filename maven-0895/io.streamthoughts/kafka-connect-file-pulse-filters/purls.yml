@@ -1,0 +1,8 @@
+- pkg:maven/io.streamthoughts/kafka-connect-file-pulse-filters@1.3.1
+- pkg:maven/io.streamthoughts/kafka-connect-file-pulse-filters@1.3.1?classifier=sources
+- pkg:maven/io.streamthoughts/kafka-connect-file-pulse-filters@1.4.1
+- pkg:maven/io.streamthoughts/kafka-connect-file-pulse-filters@1.4.1?classifier=sources
+- pkg:maven/io.streamthoughts/kafka-connect-file-pulse-filters@1.4.2
+- pkg:maven/io.streamthoughts/kafka-connect-file-pulse-filters@1.4.2?classifier=sources
+- pkg:maven/io.streamthoughts/kafka-connect-file-pulse-filters@1.5.2
+- pkg:maven/io.streamthoughts/kafka-connect-file-pulse-filters@1.5.2?classifier=sources

@@ -70,3 +70,15 @@
 - pkg:maven/io.prestosql/presto-spi@334?classifier=sources
 - pkg:maven/io.prestosql/presto-spi@335
 - pkg:maven/io.prestosql/presto-spi@335?classifier=sources
+- pkg:maven/io.prestosql/presto-spi@336
+- pkg:maven/io.prestosql/presto-spi@336?classifier=sources
+- pkg:maven/io.prestosql/presto-spi@337
+- pkg:maven/io.prestosql/presto-spi@337?classifier=sources
+- pkg:maven/io.prestosql/presto-spi@338
+- pkg:maven/io.prestosql/presto-spi@338?classifier=sources
+- pkg:maven/io.prestosql/presto-spi@339
+- pkg:maven/io.prestosql/presto-spi@339?classifier=sources
+- pkg:maven/io.prestosql/presto-spi@340
+- pkg:maven/io.prestosql/presto-spi@340?classifier=sources
+- pkg:maven/io.prestosql/presto-spi@341
+- pkg:maven/io.prestosql/presto-spi@341?classifier=sources

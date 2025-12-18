@@ -8,3 +8,7 @@
 - pkg:maven/de.picturesafe.search/picturesafe-search@3.3.0?classifier=sources
 - pkg:maven/de.picturesafe.search/picturesafe-search@3.4.0
 - pkg:maven/de.picturesafe.search/picturesafe-search@3.4.0?classifier=sources
+- pkg:maven/de.picturesafe.search/picturesafe-search@3.4.1
+- pkg:maven/de.picturesafe.search/picturesafe-search@3.4.1?classifier=sources
+- pkg:maven/de.picturesafe.search/picturesafe-search@3.5.0
+- pkg:maven/de.picturesafe.search/picturesafe-search@3.5.0?classifier=sources

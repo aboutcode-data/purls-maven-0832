@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/malevic@0.18.3
+- pkg:maven/org.webjars.npm/malevic@0.18.3?classifier=sources

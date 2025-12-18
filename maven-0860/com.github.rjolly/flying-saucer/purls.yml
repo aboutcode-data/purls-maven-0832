@@ -8,3 +8,9 @@
 - pkg:maven/com.github.rjolly/flying-saucer@9.1.20?classifier=sources
 - pkg:maven/com.github.rjolly/flying-saucer@9.1.21
 - pkg:maven/com.github.rjolly/flying-saucer@9.1.21?classifier=sources
+- pkg:maven/com.github.rjolly/flying-saucer@9.1.22
+- pkg:maven/com.github.rjolly/flying-saucer@9.1.22?classifier=sources
+- pkg:maven/com.github.rjolly/flying-saucer@9.1.23
+- pkg:maven/com.github.rjolly/flying-saucer@9.1.23?classifier=sources
+- pkg:maven/com.github.rjolly/flying-saucer@9.1.24
+- pkg:maven/com.github.rjolly/flying-saucer@9.1.24?classifier=sources

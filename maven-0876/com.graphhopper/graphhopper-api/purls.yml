@@ -168,6 +168,8 @@
 - pkg:maven/com.graphhopper/graphhopper-api@1.0-prelmfix
 - pkg:maven/com.graphhopper/graphhopper-api@1.0-prelmfix?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-api@1.0?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-api@2.0-pre2
+- pkg:maven/com.graphhopper/graphhopper-api@2.0-pre2?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-api@feature_1850_01
 - pkg:maven/com.graphhopper/graphhopper-api@feature_1850_01?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-api@feature_1850_02

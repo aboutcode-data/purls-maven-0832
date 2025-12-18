@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/crc32-stream@0.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/crc32-stream@2.0.0
 - pkg:maven/org.webjars.npm/crc32-stream@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/crc32-stream@3.0.1
+- pkg:maven/org.webjars.npm/crc32-stream@3.0.1?classifier=sources

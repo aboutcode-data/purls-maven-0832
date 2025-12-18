@@ -1,2 +1,8 @@
 - pkg:maven/org.commonjava.indy/indy-repo-proxy-common@2.2.0
 - pkg:maven/org.commonjava.indy/indy-repo-proxy-common@2.2.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-repo-proxy-common@2.3.0
+- pkg:maven/org.commonjava.indy/indy-repo-proxy-common@2.3.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-repo-proxy-common@2.4.0
+- pkg:maven/org.commonjava.indy/indy-repo-proxy-common@2.4.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-repo-proxy-common@2.4.1
+- pkg:maven/org.commonjava.indy/indy-repo-proxy-common@2.4.1?classifier=sources

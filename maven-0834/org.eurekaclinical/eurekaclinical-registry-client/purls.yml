@@ -32,3 +32,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.4?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.5
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.5?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.6-Alpha-2
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-client@1.6-Alpha-2?classifier=sources

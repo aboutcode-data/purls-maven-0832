@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.browser.chromium.gtk.linux.x86_64@3.115.0
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.browser.chromium.gtk.linux.x86_64@3.115.0?classifier=sources

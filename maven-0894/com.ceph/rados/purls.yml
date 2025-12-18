@@ -6,3 +6,4 @@
 - pkg:maven/com.ceph/rados@0.3.0?classifier=sources
 - pkg:maven/com.ceph/rados@0.5.0
 - pkg:maven/com.ceph/rados@0.5.0?classifier=sources
+- pkg:maven/com.ceph/rados@0.6.0?classifier=sources

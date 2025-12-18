@@ -1,0 +1,2 @@
+- pkg:maven/net.wicp.tams/common-binlog-alone-api@3.6.13
+- pkg:maven/net.wicp.tams/common-binlog-alone-api@3.6.13?classifier=sources

@@ -88,3 +88,17 @@
 - pkg:maven/org.wvlet.airframe/airspec_2.11@20.5.2?classifier=sources
 - pkg:maven/org.wvlet.airframe/airspec_2.11@20.6.0
 - pkg:maven/org.wvlet.airframe/airspec_2.11@20.6.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.6.1
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.6.1?classifier=sources
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.6.2
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.6.2?classifier=sources
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.7.0
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.7.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.8.0
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.8.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.9.0
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.9.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.9.1
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.9.1?classifier=sources
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.9.2
+- pkg:maven/org.wvlet.airframe/airspec_2.11@20.9.2?classifier=sources

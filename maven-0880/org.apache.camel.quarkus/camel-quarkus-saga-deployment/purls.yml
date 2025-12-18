@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-saga-deployment@1.1.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-saga-deployment@1.1.0?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/de.adorsys.xs2a.adapter/fiducia-adapter@0.0.8?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/fiducia-adapter@0.0.9
 - pkg:maven/de.adorsys.xs2a.adapter/fiducia-adapter@0.0.9?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/fiducia-adapter@0.1.0
+- pkg:maven/de.adorsys.xs2a.adapter/fiducia-adapter@0.1.0?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/fiducia-adapter@0.1.1
+- pkg:maven/de.adorsys.xs2a.adapter/fiducia-adapter@0.1.1?classifier=sources

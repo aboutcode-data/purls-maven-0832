@@ -16,3 +16,5 @@
 - pkg:maven/org.snmp4j/snmp4j-agent-db@3.3.1?classifier=sources
 - pkg:maven/org.snmp4j/snmp4j-agent-db@3.3.2
 - pkg:maven/org.snmp4j/snmp4j-agent-db@3.3.2?classifier=sources
+- pkg:maven/org.snmp4j/snmp4j-agent-db@3.3.4
+- pkg:maven/org.snmp4j/snmp4j-agent-db@3.3.4?classifier=sources

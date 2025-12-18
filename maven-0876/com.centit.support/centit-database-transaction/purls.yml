@@ -1,2 +1,4 @@
 - pkg:maven/com.centit.support/centit-database-transaction@2.3.2002
 - pkg:maven/com.centit.support/centit-database-transaction@2.3.2002?classifier=sources
+- pkg:maven/com.centit.support/centit-database-transaction@2.3.2007
+- pkg:maven/com.centit.support/centit-database-transaction@2.3.2007?classifier=sources

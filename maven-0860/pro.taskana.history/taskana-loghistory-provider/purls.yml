@@ -1,0 +1,4 @@
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@4.0.0
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@4.0.0?classifier=sources
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@4.0.1
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@4.0.1?classifier=sources

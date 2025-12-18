@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.cargo/cargo-ping-component@1.8.0?type=war
+- pkg:maven/org.codehaus.cargo/cargo-ping-component@1.8.1?type=war

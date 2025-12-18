@@ -1,5 +1,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.gtk.linux.ppc64le@1.1.1000
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.gtk.linux.ppc64le@1.1.1100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.gtk.linux.ppc64le@1.1.1200
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.gtk.linux.ppc64le@1.1.1300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.gtk.linux.ppc64le@1.1.401
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.gtk.linux.ppc64le@1.1.500
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.gtk.linux.ppc64le@1.1.550

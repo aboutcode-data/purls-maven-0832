@@ -86,6 +86,8 @@
 - pkg:maven/com.google.cloud/google-cloud-vision@0.9.3-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@0.9.4-beta
 - pkg:maven/com.google.cloud/google-cloud-vision@0.9.4-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-vision@1.100.0
+- pkg:maven/com.google.cloud/google-cloud-vision@1.100.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@1.12.0
 - pkg:maven/com.google.cloud/google-cloud-vision@1.12.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@1.13.0

@@ -876,6 +876,16 @@
 - pkg:maven/com.google.apis/google-api-services-games@v1-rev20200416-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-games@v1-rev20200528-1.30.9
 - pkg:maven/com.google.apis/google-api-services-games@v1-rev20200528-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200625-1.30.10
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200625-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200625-1.30.9
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200625-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200720-1.30.10
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200720-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200811-1.30.10
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200811-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200826-1.30.10
+- pkg:maven/com.google.apis/google-api-services-games@v1-rev20200826-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-games@v1-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-games@v1-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-games@v1-rev203-1.20.0

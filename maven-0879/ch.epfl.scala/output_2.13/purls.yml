@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/output_2.13@1.4.0
+- pkg:maven/ch.epfl.scala/output_2.13@1.4.0?classifier=sources

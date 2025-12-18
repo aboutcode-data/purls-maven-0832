@@ -89,6 +89,12 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.12?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.13
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.13?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.14
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.14?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.15
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.15?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.16
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.16?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.1?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.2
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.2?classifier=sources
@@ -106,3 +112,7 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.8?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.9
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.7.9?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.8.0
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.8.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.8.1
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-remoteDeploy-test@1.8.1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/fundamental-styles@0.10.0
+- pkg:maven/org.webjars.npm/fundamental-styles@0.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/fundamental-styles@0.3.0
 - pkg:maven/org.webjars.npm/fundamental-styles@0.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/fundamental-styles@0.6.0

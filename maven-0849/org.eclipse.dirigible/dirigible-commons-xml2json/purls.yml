@@ -66,3 +66,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-commons-xml2json@4.5.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-commons-xml2json@4.6.0
 - pkg:maven/org.eclipse.dirigible/dirigible-commons-xml2json@4.6.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-commons-xml2json@5.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons-xml2json@5.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-commons-xml2json@5.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons-xml2json@5.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-commons-xml2json@5.2.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons-xml2json@5.2.0?classifier=sources

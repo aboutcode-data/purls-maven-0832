@@ -1,0 +1,8 @@
+- pkg:maven/org.infinispan/infinispan-search-mapper@12.0.0.Dev01
+- pkg:maven/org.infinispan/infinispan-search-mapper@12.0.0.Dev01?classifier=sources
+- pkg:maven/org.infinispan/infinispan-search-mapper@12.0.0.Dev02
+- pkg:maven/org.infinispan/infinispan-search-mapper@12.0.0.Dev02?classifier=sources
+- pkg:maven/org.infinispan/infinispan-search-mapper@12.0.0.Dev03
+- pkg:maven/org.infinispan/infinispan-search-mapper@12.0.0.Dev03?classifier=sources
+- pkg:maven/org.infinispan/infinispan-search-mapper@12.0.0.Dev3
+- pkg:maven/org.infinispan/infinispan-search-mapper@12.0.0.Dev3?classifier=sources

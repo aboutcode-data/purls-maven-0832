@@ -1,0 +1,2 @@
+- pkg:maven/it.multicoredev.mbcore.spigot/MBCore-spigot@6.0.4
+- pkg:maven/it.multicoredev.mbcore.spigot/MBCore-spigot@6.0.4?classifier=sources

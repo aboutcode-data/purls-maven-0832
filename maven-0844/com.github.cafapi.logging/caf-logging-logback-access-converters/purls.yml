@@ -1,2 +1,4 @@
 - pkg:maven/com.github.cafapi.logging/caf-logging-logback-access-converters@1.2.0-67
 - pkg:maven/com.github.cafapi.logging/caf-logging-logback-access-converters@1.2.0-67?classifier=sources
+- pkg:maven/com.github.cafapi.logging/caf-logging-logback-access-converters@1.3.0-95
+- pkg:maven/com.github.cafapi.logging/caf-logging-logback-access-converters@1.3.0-95?classifier=sources

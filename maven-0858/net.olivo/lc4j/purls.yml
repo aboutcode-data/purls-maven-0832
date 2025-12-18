@@ -1,0 +1,2 @@
+- pkg:maven/net.olivo/lc4j@4.0
+- pkg:maven/net.olivo/lc4j@4.0?classifier=sources

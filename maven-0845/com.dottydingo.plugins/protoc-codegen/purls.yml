@@ -1,0 +1,2 @@
+- pkg:maven/com.dottydingo.plugins/protoc-codegen@0.1.0
+- pkg:maven/com.dottydingo.plugins/protoc-codegen@0.1.0?classifier=sources

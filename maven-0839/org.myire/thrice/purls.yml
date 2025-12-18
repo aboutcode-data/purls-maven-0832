@@ -2,3 +2,4 @@
 - pkg:maven/org.myire/thrice@3.0?classifier=sources
 - pkg:maven/org.myire/thrice@3.1
 - pkg:maven/org.myire/thrice@3.1?classifier=sources
+- pkg:maven/org.myire/thrice@3.2?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.1
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.1000
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.1000?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.200
@@ -20,3 +22,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.800
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.800?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.900
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.launching@1.2.900?classifier=sources

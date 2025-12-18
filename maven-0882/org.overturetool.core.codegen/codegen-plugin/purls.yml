@@ -42,3 +42,5 @@
 - pkg:maven/org.overturetool.core.codegen/codegen-plugin@2.7.2?classifier=sources
 - pkg:maven/org.overturetool.core.codegen/codegen-plugin@2.7.4
 - pkg:maven/org.overturetool.core.codegen/codegen-plugin@2.7.4?classifier=sources
+- pkg:maven/org.overturetool.core.codegen/codegen-plugin@3.0.0
+- pkg:maven/org.overturetool.core.codegen/codegen-plugin@3.0.0?classifier=sources

@@ -13,3 +13,6 @@
 - pkg:maven/com.airbnb.android/paris@1.4.0?classifier=sources
 - pkg:maven/com.airbnb.android/paris@1.4.0?type=aar
 - pkg:maven/com.airbnb.android/paris@1.5.0?classifier=sources
+- pkg:maven/com.airbnb.android/paris@1.6.0?classifier=sources
+- pkg:maven/com.airbnb.android/paris@1.7.0?classifier=sources
+- pkg:maven/com.airbnb.android/paris@1.7.1?classifier=sources

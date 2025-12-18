@@ -10,6 +10,8 @@
 - pkg:maven/edu.colostate.omslab/csip-core@2.3.5?classifier=sources
 - pkg:maven/edu.colostate.omslab/csip-core@2.3.7
 - pkg:maven/edu.colostate.omslab/csip-core@2.3.7?classifier=sources
+- pkg:maven/edu.colostate.omslab/csip-core@2.4.121
+- pkg:maven/edu.colostate.omslab/csip-core@2.4.121?classifier=sources
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.13
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.13?classifier=sources
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.19
@@ -60,3 +62,9 @@
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.90
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.90?classifier=sources
 - pkg:maven/edu.colostate.omslab/csip-core@2.4.9?classifier=sources
+- pkg:maven/edu.colostate.omslab/csip-core@2.5.2
+- pkg:maven/edu.colostate.omslab/csip-core@2.5.2?classifier=sources
+- pkg:maven/edu.colostate.omslab/csip-core@2.5.3
+- pkg:maven/edu.colostate.omslab/csip-core@2.5.3?classifier=sources
+- pkg:maven/edu.colostate.omslab/csip-core@2.5.8
+- pkg:maven/edu.colostate.omslab/csip-core@2.5.8?classifier=sources

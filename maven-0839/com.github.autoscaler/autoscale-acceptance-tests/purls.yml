@@ -4,3 +4,4 @@
 - pkg:maven/com.github.autoscaler/autoscale-acceptance-tests@1.6.0-311
 - pkg:maven/com.github.autoscaler/autoscale-acceptance-tests@1.6.1-313
 - pkg:maven/com.github.autoscaler/autoscale-acceptance-tests@1.7.0-363
+- pkg:maven/com.github.autoscaler/autoscale-acceptance-tests@1.8.0-493

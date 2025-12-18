@@ -29,6 +29,10 @@
 - pkg:maven/org.ow2.joram/joram-client-jms@5.17.0?classifier=sources
 - pkg:maven/org.ow2.joram/joram-client-jms@5.17.1
 - pkg:maven/org.ow2.joram/joram-client-jms@5.17.1?classifier=sources
+- pkg:maven/org.ow2.joram/joram-client-jms@5.17.2
+- pkg:maven/org.ow2.joram/joram-client-jms@5.17.2?classifier=sources
+- pkg:maven/org.ow2.joram/joram-client-jms@5.17.3
+- pkg:maven/org.ow2.joram/joram-client-jms@5.17.3?classifier=sources
 - pkg:maven/org.ow2.joram/joram-client-jms@5.7.1
 - pkg:maven/org.ow2.joram/joram-client-jms@5.8.0
 - pkg:maven/org.ow2.joram/joram-client-jms@5.8.1

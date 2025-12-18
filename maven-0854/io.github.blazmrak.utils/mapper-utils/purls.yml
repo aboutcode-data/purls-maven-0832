@@ -1,0 +1,2 @@
+- pkg:maven/io.github.blazmrak.utils/mapper-utils@0.1.0
+- pkg:maven/io.github.blazmrak.utils/mapper-utils@0.1.0?classifier=sources

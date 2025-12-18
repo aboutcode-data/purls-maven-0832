@@ -1,2 +1,6 @@
 - pkg:maven/org.typelevel/cats-mtl_2.13@1.0-9b8941d
 - pkg:maven/org.typelevel/cats-mtl_2.13@1.0-9b8941d?classifier=sources
+- pkg:maven/org.typelevel/cats-mtl_2.13@1.0-bc23017
+- pkg:maven/org.typelevel/cats-mtl_2.13@1.0-bc23017?classifier=sources
+- pkg:maven/org.typelevel/cats-mtl_2.13@1.0.0
+- pkg:maven/org.typelevel/cats-mtl_2.13@1.0.0?classifier=sources

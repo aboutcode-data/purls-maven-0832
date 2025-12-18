@@ -57,6 +57,8 @@
 - pkg:maven/cn.stylefeng.roses/kernel-core@2.2.11?classifier=sources
 - pkg:maven/cn.stylefeng.roses/kernel-core@2.2.12
 - pkg:maven/cn.stylefeng.roses/kernel-core@2.2.12?classifier=sources
+- pkg:maven/cn.stylefeng.roses/kernel-core@2.2.13
+- pkg:maven/cn.stylefeng.roses/kernel-core@2.2.13?classifier=sources
 - pkg:maven/cn.stylefeng.roses/kernel-core@2.2.1?classifier=sources
 - pkg:maven/cn.stylefeng.roses/kernel-core@2.2.3
 - pkg:maven/cn.stylefeng.roses/kernel-core@2.2.3?classifier=sources

@@ -35,6 +35,8 @@
 - pkg:maven/net.oschina.durcframework/easyopen-spring-boot-starter@1.16.0
 - pkg:maven/net.oschina.durcframework/easyopen-spring-boot-starter@1.16.0?classifier=sources
 - pkg:maven/net.oschina.durcframework/easyopen-spring-boot-starter@1.16.1
+- pkg:maven/net.oschina.durcframework/easyopen-spring-boot-starter@1.16.10
+- pkg:maven/net.oschina.durcframework/easyopen-spring-boot-starter@1.16.10?classifier=sources
 - pkg:maven/net.oschina.durcframework/easyopen-spring-boot-starter@1.16.1?classifier=sources
 - pkg:maven/net.oschina.durcframework/easyopen-spring-boot-starter@1.16.2
 - pkg:maven/net.oschina.durcframework/easyopen-spring-boot-starter@1.16.2?classifier=sources

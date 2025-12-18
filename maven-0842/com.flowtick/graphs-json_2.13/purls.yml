@@ -1,2 +1,4 @@
 - pkg:maven/com.flowtick/graphs-json_2.13@0.3.0
 - pkg:maven/com.flowtick/graphs-json_2.13@0.3.0?classifier=sources
+- pkg:maven/com.flowtick/graphs-json_2.13@0.4.0
+- pkg:maven/com.flowtick/graphs-json_2.13@0.4.0?classifier=sources

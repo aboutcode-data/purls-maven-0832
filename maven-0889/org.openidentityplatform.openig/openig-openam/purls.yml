@@ -1,0 +1,2 @@
+- pkg:maven/org.openidentityplatform.openig/openig-openam@5.0.9
+- pkg:maven/org.openidentityplatform.openig/openig-openam@5.0.9?classifier=sources

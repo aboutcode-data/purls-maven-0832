@@ -6,3 +6,5 @@
 - pkg:maven/io.openmessaging.chaos/chaos-common@0.3.0?classifier=sources
 - pkg:maven/io.openmessaging.chaos/chaos-common@0.4.0
 - pkg:maven/io.openmessaging.chaos/chaos-common@0.4.0?classifier=sources
+- pkg:maven/io.openmessaging.chaos/chaos-common@0.4.1
+- pkg:maven/io.openmessaging.chaos/chaos-common@0.4.1?classifier=sources

@@ -11,3 +11,17 @@
 - pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.51.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.52.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.53.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.53.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.54.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.55.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.56.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.57.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.58.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.58.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.59.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.60.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.60.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.61.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.62.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.63.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/liquibase-ext@1.64.0?classifier=sources

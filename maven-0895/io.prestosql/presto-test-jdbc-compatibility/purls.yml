@@ -1,0 +1,4 @@
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility@340
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility@340?classifier=sources
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility@341
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility@341?classifier=sources

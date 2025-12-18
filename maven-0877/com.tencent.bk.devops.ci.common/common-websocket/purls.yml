@@ -1,0 +1,4 @@
+- pkg:maven/com.tencent.bk.devops.ci.common/common-websocket@1.1.10-RELEASE
+- pkg:maven/com.tencent.bk.devops.ci.common/common-websocket@1.1.10-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.common/common-websocket@1.1.2-RELEASE
+- pkg:maven/com.tencent.bk.devops.ci.common/common-websocket@1.1.2-RELEASE?classifier=sources

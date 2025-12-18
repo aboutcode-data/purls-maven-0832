@@ -8,3 +8,5 @@
 - pkg:maven/com.sproutsocial/nsq-j@0.9.4
 - pkg:maven/com.sproutsocial/nsq-j@0.9.4?classifier=sources
 - pkg:maven/com.sproutsocial/nsq-j@0.9?classifier=sources
+- pkg:maven/com.sproutsocial/nsq-j@1.0
+- pkg:maven/com.sproutsocial/nsq-j@1.0?classifier=sources

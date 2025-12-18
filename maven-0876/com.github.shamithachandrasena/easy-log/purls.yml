@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shamithachandrasena/easy-log@1.0
+- pkg:maven/com.github.shamithachandrasena/easy-log@1.0?classifier=sources

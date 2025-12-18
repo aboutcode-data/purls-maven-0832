@@ -9,3 +9,5 @@
 - pkg:maven/org.apache.skywalking/library-client@6.6.0
 - pkg:maven/org.apache.skywalking/library-client@7.0.0
 - pkg:maven/org.apache.skywalking/library-client@8.0.0
+- pkg:maven/org.apache.skywalking/library-client@8.0.1
+- pkg:maven/org.apache.skywalking/library-client@8.1.0

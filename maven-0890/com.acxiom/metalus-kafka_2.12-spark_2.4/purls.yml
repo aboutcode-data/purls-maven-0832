@@ -1,0 +1,2 @@
+- pkg:maven/com.acxiom/metalus-kafka_2.12-spark_2.4@1.7.0
+- pkg:maven/com.acxiom/metalus-kafka_2.12-spark_2.4@1.7.0?classifier=sources

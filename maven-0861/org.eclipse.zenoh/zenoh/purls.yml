@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.zenoh/zenoh@0.4.2-M1
+- pkg:maven/org.eclipse.zenoh/zenoh@0.4.2-M1?classifier=sources

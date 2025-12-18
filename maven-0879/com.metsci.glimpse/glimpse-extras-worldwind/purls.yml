@@ -18,3 +18,5 @@
 - pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@3.0.0?classifier=sources
 - pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@3.1.0
 - pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@3.1.0?classifier=sources
+- pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@3.2.0
+- pkg:maven/com.metsci.glimpse/glimpse-extras-worldwind@3.2.0?classifier=sources

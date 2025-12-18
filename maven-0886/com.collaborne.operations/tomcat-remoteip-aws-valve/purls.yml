@@ -10,3 +10,5 @@
 - pkg:maven/com.collaborne.operations/tomcat-remoteip-aws-valve@1.1.3?classifier=sources
 - pkg:maven/com.collaborne.operations/tomcat-remoteip-aws-valve@1.1.4
 - pkg:maven/com.collaborne.operations/tomcat-remoteip-aws-valve@1.1.4?classifier=sources
+- pkg:maven/com.collaborne.operations/tomcat-remoteip-aws-valve@1.1.5
+- pkg:maven/com.collaborne.operations/tomcat-remoteip-aws-valve@1.1.5?classifier=sources

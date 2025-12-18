@@ -23,3 +23,5 @@
 - pkg:maven/org.jxmpp/jxmpp-stringprep-icu4j@0.7.0-alpha5
 - pkg:maven/org.jxmpp/jxmpp-stringprep-icu4j@0.7.0-alpha5?classifier=sources
 - pkg:maven/org.jxmpp/jxmpp-stringprep-icu4j@0.7.0-alpha6?classifier=sources
+- pkg:maven/org.jxmpp/jxmpp-stringprep-icu4j@1.0.0?classifier=sources
+- pkg:maven/org.jxmpp/jxmpp-stringprep-icu4j@1.0.1?classifier=sources

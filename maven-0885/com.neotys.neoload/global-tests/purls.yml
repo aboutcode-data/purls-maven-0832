@@ -25,3 +25,5 @@
 - pkg:maven/com.neotys.neoload/global-tests@3.2.4
 - pkg:maven/com.neotys.neoload/global-tests@3.2.5
 - pkg:maven/com.neotys.neoload/global-tests@3.2.6
+- pkg:maven/com.neotys.neoload/global-tests@3.2.8
+- pkg:maven/com.neotys.neoload/global-tests@3.2.9

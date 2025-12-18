@@ -1,0 +1,2 @@
+- pkg:maven/pl.sparkbit/sparkbit-security@2.0.8
+- pkg:maven/pl.sparkbit/sparkbit-security@2.0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR8
+- pkg:maven/org.springframework.cloud/spring-cloud-docs@Hoxton.SR8?classifier=sources

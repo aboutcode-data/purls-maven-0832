@@ -1,0 +1,4 @@
+- pkg:maven/com.uetty.tool/common-tool@2.0.1-ALPHA
+- pkg:maven/com.uetty.tool/common-tool@2.0.1-ALPHA?classifier=sources
+- pkg:maven/com.uetty.tool/common-tool@2.0.2-BETA
+- pkg:maven/com.uetty.tool/common-tool@2.0.2-BETA?classifier=sources

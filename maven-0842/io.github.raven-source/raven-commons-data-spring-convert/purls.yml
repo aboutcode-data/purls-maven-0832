@@ -6,3 +6,5 @@
 - pkg:maven/io.github.raven-source/raven-commons-data-spring-convert@2.0.1-RELEASE?classifier=sources
 - pkg:maven/io.github.raven-source/raven-commons-data-spring-convert@2.0.2-RELEASE
 - pkg:maven/io.github.raven-source/raven-commons-data-spring-convert@2.0.2-RELEASE?classifier=sources
+- pkg:maven/io.github.raven-source/raven-commons-data-spring-convert@2.0.3
+- pkg:maven/io.github.raven-source/raven-commons-data-spring-convert@2.0.3?classifier=sources

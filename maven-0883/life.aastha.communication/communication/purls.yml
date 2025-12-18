@@ -1,0 +1,4 @@
+- pkg:maven/life.aastha.communication/communication@1.0.0
+- pkg:maven/life.aastha.communication/communication@1.0.0?classifier=sources
+- pkg:maven/life.aastha.communication/communication@1.0.1
+- pkg:maven/life.aastha.communication/communication@1.0.1?classifier=sources

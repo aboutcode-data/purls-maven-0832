@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vue-masonry@0.11.8
+- pkg:maven/org.webjars.npm/vue-masonry@0.11.8?classifier=sources

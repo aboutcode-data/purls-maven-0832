@@ -69,3 +69,6 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.control.panel@5.0.4
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.control.panel@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.control.panel@5.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.control.panel@5.0.5
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.control.panel@5.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.control.panel@5.0.5?classifier=sources-commercial

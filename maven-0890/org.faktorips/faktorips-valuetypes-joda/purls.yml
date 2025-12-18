@@ -22,6 +22,12 @@
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.0.m01
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.0.m01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.0?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.1-PRODUCTINFODB-m01
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.1-PRODUCTINFODB-m01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.1-PRODUCTINFODB-m02
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.1-PRODUCTINFODB-m02?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.1-PRODUCTINFODB-m03
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@20.6.1-PRODUCTINFODB-m03?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.13.0
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.13.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@3.13.1

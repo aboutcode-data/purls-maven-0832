@@ -42,6 +42,10 @@
 - pkg:maven/org.apache.beam/beam-runners-core-java@2.21.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-core-java@2.22.0
 - pkg:maven/org.apache.beam/beam-runners-core-java@2.22.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-core-java@2.23.0
+- pkg:maven/org.apache.beam/beam-runners-core-java@2.23.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-core-java@2.24.0
+- pkg:maven/org.apache.beam/beam-runners-core-java@2.24.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-core-java@2.3.0
 - pkg:maven/org.apache.beam/beam-runners-core-java@2.3.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-core-java@2.4.0

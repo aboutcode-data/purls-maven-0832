@@ -12,3 +12,5 @@
 - pkg:maven/edu.ucr.cs.bdlab/geolite@0.2.3-RC2
 - pkg:maven/edu.ucr.cs.bdlab/geolite@0.2.3-RC2?classifier=sources
 - pkg:maven/edu.ucr.cs.bdlab/geolite@0.2.3?classifier=sources
+- pkg:maven/edu.ucr.cs.bdlab/geolite@0.5.0-RC1
+- pkg:maven/edu.ucr.cs.bdlab/geolite@0.5.0-RC1?classifier=sources

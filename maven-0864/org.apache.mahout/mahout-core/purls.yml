@@ -13,3 +13,4 @@
 - pkg:maven/org.apache.mahout/mahout-core@0.8?classifier=sources
 - pkg:maven/org.apache.mahout/mahout-core@0.9
 - pkg:maven/org.apache.mahout/mahout-core@0.9?classifier=sources
+- pkg:maven/org.apache.mahout/mahout-core@14.1?classifier=sources

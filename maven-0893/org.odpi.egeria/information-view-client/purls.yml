@@ -9,3 +9,6 @@
 - pkg:maven/org.odpi.egeria/information-view-client@1.6
 - pkg:maven/org.odpi.egeria/information-view-client@1.7
 - pkg:maven/org.odpi.egeria/information-view-client@1.8
+- pkg:maven/org.odpi.egeria/information-view-client@2.0
+- pkg:maven/org.odpi.egeria/information-view-client@2.1
+- pkg:maven/org.odpi.egeria/information-view-client@2.2

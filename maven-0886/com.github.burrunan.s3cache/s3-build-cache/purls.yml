@@ -1,0 +1,2 @@
+- pkg:maven/com.github.burrunan.s3cache/s3-build-cache@1.0.0?classifier=sources
+- pkg:maven/com.github.burrunan.s3cache/s3-build-cache@1.1?classifier=sources

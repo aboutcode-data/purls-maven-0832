@@ -1,2 +1,4 @@
 - pkg:maven/de.mhus.osgi/transform-jtwig@7.0.0
 - pkg:maven/de.mhus.osgi/transform-jtwig@7.0.0?classifier=sources
+- pkg:maven/de.mhus.osgi/transform-jtwig@7.1.0
+- pkg:maven/de.mhus.osgi/transform-jtwig@7.1.0?classifier=sources

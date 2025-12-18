@@ -1,0 +1,8 @@
+- pkg:maven/com.rbkmoney/bender-proto@1.12-093837b
+- pkg:maven/com.rbkmoney/bender-proto@1.12-093837b?classifier=sources
+- pkg:maven/com.rbkmoney/bender-proto@1.13-1418138
+- pkg:maven/com.rbkmoney/bender-proto@1.13-1418138?classifier=sources
+- pkg:maven/com.rbkmoney/bender-proto@1.14-df5bedd
+- pkg:maven/com.rbkmoney/bender-proto@1.14-df5bedd?classifier=sources
+- pkg:maven/com.rbkmoney/bender-proto@1.15-0d5813b
+- pkg:maven/com.rbkmoney/bender-proto@1.15-0d5813b?classifier=sources

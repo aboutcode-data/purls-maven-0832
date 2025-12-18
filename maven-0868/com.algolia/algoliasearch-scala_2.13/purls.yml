@@ -4,3 +4,9 @@
 - pkg:maven/com.algolia/algoliasearch-scala_2.13@1.35.1-beta-1
 - pkg:maven/com.algolia/algoliasearch-scala_2.13@1.35.1-beta-1?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-scala_2.13@1.35.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-scala_2.13@1.36.0
+- pkg:maven/com.algolia/algoliasearch-scala_2.13@1.36.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-scala_2.13@1.37.0
+- pkg:maven/com.algolia/algoliasearch-scala_2.13@1.37.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-scala_2.13@1.38.0
+- pkg:maven/com.algolia/algoliasearch-scala_2.13@1.38.0?classifier=sources

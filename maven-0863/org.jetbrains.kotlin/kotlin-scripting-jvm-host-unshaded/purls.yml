@@ -1,0 +1,6 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm-host-unshaded@1.4.0
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm-host-unshaded@1.4.0-rc
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm-host-unshaded@1.4.0-rc?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm-host-unshaded@1.4.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm-host-unshaded@1.4.10
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm-host-unshaded@1.4.10?classifier=sources

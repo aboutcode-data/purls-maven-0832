@@ -34,3 +34,7 @@
 - pkg:maven/org.dynamoframework/dynamo-functional-domain@2.3.0?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-functional-domain@2.3.1
 - pkg:maven/org.dynamoframework/dynamo-functional-domain@2.3.1?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-functional-domain@2.4
+- pkg:maven/org.dynamoframework/dynamo-functional-domain@2.4?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-functional-domain@2.5
+- pkg:maven/org.dynamoframework/dynamo-functional-domain@2.5?classifier=sources

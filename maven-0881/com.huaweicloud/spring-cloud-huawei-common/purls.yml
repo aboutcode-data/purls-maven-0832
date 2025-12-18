@@ -22,3 +22,15 @@
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.3-Greenwich
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.3-Greenwich?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.3?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.4
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.4-Greenwich
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.4-Greenwich?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.4?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.5
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.5-Greenwich
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.5-Greenwich?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.5?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.6
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.6-Greenwich
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.6-Greenwich?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.3.6?classifier=sources

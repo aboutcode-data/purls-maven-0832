@@ -1,0 +1,4 @@
+- pkg:maven/com.github.dttxrep/ora-gen@3.9.0
+- pkg:maven/com.github.dttxrep/ora-gen@3.9.0?classifier=sources
+- pkg:maven/com.github.dttxrep/ora-gen@4.0.0
+- pkg:maven/com.github.dttxrep/ora-gen@4.0.0?classifier=sources

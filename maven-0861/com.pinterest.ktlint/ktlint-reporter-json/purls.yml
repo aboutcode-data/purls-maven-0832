@@ -16,3 +16,9 @@
 - pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.37.0?classifier=sources
 - pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.37.1
 - pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.37.1?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.37.2
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.37.2?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.38.0-alpha01
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.38.0-alpha01?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.38.0?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-json@0.38.1?classifier=sources

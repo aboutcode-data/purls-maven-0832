@@ -1,0 +1,2 @@
+- pkg:maven/de.valtech.avs/ui.apps.structure@0.9.0?classifier=sources
+- pkg:maven/de.valtech.avs/ui.apps.structure@1.0.0?classifier=sources

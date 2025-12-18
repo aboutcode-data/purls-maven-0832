@@ -6,3 +6,11 @@
 - pkg:maven/com.banno/kafka4s_2.13@3.0.0-M14?classifier=sources
 - pkg:maven/com.banno/kafka4s_2.13@3.0.0-M15
 - pkg:maven/com.banno/kafka4s_2.13@3.0.0-M15?classifier=sources
+- pkg:maven/com.banno/kafka4s_2.13@3.0.0-M16
+- pkg:maven/com.banno/kafka4s_2.13@3.0.0-M16?classifier=sources
+- pkg:maven/com.banno/kafka4s_2.13@3.0.0-M17
+- pkg:maven/com.banno/kafka4s_2.13@3.0.0-M17?classifier=sources
+- pkg:maven/com.banno/kafka4s_2.13@3.0.0-M21
+- pkg:maven/com.banno/kafka4s_2.13@3.0.0-M21?classifier=sources
+- pkg:maven/com.banno/kafka4s_2.13@3.0.0-M22
+- pkg:maven/com.banno/kafka4s_2.13@3.0.0-M22?classifier=sources

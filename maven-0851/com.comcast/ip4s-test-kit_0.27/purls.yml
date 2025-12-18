@@ -1,0 +1,12 @@
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-633db90
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-633db90?classifier=sources
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-a9dd5aa
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-a9dd5aa?classifier=sources
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-ac3dc7d
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-ac3dc7d?classifier=sources
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-daeda90
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-daeda90?classifier=sources
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-e7e93e9
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-e7e93e9?classifier=sources
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-fcdcb3e
+- pkg:maven/com.comcast/ip4s-test-kit_0.27@1.4-fcdcb3e?classifier=sources

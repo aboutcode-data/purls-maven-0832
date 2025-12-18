@@ -14,3 +14,5 @@
 - pkg:maven/tech.streamsoft/dragon@0.0.3?classifier=sources
 - pkg:maven/tech.streamsoft/dragon@0.0.4
 - pkg:maven/tech.streamsoft/dragon@0.0.4?classifier=sources
+- pkg:maven/tech.streamsoft/dragon@0.0.5
+- pkg:maven/tech.streamsoft/dragon@0.0.5?classifier=sources

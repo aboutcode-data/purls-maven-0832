@@ -10,3 +10,9 @@
 - pkg:maven/cloud.piranha.cdi/piranha-cdi-openwebbeans@20.4.0?classifier=sources
 - pkg:maven/cloud.piranha.cdi/piranha-cdi-openwebbeans@20.5.0
 - pkg:maven/cloud.piranha.cdi/piranha-cdi-openwebbeans@20.5.0?classifier=sources
+- pkg:maven/cloud.piranha.cdi/piranha-cdi-openwebbeans@20.6.0
+- pkg:maven/cloud.piranha.cdi/piranha-cdi-openwebbeans@20.6.0?classifier=sources
+- pkg:maven/cloud.piranha.cdi/piranha-cdi-openwebbeans@20.7.0
+- pkg:maven/cloud.piranha.cdi/piranha-cdi-openwebbeans@20.7.0?classifier=sources
+- pkg:maven/cloud.piranha.cdi/piranha-cdi-openwebbeans@20.8.0
+- pkg:maven/cloud.piranha.cdi/piranha-cdi-openwebbeans@20.8.0?classifier=sources

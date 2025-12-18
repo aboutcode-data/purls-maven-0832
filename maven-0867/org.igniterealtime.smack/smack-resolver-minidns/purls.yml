@@ -104,9 +104,13 @@
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.3.3?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.3.4
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.3.4?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.3.5
+- pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.3.5?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.4.0-alpha1
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.4.0-alpha1?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.4.0-alpha2
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.4.0-alpha2?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.4.0-alpha3?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.4.0-alpha4?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.4.0-alpha5?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.4.0-beta1?classifier=sources

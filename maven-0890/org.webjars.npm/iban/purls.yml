@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/iban@0.0.13
+- pkg:maven/org.webjars.npm/iban@0.0.13?classifier=sources
 - pkg:maven/org.webjars.npm/iban@0.0.8
 - pkg:maven/org.webjars.npm/iban@0.0.8?classifier=sources

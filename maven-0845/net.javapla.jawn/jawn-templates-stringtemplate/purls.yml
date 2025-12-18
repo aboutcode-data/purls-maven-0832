@@ -16,3 +16,4 @@
 - pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@1.0.1?classifier=sources
 - pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@1.0.2
 - pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@1.0.2?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-templates-stringtemplate@1.1.0?classifier=sources

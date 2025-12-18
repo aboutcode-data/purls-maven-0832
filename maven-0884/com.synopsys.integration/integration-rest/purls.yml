@@ -10,3 +10,15 @@
 - pkg:maven/com.synopsys.integration/integration-rest@1.0.4?classifier=sources
 - pkg:maven/com.synopsys.integration/integration-rest@1.0.5
 - pkg:maven/com.synopsys.integration/integration-rest@1.0.5?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-rest@2.0.0
+- pkg:maven/com.synopsys.integration/integration-rest@2.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-rest@3.0.0
+- pkg:maven/com.synopsys.integration/integration-rest@3.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-rest@4.0.0
+- pkg:maven/com.synopsys.integration/integration-rest@4.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-rest@4.1.0
+- pkg:maven/com.synopsys.integration/integration-rest@4.1.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-rest@5.0.0
+- pkg:maven/com.synopsys.integration/integration-rest@5.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-rest@5.0.1
+- pkg:maven/com.synopsys.integration/integration-rest@5.0.1?classifier=sources

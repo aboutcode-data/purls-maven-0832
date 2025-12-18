@@ -16,3 +16,5 @@
 - pkg:maven/qa.justtestlah/justtestlah-core@1.8-RC2?classifier=sources
 - pkg:maven/qa.justtestlah/justtestlah-core@1.8-RC3
 - pkg:maven/qa.justtestlah/justtestlah-core@1.8-RC3?classifier=sources
+- pkg:maven/qa.justtestlah/justtestlah-core@1.9-RC1
+- pkg:maven/qa.justtestlah/justtestlah-core@1.9-RC1?classifier=sources

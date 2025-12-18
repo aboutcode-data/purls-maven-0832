@@ -10,11 +10,17 @@
 - pkg:maven/net.wicp.tams/common-es-client@3.6.5?classifier=sources
 - pkg:maven/net.wicp.tams/common-es-client@3.6.6
 - pkg:maven/net.wicp.tams/common-es-client@3.6.6?classifier=sources
+- pkg:maven/net.wicp.tams/common-es-client@5.6.11
+- pkg:maven/net.wicp.tams/common-es-client@5.6.11?classifier=sources
 - pkg:maven/net.wicp.tams/common-es-client@6.3.2
 - pkg:maven/net.wicp.tams/common-es-client@6.3.2?classifier=sources
 - pkg:maven/net.wicp.tams/common-es-client@6.3.3
 - pkg:maven/net.wicp.tams/common-es-client@6.3.3?classifier=sources
+- pkg:maven/net.wicp.tams/common-es-client@6.3.4
+- pkg:maven/net.wicp.tams/common-es-client@6.3.4?classifier=sources
 - pkg:maven/net.wicp.tams/common-es-client@7.6.0
 - pkg:maven/net.wicp.tams/common-es-client@7.6.0?classifier=sources
 - pkg:maven/net.wicp.tams/common-es-client@7.6.1
 - pkg:maven/net.wicp.tams/common-es-client@7.6.1?classifier=sources
+- pkg:maven/net.wicp.tams/common-es-client@7.6.2
+- pkg:maven/net.wicp.tams/common-es-client@7.6.2?classifier=sources

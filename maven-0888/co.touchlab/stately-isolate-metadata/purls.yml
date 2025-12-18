@@ -7,3 +7,6 @@
 - pkg:maven/co.touchlab/stately-isolate-metadata@1.0.2-a4?classifier=sources
 - pkg:maven/co.touchlab/stately-isolate-metadata@1.0.3-a4?classifier=sources
 - pkg:maven/co.touchlab/stately-isolate-metadata@1.0.4-a1-1.4-M2?classifier=sources
+- pkg:maven/co.touchlab/stately-isolate-metadata@1.0.4-a1-1.4-M3?classifier=sources
+- pkg:maven/co.touchlab/stately-isolate-metadata@1.0.4-a1-1.4.0-rc?classifier=sources
+- pkg:maven/co.touchlab/stately-isolate-metadata@1.1.0-a1?classifier=sources

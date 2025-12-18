@@ -1,0 +1,4 @@
+- pkg:maven/org.fisco-bcos/tcnative@2.0.30
+- pkg:maven/org.fisco-bcos/tcnative@2.0.30.0
+- pkg:maven/org.fisco-bcos/tcnative@2.0.30.0?classifier=sources
+- pkg:maven/org.fisco-bcos/tcnative@2.0.30?classifier=sources

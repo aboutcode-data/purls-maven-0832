@@ -4,5 +4,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE90?classifier=sources

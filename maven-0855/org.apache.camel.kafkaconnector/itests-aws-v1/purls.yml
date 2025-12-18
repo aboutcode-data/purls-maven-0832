@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.kafkaconnector/itests-aws-v1@0.5.0
+- pkg:maven/org.apache.camel.kafkaconnector/itests-aws-v1@0.5.0?classifier=sources

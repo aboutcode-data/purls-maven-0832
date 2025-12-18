@@ -116,5 +116,8 @@
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.gadgets.stub@4.8.17?classifier=sources
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.gadgets.stub@4.8.18
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.gadgets.stub@4.8.18?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.gadgets.stub@4.8.19
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.gadgets.stub@4.8.19?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.gadgets.stub@4.8.20
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.gadgets.stub@4.8.9
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.gadgets.stub@4.8.9?classifier=sources

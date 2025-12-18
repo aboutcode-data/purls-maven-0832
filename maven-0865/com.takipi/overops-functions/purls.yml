@@ -1,2 +1,4 @@
 - pkg:maven/com.takipi/overops-functions@1.1.0
 - pkg:maven/com.takipi/overops-functions@1.1.0?classifier=sources
+- pkg:maven/com.takipi/overops-functions@2.0.0
+- pkg:maven/com.takipi/overops-functions@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-starter-metrics@1.2.4.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-starter-metrics@1.2.5.RELEASE

@@ -1,2 +1,11 @@
 - pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.0.1
 - pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.0.1?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.1.0
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.1.0?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.1.1
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.1.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.1.1?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.1.2
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.1.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.1.2?classifier=sources

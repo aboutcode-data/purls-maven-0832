@@ -1,3 +1,7 @@
+- pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha10
+- pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha10?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha11
+- pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha11?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha3
 - pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha3?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha4
@@ -8,3 +12,7 @@
 - pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha6?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha7
 - pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha7?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha8
+- pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha8?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha9
+- pkg:maven/com.blazebit/blaze-expression-checkstyle-rules@1.0.0-Alpha9?classifier=sources

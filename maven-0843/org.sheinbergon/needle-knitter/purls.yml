@@ -1,0 +1,2 @@
+- pkg:maven/org.sheinbergon/needle-knitter@0.1.2-RELEASE?classifier=sources
+- pkg:maven/org.sheinbergon/needle-knitter@0.1.3-RELEASE?classifier=sources

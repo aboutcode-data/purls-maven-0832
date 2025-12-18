@@ -66,3 +66,5 @@
 - pkg:maven/org.webjars.npm/material__elevation@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__elevation@6.0.0
 - pkg:maven/org.webjars.npm/material__elevation@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__elevation@7.0.0
+- pkg:maven/org.webjars.npm/material__elevation@7.0.0?classifier=sources

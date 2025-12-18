@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE121?classifier=sources

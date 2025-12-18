@@ -1,0 +1,2 @@
+- pkg:maven/com.helger.bdve.rules/ph-bdve-rules-finvoice@1.0.6
+- pkg:maven/com.helger.bdve.rules/ph-bdve-rules-finvoice@1.0.6?classifier=sources

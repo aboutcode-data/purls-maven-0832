@@ -12,3 +12,5 @@
 - pkg:maven/cn.imaq/tompuss@0.3?classifier=sources
 - pkg:maven/cn.imaq/tompuss@0.4
 - pkg:maven/cn.imaq/tompuss@0.4?classifier=sources
+- pkg:maven/cn.imaq/tompuss@2019.06
+- pkg:maven/cn.imaq/tompuss@2019.06?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.iisme/iisme-starter-mybatis-plus@1.0.0
+- pkg:maven/cn.iisme/iisme-starter-mybatis-plus@1.0.0?classifier=sources

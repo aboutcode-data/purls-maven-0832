@@ -34,3 +34,9 @@
 - pkg:maven/io.prestosql/presto-blackhole@333?classifier=sources
 - pkg:maven/io.prestosql/presto-blackhole@334?classifier=sources
 - pkg:maven/io.prestosql/presto-blackhole@335?classifier=sources
+- pkg:maven/io.prestosql/presto-blackhole@336?classifier=sources
+- pkg:maven/io.prestosql/presto-blackhole@337?classifier=sources
+- pkg:maven/io.prestosql/presto-blackhole@338?classifier=sources
+- pkg:maven/io.prestosql/presto-blackhole@339?classifier=sources
+- pkg:maven/io.prestosql/presto-blackhole@340?classifier=sources
+- pkg:maven/io.prestosql/presto-blackhole@341?classifier=sources

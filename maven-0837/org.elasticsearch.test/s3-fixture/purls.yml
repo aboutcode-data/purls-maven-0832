@@ -14,3 +14,11 @@
 - pkg:maven/org.elasticsearch.test/s3-fixture@7.7.0?classifier=sources
 - pkg:maven/org.elasticsearch.test/s3-fixture@7.7.1
 - pkg:maven/org.elasticsearch.test/s3-fixture@7.7.1?classifier=sources
+- pkg:maven/org.elasticsearch.test/s3-fixture@7.8.0
+- pkg:maven/org.elasticsearch.test/s3-fixture@7.8.0?classifier=sources
+- pkg:maven/org.elasticsearch.test/s3-fixture@7.8.1
+- pkg:maven/org.elasticsearch.test/s3-fixture@7.8.1?classifier=sources
+- pkg:maven/org.elasticsearch.test/s3-fixture@7.9.0
+- pkg:maven/org.elasticsearch.test/s3-fixture@7.9.0?classifier=sources
+- pkg:maven/org.elasticsearch.test/s3-fixture@7.9.1
+- pkg:maven/org.elasticsearch.test/s3-fixture@7.9.1?classifier=sources

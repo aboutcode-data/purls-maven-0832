@@ -32,3 +32,9 @@
 - pkg:maven/io.smallrye.reactive/smallrye-axle-core@0.0.9?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-axle-core@0.1.0
 - pkg:maven/io.smallrye.reactive/smallrye-axle-core@0.1.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-axle-core@0.1.1
+- pkg:maven/io.smallrye.reactive/smallrye-axle-core@0.1.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-axle-core@1.1.0
+- pkg:maven/io.smallrye.reactive/smallrye-axle-core@1.1.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-axle-core@1.2.0
+- pkg:maven/io.smallrye.reactive/smallrye-axle-core@1.2.0?classifier=sources

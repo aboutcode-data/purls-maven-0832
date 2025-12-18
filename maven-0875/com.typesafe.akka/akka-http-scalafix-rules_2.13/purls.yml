@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.akka/akka-http-scalafix-rules_2.13@10.2.0
+- pkg:maven/com.typesafe.akka/akka-http-scalafix-rules_2.13@10.2.0?classifier=sources

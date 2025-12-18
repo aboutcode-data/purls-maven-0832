@@ -1,0 +1,2 @@
+- pkg:maven/io.kvstore/representationals@1.0.0-RC
+- pkg:maven/io.kvstore/representationals@1.0.0-RC?classifier=sources

@@ -44,6 +44,10 @@
 - pkg:maven/org.finra.herd/herd-model-api-15@0.123.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-model-api-15@0.124.0
 - pkg:maven/org.finra.herd/herd-model-api-15@0.124.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-model-api-15@0.125.0
+- pkg:maven/org.finra.herd/herd-model-api-15@0.125.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-model-api-15@0.130.0
+- pkg:maven/org.finra.herd/herd-model-api-15@0.130.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-model-api-15@0.20.0
 - pkg:maven/org.finra.herd/herd-model-api-15@0.20.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-model-api-15@0.21.0

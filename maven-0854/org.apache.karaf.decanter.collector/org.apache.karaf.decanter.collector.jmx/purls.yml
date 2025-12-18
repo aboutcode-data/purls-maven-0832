@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.jmx@2.3.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.jmx@2.4.0
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.jmx@2.4.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.jmx@2.5.0
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.jmx@2.5.0?classifier=sources

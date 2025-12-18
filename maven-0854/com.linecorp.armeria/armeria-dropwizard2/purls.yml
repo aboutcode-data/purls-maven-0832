@@ -1,0 +1,6 @@
+- pkg:maven/com.linecorp.armeria/armeria-dropwizard2@0.99.8
+- pkg:maven/com.linecorp.armeria/armeria-dropwizard2@0.99.8?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-dropwizard2@0.99.9
+- pkg:maven/com.linecorp.armeria/armeria-dropwizard2@0.99.9?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-dropwizard2@1.0.0
+- pkg:maven/com.linecorp.armeria/armeria-dropwizard2@1.0.0?classifier=sources

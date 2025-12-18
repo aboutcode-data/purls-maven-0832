@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud/pigx-common-minio@3.8.0
+- pkg:maven/com.pig4cloud/pigx-common-minio@3.8.0?classifier=sources

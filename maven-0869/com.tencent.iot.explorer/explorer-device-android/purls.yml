@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.iot.explorer/explorer-device-android@1.0.0?classifier=sources
+- pkg:maven/com.tencent.iot.explorer/explorer-device-android@3.2.0?classifier=sources

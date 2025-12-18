@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/vega-themes@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/vega-themes@2.8.2
 - pkg:maven/org.webjars.npm/vega-themes@2.8.2?classifier=sources
+- pkg:maven/org.webjars.npm/vega-themes@2.9.0
+- pkg:maven/org.webjars.npm/vega-themes@2.9.0?classifier=sources

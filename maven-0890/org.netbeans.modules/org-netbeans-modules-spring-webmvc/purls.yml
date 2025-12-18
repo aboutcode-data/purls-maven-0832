@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE121?classifier=sources

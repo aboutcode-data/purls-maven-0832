@@ -1,0 +1,2 @@
+- pkg:maven/com.compstak/endpoints4s-geojson-schemas_2.12@9.1.0
+- pkg:maven/com.compstak/endpoints4s-geojson-schemas_2.12@9.1.0?classifier=sources

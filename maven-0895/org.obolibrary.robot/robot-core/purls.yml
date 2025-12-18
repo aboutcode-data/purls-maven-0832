@@ -18,3 +18,5 @@
 - pkg:maven/org.obolibrary.robot/robot-core@1.5.0?classifier=sources
 - pkg:maven/org.obolibrary.robot/robot-core@1.6.0
 - pkg:maven/org.obolibrary.robot/robot-core@1.6.0?classifier=sources
+- pkg:maven/org.obolibrary.robot/robot-core@1.7.0
+- pkg:maven/org.obolibrary.robot/robot-core@1.7.0?classifier=sources

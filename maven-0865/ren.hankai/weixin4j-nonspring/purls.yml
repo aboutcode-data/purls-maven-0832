@@ -1,0 +1,2 @@
+- pkg:maven/ren.hankai/weixin4j-nonspring@1.0.0?classifier=sources
+- pkg:maven/ren.hankai/weixin4j-nonspring@1.0.0?type=war

@@ -84,3 +84,5 @@
 - pkg:maven/org.eurekaclinical/eureka-client@5.0-Alpha-8
 - pkg:maven/org.eurekaclinical/eureka-client@5.0-Alpha-8?classifier=sources
 - pkg:maven/org.eurekaclinical/eureka-client@5.0?classifier=sources
+- pkg:maven/org.eurekaclinical/eureka-client@5.1-Alpha-3
+- pkg:maven/org.eurekaclinical/eureka-client@5.1-Alpha-3?classifier=sources

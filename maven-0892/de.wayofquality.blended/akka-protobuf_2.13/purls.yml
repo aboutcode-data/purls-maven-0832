@@ -1,0 +1,2 @@
+- pkg:maven/de.wayofquality.blended/akka-protobuf_2.13@2.6.6.1
+- pkg:maven/de.wayofquality.blended/akka-protobuf_2.13@2.6.6.1?classifier=sources

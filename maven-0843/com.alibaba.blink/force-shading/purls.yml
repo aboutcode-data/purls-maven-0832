@@ -7,3 +7,4 @@
 - pkg:maven/com.alibaba.blink/force-shading@blink-3.3.0
 - pkg:maven/com.alibaba.blink/force-shading@blink-3.4.0
 - pkg:maven/com.alibaba.blink/force-shading@blink-3.5.0-RELEASE
+- pkg:maven/com.alibaba.blink/force-shading@blink-3.7.0

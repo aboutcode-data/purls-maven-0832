@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-net@5.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-net@5.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-net@5.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-net@5.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-net@5.2.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-net@5.2.0?classifier=sources

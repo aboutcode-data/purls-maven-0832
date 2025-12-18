@@ -1,0 +1,6 @@
+- pkg:maven/ai.nextbillion/nb-maps-client@1.2
+- pkg:maven/ai.nextbillion/nb-maps-client@1.2?classifier=sources
+- pkg:maven/ai.nextbillion/nb-maps-client@1.3.3
+- pkg:maven/ai.nextbillion/nb-maps-client@1.3.3?classifier=sources
+- pkg:maven/ai.nextbillion/nb-maps-client@1.4.0
+- pkg:maven/ai.nextbillion/nb-maps-client@1.4.0?classifier=sources

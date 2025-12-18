@@ -38,6 +38,12 @@
 - pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev20200220-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev20200220-1.30.9
 - pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev20200220-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev20200603-1.30.10
+- pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev20200603-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev20200603-1.30.9
+- pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev20200603-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev20200806-1.30.10
+- pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev20200806-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev4-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev4-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-lifesciences@v2beta-rev4-1.25.0

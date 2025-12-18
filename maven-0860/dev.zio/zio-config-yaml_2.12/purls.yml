@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-config-yaml_2.12@1.0.0-RC25
+- pkg:maven/dev.zio/zio-config-yaml_2.12@1.0.0-RC25?classifier=sources
+- pkg:maven/dev.zio/zio-config-yaml_2.12@1.0.0-RC26
+- pkg:maven/dev.zio/zio-config-yaml_2.12@1.0.0-RC26?classifier=sources

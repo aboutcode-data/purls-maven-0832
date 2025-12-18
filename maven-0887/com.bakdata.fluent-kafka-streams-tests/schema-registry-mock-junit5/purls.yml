@@ -10,3 +10,5 @@
 - pkg:maven/com.bakdata.fluent-kafka-streams-tests/schema-registry-mock-junit5@2.0.4?classifier=sources
 - pkg:maven/com.bakdata.fluent-kafka-streams-tests/schema-registry-mock-junit5@2.1.0
 - pkg:maven/com.bakdata.fluent-kafka-streams-tests/schema-registry-mock-junit5@2.1.0?classifier=sources
+- pkg:maven/com.bakdata.fluent-kafka-streams-tests/schema-registry-mock-junit5@2.2.0
+- pkg:maven/com.bakdata.fluent-kafka-streams-tests/schema-registry-mock-junit5@2.2.0?classifier=sources

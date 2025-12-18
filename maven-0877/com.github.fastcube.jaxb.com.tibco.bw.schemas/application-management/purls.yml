@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fastcube.jaxb.com.tibco.bw.schemas/application-management@5.7
+- pkg:maven/com.github.fastcube.jaxb.com.tibco.bw.schemas/application-management@5.7?classifier=sources
