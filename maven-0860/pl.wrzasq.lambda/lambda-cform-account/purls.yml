@@ -76,3 +76,5 @@
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-account@1.0.9?classifier=sources
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-account@1.1.0
 - pkg:maven/pl.wrzasq.lambda/lambda-cform-account@1.1.0?classifier=sources
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-account@1.1.1
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-account@1.1.1?classifier=sources

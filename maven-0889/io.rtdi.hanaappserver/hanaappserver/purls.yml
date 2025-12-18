@@ -1,0 +1,8 @@
+- pkg:maven/io.rtdi.hanaappserver/hanaappserver@0.8.3
+- pkg:maven/io.rtdi.hanaappserver/hanaappserver@0.8.3?classifier=sources
+- pkg:maven/io.rtdi.hanaappserver/hanaappserver@0.8.5
+- pkg:maven/io.rtdi.hanaappserver/hanaappserver@0.8.5?classifier=sources
+- pkg:maven/io.rtdi.hanaappserver/hanaappserver@0.8.6
+- pkg:maven/io.rtdi.hanaappserver/hanaappserver@0.8.6?classifier=sources
+- pkg:maven/io.rtdi.hanaappserver/hanaappserver@0.8.7
+- pkg:maven/io.rtdi.hanaappserver/hanaappserver@0.8.7?classifier=sources

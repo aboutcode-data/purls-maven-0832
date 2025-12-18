@@ -44,3 +44,9 @@
 - pkg:maven/com.eworkcloud/ework-cloud-starter-guava@1.8.2?classifier=sources
 - pkg:maven/com.eworkcloud/ework-cloud-starter-guava@1.8.3
 - pkg:maven/com.eworkcloud/ework-cloud-starter-guava@1.8.3?classifier=sources
+- pkg:maven/com.eworkcloud/ework-cloud-starter-guava@1.8.4
+- pkg:maven/com.eworkcloud/ework-cloud-starter-guava@1.8.4?classifier=sources
+- pkg:maven/com.eworkcloud/ework-cloud-starter-guava@1.8.5
+- pkg:maven/com.eworkcloud/ework-cloud-starter-guava@1.8.5?classifier=sources
+- pkg:maven/com.eworkcloud/ework-cloud-starter-guava@1.8.6
+- pkg:maven/com.eworkcloud/ework-cloud-starter-guava@1.8.6?classifier=sources

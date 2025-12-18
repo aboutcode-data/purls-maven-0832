@@ -10,3 +10,11 @@
 - pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.0-RC2
 - pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.0-RC2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.1
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.1?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.2
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.2?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.3
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.3?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.4
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.4?classifier=sources

@@ -70,6 +70,12 @@
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.05.00-RPM?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.05.01-RPM
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.05.01-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.05.02-RPM
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.05.02-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.05.03-RPM
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.05.03-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.06.00-RPM
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core@04.06.00-RPM?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@3.0.3
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@3.0.3?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core@3.0.4

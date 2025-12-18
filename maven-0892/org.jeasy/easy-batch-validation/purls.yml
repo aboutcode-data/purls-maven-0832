@@ -1,0 +1,2 @@
+- pkg:maven/org.jeasy/easy-batch-validation@6.0.0
+- pkg:maven/org.jeasy/easy-batch-validation@6.0.0?classifier=sources

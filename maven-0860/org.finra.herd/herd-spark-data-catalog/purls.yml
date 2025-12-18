@@ -16,6 +16,12 @@
 - pkg:maven/org.finra.herd/herd-spark-data-catalog@0.108.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-spark-data-catalog@0.109.0
 - pkg:maven/org.finra.herd/herd-spark-data-catalog@0.109.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-spark-data-catalog@0.110.0
+- pkg:maven/org.finra.herd/herd-spark-data-catalog@0.110.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-spark-data-catalog@0.111.0
+- pkg:maven/org.finra.herd/herd-spark-data-catalog@0.111.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-spark-data-catalog@0.112.0
+- pkg:maven/org.finra.herd/herd-spark-data-catalog@0.112.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-spark-data-catalog@0.87.0
 - pkg:maven/org.finra.herd/herd-spark-data-catalog@0.87.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-spark-data-catalog@0.88.0

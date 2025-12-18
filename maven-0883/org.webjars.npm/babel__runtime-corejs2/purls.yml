@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.0.0
+- pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.2.0
 - pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.4.5
@@ -12,3 +14,7 @@
 - pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.7.4
 - pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.7.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.8.3
+- pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.8.4
+- pkg:maven/org.webjars.npm/babel__runtime-corejs2@7.8.4?classifier=sources

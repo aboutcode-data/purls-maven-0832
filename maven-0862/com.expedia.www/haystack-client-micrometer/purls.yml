@@ -28,3 +28,5 @@
 - pkg:maven/com.expedia.www/haystack-client-micrometer@0.2.8?classifier=sources
 - pkg:maven/com.expedia.www/haystack-client-micrometer@0.2.9
 - pkg:maven/com.expedia.www/haystack-client-micrometer@0.2.9?classifier=sources
+- pkg:maven/com.expedia.www/haystack-client-micrometer@0.3.0
+- pkg:maven/com.expedia.www/haystack-client-micrometer@0.3.0?classifier=sources

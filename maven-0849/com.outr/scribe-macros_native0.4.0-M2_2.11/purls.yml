@@ -1,0 +1,4 @@
+- pkg:maven/com.outr/scribe-macros_native0.4.0-M2_2.11@2.7.11
+- pkg:maven/com.outr/scribe-macros_native0.4.0-M2_2.11@2.7.11?classifier=sources
+- pkg:maven/com.outr/scribe-macros_native0.4.0-M2_2.11@2.7.12
+- pkg:maven/com.outr/scribe-macros_native0.4.0-M2_2.11@2.7.12?classifier=sources

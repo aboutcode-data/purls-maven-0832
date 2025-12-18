@@ -1,0 +1,6 @@
+- pkg:maven/za.co.absa.enceladus/examples@2.0.0
+- pkg:maven/za.co.absa.enceladus/examples@2.0.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/examples@2.1.0
+- pkg:maven/za.co.absa.enceladus/examples@2.1.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/examples@2.2.0
+- pkg:maven/za.co.absa.enceladus/examples@2.2.0?classifier=sources

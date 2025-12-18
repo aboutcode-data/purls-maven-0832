@@ -1,0 +1,2 @@
+- pkg:maven/org.openmole.gridscale/effect_2.12@2.28
+- pkg:maven/org.openmole.gridscale/effect_2.12@2.28?classifier=sources

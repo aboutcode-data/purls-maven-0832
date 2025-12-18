@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-appconfiguration-config-web@1.1.2
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-appconfiguration-config-web@1.1.2?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-appconfiguration-config-web@1.2.2
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-appconfiguration-config-web@1.2.2?classifier=sources

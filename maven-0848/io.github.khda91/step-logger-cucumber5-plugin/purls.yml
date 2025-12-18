@@ -1,0 +1,2 @@
+- pkg:maven/io.github.khda91/step-logger-cucumber5-plugin@2.0.0
+- pkg:maven/io.github.khda91/step-logger-cucumber5-plugin@2.0.0?classifier=sources

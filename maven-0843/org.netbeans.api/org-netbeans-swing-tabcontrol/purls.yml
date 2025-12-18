@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-swing-tabcontrol@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-swing-tabcontrol@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-swing-tabcontrol@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-swing-tabcontrol@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-swing-tabcontrol@RELEASE90?classifier=sources

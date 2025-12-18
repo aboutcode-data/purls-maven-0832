@@ -7,4 +7,8 @@
 - pkg:maven/com.addc/addc-ssl@2.5
 - pkg:maven/com.addc/addc-ssl@2.5.1
 - pkg:maven/com.addc/addc-ssl@2.5.1?classifier=sources
+- pkg:maven/com.addc/addc-ssl@2.5.2
+- pkg:maven/com.addc/addc-ssl@2.5.2?classifier=sources
 - pkg:maven/com.addc/addc-ssl@2.5?classifier=sources
+- pkg:maven/com.addc/addc-ssl@2.6
+- pkg:maven/com.addc/addc-ssl@2.6?classifier=sources

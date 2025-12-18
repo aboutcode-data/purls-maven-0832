@@ -1,0 +1,2 @@
+- pkg:maven/com.madewithtea/mockedstreams_2.13@3.5.1
+- pkg:maven/com.madewithtea/mockedstreams_2.13@3.5.1?classifier=sources

@@ -6,9 +6,15 @@
 - pkg:maven/org.drombler.commons/drombler-commons-action-command@0.12?classifier=sources
 - pkg:maven/org.drombler.commons/drombler-commons-action-command@0.13
 - pkg:maven/org.drombler.commons/drombler-commons-action-command@0.13?classifier=sources
+- pkg:maven/org.drombler.commons/drombler-commons-action-command@0.14
+- pkg:maven/org.drombler.commons/drombler-commons-action-command@0.14?classifier=sources
+- pkg:maven/org.drombler.commons/drombler-commons-action-command@0.15
+- pkg:maven/org.drombler.commons/drombler-commons-action-command@0.15?classifier=sources
 - pkg:maven/org.drombler.commons/drombler-commons-action-command@0.7
 - pkg:maven/org.drombler.commons/drombler-commons-action-command@0.7?classifier=sources
 - pkg:maven/org.drombler.commons/drombler-commons-action-command@0.8
 - pkg:maven/org.drombler.commons/drombler-commons-action-command@0.8?classifier=sources
 - pkg:maven/org.drombler.commons/drombler-commons-action-command@0.9
 - pkg:maven/org.drombler.commons/drombler-commons-action-command@0.9?classifier=sources
+- pkg:maven/org.drombler.commons/drombler-commons-action-command@1.0
+- pkg:maven/org.drombler.commons/drombler-commons-action-command@1.0?classifier=sources

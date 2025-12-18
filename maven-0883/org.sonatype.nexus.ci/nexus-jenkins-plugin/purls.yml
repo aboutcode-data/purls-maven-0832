@@ -29,3 +29,8 @@
 - pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@3.8.20190920-091853.5b0aa4e?classifier=sources
 - pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@3.8.20191024-124504.15c0353?classifier=sources
 - pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@3.8.20191127-111424.5d61f82?classifier=sources
+- pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@3.8.20191204-084645.a4bff16?classifier=sources
+- pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@3.8.20191213-085900.c28ded4?classifier=sources
+- pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@3.8.20191216-154521.a7bf2be?classifier=sources
+- pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@3.8.20200204-101107.d1d344b?classifier=sources
+- pkg:maven/org.sonatype.nexus.ci/nexus-jenkins-plugin@3.8.20200310-130318.c482b58?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/com.malliina/primitives_2.13@1.11.0
 - pkg:maven/com.malliina/primitives_2.13@1.11.0?classifier=sources
+- pkg:maven/com.malliina/primitives_2.13@1.12.3
+- pkg:maven/com.malliina/primitives_2.13@1.12.3?classifier=sources
+- pkg:maven/com.malliina/primitives_2.13@1.13.0
+- pkg:maven/com.malliina/primitives_2.13@1.13.0?classifier=sources
+- pkg:maven/com.malliina/primitives_2.13@1.14.0
+- pkg:maven/com.malliina/primitives_2.13@1.14.0?classifier=sources

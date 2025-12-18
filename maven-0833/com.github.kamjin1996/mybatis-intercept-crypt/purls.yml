@@ -1,0 +1,4 @@
+- pkg:maven/com.github.kamjin1996/mybatis-intercept-crypt@1.0
+- pkg:maven/com.github.kamjin1996/mybatis-intercept-crypt@1.0?classifier=sources
+- pkg:maven/com.github.kamjin1996/mybatis-intercept-crypt@2.0
+- pkg:maven/com.github.kamjin1996/mybatis-intercept-crypt@2.0?classifier=sources

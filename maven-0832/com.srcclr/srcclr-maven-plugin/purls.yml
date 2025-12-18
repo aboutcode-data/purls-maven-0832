@@ -77,6 +77,11 @@
 - pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.0
 - pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.0?classifier=sources
 - pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.11
+- pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.12
+- pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.13
+- pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.14
+- pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.15
+- pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.16
 - pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.2
 - pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.2?classifier=sources
 - pkg:maven/com.srcclr/srcclr-maven-plugin@3.1.3

@@ -40,3 +40,9 @@
 - pkg:maven/com.hotels/circus-train-common-test@14.1.0?classifier=sources
 - pkg:maven/com.hotels/circus-train-common-test@15.0.0
 - pkg:maven/com.hotels/circus-train-common-test@15.0.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-common-test@15.1.0
+- pkg:maven/com.hotels/circus-train-common-test@15.1.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-common-test@15.1.1
+- pkg:maven/com.hotels/circus-train-common-test@15.1.1?classifier=sources
+- pkg:maven/com.hotels/circus-train-common-test@16.0.0
+- pkg:maven/com.hotels/circus-train-common-test@16.0.0?classifier=sources

@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform-ui@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform-ui@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform-ui@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform-ui@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-platform-ui@RELEASE90?classifier=sources

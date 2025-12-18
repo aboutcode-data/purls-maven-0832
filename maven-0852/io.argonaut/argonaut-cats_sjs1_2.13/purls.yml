@@ -1,0 +1,2 @@
+- pkg:maven/io.argonaut/argonaut-cats_sjs1_2.13@6.2.4
+- pkg:maven/io.argonaut/argonaut-cats_sjs1_2.13@6.2.4?classifier=sources

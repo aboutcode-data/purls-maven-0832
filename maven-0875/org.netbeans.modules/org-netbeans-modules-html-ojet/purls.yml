@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-ojet@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-ojet@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-ojet@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-ojet@RELEASE113?classifier=sources

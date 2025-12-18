@@ -1,0 +1,2 @@
+- pkg:maven/cz.o2.proxima.beam/beam-runners-flink-1.8@0.3.0-rc1
+- pkg:maven/cz.o2.proxima.beam/beam-runners-flink-1.8@0.3.0-rc1?classifier=sources

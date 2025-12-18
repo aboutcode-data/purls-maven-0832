@@ -128,6 +128,14 @@
 - pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.3.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.30.0.Final
 - pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.30.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.31.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.31.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.32.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.32.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.33.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.33.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.34.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.34.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.4.1.Final
 - pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.4.1.Final?classifier=sources
 - pkg:maven/org.kie.workbench.services/kie-wb-common-refactoring-api@7.5.0.Final

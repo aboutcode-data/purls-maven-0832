@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.olingo/odata-commons-api@4.6.0?classifier=sources
 - pkg:maven/org.apache.olingo/odata-commons-api@4.7.0
 - pkg:maven/org.apache.olingo/odata-commons-api@4.7.0?classifier=sources
+- pkg:maven/org.apache.olingo/odata-commons-api@4.7.1
+- pkg:maven/org.apache.olingo/odata-commons-api@4.7.1?classifier=sources

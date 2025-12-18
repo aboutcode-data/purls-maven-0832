@@ -1,0 +1,2 @@
+- pkg:maven/com.rosberry.android/LocalMediaProvider@0.1.0?classifier=sources
+- pkg:maven/com.rosberry.android/LocalMediaProvider@0.1.0?type=aar

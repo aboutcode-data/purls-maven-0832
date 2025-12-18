@@ -40,6 +40,14 @@
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.29.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.30.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.30.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.31.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.31.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.32.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.32.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.33.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.33.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.34.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.34.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.8.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.9.0.Final

@@ -54,6 +54,8 @@
 - pkg:maven/org.web3j/parity@4.2.0-android
 - pkg:maven/org.web3j/parity@4.2.0-android?classifier=sources
 - pkg:maven/org.web3j/parity@4.2.0?classifier=sources
+- pkg:maven/org.web3j/parity@4.2.1-android
+- pkg:maven/org.web3j/parity@4.2.1-android?classifier=sources
 - pkg:maven/org.web3j/parity@4.3.0
 - pkg:maven/org.web3j/parity@4.3.0?classifier=sources
 - pkg:maven/org.web3j/parity@4.3.1
@@ -65,6 +67,20 @@
 - pkg:maven/org.web3j/parity@4.5.0
 - pkg:maven/org.web3j/parity@4.5.0?classifier=sources
 - pkg:maven/org.web3j/parity@4.5.1
+- pkg:maven/org.web3j/parity@4.5.10
+- pkg:maven/org.web3j/parity@4.5.10?classifier=sources
+- pkg:maven/org.web3j/parity@4.5.11
+- pkg:maven/org.web3j/parity@4.5.11?classifier=sources
+- pkg:maven/org.web3j/parity@4.5.12
+- pkg:maven/org.web3j/parity@4.5.12?classifier=sources
+- pkg:maven/org.web3j/parity@4.5.13
+- pkg:maven/org.web3j/parity@4.5.13?classifier=sources
+- pkg:maven/org.web3j/parity@4.5.14
+- pkg:maven/org.web3j/parity@4.5.14?classifier=sources
+- pkg:maven/org.web3j/parity@4.5.15
+- pkg:maven/org.web3j/parity@4.5.15?classifier=sources
+- pkg:maven/org.web3j/parity@4.5.16
+- pkg:maven/org.web3j/parity@4.5.16?classifier=sources
 - pkg:maven/org.web3j/parity@4.5.1?classifier=sources
 - pkg:maven/org.web3j/parity@4.5.2
 - pkg:maven/org.web3j/parity@4.5.2?classifier=sources
@@ -80,3 +96,5 @@
 - pkg:maven/org.web3j/parity@4.5.7?classifier=sources
 - pkg:maven/org.web3j/parity@4.5.8
 - pkg:maven/org.web3j/parity@4.5.8?classifier=sources
+- pkg:maven/org.web3j/parity@4.5.9
+- pkg:maven/org.web3j/parity@4.5.9?classifier=sources

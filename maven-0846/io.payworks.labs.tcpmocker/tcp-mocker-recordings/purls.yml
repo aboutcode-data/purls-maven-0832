@@ -1,2 +1,4 @@
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.167.RELEASE
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.167.RELEASE?classifier=sources
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.202.RELEASE
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-recordings@1.0.202.RELEASE?classifier=sources

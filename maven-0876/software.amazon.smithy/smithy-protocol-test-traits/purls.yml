@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.smithy/smithy-protocol-test-traits@0.9.6
+- pkg:maven/software.amazon.smithy/smithy-protocol-test-traits@0.9.6?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-protocol-test-traits@0.9.7
+- pkg:maven/software.amazon.smithy/smithy-protocol-test-traits@0.9.7?classifier=sources

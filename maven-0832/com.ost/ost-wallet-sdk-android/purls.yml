@@ -78,3 +78,17 @@
 - pkg:maven/com.ost/ost-wallet-sdk-android@2.3.6-alpha.2?type=aar
 - pkg:maven/com.ost/ost-wallet-sdk-android@2.3.6?classifier=sources
 - pkg:maven/com.ost/ost-wallet-sdk-android@2.3.6?type=aar
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.7?classifier=sources
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.7?type=aar
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.8-beta.1?classifier=sources
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.8-beta.1?type=aar
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.8-beta.2?classifier=sources
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.8-beta.2?type=aar
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.8-beta.3?classifier=sources
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.8-beta.3?type=aar
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.8?classifier=sources
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.3.8?type=aar
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.4.0?classifier=sources
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.4.0?type=aar
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.4.1?classifier=sources
+- pkg:maven/com.ost/ost-wallet-sdk-android@2.4.1?type=aar

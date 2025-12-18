@@ -24,3 +24,9 @@
 - pkg:maven/org.xowl.infra/xowl-lang@2.0.0?classifier=sources
 - pkg:maven/org.xowl.infra/xowl-lang@2.1.0
 - pkg:maven/org.xowl.infra/xowl-lang@2.1.0?classifier=sources
+- pkg:maven/org.xowl.infra/xowl-lang@2.2.0
+- pkg:maven/org.xowl.infra/xowl-lang@2.2.0?classifier=sources
+- pkg:maven/org.xowl.infra/xowl-lang@2.3.0
+- pkg:maven/org.xowl.infra/xowl-lang@2.3.0?classifier=sources
+- pkg:maven/org.xowl.infra/xowl-lang@2.3.1
+- pkg:maven/org.xowl.infra/xowl-lang@2.3.1?classifier=sources

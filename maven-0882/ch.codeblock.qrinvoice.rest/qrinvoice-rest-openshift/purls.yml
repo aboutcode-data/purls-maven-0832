@@ -1,0 +1,2 @@
+- pkg:maven/ch.codeblock.qrinvoice.rest/qrinvoice-rest-openshift@1.5
+- pkg:maven/ch.codeblock.qrinvoice.rest/qrinvoice-rest-openshift@1.6

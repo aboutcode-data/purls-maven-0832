@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.0
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.0?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.3
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.3?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.4
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.4?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.7
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.7?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.8
+- pkg:maven/org.webjars.npm/vue__compiler-core@3.0.0-alpha.8?classifier=sources

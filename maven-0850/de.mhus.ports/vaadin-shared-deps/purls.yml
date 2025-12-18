@@ -10,3 +10,5 @@
 - pkg:maven/de.mhus.ports/vaadin-shared-deps@1.6.0?classifier=sources
 - pkg:maven/de.mhus.ports/vaadin-shared-deps@1.6.1
 - pkg:maven/de.mhus.ports/vaadin-shared-deps@1.6.1?classifier=sources
+- pkg:maven/de.mhus.ports/vaadin-shared-deps@6.2.0
+- pkg:maven/de.mhus.ports/vaadin-shared-deps@6.2.0?classifier=sources

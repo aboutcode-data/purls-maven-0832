@@ -1,2 +1,4 @@
 - pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.excel@1.7.0
 - pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.excel@1.7.0?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.excel@1.8.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.excel@1.8.0?classifier=sources

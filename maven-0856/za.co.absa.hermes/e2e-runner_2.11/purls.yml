@@ -1,0 +1,2 @@
+- pkg:maven/za.co.absa.hermes/e2e-runner_2.11@0.1.0
+- pkg:maven/za.co.absa.hermes/e2e-runner_2.11@0.1.0?classifier=sources

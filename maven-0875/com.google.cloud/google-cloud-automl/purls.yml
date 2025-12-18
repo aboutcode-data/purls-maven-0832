@@ -34,6 +34,8 @@
 - pkg:maven/com.google.cloud/google-cloud-automl@0.115.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-automl@0.115.1-beta
 - pkg:maven/com.google.cloud/google-cloud-automl@0.115.1-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-automl@0.115.2-beta
+- pkg:maven/com.google.cloud/google-cloud-automl@0.115.2-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-automl@0.55.0-beta
 - pkg:maven/com.google.cloud/google-cloud-automl@0.55.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-automl@0.55.1-beta
@@ -126,3 +128,9 @@
 - pkg:maven/com.google.cloud/google-cloud-automl@0.98.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-automl@0.99.0-beta
 - pkg:maven/com.google.cloud/google-cloud-automl@0.99.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-automl@1.0.0
+- pkg:maven/com.google.cloud/google-cloud-automl@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-automl@1.0.1
+- pkg:maven/com.google.cloud/google-cloud-automl@1.0.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-automl@1.1.0
+- pkg:maven/com.google.cloud/google-cloud-automl@1.1.0?classifier=sources

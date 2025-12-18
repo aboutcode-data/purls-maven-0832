@@ -1,2 +1,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-jpaserver@4.1.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-jpaserver@4.1.0?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-jpaserver@4.2.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-cli-jpaserver@4.2.0?type=war

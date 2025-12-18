@@ -1,0 +1,6 @@
+- pkg:maven/com.github.sunshinezmh/swagger-spring-boot-autoconfigure@0.0.5.RELEASE
+- pkg:maven/com.github.sunshinezmh/swagger-spring-boot-autoconfigure@0.0.5.RELEASE?classifier=sources
+- pkg:maven/com.github.sunshinezmh/swagger-spring-boot-autoconfigure@0.0.6.RELEASE
+- pkg:maven/com.github.sunshinezmh/swagger-spring-boot-autoconfigure@0.0.6.RELEASE?classifier=sources
+- pkg:maven/com.github.sunshinezmh/swagger-spring-boot-autoconfigure@0.0.9.RELEASE
+- pkg:maven/com.github.sunshinezmh/swagger-spring-boot-autoconfigure@0.0.9.RELEASE?classifier=sources

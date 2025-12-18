@@ -140,3 +140,9 @@
 - pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@7.0.1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@8.0.0
 - pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@8.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@8.0.1
+- pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@8.0.1?classifier=sources
+- pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@8.0.2
+- pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@8.0.2?classifier=sources
+- pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@9.0.0
+- pkg:maven/org.keycloak/keycloak-saml-wildfly-subsystem@9.0.0?classifier=sources

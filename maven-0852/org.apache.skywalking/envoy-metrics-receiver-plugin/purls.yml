@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.skywalking/envoy-metrics-receiver-plugin@6.3.0
 - pkg:maven/org.apache.skywalking/envoy-metrics-receiver-plugin@6.4.0
 - pkg:maven/org.apache.skywalking/envoy-metrics-receiver-plugin@6.5.0
+- pkg:maven/org.apache.skywalking/envoy-metrics-receiver-plugin@6.6.0

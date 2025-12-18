@@ -10,3 +10,5 @@
 - pkg:maven/com.github.hayasshi/akka-http-router_2.12@0.5.0-rt1
 - pkg:maven/com.github.hayasshi/akka-http-router_2.12@0.5.0-rt1?classifier=sources
 - pkg:maven/com.github.hayasshi/akka-http-router_2.12@0.5.0?classifier=sources
+- pkg:maven/com.github.hayasshi/akka-http-router_2.12@0.5.1
+- pkg:maven/com.github.hayasshi/akka-http-router_2.12@0.5.1?classifier=sources

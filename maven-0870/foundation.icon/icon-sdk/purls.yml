@@ -11,6 +11,8 @@
 - pkg:maven/foundation.icon/icon-sdk@0.9.13?classifier=sources
 - pkg:maven/foundation.icon/icon-sdk@0.9.14
 - pkg:maven/foundation.icon/icon-sdk@0.9.14?classifier=sources
+- pkg:maven/foundation.icon/icon-sdk@0.9.15
+- pkg:maven/foundation.icon/icon-sdk@0.9.15?classifier=sources
 - pkg:maven/foundation.icon/icon-sdk@0.9.1?classifier=sources
 - pkg:maven/foundation.icon/icon-sdk@0.9.2
 - pkg:maven/foundation.icon/icon-sdk@0.9.2?classifier=sources

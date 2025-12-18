@@ -2,6 +2,8 @@
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-core@1.0.144.RELEASE?classifier=sources
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-core@1.0.167.RELEASE
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-core@1.0.167.RELEASE?classifier=sources
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-core@1.0.202.RELEASE
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-core@1.0.202.RELEASE?classifier=sources
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-core@1.0.71.RELEASE
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-core@1.0.71.RELEASE?classifier=sources
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-core@1.0.86.RELEASE

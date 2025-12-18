@@ -1,2 +1,6 @@
 - pkg:maven/io.github.spark-dataprocessing/spark-dataprocessing_2.11@0.1
 - pkg:maven/io.github.spark-dataprocessing/spark-dataprocessing_2.11@0.1?classifier=sources
+- pkg:maven/io.github.spark-dataprocessing/spark-dataprocessing_2.11@0.2.0-dev
+- pkg:maven/io.github.spark-dataprocessing/spark-dataprocessing_2.11@0.2.0-dev?classifier=sources
+- pkg:maven/io.github.spark-dataprocessing/spark-dataprocessing_2.11@0.2.0-rc1
+- pkg:maven/io.github.spark-dataprocessing/spark-dataprocessing_2.11@0.2.0-rc1?classifier=sources

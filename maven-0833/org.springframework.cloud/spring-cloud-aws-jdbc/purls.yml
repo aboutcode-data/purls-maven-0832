@@ -46,3 +46,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-aws-jdbc@2.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-aws-jdbc@2.2.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-aws-jdbc@2.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-aws-jdbc@2.2.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-aws-jdbc@2.2.1.RELEASE?classifier=sources

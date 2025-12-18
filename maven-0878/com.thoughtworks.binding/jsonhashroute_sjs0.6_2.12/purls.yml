@@ -47,6 +47,10 @@
 - pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0%2B6-17ccff28?classifier=sources
 - pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0%2B60-730d52df
 - pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0%2B60-730d52df?classifier=sources
+- pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0%2B62-209ae4c6
+- pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0%2B62-209ae4c6?classifier=sources
+- pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0%2B64-9e5c7a2c
+- pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0%2B64-9e5c7a2c?classifier=sources
 - pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0%2B8-91c866eb
 - pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0%2B8-91c866eb?classifier=sources
 - pkg:maven/com.thoughtworks.binding/jsonhashroute_sjs0.6_2.12@0.2.0?classifier=sources

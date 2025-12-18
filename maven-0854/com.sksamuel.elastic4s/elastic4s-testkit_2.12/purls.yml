@@ -175,6 +175,8 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.2.1
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.2.10
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.2.10?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.2.11
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.2.11?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.2.1?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.2.2
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.2.2?classifier=sources
@@ -208,6 +210,8 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.3.7?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.3.8
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.3.8?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.3.9
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.3.9?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.4.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.4.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.5.0
@@ -220,6 +224,8 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.5.3?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.5.4
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.5.4?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.5.5
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.5.5?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.6.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.6.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.7.0
@@ -230,6 +236,8 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.7.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.7.3
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.7.3?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.7.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@6.7.4?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.0.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.0.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.0.1
@@ -242,9 +250,15 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.1.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.1.2
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.1.2?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.1.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.1.4?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.2.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.2.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.3.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.3.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.3.1
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.3.1?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.3.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.3.4?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.3.5
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.3.5?classifier=sources

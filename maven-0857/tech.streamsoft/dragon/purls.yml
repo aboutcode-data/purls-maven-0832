@@ -1,0 +1,14 @@
+- pkg:maven/tech.streamsoft/dragon@0.0.1
+- pkg:maven/tech.streamsoft/dragon@0.0.1-alpha.1
+- pkg:maven/tech.streamsoft/dragon@0.0.1-alpha.1?classifier=sources
+- pkg:maven/tech.streamsoft/dragon@0.0.1-alpha.2
+- pkg:maven/tech.streamsoft/dragon@0.0.1-alpha.2?classifier=sources
+- pkg:maven/tech.streamsoft/dragon@0.0.1-alpha.3
+- pkg:maven/tech.streamsoft/dragon@0.0.1-alpha.3?classifier=sources
+- pkg:maven/tech.streamsoft/dragon@0.0.1-alpha.4
+- pkg:maven/tech.streamsoft/dragon@0.0.1-alpha.4?classifier=sources
+- pkg:maven/tech.streamsoft/dragon@0.0.1?classifier=sources
+- pkg:maven/tech.streamsoft/dragon@0.0.2
+- pkg:maven/tech.streamsoft/dragon@0.0.2?classifier=sources
+- pkg:maven/tech.streamsoft/dragon@0.0.3
+- pkg:maven/tech.streamsoft/dragon@0.0.3?classifier=sources

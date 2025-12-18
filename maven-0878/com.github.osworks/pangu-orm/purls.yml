@@ -1,0 +1,2 @@
+- pkg:maven/com.github.osworks/pangu-orm@4.0.0
+- pkg:maven/com.github.osworks/pangu-orm@4.0.0?classifier=sources

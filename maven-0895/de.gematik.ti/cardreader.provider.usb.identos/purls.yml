@@ -1,0 +1,4 @@
+- pkg:maven/de.gematik.ti/cardreader.provider.usb.identos@1.1.8?classifier=sources
+- pkg:maven/de.gematik.ti/cardreader.provider.usb.identos@1.1.8?type=aar
+- pkg:maven/de.gematik.ti/cardreader.provider.usb.identos@1.1.9?classifier=sources
+- pkg:maven/de.gematik.ti/cardreader.provider.usb.identos@1.1.9?type=aar

@@ -159,6 +159,10 @@
 - pkg:maven/org.opensourcebim/bimserver@1.5.18
 - pkg:maven/org.opensourcebim/bimserver@1.5.180
 - pkg:maven/org.opensourcebim/bimserver@1.5.180?classifier=sources
+- pkg:maven/org.opensourcebim/bimserver@1.5.181
+- pkg:maven/org.opensourcebim/bimserver@1.5.181?classifier=sources
+- pkg:maven/org.opensourcebim/bimserver@1.5.182
+- pkg:maven/org.opensourcebim/bimserver@1.5.182?classifier=sources
 - pkg:maven/org.opensourcebim/bimserver@1.5.18?classifier=sources
 - pkg:maven/org.opensourcebim/bimserver@1.5.19
 - pkg:maven/org.opensourcebim/bimserver@1.5.19?classifier=sources

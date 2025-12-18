@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/bijection_2.13@0.9.7
+- pkg:maven/com.twitter/bijection_2.13@0.9.7?classifier=sources

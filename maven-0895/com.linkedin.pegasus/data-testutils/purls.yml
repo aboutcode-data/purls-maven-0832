@@ -6,3 +6,5 @@
 - pkg:maven/com.linkedin.pegasus/data-testutils@23.0.19?classifier=sources
 - pkg:maven/com.linkedin.pegasus/data-testutils@24.0.2
 - pkg:maven/com.linkedin.pegasus/data-testutils@24.0.2?classifier=sources
+- pkg:maven/com.linkedin.pegasus/data-testutils@27.7.18
+- pkg:maven/com.linkedin.pegasus/data-testutils@27.7.18?classifier=sources

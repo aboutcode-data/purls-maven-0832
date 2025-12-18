@@ -1,0 +1,4 @@
+- pkg:maven/com.fenlibao.security.sdk.ws.client/omdc-sdk-ws-client@0.0.1
+- pkg:maven/com.fenlibao.security.sdk.ws.client/omdc-sdk-ws-client@0.0.1?classifier=sources
+- pkg:maven/com.fenlibao.security.sdk.ws.client/omdc-sdk-ws-client@0.0.1m
+- pkg:maven/com.fenlibao.security.sdk.ws.client/omdc-sdk-ws-client@0.0.1m?classifier=sources

@@ -8,4 +8,5 @@
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.7.0-MS2
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.7.0-MS3
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.7.0-RC1
+- pkg:maven/com.buschmais.jqassistant.cli/test@1.8.0
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.8.0-MS1

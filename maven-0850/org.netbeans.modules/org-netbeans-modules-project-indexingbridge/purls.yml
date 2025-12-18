@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-indexingbridge@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-indexingbridge@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-indexingbridge@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-project-indexingbridge@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-indexingbridge@RELEASE90?classifier=sources

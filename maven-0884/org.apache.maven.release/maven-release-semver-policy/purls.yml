@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.maven.release/maven-release-semver-policy@3.0.0-M1
+- pkg:maven/org.apache.maven.release/maven-release-semver-policy@3.0.0-M1?classifier=sources

@@ -11,6 +11,8 @@
 - pkg:maven/com.thoughtworks.future/multipleexception_sjs0.6_2.12@2.0.0%2B70-dbea3525?classifier=sources
 - pkg:maven/com.thoughtworks.future/multipleexception_sjs0.6_2.12@2.0.0%2B71-1035d844
 - pkg:maven/com.thoughtworks.future/multipleexception_sjs0.6_2.12@2.0.0%2B71-1035d844?classifier=sources
+- pkg:maven/com.thoughtworks.future/multipleexception_sjs0.6_2.12@2.0.0%2B72-cfc13c52
+- pkg:maven/com.thoughtworks.future/multipleexception_sjs0.6_2.12@2.0.0%2B72-cfc13c52?classifier=sources
 - pkg:maven/com.thoughtworks.future/multipleexception_sjs0.6_2.12@2.0.0%2B73-4893962d
 - pkg:maven/com.thoughtworks.future/multipleexception_sjs0.6_2.12@2.0.0%2B73-4893962d?classifier=sources
 - pkg:maven/com.thoughtworks.future/multipleexception_sjs0.6_2.12@2.0.0%2B76-9dfbc5a4

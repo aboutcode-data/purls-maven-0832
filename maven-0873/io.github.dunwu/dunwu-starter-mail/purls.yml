@@ -1,3 +1,6 @@
 - pkg:maven/io.github.dunwu/dunwu-starter-mail@0.4.7
 - pkg:maven/io.github.dunwu/dunwu-starter-mail@0.4.8
 - pkg:maven/io.github.dunwu/dunwu-starter-mail@0.4.9
+- pkg:maven/io.github.dunwu/dunwu-starter-mail@0.5.0
+- pkg:maven/io.github.dunwu/dunwu-starter-mail@0.5.2
+- pkg:maven/io.github.dunwu/dunwu-starter-mail@0.5.3

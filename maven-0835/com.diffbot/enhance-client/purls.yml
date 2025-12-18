@@ -1,0 +1,6 @@
+- pkg:maven/com.diffbot/enhance-client@0.1.0
+- pkg:maven/com.diffbot/enhance-client@0.1.0?classifier=sources
+- pkg:maven/com.diffbot/enhance-client@1.0.0
+- pkg:maven/com.diffbot/enhance-client@1.0.0-rc.01
+- pkg:maven/com.diffbot/enhance-client@1.0.0-rc.01?classifier=sources
+- pkg:maven/com.diffbot/enhance-client@1.0.0?classifier=sources

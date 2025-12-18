@@ -1,0 +1,6 @@
+- pkg:maven/org.drombler.commons/drombler-commons-spring-boot@0.14
+- pkg:maven/org.drombler.commons/drombler-commons-spring-boot@0.14?classifier=sources
+- pkg:maven/org.drombler.commons/drombler-commons-spring-boot@0.15
+- pkg:maven/org.drombler.commons/drombler-commons-spring-boot@0.15?classifier=sources
+- pkg:maven/org.drombler.commons/drombler-commons-spring-boot@1.0
+- pkg:maven/org.drombler.commons/drombler-commons-spring-boot@1.0?classifier=sources

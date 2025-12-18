@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jbssio/com.io7m.jbssio.vanilla@0.0.2
+- pkg:maven/com.io7m.jbssio/com.io7m.jbssio.vanilla@0.0.2?classifier=sources

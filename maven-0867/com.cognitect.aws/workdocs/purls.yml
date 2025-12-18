@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/workdocs@746.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/workdocs@770.2.568.0
 - pkg:maven/com.cognitect.aws/workdocs@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workdocs@793.2.629.0
+- pkg:maven/com.cognitect.aws/workdocs@793.2.629.0?classifier=sources

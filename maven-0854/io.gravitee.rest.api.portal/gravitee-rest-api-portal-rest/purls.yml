@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.rest.api.portal/gravitee-rest-api-portal-rest@3.0.0-alpha
+- pkg:maven/io.gravitee.rest.api.portal/gravitee-rest-api-portal-rest@3.0.0-alpha?classifier=sources

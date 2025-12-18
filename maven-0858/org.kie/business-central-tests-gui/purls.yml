@@ -30,3 +30,11 @@
 - pkg:maven/org.kie/business-central-tests-gui@7.29.0.Final?classifier=sources
 - pkg:maven/org.kie/business-central-tests-gui@7.30.0.Final
 - pkg:maven/org.kie/business-central-tests-gui@7.30.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-tests-gui@7.31.0.Final
+- pkg:maven/org.kie/business-central-tests-gui@7.31.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-tests-gui@7.32.0.Final
+- pkg:maven/org.kie/business-central-tests-gui@7.32.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-tests-gui@7.33.0.Final
+- pkg:maven/org.kie/business-central-tests-gui@7.33.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-tests-gui@7.34.0.Final
+- pkg:maven/org.kie/business-central-tests-gui@7.34.0.Final?classifier=sources

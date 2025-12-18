@@ -19,3 +19,6 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-core@3.5.1
 - pkg:maven/org.eclipse.dirigible/dirigible-core@3.5.2
 - pkg:maven/org.eclipse.dirigible/dirigible-core@4.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-core@4.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-core@4.2.0
+- pkg:maven/org.eclipse.dirigible/dirigible-core@4.3.0

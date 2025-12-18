@@ -2,3 +2,5 @@
 - pkg:maven/com.manorrock.oyena/template@2.3.10.0?classifier=sources
 - pkg:maven/com.manorrock.oyena/template@2.3.9.0
 - pkg:maven/com.manorrock.oyena/template@2.3.9.0?classifier=sources
+- pkg:maven/com.manorrock.oyena/template@20.2.0
+- pkg:maven/com.manorrock.oyena/template@20.2.0?classifier=sources

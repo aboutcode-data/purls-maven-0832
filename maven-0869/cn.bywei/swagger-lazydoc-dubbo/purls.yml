@@ -1,0 +1,2 @@
+- pkg:maven/cn.bywei/swagger-lazydoc-dubbo@1.0.3
+- pkg:maven/cn.bywei/swagger-lazydoc-dubbo@1.0.3?classifier=sources

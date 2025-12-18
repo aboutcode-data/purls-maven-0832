@@ -1,4 +1,16 @@
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0
 - pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M4
 - pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M4?classifier=sources
 - pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M5
 - pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M5?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M6
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0.M6?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.0?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.1
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.1?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.2
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.1.2?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.2.1
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.2.1?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.2.2
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-feature-management@1.2.2?classifier=sources

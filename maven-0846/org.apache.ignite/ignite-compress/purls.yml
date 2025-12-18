@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.ignite/ignite-compress@2.8.0
+- pkg:maven/org.apache.ignite/ignite-compress@2.8.0?classifier=sources

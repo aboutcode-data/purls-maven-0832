@@ -8,7 +8,13 @@
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.13?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.14
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.14?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.25
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.25?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.8
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.8?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.9
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.1.9?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.2.0
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.2.0?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.2.3
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido@5.2.3?classifier=sources

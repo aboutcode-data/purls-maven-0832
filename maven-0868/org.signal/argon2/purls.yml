@@ -1,0 +1,2 @@
+- pkg:maven/org.signal/argon2@13.0?type=aar
+- pkg:maven/org.signal/argon2@13.1?type=aar

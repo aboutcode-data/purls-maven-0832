@@ -14,3 +14,5 @@
 - pkg:maven/com.microsoft.ml.lightgbm/lightgbmlib@2.2.400?classifier=sources
 - pkg:maven/com.microsoft.ml.lightgbm/lightgbmlib@2.3.100
 - pkg:maven/com.microsoft.ml.lightgbm/lightgbmlib@2.3.100?classifier=sources
+- pkg:maven/com.microsoft.ml.lightgbm/lightgbmlib@2.3.150
+- pkg:maven/com.microsoft.ml.lightgbm/lightgbmlib@2.3.150?classifier=sources

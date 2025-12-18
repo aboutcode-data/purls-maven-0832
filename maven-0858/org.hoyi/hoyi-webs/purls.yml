@@ -1,3 +1,5 @@
+- pkg:maven/org.hoyi/hoyi-webs@10.0.1
+- pkg:maven/org.hoyi/hoyi-webs@10.0.1?classifier=sources
 - pkg:maven/org.hoyi/hoyi-webs@8.3.0
 - pkg:maven/org.hoyi/hoyi-webs@8.3.0?classifier=sources
 - pkg:maven/org.hoyi/hoyi-webs@8.3.1
@@ -42,3 +44,7 @@
 - pkg:maven/org.hoyi/hoyi-webs@9.0.5?classifier=sources
 - pkg:maven/org.hoyi/hoyi-webs@9.1.00
 - pkg:maven/org.hoyi/hoyi-webs@9.1.00?classifier=sources
+- pkg:maven/org.hoyi/hoyi-webs@9.1.01
+- pkg:maven/org.hoyi/hoyi-webs@9.1.01?classifier=sources
+- pkg:maven/org.hoyi/hoyi-webs@9.1.02
+- pkg:maven/org.hoyi/hoyi-webs@9.1.02?classifier=sources

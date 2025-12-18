@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-redoc-akka-http_2.12@0.12.24
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-redoc-akka-http_2.12@0.12.24?classifier=sources

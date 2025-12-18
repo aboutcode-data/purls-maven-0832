@@ -36,3 +36,13 @@
 - pkg:maven/io.nextflow/nf-ignite@19.10.0?classifier=sources
 - pkg:maven/io.nextflow/nf-ignite@19.11.0-edge
 - pkg:maven/io.nextflow/nf-ignite@19.11.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-ignite@19.12.0-edge
+- pkg:maven/io.nextflow/nf-ignite@19.12.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-ignite@20.01.0
+- pkg:maven/io.nextflow/nf-ignite@20.01.0-edge
+- pkg:maven/io.nextflow/nf-ignite@20.01.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-ignite@20.01.0-rc1
+- pkg:maven/io.nextflow/nf-ignite@20.01.0-rc1?classifier=sources
+- pkg:maven/io.nextflow/nf-ignite@20.01.0?classifier=sources
+- pkg:maven/io.nextflow/nf-ignite@20.02.0-edge
+- pkg:maven/io.nextflow/nf-ignite@20.02.0-edge?classifier=sources

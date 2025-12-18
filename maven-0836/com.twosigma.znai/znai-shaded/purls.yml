@@ -3,3 +3,9 @@
 - pkg:maven/com.twosigma.znai/znai-shaded@1.19
 - pkg:maven/com.twosigma.znai/znai-shaded@1.20
 - pkg:maven/com.twosigma.znai/znai-shaded@1.21
+- pkg:maven/com.twosigma.znai/znai-shaded@1.22
+- pkg:maven/com.twosigma.znai/znai-shaded@1.24
+- pkg:maven/com.twosigma.znai/znai-shaded@1.25
+- pkg:maven/com.twosigma.znai/znai-shaded@1.26
+- pkg:maven/com.twosigma.znai/znai-shaded@1.27
+- pkg:maven/com.twosigma.znai/znai-shaded@1.29

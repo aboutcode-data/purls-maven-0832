@@ -6,5 +6,9 @@
 - pkg:maven/com.arakelian/retry@3.3.0?classifier=sources
 - pkg:maven/com.arakelian/retry@3.5.0
 - pkg:maven/com.arakelian/retry@3.5.0?classifier=sources
+- pkg:maven/com.arakelian/retry@3.6.0
+- pkg:maven/com.arakelian/retry@3.6.0?classifier=sources
+- pkg:maven/com.arakelian/retry@3.7.0
+- pkg:maven/com.arakelian/retry@3.7.0?classifier=sources
 - pkg:maven/com.arakelian/retry@unspecified
 - pkg:maven/com.arakelian/retry@unspecified?classifier=sources

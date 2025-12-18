@@ -1,0 +1,2 @@
+- pkg:maven/com.tethys-json/tethys-circe_2.13@0.11.0
+- pkg:maven/com.tethys-json/tethys-circe_2.13@0.11.0?classifier=sources

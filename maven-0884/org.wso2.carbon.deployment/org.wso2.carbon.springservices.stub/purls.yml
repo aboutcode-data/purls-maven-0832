@@ -1,3 +1,9 @@
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.10.0
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.10.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.10.0?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.10.1
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.10.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.10.1?classifier=sources
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.3.0
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.3.1
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.4.0
@@ -71,3 +77,9 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.9.12
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.9.12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.9.12?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.9.16
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.9.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.9.16?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.9.17
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.9.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.stub@4.9.17?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.arakhne.afc.bootique/bootique-synopsishelp@15.2?classifier=sources
 - pkg:maven/org.arakhne.afc.bootique/bootique-synopsishelp@16.0
 - pkg:maven/org.arakhne.afc.bootique/bootique-synopsishelp@16.0?classifier=sources
+- pkg:maven/org.arakhne.afc.bootique/bootique-synopsishelp@17.0
+- pkg:maven/org.arakhne.afc.bootique/bootique-synopsishelp@17.0?classifier=sources

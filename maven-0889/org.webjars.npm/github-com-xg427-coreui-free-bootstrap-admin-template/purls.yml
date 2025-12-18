@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-xg427-coreui-free-bootstrap-admin-template@2.1.15
+- pkg:maven/org.webjars.npm/github-com-xg427-coreui-free-bootstrap-admin-template@2.1.15?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-xg427-coreui-free-bootstrap-admin-template@3.0.0
+- pkg:maven/org.webjars.npm/github-com-xg427-coreui-free-bootstrap-admin-template@3.0.0?classifier=sources

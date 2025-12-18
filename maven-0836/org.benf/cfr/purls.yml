@@ -26,3 +26,5 @@
 - pkg:maven/org.benf/cfr@0.147?classifier=sources
 - pkg:maven/org.benf/cfr@0.148
 - pkg:maven/org.benf/cfr@0.148?classifier=sources
+- pkg:maven/org.benf/cfr@0.149
+- pkg:maven/org.benf/cfr@0.149?classifier=sources

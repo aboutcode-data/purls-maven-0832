@@ -1,0 +1,2 @@
+- pkg:maven/io.lenses/lenses-security-groups-plugin@1.0.0-FINAL?classifier=sources
+- pkg:maven/io.lenses/lenses-security-groups-plugin@1.0.1-RC1?classifier=sources

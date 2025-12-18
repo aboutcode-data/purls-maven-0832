@@ -1,0 +1,6 @@
+- pkg:maven/tech.harmonysoft/leonardo@1?classifier=sources
+- pkg:maven/tech.harmonysoft/leonardo@1?type=aar
+- pkg:maven/tech.harmonysoft/leonardo@2?classifier=sources
+- pkg:maven/tech.harmonysoft/leonardo@2?type=aar
+- pkg:maven/tech.harmonysoft/leonardo@3?classifier=sources
+- pkg:maven/tech.harmonysoft/leonardo@3?type=aar

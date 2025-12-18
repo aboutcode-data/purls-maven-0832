@@ -1,0 +1,2 @@
+- pkg:maven/com.webank/wecross-java-sdk@1.0.0-rc1
+- pkg:maven/com.webank/wecross-java-sdk@1.0.0-rc1?classifier=sources

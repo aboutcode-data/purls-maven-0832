@@ -1,0 +1,2 @@
+- pkg:maven/info.jitcom/jbridge@1.2.1?classifier=sources
+- pkg:maven/info.jitcom/jbridge@1.2?classifier=sources

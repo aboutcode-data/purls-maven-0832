@@ -1,0 +1,4 @@
+- pkg:maven/org.n52.sensorweb-server.sos/sos-aqd-v10@5.0.0
+- pkg:maven/org.n52.sensorweb-server.sos/sos-aqd-v10@5.0.0?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-aqd-v10@5.0.1
+- pkg:maven/org.n52.sensorweb-server.sos/sos-aqd-v10@5.0.1?classifier=sources

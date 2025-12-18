@@ -171,8 +171,16 @@
 - pkg:maven/eu.hansolo/tilesfx@11.27?classifier=sources
 - pkg:maven/eu.hansolo/tilesfx@11.28
 - pkg:maven/eu.hansolo/tilesfx@11.28?classifier=sources
+- pkg:maven/eu.hansolo/tilesfx@11.29
+- pkg:maven/eu.hansolo/tilesfx@11.29?classifier=sources
 - pkg:maven/eu.hansolo/tilesfx@11.2?classifier=sources
 - pkg:maven/eu.hansolo/tilesfx@11.3
+- pkg:maven/eu.hansolo/tilesfx@11.30
+- pkg:maven/eu.hansolo/tilesfx@11.30?classifier=sources
+- pkg:maven/eu.hansolo/tilesfx@11.31
+- pkg:maven/eu.hansolo/tilesfx@11.31?classifier=sources
+- pkg:maven/eu.hansolo/tilesfx@11.32
+- pkg:maven/eu.hansolo/tilesfx@11.32?classifier=sources
 - pkg:maven/eu.hansolo/tilesfx@11.3?classifier=sources
 - pkg:maven/eu.hansolo/tilesfx@11.6
 - pkg:maven/eu.hansolo/tilesfx@11.6?classifier=sources

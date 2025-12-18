@@ -1,0 +1,4 @@
+- pkg:maven/com.luketebbs.uniform/interpreter-play28_2.12@4.10.0
+- pkg:maven/com.luketebbs.uniform/interpreter-play28_2.12@4.10.0?classifier=sources
+- pkg:maven/com.luketebbs.uniform/interpreter-play28_2.12@4.9.0
+- pkg:maven/com.luketebbs.uniform/interpreter-play28_2.12@4.9.0?classifier=sources

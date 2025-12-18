@@ -31,3 +31,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@4.0.2?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@4.0.3?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@4.1.0?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@4.2.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@4.2.0?type=war

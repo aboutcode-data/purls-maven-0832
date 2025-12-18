@@ -1,0 +1,10 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.20
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.20?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.21
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.21?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.22
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.22?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.23
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.23?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.24
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-refined_2.13@0.12.24?classifier=sources

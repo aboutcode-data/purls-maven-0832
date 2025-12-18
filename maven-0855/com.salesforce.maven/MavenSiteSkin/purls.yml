@@ -8,6 +8,8 @@
 - pkg:maven/com.salesforce.maven/MavenSiteSkin@1.0.15
 - pkg:maven/com.salesforce.maven/MavenSiteSkin@1.0.16
 - pkg:maven/com.salesforce.maven/MavenSiteSkin@1.0.17
+- pkg:maven/com.salesforce.maven/MavenSiteSkin@1.0.18
+- pkg:maven/com.salesforce.maven/MavenSiteSkin@1.0.19
 - pkg:maven/com.salesforce.maven/MavenSiteSkin@1.0.2
 - pkg:maven/com.salesforce.maven/MavenSiteSkin@1.0.3
 - pkg:maven/com.salesforce.maven/MavenSiteSkin@1.0.4

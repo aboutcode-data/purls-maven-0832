@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-fallback@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-fallback@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-fallback@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-fallback@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-fallback@RELEASE90?classifier=sources

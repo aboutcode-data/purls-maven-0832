@@ -26,3 +26,5 @@
 - pkg:maven/be.objectify/deadbolt-scala_2.11@2.6.0?classifier=sources
 - pkg:maven/be.objectify/deadbolt-scala_2.11@2.6.1
 - pkg:maven/be.objectify/deadbolt-scala_2.11@2.6.1?classifier=sources
+- pkg:maven/be.objectify/deadbolt-scala_2.11@2.7.1
+- pkg:maven/be.objectify/deadbolt-scala_2.11@2.7.1?classifier=sources

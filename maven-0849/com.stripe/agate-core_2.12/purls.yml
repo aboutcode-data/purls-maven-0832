@@ -1,2 +1,8 @@
 - pkg:maven/com.stripe/agate-core_2.12@0.1.0
 - pkg:maven/com.stripe/agate-core_2.12@0.1.0?classifier=sources
+- pkg:maven/com.stripe/agate-core_2.12@0.1.2
+- pkg:maven/com.stripe/agate-core_2.12@0.1.2?classifier=sources
+- pkg:maven/com.stripe/agate-core_2.12@0.1.3
+- pkg:maven/com.stripe/agate-core_2.12@0.1.3-cats-1-6-0
+- pkg:maven/com.stripe/agate-core_2.12@0.1.3-cats-1-6-0?classifier=sources
+- pkg:maven/com.stripe/agate-core_2.12@0.1.3?classifier=sources

@@ -170,6 +170,10 @@
 - pkg:maven/com.graphaware.neo4j/runtime@3.5.11.55?classifier=sources
 - pkg:maven/com.graphaware.neo4j/runtime@3.5.12.55
 - pkg:maven/com.graphaware.neo4j/runtime@3.5.12.55?classifier=sources
+- pkg:maven/com.graphaware.neo4j/runtime@3.5.13.55
+- pkg:maven/com.graphaware.neo4j/runtime@3.5.13.55?classifier=sources
+- pkg:maven/com.graphaware.neo4j/runtime@3.5.14.55
+- pkg:maven/com.graphaware.neo4j/runtime@3.5.14.55?classifier=sources
 - pkg:maven/com.graphaware.neo4j/runtime@3.5.2.53
 - pkg:maven/com.graphaware.neo4j/runtime@3.5.2.53?classifier=sources
 - pkg:maven/com.graphaware.neo4j/runtime@3.5.3.53

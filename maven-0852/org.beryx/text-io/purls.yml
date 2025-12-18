@@ -74,3 +74,5 @@
 - pkg:maven/org.beryx/text-io@3.2.1?classifier=sources
 - pkg:maven/org.beryx/text-io@3.3.0
 - pkg:maven/org.beryx/text-io@3.3.0?classifier=sources
+- pkg:maven/org.beryx/text-io@3.4.0
+- pkg:maven/org.beryx/text-io@3.4.0?classifier=sources

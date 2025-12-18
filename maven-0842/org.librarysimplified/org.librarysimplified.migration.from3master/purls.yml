@@ -1,2 +1,3 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.migration.from3master@4.0.0?classifier=sources
 - pkg:maven/org.librarysimplified/org.librarysimplified.migration.from3master@4.0.0?type=aar
+- pkg:maven/org.librarysimplified/org.librarysimplified.migration.from3master@5.0.0?classifier=sources

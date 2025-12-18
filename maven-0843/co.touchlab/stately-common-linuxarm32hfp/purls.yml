@@ -1,0 +1,2 @@
+- pkg:maven/co.touchlab/stately-common-linuxarm32hfp@1.0.0-a2?classifier=sources
+- pkg:maven/co.touchlab/stately-common-linuxarm32hfp@1.0.1-eap?classifier=sources

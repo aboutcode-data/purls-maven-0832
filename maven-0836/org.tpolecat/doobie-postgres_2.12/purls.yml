@@ -94,3 +94,7 @@
 - pkg:maven/org.tpolecat/doobie-postgres_2.12@0.8.5?classifier=sources
 - pkg:maven/org.tpolecat/doobie-postgres_2.12@0.8.6
 - pkg:maven/org.tpolecat/doobie-postgres_2.12@0.8.6?classifier=sources
+- pkg:maven/org.tpolecat/doobie-postgres_2.12@0.8.7
+- pkg:maven/org.tpolecat/doobie-postgres_2.12@0.8.7?classifier=sources
+- pkg:maven/org.tpolecat/doobie-postgres_2.12@0.8.8
+- pkg:maven/org.tpolecat/doobie-postgres_2.12@0.8.8?classifier=sources

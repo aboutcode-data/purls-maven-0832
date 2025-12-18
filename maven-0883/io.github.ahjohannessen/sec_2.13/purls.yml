@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ahjohannessen/sec_2.13@0.0.1-M1
+- pkg:maven/io.github.ahjohannessen/sec_2.13@0.0.1-M1?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec_2.13@0.0.1-M2
+- pkg:maven/io.github.ahjohannessen/sec_2.13@0.0.1-M2?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec_2.13@0.0.1-M3
+- pkg:maven/io.github.ahjohannessen/sec_2.13@0.0.1-M3?classifier=sources

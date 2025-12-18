@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.rest.api.idp/gravitee-rest-api-idp-core@3.0.0-alpha
+- pkg:maven/io.gravitee.rest.api.idp/gravitee-rest-api-idp-core@3.0.0-alpha?classifier=sources

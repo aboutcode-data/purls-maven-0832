@@ -1,0 +1,4 @@
+- pkg:maven/ai.libs/jaicore-ml-weka@0.2.0
+- pkg:maven/ai.libs/jaicore-ml-weka@0.2.0?classifier=sources
+- pkg:maven/ai.libs/jaicore-ml-weka@0.2.1
+- pkg:maven/ai.libs/jaicore-ml-weka@0.2.1?classifier=sources

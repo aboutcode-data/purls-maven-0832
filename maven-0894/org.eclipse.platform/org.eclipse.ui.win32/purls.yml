@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.win32@3.4.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.win32@3.4.200
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.win32@3.4.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.win32@3.4.300
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.win32@3.4.300?classifier=sources

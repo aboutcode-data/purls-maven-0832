@@ -1,8 +1,12 @@
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.10
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.10?classifier=sources
+- pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.11
+- pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.11?classifier=sources
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.7
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.7?classifier=sources
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.8
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.8?classifier=sources
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.9
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.1.9?classifier=sources
+- pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.39.0
+- pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.39.0?classifier=sources

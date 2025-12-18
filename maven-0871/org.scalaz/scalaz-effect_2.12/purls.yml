@@ -54,6 +54,8 @@
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.28?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.29
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.29?classifier=sources
+- pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.30
+- pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.30?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.7
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.7?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.8
@@ -104,6 +106,8 @@
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.3.0-M30?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.3.0-M31
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.3.0-M31?classifier=sources
+- pkg:maven/org.scalaz/scalaz-effect_2.12@7.3.0-M32
+- pkg:maven/org.scalaz/scalaz-effect_2.12@7.3.0-M32?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.3.0-M6
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.3.0-M6?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.3.0-M7

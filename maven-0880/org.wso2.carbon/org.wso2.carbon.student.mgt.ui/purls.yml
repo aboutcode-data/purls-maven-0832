@@ -34,3 +34,7 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.4.36
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.4.37
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.5.1
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.6.0
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.6.0-alpha
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.6.0-alpha2
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.6.0-beta2

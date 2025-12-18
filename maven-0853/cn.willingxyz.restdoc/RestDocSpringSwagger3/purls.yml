@@ -36,3 +36,13 @@
 - pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.1.8.2?classifier=sources
 - pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.1.8.3
 - pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.1.8.3?classifier=sources
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.0.0
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.0.0-beta
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.0.0-beta1
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.0.0-beta1?classifier=sources
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.0.0-beta?classifier=sources
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.0.0?classifier=sources
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.1.0
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.1.0?classifier=sources
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.1.1
+- pkg:maven/cn.willingxyz.restdoc/RestDocSpringSwagger3@0.2.1.1?classifier=sources

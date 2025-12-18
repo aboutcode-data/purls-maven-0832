@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud.fastdfs/fastdfs-spring-boot-starter@0.4.0
+- pkg:maven/com.pig4cloud.fastdfs/fastdfs-spring-boot-starter@0.4.0?classifier=sources

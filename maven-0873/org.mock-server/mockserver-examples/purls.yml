@@ -136,3 +136,7 @@
 - pkg:maven/org.mock-server/mockserver-examples@5.7.2?type=war
 - pkg:maven/org.mock-server/mockserver-examples@5.8.0?classifier=sources
 - pkg:maven/org.mock-server/mockserver-examples@5.8.0?type=war
+- pkg:maven/org.mock-server/mockserver-examples@5.8.1?classifier=sources
+- pkg:maven/org.mock-server/mockserver-examples@5.8.1?type=war
+- pkg:maven/org.mock-server/mockserver-examples@5.9.0?classifier=sources
+- pkg:maven/org.mock-server/mockserver-examples@5.9.0?type=war

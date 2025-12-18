@@ -7,4 +7,14 @@
 - pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B26-4866f27c?classifier=sources
 - pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B28-e7185013
 - pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B28-e7185013?classifier=sources
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B32-1d762e26
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B32-1d762e26?classifier=sources
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B34-75887b53
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B34-75887b53?classifier=sources
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B38-5bfab304
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B38-5bfab304?classifier=sources
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B97-13b1908e
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B97-13b1908e?classifier=sources
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B98-d8a7f12d
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2%2B98-d8a7f12d?classifier=sources
 - pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.2?classifier=sources

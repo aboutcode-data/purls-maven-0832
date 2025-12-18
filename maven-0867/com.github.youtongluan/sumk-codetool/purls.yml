@@ -14,3 +14,7 @@
 - pkg:maven/com.github.youtongluan/sumk-codetool@1.3.1?classifier=sources
 - pkg:maven/com.github.youtongluan/sumk-codetool@2.6.3
 - pkg:maven/com.github.youtongluan/sumk-codetool@2.6.3?classifier=sources
+- pkg:maven/com.github.youtongluan/sumk-codetool@2.6.5
+- pkg:maven/com.github.youtongluan/sumk-codetool@2.6.5?classifier=sources
+- pkg:maven/com.github.youtongluan/sumk-codetool@2.7.2
+- pkg:maven/com.github.youtongluan/sumk-codetool@2.7.2?classifier=sources

@@ -33,3 +33,5 @@
 - pkg:maven/xyz.noark/noark-network@3.3.6.Final
 - pkg:maven/xyz.noark/noark-network@3.3.6.Final?classifier=sources
 - pkg:maven/xyz.noark/noark-network@3.3.7.Final?classifier=sources
+- pkg:maven/xyz.noark/noark-network@3.3.8.Final
+- pkg:maven/xyz.noark/noark-network@3.3.8.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@0.7.0-RC-01?classifier=sources
+- pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@0.8.0-rc-01?classifier=sources

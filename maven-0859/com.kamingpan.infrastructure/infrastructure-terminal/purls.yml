@@ -1,0 +1,2 @@
+- pkg:maven/com.kamingpan.infrastructure/infrastructure-terminal@1.0.0
+- pkg:maven/com.kamingpan.infrastructure/infrastructure-terminal@1.0.0?classifier=sources

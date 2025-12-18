@@ -2,3 +2,9 @@
 - pkg:maven/org.neo4j/neo4j-expressions-4.0@4.0-alpha0-20181130?classifier=sources
 - pkg:maven/org.neo4j/neo4j-expressions-4.0@4.0-alpha0-20190301
 - pkg:maven/org.neo4j/neo4j-expressions-4.0@4.0-alpha0-20190301?classifier=sources
+- pkg:maven/org.neo4j/neo4j-expressions-4.0@4.0.0
+- pkg:maven/org.neo4j/neo4j-expressions-4.0@4.0.0-rc01
+- pkg:maven/org.neo4j/neo4j-expressions-4.0@4.0.0-rc01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-expressions-4.0@4.0.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-expressions-4.0@4.0.1
+- pkg:maven/org.neo4j/neo4j-expressions-4.0@4.0.1?classifier=sources

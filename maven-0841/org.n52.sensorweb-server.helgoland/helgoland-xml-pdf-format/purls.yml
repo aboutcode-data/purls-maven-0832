@@ -1,0 +1,2 @@
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.0.0
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.github.sprinklr/twitter4j-ads@4.0?classifier=sources
+- pkg:maven/com.github.sprinklr/twitter4j-ads@5.0?classifier=sources

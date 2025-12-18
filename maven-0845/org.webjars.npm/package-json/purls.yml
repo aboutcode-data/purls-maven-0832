@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/package-json@3.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/package-json@4.0.1
 - pkg:maven/org.webjars.npm/package-json@4.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/package-json@6.5.0
+- pkg:maven/org.webjars.npm/package-json@6.5.0?classifier=sources

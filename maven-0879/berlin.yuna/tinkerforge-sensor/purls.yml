@@ -1,0 +1,2 @@
+- pkg:maven/berlin.yuna/tinkerforge-sensor@0.0.5
+- pkg:maven/berlin.yuna/tinkerforge-sensor@0.0.5?classifier=sources

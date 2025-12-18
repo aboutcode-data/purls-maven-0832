@@ -6,6 +6,8 @@
 - pkg:maven/org.mozilla/rhino@1.7.11-RC2
 - pkg:maven/org.mozilla/rhino@1.7.11-RC2?classifier=sources
 - pkg:maven/org.mozilla/rhino@1.7.11?classifier=sources
+- pkg:maven/org.mozilla/rhino@1.7.12
+- pkg:maven/org.mozilla/rhino@1.7.12?classifier=sources
 - pkg:maven/org.mozilla/rhino@1.7.6
 - pkg:maven/org.mozilla/rhino@1.7.6?classifier=sources
 - pkg:maven/org.mozilla/rhino@1.7.7

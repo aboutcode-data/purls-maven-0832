@@ -147,8 +147,14 @@
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.26?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.27
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.27?classifier=sources
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.28
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.28?classifier=sources
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.29
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.29?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.2?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.3
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.30
+- pkg:maven/com.puppycrawl.tools/checkstyle@8.30?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.3?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.4
 - pkg:maven/com.puppycrawl.tools/checkstyle@8.4?classifier=sources

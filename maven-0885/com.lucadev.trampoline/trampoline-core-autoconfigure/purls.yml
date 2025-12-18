@@ -2,3 +2,5 @@
 - pkg:maven/com.lucadev.trampoline/trampoline-core-autoconfigure@20190507?classifier=sources
 - pkg:maven/com.lucadev.trampoline/trampoline-core-autoconfigure@20190509
 - pkg:maven/com.lucadev.trampoline/trampoline-core-autoconfigure@20190509?classifier=sources
+- pkg:maven/com.lucadev.trampoline/trampoline-core-autoconfigure@20190628
+- pkg:maven/com.lucadev.trampoline/trampoline-core-autoconfigure@20190628?classifier=sources

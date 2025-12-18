@@ -43,3 +43,5 @@
 - pkg:maven/com.weicoder/nosql@2.3.9
 - pkg:maven/com.weicoder/nosql@2.3.9?classifier=sources
 - pkg:maven/com.weicoder/nosql@2.3?classifier=sources
+- pkg:maven/com.weicoder/nosql@2.5.0
+- pkg:maven/com.weicoder/nosql@2.5.0?classifier=sources

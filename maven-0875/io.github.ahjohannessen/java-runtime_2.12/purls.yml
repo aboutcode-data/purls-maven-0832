@@ -1,0 +1,8 @@
+- pkg:maven/io.github.ahjohannessen/java-runtime_2.12@0.6.10
+- pkg:maven/io.github.ahjohannessen/java-runtime_2.12@0.6.10?classifier=sources
+- pkg:maven/io.github.ahjohannessen/java-runtime_2.12@0.6.6
+- pkg:maven/io.github.ahjohannessen/java-runtime_2.12@0.6.6?classifier=sources
+- pkg:maven/io.github.ahjohannessen/java-runtime_2.12@0.6.7
+- pkg:maven/io.github.ahjohannessen/java-runtime_2.12@0.6.7?classifier=sources
+- pkg:maven/io.github.ahjohannessen/java-runtime_2.12@0.6.9
+- pkg:maven/io.github.ahjohannessen/java-runtime_2.12@0.6.9?classifier=sources

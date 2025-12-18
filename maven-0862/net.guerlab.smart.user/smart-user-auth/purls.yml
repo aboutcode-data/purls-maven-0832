@@ -1,0 +1,6 @@
+- pkg:maven/net.guerlab.smart.user/smart-user-auth@0.3.0
+- pkg:maven/net.guerlab.smart.user/smart-user-auth@0.3.0?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-auth@1.0.0
+- pkg:maven/net.guerlab.smart.user/smart-user-auth@1.0.0?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-auth@1.0.1
+- pkg:maven/net.guerlab.smart.user/smart-user-auth@1.0.1?classifier=sources

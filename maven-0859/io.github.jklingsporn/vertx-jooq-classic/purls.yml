@@ -40,3 +40,9 @@
 - pkg:maven/io.github.jklingsporn/vertx-jooq-classic@4.1.0?classifier=sources
 - pkg:maven/io.github.jklingsporn/vertx-jooq-classic@4.2.0
 - pkg:maven/io.github.jklingsporn/vertx-jooq-classic@4.2.0?classifier=sources
+- pkg:maven/io.github.jklingsporn/vertx-jooq-classic@5.0.0
+- pkg:maven/io.github.jklingsporn/vertx-jooq-classic@5.0.0?classifier=sources
+- pkg:maven/io.github.jklingsporn/vertx-jooq-classic@5.0.1
+- pkg:maven/io.github.jklingsporn/vertx-jooq-classic@5.0.1?classifier=sources
+- pkg:maven/io.github.jklingsporn/vertx-jooq-classic@5.1.0
+- pkg:maven/io.github.jklingsporn/vertx-jooq-classic@5.1.0?classifier=sources

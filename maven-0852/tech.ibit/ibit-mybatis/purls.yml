@@ -1,0 +1,4 @@
+- pkg:maven/tech.ibit/ibit-mybatis@1.0
+- pkg:maven/tech.ibit/ibit-mybatis@1.0?classifier=sources
+- pkg:maven/tech.ibit/ibit-mybatis@1.1
+- pkg:maven/tech.ibit/ibit-mybatis@1.1?classifier=sources

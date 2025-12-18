@@ -16,3 +16,7 @@
 - pkg:maven/com.cognitect.aws/dlm@773.2.576.0?classifier=sources
 - pkg:maven/com.cognitect.aws/dlm@773.2.579.0
 - pkg:maven/com.cognitect.aws/dlm@773.2.579.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dlm@784.2.594.0
+- pkg:maven/com.cognitect.aws/dlm@784.2.594.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dlm@789.2.612.0
+- pkg:maven/com.cognitect.aws/dlm@789.2.612.0?classifier=sources

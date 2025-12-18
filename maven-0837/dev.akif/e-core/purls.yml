@@ -6,3 +6,13 @@
 - pkg:maven/dev.akif/e-core@0.2.2?classifier=sources
 - pkg:maven/dev.akif/e-core@0.2.3
 - pkg:maven/dev.akif/e-core@0.2.3?classifier=sources
+- pkg:maven/dev.akif/e-core@0.2.4
+- pkg:maven/dev.akif/e-core@0.2.4?classifier=sources
+- pkg:maven/dev.akif/e-core@1.0.0
+- pkg:maven/dev.akif/e-core@1.0.0?classifier=sources
+- pkg:maven/dev.akif/e-core@1.1.0
+- pkg:maven/dev.akif/e-core@1.1.0?classifier=sources
+- pkg:maven/dev.akif/e-core@1.1.1
+- pkg:maven/dev.akif/e-core@1.1.1?classifier=sources
+- pkg:maven/dev.akif/e-core@1.1.2
+- pkg:maven/dev.akif/e-core@1.1.2?classifier=sources

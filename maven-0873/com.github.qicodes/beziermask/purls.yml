@@ -1,0 +1,2 @@
+- pkg:maven/com.github.qicodes/beziermask@1.2.7?classifier=sources
+- pkg:maven/com.github.qicodes/beziermask@1.2.7?type=aar

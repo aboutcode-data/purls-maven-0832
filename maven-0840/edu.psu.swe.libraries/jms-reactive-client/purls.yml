@@ -11,6 +11,14 @@
 - pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.14?classifier=sources
 - pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.15
 - pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.15?classifier=sources
+- pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.16
+- pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.16.1
+- pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.16.1?classifier=sources
+- pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.16.2
+- pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.16.2?classifier=sources
+- pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.16.3
+- pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.16.3?classifier=sources
+- pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.16?classifier=sources
 - pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.1?classifier=sources
 - pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.2
 - pkg:maven/edu.psu.swe.libraries/jms-reactive-client@0.2?classifier=sources

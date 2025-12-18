@@ -18,3 +18,4 @@
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@5.0.5?classifier=sources
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@5.0.6?classifier=sources
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@5.0.7?classifier=sources
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@5.0.8?classifier=sources

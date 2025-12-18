@@ -262,6 +262,8 @@
 - pkg:maven/org.infinispan/infinispan-server-websocket@8.2.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-websocket@8.2.11.Final
 - pkg:maven/org.infinispan/infinispan-server-websocket@8.2.11.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-websocket@8.2.12.Final
+- pkg:maven/org.infinispan/infinispan-server-websocket@8.2.12.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-websocket@8.2.2.Final
 - pkg:maven/org.infinispan/infinispan-server-websocket@8.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-websocket@8.2.3.Final
@@ -372,5 +374,7 @@
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.3.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.3.6.Final
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.3.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-websocket@9.3.8.Final
+- pkg:maven/org.infinispan/infinispan-server-websocket@9.3.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.4.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-server-websocket@9.4.0.Alpha1?classifier=sources

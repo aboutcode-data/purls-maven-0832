@@ -1,0 +1,2 @@
+- pkg:maven/hu.blackbelt.osgi.i18n/i18n-impl@1.0.0
+- pkg:maven/hu.blackbelt.osgi.i18n/i18n-impl@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.ghunteranderson/jsemver@0.0.0
+- pkg:maven/com.ghunteranderson/jsemver@0.0.0?classifier=sources
+- pkg:maven/com.ghunteranderson/jsemver@0.1.0
+- pkg:maven/com.ghunteranderson/jsemver@0.1.0?classifier=sources

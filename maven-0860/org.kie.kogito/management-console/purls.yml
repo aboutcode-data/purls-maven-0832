@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/management-console@0.8.0
+- pkg:maven/org.kie.kogito/management-console@0.8.0?classifier=sources

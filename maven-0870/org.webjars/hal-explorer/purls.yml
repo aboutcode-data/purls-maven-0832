@@ -1,4 +1,5 @@
 - pkg:maven/org.webjars/hal-explorer@0.10.0
 - pkg:maven/org.webjars/hal-explorer@0.11.0
+- pkg:maven/org.webjars/hal-explorer@0.12.0
 - pkg:maven/org.webjars/hal-explorer@0.9.4
 - pkg:maven/org.webjars/hal-explorer@0.9.5

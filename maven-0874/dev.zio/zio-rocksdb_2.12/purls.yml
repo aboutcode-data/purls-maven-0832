@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-rocksdb_2.12@0.1.0
+- pkg:maven/dev.zio/zio-rocksdb_2.12@0.1.0?classifier=sources
+- pkg:maven/dev.zio/zio-rocksdb_2.12@0.2.0
+- pkg:maven/dev.zio/zio-rocksdb_2.12@0.2.0?classifier=sources

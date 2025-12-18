@@ -7,3 +7,6 @@
 - pkg:maven/com.sandpolis/sandpolis-plugin-filesys@5.1.0
 - pkg:maven/com.sandpolis/sandpolis-plugin-filesys@5.1.0?classifier=sources
 - pkg:maven/com.sandpolis/sandpolis-plugin-filesys@5.1.1?classifier=sources
+- pkg:maven/com.sandpolis/sandpolis-plugin-filesys@5.1.2?classifier=sources
+- pkg:maven/com.sandpolis/sandpolis-plugin-filesys@6.0.0?classifier=sources
+- pkg:maven/com.sandpolis/sandpolis-plugin-filesys@6.1.0?classifier=sources

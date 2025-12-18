@@ -40,3 +40,9 @@
 - pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.8?classifier=sources
 - pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.9
 - pkg:maven/net.javapla.jawn/jawn-server-undertow@0.9.9?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@1.0.0
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@1.0.0?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@1.0.1
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@1.0.1?classifier=sources
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@1.0.2
+- pkg:maven/net.javapla.jawn/jawn-server-undertow@1.0.2?classifier=sources

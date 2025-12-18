@@ -22,3 +22,5 @@
 - pkg:maven/com.alibaba.csp/sentinel-cluster-server-default@1.6.3?classifier=sources
 - pkg:maven/com.alibaba.csp/sentinel-cluster-server-default@1.7.0
 - pkg:maven/com.alibaba.csp/sentinel-cluster-server-default@1.7.0?classifier=sources
+- pkg:maven/com.alibaba.csp/sentinel-cluster-server-default@1.7.1
+- pkg:maven/com.alibaba.csp/sentinel-cluster-server-default@1.7.1?classifier=sources

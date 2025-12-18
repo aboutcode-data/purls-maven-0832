@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.232
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.232?classifier=sources

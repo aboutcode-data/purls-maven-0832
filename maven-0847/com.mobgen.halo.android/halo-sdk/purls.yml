@@ -36,3 +36,5 @@
 - pkg:maven/com.mobgen.halo.android/halo-sdk@2.5.4?type=aar
 - pkg:maven/com.mobgen.halo.android/halo-sdk@2.7.0?classifier=sources
 - pkg:maven/com.mobgen.halo.android/halo-sdk@2.7.0?type=aar
+- pkg:maven/com.mobgen.halo.android/halo-sdk@2.9.0?classifier=sources
+- pkg:maven/com.mobgen.halo.android/halo-sdk@2.9.0?type=aar

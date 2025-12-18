@@ -16,3 +16,5 @@
 - pkg:maven/it.cosenonjaviste/tomcat-jwt-security@2.2.0?classifier=sources
 - pkg:maven/it.cosenonjaviste/tomcat-jwt-security@2.3.0
 - pkg:maven/it.cosenonjaviste/tomcat-jwt-security@2.3.0?classifier=sources
+- pkg:maven/it.cosenonjaviste/tomcat-jwt-security@3.0.0
+- pkg:maven/it.cosenonjaviste/tomcat-jwt-security@3.0.0?classifier=sources

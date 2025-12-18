@@ -8,5 +8,9 @@
 - pkg:maven/com.vikingsen.inject/viewmodel-inject-processor@0.3.0-alpha01?classifier=sources
 - pkg:maven/com.vikingsen.inject/viewmodel-inject-processor@0.3.1-alpha02
 - pkg:maven/com.vikingsen.inject/viewmodel-inject-processor@0.3.1-alpha02?classifier=sources
+- pkg:maven/com.vikingsen.inject/viewmodel-inject-processor@0.3.2
 - pkg:maven/com.vikingsen.inject/viewmodel-inject-processor@0.3.2-rc01
 - pkg:maven/com.vikingsen.inject/viewmodel-inject-processor@0.3.2-rc01?classifier=sources
+- pkg:maven/com.vikingsen.inject/viewmodel-inject-processor@0.3.2?classifier=sources
+- pkg:maven/com.vikingsen.inject/viewmodel-inject-processor@0.3.3
+- pkg:maven/com.vikingsen.inject/viewmodel-inject-processor@0.3.3?classifier=sources

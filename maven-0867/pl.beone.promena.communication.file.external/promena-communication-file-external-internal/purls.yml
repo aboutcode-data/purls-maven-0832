@@ -1,0 +1,2 @@
+- pkg:maven/pl.beone.promena.communication.file.external/promena-communication-file-external-internal@1.0.0
+- pkg:maven/pl.beone.promena.communication.file.external/promena-communication-file-external-internal@1.0.0?classifier=sources

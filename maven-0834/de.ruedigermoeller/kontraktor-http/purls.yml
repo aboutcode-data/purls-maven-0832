@@ -200,3 +200,9 @@
 - pkg:maven/de.ruedigermoeller/kontraktor-http@4.28?classifier=sources
 - pkg:maven/de.ruedigermoeller/kontraktor-http@4.29
 - pkg:maven/de.ruedigermoeller/kontraktor-http@4.29?classifier=sources
+- pkg:maven/de.ruedigermoeller/kontraktor-http@4.30
+- pkg:maven/de.ruedigermoeller/kontraktor-http@4.30.2
+- pkg:maven/de.ruedigermoeller/kontraktor-http@4.30.2?classifier=sources
+- pkg:maven/de.ruedigermoeller/kontraktor-http@4.30.3
+- pkg:maven/de.ruedigermoeller/kontraktor-http@4.30.3?classifier=sources
+- pkg:maven/de.ruedigermoeller/kontraktor-http@4.30?classifier=sources

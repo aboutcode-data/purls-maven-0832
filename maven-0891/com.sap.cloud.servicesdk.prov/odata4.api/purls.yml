@@ -90,5 +90,15 @@
 - pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.35.4?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.36.0
 - pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.36.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.36.1
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.36.1?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.36.2
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.36.2?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.37.0
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.37.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.37.1
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.37.1?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.38.0
+- pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.38.0?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.7.4
 - pkg:maven/com.sap.cloud.servicesdk.prov/odata4.api@1.7.4?classifier=sources

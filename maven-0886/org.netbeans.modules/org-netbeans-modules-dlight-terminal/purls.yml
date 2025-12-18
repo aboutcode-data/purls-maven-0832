@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-terminal@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-terminal@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-terminal@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-terminal@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-terminal@RELEASE90?classifier=sources

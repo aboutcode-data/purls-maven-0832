@@ -30,3 +30,5 @@
 - pkg:maven/com.rabidgremlin/mutters-fasttext-intent@5.0.4?classifier=sources
 - pkg:maven/com.rabidgremlin/mutters-fasttext-intent@6.0.0
 - pkg:maven/com.rabidgremlin/mutters-fasttext-intent@6.0.0?classifier=sources
+- pkg:maven/com.rabidgremlin/mutters-fasttext-intent@7.0.0
+- pkg:maven/com.rabidgremlin/mutters-fasttext-intent@7.0.0?classifier=sources

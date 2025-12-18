@@ -1,0 +1,4 @@
+- pkg:maven/io.github.svarzee/gpsoauth-java@0.7.0
+- pkg:maven/io.github.svarzee/gpsoauth-java@0.7.0?classifier=sources
+- pkg:maven/io.github.svarzee/gpsoauth-java@0.9.1
+- pkg:maven/io.github.svarzee/gpsoauth-java@0.9.1?classifier=sources

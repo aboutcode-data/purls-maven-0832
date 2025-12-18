@@ -1,4 +1,6 @@
 - pkg:maven/com.fastchar/fastchar-sms@1.0.1
 - pkg:maven/com.fastchar/fastchar-sms@1.0.1?classifier=sources
 - pkg:maven/com.fastchar/fastchar-sms@1.02
+- pkg:maven/com.fastchar/fastchar-sms@1.02.1
+- pkg:maven/com.fastchar/fastchar-sms@1.02.1?classifier=sources
 - pkg:maven/com.fastchar/fastchar-sms@1.02?classifier=sources

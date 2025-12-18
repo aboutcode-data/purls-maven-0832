@@ -512,6 +512,12 @@
 - pkg:maven/org.eclipse.jetty/jetty-xml@9.4.23.v20191118?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-xml@9.4.24.v20191120
 - pkg:maven/org.eclipse.jetty/jetty-xml@9.4.24.v20191120?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-xml@9.4.25.v20191220
+- pkg:maven/org.eclipse.jetty/jetty-xml@9.4.25.v20191220?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-xml@9.4.26.v20200117
+- pkg:maven/org.eclipse.jetty/jetty-xml@9.4.26.v20200117?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-xml@9.4.27.v20200227
+- pkg:maven/org.eclipse.jetty/jetty-xml@9.4.27.v20200227?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-xml@9.4.3.v20170317
 - pkg:maven/org.eclipse.jetty/jetty-xml@9.4.3.v20170317?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-xml@9.4.3.v20180619

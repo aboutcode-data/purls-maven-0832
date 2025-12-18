@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mlangc/zio-interop-log4j2_2.12@0.1.0
+- pkg:maven/com.github.mlangc/zio-interop-log4j2_2.12@0.1.0?classifier=sources

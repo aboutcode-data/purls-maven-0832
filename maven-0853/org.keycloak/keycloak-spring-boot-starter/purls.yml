@@ -34,3 +34,6 @@
 - pkg:maven/org.keycloak/keycloak-spring-boot-starter@7.0.0
 - pkg:maven/org.keycloak/keycloak-spring-boot-starter@7.0.1
 - pkg:maven/org.keycloak/keycloak-spring-boot-starter@8.0.0
+- pkg:maven/org.keycloak/keycloak-spring-boot-starter@8.0.1
+- pkg:maven/org.keycloak/keycloak-spring-boot-starter@8.0.2
+- pkg:maven/org.keycloak/keycloak-spring-boot-starter@9.0.0
