@@ -1,0 +1,4 @@
+- pkg:maven/com.mobntic/catalog-spring-boot-autoconfig@1.0.0
+- pkg:maven/com.mobntic/catalog-spring-boot-autoconfig@1.0.0?classifier=sources
+- pkg:maven/com.mobntic/catalog-spring-boot-autoconfig@1.0.1
+- pkg:maven/com.mobntic/catalog-spring-boot-autoconfig@1.0.1?classifier=sources

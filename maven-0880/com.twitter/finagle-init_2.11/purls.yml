@@ -38,6 +38,16 @@
 - pkg:maven/com.twitter/finagle-init_2.11@19.3.0?classifier=sources
 - pkg:maven/com.twitter/finagle-init_2.11@19.4.0
 - pkg:maven/com.twitter/finagle-init_2.11@19.4.0?classifier=sources
+- pkg:maven/com.twitter/finagle-init_2.11@19.5.0
+- pkg:maven/com.twitter/finagle-init_2.11@19.5.0?classifier=sources
+- pkg:maven/com.twitter/finagle-init_2.11@19.5.1
+- pkg:maven/com.twitter/finagle-init_2.11@19.5.1?classifier=sources
+- pkg:maven/com.twitter/finagle-init_2.11@19.6.0
+- pkg:maven/com.twitter/finagle-init_2.11@19.6.0?classifier=sources
+- pkg:maven/com.twitter/finagle-init_2.11@19.7.0
+- pkg:maven/com.twitter/finagle-init_2.11@19.7.0?classifier=sources
+- pkg:maven/com.twitter/finagle-init_2.11@19.8.0
+- pkg:maven/com.twitter/finagle-init_2.11@19.8.0?classifier=sources
 - pkg:maven/com.twitter/finagle-init_2.11@7.0.0
 - pkg:maven/com.twitter/finagle-init_2.11@7.0.0?classifier=sources
 - pkg:maven/com.twitter/finagle-init_2.11@7.1.0

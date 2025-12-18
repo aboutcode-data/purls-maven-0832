@@ -1,0 +1,2 @@
+- pkg:maven/com.battcn.cloud/extend-cors-spring-boot-starter@1.0.1-RELEASE
+- pkg:maven/com.battcn.cloud/extend-cors-spring-boot-starter@1.0.1-RELEASE?classifier=sources

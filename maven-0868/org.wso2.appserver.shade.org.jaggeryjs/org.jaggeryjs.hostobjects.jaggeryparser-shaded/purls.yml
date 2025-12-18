@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.appserver.shade.org.jaggeryjs/org.jaggeryjs.hostobjects.jaggeryparser-shaded@0.13.0.wso2v1-m3
+- pkg:maven/org.wso2.appserver.shade.org.jaggeryjs/org.jaggeryjs.hostobjects.jaggeryparser-shaded@0.13.0.wso2v1-m3?classifier=sources

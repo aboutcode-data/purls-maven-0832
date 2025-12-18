@@ -1,6 +1,10 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.10.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.11.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.12.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.13.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.14.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.15.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.16.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.4.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.5.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot2-it@9.4.6.Final

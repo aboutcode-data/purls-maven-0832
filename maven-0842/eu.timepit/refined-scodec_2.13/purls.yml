@@ -1,0 +1,2 @@
+- pkg:maven/eu.timepit/refined-scodec_2.13@0.9.9
+- pkg:maven/eu.timepit/refined-scodec_2.13@0.9.9?classifier=sources

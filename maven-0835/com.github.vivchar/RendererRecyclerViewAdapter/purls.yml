@@ -40,3 +40,5 @@
 - pkg:maven/com.github.vivchar/RendererRecyclerViewAdapter@2.6.0?type=aar
 - pkg:maven/com.github.vivchar/RendererRecyclerViewAdapter@2.7.0?classifier=sources
 - pkg:maven/com.github.vivchar/RendererRecyclerViewAdapter@2.7.0?type=aar
+- pkg:maven/com.github.vivchar/RendererRecyclerViewAdapter@2.8.0?classifier=sources
+- pkg:maven/com.github.vivchar/RendererRecyclerViewAdapter@2.8.0?type=aar

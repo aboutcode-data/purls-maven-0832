@@ -1,0 +1,4 @@
+- pkg:maven/com.thoughtworks.dsl/default-8e9a3b_2.11@0.0.0%2B116-3d6d14ea
+- pkg:maven/com.thoughtworks.dsl/default-8e9a3b_2.11@0.0.0%2B116-3d6d14ea?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/default-8e9a3b_2.11@0.0.0%2B116-44210399
+- pkg:maven/com.thoughtworks.dsl/default-8e9a3b_2.11@0.0.0%2B116-44210399?classifier=sources

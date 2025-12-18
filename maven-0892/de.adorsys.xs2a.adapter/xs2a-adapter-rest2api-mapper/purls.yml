@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-rest2api-mapper@0.0.2
+- pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-rest2api-mapper@0.0.2?classifier=sources

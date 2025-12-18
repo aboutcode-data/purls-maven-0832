@@ -34,6 +34,10 @@
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.26?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.27
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.27?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.28
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.28?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.29
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.29?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.6
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.6?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-entity-plugin_2.12@0.3.7

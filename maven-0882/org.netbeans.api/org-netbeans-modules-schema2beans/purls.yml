@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-modules-schema2beans@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-schema2beans@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-schema2beans@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-schema2beans@RELEASE90?classifier=sources

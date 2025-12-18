@@ -1,0 +1,4 @@
+- pkg:maven/org.powerflows/dmn-engine@2.0.0
+- pkg:maven/org.powerflows/dmn-engine@2.0.0?classifier=sources
+- pkg:maven/org.powerflows/dmn-engine@2.1.0
+- pkg:maven/org.powerflows/dmn-engine@2.1.0?classifier=sources

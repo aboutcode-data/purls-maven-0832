@@ -46,3 +46,5 @@
 - pkg:maven/com.ardikars.jxpacket/jxpacket-common@1.2.0.Final?classifier=sources
 - pkg:maven/com.ardikars.jxpacket/jxpacket-common@1.2.1.RELEASE
 - pkg:maven/com.ardikars.jxpacket/jxpacket-common@1.2.1.RELEASE?classifier=sources
+- pkg:maven/com.ardikars.jxpacket/jxpacket-common@1.2.6.RELEASE
+- pkg:maven/com.ardikars.jxpacket/jxpacket-common@1.2.6.RELEASE?classifier=sources

@@ -56,3 +56,5 @@
 - pkg:maven/com.signalfx.public/signalfx-protoc@0.0.48?classifier=sources
 - pkg:maven/com.signalfx.public/signalfx-protoc@0.1.0
 - pkg:maven/com.signalfx.public/signalfx-protoc@0.1.0?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-protoc@0.2.0
+- pkg:maven/com.signalfx.public/signalfx-protoc@0.2.0?classifier=sources

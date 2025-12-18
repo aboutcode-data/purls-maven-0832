@@ -20,3 +20,11 @@
 - pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.23?classifier=sources
 - pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.24
 - pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.24?classifier=sources
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.27
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.27?classifier=sources
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.28
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.28?classifier=sources
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.29
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.29?classifier=sources
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.30
+- pkg:maven/com.cloudbees/groovy-cps-dgm-builder@1.30?classifier=sources

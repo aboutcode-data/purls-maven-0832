@@ -2,3 +2,5 @@
 - pkg:maven/tech.navicore/stsource_2.12@0.9.0?classifier=sources
 - pkg:maven/tech.navicore/stsource_2.12@1.0.0
 - pkg:maven/tech.navicore/stsource_2.12@1.0.0?classifier=sources
+- pkg:maven/tech.navicore/stsource_2.12@1.1.0
+- pkg:maven/tech.navicore/stsource_2.12@1.1.0?classifier=sources

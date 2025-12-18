@@ -1,0 +1,2 @@
+- pkg:maven/ru.ldralighieri.corbind/ccorbind-recyclerview@1.0.0-RC?classifier=sources
+- pkg:maven/ru.ldralighieri.corbind/ccorbind-recyclerview@1.0.0-RC?type=aar

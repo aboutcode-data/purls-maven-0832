@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/libcipm@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/libcipm@2.0.2
 - pkg:maven/org.webjars.npm/libcipm@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/libcipm@3.0.3
+- pkg:maven/org.webjars.npm/libcipm@3.0.3?classifier=sources

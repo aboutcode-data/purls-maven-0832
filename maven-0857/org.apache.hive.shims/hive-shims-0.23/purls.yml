@@ -38,6 +38,8 @@
 - pkg:maven/org.apache.hive.shims/hive-shims-0.23@2.3.3?classifier=sources
 - pkg:maven/org.apache.hive.shims/hive-shims-0.23@2.3.4
 - pkg:maven/org.apache.hive.shims/hive-shims-0.23@2.3.4?classifier=sources
+- pkg:maven/org.apache.hive.shims/hive-shims-0.23@2.3.5
+- pkg:maven/org.apache.hive.shims/hive-shims-0.23@2.3.5?classifier=sources
 - pkg:maven/org.apache.hive.shims/hive-shims-0.23@3.0.0
 - pkg:maven/org.apache.hive.shims/hive-shims-0.23@3.0.0?classifier=sources
 - pkg:maven/org.apache.hive.shims/hive-shims-0.23@3.1.0

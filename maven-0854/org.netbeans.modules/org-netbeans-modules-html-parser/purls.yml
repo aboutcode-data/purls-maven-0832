@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-parser@RELEASE90?classifier=sources

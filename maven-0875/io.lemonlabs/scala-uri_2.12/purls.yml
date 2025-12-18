@@ -45,6 +45,8 @@
 - pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.0
 - pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.0?classifier=sources
 - pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.1
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.10
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.10?classifier=sources
 - pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.1?classifier=sources
 - pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.2
 - pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.2?classifier=sources
@@ -54,3 +56,15 @@
 - pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.4?classifier=sources
 - pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.5
 - pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.5?classifier=sources
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.7
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.7?classifier=sources
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.8
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.8?classifier=sources
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.9
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.4.9?classifier=sources
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.5.0
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.5.0?classifier=sources
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.5.1
+- pkg:maven/io.lemonlabs/scala-uri_2.12@1.5.1?classifier=sources
+- pkg:maven/io.lemonlabs/scala-uri_2.12@2.0.0-M1
+- pkg:maven/io.lemonlabs/scala-uri_2.12@2.0.0-M1?classifier=sources

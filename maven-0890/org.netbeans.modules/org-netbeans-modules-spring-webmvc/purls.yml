@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE111?classifier=sources

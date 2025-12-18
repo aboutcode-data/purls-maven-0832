@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.eventhubs.v2015_08_01/azure-mgmt-eventhubs@1.0.0-beta
+- pkg:maven/com.microsoft.azure.eventhubs.v2015_08_01/azure-mgmt-eventhubs@1.0.0-beta?classifier=sources

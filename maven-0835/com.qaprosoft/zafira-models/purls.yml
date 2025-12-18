@@ -38,3 +38,11 @@
 - pkg:maven/com.qaprosoft/zafira-models@3.3.53?classifier=sources
 - pkg:maven/com.qaprosoft/zafira-models@3.4.54
 - pkg:maven/com.qaprosoft/zafira-models@3.4.54?classifier=sources
+- pkg:maven/com.qaprosoft/zafira-models@3.4.55
+- pkg:maven/com.qaprosoft/zafira-models@3.4.55?classifier=sources
+- pkg:maven/com.qaprosoft/zafira-models@4.0.56
+- pkg:maven/com.qaprosoft/zafira-models@4.0.56?classifier=sources
+- pkg:maven/com.qaprosoft/zafira-models@4.0.57
+- pkg:maven/com.qaprosoft/zafira-models@4.0.57?classifier=sources
+- pkg:maven/com.qaprosoft/zafira-models@4.0.58
+- pkg:maven/com.qaprosoft/zafira-models@4.0.58?classifier=sources

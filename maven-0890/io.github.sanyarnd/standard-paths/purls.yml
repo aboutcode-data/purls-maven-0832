@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sanyarnd/standard-paths@1.0.1
+- pkg:maven/io.github.sanyarnd/standard-paths@1.0.1?classifier=sources

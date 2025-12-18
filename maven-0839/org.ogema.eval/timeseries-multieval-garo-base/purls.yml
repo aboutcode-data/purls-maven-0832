@@ -2,3 +2,5 @@
 - pkg:maven/org.ogema.eval/timeseries-multieval-garo-base@2.2.0?classifier=sources
 - pkg:maven/org.ogema.eval/timeseries-multieval-garo-base@2.2.0_20190204
 - pkg:maven/org.ogema.eval/timeseries-multieval-garo-base@2.2.0_20190204?classifier=sources
+- pkg:maven/org.ogema.eval/timeseries-multieval-garo-base@2.2.1_20190621
+- pkg:maven/org.ogema.eval/timeseries-multieval-garo-base@2.2.1_20190621?classifier=sources

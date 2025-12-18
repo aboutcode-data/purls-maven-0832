@@ -1,3 +1,9 @@
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.100.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.100.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.101.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.101.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.102.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.102.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.59.0
 - pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.59.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.60.0
@@ -68,3 +74,11 @@
 - pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.93.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.94.0
 - pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.94.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.96.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.96.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.97.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.97.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.98.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.98.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.99.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-exporter@0.99.0?classifier=sources

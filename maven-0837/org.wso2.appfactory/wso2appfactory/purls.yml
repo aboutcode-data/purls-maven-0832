@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.appfactory/wso2appfactory@2.1.0?classifier=sources
+- pkg:maven/org.wso2.appfactory/wso2appfactory@2.1.0?type=zip

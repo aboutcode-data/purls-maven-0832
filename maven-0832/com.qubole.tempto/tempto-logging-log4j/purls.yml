@@ -1,0 +1,2 @@
+- pkg:maven/com.qubole.tempto/tempto-logging-log4j@1.49-hive3-qubole
+- pkg:maven/com.qubole.tempto/tempto-logging-log4j@1.49-hive3-qubole?classifier=sources

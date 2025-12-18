@@ -21,4 +21,6 @@
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.7.3?classifier=sources
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.7?classifier=sources
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8
+- pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.1
+- pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8.1?classifier=sources
 - pkg:maven/org.ff4j/ff4j-spring-boot-web-api@1.8?classifier=sources

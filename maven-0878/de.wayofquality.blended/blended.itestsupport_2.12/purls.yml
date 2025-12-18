@@ -1,0 +1,2 @@
+- pkg:maven/de.wayofquality.blended/blended.itestsupport_2.12@3.0-M19
+- pkg:maven/de.wayofquality.blended/blended.itestsupport_2.12@3.0-M19?classifier=sources

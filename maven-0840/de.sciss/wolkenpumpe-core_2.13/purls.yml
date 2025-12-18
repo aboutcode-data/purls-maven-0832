@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/wolkenpumpe-core_2.13@2.33.1
+- pkg:maven/de.sciss/wolkenpumpe-core_2.13@2.33.1?classifier=sources
+- pkg:maven/de.sciss/wolkenpumpe-core_2.13@2.34.0
+- pkg:maven/de.sciss/wolkenpumpe-core_2.13@2.34.0?classifier=sources

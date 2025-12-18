@@ -22,3 +22,5 @@
 - pkg:maven/org.oxerr.commons/commons-jax-rs-bean@2.2.3?classifier=sources
 - pkg:maven/org.oxerr.commons/commons-jax-rs-bean@2.3.0
 - pkg:maven/org.oxerr.commons/commons-jax-rs-bean@2.3.0?classifier=sources
+- pkg:maven/org.oxerr.commons/commons-jax-rs-bean@2.3.1
+- pkg:maven/org.oxerr.commons/commons-jax-rs-bean@2.3.1?classifier=sources

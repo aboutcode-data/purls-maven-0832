@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/zalando__oauth2-client-js@0.0.18
+- pkg:maven/org.webjars.npm/zalando__oauth2-client-js@0.0.18?classifier=sources

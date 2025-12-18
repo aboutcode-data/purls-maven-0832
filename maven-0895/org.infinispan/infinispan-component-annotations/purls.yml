@@ -1,0 +1,4 @@
+- pkg:maven/org.infinispan/infinispan-component-annotations@10.0.0.Beta4
+- pkg:maven/org.infinispan/infinispan-component-annotations@10.0.0.Beta4?classifier=sources
+- pkg:maven/org.infinispan/infinispan-component-annotations@10.0.0.Beta5
+- pkg:maven/org.infinispan/infinispan-component-annotations@10.0.0.Beta5?classifier=sources

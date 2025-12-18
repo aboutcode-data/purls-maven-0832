@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE111?classifier=sources

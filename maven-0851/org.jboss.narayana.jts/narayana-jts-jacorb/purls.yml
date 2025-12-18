@@ -146,3 +146,5 @@
 - pkg:maven/org.jboss.narayana.jts/narayana-jts-jacorb@5.9.4.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jts/narayana-jts-jacorb@5.9.5.Final
 - pkg:maven/org.jboss.narayana.jts/narayana-jts-jacorb@5.9.5.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.jts/narayana-jts-jacorb@5.9.6.Final
+- pkg:maven/org.jboss.narayana.jts/narayana-jts-jacorb@5.9.6.Final?classifier=sources

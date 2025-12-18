@@ -1,0 +1,2 @@
+- pkg:maven/com.github.javen205/IJPay-Core@2.1.2
+- pkg:maven/com.github.javen205/IJPay-Core@2.1.2?classifier=sources

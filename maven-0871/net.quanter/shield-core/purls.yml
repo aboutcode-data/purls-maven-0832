@@ -1,0 +1,2 @@
+- pkg:maven/net.quanter/shield-core@1.0.0.release
+- pkg:maven/net.quanter/shield-core@1.0.0.release?classifier=sources

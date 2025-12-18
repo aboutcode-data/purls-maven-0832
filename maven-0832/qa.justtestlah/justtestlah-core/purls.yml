@@ -1,0 +1,2 @@
+- pkg:maven/qa.justtestlah/justtestlah-core@1.7-RC1
+- pkg:maven/qa.justtestlah/justtestlah-core@1.7-RC1?classifier=sources

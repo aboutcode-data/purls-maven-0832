@@ -150,6 +150,10 @@
 - pkg:maven/io.sundr/sundr-codegen@0.17.2?classifier=sources
 - pkg:maven/io.sundr/sundr-codegen@0.18.0
 - pkg:maven/io.sundr/sundr-codegen@0.18.0?classifier=sources
+- pkg:maven/io.sundr/sundr-codegen@0.19.0
+- pkg:maven/io.sundr/sundr-codegen@0.19.0?classifier=sources
+- pkg:maven/io.sundr/sundr-codegen@0.19.1
+- pkg:maven/io.sundr/sundr-codegen@0.19.1?classifier=sources
 - pkg:maven/io.sundr/sundr-codegen@0.2.0
 - pkg:maven/io.sundr/sundr-codegen@0.2.0?classifier=sources
 - pkg:maven/io.sundr/sundr-codegen@0.2.1

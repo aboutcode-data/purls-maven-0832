@@ -20,3 +20,5 @@
 - pkg:maven/com.github.tddmonkey/tocker-core@0.0.20?classifier=sources
 - pkg:maven/com.github.tddmonkey/tocker-core@0.0.21
 - pkg:maven/com.github.tddmonkey/tocker-core@0.0.21?classifier=sources
+- pkg:maven/com.github.tddmonkey/tocker-core@0.0.22
+- pkg:maven/com.github.tddmonkey/tocker-core@0.0.22?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.0
+- pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.0?classifier=sources

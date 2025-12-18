@@ -1,0 +1,2 @@
+- pkg:maven/ru.fix/jfix-zookeeper@1.0.4
+- pkg:maven/ru.fix/jfix-zookeeper@1.0.4?classifier=sources

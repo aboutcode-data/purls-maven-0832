@@ -1,0 +1,2 @@
+- pkg:maven/tech.mlsql/mlsql-ps-service-2.4.3_2.11@1.3.2
+- pkg:maven/tech.mlsql/mlsql-ps-service-2.4.3_2.11@1.3.2?classifier=sources

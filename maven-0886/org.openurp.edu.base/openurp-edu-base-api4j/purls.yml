@@ -26,3 +26,5 @@
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-api4j@0.8.2?classifier=sources
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-api4j@0.9.3
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-api4j@0.9.3?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-api4j@0.9.4
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-api4j@0.9.4?classifier=sources

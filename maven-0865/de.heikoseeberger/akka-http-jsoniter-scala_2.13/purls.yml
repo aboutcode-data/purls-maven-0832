@@ -1,0 +1,2 @@
+- pkg:maven/de.heikoseeberger/akka-http-jsoniter-scala_2.13@1.27.0
+- pkg:maven/de.heikoseeberger/akka-http-jsoniter-scala_2.13@1.27.0?classifier=sources

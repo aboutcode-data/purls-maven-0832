@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.heruan/vaadin-text-field@2.0.0-beta4-label-suffix?classifier=sources
 - pkg:maven/org.webjars.bowergithub.heruan/vaadin-text-field@2.0.1-label-suffix
 - pkg:maven/org.webjars.bowergithub.heruan/vaadin-text-field@2.0.1-label-suffix?classifier=sources
+- pkg:maven/org.webjars.bowergithub.heruan/vaadin-text-field@2.4.2-axians1
+- pkg:maven/org.webjars.bowergithub.heruan/vaadin-text-field@2.4.2-axians1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/hertzy@0.1.2-browser
+- pkg:maven/org.webjars.npm/hertzy@0.1.2-browser?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.buession.security/buession-security-geetest@1.0.0
+- pkg:maven/com.buession.security/buession-security-geetest@1.0.0?classifier=sources

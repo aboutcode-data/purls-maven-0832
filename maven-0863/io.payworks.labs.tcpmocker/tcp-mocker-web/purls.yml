@@ -1,3 +1,5 @@
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-web@1.0.144.RELEASE
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-web@1.0.144.RELEASE?classifier=sources
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-web@1.0.71.RELEASE
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-web@1.0.71.RELEASE?classifier=sources
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-web@1.0.86.RELEASE

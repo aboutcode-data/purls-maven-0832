@@ -2,3 +2,9 @@
 - pkg:maven/com.vaadin/vaadin-grid-flow-demo@3.0.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-grid-flow-demo@3.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-grid-flow-demo@3.0.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-grid-flow-demo@3.0.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-grid-flow-demo@4.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-grid-flow-demo@4.0.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-grid-flow-demo@4.0.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-grid-flow-demo@4.0.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-grid-flow-demo@4.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ru.tinkoff/tofu-parallel_2.13@0.1.1
+- pkg:maven/ru.tinkoff/tofu-parallel_2.13@0.1.1?classifier=sources

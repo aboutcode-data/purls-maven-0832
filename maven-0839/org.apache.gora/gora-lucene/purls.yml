@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.gora/gora-lucene@0.9
+- pkg:maven/org.apache.gora/gora-lucene@0.9?classifier=sources
+- pkg:maven/org.apache.gora/gora-lucene@0.9?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora-lucene@0.9?classifier=src&type=zip

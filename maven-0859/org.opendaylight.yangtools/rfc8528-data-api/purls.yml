@@ -1,0 +1,4 @@
+- pkg:maven/org.opendaylight.yangtools/rfc8528-data-api@3.0.3
+- pkg:maven/org.opendaylight.yangtools/rfc8528-data-api@3.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc8528-data-api@3.0.4
+- pkg:maven/org.opendaylight.yangtools/rfc8528-data-api@3.0.4?classifier=sources

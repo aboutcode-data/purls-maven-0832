@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/lucre-bdb7_2.13@3.13.1
+- pkg:maven/de.sciss/lucre-bdb7_2.13@3.13.1?classifier=sources

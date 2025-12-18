@@ -66,3 +66,4 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-openshift@0.30.7.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-openshift@0.31.0.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-openshift@0.31.1.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-openshift@0.31.2.Final?type=war

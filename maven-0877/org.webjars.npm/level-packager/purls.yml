@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/level-packager@2.0.0-rc3
 - pkg:maven/org.webjars.npm/level-packager@2.0.0-rc3?classifier=sources
+- pkg:maven/org.webjars.npm/level-packager@2.1.1
+- pkg:maven/org.webjars.npm/level-packager@2.1.1?classifier=sources

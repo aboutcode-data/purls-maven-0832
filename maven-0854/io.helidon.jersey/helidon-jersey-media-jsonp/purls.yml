@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.jersey/helidon-jersey-media-jsonp@1.2.0
+- pkg:maven/io.helidon.jersey/helidon-jersey-media-jsonp@1.2.0?classifier=sources

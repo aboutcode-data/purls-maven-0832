@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mobile-drag-drop@2.3.0-rc.1
+- pkg:maven/org.webjars.npm/mobile-drag-drop@2.3.0-rc.1?classifier=sources

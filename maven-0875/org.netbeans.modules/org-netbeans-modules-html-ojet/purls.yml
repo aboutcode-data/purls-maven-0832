@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-ojet@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-ojet@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-ojet@RELEASE111?classifier=sources

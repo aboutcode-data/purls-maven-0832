@@ -12,3 +12,4 @@
 - pkg:maven/org.dynamoframework/dynamo-spring-archetype@1.6-CB3?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-spring-archetype@1.6.1-CB3?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-spring-archetype@1.6.2-CB3?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-spring-archetype@1.6.3-CB3?classifier=sources

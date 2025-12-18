@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra-launcher_2.13.0-RC2@0.62
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra-launcher_2.13.0-RC2@0.62?classifier=sources

@@ -84,6 +84,8 @@
 - pkg:maven/org.openl/org.openl.conf.ant@5.18.3?classifier=sources
 - pkg:maven/org.openl/org.openl.conf.ant@5.18.4
 - pkg:maven/org.openl/org.openl.conf.ant@5.18.4?classifier=sources
+- pkg:maven/org.openl/org.openl.conf.ant@5.18.5
+- pkg:maven/org.openl/org.openl.conf.ant@5.18.5?classifier=sources
 - pkg:maven/org.openl/org.openl.conf.ant@5.7.0
 - pkg:maven/org.openl/org.openl.conf.ant@5.7.0?classifier=sources
 - pkg:maven/org.openl/org.openl.conf.ant@5.7.1

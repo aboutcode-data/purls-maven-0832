@@ -88,4 +88,8 @@
 - pkg:maven/org.ujorm/ujo-orm@1.88
 - pkg:maven/org.ujorm/ujo-orm@1.88?classifier=sources
 - pkg:maven/org.ujorm/ujo-orm@1.90
+- pkg:maven/org.ujorm/ujo-orm@1.90.1
+- pkg:maven/org.ujorm/ujo-orm@1.90.1?classifier=sources
 - pkg:maven/org.ujorm/ujo-orm@1.90?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@1.91
+- pkg:maven/org.ujorm/ujo-orm@1.91?classifier=sources

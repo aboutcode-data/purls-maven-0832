@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dynodao/dynodao-api@0.1.Beta
+- pkg:maven/com.github.dynodao/dynodao-api@0.1.Beta?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/top.javatool/canal-example@1.1.0-RELEASE
+- pkg:maven/top.javatool/canal-example@1.1.0-RELEASE?classifier=sources
+- pkg:maven/top.javatool/canal-example@1.1.1-RELEASE
+- pkg:maven/top.javatool/canal-example@1.1.1-RELEASE?classifier=sources
+- pkg:maven/top.javatool/canal-example@1.2.0-RELEASE
+- pkg:maven/top.javatool/canal-example@1.2.0-RELEASE?classifier=sources
+- pkg:maven/top.javatool/canal-example@1.2.1-RELEASE
+- pkg:maven/top.javatool/canal-example@1.2.1-RELEASE?classifier=sources

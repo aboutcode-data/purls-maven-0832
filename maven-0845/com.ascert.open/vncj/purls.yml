@@ -1,0 +1,2 @@
+- pkg:maven/com.ascert.open/vncj@2.0.2
+- pkg:maven/com.ascert.open/vncj@2.0.2?classifier=sources

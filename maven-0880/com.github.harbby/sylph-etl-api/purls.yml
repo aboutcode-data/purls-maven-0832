@@ -1,0 +1,2 @@
+- pkg:maven/com.github.harbby/sylph-etl-api@0.6.0-alpha3
+- pkg:maven/com.github.harbby/sylph-etl-api@0.6.0-alpha3?classifier=sources

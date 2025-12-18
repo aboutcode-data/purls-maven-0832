@@ -10,6 +10,8 @@
 - pkg:maven/com.att.ajsc/ajsc-runner@3.0.1-oss?classifier=sources
 - pkg:maven/com.att.ajsc/ajsc-runner@3.0.10-oss
 - pkg:maven/com.att.ajsc/ajsc-runner@3.0.10-oss?classifier=sources
+- pkg:maven/com.att.ajsc/ajsc-runner@3.0.11-oss
+- pkg:maven/com.att.ajsc/ajsc-runner@3.0.11-oss?classifier=sources
 - pkg:maven/com.att.ajsc/ajsc-runner@3.0.2-oss
 - pkg:maven/com.att.ajsc/ajsc-runner@3.0.2-oss?classifier=sources
 - pkg:maven/com.att.ajsc/ajsc-runner@3.0.3-oss

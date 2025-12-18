@@ -1,0 +1,4 @@
+- pkg:maven/io.github.fmv1992/cli_2.12@1.7.6
+- pkg:maven/io.github.fmv1992/cli_2.12@1.7.6?classifier=sources
+- pkg:maven/io.github.fmv1992/cli_2.12@1.9.3
+- pkg:maven/io.github.fmv1992/cli_2.12@1.9.3?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/net.sf.m-m-m/mmm-util-core@7.6.1?classifier=sources
 - pkg:maven/net.sf.m-m-m/mmm-util-core@8.6.0
 - pkg:maven/net.sf.m-m-m/mmm-util-core@8.6.0?classifier=sources
+- pkg:maven/net.sf.m-m-m/mmm-util-core@8.7.0
+- pkg:maven/net.sf.m-m-m/mmm-util-core@8.7.0?classifier=sources

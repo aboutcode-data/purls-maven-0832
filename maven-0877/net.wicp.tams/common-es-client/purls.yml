@@ -2,3 +2,5 @@
 - pkg:maven/net.wicp.tams/common-es-client@3.5.10?classifier=sources
 - pkg:maven/net.wicp.tams/common-es-client@3.5.11
 - pkg:maven/net.wicp.tams/common-es-client@3.5.11?classifier=sources
+- pkg:maven/net.wicp.tams/common-es-client@3.6.0
+- pkg:maven/net.wicp.tams/common-es-client@3.6.0?classifier=sources

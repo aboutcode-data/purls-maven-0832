@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.0-M6
+- pkg:maven/com.typesafe.akka/akka-protobuf-v3_2.13@2.6.0-M6?classifier=sources

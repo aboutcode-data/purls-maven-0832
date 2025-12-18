@@ -1,0 +1,2 @@
+- pkg:maven/com.cosium.murmur/vysper@0.8?classifier=src&type=tar.gz
+- pkg:maven/com.cosium.murmur/vysper@0.8?classifier=src&type=zip

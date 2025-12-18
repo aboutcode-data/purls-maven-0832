@@ -1,0 +1,2 @@
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-plugin-annotation-v8@0.7.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-plugin-annotation-v8@0.7.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.data/micronaut-data-model@1.0.0.M1
+- pkg:maven/io.micronaut.data/micronaut-data-model@1.0.0.M1?classifier=sources

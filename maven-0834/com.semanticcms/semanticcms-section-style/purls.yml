@@ -14,3 +14,5 @@
 - pkg:maven/com.semanticcms/semanticcms-section-style@1.4.2?classifier=sources
 - pkg:maven/com.semanticcms/semanticcms-section-style@1.4.3
 - pkg:maven/com.semanticcms/semanticcms-section-style@1.4.3?classifier=sources
+- pkg:maven/com.semanticcms/semanticcms-section-style@1.5.0
+- pkg:maven/com.semanticcms/semanticcms-section-style@1.5.0?classifier=sources

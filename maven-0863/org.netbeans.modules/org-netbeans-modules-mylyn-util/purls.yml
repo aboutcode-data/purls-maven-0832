@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-mylyn-util@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-mylyn-util@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-mylyn-util@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-mylyn-util@RELEASE90?classifier=sources

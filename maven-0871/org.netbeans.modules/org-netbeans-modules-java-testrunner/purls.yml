@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE90?classifier=sources

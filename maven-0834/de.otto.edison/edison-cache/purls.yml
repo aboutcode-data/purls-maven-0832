@@ -125,6 +125,8 @@
 - pkg:maven/de.otto.edison/edison-cache@1.2.32?classifier=sources
 - pkg:maven/de.otto.edison/edison-cache@1.2.33
 - pkg:maven/de.otto.edison/edison-cache@1.2.33?classifier=sources
+- pkg:maven/de.otto.edison/edison-cache@1.2.34
+- pkg:maven/de.otto.edison/edison-cache@1.2.34?classifier=sources
 - pkg:maven/de.otto.edison/edison-cache@1.2.3?classifier=sources
 - pkg:maven/de.otto.edison/edison-cache@1.2.4
 - pkg:maven/de.otto.edison/edison-cache@1.2.4?classifier=sources

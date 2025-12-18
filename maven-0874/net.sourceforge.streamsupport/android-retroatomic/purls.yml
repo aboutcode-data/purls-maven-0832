@@ -10,3 +10,5 @@
 - pkg:maven/net.sourceforge.streamsupport/android-retroatomic@1.6.3?classifier=sources
 - pkg:maven/net.sourceforge.streamsupport/android-retroatomic@1.7.0
 - pkg:maven/net.sourceforge.streamsupport/android-retroatomic@1.7.0?classifier=sources
+- pkg:maven/net.sourceforge.streamsupport/android-retroatomic@1.7.1
+- pkg:maven/net.sourceforge.streamsupport/android-retroatomic@1.7.1?classifier=sources

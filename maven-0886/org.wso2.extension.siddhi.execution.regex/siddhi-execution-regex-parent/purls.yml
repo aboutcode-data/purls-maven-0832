@@ -13,3 +13,5 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.regex/siddhi-execution-regex-parent@4.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.regex/siddhi-execution-regex-parent@4.0.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.regex/siddhi-execution-regex-parent@4.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.regex/siddhi-execution-regex-parent@4.1.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.regex/siddhi-execution-regex-parent@5.0.1?classifier=source-release&type=zip

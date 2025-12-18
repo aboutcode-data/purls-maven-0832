@@ -28,3 +28,15 @@
 - pkg:maven/com.codacy/events-rabbitmq_2.11@3.0.0_circe_0.8.0?classifier=sources
 - pkg:maven/com.codacy/events-rabbitmq_2.11@3.0.0_circe_0.9.1
 - pkg:maven/com.codacy/events-rabbitmq_2.11@3.0.0_circe_0.9.1?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.0_circe_0.11.1
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.0_circe_0.11.1?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.0_circe_0.8.0
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.0_circe_0.8.0?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.0_circe_0.9.1
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.0_circe_0.9.1?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.1_circe_0.11.1
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.1_circe_0.11.1?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.1_circe_0.8.0
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.1_circe_0.8.0?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.1_circe_0.9.1
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.1_circe_0.9.1?classifier=sources

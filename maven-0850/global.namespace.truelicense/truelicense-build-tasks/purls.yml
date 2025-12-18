@@ -1,0 +1,4 @@
+- pkg:maven/global.namespace.truelicense/truelicense-build-tasks@4.0.0
+- pkg:maven/global.namespace.truelicense/truelicense-build-tasks@4.0.0-RC3
+- pkg:maven/global.namespace.truelicense/truelicense-build-tasks@4.0.0-RC3?classifier=sources
+- pkg:maven/global.namespace.truelicense/truelicense-build-tasks@4.0.0?classifier=sources

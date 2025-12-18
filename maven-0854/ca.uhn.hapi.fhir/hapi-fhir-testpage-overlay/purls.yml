@@ -25,3 +25,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@3.5.0?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@3.6.0?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@3.7.0?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@3.8.0?type=war

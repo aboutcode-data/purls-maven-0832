@@ -30,3 +30,7 @@
 - pkg:maven/com.geteventstore/eventstore-client_2.12@5.0.9?classifier=sources
 - pkg:maven/com.geteventstore/eventstore-client_2.12@6.0.0
 - pkg:maven/com.geteventstore/eventstore-client_2.12@6.0.0?classifier=sources
+- pkg:maven/com.geteventstore/eventstore-client_2.12@7.0.0
+- pkg:maven/com.geteventstore/eventstore-client_2.12@7.0.0?classifier=sources
+- pkg:maven/com.geteventstore/eventstore-client_2.12@7.0.1
+- pkg:maven/com.geteventstore/eventstore-client_2.12@7.0.1?classifier=sources

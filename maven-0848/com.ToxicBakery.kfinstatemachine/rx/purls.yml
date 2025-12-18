@@ -10,3 +10,4 @@
 - pkg:maven/com.ToxicBakery.kfinstatemachine/rx@2.3.159?classifier=sources
 - pkg:maven/com.ToxicBakery.kfinstatemachine/rx@2.4.163
 - pkg:maven/com.ToxicBakery.kfinstatemachine/rx@2.4.163?classifier=sources
+- pkg:maven/com.ToxicBakery.kfinstatemachine/rx@4.2.47?classifier=sources

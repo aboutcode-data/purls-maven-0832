@@ -1,0 +1,2 @@
+- pkg:maven/com.mayabot.mynlp.resource/mynlp-resource-coredict@1.0.0
+- pkg:maven/com.mayabot.mynlp.resource/mynlp-resource-coredict@1.0.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-api@0.67.0.12
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-api@0.67.0.12?classifier=sources
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-api@0.67.0.15
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-api@0.67.0.15?classifier=sources
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-api@0.67.0.16
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-api@0.67.0.16?classifier=sources
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-api@0.68.0.1
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-api@0.68.0.1?classifier=sources

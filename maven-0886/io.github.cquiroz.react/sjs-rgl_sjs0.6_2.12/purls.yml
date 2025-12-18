@@ -1,4 +1,8 @@
 - pkg:maven/io.github.cquiroz.react/sjs-rgl_sjs0.6_2.12@0.0.3%2B1-966095f0
 - pkg:maven/io.github.cquiroz.react/sjs-rgl_sjs0.6_2.12@0.0.3%2B1-966095f0?classifier=sources
 - pkg:maven/io.github.cquiroz.react/sjs-rgl_sjs0.6_2.12@0.0.4
+- pkg:maven/io.github.cquiroz.react/sjs-rgl_sjs0.6_2.12@0.0.4%2B1-3c836223
+- pkg:maven/io.github.cquiroz.react/sjs-rgl_sjs0.6_2.12@0.0.4%2B1-3c836223?classifier=sources
 - pkg:maven/io.github.cquiroz.react/sjs-rgl_sjs0.6_2.12@0.0.4?classifier=sources
+- pkg:maven/io.github.cquiroz.react/sjs-rgl_sjs0.6_2.12@0.0.6
+- pkg:maven/io.github.cquiroz.react/sjs-rgl_sjs0.6_2.12@0.0.6?classifier=sources

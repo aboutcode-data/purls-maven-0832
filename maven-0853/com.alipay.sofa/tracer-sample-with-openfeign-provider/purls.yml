@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.sofa/tracer-sample-with-openfeign-provider@3.0.5
+- pkg:maven/com.alipay.sofa/tracer-sample-with-openfeign-provider@3.0.5?classifier=sources

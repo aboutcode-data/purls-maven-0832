@@ -1,0 +1,6 @@
+- pkg:maven/de.sciss/soundprocesses-core_2.13@3.29.2
+- pkg:maven/de.sciss/soundprocesses-core_2.13@3.29.2?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-core_2.13@3.29.3
+- pkg:maven/de.sciss/soundprocesses-core_2.13@3.29.3?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-core_2.13@3.30.0
+- pkg:maven/de.sciss/soundprocesses-core_2.13@3.30.0?classifier=sources

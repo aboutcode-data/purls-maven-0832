@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.appfactory/webapp-archetype@2.1.0
+- pkg:maven/org.wso2.appfactory/webapp-archetype@2.1.0?classifier=sources

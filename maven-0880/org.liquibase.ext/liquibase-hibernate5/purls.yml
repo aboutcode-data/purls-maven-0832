@@ -1,2 +1,4 @@
 - pkg:maven/org.liquibase.ext/liquibase-hibernate5@3.6
 - pkg:maven/org.liquibase.ext/liquibase-hibernate5@3.6?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-hibernate5@3.7
+- pkg:maven/org.liquibase.ext/liquibase-hibernate5@3.7?classifier=sources

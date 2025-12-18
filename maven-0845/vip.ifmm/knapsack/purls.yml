@@ -1,0 +1,2 @@
+- pkg:maven/vip.ifmm/knapsack@1.0.0
+- pkg:maven/vip.ifmm/knapsack@1.0.0?classifier=sources

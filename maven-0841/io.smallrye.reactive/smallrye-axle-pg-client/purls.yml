@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.reactive/smallrye-axle-pg-client@0.0.8
+- pkg:maven/io.smallrye.reactive/smallrye-axle-pg-client@0.0.8?classifier=sources

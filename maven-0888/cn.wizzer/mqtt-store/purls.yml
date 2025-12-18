@@ -16,3 +16,7 @@
 - pkg:maven/cn.wizzer/mqtt-store@1.0.7-netty?classifier=sources
 - pkg:maven/cn.wizzer/mqtt-store@1.0.8-netty
 - pkg:maven/cn.wizzer/mqtt-store@1.0.8-netty?classifier=sources
+- pkg:maven/cn.wizzer/mqtt-store@1.1.0-netty
+- pkg:maven/cn.wizzer/mqtt-store@1.1.0-netty?classifier=sources
+- pkg:maven/cn.wizzer/mqtt-store@1.1.1-netty
+- pkg:maven/cn.wizzer/mqtt-store@1.1.1-netty?classifier=sources

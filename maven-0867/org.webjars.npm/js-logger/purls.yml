@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/js-logger@1.4.1
+- pkg:maven/org.webjars.npm/js-logger@1.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/js-logger@1.7.0-next.e8a6f6c
 - pkg:maven/org.webjars.npm/js-logger@1.7.0-next.e8a6f6c?classifier=sources

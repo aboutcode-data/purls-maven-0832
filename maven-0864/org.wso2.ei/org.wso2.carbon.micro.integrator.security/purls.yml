@@ -1,3 +1,9 @@
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.security@1.0.0
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.security@1.0.0-m6
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.security@1.0.0-m6?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.security@1.0.0-m7
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.security@1.0.0-m7?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.security@1.0.0?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.security@6.4.0
 - pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.security@6.4.0-m5
 - pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.security@6.4.0-m5?classifier=sources

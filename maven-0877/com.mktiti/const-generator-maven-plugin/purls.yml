@@ -1,0 +1,2 @@
+- pkg:maven/com.mktiti/const-generator-maven-plugin@1.1
+- pkg:maven/com.mktiti/const-generator-maven-plugin@1.1?classifier=sources

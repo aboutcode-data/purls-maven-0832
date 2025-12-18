@@ -14,3 +14,5 @@
 - pkg:maven/io.github.malteseduck.springframework.data/spring-data-marklogic@2.0.6.RELEASE?classifier=sources
 - pkg:maven/io.github.malteseduck.springframework.data/spring-data-marklogic@2.1.0.RELEASE
 - pkg:maven/io.github.malteseduck.springframework.data/spring-data-marklogic@2.1.0.RELEASE?classifier=sources
+- pkg:maven/io.github.malteseduck.springframework.data/spring-data-marklogic@2.1.1.RELEASE
+- pkg:maven/io.github.malteseduck.springframework.data/spring-data-marklogic@2.1.1.RELEASE?classifier=sources

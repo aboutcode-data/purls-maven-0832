@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lizhuogui.android/coverflow@2.0.0?classifier=sources
+- pkg:maven/com.github.lizhuogui.android/coverflow@2.0.0?type=aar

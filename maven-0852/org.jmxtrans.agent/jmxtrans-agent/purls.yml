@@ -40,3 +40,5 @@
 - pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.8-beta-1
 - pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.8-beta-1?classifier=sources
 - pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.8?classifier=sources
+- pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.9
+- pkg:maven/org.jmxtrans.agent/jmxtrans-agent@1.2.9?classifier=sources

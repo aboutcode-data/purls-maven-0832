@@ -1,0 +1,2 @@
+- pkg:maven/com.mantledillusion.vaadin/vaadin-metrics-api@1.0.0.ALPHA1
+- pkg:maven/com.mantledillusion.vaadin/vaadin-metrics-api@1.0.0.ALPHA1?classifier=sources

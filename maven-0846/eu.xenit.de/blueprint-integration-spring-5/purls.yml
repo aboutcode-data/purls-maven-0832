@@ -1,0 +1,4 @@
+- pkg:maven/eu.xenit.de/blueprint-integration-spring-5@2.0.0
+- pkg:maven/eu.xenit.de/blueprint-integration-spring-5@2.0.0?classifier=sources
+- pkg:maven/eu.xenit.de/blueprint-integration-spring-5@2.0.1
+- pkg:maven/eu.xenit.de/blueprint-integration-spring-5@2.0.1?classifier=sources

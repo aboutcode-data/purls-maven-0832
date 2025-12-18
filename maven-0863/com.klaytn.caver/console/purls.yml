@@ -1,0 +1,10 @@
+- pkg:maven/com.klaytn.caver/console@0.9.5
+- pkg:maven/com.klaytn.caver/console@0.9.5?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.0.0
+- pkg:maven/com.klaytn.caver/console@1.0.0-android
+- pkg:maven/com.klaytn.caver/console@1.0.0-android?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.0.0?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.0.1-android?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.0.1?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.0.2-android?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.0.2?classifier=sources

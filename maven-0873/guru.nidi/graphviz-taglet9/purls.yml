@@ -1,0 +1,4 @@
+- pkg:maven/guru.nidi/graphviz-taglet9@0.10.0
+- pkg:maven/guru.nidi/graphviz-taglet9@0.10.0?classifier=sources
+- pkg:maven/guru.nidi/graphviz-taglet9@0.8.6
+- pkg:maven/guru.nidi/graphviz-taglet9@0.8.6?classifier=sources

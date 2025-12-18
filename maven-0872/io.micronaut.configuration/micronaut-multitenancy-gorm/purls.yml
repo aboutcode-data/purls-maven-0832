@@ -14,3 +14,5 @@
 - pkg:maven/io.micronaut.configuration/micronaut-multitenancy-gorm@1.1.0.RC2
 - pkg:maven/io.micronaut.configuration/micronaut-multitenancy-gorm@1.1.0.RC2?classifier=sources
 - pkg:maven/io.micronaut.configuration/micronaut-multitenancy-gorm@1.1.0?classifier=sources
+- pkg:maven/io.micronaut.configuration/micronaut-multitenancy-gorm@1.1.1
+- pkg:maven/io.micronaut.configuration/micronaut-multitenancy-gorm@1.1.1?classifier=sources

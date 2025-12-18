@@ -1,0 +1,4 @@
+- pkg:maven/date.iterator.count/Iterator@1.1.0
+- pkg:maven/date.iterator.count/Iterator@1.1.0?classifier=sources
+- pkg:maven/date.iterator.count/Iterator@1.1.1
+- pkg:maven/date.iterator.count/Iterator@1.1.1?classifier=sources

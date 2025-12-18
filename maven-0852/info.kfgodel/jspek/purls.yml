@@ -1,0 +1,2 @@
+- pkg:maven/info.kfgodel/jspek@1.0.0
+- pkg:maven/info.kfgodel/jspek@1.0.0?classifier=sources

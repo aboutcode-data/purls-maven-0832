@@ -14,3 +14,5 @@
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.19.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.20.0
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.20.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.21.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.21.0?classifier=sources

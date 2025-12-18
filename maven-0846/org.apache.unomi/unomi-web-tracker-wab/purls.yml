@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.unomi/unomi-web-tracker-wab@1.4.0
+- pkg:maven/org.apache.unomi/unomi-web-tracker-wab@1.4.0?classifier=sources

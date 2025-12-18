@@ -8,3 +8,8 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.24
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.25
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.26
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.27
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.28
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.29
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.30
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.31

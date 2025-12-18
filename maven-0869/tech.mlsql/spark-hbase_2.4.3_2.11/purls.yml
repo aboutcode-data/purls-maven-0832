@@ -1,0 +1,2 @@
+- pkg:maven/tech.mlsql/spark-hbase_2.4.3_2.11@0.1.0
+- pkg:maven/tech.mlsql/spark-hbase_2.4.3_2.11@0.1.0?classifier=sources

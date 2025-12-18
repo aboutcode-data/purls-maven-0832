@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.brs/GreetingService_Service@2.2.0-beta2?classifier=sources
+- pkg:maven/org.wso2.brs/GreetingService_Service@2.2.0-beta2?type=aar
+- pkg:maven/org.wso2.brs/GreetingService_Service@2.2.0?classifier=sources
+- pkg:maven/org.wso2.brs/GreetingService_Service@2.2.0?type=aar

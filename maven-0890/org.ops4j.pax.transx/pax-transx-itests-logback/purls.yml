@@ -6,3 +6,5 @@
 - pkg:maven/org.ops4j.pax.transx/pax-transx-itests-logback@0.4.2?classifier=sources
 - pkg:maven/org.ops4j.pax.transx/pax-transx-itests-logback@0.4.3
 - pkg:maven/org.ops4j.pax.transx/pax-transx-itests-logback@0.4.3?classifier=sources
+- pkg:maven/org.ops4j.pax.transx/pax-transx-itests-logback@0.4.4
+- pkg:maven/org.ops4j.pax.transx/pax-transx-itests-logback@0.4.4?classifier=sources

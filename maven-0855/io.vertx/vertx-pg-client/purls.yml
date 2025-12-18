@@ -1,0 +1,4 @@
+- pkg:maven/io.vertx/vertx-pg-client@3.8.0
+- pkg:maven/io.vertx/vertx-pg-client@3.8.0?classifier=sources
+- pkg:maven/io.vertx/vertx-pg-client@4.0.0-milestone1
+- pkg:maven/io.vertx/vertx-pg-client@4.0.0-milestone1?classifier=sources

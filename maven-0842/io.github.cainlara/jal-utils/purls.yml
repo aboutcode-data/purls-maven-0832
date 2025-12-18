@@ -1,0 +1,6 @@
+- pkg:maven/io.github.cainlara/jal-utils@1.0.0
+- pkg:maven/io.github.cainlara/jal-utils@1.0.0?classifier=sources
+- pkg:maven/io.github.cainlara/jal-utils@1.0.0b
+- pkg:maven/io.github.cainlara/jal-utils@1.0.0b?classifier=sources
+- pkg:maven/io.github.cainlara/jal-utils@1.0.1
+- pkg:maven/io.github.cainlara/jal-utils@1.0.1?classifier=sources

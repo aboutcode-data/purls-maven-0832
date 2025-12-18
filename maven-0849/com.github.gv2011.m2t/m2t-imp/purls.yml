@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gv2011.m2t/m2t-imp@0.5.0
+- pkg:maven/com.github.gv2011.m2t/m2t-imp@0.5.0?classifier=sources

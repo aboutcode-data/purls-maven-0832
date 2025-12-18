@@ -1,8 +1,14 @@
 - pkg:maven/com.neotys.neoload/global-tests@2.0.1
+- pkg:maven/com.neotys.neoload/global-tests@2.0.10
+- pkg:maven/com.neotys.neoload/global-tests@2.0.11
+- pkg:maven/com.neotys.neoload/global-tests@2.0.12
 - pkg:maven/com.neotys.neoload/global-tests@2.0.2
 - pkg:maven/com.neotys.neoload/global-tests@2.0.3
 - pkg:maven/com.neotys.neoload/global-tests@2.0.5
 - pkg:maven/com.neotys.neoload/global-tests@2.0.6
+- pkg:maven/com.neotys.neoload/global-tests@2.0.7
+- pkg:maven/com.neotys.neoload/global-tests@2.0.8
+- pkg:maven/com.neotys.neoload/global-tests@2.0.9
 - pkg:maven/com.neotys.neoload/global-tests@3.0.0
 - pkg:maven/com.neotys.neoload/global-tests@3.1.1
 - pkg:maven/com.neotys.neoload/global-tests@3.1.2
@@ -10,3 +16,5 @@
 - pkg:maven/com.neotys.neoload/global-tests@3.1.4
 - pkg:maven/com.neotys.neoload/global-tests@3.1.6
 - pkg:maven/com.neotys.neoload/global-tests@3.1.7
+- pkg:maven/com.neotys.neoload/global-tests@3.1.8
+- pkg:maven/com.neotys.neoload/global-tests@3.2.0

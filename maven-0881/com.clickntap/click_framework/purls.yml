@@ -46,6 +46,10 @@
 - pkg:maven/com.clickntap/click_framework@1.35?classifier=sources
 - pkg:maven/com.clickntap/click_framework@1.51
 - pkg:maven/com.clickntap/click_framework@1.51?classifier=sources
+- pkg:maven/com.clickntap/click_framework@1.52
+- pkg:maven/com.clickntap/click_framework@1.52?classifier=sources
+- pkg:maven/com.clickntap/click_framework@1.54
+- pkg:maven/com.clickntap/click_framework@1.54?classifier=sources
 - pkg:maven/com.clickntap/click_framework@1.6
 - pkg:maven/com.clickntap/click_framework@1.6?classifier=sources
 - pkg:maven/com.clickntap/click_framework@1.7

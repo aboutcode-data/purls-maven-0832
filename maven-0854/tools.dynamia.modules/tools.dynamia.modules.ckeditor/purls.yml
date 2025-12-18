@@ -1,0 +1,2 @@
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.ckeditor@4.11.1.0
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.ckeditor@4.11.1.0?classifier=sources

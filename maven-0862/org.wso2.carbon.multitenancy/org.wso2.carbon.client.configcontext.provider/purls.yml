@@ -12,6 +12,8 @@
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.17
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.25
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.25?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.6
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.client.configcontext.provider@4.6.7

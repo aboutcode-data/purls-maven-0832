@@ -1,0 +1,2 @@
+- pkg:maven/com.jd.laf.web/laf-vertx-web@1.0.18
+- pkg:maven/com.jd.laf.web/laf-vertx-web@1.0.18?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.avsystem.commons/commons-benchmark_sjs0.6_2.12@2.0.0-M1
+- pkg:maven/com.avsystem.commons/commons-benchmark_sjs0.6_2.12@2.0.0-M1?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-benchmark_sjs0.6_2.12@2.0.0-M2
+- pkg:maven/com.avsystem.commons/commons-benchmark_sjs0.6_2.12@2.0.0-M2?classifier=sources

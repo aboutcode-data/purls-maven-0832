@@ -1,0 +1,16 @@
+- pkg:maven/io.lenses/lenses-alerts-plugin@1.0.0
+- pkg:maven/io.lenses/lenses-alerts-plugin@1.0.0?classifier=sources
+- pkg:maven/io.lenses/lenses-alerts-plugin@2.0.0
+- pkg:maven/io.lenses/lenses-alerts-plugin@2.0.0?classifier=sources
+- pkg:maven/io.lenses/lenses-alerts-plugin@2.0.1
+- pkg:maven/io.lenses/lenses-alerts-plugin@2.0.1?classifier=sources
+- pkg:maven/io.lenses/lenses-alerts-plugin@3.0.0
+- pkg:maven/io.lenses/lenses-alerts-plugin@3.0.0?classifier=sources
+- pkg:maven/io.lenses/lenses-alerts-plugin@4.0.0
+- pkg:maven/io.lenses/lenses-alerts-plugin@4.0.0?classifier=sources
+- pkg:maven/io.lenses/lenses-alerts-plugin@4.0.1
+- pkg:maven/io.lenses/lenses-alerts-plugin@4.0.1?classifier=sources
+- pkg:maven/io.lenses/lenses-alerts-plugin@4.0.2
+- pkg:maven/io.lenses/lenses-alerts-plugin@4.0.2?classifier=sources
+- pkg:maven/io.lenses/lenses-alerts-plugin@5.0.0
+- pkg:maven/io.lenses/lenses-alerts-plugin@5.0.0?classifier=sources

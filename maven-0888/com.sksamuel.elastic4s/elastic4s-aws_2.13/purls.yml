@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-aws_2.13@6.7.2
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-aws_2.13@6.7.2?classifier=sources

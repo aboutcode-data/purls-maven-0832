@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.xs2a.adapter/fiducia-adapter@0.0.2
+- pkg:maven/de.adorsys.xs2a.adapter/fiducia-adapter@0.0.2?classifier=sources

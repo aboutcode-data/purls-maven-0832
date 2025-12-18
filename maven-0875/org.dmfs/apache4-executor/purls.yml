@@ -14,5 +14,7 @@
 - pkg:maven/org.dmfs/apache4-executor@0.16?classifier=sources
 - pkg:maven/org.dmfs/apache4-executor@0.17
 - pkg:maven/org.dmfs/apache4-executor@0.17?classifier=sources
+- pkg:maven/org.dmfs/apache4-executor@0.18
+- pkg:maven/org.dmfs/apache4-executor@0.18?classifier=sources
 - pkg:maven/org.dmfs/apache4-executor@1.16.2
 - pkg:maven/org.dmfs/apache4-executor@1.16.2?classifier=sources

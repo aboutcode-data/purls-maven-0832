@@ -1,0 +1,8 @@
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-108R1@6.10.0
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-108R1@6.10.0?classifier=sources
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-108R1@6.7.0
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-108R1@6.7.0?classifier=sources
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-108R1@6.8.0
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-108R1@6.8.0?classifier=sources
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-108R1@6.9.0
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-108R1@6.9.0?classifier=sources

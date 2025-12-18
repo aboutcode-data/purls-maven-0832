@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.appfactory/org.wso2.carbon.appfactory.jenkinsext@2.1.0
+- pkg:maven/org.wso2.appfactory/org.wso2.carbon.appfactory.jenkinsext@2.1.0?classifier=sources

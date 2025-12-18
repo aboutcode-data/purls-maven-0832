@@ -1,0 +1,2 @@
+- pkg:maven/com.perihelios.aws/cloudwatch-lambda-event-dispatcher@1.0.0
+- pkg:maven/com.perihelios.aws/cloudwatch-lambda-event-dispatcher@1.0.0?classifier=sources

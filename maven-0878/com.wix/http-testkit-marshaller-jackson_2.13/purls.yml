@@ -1,0 +1,2 @@
+- pkg:maven/com.wix/http-testkit-marshaller-jackson_2.13@0.1.22
+- pkg:maven/com.wix/http-testkit-marshaller-jackson_2.13@0.1.22?classifier=sources

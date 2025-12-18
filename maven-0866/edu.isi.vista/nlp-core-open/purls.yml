@@ -4,3 +4,11 @@
 - pkg:maven/edu.isi.vista/nlp-core-open@8.0.0?classifier=sources
 - pkg:maven/edu.isi.vista/nlp-core-open@8.1.0
 - pkg:maven/edu.isi.vista/nlp-core-open@8.1.0?classifier=sources
+- pkg:maven/edu.isi.vista/nlp-core-open@8.2.0
+- pkg:maven/edu.isi.vista/nlp-core-open@8.2.0?classifier=sources
+- pkg:maven/edu.isi.vista/nlp-core-open@8.2.1
+- pkg:maven/edu.isi.vista/nlp-core-open@8.2.1?classifier=sources
+- pkg:maven/edu.isi.vista/nlp-core-open@8.2.2
+- pkg:maven/edu.isi.vista/nlp-core-open@8.2.2?classifier=sources
+- pkg:maven/edu.isi.vista/nlp-core-open@8.3.0
+- pkg:maven/edu.isi.vista/nlp-core-open@8.3.0?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/ru.tinkoff.core/core-nfc@3.1.7?type=aar
 - pkg:maven/ru.tinkoff.core/core-nfc@3.2.13?classifier=sources
 - pkg:maven/ru.tinkoff.core/core-nfc@3.2.13?type=aar
+- pkg:maven/ru.tinkoff.core/core-nfc@3.2.18?classifier=sources
+- pkg:maven/ru.tinkoff.core/core-nfc@3.2.18?type=aar

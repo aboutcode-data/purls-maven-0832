@@ -2,3 +2,5 @@
 - pkg:maven/com.jakewharton.rxbinding3/rxbinding-appcompat@3.0.0-alpha1?type=aar
 - pkg:maven/com.jakewharton.rxbinding3/rxbinding-appcompat@3.0.0-alpha2?classifier=sources
 - pkg:maven/com.jakewharton.rxbinding3/rxbinding-appcompat@3.0.0-alpha2?type=aar
+- pkg:maven/com.jakewharton.rxbinding3/rxbinding-appcompat@3.0.0?classifier=sources
+- pkg:maven/com.jakewharton.rxbinding3/rxbinding-appcompat@3.0.0?type=aar

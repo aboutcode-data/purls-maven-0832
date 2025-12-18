@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jss-plugin-nested@10.0.0-alpha.17
+- pkg:maven/org.webjars.npm/jss-plugin-nested@10.0.0-alpha.17?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.0.1
+- pkg:maven/org.wso2.carbon.extension.identity.provisioning.outbound.duo/org.wso2.carbon.extension.identity.provisioning.duo.connector@1.0.1?classifier=sources

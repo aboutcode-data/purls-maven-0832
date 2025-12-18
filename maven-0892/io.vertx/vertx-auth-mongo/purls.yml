@@ -58,3 +58,9 @@
 - pkg:maven/io.vertx/vertx-auth-mongo@3.6.3?classifier=sources
 - pkg:maven/io.vertx/vertx-auth-mongo@3.7.0
 - pkg:maven/io.vertx/vertx-auth-mongo@3.7.0?classifier=sources
+- pkg:maven/io.vertx/vertx-auth-mongo@3.7.1
+- pkg:maven/io.vertx/vertx-auth-mongo@3.7.1?classifier=sources
+- pkg:maven/io.vertx/vertx-auth-mongo@3.8.0
+- pkg:maven/io.vertx/vertx-auth-mongo@3.8.0?classifier=sources
+- pkg:maven/io.vertx/vertx-auth-mongo@4.0.0-milestone1
+- pkg:maven/io.vertx/vertx-auth-mongo@4.0.0-milestone1?classifier=sources

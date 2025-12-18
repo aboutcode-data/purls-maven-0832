@@ -6,3 +6,5 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@0.7?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@3.0
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@3.0?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@3.1
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@3.1?classifier=sources

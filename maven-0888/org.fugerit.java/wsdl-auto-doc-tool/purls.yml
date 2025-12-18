@@ -1,0 +1,2 @@
+- pkg:maven/org.fugerit.java/wsdl-auto-doc-tool@0.1.0
+- pkg:maven/org.fugerit.java/wsdl-auto-doc-tool@0.1.0?classifier=sources

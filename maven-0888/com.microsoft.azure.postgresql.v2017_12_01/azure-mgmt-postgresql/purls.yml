@@ -5,4 +5,6 @@
 - pkg:maven/com.microsoft.azure.postgresql.v2017_12_01/azure-mgmt-postgresql@1.0.0-beta-3?classifier=sources
 - pkg:maven/com.microsoft.azure.postgresql.v2017_12_01/azure-mgmt-postgresql@1.0.0-beta-4
 - pkg:maven/com.microsoft.azure.postgresql.v2017_12_01/azure-mgmt-postgresql@1.0.0-beta-4?classifier=sources
+- pkg:maven/com.microsoft.azure.postgresql.v2017_12_01/azure-mgmt-postgresql@1.0.0-beta-5
+- pkg:maven/com.microsoft.azure.postgresql.v2017_12_01/azure-mgmt-postgresql@1.0.0-beta-5?classifier=sources
 - pkg:maven/com.microsoft.azure.postgresql.v2017_12_01/azure-mgmt-postgresql@1.0.0-beta?classifier=sources

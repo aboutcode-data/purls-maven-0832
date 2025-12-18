@@ -1,2 +1,4 @@
+- pkg:maven/org.zalando/problem-violations@0.24.0
 - pkg:maven/org.zalando/problem-violations@0.24.0-RC.0
 - pkg:maven/org.zalando/problem-violations@0.24.0-RC.0?classifier=sources
+- pkg:maven/org.zalando/problem-violations@0.24.0?classifier=sources

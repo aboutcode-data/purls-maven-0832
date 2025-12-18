@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.13.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.13.3
 - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.13.3?classifier=sources
+- pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.14.2
+- pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.14.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.morethanheroic/java-task-force-sample-warcparser@1.0.0
+- pkg:maven/com.morethanheroic/java-task-force-sample-warcparser@1.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.att.eelf/eelf-maven-plugin@1.0.0?classifier=sources
 - pkg:maven/com.att.eelf/eelf-maven-plugin@1.0.1-oss
 - pkg:maven/com.att.eelf/eelf-maven-plugin@1.0.1-oss?classifier=sources
+- pkg:maven/com.att.eelf/eelf-maven-plugin@2.0.0-oss
+- pkg:maven/com.att.eelf/eelf-maven-plugin@2.0.0-oss?classifier=sources

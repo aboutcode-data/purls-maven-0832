@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vonnagy/service-container_2.13@2.1.0
+- pkg:maven/com.github.vonnagy/service-container_2.13@2.1.0?classifier=sources

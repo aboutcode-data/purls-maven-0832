@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-js/scalajs-javalib-ex_2.13.0-RC3@0.6.28
+- pkg:maven/org.scala-js/scalajs-javalib-ex_2.13.0-RC3@0.6.28?classifier=sources

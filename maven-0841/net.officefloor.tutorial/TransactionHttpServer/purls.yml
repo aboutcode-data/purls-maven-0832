@@ -34,6 +34,18 @@
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@2.8.0?type=war
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@2.9.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@2.9.0?type=war
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.10.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.10.0?type=war
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.10.1?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.10.1?type=war
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.10.2?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.10.2?type=war
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.10.3?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.10.3?type=war
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.11.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.11.0?type=war
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.12.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.12.0?type=war
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.3.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.3.0?type=war
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.4.0?classifier=sources
@@ -56,3 +68,5 @@
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.9.0?type=war
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.9.1?classifier=sources
 - pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.9.1?type=war
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.9.2?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TransactionHttpServer@3.9.2?type=war

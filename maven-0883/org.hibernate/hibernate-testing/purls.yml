@@ -349,6 +349,8 @@
 - pkg:maven/org.hibernate/hibernate-testing@5.3.1.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-testing@5.3.10.Final
 - pkg:maven/org.hibernate/hibernate-testing@5.3.10.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-testing@5.3.11.Final
+- pkg:maven/org.hibernate/hibernate-testing@5.3.11.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-testing@5.3.2.Final
 - pkg:maven/org.hibernate/hibernate-testing@5.3.2.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-testing@5.3.3.Final
@@ -375,3 +377,7 @@
 - pkg:maven/org.hibernate/hibernate-testing@5.4.1.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-testing@5.4.2.Final
 - pkg:maven/org.hibernate/hibernate-testing@5.4.2.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-testing@5.4.3.Final
+- pkg:maven/org.hibernate/hibernate-testing@5.4.3.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-testing@5.4.4.Final
+- pkg:maven/org.hibernate/hibernate-testing@5.4.4.Final?classifier=sources

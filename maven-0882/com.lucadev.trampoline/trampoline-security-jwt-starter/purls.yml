@@ -1,2 +1,3 @@
 - pkg:maven/com.lucadev.trampoline/trampoline-security-jwt-starter@20190308
 - pkg:maven/com.lucadev.trampoline/trampoline-security-jwt-starter@20190329
+- pkg:maven/com.lucadev.trampoline/trampoline-security-jwt-starter@20190507

@@ -1,0 +1,2 @@
+- pkg:maven/com.evimetry.aff4/aff4-reader-lite@1.0.3
+- pkg:maven/com.evimetry.aff4/aff4-reader-lite@1.0.3?classifier=sources

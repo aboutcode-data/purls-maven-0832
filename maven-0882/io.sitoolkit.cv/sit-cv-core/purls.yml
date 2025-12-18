@@ -8,3 +8,5 @@
 - pkg:maven/io.sitoolkit.cv/sit-cv-core@1.0.0-beta.2?classifier=sources
 - pkg:maven/io.sitoolkit.cv/sit-cv-core@1.0.0-beta.3
 - pkg:maven/io.sitoolkit.cv/sit-cv-core@1.0.0-beta.3?classifier=sources
+- pkg:maven/io.sitoolkit.cv/sit-cv-core@1.0.0-beta.4
+- pkg:maven/io.sitoolkit.cv/sit-cv-core@1.0.0-beta.4?classifier=sources

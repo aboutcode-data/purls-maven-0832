@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jquery-contextmenu@2.8.0
+- pkg:maven/org.webjars.npm/jquery-contextmenu@2.8.0?classifier=sources

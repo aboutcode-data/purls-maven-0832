@@ -1,0 +1,2 @@
+- pkg:maven/io.github.raven-source/raven-commons-data-spring-convert@1.0.2
+- pkg:maven/io.github.raven-source/raven-commons-data-spring-convert@1.0.2?classifier=sources

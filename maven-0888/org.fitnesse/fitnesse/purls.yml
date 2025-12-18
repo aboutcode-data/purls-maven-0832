@@ -80,3 +80,15 @@
 - pkg:maven/org.fitnesse/fitnesse@20190417?classifier=sources
 - pkg:maven/org.fitnesse/fitnesse@20190418
 - pkg:maven/org.fitnesse/fitnesse@20190418?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20190421
+- pkg:maven/org.fitnesse/fitnesse@20190421?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20190428
+- pkg:maven/org.fitnesse/fitnesse@20190428?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20190508
+- pkg:maven/org.fitnesse/fitnesse@20190508?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20190620
+- pkg:maven/org.fitnesse/fitnesse@20190620?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20190628
+- pkg:maven/org.fitnesse/fitnesse@20190628?classifier=sources
+- pkg:maven/org.fitnesse/fitnesse@20190716
+- pkg:maven/org.fitnesse/fitnesse@20190716?classifier=sources

@@ -195,6 +195,8 @@
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.0
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.0?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.1
+- pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.10
+- pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.10?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.1?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.2
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.2?classifier=sources
@@ -210,7 +212,13 @@
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.7?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.8
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.8?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.9
+- pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.2.9?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.3.0
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.3.0?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.3.1
 - pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.3.1?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.3.2
+- pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.3.2?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.3.3
+- pkg:maven/org.apache.cxf/cxf-wadl2java-plugin@3.3.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.callibrity.logging/log-tracker@1.0.1
+- pkg:maven/com.callibrity.logging/log-tracker@1.0.1?classifier=sources

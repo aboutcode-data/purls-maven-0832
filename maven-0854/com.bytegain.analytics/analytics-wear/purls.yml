@@ -1,2 +1,4 @@
 - pkg:maven/com.bytegain.analytics/analytics-wear@5.0.0?classifier=sources
 - pkg:maven/com.bytegain.analytics/analytics-wear@5.0.0?type=aar
+- pkg:maven/com.bytegain.analytics/analytics-wear@5.1.0?classifier=sources
+- pkg:maven/com.bytegain.analytics/analytics-wear@5.1.0?type=aar

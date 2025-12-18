@@ -8,3 +8,5 @@
 - pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@1.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@1.0.2.Final
 - pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@1.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@1.0.3.Final
+- pkg:maven/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.1_spec@1.0.3.Final?classifier=sources

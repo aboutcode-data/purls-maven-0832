@@ -90,3 +90,5 @@
 - pkg:maven/com.github.gekoh.yagen/yagen-api@2.5.1?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-api@2.5.3
 - pkg:maven/com.github.gekoh.yagen/yagen-api@2.5.3?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-api@2.5.4
+- pkg:maven/com.github.gekoh.yagen/yagen-api@2.5.4?classifier=sources

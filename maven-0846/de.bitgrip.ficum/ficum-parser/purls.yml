@@ -1,0 +1,4 @@
+- pkg:maven/de.bitgrip.ficum/ficum-parser@0.6.0
+- pkg:maven/de.bitgrip.ficum/ficum-parser@0.6.0?classifier=sources
+- pkg:maven/de.bitgrip.ficum/ficum-parser@0.7.0
+- pkg:maven/de.bitgrip.ficum/ficum-parser@0.7.0?classifier=sources

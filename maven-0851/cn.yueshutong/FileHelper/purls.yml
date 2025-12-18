@@ -1,0 +1,2 @@
+- pkg:maven/cn.yueshutong/FileHelper@1.0.RELEASE
+- pkg:maven/cn.yueshutong/FileHelper@1.0.RELEASE?classifier=sources

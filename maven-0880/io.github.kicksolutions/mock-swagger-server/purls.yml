@@ -6,3 +6,5 @@
 - pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.1-charlie?type=war
 - pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.2-alpha?classifier=sources
 - pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.2-alpha?type=war
+- pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.2-beta?classifier=sources
+- pkg:maven/io.github.kicksolutions/mock-swagger-server@0.0.2-beta?type=war

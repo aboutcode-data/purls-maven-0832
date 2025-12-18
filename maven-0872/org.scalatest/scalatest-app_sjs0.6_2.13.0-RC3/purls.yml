@@ -1,0 +1,4 @@
+- pkg:maven/org.scalatest/scalatest-app_sjs0.6_2.13.0-RC3@3.0.8-RC5
+- pkg:maven/org.scalatest/scalatest-app_sjs0.6_2.13.0-RC3@3.0.8-RC5?classifier=sources
+- pkg:maven/org.scalatest/scalatest-app_sjs0.6_2.13.0-RC3@3.1.0-SNAP12
+- pkg:maven/org.scalatest/scalatest-app_sjs0.6_2.13.0-RC3@3.1.0-SNAP12?classifier=sources

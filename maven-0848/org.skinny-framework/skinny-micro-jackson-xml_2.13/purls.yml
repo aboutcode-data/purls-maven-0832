@@ -1,0 +1,2 @@
+- pkg:maven/org.skinny-framework/skinny-micro-jackson-xml_2.13@2.1.0
+- pkg:maven/org.skinny-framework/skinny-micro-jackson-xml_2.13@2.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.3
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.3?classifier=sources

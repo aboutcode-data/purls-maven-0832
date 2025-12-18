@@ -20,6 +20,16 @@
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.19.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.20.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.20.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.21.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.21.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.22.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.22.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.23.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.23.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.24.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.24.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.25.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.25.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.8.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.9.0.Final

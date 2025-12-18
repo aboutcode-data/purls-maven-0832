@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nimeshabuddhika/etihad-test-common@1.0.0
+- pkg:maven/com.github.nimeshabuddhika/etihad-test-common@1.0.0?classifier=sources

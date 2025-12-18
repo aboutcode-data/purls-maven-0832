@@ -2,3 +2,5 @@
 - pkg:maven/io.github.pityka/nspl-core-js_sjs0.6_2.12@0.0.19?classifier=sources
 - pkg:maven/io.github.pityka/nspl-core-js_sjs0.6_2.12@0.0.20
 - pkg:maven/io.github.pityka/nspl-core-js_sjs0.6_2.12@0.0.20?classifier=sources
+- pkg:maven/io.github.pityka/nspl-core-js_sjs0.6_2.12@0.0.21
+- pkg:maven/io.github.pityka/nspl-core-js_sjs0.6_2.12@0.0.21?classifier=sources

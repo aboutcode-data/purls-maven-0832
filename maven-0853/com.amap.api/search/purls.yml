@@ -30,3 +30,7 @@
 - pkg:maven/com.amap.api/search@6.5.0.1
 - pkg:maven/com.amap.api/search@6.5.0.1?classifier=sources
 - pkg:maven/com.amap.api/search@6.5.0?classifier=sources
+- pkg:maven/com.amap.api/search@6.9.0
+- pkg:maven/com.amap.api/search@6.9.0?classifier=sources
+- pkg:maven/com.amap.api/search@6.9.2
+- pkg:maven/com.amap.api/search@6.9.2?classifier=sources

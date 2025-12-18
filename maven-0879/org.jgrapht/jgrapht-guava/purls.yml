@@ -2,3 +2,5 @@
 - pkg:maven/org.jgrapht/jgrapht-guava@1.2.0?classifier=sources
 - pkg:maven/org.jgrapht/jgrapht-guava@1.3.0
 - pkg:maven/org.jgrapht/jgrapht-guava@1.3.0?classifier=sources
+- pkg:maven/org.jgrapht/jgrapht-guava@1.3.1
+- pkg:maven/org.jgrapht/jgrapht-guava@1.3.1?classifier=sources

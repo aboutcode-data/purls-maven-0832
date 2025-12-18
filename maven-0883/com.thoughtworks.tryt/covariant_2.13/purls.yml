@@ -1,0 +1,6 @@
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@2.1.0%2B59-4e214755
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@2.1.0%2B59-4e214755?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@2.1.1
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@2.1.1%2B2-da211c84
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@2.1.1%2B2-da211c84?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@2.1.1?classifier=sources

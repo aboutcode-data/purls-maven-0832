@@ -1,0 +1,2 @@
+- pkg:maven/ai.swim/swim-fabric@3.10.0
+- pkg:maven/ai.swim/swim-fabric@3.10.0?classifier=sources

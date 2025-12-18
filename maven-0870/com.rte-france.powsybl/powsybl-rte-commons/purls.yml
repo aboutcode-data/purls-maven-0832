@@ -5,3 +5,8 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.3.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.4.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.4.1
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.5.0
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.5.1
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.5.2
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.6.0
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.6.1

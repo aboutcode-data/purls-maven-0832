@@ -1,0 +1,2 @@
+- pkg:maven/uk.gov.dstl.machinetranslation/connector-remedi@1.0.0
+- pkg:maven/uk.gov.dstl.machinetranslation/connector-remedi@1.0.0?classifier=sources

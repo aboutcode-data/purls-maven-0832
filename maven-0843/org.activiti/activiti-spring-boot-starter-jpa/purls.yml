@@ -6,6 +6,8 @@
 - pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@5.20.0
 - pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@5.21.0
 - pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@5.22.0
+- pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@5.23.0
+- pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@5.23.0-RC1
 - pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@6.0.0
 - pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@6.0.0.Beta1
 - pkg:maven/org.activiti/activiti-spring-boot-starter-jpa@6.0.0.Beta2

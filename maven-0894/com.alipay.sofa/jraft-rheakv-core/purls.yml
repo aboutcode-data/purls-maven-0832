@@ -3,4 +3,6 @@
 - pkg:maven/com.alipay.sofa/jraft-rheakv-core@1.2.4
 - pkg:maven/com.alipay.sofa/jraft-rheakv-core@1.2.4?classifier=sources
 - pkg:maven/com.alipay.sofa/jraft-rheakv-core@1.2.5
+- pkg:maven/com.alipay.sofa/jraft-rheakv-core@1.2.5.bugfix
+- pkg:maven/com.alipay.sofa/jraft-rheakv-core@1.2.5.bugfix?classifier=sources
 - pkg:maven/com.alipay.sofa/jraft-rheakv-core@1.2.5?classifier=sources

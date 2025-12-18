@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gv2011.jctrl/jctrl-gui@0.0.1
+- pkg:maven/com.github.gv2011.jctrl/jctrl-gui@0.0.1?classifier=sources

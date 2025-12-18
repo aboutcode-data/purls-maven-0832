@@ -14,3 +14,5 @@
 - pkg:maven/com.theoryinpractise/halbuilder-test-resources@4.0.1?classifier=sources
 - pkg:maven/com.theoryinpractise/halbuilder-test-resources@4.0.2
 - pkg:maven/com.theoryinpractise/halbuilder-test-resources@4.0.2?classifier=sources
+- pkg:maven/com.theoryinpractise/halbuilder-test-resources@4.1.1
+- pkg:maven/com.theoryinpractise/halbuilder-test-resources@4.1.1?classifier=sources

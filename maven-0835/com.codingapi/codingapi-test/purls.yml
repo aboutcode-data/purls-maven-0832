@@ -1,0 +1,2 @@
+- pkg:maven/com.codingapi/codingapi-test@0.0.2
+- pkg:maven/com.codingapi/codingapi-test@0.0.2?classifier=sources

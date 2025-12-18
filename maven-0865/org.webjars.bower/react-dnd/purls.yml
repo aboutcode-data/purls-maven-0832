@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/react-dnd@1.1.3?classifier=sources
 - pkg:maven/org.webjars.bower/react-dnd@2.0.2
 - pkg:maven/org.webjars.bower/react-dnd@2.0.2?classifier=sources
+- pkg:maven/org.webjars.bower/react-dnd@7.4.4
+- pkg:maven/org.webjars.bower/react-dnd@7.4.4?classifier=sources

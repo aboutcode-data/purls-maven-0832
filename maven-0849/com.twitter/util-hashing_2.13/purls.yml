@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/util-hashing_2.13@19.8.1
+- pkg:maven/com.twitter/util-hashing_2.13@19.8.1?classifier=sources

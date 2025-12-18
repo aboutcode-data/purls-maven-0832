@@ -1,0 +1,14 @@
+- pkg:maven/com.trib3/db@1.0.129
+- pkg:maven/com.trib3/db@1.0.129?classifier=sources
+- pkg:maven/com.trib3/db@1.0.133
+- pkg:maven/com.trib3/db@1.0.133?classifier=sources
+- pkg:maven/com.trib3/db@1.1.169
+- pkg:maven/com.trib3/db@1.1.169?classifier=sources
+- pkg:maven/com.trib3/db@1.1.197
+- pkg:maven/com.trib3/db@1.1.197?classifier=sources
+- pkg:maven/com.trib3/db@1.1.215
+- pkg:maven/com.trib3/db@1.1.215?classifier=sources
+- pkg:maven/com.trib3/db@1.1.247
+- pkg:maven/com.trib3/db@1.1.247?classifier=sources
+- pkg:maven/com.trib3/db@1.2.287
+- pkg:maven/com.trib3/db@1.2.287?classifier=sources

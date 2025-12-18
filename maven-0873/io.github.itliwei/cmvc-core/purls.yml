@@ -1,0 +1,2 @@
+- pkg:maven/io.github.itliwei/cmvc-core@1.0-RELEASE
+- pkg:maven/io.github.itliwei/cmvc-core@1.0-RELEASE?classifier=sources

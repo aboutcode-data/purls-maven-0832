@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bowergithub.angular/bower-angular-animate@1.2.25
+- pkg:maven/org.webjars.bowergithub.angular/bower-angular-animate@1.2.25?classifier=sources
 - pkg:maven/org.webjars.bowergithub.angular/bower-angular-animate@1.6.0-rc.2
 - pkg:maven/org.webjars.bowergithub.angular/bower-angular-animate@1.6.0-rc.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.angular/bower-angular-animate@1.6.10

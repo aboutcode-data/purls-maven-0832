@@ -1,0 +1,2 @@
+- pkg:maven/top.infra.cloud-ready/spring-boot-starter-redisson@3.0.0
+- pkg:maven/top.infra.cloud-ready/spring-boot-starter-redisson@3.0.0?classifier=sources

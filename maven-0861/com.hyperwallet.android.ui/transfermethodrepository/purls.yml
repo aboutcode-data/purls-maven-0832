@@ -1,0 +1,2 @@
+- pkg:maven/com.hyperwallet.android.ui/transfermethodrepository@1.0.0-beta03?classifier=sources
+- pkg:maven/com.hyperwallet.android.ui/transfermethodrepository@1.0.0-beta03?type=aar

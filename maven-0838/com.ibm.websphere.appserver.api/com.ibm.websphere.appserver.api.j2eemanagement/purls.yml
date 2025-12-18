@@ -15,4 +15,9 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.24
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.25
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.26
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.27
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.28
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.29
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.30
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.31
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.9

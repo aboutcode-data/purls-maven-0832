@@ -72,6 +72,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@1.4.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@1.4.6.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@1.4.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@1.4.7.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@1.4.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.0.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.0.1.RELEASE
@@ -80,7 +82,11 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.0.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.0.4.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.0.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.1.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.1.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.1.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.1.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.1.2.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-sidecar@2.1.2.RELEASE?classifier=sources
