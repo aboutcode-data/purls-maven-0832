@@ -1,0 +1,2 @@
+- pkg:maven/ch.cern.hadoop/hadoop-fs2img@3.2.1
+- pkg:maven/ch.cern.hadoop/hadoop-fs2img@3.2.1?classifier=sources

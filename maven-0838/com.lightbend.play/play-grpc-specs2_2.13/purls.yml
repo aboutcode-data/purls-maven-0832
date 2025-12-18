@@ -4,3 +4,5 @@
 - pkg:maven/com.lightbend.play/play-grpc-specs2_2.13@0.8.3?classifier=sources
 - pkg:maven/com.lightbend.play/play-grpc-specs2_2.13@0.9.0
 - pkg:maven/com.lightbend.play/play-grpc-specs2_2.13@0.9.0?classifier=sources
+- pkg:maven/com.lightbend.play/play-grpc-specs2_2.13@0.9.1
+- pkg:maven/com.lightbend.play/play-grpc-specs2_2.13@0.9.1?classifier=sources

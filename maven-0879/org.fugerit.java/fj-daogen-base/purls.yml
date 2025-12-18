@@ -81,6 +81,10 @@
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.0
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.0?classifier=sources
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.1
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.10
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.10?classifier=sources
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.11
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.11?classifier=sources
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.2
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.2?classifier=sources
@@ -96,3 +100,9 @@
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.7?classifier=sources
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.8
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.8?classifier=sources
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.9
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.1.9?classifier=sources
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.2.0
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.2.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.2.1
+- pkg:maven/org.fugerit.java/fj-daogen-base@0.4.2.1?classifier=sources

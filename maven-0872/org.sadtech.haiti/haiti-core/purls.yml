@@ -1,0 +1,2 @@
+- pkg:maven/org.sadtech.haiti/haiti-core@0.0.1-RELEASE
+- pkg:maven/org.sadtech.haiti/haiti-core@0.0.1-RELEASE?classifier=sources

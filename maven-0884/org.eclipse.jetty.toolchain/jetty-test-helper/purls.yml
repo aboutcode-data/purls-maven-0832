@@ -64,3 +64,5 @@
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@5.3?classifier=sources
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@5.4
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@5.4?classifier=sources
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@5.5
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-test-helper@5.5?classifier=sources

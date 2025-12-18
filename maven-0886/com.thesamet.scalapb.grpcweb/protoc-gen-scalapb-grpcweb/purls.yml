@@ -1,3 +1,4 @@
 - pkg:maven/com.thesamet.scalapb.grpcweb/protoc-gen-scalapb-grpcweb@0.3.0
 - pkg:maven/com.thesamet.scalapb.grpcweb/protoc-gen-scalapb-grpcweb@0.4.0
 - pkg:maven/com.thesamet.scalapb.grpcweb/protoc-gen-scalapb-grpcweb@0.4.1
+- pkg:maven/com.thesamet.scalapb.grpcweb/protoc-gen-scalapb-grpcweb@0.4.2

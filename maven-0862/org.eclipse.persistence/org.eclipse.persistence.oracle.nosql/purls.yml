@@ -125,3 +125,7 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle.nosql@2.7.7-RC2?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle.nosql@2.7.7?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle.nosql@3.0.0-M1?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle.nosql@3.0.0-M2
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle.nosql@3.0.0-M2?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle.nosql@3.0.0-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracle.nosql@3.0.0-RC1?classifier=sources

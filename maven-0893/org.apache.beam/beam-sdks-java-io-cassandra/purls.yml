@@ -32,6 +32,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-cassandra@2.23.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-cassandra@2.24.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-cassandra@2.24.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-cassandra@2.25.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-cassandra@2.3.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-cassandra@2.3.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-cassandra@2.4.0

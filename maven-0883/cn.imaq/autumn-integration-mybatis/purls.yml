@@ -2,3 +2,5 @@
 - pkg:maven/cn.imaq/autumn-integration-mybatis@0.1?classifier=sources
 - pkg:maven/cn.imaq/autumn-integration-mybatis@2019.06
 - pkg:maven/cn.imaq/autumn-integration-mybatis@2019.06?classifier=sources
+- pkg:maven/cn.imaq/autumn-integration-mybatis@2020.10
+- pkg:maven/cn.imaq/autumn-integration-mybatis@2020.10?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/io.servicetalk/servicetalk-gradle-plugin-internal@0.30.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-gradle-plugin-internal@0.31.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-gradle-plugin-internal@0.32.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-gradle-plugin-internal@0.33.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-gradle-plugin-internal@0.34.0?classifier=sources

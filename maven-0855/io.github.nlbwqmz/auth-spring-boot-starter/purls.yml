@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nlbwqmz/auth-spring-boot-starter@0.0.1
+- pkg:maven/io.github.nlbwqmz/auth-spring-boot-starter@0.0.1?classifier=sources

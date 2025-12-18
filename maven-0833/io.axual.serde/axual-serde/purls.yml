@@ -10,3 +10,5 @@
 - pkg:maven/io.axual.serde/axual-serde@0.0.7?classifier=sources
 - pkg:maven/io.axual.serde/axual-serde@5.4.4
 - pkg:maven/io.axual.serde/axual-serde@5.4.4?classifier=sources
+- pkg:maven/io.axual.serde/axual-serde@5.5.0
+- pkg:maven/io.axual.serde/axual-serde@5.5.0?classifier=sources

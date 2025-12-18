@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.solr.plugin/LangDetectSolrRequestHandlerPlugin@1.5.21
+- pkg:maven/com.adobe.solr.plugin/LangDetectSolrRequestHandlerPlugin@1.5.21?classifier=sources

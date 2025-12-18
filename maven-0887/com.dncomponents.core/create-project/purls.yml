@@ -1,3 +1,5 @@
 - pkg:maven/com.dncomponents.core/create-project@1.2.0?classifier=sources
 - pkg:maven/com.dncomponents.core/create-project@2.3.0?classifier=sources
 - pkg:maven/com.dncomponents.core/create-project@2.3.1?classifier=sources
+- pkg:maven/com.dncomponents.core/create-project@2.3.2?classifier=sources
+- pkg:maven/com.dncomponents.core/create-project@2.3.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/xyz.groundx.caver/caver-java-kas-ext@1.0.0-rc.2
+- pkg:maven/xyz.groundx.caver/caver-java-kas-ext@1.0.0-rc.2-android
+- pkg:maven/xyz.groundx.caver/caver-java-kas-ext@1.0.0-rc.2-android?classifier=sources
+- pkg:maven/xyz.groundx.caver/caver-java-kas-ext@1.0.0-rc.2?classifier=sources

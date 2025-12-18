@@ -1,2 +1,4 @@
 - pkg:maven/be.wegenenverkeer/akka-persistence-pg_2.13@0.14.0
 - pkg:maven/be.wegenenverkeer/akka-persistence-pg_2.13@0.14.0?classifier=sources
+- pkg:maven/be.wegenenverkeer/akka-persistence-pg_2.13@0.16.0
+- pkg:maven/be.wegenenverkeer/akka-persistence-pg_2.13@0.16.0?classifier=sources

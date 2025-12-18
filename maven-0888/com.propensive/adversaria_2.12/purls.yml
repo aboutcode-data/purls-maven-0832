@@ -1,4 +1,6 @@
 - pkg:maven/com.propensive/adversaria_2.12@0.1.0
 - pkg:maven/com.propensive/adversaria_2.12@0.1.0?classifier=sources
+- pkg:maven/com.propensive/adversaria_2.12@0.19.0
+- pkg:maven/com.propensive/adversaria_2.12@0.19.0?classifier=sources
 - pkg:maven/com.propensive/adversaria_2.12@0.2.0
 - pkg:maven/com.propensive/adversaria_2.12@0.2.0?classifier=sources

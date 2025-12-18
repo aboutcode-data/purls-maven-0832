@@ -85,6 +85,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.10
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.10?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.11
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.11?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.12
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.12?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@11.10.2?classifier=sources
@@ -157,6 +161,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.1-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.2.1
@@ -181,6 +187,12 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6.3
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6.4?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.6?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.7
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.7-rc-1
@@ -188,6 +200,14 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.7.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.7.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.7?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.8
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.8-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.8-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.8?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.9
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.9-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.9-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@12.9?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@3.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@3.2-milestone-3
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-verification-resources@3.2-milestone-3?classifier=sources

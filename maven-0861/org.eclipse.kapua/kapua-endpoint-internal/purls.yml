@@ -40,3 +40,7 @@
 - pkg:maven/org.eclipse.kapua/kapua-endpoint-internal@1.2.3?classifier=sources
 - pkg:maven/org.eclipse.kapua/kapua-endpoint-internal@1.2.4
 - pkg:maven/org.eclipse.kapua/kapua-endpoint-internal@1.2.4?classifier=sources
+- pkg:maven/org.eclipse.kapua/kapua-endpoint-internal@1.3.0
+- pkg:maven/org.eclipse.kapua/kapua-endpoint-internal@1.3.0?classifier=sources
+- pkg:maven/org.eclipse.kapua/kapua-endpoint-internal@1.3.1
+- pkg:maven/org.eclipse.kapua/kapua-endpoint-internal@1.3.1?classifier=sources

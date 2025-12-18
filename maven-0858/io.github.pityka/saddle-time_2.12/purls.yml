@@ -37,6 +37,8 @@
 - pkg:maven/io.github.pityka/saddle-time_2.12@2.0.0-M3
 - pkg:maven/io.github.pityka/saddle-time_2.12@2.0.0-M30
 - pkg:maven/io.github.pityka/saddle-time_2.12@2.0.0-M30?classifier=sources
+- pkg:maven/io.github.pityka/saddle-time_2.12@2.0.0-M31
+- pkg:maven/io.github.pityka/saddle-time_2.12@2.0.0-M31?classifier=sources
 - pkg:maven/io.github.pityka/saddle-time_2.12@2.0.0-M3?classifier=sources
 - pkg:maven/io.github.pityka/saddle-time_2.12@2.0.0-M4
 - pkg:maven/io.github.pityka/saddle-time_2.12@2.0.0-M4?classifier=sources

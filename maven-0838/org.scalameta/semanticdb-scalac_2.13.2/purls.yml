@@ -22,5 +22,13 @@
 - pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.3.21?classifier=sources
 - pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.3.22
 - pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.3.22?classifier=sources
+- pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.3.23
+- pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.3.23?classifier=sources
+- pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.3.24
+- pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.3.24?classifier=sources
 - pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.3.9
 - pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.3.9?classifier=sources
+- pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.4.0
+- pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.4.0?classifier=sources
+- pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.4.1
+- pkg:maven/org.scalameta/semanticdb-scalac_2.13.2@4.4.1?classifier=sources

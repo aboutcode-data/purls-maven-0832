@@ -1,0 +1,11 @@
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@0.0.41?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@1.0.0?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@1.0.11?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@1.0.27?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@1.0.6?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@1.0.8?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@1.1.37?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@1.1.42?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@1.2.136?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@2.2.22?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-ugc-search-collections@2.2.23?classifier=sources

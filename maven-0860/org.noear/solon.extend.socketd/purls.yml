@@ -1,0 +1,4 @@
+- pkg:maven/org.noear/solon.extend.socketd@1.2.4
+- pkg:maven/org.noear/solon.extend.socketd@1.2.4?classifier=sources
+- pkg:maven/org.noear/solon.extend.socketd@1.2.5
+- pkg:maven/org.noear/solon.extend.socketd@1.2.5?classifier=sources

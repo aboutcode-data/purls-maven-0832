@@ -12,6 +12,8 @@
 - pkg:maven/com.compstak/kafka-streams4s-core_2.13@0.10.4?classifier=sources
 - pkg:maven/com.compstak/kafka-streams4s-core_2.13@0.11.0
 - pkg:maven/com.compstak/kafka-streams4s-core_2.13@0.11.0?classifier=sources
+- pkg:maven/com.compstak/kafka-streams4s-core_2.13@0.14.0
+- pkg:maven/com.compstak/kafka-streams4s-core_2.13@0.14.0?classifier=sources
 - pkg:maven/com.compstak/kafka-streams4s-core_2.13@0.2.0
 - pkg:maven/com.compstak/kafka-streams4s-core_2.13@0.2.0?classifier=sources
 - pkg:maven/com.compstak/kafka-streams4s-core_2.13@0.3.0

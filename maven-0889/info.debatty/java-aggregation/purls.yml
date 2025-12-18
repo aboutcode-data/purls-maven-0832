@@ -8,3 +8,7 @@
 - pkg:maven/info.debatty/java-aggregation@0.4?classifier=sources
 - pkg:maven/info.debatty/java-aggregation@0.5
 - pkg:maven/info.debatty/java-aggregation@0.5?classifier=sources
+- pkg:maven/info.debatty/java-aggregation@1.0.0
+- pkg:maven/info.debatty/java-aggregation@1.0.0?classifier=sources
+- pkg:maven/info.debatty/java-aggregation@1.0.1
+- pkg:maven/info.debatty/java-aggregation@1.0.1?classifier=sources

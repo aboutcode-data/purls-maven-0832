@@ -1,0 +1,2 @@
+- pkg:maven/top.zopx/sms-boot-starter@1.1.1
+- pkg:maven/top.zopx/sms-boot-starter@1.1.1?classifier=sources

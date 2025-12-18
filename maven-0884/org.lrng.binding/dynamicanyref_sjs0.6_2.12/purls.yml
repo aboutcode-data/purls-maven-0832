@@ -33,4 +33,6 @@
 - pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.3%2B6-55950506?classifier=sources
 - pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.3%2B8-71ec2406
 - pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.3%2B8-71ec2406?classifier=sources
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.3%2B9-7d1ef722
+- pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.3%2B9-7d1ef722?classifier=sources
 - pkg:maven/org.lrng.binding/dynamicanyref_sjs0.6_2.12@1.0.3?classifier=sources

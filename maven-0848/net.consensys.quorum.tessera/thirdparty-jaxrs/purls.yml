@@ -1,2 +1,6 @@
 - pkg:maven/net.consensys.quorum.tessera/thirdparty-jaxrs@0.11.0
 - pkg:maven/net.consensys.quorum.tessera/thirdparty-jaxrs@0.11.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/thirdparty-jaxrs@1.0.0
+- pkg:maven/net.consensys.quorum.tessera/thirdparty-jaxrs@1.0.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/thirdparty-jaxrs@20.10.0
+- pkg:maven/net.consensys.quorum.tessera/thirdparty-jaxrs@20.10.0?classifier=sources

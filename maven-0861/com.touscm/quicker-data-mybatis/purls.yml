@@ -1,0 +1,2 @@
+- pkg:maven/com.touscm/quicker-data-mybatis@1.2.7
+- pkg:maven/com.touscm/quicker-data-mybatis@1.2.7?classifier=sources

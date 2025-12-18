@@ -7,6 +7,10 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.11.2
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.12.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.12.1
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.13.0
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.14.0
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.14.1
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.15.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.2.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.2.1
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@2.3.0

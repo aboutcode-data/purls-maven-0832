@@ -36,6 +36,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hbase@2.23.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hbase@2.24.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hbase@2.24.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hbase@2.25.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hbase@2.3.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hbase@2.3.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hbase@2.4.0

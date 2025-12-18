@@ -1,0 +1,2 @@
+- pkg:maven/com.day.cq/cq-upgrades-executor@1.0.0?classifier=sources
+- pkg:maven/com.day.cq/cq-upgrades-executor@1.0.2?classifier=sources

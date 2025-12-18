@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.batchee/extension-doc-helper@0.4-incubating?classifier=sources
 - pkg:maven/org.apache.batchee/extension-doc-helper@0.5-incubating
 - pkg:maven/org.apache.batchee/extension-doc-helper@0.5-incubating?classifier=sources
+- pkg:maven/org.apache.batchee/extension-doc-helper@0.6
+- pkg:maven/org.apache.batchee/extension-doc-helper@0.6?classifier=sources

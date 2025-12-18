@@ -1,0 +1,2 @@
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@0.1.0
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@0.1.0?classifier=sources

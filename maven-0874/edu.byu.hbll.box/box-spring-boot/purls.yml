@@ -48,3 +48,5 @@
 - pkg:maven/edu.byu.hbll.box/box-spring-boot@2.2.3?classifier=sources
 - pkg:maven/edu.byu.hbll.box/box-spring-boot@2.2.4
 - pkg:maven/edu.byu.hbll.box/box-spring-boot@2.2.4?classifier=sources
+- pkg:maven/edu.byu.hbll.box/box-spring-boot@2.2.5
+- pkg:maven/edu.byu.hbll.box/box-spring-boot@2.2.5?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.codacy/scooby-doo-fwk@1.23.0-featpromotetocentral.5f69590
+- pkg:maven/com.codacy/scooby-doo-fwk@1.23.0-featpromotetocentral.5f69590?classifier=sources
+- pkg:maven/com.codacy/scooby-doo-fwk@1.23.0-featpromotetocentral.bec3d80
+- pkg:maven/com.codacy/scooby-doo-fwk@1.23.0-featpromotetocentral.bec3d80?classifier=sources
+- pkg:maven/com.codacy/scooby-doo-fwk@1.23.0-featpromotetocentral.fd73670
+- pkg:maven/com.codacy/scooby-doo-fwk@1.23.0-featpromotetocentral.fd73670?classifier=sources
+- pkg:maven/com.codacy/scooby-doo-fwk@1.24.0
+- pkg:maven/com.codacy/scooby-doo-fwk@1.24.0?classifier=sources

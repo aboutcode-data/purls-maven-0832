@@ -1,2 +1,14 @@
 - pkg:maven/io.prestosql/presto-testing-kafka@341
 - pkg:maven/io.prestosql/presto-testing-kafka@341?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-kafka@342
+- pkg:maven/io.prestosql/presto-testing-kafka@342?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-kafka@343
+- pkg:maven/io.prestosql/presto-testing-kafka@343?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-kafka@344
+- pkg:maven/io.prestosql/presto-testing-kafka@344?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-kafka@345
+- pkg:maven/io.prestosql/presto-testing-kafka@345?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-kafka@346
+- pkg:maven/io.prestosql/presto-testing-kafka@346?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-kafka@347
+- pkg:maven/io.prestosql/presto-testing-kafka@347?classifier=sources

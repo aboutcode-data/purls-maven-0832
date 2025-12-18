@@ -1,0 +1,2 @@
+- pkg:maven/xyz.noark/noark-robot@3.4.0-Final
+- pkg:maven/xyz.noark/noark-robot@3.4.0-Final?classifier=sources

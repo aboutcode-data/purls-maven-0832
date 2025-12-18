@@ -1,0 +1,2 @@
+- pkg:maven/com.khubla.gml4j/gml4j@1.0.0
+- pkg:maven/com.khubla.gml4j/gml4j@1.0.0?classifier=sources

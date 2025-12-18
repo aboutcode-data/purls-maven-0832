@@ -124,6 +124,10 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.1.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.10.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.10.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.11.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.11.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@8.3.0
@@ -156,3 +160,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@9.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@9.0.1-M3
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@9.0.1-M3?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@9.1.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@9.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@9.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-walterzorn@9.2.0?classifier=sources

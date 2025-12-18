@@ -246,6 +246,8 @@
 - pkg:maven/org.infinispan/infinispan-atomic-factory@9.4.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-atomic-factory@9.4.20.Final
 - pkg:maven/org.infinispan/infinispan-atomic-factory@9.4.20.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-atomic-factory@9.4.21.Final
+- pkg:maven/org.infinispan/infinispan-atomic-factory@9.4.21.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-atomic-factory@9.4.3.Final
 - pkg:maven/org.infinispan/infinispan-atomic-factory@9.4.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-atomic-factory@9.4.4.Final

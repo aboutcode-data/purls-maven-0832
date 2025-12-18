@@ -1,0 +1,2 @@
+- pkg:maven/cn.watsontech.webhelper/vendor-sms@0.2
+- pkg:maven/cn.watsontech.webhelper/vendor-sms@0.2?classifier=sources

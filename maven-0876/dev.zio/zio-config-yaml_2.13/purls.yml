@@ -2,3 +2,17 @@
 - pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC25?classifier=sources
 - pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC26
 - pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC26?classifier=sources
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC27
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC27?classifier=sources
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC28
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC28?classifier=sources
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC29
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC29-1
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC29-1?classifier=sources
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC29?classifier=sources
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC30
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC30-1
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC30-1?classifier=sources
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC30?classifier=sources
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC31
+- pkg:maven/dev.zio/zio-config-yaml_2.13@1.0.0-RC31?classifier=sources

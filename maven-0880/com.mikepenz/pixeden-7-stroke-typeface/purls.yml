@@ -8,3 +8,7 @@
 - pkg:maven/com.mikepenz/pixeden-7-stroke-typeface@1.2.0.3-kotlin?type=aar
 - pkg:maven/com.mikepenz/pixeden-7-stroke-typeface@1.2.0.3?classifier=sources
 - pkg:maven/com.mikepenz/pixeden-7-stroke-typeface@1.2.0.3?type=aar
+- pkg:maven/com.mikepenz/pixeden-7-stroke-typeface@1.2.0.4-kotlin?classifier=sources
+- pkg:maven/com.mikepenz/pixeden-7-stroke-typeface@1.2.0.4-kotlin?type=aar
+- pkg:maven/com.mikepenz/pixeden-7-stroke-typeface@1.2.0.5-kotlin?classifier=sources
+- pkg:maven/com.mikepenz/pixeden-7-stroke-typeface@1.2.0.5-kotlin?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hlfsousa/ncml-binding-example-ucararray@0.4.0
+- pkg:maven/io.github.hlfsousa/ncml-binding-example-ucararray@0.4.0?classifier=sources

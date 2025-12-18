@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yafna.raspberry/grovepi-spec@0.1.1
+- pkg:maven/com.github.yafna.raspberry/grovepi-spec@0.1.1?classifier=sources

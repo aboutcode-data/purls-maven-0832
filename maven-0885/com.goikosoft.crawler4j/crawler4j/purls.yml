@@ -4,6 +4,7 @@
 - pkg:maven/com.goikosoft.crawler4j/crawler4j@4.4.4?classifier=sources
 - pkg:maven/com.goikosoft.crawler4j/crawler4j@4.5.0?classifier=sources
 - pkg:maven/com.goikosoft.crawler4j/crawler4j@4.5.10?classifier=sources
+- pkg:maven/com.goikosoft.crawler4j/crawler4j@4.5.11?classifier=sources
 - pkg:maven/com.goikosoft.crawler4j/crawler4j@4.5.1?classifier=sources
 - pkg:maven/com.goikosoft.crawler4j/crawler4j@4.5.2?classifier=sources
 - pkg:maven/com.goikosoft.crawler4j/crawler4j@4.5.3?classifier=sources

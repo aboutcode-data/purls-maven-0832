@@ -40,3 +40,11 @@
 - pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.1_circe_0.8.0?classifier=sources
 - pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.1_circe_0.9.1
 - pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.1_circe_0.9.1?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.2_circe_0.11.1
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.2_circe_0.11.1?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.2_circe_0.8.0
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.2_circe_0.8.0?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.2_circe_0.9.1
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.1.2_circe_0.9.1?classifier=sources
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.2.0_circe_0.8.0
+- pkg:maven/com.codacy/events-rabbitmq_2.11@3.2.0_circe_0.8.0?classifier=sources

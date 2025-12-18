@@ -1,0 +1,6 @@
+- pkg:maven/org.tpolecat/natchez-mock_3.0.0-M1@0.0.14
+- pkg:maven/org.tpolecat/natchez-mock_3.0.0-M1@0.0.14-M2
+- pkg:maven/org.tpolecat/natchez-mock_3.0.0-M1@0.0.14-M2?classifier=sources
+- pkg:maven/org.tpolecat/natchez-mock_3.0.0-M1@0.0.14-M3
+- pkg:maven/org.tpolecat/natchez-mock_3.0.0-M1@0.0.14-M3?classifier=sources
+- pkg:maven/org.tpolecat/natchez-mock_3.0.0-M1@0.0.14?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/ora@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/ora@3.2.0
 - pkg:maven/org.webjars.npm/ora@3.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/ora@4.0.4
+- pkg:maven/org.webjars.npm/ora@4.0.4?classifier=sources

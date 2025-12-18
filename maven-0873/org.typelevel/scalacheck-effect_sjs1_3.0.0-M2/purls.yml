@@ -1,0 +1,8 @@
+- pkg:maven/org.typelevel/scalacheck-effect_sjs1_3.0.0-M2@0.1-1-8209e5c
+- pkg:maven/org.typelevel/scalacheck-effect_sjs1_3.0.0-M2@0.1-1-8209e5c?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_sjs1_3.0.0-M2@0.1-20-cfc9f4d
+- pkg:maven/org.typelevel/scalacheck-effect_sjs1_3.0.0-M2@0.1-20-cfc9f4d?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_sjs1_3.0.0-M2@0.1-3-cc66577
+- pkg:maven/org.typelevel/scalacheck-effect_sjs1_3.0.0-M2@0.1-3-cc66577?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_sjs1_3.0.0-M2@0.6.0
+- pkg:maven/org.typelevel/scalacheck-effect_sjs1_3.0.0-M2@0.6.0?classifier=sources

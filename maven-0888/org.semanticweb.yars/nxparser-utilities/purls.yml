@@ -8,3 +8,7 @@
 - pkg:maven/org.semanticweb.yars/nxparser-utilities@2.3.3?classifier=sources
 - pkg:maven/org.semanticweb.yars/nxparser-utilities@2.3.4
 - pkg:maven/org.semanticweb.yars/nxparser-utilities@2.3.4?classifier=sources
+- pkg:maven/org.semanticweb.yars/nxparser-utilities@3.0.0
+- pkg:maven/org.semanticweb.yars/nxparser-utilities@3.0.0?classifier=sources
+- pkg:maven/org.semanticweb.yars/nxparser-utilities@4.0.0
+- pkg:maven/org.semanticweb.yars/nxparser-utilities@4.0.0?classifier=sources

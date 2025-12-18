@@ -213,6 +213,8 @@
 - pkg:maven/com.hazelcast/hazelcast@3.12-BETA-2
 - pkg:maven/com.hazelcast/hazelcast@3.12-BETA-2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast@3.12.1
+- pkg:maven/com.hazelcast/hazelcast@3.12.10
+- pkg:maven/com.hazelcast/hazelcast@3.12.10?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast@3.12.1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast@3.12.2
 - pkg:maven/com.hazelcast/hazelcast@3.12.2?classifier=sources
@@ -399,4 +401,10 @@
 - pkg:maven/com.hazelcast/hazelcast@4.0.1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast@4.0.2
 - pkg:maven/com.hazelcast/hazelcast@4.0.2?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast@4.0.3
+- pkg:maven/com.hazelcast/hazelcast@4.0.3?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast@4.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast@4.1
+- pkg:maven/com.hazelcast/hazelcast@4.1-BETA-1
+- pkg:maven/com.hazelcast/hazelcast@4.1-BETA-1?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast@4.1?classifier=sources

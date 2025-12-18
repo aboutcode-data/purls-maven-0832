@@ -18,3 +18,5 @@
 - pkg:maven/com.firstbird/backbone-play-json_2.12@3.0.0-RC3?classifier=sources
 - pkg:maven/com.firstbird/backbone-play-json_2.12@3.0.0-RC4
 - pkg:maven/com.firstbird/backbone-play-json_2.12@3.0.0-RC4?classifier=sources
+- pkg:maven/com.firstbird/backbone-play-json_2.12@3.0.0-RC5
+- pkg:maven/com.firstbird/backbone-play-json_2.12@3.0.0-RC5?classifier=sources

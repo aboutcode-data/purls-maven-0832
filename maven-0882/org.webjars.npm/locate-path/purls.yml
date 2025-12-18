@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/locate-path@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/locate-path@5.0.0
 - pkg:maven/org.webjars.npm/locate-path@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/locate-path@6.0.0
+- pkg:maven/org.webjars.npm/locate-path@6.0.0?classifier=sources

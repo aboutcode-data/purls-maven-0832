@@ -52,3 +52,5 @@
 - pkg:maven/org.springframework.statemachine/spring-statemachine-kryo@2.1.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-kryo@2.2.0.RELEASE
 - pkg:maven/org.springframework.statemachine/spring-statemachine-kryo@2.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-kryo@2.2.1.RELEASE
+- pkg:maven/org.springframework.statemachine/spring-statemachine-kryo@2.2.1.RELEASE?classifier=sources

@@ -60,6 +60,8 @@
 - pkg:maven/com.twitter/util-test_2.11@19.9.0?classifier=sources
 - pkg:maven/com.twitter/util-test_2.11@20.1.0
 - pkg:maven/com.twitter/util-test_2.11@20.1.0?classifier=sources
+- pkg:maven/com.twitter/util-test_2.11@20.10.0
+- pkg:maven/com.twitter/util-test_2.11@20.10.0?classifier=sources
 - pkg:maven/com.twitter/util-test_2.11@20.3.0
 - pkg:maven/com.twitter/util-test_2.11@20.3.0?classifier=sources
 - pkg:maven/com.twitter/util-test_2.11@20.4.0
@@ -76,6 +78,8 @@
 - pkg:maven/com.twitter/util-test_2.11@20.8.0?classifier=sources
 - pkg:maven/com.twitter/util-test_2.11@20.8.1
 - pkg:maven/com.twitter/util-test_2.11@20.8.1?classifier=sources
+- pkg:maven/com.twitter/util-test_2.11@20.9.0
+- pkg:maven/com.twitter/util-test_2.11@20.9.0?classifier=sources
 - pkg:maven/com.twitter/util-test_2.11@6.22.1
 - pkg:maven/com.twitter/util-test_2.11@6.22.1?classifier=sources
 - pkg:maven/com.twitter/util-test_2.11@6.22.2

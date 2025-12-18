@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/jss-plugin-nested@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/jss-plugin-nested@10.2.0
 - pkg:maven/org.webjars.npm/jss-plugin-nested@10.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/jss-plugin-nested@10.4.0
+- pkg:maven/org.webjars.npm/jss-plugin-nested@10.4.0?classifier=sources

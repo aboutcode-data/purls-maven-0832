@@ -30,6 +30,10 @@
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.13.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.13.2
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.13.2?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.14.0
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.14.0?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.14.1
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.14.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.3.1-Helium
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.3.1-Helium?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.3.2-Helium-SR1

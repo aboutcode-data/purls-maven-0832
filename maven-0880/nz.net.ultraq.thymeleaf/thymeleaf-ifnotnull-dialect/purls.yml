@@ -11,3 +11,4 @@
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-ifnotnull-dialect@2.1.0
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-ifnotnull-dialect@2.1.0?classifier=sources
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-ifnotnull-dialect@3.0.0?classifier=sources
+- pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-ifnotnull-dialect@3.0.1?classifier=sources

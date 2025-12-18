@@ -19,3 +19,7 @@
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.3.0.RELEASE?classifier=sources
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.3.1.RELEASE?classifier=sources
 - pkg:maven/net.folivo/matrix-spring-boot-bot@0.3.2.RELEASE?classifier=sources
+- pkg:maven/net.folivo/matrix-spring-boot-bot@0.4.0.RELEASE?classifier=sources
+- pkg:maven/net.folivo/matrix-spring-boot-bot@0.4.1.RELEASE?classifier=sources
+- pkg:maven/net.folivo/matrix-spring-boot-bot@0.4.2?classifier=sources
+- pkg:maven/net.folivo/matrix-spring-boot-bot@0.4.3?classifier=sources

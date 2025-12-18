@@ -8,6 +8,10 @@
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.104?classifier=sources
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.105
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.105?classifier=sources
+- pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.106
+- pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.106?classifier=sources
+- pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.107
+- pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.107?classifier=sources
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.11
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.11?classifier=sources
 - pkg:maven/org.apache.tomcat.extras/tomcat-extras-juli-adapters@7.0.12

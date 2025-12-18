@@ -6,3 +6,7 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-graphql@1.28?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-graphql@1.29
 - pkg:maven/org.testingisdocumenting.webtau/webtau-graphql@1.29?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-graphql@1.33
+- pkg:maven/org.testingisdocumenting.webtau/webtau-graphql@1.33?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-graphql@1.34
+- pkg:maven/org.testingisdocumenting.webtau/webtau-graphql@1.34?classifier=sources

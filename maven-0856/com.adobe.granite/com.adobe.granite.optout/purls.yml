@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.optout@0.0.10?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.optout@0.0.8?classifier=sources

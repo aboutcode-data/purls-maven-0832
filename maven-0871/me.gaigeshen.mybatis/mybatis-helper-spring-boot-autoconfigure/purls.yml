@@ -1,0 +1,2 @@
+- pkg:maven/me.gaigeshen.mybatis/mybatis-helper-spring-boot-autoconfigure@1.7.0
+- pkg:maven/me.gaigeshen.mybatis/mybatis-helper-spring-boot-autoconfigure@1.7.0?classifier=sources

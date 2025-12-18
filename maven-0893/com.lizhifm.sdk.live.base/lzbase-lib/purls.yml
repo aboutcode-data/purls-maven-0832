@@ -16,3 +16,15 @@
 - pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.27?type=aar
 - pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.28?classifier=sources
 - pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.28?type=aar
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.29-SHAPSHOT?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.29-SHAPSHOT?type=aar
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.29?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.29?type=aar
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.30?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.30?type=aar
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.31?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.31?type=aar
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.32?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.32?type=aar
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.33?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live.base/lzbase-lib@1.0.33?type=aar

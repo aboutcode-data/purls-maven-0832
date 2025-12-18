@@ -12,3 +12,9 @@
 - pkg:maven/org.kie.kogito/dmn-listener-springboot@0.14.0?classifier=sources
 - pkg:maven/org.kie.kogito/dmn-listener-springboot@0.15.0
 - pkg:maven/org.kie.kogito/dmn-listener-springboot@0.15.0?classifier=sources
+- pkg:maven/org.kie.kogito/dmn-listener-springboot@0.16.0
+- pkg:maven/org.kie.kogito/dmn-listener-springboot@0.16.0?classifier=sources
+- pkg:maven/org.kie.kogito/dmn-listener-springboot@0.17.0
+- pkg:maven/org.kie.kogito/dmn-listener-springboot@0.17.0?classifier=sources
+- pkg:maven/org.kie.kogito/dmn-listener-springboot@1.0.0.Final
+- pkg:maven/org.kie.kogito/dmn-listener-springboot@1.0.0.Final?classifier=sources

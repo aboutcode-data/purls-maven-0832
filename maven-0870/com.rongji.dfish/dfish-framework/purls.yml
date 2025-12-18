@@ -8,9 +8,15 @@
 - pkg:maven/com.rongji.dfish/dfish-framework@3.2.7.RELEASE?classifier=sources
 - pkg:maven/com.rongji.dfish/dfish-framework@3.2.8.RELEASE
 - pkg:maven/com.rongji.dfish/dfish-framework@3.2.8.RELEASE?classifier=sources
+- pkg:maven/com.rongji.dfish/dfish-framework@3.2.9.RELEASE
+- pkg:maven/com.rongji.dfish/dfish-framework@3.2.9.RELEASE?classifier=sources
 - pkg:maven/com.rongji.dfish/dfish-framework@5.0.0.RELEASE
 - pkg:maven/com.rongji.dfish/dfish-framework@5.0.0.RELEASE?classifier=sources
 - pkg:maven/com.rongji.dfish/dfish-framework@5.0.1.RELEASE
 - pkg:maven/com.rongji.dfish/dfish-framework@5.0.1.RELEASE?classifier=sources
 - pkg:maven/com.rongji.dfish/dfish-framework@5.0.2.RELEASE
 - pkg:maven/com.rongji.dfish/dfish-framework@5.0.2.RELEASE?classifier=sources
+- pkg:maven/com.rongji.dfish/dfish-framework@5.0.3.RELEASE
+- pkg:maven/com.rongji.dfish/dfish-framework@5.0.3.RELEASE?classifier=sources
+- pkg:maven/com.rongji.dfish/dfish-framework@5.0.4.RELEASE
+- pkg:maven/com.rongji.dfish/dfish-framework@5.0.4.RELEASE?classifier=sources

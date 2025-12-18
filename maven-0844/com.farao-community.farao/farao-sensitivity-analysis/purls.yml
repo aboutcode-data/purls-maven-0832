@@ -1,0 +1,2 @@
+- pkg:maven/com.farao-community.farao/farao-sensitivity-analysis@2.2.0-RC1
+- pkg:maven/com.farao-community.farao/farao-sensitivity-analysis@2.2.0-RC1?classifier=sources

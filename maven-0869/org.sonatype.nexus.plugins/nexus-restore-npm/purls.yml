@@ -98,3 +98,9 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restore-npm@3.27.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restore-npm@3.27.0-03
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restore-npm@3.27.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restore-npm@3.28.0-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restore-npm@3.28.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restore-npm@3.28.1-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restore-npm@3.28.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restore-npm@3.29.0-02
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restore-npm@3.29.0-02?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/fi.hoski/hoski-weblib@1.0.5?type=war
 - pkg:maven/fi.hoski/hoski-weblib@1.0.6?classifier=sources
 - pkg:maven/fi.hoski/hoski-weblib@1.0.6?type=war
+- pkg:maven/fi.hoski/hoski-weblib@1.0.7?classifier=sources
+- pkg:maven/fi.hoski/hoski-weblib@1.0.7?type=war

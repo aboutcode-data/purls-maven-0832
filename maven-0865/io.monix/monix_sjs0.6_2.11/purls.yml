@@ -152,3 +152,5 @@
 - pkg:maven/io.monix/monix_sjs0.6_2.11@3.2.2%2B45-5c6c8b9e
 - pkg:maven/io.monix/monix_sjs0.6_2.11@3.2.2%2B45-5c6c8b9e?classifier=sources
 - pkg:maven/io.monix/monix_sjs0.6_2.11@3.2.2?classifier=sources
+- pkg:maven/io.monix/monix_sjs0.6_2.11@3.3.0
+- pkg:maven/io.monix/monix_sjs0.6_2.11@3.3.0?classifier=sources

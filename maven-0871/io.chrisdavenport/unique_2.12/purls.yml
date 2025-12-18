@@ -16,3 +16,7 @@
 - pkg:maven/io.chrisdavenport/unique_2.12@2.0.0-RC2
 - pkg:maven/io.chrisdavenport/unique_2.12@2.0.0-RC2?classifier=sources
 - pkg:maven/io.chrisdavenport/unique_2.12@2.0.0?classifier=sources
+- pkg:maven/io.chrisdavenport/unique_2.12@2.1.0-M2
+- pkg:maven/io.chrisdavenport/unique_2.12@2.1.0-M2?classifier=sources
+- pkg:maven/io.chrisdavenport/unique_2.12@2.1.0-M5
+- pkg:maven/io.chrisdavenport/unique_2.12@2.1.0-M5?classifier=sources

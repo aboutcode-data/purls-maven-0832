@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.maven/org.wso2.maven.registry@5.2.30
+- pkg:maven/org.wso2.maven/org.wso2.maven.registry@5.2.30?classifier=sources

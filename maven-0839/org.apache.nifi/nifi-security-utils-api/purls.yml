@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-security-utils-api@1.12.1
+- pkg:maven/org.apache.nifi/nifi-security-utils-api@1.12.1?classifier=sources

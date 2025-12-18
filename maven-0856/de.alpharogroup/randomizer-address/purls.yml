@@ -5,4 +5,7 @@
 - pkg:maven/de.alpharogroup/randomizer-address@6.7
 - pkg:maven/de.alpharogroup/randomizer-address@6.7?classifier=sources
 - pkg:maven/de.alpharogroup/randomizer-address@6.8
+- pkg:maven/de.alpharogroup/randomizer-address@6.8.1?classifier=sources
 - pkg:maven/de.alpharogroup/randomizer-address@6.8?classifier=sources
+- pkg:maven/de.alpharogroup/randomizer-address@6.9?classifier=sources
+- pkg:maven/de.alpharogroup/randomizer-address@8?classifier=sources

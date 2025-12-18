@@ -1,0 +1,2 @@
+- pkg:maven/io.imunity/unity-server-fido@3.4.0
+- pkg:maven/io.imunity/unity-server-fido@3.4.0?classifier=sources

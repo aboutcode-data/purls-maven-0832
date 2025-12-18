@@ -14,3 +14,9 @@
 - pkg:maven/com.linecorp.armeria/armeria-javadoc@0.99.9?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-javadoc@1.0.0
 - pkg:maven/com.linecorp.armeria/armeria-javadoc@1.0.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-javadoc@1.1.0
+- pkg:maven/com.linecorp.armeria/armeria-javadoc@1.1.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-javadoc@1.2.0
+- pkg:maven/com.linecorp.armeria/armeria-javadoc@1.2.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-javadoc@1.3.0
+- pkg:maven/com.linecorp.armeria/armeria-javadoc@1.3.0?classifier=sources

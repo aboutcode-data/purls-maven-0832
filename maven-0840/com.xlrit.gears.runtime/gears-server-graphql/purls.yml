@@ -1,0 +1,2 @@
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.21?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-server-graphql@0.21?type=war

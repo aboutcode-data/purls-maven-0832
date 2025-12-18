@@ -1,0 +1,4 @@
+- pkg:maven/org.ifinal.finalframework.auto/final-auto-spring@1.0.0
+- pkg:maven/org.ifinal.finalframework.auto/final-auto-spring@1.0.0?classifier=sources
+- pkg:maven/org.ifinal.finalframework.auto/final-auto-spring@1.0.1
+- pkg:maven/org.ifinal.finalframework.auto/final-auto-spring@1.0.1?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/org.overturetool.core/parser@2.7.4?classifier=sources
 - pkg:maven/org.overturetool.core/parser@3.0.0
 - pkg:maven/org.overturetool.core/parser@3.0.0?classifier=sources
+- pkg:maven/org.overturetool.core/parser@3.0.2
+- pkg:maven/org.overturetool.core/parser@3.0.2?classifier=sources

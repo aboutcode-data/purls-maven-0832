@@ -1,0 +1,4 @@
+- pkg:maven/tech.rsqn.useful-things/math-and-data@1.0.58
+- pkg:maven/tech.rsqn.useful-things/math-and-data@1.0.58?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/math-and-data@1.0.59
+- pkg:maven/tech.rsqn.useful-things/math-and-data@1.0.59?classifier=sources

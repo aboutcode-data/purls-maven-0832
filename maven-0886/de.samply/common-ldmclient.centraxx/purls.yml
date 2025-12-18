@@ -1,0 +1,2 @@
+- pkg:maven/de.samply/common-ldmclient.centraxx@6.0.0
+- pkg:maven/de.samply/common-ldmclient.centraxx@6.0.0?classifier=sources

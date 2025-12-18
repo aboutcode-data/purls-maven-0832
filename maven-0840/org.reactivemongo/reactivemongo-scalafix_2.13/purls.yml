@@ -1,0 +1,4 @@
+- pkg:maven/org.reactivemongo/reactivemongo-scalafix_2.13@1.0.0-scalafix0923
+- pkg:maven/org.reactivemongo/reactivemongo-scalafix_2.13@1.0.0-scalafix0923?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-scalafix_2.13@1.0.1
+- pkg:maven/org.reactivemongo/reactivemongo-scalafix_2.13@1.0.1?classifier=sources

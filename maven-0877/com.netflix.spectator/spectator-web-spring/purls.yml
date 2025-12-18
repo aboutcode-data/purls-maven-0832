@@ -12,6 +12,11 @@
 - pkg:maven/com.netflix.spectator/spectator-web-spring@0.114.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-web-spring@0.115.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-web-spring@0.116.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-web-spring@0.117.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-web-spring@0.118.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-web-spring@0.119.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-web-spring@0.120.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-web-spring@0.121.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-web-spring@0.41.0
 - pkg:maven/com.netflix.spectator/spectator-web-spring@0.41.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-web-spring@0.42.0

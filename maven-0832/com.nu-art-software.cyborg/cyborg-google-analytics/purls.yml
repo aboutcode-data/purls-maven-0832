@@ -112,6 +112,12 @@
 - pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.28?type=aar
 - pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.29?type=aar
 - pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.2?type=aar
+- pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.30?type=aar
+- pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.31?type=aar
+- pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.32?type=aar
+- pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.33?type=aar
+- pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.34?type=aar
+- pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.35?type=aar
 - pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.4?type=aar
 - pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.5?type=aar
 - pkg:maven/com.nu-art-software.cyborg/cyborg-google-analytics@1.2.6?type=aar

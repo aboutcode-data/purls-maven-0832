@@ -64,3 +64,9 @@
 - pkg:maven/de.sciss/scalafreesound-lucre_2.12@1.8.0?classifier=sources
 - pkg:maven/de.sciss/scalafreesound-lucre_2.12@1.9.0
 - pkg:maven/de.sciss/scalafreesound-lucre_2.12@1.9.0?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-lucre_2.12@2.0.0
+- pkg:maven/de.sciss/scalafreesound-lucre_2.12@2.0.0?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-lucre_2.12@2.1.0
+- pkg:maven/de.sciss/scalafreesound-lucre_2.12@2.1.0?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-lucre_2.12@2.2.0
+- pkg:maven/de.sciss/scalafreesound-lucre_2.12@2.2.0?classifier=sources

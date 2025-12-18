@@ -34,5 +34,9 @@
 - pkg:maven/org.talend.sdk.component/code-component@1.1.24?classifier=sources
 - pkg:maven/org.talend.sdk.component/code-component@1.1.25
 - pkg:maven/org.talend.sdk.component/code-component@1.1.25?classifier=sources
+- pkg:maven/org.talend.sdk.component/code-component@1.1.26
+- pkg:maven/org.talend.sdk.component/code-component@1.1.26?classifier=sources
+- pkg:maven/org.talend.sdk.component/code-component@1.1.27
+- pkg:maven/org.talend.sdk.component/code-component@1.1.27?classifier=sources
 - pkg:maven/org.talend.sdk.component/code-component@1.1.9
 - pkg:maven/org.talend.sdk.component/code-component@1.1.9?classifier=sources

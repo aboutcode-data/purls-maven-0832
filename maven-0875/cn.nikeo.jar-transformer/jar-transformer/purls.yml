@@ -1,0 +1,1 @@
+- pkg:maven/cn.nikeo.jar-transformer/jar-transformer@1.0.0?classifier=sources

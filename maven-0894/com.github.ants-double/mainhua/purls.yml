@@ -8,3 +8,7 @@
 - pkg:maven/com.github.ants-double/mainhua@1.03-RELEASE?classifier=sources
 - pkg:maven/com.github.ants-double/mainhua@1.04
 - pkg:maven/com.github.ants-double/mainhua@1.04?classifier=sources
+- pkg:maven/com.github.ants-double/mainhua@1.06
+- pkg:maven/com.github.ants-double/mainhua@1.06?classifier=sources
+- pkg:maven/com.github.ants-double/mainhua@1.07
+- pkg:maven/com.github.ants-double/mainhua@1.07?classifier=sources

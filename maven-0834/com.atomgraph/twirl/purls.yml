@@ -1,0 +1,2 @@
+- pkg:maven/com.atomgraph/twirl@1.0.17
+- pkg:maven/com.atomgraph/twirl@1.0.17?classifier=sources

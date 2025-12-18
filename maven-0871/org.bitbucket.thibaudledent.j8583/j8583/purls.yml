@@ -1,6 +1,8 @@
 - pkg:maven/org.bitbucket.thibaudledent.j8583/j8583@1.13.0
 - pkg:maven/org.bitbucket.thibaudledent.j8583/j8583@1.13.0?classifier=sources
 - pkg:maven/org.bitbucket.thibaudledent.j8583/j8583@1.13.1
+- pkg:maven/org.bitbucket.thibaudledent.j8583/j8583@1.13.10
+- pkg:maven/org.bitbucket.thibaudledent.j8583/j8583@1.13.10?classifier=sources
 - pkg:maven/org.bitbucket.thibaudledent.j8583/j8583@1.13.1?classifier=sources
 - pkg:maven/org.bitbucket.thibaudledent.j8583/j8583@1.13.2
 - pkg:maven/org.bitbucket.thibaudledent.j8583/j8583@1.13.2?classifier=sources

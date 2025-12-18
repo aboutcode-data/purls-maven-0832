@@ -109,3 +109,5 @@
 - pkg:maven/org.ujorm/ujo-orm@2.03?classifier=sources
 - pkg:maven/org.ujorm/ujo-orm@2.04
 - pkg:maven/org.ujorm/ujo-orm@2.04?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@2.05
+- pkg:maven/org.ujorm/ujo-orm@2.05?classifier=sources

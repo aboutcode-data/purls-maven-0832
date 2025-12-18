@@ -16,10 +16,14 @@
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.4.9
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.0
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.1
+- pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.10
+- pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.11
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.2
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.3
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.4
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.5
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.6
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.7
+- pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.8
+- pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.9
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@1.4.7

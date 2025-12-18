@@ -1,0 +1,4 @@
+- pkg:maven/com.ticketmaster.voltron/voltron-sharedmodels-discoveryshared@0.0.8?classifier=sources
+- pkg:maven/com.ticketmaster.voltron/voltron-sharedmodels-discoveryshared@0.0.8?type=aar
+- pkg:maven/com.ticketmaster.voltron/voltron-sharedmodels-discoveryshared@0.0.9?classifier=sources
+- pkg:maven/com.ticketmaster.voltron/voltron-sharedmodels-discoveryshared@0.0.9?type=aar

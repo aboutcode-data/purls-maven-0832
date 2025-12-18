@@ -1,0 +1,3 @@
+- pkg:maven/cn.nikeo.permisos/permisos-gradle@0.3.0?classifier=sources
+- pkg:maven/cn.nikeo.permisos/permisos-gradle@0.4.0?classifier=sources
+- pkg:maven/cn.nikeo.permisos/permisos-gradle@0.5.0?classifier=sources

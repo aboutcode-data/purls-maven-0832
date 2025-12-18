@@ -4,3 +4,4 @@
 - pkg:maven/com.google.apis/google-api-services-vectortile@v1-rev20200622-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vectortile@v1-rev20200808-1.30.10
 - pkg:maven/com.google.apis/google-api-services-vectortile@v1-rev20200808-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vectortile@v1-rev20201202-1.31.0

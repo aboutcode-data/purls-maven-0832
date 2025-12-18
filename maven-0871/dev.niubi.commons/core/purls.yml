@@ -9,4 +9,5 @@
 - pkg:maven/dev.niubi.commons/core@0.7?classifier=sources
 - pkg:maven/dev.niubi.commons/core@0.8.1?classifier=sources
 - pkg:maven/dev.niubi.commons/core@0.8.2?classifier=sources
+- pkg:maven/dev.niubi.commons/core@0.8.3?classifier=sources
 - pkg:maven/dev.niubi.commons/core@0.8?classifier=sources

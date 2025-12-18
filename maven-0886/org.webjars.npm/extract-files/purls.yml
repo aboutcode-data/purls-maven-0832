@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/extract-files@9.0.0
+- pkg:maven/org.webjars.npm/extract-files@9.0.0?classifier=sources

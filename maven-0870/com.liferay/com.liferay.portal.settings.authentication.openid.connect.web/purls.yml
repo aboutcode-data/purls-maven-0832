@@ -94,6 +94,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@4.0.8
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@4.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.0
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.1
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.1?classifier=sources-commercial
@@ -106,3 +109,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.4
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.5
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.6
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.openid.connect.web@5.0.6?classifier=sources-commercial

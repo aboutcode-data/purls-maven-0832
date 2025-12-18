@@ -18,3 +18,7 @@
 - pkg:maven/org.webjars.npm/eslint@6.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/eslint@7.0.0
 - pkg:maven/org.webjars.npm/eslint@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/eslint@7.11.0
+- pkg:maven/org.webjars.npm/eslint@7.11.0?classifier=sources
+- pkg:maven/org.webjars.npm/eslint@7.14.0
+- pkg:maven/org.webjars.npm/eslint@7.14.0?classifier=sources

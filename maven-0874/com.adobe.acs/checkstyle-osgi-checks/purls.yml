@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.acs/checkstyle-osgi-checks@0.0.3
+- pkg:maven/com.adobe.acs/checkstyle-osgi-checks@0.0.3?classifier=sources

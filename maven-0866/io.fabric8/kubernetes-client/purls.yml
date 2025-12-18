@@ -392,6 +392,10 @@
 - pkg:maven/io.fabric8/kubernetes-client@4.11.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-client@4.11.1
 - pkg:maven/io.fabric8/kubernetes-client@4.11.1?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-client@4.12.0
+- pkg:maven/io.fabric8/kubernetes-client@4.12.0?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-client@4.13.0
+- pkg:maven/io.fabric8/kubernetes-client@4.13.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-client@4.2.0
 - pkg:maven/io.fabric8/kubernetes-client@4.2.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-client@4.2.1
@@ -436,3 +440,7 @@
 - pkg:maven/io.fabric8/kubernetes-client@4.9.1?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-client@4.9.2
 - pkg:maven/io.fabric8/kubernetes-client@4.9.2?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-client@5.0.0-alpha-1
+- pkg:maven/io.fabric8/kubernetes-client@5.0.0-alpha-1?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-client@5.0.0-alpha-2
+- pkg:maven/io.fabric8/kubernetes-client@5.0.0-alpha-2?classifier=sources

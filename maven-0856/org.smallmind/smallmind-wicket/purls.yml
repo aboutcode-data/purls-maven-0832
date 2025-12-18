@@ -186,3 +186,7 @@
 - pkg:maven/org.smallmind/smallmind-wicket@4.0.0?classifier=sources
 - pkg:maven/org.smallmind/smallmind-wicket@4.1.0
 - pkg:maven/org.smallmind/smallmind-wicket@4.1.0?classifier=sources
+- pkg:maven/org.smallmind/smallmind-wicket@4.2.0
+- pkg:maven/org.smallmind/smallmind-wicket@4.2.0?classifier=sources
+- pkg:maven/org.smallmind/smallmind-wicket@4.3.0
+- pkg:maven/org.smallmind/smallmind-wicket@4.3.0?classifier=sources

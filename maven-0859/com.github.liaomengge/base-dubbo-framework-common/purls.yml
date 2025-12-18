@@ -1,0 +1,2 @@
+- pkg:maven/com.github.liaomengge/base-dubbo-framework-common@1.2.0-RELEASE
+- pkg:maven/com.github.liaomengge/base-dubbo-framework-common@1.2.0-RELEASE?classifier=sources

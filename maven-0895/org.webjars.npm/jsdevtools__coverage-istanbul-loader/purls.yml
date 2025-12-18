@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jsdevtools__coverage-istanbul-loader@3.0.3
+- pkg:maven/org.webjars.npm/jsdevtools__coverage-istanbul-loader@3.0.3?classifier=sources

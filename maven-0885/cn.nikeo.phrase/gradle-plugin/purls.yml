@@ -1,0 +1,4 @@
+- pkg:maven/cn.nikeo.phrase/gradle-plugin@1.0.0?classifier=sources
+- pkg:maven/cn.nikeo.phrase/gradle-plugin@1.1.0?classifier=sources
+- pkg:maven/cn.nikeo.phrase/gradle-plugin@1.1.1?classifier=sources
+- pkg:maven/cn.nikeo.phrase/gradle-plugin@1.1.2?classifier=sources

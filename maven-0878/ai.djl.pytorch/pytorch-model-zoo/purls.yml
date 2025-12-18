@@ -8,3 +8,5 @@
 - pkg:maven/ai.djl.pytorch/pytorch-model-zoo@0.6.0?classifier=sources
 - pkg:maven/ai.djl.pytorch/pytorch-model-zoo@0.7.0
 - pkg:maven/ai.djl.pytorch/pytorch-model-zoo@0.7.0?classifier=sources
+- pkg:maven/ai.djl.pytorch/pytorch-model-zoo@0.8.0
+- pkg:maven/ai.djl.pytorch/pytorch-model-zoo@0.8.0?classifier=sources

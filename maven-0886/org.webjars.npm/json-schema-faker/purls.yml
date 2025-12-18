@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc15?classifier=sources
 - pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc16
 - pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rc16?classifier=sources
+- pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rcv.29
+- pkg:maven/org.webjars.npm/json-schema-faker@0.5.0-rcv.29?classifier=sources

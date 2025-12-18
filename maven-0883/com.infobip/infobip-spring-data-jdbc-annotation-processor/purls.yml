@@ -1,0 +1,2 @@
+- pkg:maven/com.infobip/infobip-spring-data-jdbc-annotation-processor@4.0.0
+- pkg:maven/com.infobip/infobip-spring-data-jdbc-annotation-processor@4.0.0?classifier=sources

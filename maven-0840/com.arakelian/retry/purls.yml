@@ -12,5 +12,7 @@
 - pkg:maven/com.arakelian/retry@3.7.0?classifier=sources
 - pkg:maven/com.arakelian/retry@3.8.0
 - pkg:maven/com.arakelian/retry@3.8.0?classifier=sources
+- pkg:maven/com.arakelian/retry@3.9.0
+- pkg:maven/com.arakelian/retry@3.9.0?classifier=sources
 - pkg:maven/com.arakelian/retry@unspecified
 - pkg:maven/com.arakelian/retry@unspecified?classifier=sources

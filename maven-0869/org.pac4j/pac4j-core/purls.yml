@@ -108,6 +108,8 @@
 - pkg:maven/org.pac4j/pac4j-core@3.8.2?classifier=sources
 - pkg:maven/org.pac4j/pac4j-core@3.8.3
 - pkg:maven/org.pac4j/pac4j-core@3.8.3?classifier=sources
+- pkg:maven/org.pac4j/pac4j-core@3.9.0
+- pkg:maven/org.pac4j/pac4j-core@3.9.0?classifier=sources
 - pkg:maven/org.pac4j/pac4j-core@4.0.0
 - pkg:maven/org.pac4j/pac4j-core@4.0.0-RC1
 - pkg:maven/org.pac4j/pac4j-core@4.0.0-RC1?classifier=sources
@@ -122,3 +124,7 @@
 - pkg:maven/org.pac4j/pac4j-core@4.0.2?classifier=sources
 - pkg:maven/org.pac4j/pac4j-core@4.0.3
 - pkg:maven/org.pac4j/pac4j-core@4.0.3?classifier=sources
+- pkg:maven/org.pac4j/pac4j-core@4.1.0
+- pkg:maven/org.pac4j/pac4j-core@4.1.0?classifier=sources
+- pkg:maven/org.pac4j/pac4j-core@4.2.0
+- pkg:maven/org.pac4j/pac4j-core@4.2.0?classifier=sources

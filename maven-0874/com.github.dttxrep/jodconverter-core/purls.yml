@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dttxrep/jodconverter-core@1.0.1
+- pkg:maven/com.github.dttxrep/jodconverter-core@1.0.1?classifier=sources

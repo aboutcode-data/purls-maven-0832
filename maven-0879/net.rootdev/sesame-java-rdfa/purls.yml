@@ -1,0 +1,2 @@
+- pkg:maven/net.rootdev/sesame-java-rdfa@1.0.0-BETA1
+- pkg:maven/net.rootdev/sesame-java-rdfa@1.0.0-BETA1?classifier=sources

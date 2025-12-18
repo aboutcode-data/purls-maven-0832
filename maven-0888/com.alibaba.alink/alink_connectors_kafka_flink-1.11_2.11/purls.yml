@@ -1,2 +1,4 @@
 - pkg:maven/com.alibaba.alink/alink_connectors_kafka_flink-1.11_2.11@1.2.0
 - pkg:maven/com.alibaba.alink/alink_connectors_kafka_flink-1.11_2.11@1.2.0?classifier=sources
+- pkg:maven/com.alibaba.alink/alink_connectors_kafka_flink-1.11_2.11@1.3.0
+- pkg:maven/com.alibaba.alink/alink_connectors_kafka_flink-1.11_2.11@1.3.0?classifier=sources

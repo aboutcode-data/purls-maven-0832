@@ -20,3 +20,4 @@
 - pkg:maven/com.uwetrottmann.seriesguide/seriesguide-api@2.0.2?type=aar
 - pkg:maven/com.uwetrottmann.seriesguide/seriesguide-api@2.0.3?classifier=sources
 - pkg:maven/com.uwetrottmann.seriesguide/seriesguide-api@2.0.3?type=aar
+- pkg:maven/com.uwetrottmann.seriesguide/seriesguide-api@2.1.0?classifier=sources

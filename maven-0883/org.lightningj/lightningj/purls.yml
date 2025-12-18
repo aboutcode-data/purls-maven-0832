@@ -10,6 +10,8 @@
 - pkg:maven/org.lightningj/lightningj@0.10.1-Beta?classifier=sources
 - pkg:maven/org.lightningj/lightningj@0.11.0-Beta
 - pkg:maven/org.lightningj/lightningj@0.11.0-Beta?classifier=sources
+- pkg:maven/org.lightningj/lightningj@0.11.1-Beta
+- pkg:maven/org.lightningj/lightningj@0.11.1-Beta?classifier=sources
 - pkg:maven/org.lightningj/lightningj@0.2-Beta
 - pkg:maven/org.lightningj/lightningj@0.2-Beta?classifier=sources
 - pkg:maven/org.lightningj/lightningj@0.3-Beta

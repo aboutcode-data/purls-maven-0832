@@ -1,2 +1,4 @@
 - pkg:maven/dev.dirs/directories@20
 - pkg:maven/dev.dirs/directories@20?classifier=sources
+- pkg:maven/dev.dirs/directories@21
+- pkg:maven/dev.dirs/directories@21?classifier=sources

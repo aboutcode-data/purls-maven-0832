@@ -1,0 +1,4 @@
+- pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@3.0.0-alpha-1?classifier=sources
+- pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@3.0.0-alpha-2?classifier=sources
+- pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@3.0.0-alpha-3?classifier=sources
+- pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@3.0.0?classifier=sources

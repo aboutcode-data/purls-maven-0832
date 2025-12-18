@@ -1,0 +1,1 @@
+- pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-core@1.7.0.Alpha5?classifier=sources

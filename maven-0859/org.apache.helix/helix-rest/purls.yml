@@ -18,6 +18,8 @@
 - pkg:maven/org.apache.helix/helix-rest@0.9.4?classifier=sources
 - pkg:maven/org.apache.helix/helix-rest@0.9.7
 - pkg:maven/org.apache.helix/helix-rest@0.9.7?classifier=sources
+- pkg:maven/org.apache.helix/helix-rest@0.9.8
+- pkg:maven/org.apache.helix/helix-rest@0.9.8?classifier=sources
 - pkg:maven/org.apache.helix/helix-rest@1.0.0
 - pkg:maven/org.apache.helix/helix-rest@1.0.0?classifier=sources
 - pkg:maven/org.apache.helix/helix-rest@1.0.1

@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-ipam@2020-11-19
+- pkg:maven/com.aliyun/aliyun-java-sdk-ipam@2020-11-19?classifier=sources

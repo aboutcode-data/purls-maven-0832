@@ -1,0 +1,4 @@
+- pkg:maven/org.scodec/scodec-bits_3.0.0-M2@1.1-16-9eaa053
+- pkg:maven/org.scodec/scodec-bits_3.0.0-M2@1.1-16-9eaa053?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_3.0.0-M2@1.1.22
+- pkg:maven/org.scodec/scodec-bits_3.0.0-M2@1.1.22?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/software.amazon.awssdk/sagemakerfeaturestoreruntime@2.15.37
+- pkg:maven/software.amazon.awssdk/sagemakerfeaturestoreruntime@2.15.37?classifier=sources
+- pkg:maven/software.amazon.awssdk/sagemakerfeaturestoreruntime@2.15.38
+- pkg:maven/software.amazon.awssdk/sagemakerfeaturestoreruntime@2.15.38?classifier=sources
+- pkg:maven/software.amazon.awssdk/sagemakerfeaturestoreruntime@2.15.39
+- pkg:maven/software.amazon.awssdk/sagemakerfeaturestoreruntime@2.15.39?classifier=sources
+- pkg:maven/software.amazon.awssdk/sagemakerfeaturestoreruntime@2.15.40
+- pkg:maven/software.amazon.awssdk/sagemakerfeaturestoreruntime@2.15.40?classifier=sources

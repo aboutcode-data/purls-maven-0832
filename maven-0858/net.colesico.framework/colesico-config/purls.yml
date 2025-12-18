@@ -70,3 +70,11 @@
 - pkg:maven/net.colesico.framework/colesico-config@3.9.0?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-config@3.9.1
 - pkg:maven/net.colesico.framework/colesico-config@3.9.1?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-config@3.9.2
+- pkg:maven/net.colesico.framework/colesico-config@3.9.2?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-config@4.0.0
+- pkg:maven/net.colesico.framework/colesico-config@4.0.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-config@4.1.0
+- pkg:maven/net.colesico.framework/colesico-config@4.1.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-config@4.1.1
+- pkg:maven/net.colesico.framework/colesico-config@4.1.1?classifier=sources

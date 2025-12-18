@@ -1,0 +1,2 @@
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.3.2
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.3.2?classifier=sources

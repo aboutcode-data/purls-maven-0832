@@ -22,3 +22,5 @@
 - pkg:maven/com.github.guilhe/circular-progress-view@1.4.1?type=aar
 - pkg:maven/com.github.guilhe/circular-progress-view@1.4.2?classifier=sources
 - pkg:maven/com.github.guilhe/circular-progress-view@1.4.2?type=aar
+- pkg:maven/com.github.guilhe/circular-progress-view@2.0.0?classifier=sources
+- pkg:maven/com.github.guilhe/circular-progress-view@2.0.0?type=aar

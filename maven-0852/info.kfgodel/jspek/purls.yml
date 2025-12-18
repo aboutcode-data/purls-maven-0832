@@ -1,2 +1,6 @@
+- pkg:maven/info.kfgodel/jspek@0.2.3-jdk8
+- pkg:maven/info.kfgodel/jspek@0.2.3-jdk8?classifier=sources
 - pkg:maven/info.kfgodel/jspek@1.0.0
 - pkg:maven/info.kfgodel/jspek@1.0.0?classifier=sources
+- pkg:maven/info.kfgodel/jspek@1.0.1
+- pkg:maven/info.kfgodel/jspek@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.retry/retry_sjs1_2.12@0.3.3
+- pkg:maven/com.softwaremill.retry/retry_sjs1_2.12@0.3.3?classifier=sources

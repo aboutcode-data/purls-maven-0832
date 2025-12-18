@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.activemq.examples.broker/interceptor-amqp@2.14.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/interceptor-amqp@2.15.0
 - pkg:maven/org.apache.activemq.examples.broker/interceptor-amqp@2.15.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/interceptor-amqp@2.16.0
+- pkg:maven/org.apache.activemq.examples.broker/interceptor-amqp@2.16.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/interceptor-amqp@2.5.0
 - pkg:maven/org.apache.activemq.examples.broker/interceptor-amqp@2.5.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/interceptor-amqp@2.6.0

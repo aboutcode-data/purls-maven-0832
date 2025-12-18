@@ -12,6 +12,8 @@
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.11?type=aar
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.12?classifier=sources
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.12?type=aar
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.13.1?classifier=sources
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.13.1?type=aar
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.13?classifier=sources
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.13?type=aar
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.5-beta?classifier=sources
@@ -32,3 +34,9 @@
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.9.2?type=aar
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.9?classifier=sources
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.4.9?type=aar
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.1?classifier=sources
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.1?type=aar
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.2?classifier=sources
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.2?type=aar
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.3?classifier=sources
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.3?type=aar

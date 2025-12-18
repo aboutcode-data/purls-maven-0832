@@ -1,0 +1,2 @@
+- pkg:maven/com.codecommit/coop_sjs1_0.27@0.7.2
+- pkg:maven/com.codecommit/coop_sjs1_0.27@0.7.2?classifier=sources

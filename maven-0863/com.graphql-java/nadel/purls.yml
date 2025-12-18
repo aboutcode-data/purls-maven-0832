@@ -282,3 +282,15 @@
 - pkg:maven/com.graphql-java/nadel@2020-07-15T07-48-21-1c8a62a?classifier=sources
 - pkg:maven/com.graphql-java/nadel@2020-08-27T05-01-00-0e1aaee
 - pkg:maven/com.graphql-java/nadel@2020-08-27T05-01-00-0e1aaee?classifier=sources
+- pkg:maven/com.graphql-java/nadel@2020-09-30T09-12-46-09d044d
+- pkg:maven/com.graphql-java/nadel@2020-09-30T09-12-46-09d044d?classifier=sources
+- pkg:maven/com.graphql-java/nadel@2020-10-07T00-59-43-29ec893
+- pkg:maven/com.graphql-java/nadel@2020-10-07T00-59-43-29ec893?classifier=sources
+- pkg:maven/com.graphql-java/nadel@2020-10-15T00-35-51-d7509c9
+- pkg:maven/com.graphql-java/nadel@2020-10-15T00-35-51-d7509c9?classifier=sources
+- pkg:maven/com.graphql-java/nadel@2020-11-13T01-22-05-5c3fef2
+- pkg:maven/com.graphql-java/nadel@2020-11-13T01-22-05-5c3fef2?classifier=sources
+- pkg:maven/com.graphql-java/nadel@2020-11-25T03-12-52-1cb1c2e
+- pkg:maven/com.graphql-java/nadel@2020-11-25T03-12-52-1cb1c2e?classifier=sources
+- pkg:maven/com.graphql-java/nadel@2020-12-02T03-54-17-6874e67
+- pkg:maven/com.graphql-java/nadel@2020-12-02T03-54-17-6874e67?classifier=sources

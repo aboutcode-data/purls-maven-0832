@@ -1,0 +1,2 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-profile@1.11.910
+- pkg:maven/com.amazonaws/aws-java-sdk-profile@1.11.910?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-webflux@2.3.0?classifier=sources
 - pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-webflux@2.3.1
 - pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-webflux@2.3.1?classifier=sources
+- pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-webflux@3.0.0
+- pkg:maven/com.zhokhov.graphql/graphql-datetime-autoconfigure-webflux@3.0.0?classifier=sources

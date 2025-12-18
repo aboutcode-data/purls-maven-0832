@@ -1,0 +1,2 @@
+- pkg:maven/org.citrusframework.yaks/yaks-http@0.1.0
+- pkg:maven/org.citrusframework.yaks/yaks-http@0.1.0?classifier=sources

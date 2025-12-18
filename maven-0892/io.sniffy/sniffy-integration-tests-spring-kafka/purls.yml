@@ -1,0 +1,2 @@
+- pkg:maven/io.sniffy/sniffy-integration-tests-spring-kafka@3.1.7
+- pkg:maven/io.sniffy/sniffy-integration-tests-spring-kafka@3.1.8

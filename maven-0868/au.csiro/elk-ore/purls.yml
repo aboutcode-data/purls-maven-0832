@@ -1,0 +1,2 @@
+- pkg:maven/au.csiro/elk-ore@0.5.0
+- pkg:maven/au.csiro/elk-ore@0.5.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/vip.mate/mate-starter-oss@1.6.8
+- pkg:maven/vip.mate/mate-starter-oss@1.6.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-oss@2.0.8
+- pkg:maven/vip.mate/mate-starter-oss@2.0.8?classifier=sources

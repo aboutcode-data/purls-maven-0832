@@ -1,0 +1,2 @@
+- pkg:maven/com.github.scullxbones/lift-testkit_2.13@3.4.3-LJ-patched
+- pkg:maven/com.github.scullxbones/lift-testkit_2.13@3.4.3-LJ-patched?classifier=sources

@@ -28,6 +28,8 @@
 - pkg:maven/net.mingsoft/ms-mdiy@1.0.22?classifier=sources
 - pkg:maven/net.mingsoft/ms-mdiy@1.0.23
 - pkg:maven/net.mingsoft/ms-mdiy@1.0.23?classifier=sources
+- pkg:maven/net.mingsoft/ms-mdiy@1.0.24
+- pkg:maven/net.mingsoft/ms-mdiy@1.0.24?classifier=sources
 - pkg:maven/net.mingsoft/ms-mdiy@1.0.4?classifier=sources
 - pkg:maven/net.mingsoft/ms-mdiy@1.0.4?type=war
 - pkg:maven/net.mingsoft/ms-mdiy@1.0.5?classifier=sources

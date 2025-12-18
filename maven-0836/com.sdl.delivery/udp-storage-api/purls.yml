@@ -1,2 +1,4 @@
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.1.0-1029
+- pkg:maven/com.sdl.delivery/udp-storage-api@11.1.0-1029?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-storage-api@11.5.0-1048
 - pkg:maven/com.sdl.delivery/udp-storage-api@11.5.0-1048?classifier=sources

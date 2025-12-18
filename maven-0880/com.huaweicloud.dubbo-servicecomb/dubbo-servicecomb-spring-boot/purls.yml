@@ -1,0 +1,4 @@
+- pkg:maven/com.huaweicloud.dubbo-servicecomb/dubbo-servicecomb-spring-boot@1.1.3
+- pkg:maven/com.huaweicloud.dubbo-servicecomb/dubbo-servicecomb-spring-boot@1.1.3?classifier=sources
+- pkg:maven/com.huaweicloud.dubbo-servicecomb/dubbo-servicecomb-spring-boot@1.3.3
+- pkg:maven/com.huaweicloud.dubbo-servicecomb/dubbo-servicecomb-spring-boot@1.3.3?classifier=sources

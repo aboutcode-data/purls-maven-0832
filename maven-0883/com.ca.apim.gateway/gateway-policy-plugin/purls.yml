@@ -1,0 +1,6 @@
+- pkg:maven/com.ca.apim.gateway/gateway-policy-plugin@0.10.17
+- pkg:maven/com.ca.apim.gateway/gateway-policy-plugin@0.10.17?classifier=sources
+- pkg:maven/com.ca.apim.gateway/gateway-policy-plugin@1.0.0
+- pkg:maven/com.ca.apim.gateway/gateway-policy-plugin@1.0.0?classifier=sources
+- pkg:maven/com.ca.apim.gateway/gateway-policy-plugin@1.0.2
+- pkg:maven/com.ca.apim.gateway/gateway-policy-plugin@1.0.2?classifier=sources

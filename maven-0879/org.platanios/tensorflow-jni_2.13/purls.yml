@@ -1,0 +1,10 @@
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.10
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.10?classifier=sources
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.5
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.5?classifier=sources
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.7
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.7?classifier=sources
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.8
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.8?classifier=sources
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.9
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.5.9?classifier=sources

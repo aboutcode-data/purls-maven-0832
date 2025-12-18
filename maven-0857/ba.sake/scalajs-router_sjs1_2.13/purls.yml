@@ -1,0 +1,12 @@
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.4
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.4?classifier=sources
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.5
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.5?classifier=sources
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.6
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.6?classifier=sources
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.7
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.7?classifier=sources
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.8
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.8?classifier=sources
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.9
+- pkg:maven/ba.sake/scalajs-router_sjs1_2.13@0.0.9?classifier=sources

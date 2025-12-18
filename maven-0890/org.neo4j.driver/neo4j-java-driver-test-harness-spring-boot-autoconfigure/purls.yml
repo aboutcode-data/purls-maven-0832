@@ -10,3 +10,5 @@
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-test-harness-spring-boot-autoconfigure@4.0.3.0?classifier=sources
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-test-harness-spring-boot-autoconfigure@4.1.1.0
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-test-harness-spring-boot-autoconfigure@4.1.1.0?classifier=sources
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-test-harness-spring-boot-autoconfigure@4.1.1.1
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-test-harness-spring-boot-autoconfigure@4.1.1.1?classifier=sources

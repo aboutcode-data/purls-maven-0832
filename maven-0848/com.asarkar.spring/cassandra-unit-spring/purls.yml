@@ -1,0 +1,4 @@
+- pkg:maven/com.asarkar.spring/cassandra-unit-spring@1.0.7
+- pkg:maven/com.asarkar.spring/cassandra-unit-spring@1.0.7?classifier=sources
+- pkg:maven/com.asarkar.spring/cassandra-unit-spring@2.0.0
+- pkg:maven/com.asarkar.spring/cassandra-unit-spring@2.0.0?classifier=sources

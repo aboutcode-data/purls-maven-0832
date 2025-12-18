@@ -6,7 +6,11 @@
 - pkg:maven/com.squareup.misk/misk-datadog@0.12.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-datadog@0.13.0
 - pkg:maven/com.squareup.misk/misk-datadog@0.13.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-datadog@0.14.0
 - pkg:maven/com.squareup.misk/misk-datadog@0.14.0-20200811-6a7f7cbb?classifier=sources
+- pkg:maven/com.squareup.misk/misk-datadog@0.14.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-datadog@0.15.0
+- pkg:maven/com.squareup.misk/misk-datadog@0.15.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-datadog@0.8.0
 - pkg:maven/com.squareup.misk/misk-datadog@0.8.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-datadog@0.9.0

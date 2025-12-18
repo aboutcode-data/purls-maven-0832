@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/glslify@6.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/glslify@7.0.0
 - pkg:maven/org.webjars.npm/glslify@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/glslify@7.1.1
+- pkg:maven/org.webjars.npm/glslify@7.1.1?classifier=sources

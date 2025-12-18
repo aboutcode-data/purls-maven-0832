@@ -4,3 +4,5 @@
 - pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.0.4?classifier=sources
 - pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.0.5
 - pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.0.5?classifier=sources
+- pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.0.6
+- pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.0.6?classifier=sources

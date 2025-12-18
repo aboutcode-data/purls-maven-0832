@@ -1,6 +1,12 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.10
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.10.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.10.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.10.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.10.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.10?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.2
 - pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc@1.0.2?classifier=sources

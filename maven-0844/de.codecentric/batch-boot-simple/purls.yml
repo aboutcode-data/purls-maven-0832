@@ -8,3 +8,5 @@
 - pkg:maven/de.codecentric/batch-boot-simple@2.0.3.RELEASE?classifier=sources
 - pkg:maven/de.codecentric/batch-boot-simple@2.0.4.RELEASE
 - pkg:maven/de.codecentric/batch-boot-simple@2.0.4.RELEASE?classifier=sources
+- pkg:maven/de.codecentric/batch-boot-simple@2.1.0.RELEASE
+- pkg:maven/de.codecentric/batch-boot-simple@2.1.0.RELEASE?classifier=sources

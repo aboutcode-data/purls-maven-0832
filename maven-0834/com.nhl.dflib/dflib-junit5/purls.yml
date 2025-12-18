@@ -1,2 +1,6 @@
+- pkg:maven/com.nhl.dflib/dflib-junit5@0.10
+- pkg:maven/com.nhl.dflib/dflib-junit5@0.10?classifier=sources
 - pkg:maven/com.nhl.dflib/dflib-junit5@0.8
 - pkg:maven/com.nhl.dflib/dflib-junit5@0.8?classifier=sources
+- pkg:maven/com.nhl.dflib/dflib-junit5@0.9
+- pkg:maven/com.nhl.dflib/dflib-junit5@0.9?classifier=sources

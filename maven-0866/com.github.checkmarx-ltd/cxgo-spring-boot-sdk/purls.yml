@@ -1,0 +1,10 @@
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.38
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.38?classifier=sources
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.39
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.39?classifier=sources
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.40
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.40?classifier=sources
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.41
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.41?classifier=sources
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.42
+- pkg:maven/com.github.checkmarx-ltd/cxgo-spring-boot-sdk@0.1.42?classifier=sources

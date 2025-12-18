@@ -64,3 +64,15 @@
 - pkg:maven/com.sndyuk/logback-more-appenders@1.8.0-JAVA9MODULE_SLF4J17
 - pkg:maven/com.sndyuk/logback-more-appenders@1.8.0-JAVA9MODULE_SLF4J17?classifier=sources
 - pkg:maven/com.sndyuk/logback-more-appenders@1.8.0?classifier=sources
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.1
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.1-JAVA9MODULE_SLF4J17
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.1-JAVA9MODULE_SLF4J17?classifier=sources
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.1?classifier=sources
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.2
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.2-JAVA9MODULE_SLF4J17
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.2-JAVA9MODULE_SLF4J17?classifier=sources
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.2?classifier=sources
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.3
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.3-JAVA9MODULE_SLF4J17
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.3-JAVA9MODULE_SLF4J17?classifier=sources
+- pkg:maven/com.sndyuk/logback-more-appenders@1.8.3?classifier=sources

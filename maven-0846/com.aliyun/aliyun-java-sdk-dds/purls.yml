@@ -24,3 +24,9 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.2.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.3.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.3.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.3.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.3.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.4.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.4.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.4.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.4.1?classifier=sources

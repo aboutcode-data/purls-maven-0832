@@ -2,3 +2,5 @@
 - pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@5.0.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@5.2.0
 - pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@5.2.0?classifier=sources
+- pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@7.0.0
+- pkg:maven/com.devonfw.cobigen/cobigen-maven-plugin@7.0.0?classifier=sources

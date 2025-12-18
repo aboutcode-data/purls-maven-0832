@@ -4,6 +4,8 @@
 - pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.10.1?classifier=sources
 - pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.10.2
 - pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.10.2?classifier=sources
+- pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.10.3
+- pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.10.3?classifier=sources
 - pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.9.1
 - pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.9.10
 - pkg:maven/se.jguru.shared.service.spi.camel/jguru-shared-service-spi-camel@0.9.10?classifier=sources

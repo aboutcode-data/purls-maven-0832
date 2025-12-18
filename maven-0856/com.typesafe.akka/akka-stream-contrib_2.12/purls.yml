@@ -17,6 +17,8 @@
 - pkg:maven/com.typesafe.akka/akka-stream-contrib_2.12@0.11%2B2-9a997928?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-stream-contrib_2.12@0.11%2B3-08ccb218
 - pkg:maven/com.typesafe.akka/akka-stream-contrib_2.12@0.11%2B3-08ccb218?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-stream-contrib_2.12@0.11%2B4-91b2f9fa
+- pkg:maven/com.typesafe.akka/akka-stream-contrib_2.12@0.11%2B4-91b2f9fa?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-stream-contrib_2.12@0.11?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-stream-contrib_2.12@0.5
 - pkg:maven/com.typesafe.akka/akka-stream-contrib_2.12@0.5?classifier=sources

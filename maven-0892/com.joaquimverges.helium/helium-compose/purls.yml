@@ -1,0 +1,2 @@
+- pkg:maven/com.joaquimverges.helium/helium-compose@0.7.0?classifier=sources
+- pkg:maven/com.joaquimverges.helium/helium-compose@0.7.0?type=aar

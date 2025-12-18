@@ -16,3 +16,4 @@
 - pkg:maven/com.ibm.mq/wmq.jmsra.ivt@9.1.4.0?classifier=sources
 - pkg:maven/com.ibm.mq/wmq.jmsra.ivt@9.1.5.0?classifier=sources
 - pkg:maven/com.ibm.mq/wmq.jmsra.ivt@9.2.0.0?classifier=sources
+- pkg:maven/com.ibm.mq/wmq.jmsra.ivt@9.2.0.1?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.tinder.scarlet/lifecycle-android@0.1.10?classifier=sources
 - pkg:maven/com.tinder.scarlet/lifecycle-android@0.1.10?type=aar
+- pkg:maven/com.tinder.scarlet/lifecycle-android@0.1.11?classifier=sources
+- pkg:maven/com.tinder.scarlet/lifecycle-android@0.1.11?type=aar
 - pkg:maven/com.tinder.scarlet/lifecycle-android@0.1.8?classifier=sources
 - pkg:maven/com.tinder.scarlet/lifecycle-android@0.1.8?type=aar
 - pkg:maven/com.tinder.scarlet/lifecycle-android@0.1.9?classifier=sources

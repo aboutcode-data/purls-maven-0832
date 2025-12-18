@@ -1,2 +1,4 @@
 - pkg:maven/nl.thanus/reboot-core@0.1.0
 - pkg:maven/nl.thanus/reboot-core@0.1.0?classifier=sources
+- pkg:maven/nl.thanus/reboot-core@1.0.0
+- pkg:maven/nl.thanus/reboot-core@1.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.day.cq/cq-analytics@5.4.4?classifier=sources
+- pkg:maven/com.day.cq/cq-analytics@5.5.6?classifier=sources
+- pkg:maven/com.day.cq/cq-analytics@5.6.12?classifier=sources
+- pkg:maven/com.day.cq/cq-analytics@5.6.16?classifier=sources
+- pkg:maven/com.day.cq/cq-analytics@5.6.2?classifier=sources
+- pkg:maven/com.day.cq/cq-analytics@5.6.4?classifier=sources

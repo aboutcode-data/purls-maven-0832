@@ -23,3 +23,5 @@
 - pkg:maven/com.manydesigns/portofino-war-archetype@5.1.2?classifier=sources
 - pkg:maven/com.manydesigns/portofino-war-archetype@5.1.3?classifier=sources
 - pkg:maven/com.manydesigns/portofino-war-archetype@5.1.4?classifier=sources
+- pkg:maven/com.manydesigns/portofino-war-archetype@5.2.0-archetype-fix?classifier=sources
+- pkg:maven/com.manydesigns/portofino-war-archetype@5.2.0?classifier=sources

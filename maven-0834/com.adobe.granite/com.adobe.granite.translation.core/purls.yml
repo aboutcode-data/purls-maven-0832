@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.translation.core@1.0.22?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.translation.core@1.1.20?classifier=sources
