@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatra/scalatra-specs2-javax_2.13@3.0.0-RC1
+- pkg:maven/org.scalatra/scalatra-specs2-javax_2.13@3.0.0-RC1?classifier=sources

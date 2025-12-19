@@ -26,5 +26,7 @@
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.13.7?classifier=sources
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.13.9
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.13.9?classifier=sources
+- pkg:maven/org.webjars.npm/regenerator-runtime@0.14.0
+- pkg:maven/org.webjars.npm/regenerator-runtime@0.14.0?classifier=sources
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.9.5
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.9.5?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.webjars.npm/uportal__content-renderer@1.40.0?classifier=sources
 - pkg:maven/org.webjars.npm/uportal__content-renderer@1.40.1
 - pkg:maven/org.webjars.npm/uportal__content-renderer@1.40.1?classifier=sources
+- pkg:maven/org.webjars.npm/uportal__content-renderer@1.40.2
+- pkg:maven/org.webjars.npm/uportal__content-renderer@1.40.2?classifier=sources

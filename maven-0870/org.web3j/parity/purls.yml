@@ -53,6 +53,7 @@
 - pkg:maven/org.web3j/parity@4.10.0?classifier=sources
 - pkg:maven/org.web3j/parity@4.10.1?classifier=sources
 - pkg:maven/org.web3j/parity@4.10.2?classifier=sources
+- pkg:maven/org.web3j/parity@4.10.3?classifier=sources
 - pkg:maven/org.web3j/parity@4.2.0
 - pkg:maven/org.web3j/parity@4.2.0-android
 - pkg:maven/org.web3j/parity@4.2.0-android?classifier=sources

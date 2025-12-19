@@ -8,6 +8,10 @@
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.10.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.10.4
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.10.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.10.5
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.10.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.10.6
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.10.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.5.0
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.5.1
@@ -260,6 +264,8 @@
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.1.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.1.1
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.1.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.1.2
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.1.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.0.0
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.0.1
@@ -391,6 +397,12 @@
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.19?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.2
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.20
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.20?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.21
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.21?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.22
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.22?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.3
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.3?classifier=sources

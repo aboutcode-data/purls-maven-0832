@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-knative-consumer-deployment@3.0.0-RC1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-knative-consumer-deployment@3.0.0-RC2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-knative-consumer-deployment@3.0.0-RC2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-knative-consumer-deployment@3.2.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-knative-consumer-deployment@3.2.0?classifier=sources

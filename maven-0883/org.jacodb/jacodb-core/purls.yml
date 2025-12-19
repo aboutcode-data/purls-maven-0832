@@ -6,3 +6,4 @@
 - pkg:maven/org.jacodb/jacodb-core@1.1.4?classifier=sources
 - pkg:maven/org.jacodb/jacodb-core@1.1.5?classifier=sources
 - pkg:maven/org.jacodb/jacodb-core@1.2.0?classifier=sources
+- pkg:maven/org.jacodb/jacodb-core@1.2.1?classifier=sources

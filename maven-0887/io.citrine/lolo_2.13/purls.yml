@@ -36,3 +36,5 @@
 - pkg:maven/io.citrine/lolo_2.13@6.0.3?classifier=sources
 - pkg:maven/io.citrine/lolo_2.13@6.1.0
 - pkg:maven/io.citrine/lolo_2.13@6.1.0?classifier=sources
+- pkg:maven/io.citrine/lolo_2.13@6.1.1
+- pkg:maven/io.citrine/lolo_2.13@6.1.1?classifier=sources

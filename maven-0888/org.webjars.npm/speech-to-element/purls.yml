@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/speech-to-element@0.1.66
+- pkg:maven/org.webjars.npm/speech-to-element@0.1.66?classifier=sources

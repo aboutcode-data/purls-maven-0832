@@ -1,0 +1,2 @@
+- pkg:maven/edu.uiuc.ncsa.myproxy/oauth2@5.3.5
+- pkg:maven/edu.uiuc.ncsa.myproxy/oauth2@5.3.5?classifier=sources

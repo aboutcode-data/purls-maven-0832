@@ -1,2 +1,4 @@
 - pkg:maven/hu.simplexion.z2/z2-service-ktor@2023.7.24?classifier=sources
 - pkg:maven/hu.simplexion.z2/z2-service-ktor@2023.7.28?classifier=sources
+- pkg:maven/hu.simplexion.z2/z2-service-ktor@2023.8.15?classifier=sources
+- pkg:maven/hu.simplexion.z2/z2-service-ktor@2023.8.18?classifier=sources

@@ -101,3 +101,6 @@
 - pkg:maven/io.freefair.gradle/code-generator-api@8.0.0-rc4?classifier=sources
 - pkg:maven/io.freefair.gradle/code-generator-api@8.0.1?classifier=sources
 - pkg:maven/io.freefair.gradle/code-generator-api@8.1.0?classifier=sources
+- pkg:maven/io.freefair.gradle/code-generator-api@8.2.1?classifier=sources
+- pkg:maven/io.freefair.gradle/code-generator-api@8.2.2?classifier=sources
+- pkg:maven/io.freefair.gradle/code-generator-api@8.3?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.scalameta/metals_2.13@0.11.9?classifier=sources
 - pkg:maven/org.scalameta/metals_2.13@1.0.0
 - pkg:maven/org.scalameta/metals_2.13@1.0.0?classifier=sources
+- pkg:maven/org.scalameta/metals_2.13@1.0.1
+- pkg:maven/org.scalameta/metals_2.13@1.0.1?classifier=sources

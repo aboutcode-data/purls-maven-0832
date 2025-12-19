@@ -36,3 +36,5 @@
 - pkg:maven/com.softwaremill.macwire/macros_2.12@2.5.7?classifier=sources
 - pkg:maven/com.softwaremill.macwire/macros_2.12@2.5.8
 - pkg:maven/com.softwaremill.macwire/macros_2.12@2.5.8?classifier=sources
+- pkg:maven/com.softwaremill.macwire/macros_2.12@2.5.9
+- pkg:maven/com.softwaremill.macwire/macros_2.12@2.5.9?classifier=sources

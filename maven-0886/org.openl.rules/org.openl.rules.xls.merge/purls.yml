@@ -1,2 +1,4 @@
 - pkg:maven/org.openl.rules/org.openl.rules.xls.merge@5.26.9
 - pkg:maven/org.openl.rules/org.openl.rules.xls.merge@5.26.9?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.xls.merge@5.27.0
+- pkg:maven/org.openl.rules/org.openl.rules.xls.merge@5.27.0?classifier=sources

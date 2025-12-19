@@ -17,3 +17,4 @@
 - pkg:maven/net.jqwik/jqwik-testing@1.7.2?classifier=sources
 - pkg:maven/net.jqwik/jqwik-testing@1.7.3?classifier=sources
 - pkg:maven/net.jqwik/jqwik-testing@1.7.4?classifier=sources
+- pkg:maven/net.jqwik/jqwik-testing@1.8.0?classifier=sources

@@ -240,6 +240,7 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.171
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.171?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.171?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.172?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.modules.ext@1.0.18

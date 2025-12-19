@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.dts.deliver/dts-deliver-common@1.0.0
+- pkg:maven/com.aliyun.dts.deliver/dts-deliver-common@1.0.0?classifier=sources

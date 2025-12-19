@@ -384,6 +384,8 @@
 - pkg:maven/org.apache.cassandra/cassandra-thrift@3.11.14?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-thrift@3.11.15
 - pkg:maven/org.apache.cassandra/cassandra-thrift@3.11.15?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-thrift@3.11.16
+- pkg:maven/org.apache.cassandra/cassandra-thrift@3.11.16?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-thrift@3.11.1?classifier=sources
 - pkg:maven/org.apache.cassandra/cassandra-thrift@3.11.2
 - pkg:maven/org.apache.cassandra/cassandra-thrift@3.11.2?classifier=sources

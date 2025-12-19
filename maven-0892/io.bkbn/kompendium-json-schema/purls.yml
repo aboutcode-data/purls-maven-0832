@@ -19,3 +19,4 @@
 - pkg:maven/io.bkbn/kompendium-json-schema@3.6.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-json-schema@3.8.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-json-schema@3.9.0?classifier=sources
+- pkg:maven/io.bkbn/kompendium-json-schema@4.0.0-alpha?classifier=sources

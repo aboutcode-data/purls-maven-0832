@@ -1,2 +1,4 @@
 - pkg:maven/dev.chrisbanes.material3/material3-window-size-class-multiplatform-iosx64@0.1.0?classifier=sources
 - pkg:maven/dev.chrisbanes.material3/material3-window-size-class-multiplatform-iosx64@0.2.0?classifier=sources
+- pkg:maven/dev.chrisbanes.material3/material3-window-size-class-multiplatform-iosx64@0.3.0?classifier=sources
+- pkg:maven/dev.chrisbanes.material3/material3-window-size-class-multiplatform-iosx64@0.3.1?classifier=sources

@@ -28,3 +28,7 @@
 - pkg:maven/org.mixql/mixql-core_3@0.6.3-java8
 - pkg:maven/org.mixql/mixql-core_3@0.6.3-java8?classifier=sources
 - pkg:maven/org.mixql/mixql-core_3@0.6.3?classifier=sources
+- pkg:maven/org.mixql/mixql-core_3@0.7.0
+- pkg:maven/org.mixql/mixql-core_3@0.7.0?classifier=sources
+- pkg:maven/org.mixql/mixql-core_3@0.8.0
+- pkg:maven/org.mixql/mixql-core_3@0.8.0?classifier=sources

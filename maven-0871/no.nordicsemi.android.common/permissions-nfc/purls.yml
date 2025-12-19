@@ -2,3 +2,4 @@
 - pkg:maven/no.nordicsemi.android.common/permissions-nfc@1.7.1?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/permissions-nfc@1.7.2?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/permissions-nfc@1.8.0?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/permissions-nfc@1.8.1?classifier=sources

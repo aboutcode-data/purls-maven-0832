@@ -26,6 +26,8 @@
 - pkg:maven/software.amazon.lambda/powertools-cloudformation@1.16.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-cloudformation@1.16.1
 - pkg:maven/software.amazon.lambda/powertools-cloudformation@1.16.1?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-cloudformation@1.17.0
+- pkg:maven/software.amazon.lambda/powertools-cloudformation@1.17.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-cloudformation@1.8.0
 - pkg:maven/software.amazon.lambda/powertools-cloudformation@1.8.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-cloudformation@1.8.1

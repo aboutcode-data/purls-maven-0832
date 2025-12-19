@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.skywalking/apm-grizzly-2.x-plugin@8.16.0
 - pkg:maven/org.apache.skywalking/apm-grizzly-2.x-plugin@8.16.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-grizzly-2.x-plugin@9.0.0
+- pkg:maven/org.apache.skywalking/apm-grizzly-2.x-plugin@9.0.0?classifier=sources

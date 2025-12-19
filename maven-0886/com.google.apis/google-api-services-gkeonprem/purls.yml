@@ -8,3 +8,7 @@
 - pkg:maven/com.google.apis/google-api-services-gkeonprem@v1-rev20230517-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkeonprem@v1-rev20230607-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gkeonprem@v1-rev20230607-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkeonprem@v1-rev20230724-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkeonprem@v1-rev20230724-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkeonprem@v1-rev20230815-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkeonprem@v1-rev20230815-2.0.0?classifier=sources

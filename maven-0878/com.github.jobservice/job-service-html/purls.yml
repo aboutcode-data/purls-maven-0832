@@ -20,3 +20,4 @@
 - pkg:maven/com.github.jobservice/job-service-html@6.0.1-54?type=war
 - pkg:maven/com.github.jobservice/job-service-html@6.1.0-72?type=war
 - pkg:maven/com.github.jobservice/job-service-html@6.2.0-136?type=war
+- pkg:maven/com.github.jobservice/job-service-html@6.2.1-176?type=war

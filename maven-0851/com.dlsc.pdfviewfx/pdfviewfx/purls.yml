@@ -18,3 +18,5 @@
 - pkg:maven/com.dlsc.pdfviewfx/pdfviewfx@1.7.0?classifier=sources
 - pkg:maven/com.dlsc.pdfviewfx/pdfviewfx@1.9.0
 - pkg:maven/com.dlsc.pdfviewfx/pdfviewfx@1.9.0?classifier=sources
+- pkg:maven/com.dlsc.pdfviewfx/pdfviewfx@3.0.0
+- pkg:maven/com.dlsc.pdfviewfx/pdfviewfx@3.0.0?classifier=sources

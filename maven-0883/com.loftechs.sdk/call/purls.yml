@@ -10,4 +10,5 @@
 - pkg:maven/com.loftechs.sdk/call@5.2.4.2?classifier=sources
 - pkg:maven/com.loftechs.sdk/call@5.2.4.3?classifier=sources
 - pkg:maven/com.loftechs.sdk/call@5.2.6.1?classifier=sources
+- pkg:maven/com.loftechs.sdk/call@5.2.6.61?classifier=sources
 - pkg:maven/com.loftechs.sdk/call@5.2.6.6?classifier=sources

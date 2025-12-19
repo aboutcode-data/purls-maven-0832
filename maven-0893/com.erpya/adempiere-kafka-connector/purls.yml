@@ -1,0 +1,2 @@
+- pkg:maven/com.erpya/adempiere-kafka-connector@1.0.0?classifier=sources
+- pkg:maven/com.erpya/adempiere-kafka-connector@1.0.1?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@4.0.0-alpha.3?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@4.0.0-alpha.4?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@4.0.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@4.1.0?classifier=sources

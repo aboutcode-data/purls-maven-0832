@@ -75,6 +75,10 @@
 - pkg:maven/io.airlift/slice@0.44?classifier=sources
 - pkg:maven/io.airlift/slice@0.45
 - pkg:maven/io.airlift/slice@0.45?classifier=sources
+- pkg:maven/io.airlift/slice@0.46
+- pkg:maven/io.airlift/slice@0.46?classifier=sources
+- pkg:maven/io.airlift/slice@0.47
+- pkg:maven/io.airlift/slice@0.47?classifier=sources
 - pkg:maven/io.airlift/slice@0.4?classifier=sources
 - pkg:maven/io.airlift/slice@0.5
 - pkg:maven/io.airlift/slice@0.5?classifier=sources
@@ -86,3 +90,9 @@
 - pkg:maven/io.airlift/slice@0.8?classifier=sources
 - pkg:maven/io.airlift/slice@0.9
 - pkg:maven/io.airlift/slice@0.9?classifier=sources
+- pkg:maven/io.airlift/slice@2.0
+- pkg:maven/io.airlift/slice@2.0?classifier=sources
+- pkg:maven/io.airlift/slice@2.1
+- pkg:maven/io.airlift/slice@2.1?classifier=sources
+- pkg:maven/io.airlift/slice@2.2
+- pkg:maven/io.airlift/slice@2.2?classifier=sources

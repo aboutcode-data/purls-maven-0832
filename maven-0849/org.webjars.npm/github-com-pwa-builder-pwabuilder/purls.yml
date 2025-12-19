@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-pwa-builder-pwabuilder@0.0.0
+- pkg:maven/org.webjars.npm/github-com-pwa-builder-pwabuilder@0.0.0?classifier=sources

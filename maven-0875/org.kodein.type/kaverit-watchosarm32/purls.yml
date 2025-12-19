@@ -7,3 +7,5 @@
 - pkg:maven/org.kodein.type/kaverit-watchosarm32@2.3.0?classifier=sources
 - pkg:maven/org.kodein.type/kaverit-watchosarm32@2.4.0?classifier=sources
 - pkg:maven/org.kodein.type/kaverit-watchosarm32@2.5.0?classifier=sources
+- pkg:maven/org.kodein.type/kaverit-watchosarm32@2.6.0?classifier=sources
+- pkg:maven/org.kodein.type/kaverit-watchosarm32@2.7.0?classifier=sources

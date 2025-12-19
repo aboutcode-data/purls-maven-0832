@@ -1,1 +1,2 @@
 - pkg:maven/org.opencadc/joss@0.10.4-pdowler1?classifier=sources
+- pkg:maven/org.opencadc/joss@0.11.0?classifier=sources

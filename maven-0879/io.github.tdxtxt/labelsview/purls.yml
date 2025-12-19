@@ -1,1 +1,2 @@
 - pkg:maven/io.github.tdxtxt/labelsview@0.0.1-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/labelsview@0.0.2-release?classifier=sources

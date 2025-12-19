@@ -4,3 +4,5 @@
 - pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-alpha2?classifier=sources
 - pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-alpha3
 - pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-alpha3?classifier=sources
+- pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-alpha4
+- pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-alpha4?classifier=sources

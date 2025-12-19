@@ -74,3 +74,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-validation@6.6.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-validation@6.6.1_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-validation@6.6.1_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-validation@6.8.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-validation@6.8.0_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-validation@6.8.0_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-validation@6.8.0_1?classifier=src&type=zip

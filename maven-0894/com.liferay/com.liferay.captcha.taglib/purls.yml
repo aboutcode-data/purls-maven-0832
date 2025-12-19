@@ -215,3 +215,4 @@
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.9
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.taglib@5.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.taglib@5.1.0?classifier=sources

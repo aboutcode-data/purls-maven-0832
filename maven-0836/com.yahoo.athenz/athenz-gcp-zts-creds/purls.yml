@@ -14,3 +14,11 @@
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.36?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.37
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.37?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.38
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.38?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.39
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.39?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.40
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.40?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.41
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.41?classifier=sources

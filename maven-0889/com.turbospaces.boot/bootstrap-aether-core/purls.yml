@@ -48,6 +48,14 @@
 - pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.128?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.129
 - pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.129?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.130
+- pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.130?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.132
+- pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.132?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.133
+- pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.133?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.134
+- pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.134?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.83
 - pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.83?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-aether-core@1.0.84

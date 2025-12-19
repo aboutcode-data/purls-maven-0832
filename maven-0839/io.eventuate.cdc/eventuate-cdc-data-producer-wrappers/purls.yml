@@ -4,3 +4,4 @@
 - pkg:maven/io.eventuate.cdc/eventuate-cdc-data-producer-wrappers@0.13.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.cdc/eventuate-cdc-data-producer-wrappers@0.14.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.cdc/eventuate-cdc-data-producer-wrappers@0.15.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.cdc/eventuate-cdc-data-producer-wrappers@0.16.0.RELEASE?classifier=sources

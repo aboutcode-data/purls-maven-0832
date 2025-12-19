@@ -63,6 +63,8 @@
 - pkg:maven/org.flyte/flytekit-jackson@0.4.2
 - pkg:maven/org.flyte/flytekit-jackson@0.4.20
 - pkg:maven/org.flyte/flytekit-jackson@0.4.20?classifier=sources
+- pkg:maven/org.flyte/flytekit-jackson@0.4.21
+- pkg:maven/org.flyte/flytekit-jackson@0.4.21?classifier=sources
 - pkg:maven/org.flyte/flytekit-jackson@0.4.2?classifier=sources
 - pkg:maven/org.flyte/flytekit-jackson@0.4.3
 - pkg:maven/org.flyte/flytekit-jackson@0.4.3?classifier=sources

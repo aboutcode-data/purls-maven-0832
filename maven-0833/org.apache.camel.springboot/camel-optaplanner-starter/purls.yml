@@ -130,9 +130,11 @@
 - pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@3.9.0
 - pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@3.9.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@4.0.0
 - pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@4.0.0-M3
 - pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@4.0.0-M3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@4.0.0-RC1
 - pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@4.0.0-RC1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@4.0.0-RC2
 - pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@4.0.0-RC2?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-optaplanner-starter@4.0.0?classifier=sources

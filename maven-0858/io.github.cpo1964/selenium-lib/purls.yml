@@ -79,6 +79,8 @@
 - pkg:maven/io.github.cpo1964/selenium-lib@1.0.44?classifier=sources
 - pkg:maven/io.github.cpo1964/selenium-lib@1.0.45
 - pkg:maven/io.github.cpo1964/selenium-lib@1.0.45?classifier=sources
+- pkg:maven/io.github.cpo1964/selenium-lib@1.0.47
+- pkg:maven/io.github.cpo1964/selenium-lib@1.0.47?classifier=sources
 - pkg:maven/io.github.cpo1964/selenium-lib@1.0.4?classifier=sources
 - pkg:maven/io.github.cpo1964/selenium-lib@1.0.5
 - pkg:maven/io.github.cpo1964/selenium-lib@1.0.5?classifier=sources

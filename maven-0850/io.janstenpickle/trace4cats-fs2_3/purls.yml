@@ -61,4 +61,8 @@
 - pkg:maven/io.janstenpickle/trace4cats-fs2_3@0.14.3%2B9-bc80c2f9?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-fs2_3@0.14.3?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-fs2_3@0.14.4
+- pkg:maven/io.janstenpickle/trace4cats-fs2_3@0.14.4%2B7-f3a8dc3c
+- pkg:maven/io.janstenpickle/trace4cats-fs2_3@0.14.4%2B7-f3a8dc3c?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-fs2_3@0.14.4?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-fs2_3@0.14.5
+- pkg:maven/io.janstenpickle/trace4cats-fs2_3@0.14.5?classifier=sources

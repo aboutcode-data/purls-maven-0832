@@ -10,3 +10,4 @@
 - pkg:maven/info.cqframework/model-jackson@2.7.0?classifier=sources
 - pkg:maven/info.cqframework/model-jackson@2.8.0?classifier=sources
 - pkg:maven/info.cqframework/model-jackson@2.9.0?classifier=sources
+- pkg:maven/info.cqframework/model-jackson@3.0.0?classifier=sources

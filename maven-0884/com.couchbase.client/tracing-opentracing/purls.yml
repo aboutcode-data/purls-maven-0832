@@ -82,3 +82,5 @@
 - pkg:maven/com.couchbase.client/tracing-opentracing@1.2.7?classifier=sources
 - pkg:maven/com.couchbase.client/tracing-opentracing@1.2.8
 - pkg:maven/com.couchbase.client/tracing-opentracing@1.2.8?classifier=sources
+- pkg:maven/com.couchbase.client/tracing-opentracing@1.2.9
+- pkg:maven/com.couchbase.client/tracing-opentracing@1.2.9?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder-common@1.0.0-alpha-05
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder-common@1.0.0-alpha-05?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder-common@1.0.0-alpha-06
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder-common@1.0.0-alpha-06?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder-common@1.0.0-alpha-07
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder-common@1.0.0-alpha-07?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder-common@1.0.0-alpha-08
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder-common@1.0.0-alpha-08?classifier=sources

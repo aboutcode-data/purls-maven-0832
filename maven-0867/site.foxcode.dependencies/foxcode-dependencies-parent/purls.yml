@@ -1,0 +1,2 @@
+- pkg:maven/site.foxcode.dependencies/foxcode-dependencies-parent@1.0.0
+- pkg:maven/site.foxcode.dependencies/foxcode-dependencies-parent@1.0.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.wesleyhome.test/junit-jupiter-params-generated@1.0.3?classifier=sources
 - pkg:maven/com.wesleyhome.test/junit-jupiter-params-generated@1.1.2?classifier=sources
 - pkg:maven/com.wesleyhome.test/junit-jupiter-params-generated@2.0.0?classifier=sources
+- pkg:maven/com.wesleyhome.test/junit-jupiter-params-generated@2.1.1?classifier=sources

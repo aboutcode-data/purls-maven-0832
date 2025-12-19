@@ -111,6 +111,16 @@
 - pkg:maven/io.acryl/datahub-protobuf@0.10.5-2rc6?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@0.10.5-2rc7?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@0.10.5-2rc8?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-3?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-3rc1?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-4?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-4rc1?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-5?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-5rc1?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-6rc1?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-6rc2?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-6rc3?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@0.10.5-6rc4?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@0.10.5?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@0.10.5rc1?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@0.8.44-2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.fomkin/korolev-pekko_2.13@1.6.0-M7.2
+- pkg:maven/org.fomkin/korolev-pekko_2.13@1.6.0-M7.2?classifier=sources
+- pkg:maven/org.fomkin/korolev-pekko_2.13@1.6.0-M8
+- pkg:maven/org.fomkin/korolev-pekko_2.13@1.6.0-M8?classifier=sources

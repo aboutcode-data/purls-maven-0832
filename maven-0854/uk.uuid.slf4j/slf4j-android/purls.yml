@@ -20,3 +20,5 @@
 - pkg:maven/uk.uuid.slf4j/slf4j-android@1.7.36-0?classifier=sources
 - pkg:maven/uk.uuid.slf4j/slf4j-android@2.0.7-0
 - pkg:maven/uk.uuid.slf4j/slf4j-android@2.0.7-0?classifier=sources
+- pkg:maven/uk.uuid.slf4j/slf4j-android@2.0.9-0
+- pkg:maven/uk.uuid.slf4j/slf4j-android@2.0.9-0?classifier=sources

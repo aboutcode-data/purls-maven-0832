@@ -14,3 +14,7 @@
 - pkg:maven/io.ceresdb/ceresdb-protocol@1.0.3-snapshot
 - pkg:maven/io.ceresdb/ceresdb-protocol@1.0.3-snapshot?classifier=sources
 - pkg:maven/io.ceresdb/ceresdb-protocol@1.0.3?classifier=sources
+- pkg:maven/io.ceresdb/ceresdb-protocol@1.0.4
+- pkg:maven/io.ceresdb/ceresdb-protocol@1.0.4?classifier=sources
+- pkg:maven/io.ceresdb/ceresdb-protocol@1.0.5
+- pkg:maven/io.ceresdb/ceresdb-protocol@1.0.5?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/me.proton.core/util-android-sentry@14.0.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-sentry@14.0.1?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@15.1.0?classifier=sources

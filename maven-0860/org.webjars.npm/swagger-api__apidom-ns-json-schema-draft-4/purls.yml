@@ -4,3 +4,9 @@
 - pkg:maven/org.webjars.npm/swagger-api__apidom-ns-json-schema-draft-4@0.70.0?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-api__apidom-ns-json-schema-draft-4@0.74.0
 - pkg:maven/org.webjars.npm/swagger-api__apidom-ns-json-schema-draft-4@0.74.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ns-json-schema-draft-4@0.74.1
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ns-json-schema-draft-4@0.74.1?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ns-json-schema-draft-4@0.76.0
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ns-json-schema-draft-4@0.76.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ns-json-schema-draft-4@0.76.2
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ns-json-schema-draft-4@0.76.2?classifier=sources

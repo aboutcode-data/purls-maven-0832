@@ -514,3 +514,5 @@
 - pkg:maven/com.hazelcast/hazelcast@5.3.0?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast@5.3.1
 - pkg:maven/com.hazelcast/hazelcast@5.3.1?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast@5.3.2
+- pkg:maven/com.hazelcast/hazelcast@5.3.2?classifier=sources

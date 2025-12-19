@@ -14,6 +14,10 @@
 - pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta16?classifier=sources
 - pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta17
 - pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta17?classifier=sources
+- pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta18
+- pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta18?classifier=sources
+- pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta19
+- pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta19?classifier=sources
 - pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta7
 - pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta7?classifier=sources
 - pkg:maven/io.kevinlee/logger-f-test-kit_2.13@2.0.0-beta8

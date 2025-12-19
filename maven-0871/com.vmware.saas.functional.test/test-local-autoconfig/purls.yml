@@ -1,0 +1,2 @@
+- pkg:maven/com.vmware.saas.functional.test/test-local-autoconfig@1.0.7
+- pkg:maven/com.vmware.saas.functional.test/test-local-autoconfig@1.0.7?classifier=sources

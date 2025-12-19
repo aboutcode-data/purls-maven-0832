@@ -66,3 +66,5 @@
 - pkg:maven/ar.com.fdvs/DynamicJasper@5.3.7?classifier=sources
 - pkg:maven/ar.com.fdvs/DynamicJasper@5.3.8
 - pkg:maven/ar.com.fdvs/DynamicJasper@5.3.8?classifier=sources
+- pkg:maven/ar.com.fdvs/DynamicJasper@5.3.9
+- pkg:maven/ar.com.fdvs/DynamicJasper@5.3.9?classifier=sources

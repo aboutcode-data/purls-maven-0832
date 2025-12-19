@@ -100,3 +100,5 @@
 - pkg:maven/org.scalameta/mtags_2.11.12@0.9.9?classifier=sources
 - pkg:maven/org.scalameta/mtags_2.11.12@1.0.0
 - pkg:maven/org.scalameta/mtags_2.11.12@1.0.0?classifier=sources
+- pkg:maven/org.scalameta/mtags_2.11.12@1.0.1
+- pkg:maven/org.scalameta/mtags_2.11.12@1.0.1?classifier=sources

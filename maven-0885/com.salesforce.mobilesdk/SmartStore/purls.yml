@@ -3,6 +3,7 @@
 - pkg:maven/com.salesforce.mobilesdk/SmartStore@10.1.1?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SmartStore@10.2.0?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SmartStore@11.0.0?classifier=sources
+- pkg:maven/com.salesforce.mobilesdk/SmartStore@11.0.1?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SmartStore@9.1.1?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SmartStore@9.2.0?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SmartStore@9.2.1?classifier=sources

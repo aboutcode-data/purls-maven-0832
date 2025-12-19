@@ -14,3 +14,5 @@
 - pkg:maven/de.westnordost/osmapi-changesets@1.6?classifier=sources
 - pkg:maven/de.westnordost/osmapi-changesets@2.0
 - pkg:maven/de.westnordost/osmapi-changesets@2.0?classifier=sources
+- pkg:maven/de.westnordost/osmapi-changesets@2.1
+- pkg:maven/de.westnordost/osmapi-changesets@2.1?classifier=sources

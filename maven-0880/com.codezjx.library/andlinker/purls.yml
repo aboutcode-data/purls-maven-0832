@@ -4,3 +4,5 @@
 - pkg:maven/com.codezjx.library/andlinker@0.8.1?type=aar
 - pkg:maven/com.codezjx.library/andlinker@0.9.0?classifier=sources
 - pkg:maven/com.codezjx.library/andlinker@0.9.0?type=aar
+- pkg:maven/com.codezjx.library/andlinker@0.9.1?classifier=sources
+- pkg:maven/com.codezjx.library/andlinker@0.9.1?type=aar

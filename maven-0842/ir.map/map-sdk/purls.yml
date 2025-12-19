@@ -12,3 +12,4 @@
 - pkg:maven/ir.map/map-sdk@5.0.2?classifier=sources
 - pkg:maven/ir.map/map-sdk@5.0.3?classifier=sources
 - pkg:maven/ir.map/map-sdk@5.0.4?classifier=sources
+- pkg:maven/ir.map/map-sdk@6.0.0?classifier=sources

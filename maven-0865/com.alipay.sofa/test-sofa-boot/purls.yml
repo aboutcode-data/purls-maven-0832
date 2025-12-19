@@ -40,6 +40,8 @@
 - pkg:maven/com.alipay.sofa/test-sofa-boot@3.2.1?classifier=sources
 - pkg:maven/com.alipay.sofa/test-sofa-boot@3.2.2
 - pkg:maven/com.alipay.sofa/test-sofa-boot@3.2.2?classifier=sources
+- pkg:maven/com.alipay.sofa/test-sofa-boot@3.20.0
+- pkg:maven/com.alipay.sofa/test-sofa-boot@3.20.0?classifier=sources
 - pkg:maven/com.alipay.sofa/test-sofa-boot@3.3.0
 - pkg:maven/com.alipay.sofa/test-sofa-boot@3.3.0?classifier=sources
 - pkg:maven/com.alipay.sofa/test-sofa-boot@3.3.1
@@ -77,3 +79,4 @@
 - pkg:maven/com.alipay.sofa/test-sofa-boot@4.0.0
 - pkg:maven/com.alipay.sofa/test-sofa-boot@4.0.0-M1
 - pkg:maven/com.alipay.sofa/test-sofa-boot@4.0.0-M2
+- pkg:maven/com.alipay.sofa/test-sofa-boot@4.0.1

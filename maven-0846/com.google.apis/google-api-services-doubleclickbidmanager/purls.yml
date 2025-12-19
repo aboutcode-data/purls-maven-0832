@@ -758,3 +758,5 @@
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v2-rev20220707-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v2-rev20230502-2.0.0
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v2-rev20230502-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v2-rev20230703-2.0.0
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v2-rev20230703-2.0.0?classifier=sources

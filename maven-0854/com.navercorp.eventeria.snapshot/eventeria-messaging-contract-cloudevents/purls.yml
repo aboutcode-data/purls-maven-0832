@@ -1,0 +1,5 @@
+- pkg:maven/com.navercorp.eventeria.snapshot/eventeria-messaging-contract-cloudevents@1.1.1-2308231449?classifier=sources
+- pkg:maven/com.navercorp.eventeria.snapshot/eventeria-messaging-contract-cloudevents@1.1.1-2308231640?classifier=sources
+- pkg:maven/com.navercorp.eventeria.snapshot/eventeria-messaging-contract-cloudevents@1.1.1-2308241550?classifier=sources
+- pkg:maven/com.navercorp.eventeria.snapshot/eventeria-messaging-contract-cloudevents@1.1.1-2308241730?classifier=sources
+- pkg:maven/com.navercorp.eventeria.snapshot/eventeria-messaging-contract-cloudevents@1.1.1-2308281526?classifier=sources

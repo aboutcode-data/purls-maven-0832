@@ -29,3 +29,5 @@
 - pkg:maven/org.dromara/northstar-api@6.1.0.RC3
 - pkg:maven/org.dromara/northstar-api@6.1.0.RC3?classifier=sources
 - pkg:maven/org.dromara/northstar-api@6.1.0.RC?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.1.1.Final
+- pkg:maven/org.dromara/northstar-api@6.1.1.Final?classifier=sources

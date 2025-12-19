@@ -56,3 +56,7 @@
 - pkg:maven/com.google.apis/google-api-services-clouddeploy@v1-rev20230602-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-clouddeploy@v1-rev20230609-2.0.0
 - pkg:maven/com.google.apis/google-api-services-clouddeploy@v1-rev20230609-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-clouddeploy@v1-rev20230727-2.0.0
+- pkg:maven/com.google.apis/google-api-services-clouddeploy@v1-rev20230727-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-clouddeploy@v1-rev20230802-2.0.0
+- pkg:maven/com.google.apis/google-api-services-clouddeploy@v1-rev20230802-2.0.0?classifier=sources

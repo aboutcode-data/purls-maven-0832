@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-paste-from-office@38.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-paste-from-office@38.1.0
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-paste-from-office@38.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-paste-from-office@39.0.1
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-paste-from-office@39.0.1?classifier=sources

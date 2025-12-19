@@ -2,3 +2,4 @@
 - pkg:maven/org.maplibre.gl/android-plugin-scalebar-v9@1.0.1-pre0?classifier=sources
 - pkg:maven/org.maplibre.gl/android-plugin-scalebar-v9@2.0.0-pre0?classifier=sources
 - pkg:maven/org.maplibre.gl/android-plugin-scalebar-v9@2.0.0?classifier=sources
+- pkg:maven/org.maplibre.gl/android-plugin-scalebar-v9@2.0.1?classifier=sources

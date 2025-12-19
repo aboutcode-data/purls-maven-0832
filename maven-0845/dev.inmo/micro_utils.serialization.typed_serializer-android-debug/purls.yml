@@ -86,6 +86,10 @@
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.19.7?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.19.8?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.19.9?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.20.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.20.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.20.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.20.3?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.4.35?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.4.36?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-android-debug@0.5.0?classifier=sources

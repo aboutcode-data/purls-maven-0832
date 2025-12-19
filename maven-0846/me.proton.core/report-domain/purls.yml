@@ -15,6 +15,9 @@
 - pkg:maven/me.proton.core/report-domain@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/report-domain@14.0.0?classifier=sources
 - pkg:maven/me.proton.core/report-domain@14.0.1?classifier=sources
+- pkg:maven/me.proton.core/report-domain@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/report-domain@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-domain@15.1.0?classifier=sources
 - pkg:maven/me.proton.core/report-domain@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/report-domain@5.0.0?classifier=sources
 - pkg:maven/me.proton.core/report-domain@5.0.1?classifier=sources

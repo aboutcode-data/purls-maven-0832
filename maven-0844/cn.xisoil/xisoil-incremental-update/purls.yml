@@ -1,2 +1,4 @@
 - pkg:maven/cn.xisoil/xisoil-incremental-update@2.3.1-RELEASE
 - pkg:maven/cn.xisoil/xisoil-incremental-update@2.3.1-RELEASE?classifier=sources
+- pkg:maven/cn.xisoil/xisoil-incremental-update@2.4.0-RELEASE
+- pkg:maven/cn.xisoil/xisoil-incremental-update@2.4.0-RELEASE?classifier=sources
