@@ -1,2 +1,4 @@
 - pkg:maven/com.github.starnowski.bmunit.extension/junit4-rule@1.0.3
 - pkg:maven/com.github.starnowski.bmunit.extension/junit4-rule@1.0.3?classifier=sources
+- pkg:maven/com.github.starnowski.bmunit.extension/junit4-rule@1.1.1
+- pkg:maven/com.github.starnowski.bmunit.extension/junit4-rule@1.1.1?classifier=sources

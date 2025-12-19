@@ -2,3 +2,5 @@
 - pkg:maven/org.jboss.narayana.jts/narayana-jts-idlj-jakarta@5.12.2.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jts/narayana-jts-idlj-jakarta@5.12.4.Final
 - pkg:maven/org.jboss.narayana.jts/narayana-jts-idlj-jakarta@5.12.4.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.jts/narayana-jts-idlj-jakarta@5.12.5.Final
+- pkg:maven/org.jboss.narayana.jts/narayana-jts-idlj-jakarta@5.12.5.Final?classifier=sources

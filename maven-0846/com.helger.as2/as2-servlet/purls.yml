@@ -1,3 +1,5 @@
+- pkg:maven/com.helger.as2/as2-servlet@4.10.0
+- pkg:maven/com.helger.as2/as2-servlet@4.10.0?classifier=sources
 - pkg:maven/com.helger.as2/as2-servlet@4.6.0
 - pkg:maven/com.helger.as2/as2-servlet@4.6.0?classifier=sources
 - pkg:maven/com.helger.as2/as2-servlet@4.6.1
@@ -16,3 +18,7 @@
 - pkg:maven/com.helger.as2/as2-servlet@4.8.0?classifier=sources
 - pkg:maven/com.helger.as2/as2-servlet@4.9.0
 - pkg:maven/com.helger.as2/as2-servlet@4.9.0?classifier=sources
+- pkg:maven/com.helger.as2/as2-servlet@4.9.1
+- pkg:maven/com.helger.as2/as2-servlet@4.9.1?classifier=sources
+- pkg:maven/com.helger.as2/as2-servlet@4.9.2
+- pkg:maven/com.helger.as2/as2-servlet@4.9.2?classifier=sources

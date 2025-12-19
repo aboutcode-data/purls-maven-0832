@@ -102,6 +102,10 @@
 - pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.22.6?classifier=sources
 - pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.23.0
 - pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.23.0?classifier=sources
+- pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.24.0
+- pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.24.0?classifier=sources
+- pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.24.2
+- pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.24.2?classifier=sources
 - pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.9.0
 - pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.9.0?classifier=sources
 - pkg:maven/com.github.damianwajser/spring-commons-logger-logstash@1.9.1

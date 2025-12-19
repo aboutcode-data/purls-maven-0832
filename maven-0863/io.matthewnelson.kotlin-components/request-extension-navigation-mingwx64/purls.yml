@@ -1,2 +1,3 @@
 - pkg:maven/io.matthewnelson.kotlin-components/request-extension-navigation-mingwx64@1.0.0?classifier=sources
 - pkg:maven/io.matthewnelson.kotlin-components/request-extension-navigation-mingwx64@2?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/request-extension-navigation-mingwx64@3.0.0?classifier=sources

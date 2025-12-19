@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gianttreelp.proguardservicesmapper/proguard-services-mapper-cli@1.0?classifier=sources
+- pkg:maven/com.github.gianttreelp.proguardservicesmapper/proguard-services-mapper-cli@1.1?classifier=sources

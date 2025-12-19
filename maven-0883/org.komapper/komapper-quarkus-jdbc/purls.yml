@@ -1,0 +1,1 @@
+- pkg:maven/org.komapper/komapper-quarkus-jdbc@0.27.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.grails/grails-gorm-testing-support@2.2.0?classifier=sources
 - pkg:maven/org.grails/grails-gorm-testing-support@2.3.0?classifier=sources
 - pkg:maven/org.grails/grails-gorm-testing-support@2.3.1?classifier=sources
+- pkg:maven/org.grails/grails-gorm-testing-support@2.4.0?classifier=sources

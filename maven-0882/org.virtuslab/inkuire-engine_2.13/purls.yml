@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/inkuire-engine_2.13@1.0.0-M5
+- pkg:maven/org.virtuslab/inkuire-engine_2.13@1.0.0-M5?classifier=sources

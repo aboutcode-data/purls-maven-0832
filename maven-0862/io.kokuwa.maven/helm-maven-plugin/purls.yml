@@ -1,0 +1,2 @@
+- pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.0.0
+- pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.0.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/uk.num/num-java-module-binding-images@0.0.1?classifier=sources
 - pkg:maven/uk.num/num-java-module-binding-images@0.0.2?classifier=sources
 - pkg:maven/uk.num/num-java-module-binding-images@0.0.3?classifier=sources
+- pkg:maven/uk.num/num-java-module-binding-images@1.0.0?classifier=sources

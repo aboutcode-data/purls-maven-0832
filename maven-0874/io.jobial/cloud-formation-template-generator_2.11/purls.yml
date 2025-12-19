@@ -1,0 +1,2 @@
+- pkg:maven/io.jobial/cloud-formation-template-generator_2.11@3.10.4
+- pkg:maven/io.jobial/cloud-formation-template-generator_2.11@3.10.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/minecraft-data@2.112.0
+- pkg:maven/org.webjars.npm/minecraft-data@2.112.0?classifier=sources

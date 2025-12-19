@@ -32,3 +32,7 @@
 - pkg:maven/com.farao-community.farao/farao-sensitivity-analysis@3.4.2?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-sensitivity-analysis@3.4.3
 - pkg:maven/com.farao-community.farao/farao-sensitivity-analysis@3.4.3?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-sensitivity-analysis@3.5.0
+- pkg:maven/com.farao-community.farao/farao-sensitivity-analysis@3.5.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-sensitivity-analysis@3.6.0
+- pkg:maven/com.farao-community.farao/farao-sensitivity-analysis@3.6.0?classifier=sources

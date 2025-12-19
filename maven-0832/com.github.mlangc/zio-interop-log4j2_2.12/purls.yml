@@ -10,3 +10,5 @@
 - pkg:maven/com.github.mlangc/zio-interop-log4j2_2.12@1.0.0-RC21
 - pkg:maven/com.github.mlangc/zio-interop-log4j2_2.12@1.0.0-RC21?classifier=sources
 - pkg:maven/com.github.mlangc/zio-interop-log4j2_2.12@1.0.0?classifier=sources
+- pkg:maven/com.github.mlangc/zio-interop-log4j2_2.12@1.0.1
+- pkg:maven/com.github.mlangc/zio-interop-log4j2_2.12@1.0.1?classifier=sources

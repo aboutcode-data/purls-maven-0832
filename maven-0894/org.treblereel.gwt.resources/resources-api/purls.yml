@@ -1,0 +1,2 @@
+- pkg:maven/org.treblereel.gwt.resources/resources-api@0.2
+- pkg:maven/org.treblereel.gwt.resources/resources-api@0.2?classifier=sources

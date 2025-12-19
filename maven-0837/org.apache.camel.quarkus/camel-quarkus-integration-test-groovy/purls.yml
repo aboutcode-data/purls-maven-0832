@@ -4,3 +4,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-groovy@2.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-groovy@2.5.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-groovy@2.5.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-groovy@2.6.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-groovy@2.6.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-groovy@2.7.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-groovy@2.7.0?classifier=sources

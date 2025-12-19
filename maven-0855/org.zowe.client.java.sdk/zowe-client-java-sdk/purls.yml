@@ -1,5 +1,9 @@
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.0
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.0?classifier=sources
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.10
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.10?classifier=sources
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.11
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.11?classifier=sources
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.2
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.2?classifier=sources
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.3
@@ -14,3 +18,5 @@
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.7?classifier=sources
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.8
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.8?classifier=sources
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.9
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@1.0.9?classifier=sources

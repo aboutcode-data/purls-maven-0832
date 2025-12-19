@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.devops/devops-boot-starter-circuitbreaker@0.0.4?classifier=sources
+- pkg:maven/com.tencent.devops/devops-boot-starter-circuitbreaker@0.0.5?classifier=sources

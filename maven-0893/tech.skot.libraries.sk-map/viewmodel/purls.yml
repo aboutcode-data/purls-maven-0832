@@ -1,0 +1,4 @@
+- pkg:maven/tech.skot.libraries.sk-map/viewmodel@0.0.5_1.1.0?classifier=sources
+- pkg:maven/tech.skot.libraries.sk-map/viewmodel@0.0.6_1.1.4?classifier=sources
+- pkg:maven/tech.skot.libraries.sk-map/viewmodel@0.0.7_1.1.6?classifier=sources
+- pkg:maven/tech.skot.libraries.sk-map/viewmodel@0.0.8_1.1.8?classifier=sources

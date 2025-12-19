@@ -16,6 +16,8 @@
 - pkg:maven/org.glassfish.jaxb/osgi-test-osgi@2.3.4?classifier=sources
 - pkg:maven/org.glassfish.jaxb/osgi-test-osgi@2.3.5
 - pkg:maven/org.glassfish.jaxb/osgi-test-osgi@2.3.5?classifier=sources
+- pkg:maven/org.glassfish.jaxb/osgi-test-osgi@2.3.6
+- pkg:maven/org.glassfish.jaxb/osgi-test-osgi@2.3.6?classifier=sources
 - pkg:maven/org.glassfish.jaxb/osgi-test-osgi@2.4.0-b180725.0644
 - pkg:maven/org.glassfish.jaxb/osgi-test-osgi@2.4.0-b180725.0644?classifier=sources
 - pkg:maven/org.glassfish.jaxb/osgi-test-osgi@3.0.0

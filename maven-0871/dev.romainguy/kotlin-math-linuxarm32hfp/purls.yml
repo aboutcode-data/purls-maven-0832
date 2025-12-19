@@ -1,1 +1,2 @@
 - pkg:maven/dev.romainguy/kotlin-math-linuxarm32hfp@1.1.0?classifier=sources
+- pkg:maven/dev.romainguy/kotlin-math-linuxarm32hfp@1.2.0?classifier=sources

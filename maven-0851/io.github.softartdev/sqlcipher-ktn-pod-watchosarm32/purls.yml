@@ -1,1 +1,2 @@
 - pkg:maven/io.github.softartdev/sqlcipher-ktn-pod-watchosarm32@1.1?classifier=sources
+- pkg:maven/io.github.softartdev/sqlcipher-ktn-pod-watchosarm32@1.2?classifier=sources

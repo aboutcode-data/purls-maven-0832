@@ -4,3 +4,4 @@
 - pkg:maven/space.vectrix.flare/flare@0.3.0?classifier=sources
 - pkg:maven/space.vectrix.flare/flare@1.0.0?classifier=sources
 - pkg:maven/space.vectrix.flare/flare@2.0.0?classifier=sources
+- pkg:maven/space.vectrix.flare/flare@2.0.1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-mojarra@21.8.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-mojarra@21.9.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-mojarra@21.9.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-mojarra@22.1.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-mojarra@22.1.0?classifier=sources

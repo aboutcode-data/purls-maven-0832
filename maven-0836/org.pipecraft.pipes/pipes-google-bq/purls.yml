@@ -1,2 +1,4 @@
 - pkg:maven/org.pipecraft.pipes/pipes-google-bq@0.9
+- pkg:maven/org.pipecraft.pipes/pipes-google-bq@0.91
+- pkg:maven/org.pipecraft.pipes/pipes-google-bq@0.91?classifier=sources
 - pkg:maven/org.pipecraft.pipes/pipes-google-bq@0.9?classifier=sources

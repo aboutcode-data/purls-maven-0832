@@ -868,6 +868,9 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.86
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.86?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.86?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.87
+- pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.87?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.87?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.9
@@ -1132,6 +1135,15 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.30
 - pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.31
+- pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.32
+- pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.33
+- pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@5.0.4

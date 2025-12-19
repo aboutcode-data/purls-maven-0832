@@ -14,6 +14,8 @@
 - pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-service-impl@0.1.16?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-service-impl@0.1.17
 - pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-service-impl@0.1.17?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-service-impl@0.1.18-alpha-release-candidate
+- pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-service-impl@0.1.18-alpha-release-candidate?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-service-impl@0.1.2
 - pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-service-impl@0.1.2?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/xs2a-adapter-service-impl@0.1.3

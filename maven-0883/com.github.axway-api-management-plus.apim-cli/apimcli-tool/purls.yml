@@ -51,3 +51,7 @@
 - pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tool@1.6.0?classifier=sources
 - pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tool@1.6.1
 - pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tool@1.6.1?classifier=sources
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tool@1.7.0
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tool@1.7.0?classifier=sources
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tool@1.7.1
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tool@1.7.1?classifier=sources

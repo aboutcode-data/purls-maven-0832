@@ -37,3 +37,4 @@
 - pkg:maven/org.wikimedia.search/extra@6.5.4-wmf13?classifier=sources
 - pkg:maven/org.wikimedia.search/extra@6.5.4-wmf9?classifier=sources
 - pkg:maven/org.wikimedia.search/extra@6.5.4?classifier=sources
+- pkg:maven/org.wikimedia.search/extra@6.8.23-wmf1?classifier=sources

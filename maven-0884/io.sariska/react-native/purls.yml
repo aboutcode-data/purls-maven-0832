@@ -1,3 +1,6 @@
 - pkg:maven/io.sariska/react-native@0.64.0?type=aar
+- pkg:maven/io.sariska/react-native@0.64.1-sariska?type=aar
+- pkg:maven/io.sariska/react-native@0.64.1?type=aar
+- pkg:maven/io.sariska/react-native@0.64?type=aar
 - pkg:maven/io.sariska/react-native@SNAPSHOT-0.64.0?type=aar
 - pkg:maven/io.sariska/react-native@v0.64.0?type=aar

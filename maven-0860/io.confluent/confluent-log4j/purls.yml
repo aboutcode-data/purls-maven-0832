@@ -1,6 +1,10 @@
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp1
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp1?classifier=sources
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp2
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp2.1
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp2.1?classifier=sources
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp2.2
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp2.2?classifier=sources
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp2?classifier=sources
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp3
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp3?classifier=sources
@@ -10,3 +14,7 @@
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp5?classifier=sources
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp6
 - pkg:maven/io.confluent/confluent-log4j@1.2.17-cp6?classifier=sources
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp7
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp7?classifier=sources
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp8
+- pkg:maven/io.confluent/confluent-log4j@1.2.17-cp8?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/io.perfana/gatling-elasticsearch-logs@0.7
+- pkg:maven/io.perfana/gatling-elasticsearch-logs@0.8
+- pkg:maven/io.perfana/gatling-elasticsearch-logs@0.8?classifier=sources
+- pkg:maven/io.perfana/gatling-elasticsearch-logs@0.9
+- pkg:maven/io.perfana/gatling-elasticsearch-logs@0.9?classifier=sources

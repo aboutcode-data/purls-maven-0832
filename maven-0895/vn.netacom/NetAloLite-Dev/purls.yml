@@ -38,3 +38,4 @@
 - pkg:maven/vn.netacom/NetAloLite-Dev@2.0.14?classifier=sources
 - pkg:maven/vn.netacom/NetAloLite-Dev@2.0.15?classifier=sources
 - pkg:maven/vn.netacom/NetAloLite-Dev@2.0.16?classifier=sources
+- pkg:maven/vn.netacom/NetAloLite-Dev@2.0.17?classifier=sources

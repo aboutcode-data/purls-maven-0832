@@ -60,3 +60,11 @@
 - pkg:maven/io.thestencil/stencil-client-api@1.129?classifier=sources
 - pkg:maven/io.thestencil/stencil-client-api@1.130
 - pkg:maven/io.thestencil/stencil-client-api@1.130?classifier=sources
+- pkg:maven/io.thestencil/stencil-client-api@1.131
+- pkg:maven/io.thestencil/stencil-client-api@1.131?classifier=sources
+- pkg:maven/io.thestencil/stencil-client-api@1.132
+- pkg:maven/io.thestencil/stencil-client-api@1.132?classifier=sources
+- pkg:maven/io.thestencil/stencil-client-api@1.133
+- pkg:maven/io.thestencil/stencil-client-api@1.133?classifier=sources
+- pkg:maven/io.thestencil/stencil-client-api@1.134
+- pkg:maven/io.thestencil/stencil-client-api@1.134?classifier=sources

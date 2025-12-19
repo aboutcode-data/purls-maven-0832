@@ -72,3 +72,4 @@
 - pkg:maven/io.github.lognet/grpc-spring-boot-starter@4.5.7?classifier=sources
 - pkg:maven/io.github.lognet/grpc-spring-boot-starter@4.5.8?classifier=sources
 - pkg:maven/io.github.lognet/grpc-spring-boot-starter@4.5.9?classifier=sources
+- pkg:maven/io.github.lognet/grpc-spring-boot-starter@4.6.0?classifier=sources

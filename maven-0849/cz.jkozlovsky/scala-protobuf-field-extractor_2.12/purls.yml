@@ -1,0 +1,2 @@
+- pkg:maven/cz.jkozlovsky/scala-protobuf-field-extractor_2.12@0.1.0?classifier=sources
+- pkg:maven/cz.jkozlovsky/scala-protobuf-field-extractor_2.12@1.0.0?classifier=sources

@@ -84,6 +84,8 @@
 - pkg:maven/io.lettuce/lettuce-core@6.0.7.RELEASE?classifier=sources
 - pkg:maven/io.lettuce/lettuce-core@6.0.8.RELEASE
 - pkg:maven/io.lettuce/lettuce-core@6.0.8.RELEASE?classifier=sources
+- pkg:maven/io.lettuce/lettuce-core@6.0.9.RELEASE
+- pkg:maven/io.lettuce/lettuce-core@6.0.9.RELEASE?classifier=sources
 - pkg:maven/io.lettuce/lettuce-core@6.1.0.M1
 - pkg:maven/io.lettuce/lettuce-core@6.1.0.M1?classifier=sources
 - pkg:maven/io.lettuce/lettuce-core@6.1.0.RC1
@@ -100,3 +102,5 @@
 - pkg:maven/io.lettuce/lettuce-core@6.1.4.RELEASE?classifier=sources
 - pkg:maven/io.lettuce/lettuce-core@6.1.5.RELEASE
 - pkg:maven/io.lettuce/lettuce-core@6.1.5.RELEASE?classifier=sources
+- pkg:maven/io.lettuce/lettuce-core@6.1.6.RELEASE
+- pkg:maven/io.lettuce/lettuce-core@6.1.6.RELEASE?classifier=sources

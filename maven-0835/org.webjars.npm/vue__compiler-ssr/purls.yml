@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.24?classifier=sources
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.26
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.26?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.29
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.2.29?classifier=sources

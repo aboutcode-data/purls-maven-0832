@@ -1,0 +1,2 @@
+- pkg:maven/net.logicsquad/log4j2-envconfig@1.0
+- pkg:maven/net.logicsquad/log4j2-envconfig@1.0?classifier=sources

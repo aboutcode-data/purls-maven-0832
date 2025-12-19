@@ -7,3 +7,4 @@
 - pkg:maven/com.judopay/judokit-android@2.1.6?classifier=sources
 - pkg:maven/com.judopay/judokit-android@2.1.7?classifier=sources
 - pkg:maven/com.judopay/judokit-android@2.1.8?classifier=sources
+- pkg:maven/com.judopay/judokit-android@2.1.9?classifier=sources

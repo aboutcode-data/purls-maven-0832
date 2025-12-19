@@ -53,3 +53,4 @@
 - pkg:maven/com.nexmo.android/client-sdk@3.2.0?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@3.3.0?type=aar
 - pkg:maven/com.nexmo.android/client-sdk@4.0.0?type=aar
+- pkg:maven/com.nexmo.android/client-sdk@4.0.1?type=aar

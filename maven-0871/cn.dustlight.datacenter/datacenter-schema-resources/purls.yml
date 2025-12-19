@@ -1,0 +1,2 @@
+- pkg:maven/cn.dustlight.datacenter/datacenter-schema-resources@0.0.6-alpha-2
+- pkg:maven/cn.dustlight.datacenter/datacenter-schema-resources@0.0.6-alpha-2?classifier=sources

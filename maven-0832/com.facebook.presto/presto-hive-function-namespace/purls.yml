@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.presto/presto-hive-function-namespace@0.268?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-function-namespace@0.269?classifier=sources

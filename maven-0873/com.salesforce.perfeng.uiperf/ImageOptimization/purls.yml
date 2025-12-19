@@ -1,0 +1,2 @@
+- pkg:maven/com.salesforce.perfeng.uiperf/ImageOptimization@2.0.1
+- pkg:maven/com.salesforce.perfeng.uiperf/ImageOptimization@2.0.1?classifier=sources

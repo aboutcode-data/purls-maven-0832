@@ -1,0 +1,2 @@
+- pkg:maven/io.github.johnhungerford.rbac/scala-rbac-core_sjs1_2.13@1.2.0
+- pkg:maven/io.github.johnhungerford.rbac/scala-rbac-core_sjs1_2.13@1.2.0?classifier=sources

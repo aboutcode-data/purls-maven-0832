@@ -14,3 +14,5 @@
 - pkg:maven/com.foursoft.vecmodel/vec120-assertions@1.4.3?classifier=sources
 - pkg:maven/com.foursoft.vecmodel/vec120-assertions@1.4.4
 - pkg:maven/com.foursoft.vecmodel/vec120-assertions@1.4.4?classifier=sources
+- pkg:maven/com.foursoft.vecmodel/vec120-assertions@1.5.0
+- pkg:maven/com.foursoft.vecmodel/vec120-assertions@1.5.0?classifier=sources

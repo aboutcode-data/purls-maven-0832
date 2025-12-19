@@ -490,3 +490,9 @@
 - pkg:maven/no.nav.common/feature-toggle@2.2021.12.09_11.47-999457edc68f?classifier=sources
 - pkg:maven/no.nav.common/feature-toggle@2.2021.12.09_11.56-a71c36a61ba3
 - pkg:maven/no.nav.common/feature-toggle@2.2021.12.09_11.56-a71c36a61ba3?classifier=sources
+- pkg:maven/no.nav.common/feature-toggle@2.2022.01.14_09.11-1d258a7225ea
+- pkg:maven/no.nav.common/feature-toggle@2.2022.01.14_09.11-1d258a7225ea?classifier=sources
+- pkg:maven/no.nav.common/feature-toggle@2.2022.01.18_16.16-d027b426f0be
+- pkg:maven/no.nav.common/feature-toggle@2.2022.01.18_16.16-d027b426f0be?classifier=sources
+- pkg:maven/no.nav.common/feature-toggle@2.2022.01.21_08.02-cd96965058ef
+- pkg:maven/no.nav.common/feature-toggle@2.2022.01.21_08.02-cd96965058ef?classifier=sources

@@ -236,3 +236,6 @@
 - pkg:maven/eu.hansolo/tilesfx@17.0.7?classifier=sources
 - pkg:maven/eu.hansolo/tilesfx@17.0.8?classifier=sources
 - pkg:maven/eu.hansolo/tilesfx@17.0.9?classifier=sources
+- pkg:maven/eu.hansolo/tilesfx@17.1.0?classifier=sources
+- pkg:maven/eu.hansolo/tilesfx@17.1.1?classifier=sources
+- pkg:maven/eu.hansolo/tilesfx@17.1.2?classifier=sources

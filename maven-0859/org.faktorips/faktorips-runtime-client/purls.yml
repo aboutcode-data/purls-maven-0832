@@ -72,6 +72,10 @@
 - pkg:maven/org.faktorips/faktorips-runtime-client@21.12.0-rc08
 - pkg:maven/org.faktorips/faktorips-runtime-client@21.12.0-rc08?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-client@21.12.0?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-client@21.12.1
+- pkg:maven/org.faktorips/faktorips-runtime-client@21.12.1?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-client@21.12.2
+- pkg:maven/org.faktorips/faktorips-runtime-client@21.12.2?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-client@21.6.0
 - pkg:maven/org.faktorips/faktorips-runtime-client@21.6.0-m01
 - pkg:maven/org.faktorips/faktorips-runtime-client@21.6.0-m01?classifier=sources
@@ -106,6 +110,8 @@
 - pkg:maven/org.faktorips/faktorips-runtime-client@21.6.4?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-client@21.6.5
 - pkg:maven/org.faktorips/faktorips-runtime-client@21.6.5?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-client@21.6.6
+- pkg:maven/org.faktorips/faktorips-runtime-client@21.6.6?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-client@3.14.1
 - pkg:maven/org.faktorips/faktorips-runtime-client@3.14.1?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-client@3.14.2

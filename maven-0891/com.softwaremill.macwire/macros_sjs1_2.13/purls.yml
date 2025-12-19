@@ -6,3 +6,9 @@
 - pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.4.2?classifier=sources
 - pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.5.0
 - pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.5.0?classifier=sources
+- pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.5.2
+- pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.5.2?classifier=sources
+- pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.5.3
+- pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.5.3?classifier=sources
+- pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.5.4
+- pkg:maven/com.softwaremill.macwire/macros_sjs1_2.13@2.5.4?classifier=sources

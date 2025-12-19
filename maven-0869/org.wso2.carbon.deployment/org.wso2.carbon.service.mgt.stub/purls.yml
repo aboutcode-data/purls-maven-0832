@@ -13,6 +13,12 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.10.4
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.10.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.10.4?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.10.5
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.10.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.10.5?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.10.6
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.10.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.10.6?classifier=sources
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.11.0
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.11.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.11.0?classifier=sources
@@ -43,6 +49,12 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.12.7
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.12.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.12.7?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.12.8
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.12.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.12.8?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.12.9
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.12.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.12.9?classifier=sources
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.3.0
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.3.1
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.service.mgt.stub@4.4.0

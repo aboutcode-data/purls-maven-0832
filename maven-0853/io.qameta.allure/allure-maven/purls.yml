@@ -1,5 +1,7 @@
 - pkg:maven/io.qameta.allure/allure-maven@2.10.0
 - pkg:maven/io.qameta.allure/allure-maven@2.10.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-maven@2.11.2
+- pkg:maven/io.qameta.allure/allure-maven@2.11.2?classifier=sources
 - pkg:maven/io.qameta.allure/allure-maven@2.8
 - pkg:maven/io.qameta.allure/allure-maven@2.8?classifier=sources
 - pkg:maven/io.qameta.allure/allure-maven@2.9

@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.gds/algo-test@2.0.0-alpha01?classifier=sources
+- pkg:maven/org.neo4j.gds/algo-test@2.0.0-alpha02?classifier=sources

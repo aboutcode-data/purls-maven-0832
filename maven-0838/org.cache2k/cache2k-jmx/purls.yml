@@ -34,3 +34,7 @@
 - pkg:maven/org.cache2k/cache2k-jmx@2.4.1.Final?classifier=sources
 - pkg:maven/org.cache2k/cache2k-jmx@2.5.1.Alpha
 - pkg:maven/org.cache2k/cache2k-jmx@2.5.1.Alpha?classifier=sources
+- pkg:maven/org.cache2k/cache2k-jmx@2.5.2.Alpha
+- pkg:maven/org.cache2k/cache2k-jmx@2.5.2.Alpha?classifier=sources
+- pkg:maven/org.cache2k/cache2k-jmx@2.5.3.Beta
+- pkg:maven/org.cache2k/cache2k-jmx@2.5.3.Beta?classifier=sources

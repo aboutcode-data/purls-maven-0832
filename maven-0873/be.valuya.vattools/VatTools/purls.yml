@@ -1,0 +1,2 @@
+- pkg:maven/be.valuya.vattools/VatTools@2022.3
+- pkg:maven/be.valuya.vattools/VatTools@2022.3?classifier=sources

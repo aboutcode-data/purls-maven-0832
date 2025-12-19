@@ -1,0 +1,4 @@
+- pkg:maven/org.errors4s/errors4s-http4s_3@2.0.0.0
+- pkg:maven/org.errors4s/errors4s-http4s_3@2.0.0.0?classifier=sources
+- pkg:maven/org.errors4s/errors4s-http4s_3@3.0.0.0
+- pkg:maven/org.errors4s/errors4s-http4s_3@3.0.0.0?classifier=sources

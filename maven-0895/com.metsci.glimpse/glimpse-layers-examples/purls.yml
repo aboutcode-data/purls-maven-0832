@@ -2,3 +2,5 @@
 - pkg:maven/com.metsci.glimpse/glimpse-layers-examples@3.1.0?classifier=sources
 - pkg:maven/com.metsci.glimpse/glimpse-layers-examples@3.2.0
 - pkg:maven/com.metsci.glimpse/glimpse-layers-examples@3.2.0?classifier=sources
+- pkg:maven/com.metsci.glimpse/glimpse-layers-examples@4.0.0
+- pkg:maven/com.metsci.glimpse/glimpse-layers-examples@4.0.0?classifier=sources

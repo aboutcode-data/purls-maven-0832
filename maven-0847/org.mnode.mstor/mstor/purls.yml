@@ -2,3 +2,5 @@
 - pkg:maven/org.mnode.mstor/mstor@0.9.13?classifier=sources
 - pkg:maven/org.mnode.mstor/mstor@1.0.0
 - pkg:maven/org.mnode.mstor/mstor@1.0.0?classifier=sources
+- pkg:maven/org.mnode.mstor/mstor@1.0.1?classifier=sources
+- pkg:maven/org.mnode.mstor/mstor@1.0.2?classifier=sources

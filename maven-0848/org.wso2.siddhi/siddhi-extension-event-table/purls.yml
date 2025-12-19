@@ -10,3 +10,5 @@
 - pkg:maven/org.wso2.siddhi/siddhi-extension-event-table@3.2.3?classifier=sources
 - pkg:maven/org.wso2.siddhi/siddhi-extension-event-table@3.2.4
 - pkg:maven/org.wso2.siddhi/siddhi-extension-event-table@3.2.4?classifier=sources
+- pkg:maven/org.wso2.siddhi/siddhi-extension-event-table@3.2.7
+- pkg:maven/org.wso2.siddhi/siddhi-extension-event-table@3.2.7?classifier=sources

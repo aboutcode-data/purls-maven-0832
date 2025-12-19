@@ -2,3 +2,5 @@
 - pkg:maven/tech.mlsql.serviceframework.baseweb/ar_runtime_web_console-lib_2.11@1.0.0?classifier=sources
 - pkg:maven/tech.mlsql.serviceframework.baseweb/ar_runtime_web_console-lib_2.11@1.0.2
 - pkg:maven/tech.mlsql.serviceframework.baseweb/ar_runtime_web_console-lib_2.11@1.0.2?classifier=sources
+- pkg:maven/tech.mlsql.serviceframework.baseweb/ar_runtime_web_console-lib_2.11@1.0.3
+- pkg:maven/tech.mlsql.serviceframework.baseweb/ar_runtime_web_console-lib_2.11@1.0.3?classifier=sources

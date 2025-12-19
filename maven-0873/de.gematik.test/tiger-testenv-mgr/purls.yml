@@ -18,6 +18,10 @@
 - pkg:maven/de.gematik.test/tiger-testenv-mgr@0.16.4?classifier=sources
 - pkg:maven/de.gematik.test/tiger-testenv-mgr@0.17.0
 - pkg:maven/de.gematik.test/tiger-testenv-mgr@0.17.0?classifier=sources
+- pkg:maven/de.gematik.test/tiger-testenv-mgr@0.17.1
+- pkg:maven/de.gematik.test/tiger-testenv-mgr@0.17.1?classifier=sources
+- pkg:maven/de.gematik.test/tiger-testenv-mgr@0.18.1
+- pkg:maven/de.gematik.test/tiger-testenv-mgr@0.18.1?classifier=sources
 - pkg:maven/de.gematik.test/tiger-testenv-mgr@0.3.0
 - pkg:maven/de.gematik.test/tiger-testenv-mgr@0.3.0?classifier=sources
 - pkg:maven/de.gematik.test/tiger-testenv-mgr@0.4.0

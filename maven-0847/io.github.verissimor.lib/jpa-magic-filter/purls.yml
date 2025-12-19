@@ -1,0 +1,2 @@
+- pkg:maven/io.github.verissimor.lib/jpa-magic-filter@0.0.10?classifier=sources
+- pkg:maven/io.github.verissimor.lib/jpa-magic-filter@0.0.9?classifier=sources

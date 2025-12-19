@@ -58,6 +58,8 @@
 - pkg:maven/com.ibeetl/sql-core@3.11.3-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-core@3.12.0-RELEASE
 - pkg:maven/com.ibeetl/sql-core@3.12.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-core@3.12.10-RELEASE
+- pkg:maven/com.ibeetl/sql-core@3.12.10-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-core@3.12.2-RELEASE
 - pkg:maven/com.ibeetl/sql-core@3.12.2-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-core@3.12.3-RELEASE
@@ -66,6 +68,14 @@
 - pkg:maven/com.ibeetl/sql-core@3.12.4-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-core@3.12.5-RELEASE
 - pkg:maven/com.ibeetl/sql-core@3.12.5-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-core@3.12.6-RELEASE
+- pkg:maven/com.ibeetl/sql-core@3.12.6-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-core@3.12.7-RELEASE
+- pkg:maven/com.ibeetl/sql-core@3.12.7-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-core@3.12.8-RELEASE
+- pkg:maven/com.ibeetl/sql-core@3.12.8-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-core@3.12.9-RELEASE
+- pkg:maven/com.ibeetl/sql-core@3.12.9-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-core@3.2.0-RELEASE
 - pkg:maven/com.ibeetl/sql-core@3.2.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-core@3.2.1-RELEASE

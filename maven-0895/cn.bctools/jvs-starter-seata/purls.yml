@@ -1,0 +1,4 @@
+- pkg:maven/cn.bctools/jvs-starter-seata@1.0.0
+- pkg:maven/cn.bctools/jvs-starter-seata@1.0.0?classifier=sources
+- pkg:maven/cn.bctools/jvs-starter-seata@1.1.0
+- pkg:maven/cn.bctools/jvs-starter-seata@1.1.0?classifier=sources

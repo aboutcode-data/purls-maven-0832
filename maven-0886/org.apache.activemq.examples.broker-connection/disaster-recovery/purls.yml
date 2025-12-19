@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.activemq.examples.broker-connection/disaster-recovery@2.18.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker-connection/disaster-recovery@2.19.0
 - pkg:maven/org.apache.activemq.examples.broker-connection/disaster-recovery@2.19.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker-connection/disaster-recovery@2.20.0
+- pkg:maven/org.apache.activemq.examples.broker-connection/disaster-recovery@2.20.0?classifier=sources

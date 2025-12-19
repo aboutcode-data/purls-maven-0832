@@ -18,6 +18,19 @@
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@2.1.1%2B8-a673dd6f
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@2.1.1%2B8-a673dd6f?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@2.1.1?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B1-e4642f11
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B1-e4642f11?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B2-a4fb1c71
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B2-a4fb1c71?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B3-4ac1fa8b
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B3-4ac1fa8b?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B4-ec7707aa
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B4-ec7707aa?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B5-3bec1373
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B5-3bec1373?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B6-99eaa22e
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0%2B6-99eaa22e?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B1-102f3789
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B1-102f3789?classifier=sources
@@ -31,6 +44,8 @@
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B13-2359e387?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B14-31e7c11d
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B14-31e7c11d?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B15-1ad6247e
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B15-1ad6247e?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B2-690cfae3
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B2-690cfae3?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B3-c5f441ea
@@ -46,3 +61,4 @@
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B9-ffa94827
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0%2B9-ffa94827?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0-M0?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/covariant_2.13@3.0.0?classifier=sources

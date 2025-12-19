@@ -12,5 +12,13 @@
 - pkg:maven/io.sentry/sentry-jdbc@5.5.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@5.5.1
 - pkg:maven/io.sentry/sentry-jdbc@5.5.1?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@5.5.2
+- pkg:maven/io.sentry/sentry-jdbc@5.5.2?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@5.5.3
+- pkg:maven/io.sentry/sentry-jdbc@5.5.3?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@5.6.0
+- pkg:maven/io.sentry/sentry-jdbc@5.6.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@6.0.0-alpha.1
 - pkg:maven/io.sentry/sentry-jdbc@6.0.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@6.0.0-alpha.2
+- pkg:maven/io.sentry/sentry-jdbc@6.0.0-alpha.2?classifier=sources

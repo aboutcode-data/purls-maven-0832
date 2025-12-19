@@ -1,0 +1,4 @@
+- pkg:maven/net.frogmouth.chronyjava/chrony-java-cli@0.6
+- pkg:maven/net.frogmouth.chronyjava/chrony-java-cli@0.6?classifier=sources
+- pkg:maven/net.frogmouth.chronyjava/chrony-java-cli@0.7
+- pkg:maven/net.frogmouth.chronyjava/chrony-java-cli@0.7?classifier=sources

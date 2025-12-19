@@ -1,0 +1,2 @@
+- pkg:maven/org.jmisb/jmisb-core-common@1.11.0
+- pkg:maven/org.jmisb/jmisb-core-common@1.11.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.0.8?classifier=sources
 - pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.1.0
 - pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.1.0?classifier=sources
+- pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.1.1
+- pkg:maven/it.bancaditalia.oss.vtl/vtl-envs@1.1.1?classifier=sources

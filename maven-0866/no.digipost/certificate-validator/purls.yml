@@ -30,3 +30,5 @@
 - pkg:maven/no.digipost/certificate-validator@2.3-RC2
 - pkg:maven/no.digipost/certificate-validator@2.3-RC2?classifier=sources
 - pkg:maven/no.digipost/certificate-validator@2.3?classifier=sources
+- pkg:maven/no.digipost/certificate-validator@2.4
+- pkg:maven/no.digipost/certificate-validator@2.4?classifier=sources

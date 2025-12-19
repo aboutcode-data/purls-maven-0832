@@ -1,0 +1,8 @@
+- pkg:maven/com.hyprmx.android/HyprMX-AdMob@4.3.1?classifier=sources
+- pkg:maven/com.hyprmx.android/HyprMX-AdMob@4.3?classifier=sources
+- pkg:maven/com.hyprmx.android/HyprMX-AdMob@5.0.1?classifier=sources
+- pkg:maven/com.hyprmx.android/HyprMX-AdMob@5.0?classifier=sources
+- pkg:maven/com.hyprmx.android/HyprMX-AdMob@5.1.0?classifier=sources
+- pkg:maven/com.hyprmx.android/HyprMX-AdMob@5.1.2.1?classifier=sources
+- pkg:maven/com.hyprmx.android/HyprMX-AdMob@5.1.2?classifier=sources
+- pkg:maven/com.hyprmx.android/HyprMX-AdMob@6.0.1.0?classifier=sources

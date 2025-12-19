@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tirth132/mine@0.1-beta.0
+- pkg:maven/io.github.tirth132/mine@0.1-beta.0?classifier=sources

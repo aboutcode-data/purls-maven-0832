@@ -24,3 +24,5 @@
 - pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift-client_2.13@21.8.0?classifier=sources
 - pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift-client_2.13@21.9.0
 - pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift-client_2.13@21.9.0?classifier=sources
+- pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift-client_2.13@22.1.0
+- pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift-client_2.13@22.1.0?classifier=sources

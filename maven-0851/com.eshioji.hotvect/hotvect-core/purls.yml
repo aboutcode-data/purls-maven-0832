@@ -1,6 +1,12 @@
+- pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.10
+- pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.10?classifier=sources
+- pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.12
+- pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.12?classifier=sources
 - pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.2
 - pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.2?classifier=sources
 - pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.5
 - pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.5?classifier=sources
 - pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.6
 - pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.6?classifier=sources
+- pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.8
+- pkg:maven/com.eshioji.hotvect/hotvect-core@0.0.8?classifier=sources

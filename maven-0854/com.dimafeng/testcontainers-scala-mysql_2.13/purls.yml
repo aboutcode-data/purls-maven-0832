@@ -62,5 +62,7 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-mysql_2.13@0.39.8?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-mysql_2.13@0.39.9
 - pkg:maven/com.dimafeng/testcontainers-scala-mysql_2.13@0.39.9?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-mysql_2.13@0.40.0
+- pkg:maven/com.dimafeng/testcontainers-scala-mysql_2.13@0.40.0?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-mysql_2.13@1.0.0-alpha1
 - pkg:maven/com.dimafeng/testcontainers-scala-mysql_2.13@1.0.0-alpha1?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/io.github.pluginloader/bukkit-api@1.11.10?classifier=sources
+- pkg:maven/io.github.pluginloader/bukkit-api@1.11.6?classifier=sources
+- pkg:maven/io.github.pluginloader/bukkit-api@1.11.7?classifier=sources
+- pkg:maven/io.github.pluginloader/bukkit-api@1.11.8?classifier=sources
+- pkg:maven/io.github.pluginloader/bukkit-api@1.11.9?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/com.softicar.platform/platform-common-security@12.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-security@12.1.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-security@12.1.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-security@13.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-security@13.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-security@13.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-security@14.0.0?classifier=sources

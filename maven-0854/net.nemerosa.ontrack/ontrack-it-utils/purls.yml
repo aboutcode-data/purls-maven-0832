@@ -671,6 +671,8 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@3.43.22?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@3.43.23
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@3.43.23?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@3.43.24
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@3.43.24?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@3.43.2?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@3.43.3
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@3.43.3?classifier=sources
@@ -781,7 +783,17 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.0.8?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.0.9?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.10?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.11?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.1?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.2?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.3?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.4?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.5?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.6?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.7?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.8?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@4.1.9?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@experimental-pipeline-2521992
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@experimental-pipeline-2521992?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-it-utils@experimental-pipeline-3acef09

@@ -85,7 +85,11 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.6.3-m4?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.6.3-m5
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.6.3-m5?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.6.3-m6
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.6.3-m6?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m1
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m10
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m10?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m1?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m2
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m2?classifier=sources
@@ -99,3 +103,7 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m6?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m7
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m7?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m8
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m8?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m9
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.ndatasource.core@4.7.0-m9?classifier=sources

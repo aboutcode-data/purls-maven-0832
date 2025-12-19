@@ -83,6 +83,7 @@
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@2.0.0
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@2.0.1
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@2.0.10?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@2.0.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@2.0.2
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@2.0.2?classifier=sources
@@ -108,6 +109,10 @@
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.11?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.12?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.13?classifier=sources
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.14
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.14?classifier=sources
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.15?classifier=sources
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.16?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.2
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@3.0.2?classifier=sources
@@ -137,3 +142,4 @@
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@4.0.5?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@4.0.6?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@4.0.7?classifier=sources
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@4.0.8?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.jitsi/libjitsi@1.1-0-g19f651af?classifier=sources
 - pkg:maven/org.jitsi/libjitsi@1.1-1-g74886826
 - pkg:maven/org.jitsi/libjitsi@1.1-1-g74886826?classifier=sources
+- pkg:maven/org.jitsi/libjitsi@1.1-4-gfb6b03ff
+- pkg:maven/org.jitsi/libjitsi@1.1-4-gfb6b03ff?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/io.kvision/io.kvision.gradle.plugin@5.5.1?classifier=sources
 - pkg:maven/io.kvision/io.kvision.gradle.plugin@5.6.0?classifier=sources
 - pkg:maven/io.kvision/io.kvision.gradle.plugin@5.6.1?classifier=sources
+- pkg:maven/io.kvision/io.kvision.gradle.plugin@5.7.0?classifier=sources
+- pkg:maven/io.kvision/io.kvision.gradle.plugin@5.7.1?classifier=sources
+- pkg:maven/io.kvision/io.kvision.gradle.plugin@5.7.2?classifier=sources
+- pkg:maven/io.kvision/io.kvision.gradle.plugin@5.8.0?classifier=sources

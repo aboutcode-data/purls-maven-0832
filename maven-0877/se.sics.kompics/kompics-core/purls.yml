@@ -1,0 +1,2 @@
+- pkg:maven/se.sics.kompics/kompics-core@1.2.1
+- pkg:maven/se.sics.kompics/kompics-core@1.2.1?classifier=sources

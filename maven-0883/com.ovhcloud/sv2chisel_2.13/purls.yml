@@ -1,0 +1,2 @@
+- pkg:maven/com.ovhcloud/sv2chisel_2.13@0.5.0-RC2
+- pkg:maven/com.ovhcloud/sv2chisel_2.13@0.5.0-RC2?classifier=sources

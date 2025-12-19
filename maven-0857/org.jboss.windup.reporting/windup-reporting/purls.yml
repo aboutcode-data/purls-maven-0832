@@ -136,3 +136,5 @@
 - pkg:maven/org.jboss.windup.reporting/windup-reporting@5.2.1.Alpha1?classifier=sources
 - pkg:maven/org.jboss.windup.reporting/windup-reporting@5.2.1.Final
 - pkg:maven/org.jboss.windup.reporting/windup-reporting@5.2.1.Final?classifier=sources
+- pkg:maven/org.jboss.windup.reporting/windup-reporting@5.3.0.Alpha1
+- pkg:maven/org.jboss.windup.reporting/windup-reporting@5.3.0.Alpha1?classifier=sources

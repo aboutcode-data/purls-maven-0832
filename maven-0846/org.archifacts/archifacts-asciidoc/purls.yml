@@ -4,5 +4,7 @@
 - pkg:maven/org.archifacts/archifacts-asciidoc@0.1.0?classifier=sources
 - pkg:maven/org.archifacts/archifacts-asciidoc@0.2.0
 - pkg:maven/org.archifacts/archifacts-asciidoc@0.2.0?classifier=sources
+- pkg:maven/org.archifacts/archifacts-asciidoc@0.3.0
+- pkg:maven/org.archifacts/archifacts-asciidoc@0.3.0?classifier=sources
 - pkg:maven/org.archifacts/archifacts-asciidoc@v0.0.1.alpha10
 - pkg:maven/org.archifacts/archifacts-asciidoc@v0.0.1.alpha10?classifier=sources

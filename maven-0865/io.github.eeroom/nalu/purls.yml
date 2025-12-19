@@ -4,3 +4,6 @@
 - pkg:maven/io.github.eeroom/nalu@2.0?classifier=sources
 - pkg:maven/io.github.eeroom/nalu@2.1
 - pkg:maven/io.github.eeroom/nalu@2.1?classifier=sources
+- pkg:maven/io.github.eeroom/nalu@2.2?classifier=sources
+- pkg:maven/io.github.eeroom/nalu@2.3?classifier=sources
+- pkg:maven/io.github.eeroom/nalu@2.4?classifier=sources

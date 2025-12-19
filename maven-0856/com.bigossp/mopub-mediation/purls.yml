@@ -6,3 +6,5 @@
 - pkg:maven/com.bigossp/mopub-mediation@1.6.3.0?type=aar
 - pkg:maven/com.bigossp/mopub-mediation@1.7.0.0?classifier=sources
 - pkg:maven/com.bigossp/mopub-mediation@1.7.0.0?type=aar
+- pkg:maven/com.bigossp/mopub-mediation@1.8.0.0?classifier=sources
+- pkg:maven/com.bigossp/mopub-mediation@1.8.0.0?type=aar

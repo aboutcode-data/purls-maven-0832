@@ -123,6 +123,8 @@
 - pkg:maven/com.github.davidmoten/odata-client-msgraph@0.1.71?classifier=sources
 - pkg:maven/com.github.davidmoten/odata-client-msgraph@0.1.73
 - pkg:maven/com.github.davidmoten/odata-client-msgraph@0.1.73?classifier=sources
+- pkg:maven/com.github.davidmoten/odata-client-msgraph@0.1.75
+- pkg:maven/com.github.davidmoten/odata-client-msgraph@0.1.75?classifier=sources
 - pkg:maven/com.github.davidmoten/odata-client-msgraph@0.1.9
 - pkg:maven/com.github.davidmoten/odata-client-msgraph@0.1.9?classifier=sources
 - pkg:maven/com.github.davidmoten/odata-client-msgraph@0.1?classifier=sources

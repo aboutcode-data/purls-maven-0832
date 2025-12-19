@@ -1,1 +1,2 @@
 - pkg:maven/com.github.brunotl/boost_intrusive@1.76.0?type=aar
+- pkg:maven/com.github.brunotl/boost_intrusive@1.78.0?type=aar

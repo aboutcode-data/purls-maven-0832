@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dfm1210/ebatis@1.0
+- pkg:maven/io.github.dfm1210/ebatis@1.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/net.tascalate/net.tascalate.asmx@7.1.0?classifier=sources
 - pkg:maven/net.tascalate/net.tascalate.asmx@9.2.0
 - pkg:maven/net.tascalate/net.tascalate.asmx@9.2.0?classifier=sources
+- pkg:maven/net.tascalate/net.tascalate.asmx@9.2.1
+- pkg:maven/net.tascalate/net.tascalate.asmx@9.2.1?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/io.datarouter/datarouter-conveyor@0.0.100
+- pkg:maven/io.datarouter/datarouter-conveyor@0.0.100?classifier=sources
+- pkg:maven/io.datarouter/datarouter-conveyor@0.0.101
+- pkg:maven/io.datarouter/datarouter-conveyor@0.0.101?classifier=sources
 - pkg:maven/io.datarouter/datarouter-conveyor@0.0.14
 - pkg:maven/io.datarouter/datarouter-conveyor@0.0.14?classifier=sources
 - pkg:maven/io.datarouter/datarouter-conveyor@0.0.15
@@ -164,3 +168,5 @@
 - pkg:maven/io.datarouter/datarouter-conveyor@0.0.97?classifier=sources
 - pkg:maven/io.datarouter/datarouter-conveyor@0.0.98
 - pkg:maven/io.datarouter/datarouter-conveyor@0.0.98?classifier=sources
+- pkg:maven/io.datarouter/datarouter-conveyor@0.0.99
+- pkg:maven/io.datarouter/datarouter-conveyor@0.0.99?classifier=sources

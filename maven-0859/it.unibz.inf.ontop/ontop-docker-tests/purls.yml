@@ -9,3 +9,4 @@
 - pkg:maven/it.unibz.inf.ontop/ontop-docker-tests@4.0.3
 - pkg:maven/it.unibz.inf.ontop/ontop-docker-tests@4.1.0
 - pkg:maven/it.unibz.inf.ontop/ontop-docker-tests@4.1.1
+- pkg:maven/it.unibz.inf.ontop/ontop-docker-tests@4.2.0

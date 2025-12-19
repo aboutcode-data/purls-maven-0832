@@ -70,6 +70,12 @@
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@14.7.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.0
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.1
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.2
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.3
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@17.0.10
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@17.0.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@17.0.11
@@ -158,3 +164,9 @@
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@22.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@22.0.1
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@22.0.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@22.0.2
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@22.0.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@22.0.3
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@22.0.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@22.0.4
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@22.0.4?classifier=sources

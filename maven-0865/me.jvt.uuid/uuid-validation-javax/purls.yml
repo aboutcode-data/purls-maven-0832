@@ -1,0 +1,7 @@
+- pkg:maven/me.jvt.uuid/uuid-validation-javax@0.2.0?classifier=sources
+- pkg:maven/me.jvt.uuid/uuid-validation-javax@0.3.0?classifier=sources
+- pkg:maven/me.jvt.uuid/uuid-validation-javax@0.4.0?classifier=sources
+- pkg:maven/me.jvt.uuid/uuid-validation-javax@0.6.0?classifier=sources
+- pkg:maven/me.jvt.uuid/uuid-validation-javax@0.7.0?classifier=sources
+- pkg:maven/me.jvt.uuid/uuid-validation-javax@0.8.0?classifier=sources
+- pkg:maven/me.jvt.uuid/uuid-validation-javax@0.8.1?classifier=sources

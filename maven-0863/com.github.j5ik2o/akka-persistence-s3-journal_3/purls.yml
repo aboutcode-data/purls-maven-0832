@@ -98,3 +98,9 @@
 - pkg:maven/com.github.j5ik2o/akka-persistence-s3-journal_3@1.1.73?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-persistence-s3-journal_3@1.1.74
 - pkg:maven/com.github.j5ik2o/akka-persistence-s3-journal_3@1.1.74?classifier=sources
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-journal_3@1.1.75
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-journal_3@1.1.75?classifier=sources
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-journal_3@1.1.76
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-journal_3@1.1.76?classifier=sources
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-journal_3@1.1.77
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-journal_3@1.1.77?classifier=sources

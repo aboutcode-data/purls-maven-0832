@@ -20,3 +20,5 @@
 - pkg:maven/be.personify.iam/personify-scim-server@1.2.3.RELEASE?classifier=sources
 - pkg:maven/be.personify.iam/personify-scim-server@1.2.5.RELEASE
 - pkg:maven/be.personify.iam/personify-scim-server@1.2.5.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-scim-server@1.2.6.RELEASE
+- pkg:maven/be.personify.iam/personify-scim-server@1.2.6.RELEASE?classifier=sources

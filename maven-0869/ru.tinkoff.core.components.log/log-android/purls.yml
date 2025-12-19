@@ -1,0 +1,2 @@
+- pkg:maven/ru.tinkoff.core.components.log/log-android@2.5.0?classifier=sources
+- pkg:maven/ru.tinkoff.core.components.log/log-android@2.5.0?type=aar

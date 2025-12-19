@@ -26,6 +26,8 @@
 - pkg:maven/com.github.wywuzh/commons-mybatis-generator@2.4.10.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-mybatis-generator@2.4.11.RELEASE
 - pkg:maven/com.github.wywuzh/commons-mybatis-generator@2.4.11.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-mybatis-generator@2.4.12.RELEASE
+- pkg:maven/com.github.wywuzh/commons-mybatis-generator@2.4.12.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-mybatis-generator@2.4.2.RELEASE
 - pkg:maven/com.github.wywuzh/commons-mybatis-generator@2.4.2.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-mybatis-generator@2.4.3.RELEASE

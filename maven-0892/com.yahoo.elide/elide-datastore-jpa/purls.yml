@@ -128,3 +128,11 @@
 - pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.0.3?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.0.4
 - pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.0.4?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.0.5
+- pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.0.5?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.0.6
+- pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.0.6?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.1.0
+- pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.1.0?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.1.1
+- pkg:maven/com.yahoo.elide/elide-datastore-jpa@6.1.1?classifier=sources

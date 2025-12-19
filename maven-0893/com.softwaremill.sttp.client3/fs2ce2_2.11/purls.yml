@@ -42,3 +42,7 @@
 - pkg:maven/com.softwaremill.sttp.client3/fs2ce2_2.11@3.3.7?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/fs2ce2_2.11@3.3.9
 - pkg:maven/com.softwaremill.sttp.client3/fs2ce2_2.11@3.3.9?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/fs2ce2_2.11@3.4.0
+- pkg:maven/com.softwaremill.sttp.client3/fs2ce2_2.11@3.4.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/fs2ce2_2.11@3.4.1
+- pkg:maven/com.softwaremill.sttp.client3/fs2ce2_2.11@3.4.1?classifier=sources

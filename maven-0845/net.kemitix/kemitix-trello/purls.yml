@@ -8,3 +8,7 @@
 - pkg:maven/net.kemitix/kemitix-trello@1.0.3?classifier=sources
 - pkg:maven/net.kemitix/kemitix-trello@1.1.0
 - pkg:maven/net.kemitix/kemitix-trello@1.1.0?classifier=sources
+- pkg:maven/net.kemitix/kemitix-trello@2.0.0
+- pkg:maven/net.kemitix/kemitix-trello@2.0.0?classifier=sources
+- pkg:maven/net.kemitix/kemitix-trello@2.0.1
+- pkg:maven/net.kemitix/kemitix-trello@2.0.1?classifier=sources

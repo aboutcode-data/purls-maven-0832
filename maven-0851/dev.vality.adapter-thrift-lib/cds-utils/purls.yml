@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality.adapter-thrift-lib/cds-utils@1.0.0
+- pkg:maven/dev.vality.adapter-thrift-lib/cds-utils@1.0.0?classifier=sources

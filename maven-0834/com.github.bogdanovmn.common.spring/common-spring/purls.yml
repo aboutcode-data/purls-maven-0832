@@ -2,3 +2,5 @@
 - pkg:maven/com.github.bogdanovmn.common.spring/common-spring@1.5.1?classifier=sources
 - pkg:maven/com.github.bogdanovmn.common.spring/common-spring@1.7.0
 - pkg:maven/com.github.bogdanovmn.common.spring/common-spring@1.7.0?classifier=sources
+- pkg:maven/com.github.bogdanovmn.common.spring/common-spring@1.8.0
+- pkg:maven/com.github.bogdanovmn.common.spring/common-spring@1.8.0?classifier=sources

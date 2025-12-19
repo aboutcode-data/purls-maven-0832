@@ -1,3 +1,4 @@
+- pkg:maven/com.fireflysource/firefly-net@5.0.0
 - pkg:maven/com.fireflysource/firefly-net@5.0.0-alpha1
 - pkg:maven/com.fireflysource/firefly-net@5.0.0-alpha10
 - pkg:maven/com.fireflysource/firefly-net@5.0.0-alpha10?classifier=sources
@@ -28,3 +29,4 @@
 - pkg:maven/com.fireflysource/firefly-net@5.0.0-alpha8?classifier=sources
 - pkg:maven/com.fireflysource/firefly-net@5.0.0-alpha9
 - pkg:maven/com.fireflysource/firefly-net@5.0.0-alpha9?classifier=sources
+- pkg:maven/com.fireflysource/firefly-net@5.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@21.12
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@21.12.1
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@21.12.1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@21.12?classifier=sources

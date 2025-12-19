@@ -4,3 +4,5 @@
 - pkg:maven/org.bspfsystems.bungeeipc/bungeeipc-client-api@2.1.0?classifier=sources
 - pkg:maven/org.bspfsystems.bungeeipc/bungeeipc-client-api@2.1.1
 - pkg:maven/org.bspfsystems.bungeeipc/bungeeipc-client-api@2.1.1?classifier=sources
+- pkg:maven/org.bspfsystems.bungeeipc/bungeeipc-client-api@3.0.0
+- pkg:maven/org.bspfsystems.bungeeipc/bungeeipc-client-api@3.0.0?classifier=sources

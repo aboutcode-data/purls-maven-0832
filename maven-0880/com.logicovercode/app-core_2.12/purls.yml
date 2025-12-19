@@ -1,0 +1,2 @@
+- pkg:maven/com.logicovercode/app-core_2.12@0.0.001
+- pkg:maven/com.logicovercode/app-core_2.12@0.0.001?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.openrndr/openrndr-gl3-natives-macos@0.3.47?classifier=sources
 - pkg:maven/org.openrndr/openrndr-gl3-natives-macos@0.3.58?classifier=sources
 - pkg:maven/org.openrndr/openrndr-gl3-natives-macos@0.4.0-rc.3?classifier=sources
+- pkg:maven/org.openrndr/openrndr-gl3-natives-macos@0.4.0-rc.5?classifier=sources

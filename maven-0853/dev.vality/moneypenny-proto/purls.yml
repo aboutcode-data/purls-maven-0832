@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality/moneypenny-proto@1.9-fd77027
+- pkg:maven/dev.vality/moneypenny-proto@1.9-fd77027?classifier=sources

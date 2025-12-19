@@ -124,6 +124,8 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.1.9?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.0
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.0?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.10
+- pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.10?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.2
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.2?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.4
@@ -136,3 +138,5 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.7?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.8
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.8?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.9
+- pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@2.2.9?classifier=sources

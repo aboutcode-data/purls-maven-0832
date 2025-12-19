@@ -3,4 +3,6 @@
 - pkg:maven/org.jetbrains.compose.runtime/runtime-js@1.0.0-rc5?classifier=sources
 - pkg:maven/org.jetbrains.compose.runtime/runtime-js@1.0.0?classifier=sources
 - pkg:maven/org.jetbrains.compose.runtime/runtime-js@1.0.1?classifier=sources
+- pkg:maven/org.jetbrains.compose.runtime/runtime-js@1.1.0-alpha02?classifier=sources
 - pkg:maven/org.jetbrains.compose.runtime/runtime-js@1.1.0-alpha1-dev536?classifier=sources
+- pkg:maven/org.jetbrains.compose.runtime/runtime-js@1.1.0-alpha1-dev550?classifier=sources

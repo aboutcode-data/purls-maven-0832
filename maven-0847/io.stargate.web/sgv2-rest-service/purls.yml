@@ -1,0 +1,2 @@
+- pkg:maven/io.stargate.web/sgv2-rest-service@2.0.0-ALPHA-1
+- pkg:maven/io.stargate.web/sgv2-rest-service@2.0.0-ALPHA-1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.adlibsoftware/adlib-integration@7.1.1
+- pkg:maven/com.adlibsoftware/adlib-integration@7.1.1?classifier=sources
+- pkg:maven/com.adlibsoftware/adlib-integration@7.1.2
+- pkg:maven/com.adlibsoftware/adlib-integration@7.1.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/cn.huangdayu/almanac@20211128
 - pkg:maven/cn.huangdayu/almanac@20211128?classifier=sources
+- pkg:maven/cn.huangdayu/almanac@20211224
+- pkg:maven/cn.huangdayu/almanac@20211224?classifier=sources

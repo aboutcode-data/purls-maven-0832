@@ -26,6 +26,8 @@
 - pkg:maven/org.jboss.narayana.rts/lra-proxy-api@5.12.2.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.rts/lra-proxy-api@5.12.4.Final
 - pkg:maven/org.jboss.narayana.rts/lra-proxy-api@5.12.4.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.rts/lra-proxy-api@5.12.5.Final
+- pkg:maven/org.jboss.narayana.rts/lra-proxy-api@5.12.5.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.rts/lra-proxy-api@5.9.10.Final
 - pkg:maven/org.jboss.narayana.rts/lra-proxy-api@5.9.10.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.rts/lra-proxy-api@5.9.11.Final

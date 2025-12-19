@@ -28,3 +28,7 @@
 - pkg:maven/cn.woodwhales.common/woodwhales-common@3.6.7?classifier=sources
 - pkg:maven/cn.woodwhales.common/woodwhales-common@3.6.9
 - pkg:maven/cn.woodwhales.common/woodwhales-common@3.6.9?classifier=sources
+- pkg:maven/cn.woodwhales.common/woodwhales-common@3.7.0
+- pkg:maven/cn.woodwhales.common/woodwhales-common@3.7.0?classifier=sources
+- pkg:maven/cn.woodwhales.common/woodwhales-common@3.7.1
+- pkg:maven/cn.woodwhales.common/woodwhales-common@3.7.1?classifier=sources

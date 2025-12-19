@@ -1,0 +1,4 @@
+- pkg:maven/de.wayofquality.blended/mill-mdoc-testsupport_mill0.10.0-M5_2.13@0.0.0-5-c6fc25
+- pkg:maven/de.wayofquality.blended/mill-mdoc-testsupport_mill0.10.0-M5_2.13@0.0.0-5-c6fc25?classifier=sources
+- pkg:maven/de.wayofquality.blended/mill-mdoc-testsupport_mill0.10.0-M5_2.13@0.0.1
+- pkg:maven/de.wayofquality.blended/mill-mdoc-testsupport_mill0.10.0-M5_2.13@0.0.1?classifier=sources

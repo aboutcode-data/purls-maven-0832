@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/machinegun-proto@1.20-dabe508
+- pkg:maven/dev.vality/machinegun-proto@1.20-dabe508?classifier=sources
+- pkg:maven/dev.vality/machinegun-proto@1.21-e4784ab
+- pkg:maven/dev.vality/machinegun-proto@1.21-e4784ab?classifier=sources

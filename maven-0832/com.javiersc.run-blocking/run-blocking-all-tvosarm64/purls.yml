@@ -1,1 +1,2 @@
 - pkg:maven/com.javiersc.run-blocking/run-blocking-all-tvosarm64@0.1.0-beta.2?classifier=sources
+- pkg:maven/com.javiersc.run-blocking/run-blocking-all-tvosarm64@0.1.0-beta.3?classifier=sources

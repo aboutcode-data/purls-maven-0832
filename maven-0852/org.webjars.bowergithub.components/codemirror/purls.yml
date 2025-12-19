@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.bowergithub.components/codemirror@5.11.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.components/codemirror@5.18.2
 - pkg:maven/org.webjars.bowergithub.components/codemirror@5.18.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.components/codemirror@5.28.0
+- pkg:maven/org.webjars.bowergithub.components/codemirror@5.28.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.components/codemirror@5.38.0
 - pkg:maven/org.webjars.bowergithub.components/codemirror@5.38.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.components/codemirror@5.41.0
