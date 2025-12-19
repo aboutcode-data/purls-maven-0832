@@ -1,0 +1,4 @@
+- pkg:maven/xyz.opcal.xena/opcal-xena-spring-autoconfigure@1.27.3
+- pkg:maven/xyz.opcal.xena/opcal-xena-spring-autoconfigure@1.27.3?classifier=sources
+- pkg:maven/xyz.opcal.xena/opcal-xena-spring-autoconfigure@2.7.0
+- pkg:maven/xyz.opcal.xena/opcal-xena-spring-autoconfigure@2.7.0?classifier=sources

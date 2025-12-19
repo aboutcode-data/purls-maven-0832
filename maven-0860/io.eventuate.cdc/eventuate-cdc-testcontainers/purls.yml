@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.cdc/eventuate-cdc-testcontainers@0.14.0.RELEASE?classifier=sources

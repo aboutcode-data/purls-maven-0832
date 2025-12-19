@@ -4,6 +4,7 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.10.18
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.10.19
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.10.20
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.10.21
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.15.10
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.15.11
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.15.12
@@ -22,9 +23,12 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.17.6
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.0
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.1
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.10
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.11
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.2
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.3
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.4
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.5
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.7
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.8
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-coverage@3.18.9

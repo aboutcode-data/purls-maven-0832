@@ -38,6 +38,8 @@
 - pkg:maven/se.bjurr.gradle/gradle-scripts@2.15.2?classifier=sources
 - pkg:maven/se.bjurr.gradle/gradle-scripts@2.15.4?classifier=sources
 - pkg:maven/se.bjurr.gradle/gradle-scripts@2.16.0?classifier=sources
+- pkg:maven/se.bjurr.gradle/gradle-scripts@2.17.0?classifier=sources
+- pkg:maven/se.bjurr.gradle/gradle-scripts@2.18.0?classifier=sources
 - pkg:maven/se.bjurr.gradle/gradle-scripts@2.2.0?classifier=sources
 - pkg:maven/se.bjurr.gradle/gradle-scripts@2.2.10?classifier=sources
 - pkg:maven/se.bjurr.gradle/gradle-scripts@2.2.11?classifier=sources

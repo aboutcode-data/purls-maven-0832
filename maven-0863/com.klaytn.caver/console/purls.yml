@@ -151,3 +151,5 @@
 - pkg:maven/com.klaytn.caver/console@1.9.1-rc.2?classifier=sources
 - pkg:maven/com.klaytn.caver/console@1.9.1-rc.3-android?classifier=sources
 - pkg:maven/com.klaytn.caver/console@1.9.1-rc.3?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.9.1-rc.4-android?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.9.1-rc.4?classifier=sources

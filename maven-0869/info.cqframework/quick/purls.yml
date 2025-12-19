@@ -41,6 +41,8 @@
 - pkg:maven/info.cqframework/quick@1.5.10?classifier=sources
 - pkg:maven/info.cqframework/quick@1.5.11
 - pkg:maven/info.cqframework/quick@1.5.11?classifier=sources
+- pkg:maven/info.cqframework/quick@1.5.12
+- pkg:maven/info.cqframework/quick@1.5.12?classifier=sources
 - pkg:maven/info.cqframework/quick@1.5.1?classifier=sources
 - pkg:maven/info.cqframework/quick@1.5.2
 - pkg:maven/info.cqframework/quick@1.5.2?classifier=sources
@@ -60,3 +62,4 @@
 - pkg:maven/info.cqframework/quick@1.5.9?classifier=sources
 - pkg:maven/info.cqframework/quick@2.0.0?classifier=sources
 - pkg:maven/info.cqframework/quick@2.1.0?classifier=sources
+- pkg:maven/info.cqframework/quick@2.2.0?classifier=sources

@@ -52,3 +52,9 @@
 - pkg:maven/be.personify.iam/personify-scim-server@1.4.7.RELEASE?classifier=sources
 - pkg:maven/be.personify.iam/personify-scim-server@1.4.8.RELEASE
 - pkg:maven/be.personify.iam/personify-scim-server@1.4.8.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-scim-server@1.4.9.RELEASE
+- pkg:maven/be.personify.iam/personify-scim-server@1.4.9.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-scim-server@1.5.0.RELEASE
+- pkg:maven/be.personify.iam/personify-scim-server@1.5.0.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-scim-server@1.5.1.RELEASE
+- pkg:maven/be.personify.iam/personify-scim-server@1.5.1.RELEASE?classifier=sources

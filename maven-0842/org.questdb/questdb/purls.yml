@@ -100,5 +100,9 @@
 - pkg:maven/org.questdb/questdb@6.5.2-jdk8?type=zip
 - pkg:maven/org.questdb/questdb@6.5.2?classifier=sources
 - pkg:maven/org.questdb/questdb@6.5.2?type=zip
+- pkg:maven/org.questdb/questdb@6.5.3-jdk8?classifier=sources
+- pkg:maven/org.questdb/questdb@6.5.3-jdk8?type=zip
+- pkg:maven/org.questdb/questdb@6.5.3?classifier=sources
+- pkg:maven/org.questdb/questdb@6.5.3?type=zip
 - pkg:maven/org.questdb/questdb@6.5?classifier=sources
 - pkg:maven/org.questdb/questdb@6.5?type=zip

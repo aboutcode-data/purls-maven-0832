@@ -1,2 +1,4 @@
 - pkg:maven/be.doeraene/url-dsl_sjs1_3@0.4.0
 - pkg:maven/be.doeraene/url-dsl_sjs1_3@0.4.0?classifier=sources
+- pkg:maven/be.doeraene/url-dsl_sjs1_3@0.4.3
+- pkg:maven/be.doeraene/url-dsl_sjs1_3@0.4.3?classifier=sources

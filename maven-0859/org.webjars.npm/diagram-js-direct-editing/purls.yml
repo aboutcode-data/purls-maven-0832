@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/diagram-js-direct-editing@1.6.2?classifier=sources
 - pkg:maven/org.webjars.npm/diagram-js-direct-editing@1.7.0
 - pkg:maven/org.webjars.npm/diagram-js-direct-editing@1.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/diagram-js-direct-editing@2.0.0
+- pkg:maven/org.webjars.npm/diagram-js-direct-editing@2.0.0?classifier=sources

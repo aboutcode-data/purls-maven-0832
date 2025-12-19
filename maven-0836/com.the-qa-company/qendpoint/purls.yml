@@ -24,3 +24,5 @@
 - pkg:maven/com.the-qa-company/qendpoint@1.6.3?classifier=sources
 - pkg:maven/com.the-qa-company/qendpoint@1.6.4
 - pkg:maven/com.the-qa-company/qendpoint@1.6.4?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint@1.7.0
+- pkg:maven/com.the-qa-company/qendpoint@1.7.0?classifier=sources

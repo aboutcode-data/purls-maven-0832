@@ -1,2 +1,6 @@
 - pkg:maven/com.mantulife/common@1.0.0
 - pkg:maven/com.mantulife/common@1.0.0?classifier=sources
+- pkg:maven/com.mantulife/common@2.0.0
+- pkg:maven/com.mantulife/common@2.0.0.RELEASE
+- pkg:maven/com.mantulife/common@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.mantulife/common@2.0.0?classifier=sources

@@ -4,3 +4,13 @@
 - pkg:maven/io.specgen/kotlin-maven-plugin@2.1.1814?classifier=sources
 - pkg:maven/io.specgen/kotlin-maven-plugin@2.1.1828
 - pkg:maven/io.specgen/kotlin-maven-plugin@2.1.1828?classifier=sources
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2045
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2045?classifier=sources
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2046
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2046?classifier=sources
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2047
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2047?classifier=sources
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2049
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2049?classifier=sources
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2134
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.2134?classifier=sources

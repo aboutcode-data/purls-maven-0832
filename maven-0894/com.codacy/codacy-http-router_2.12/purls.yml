@@ -1,0 +1,4 @@
+- pkg:maven/com.codacy/codacy-http-router_2.12@0.2.0-test.19.c60f024_circe_0.8.0
+- pkg:maven/com.codacy/codacy-http-router_2.12@0.2.0-test.19.c60f024_circe_0.8.0?classifier=sources
+- pkg:maven/com.codacy/codacy-http-router_2.12@0.2.0_circe_0.8.0
+- pkg:maven/com.codacy/codacy-http-router_2.12@0.2.0_circe_0.8.0?classifier=sources

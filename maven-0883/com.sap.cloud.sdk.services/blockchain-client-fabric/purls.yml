@@ -120,3 +120,7 @@
 - pkg:maven/com.sap.cloud.sdk.services/blockchain-client-fabric@3.73.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/blockchain-client-fabric@3.74.0
 - pkg:maven/com.sap.cloud.sdk.services/blockchain-client-fabric@3.74.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-client-fabric@3.75.0
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-client-fabric@3.75.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-client-fabric@4.0.0
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-client-fabric@4.0.0?classifier=sources

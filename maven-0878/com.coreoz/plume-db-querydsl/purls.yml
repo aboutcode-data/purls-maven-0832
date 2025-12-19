@@ -38,3 +38,5 @@
 - pkg:maven/com.coreoz/plume-db-querydsl@3.0.0?classifier=sources
 - pkg:maven/com.coreoz/plume-db-querydsl@4.0.0
 - pkg:maven/com.coreoz/plume-db-querydsl@4.0.0?classifier=sources
+- pkg:maven/com.coreoz/plume-db-querydsl@4.1.0
+- pkg:maven/com.coreoz/plume-db-querydsl@4.1.0?classifier=sources

@@ -106,6 +106,7 @@
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.17.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.17.1
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.17.1?classifier=sources
+- pkg:maven/org.opendaylight.controller/threadpool-config-api@0.17.2?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.2.3
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.2.3?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.2.5-Helium

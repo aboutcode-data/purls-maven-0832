@@ -365,3 +365,5 @@
 - pkg:maven/org.javers/javers-core@6.6.3?classifier=sources
 - pkg:maven/org.javers/javers-core@6.6.4?classifier=sources
 - pkg:maven/org.javers/javers-core@6.6.5?classifier=sources
+- pkg:maven/org.javers/javers-core@6.7.0?classifier=sources
+- pkg:maven/org.javers/javers-core@6.7.1?classifier=sources

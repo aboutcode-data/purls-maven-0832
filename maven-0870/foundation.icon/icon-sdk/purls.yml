@@ -35,3 +35,4 @@
 - pkg:maven/foundation.icon/icon-sdk@2.0.0
 - pkg:maven/foundation.icon/icon-sdk@2.0.0?classifier=sources
 - pkg:maven/foundation.icon/icon-sdk@2.1.0?classifier=sources
+- pkg:maven/foundation.icon/icon-sdk@2.2.0?classifier=sources

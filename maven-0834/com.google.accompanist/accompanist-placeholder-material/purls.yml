@@ -41,3 +41,5 @@
 - pkg:maven/com.google.accompanist/accompanist-placeholder-material@0.26.1-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-placeholder-material@0.26.2-beta?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-placeholder-material@0.26.3-beta?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-placeholder-material@0.26.4-beta?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-placeholder-material@0.26.5-rc?classifier=sources

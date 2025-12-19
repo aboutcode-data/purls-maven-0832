@@ -146,3 +146,15 @@
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.5.1?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.5.2
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.5.2?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.5.3
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.5.3?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.5.4
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.5.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.0
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.0?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.1
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.1?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.2
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.2?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.3
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.3?classifier=sources

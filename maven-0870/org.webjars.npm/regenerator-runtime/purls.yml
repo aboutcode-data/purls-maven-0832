@@ -9,6 +9,8 @@
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.12.1
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.12.1?classifier=sources
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.13.1
+- pkg:maven/org.webjars.npm/regenerator-runtime@0.13.10
+- pkg:maven/org.webjars.npm/regenerator-runtime@0.13.10?classifier=sources
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.13.1?classifier=sources
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.13.2
 - pkg:maven/org.webjars.npm/regenerator-runtime@0.13.2?classifier=sources

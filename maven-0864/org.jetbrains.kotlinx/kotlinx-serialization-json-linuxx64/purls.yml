@@ -13,3 +13,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-json-linuxx64@1.3.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-json-linuxx64@1.4.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-json-linuxx64@1.4.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-json-linuxx64@1.4.1?classifier=sources

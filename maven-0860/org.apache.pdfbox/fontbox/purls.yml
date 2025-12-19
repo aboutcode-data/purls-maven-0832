@@ -36,6 +36,8 @@
 - pkg:maven/org.apache.pdfbox/fontbox@1.8.15?classifier=sources
 - pkg:maven/org.apache.pdfbox/fontbox@1.8.16
 - pkg:maven/org.apache.pdfbox/fontbox@1.8.16?classifier=sources
+- pkg:maven/org.apache.pdfbox/fontbox@1.8.17
+- pkg:maven/org.apache.pdfbox/fontbox@1.8.17?classifier=sources
 - pkg:maven/org.apache.pdfbox/fontbox@1.8.1?classifier=sources
 - pkg:maven/org.apache.pdfbox/fontbox@1.8.2
 - pkg:maven/org.apache.pdfbox/fontbox@1.8.2?classifier=sources
@@ -98,6 +100,8 @@
 - pkg:maven/org.apache.pdfbox/fontbox@2.0.25?classifier=sources
 - pkg:maven/org.apache.pdfbox/fontbox@2.0.26
 - pkg:maven/org.apache.pdfbox/fontbox@2.0.26?classifier=sources
+- pkg:maven/org.apache.pdfbox/fontbox@2.0.27
+- pkg:maven/org.apache.pdfbox/fontbox@2.0.27?classifier=sources
 - pkg:maven/org.apache.pdfbox/fontbox@2.0.2?classifier=sources
 - pkg:maven/org.apache.pdfbox/fontbox@2.0.3
 - pkg:maven/org.apache.pdfbox/fontbox@2.0.3?classifier=sources

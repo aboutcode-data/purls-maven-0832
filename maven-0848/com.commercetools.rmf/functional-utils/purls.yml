@@ -11,3 +11,8 @@
 - pkg:maven/com.commercetools.rmf/functional-utils@0.2.0-20211203200453?classifier=sources
 - pkg:maven/com.commercetools.rmf/functional-utils@0.2.0-20220202134231?classifier=sources
 - pkg:maven/com.commercetools.rmf/functional-utils@0.2.0-20220503190321?classifier=sources
+- pkg:maven/com.commercetools.rmf/functional-utils@0.2.0-20220914193841?classifier=sources
+- pkg:maven/com.commercetools.rmf/functional-utils@0.2.0-20220920092522?classifier=sources
+- pkg:maven/com.commercetools.rmf/functional-utils@0.2.0-20221007124649?classifier=sources
+- pkg:maven/com.commercetools.rmf/functional-utils@0.2.0-20221007193425?classifier=sources
+- pkg:maven/com.commercetools.rmf/functional-utils@0.2.0-20221013103753?classifier=sources

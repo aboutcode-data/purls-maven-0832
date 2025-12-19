@@ -101,6 +101,16 @@
 - pkg:maven/com.nb6868.onex/sys@3.6.39?classifier=sources
 - pkg:maven/com.nb6868.onex/sys@3.6.3?classifier=sources
 - pkg:maven/com.nb6868.onex/sys@3.6.4
+- pkg:maven/com.nb6868.onex/sys@3.6.40
+- pkg:maven/com.nb6868.onex/sys@3.6.40?classifier=sources
+- pkg:maven/com.nb6868.onex/sys@3.6.41
+- pkg:maven/com.nb6868.onex/sys@3.6.41?classifier=sources
+- pkg:maven/com.nb6868.onex/sys@3.6.42
+- pkg:maven/com.nb6868.onex/sys@3.6.42?classifier=sources
+- pkg:maven/com.nb6868.onex/sys@3.6.43
+- pkg:maven/com.nb6868.onex/sys@3.6.43?classifier=sources
+- pkg:maven/com.nb6868.onex/sys@3.6.44
+- pkg:maven/com.nb6868.onex/sys@3.6.44?classifier=sources
 - pkg:maven/com.nb6868.onex/sys@3.6.4?classifier=sources
 - pkg:maven/com.nb6868.onex/sys@3.6.5
 - pkg:maven/com.nb6868.onex/sys@3.6.5?classifier=sources

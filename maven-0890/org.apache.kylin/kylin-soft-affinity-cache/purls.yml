@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kylin/kylin-soft-affinity-cache@4.0.2
+- pkg:maven/org.apache.kylin/kylin-soft-affinity-cache@4.0.2?classifier=sources

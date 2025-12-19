@@ -3,6 +3,8 @@
 - pkg:maven/io.scalecube/scalecube-services-gateway-tests@2.10.12
 - pkg:maven/io.scalecube/scalecube-services-gateway-tests@2.10.13
 - pkg:maven/io.scalecube/scalecube-services-gateway-tests@2.10.14
+- pkg:maven/io.scalecube/scalecube-services-gateway-tests@2.10.15
+- pkg:maven/io.scalecube/scalecube-services-gateway-tests@2.10.16
 - pkg:maven/io.scalecube/scalecube-services-gateway-tests@2.10.4
 - pkg:maven/io.scalecube/scalecube-services-gateway-tests@2.10.5
 - pkg:maven/io.scalecube/scalecube-services-gateway-tests@2.10.6

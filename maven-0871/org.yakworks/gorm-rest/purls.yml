@@ -1,0 +1,2 @@
+- pkg:maven/org.yakworks/gorm-rest@7.3.25?classifier=sources
+- pkg:maven/org.yakworks/gorm-rest@7.3.26?classifier=sources

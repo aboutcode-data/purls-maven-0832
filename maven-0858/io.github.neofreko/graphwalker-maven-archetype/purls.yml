@@ -1,1 +1,2 @@
 - pkg:maven/io.github.neofreko/graphwalker-maven-archetype@4.3.1.100?classifier=sources
+- pkg:maven/io.github.neofreko/graphwalker-maven-archetype@4.3.3-100?classifier=sources

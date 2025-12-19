@@ -1,0 +1,2 @@
+- pkg:maven/cn.zhxu/okhttps-fastjson@4.0.0
+- pkg:maven/cn.zhxu/okhttps-fastjson@4.0.0?classifier=sources

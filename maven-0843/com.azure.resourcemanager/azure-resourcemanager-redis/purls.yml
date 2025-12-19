@@ -22,6 +22,8 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-redis@2.17.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-redis@2.18.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-redis@2.18.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-redis@2.19.0
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-redis@2.19.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-redis@2.2.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-redis@2.2.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-redis@2.3.0

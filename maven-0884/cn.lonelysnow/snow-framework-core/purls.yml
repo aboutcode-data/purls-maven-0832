@@ -1,2 +1,3 @@
 - pkg:maven/cn.lonelysnow/snow-framework-core@2.5.6.S1
 - pkg:maven/cn.lonelysnow/snow-framework-core@2.5.6.S1?classifier=sources
+- pkg:maven/cn.lonelysnow/snow-framework-core@2.7.3.S1

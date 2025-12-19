@@ -12,3 +12,5 @@
 - pkg:maven/io.github.anylifezlb/CameraXFragment@1.2.1?classifier=sources
 - pkg:maven/io.github.anylifezlb/CameraXFragment@1.2.2?classifier=sources
 - pkg:maven/io.github.anylifezlb/CameraXFragment@1.2.3?classifier=sources
+- pkg:maven/io.github.anylifezlb/CameraXFragment@2.4.0?classifier=sources
+- pkg:maven/io.github.anylifezlb/CameraXFragment@2.4.1?classifier=sources

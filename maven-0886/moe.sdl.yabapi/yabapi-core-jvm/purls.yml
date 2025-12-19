@@ -7,3 +7,5 @@
 - pkg:maven/moe.sdl.yabapi/yabapi-core-jvm@0.0.7?classifier=sources
 - pkg:maven/moe.sdl.yabapi/yabapi-core-jvm@0.0.8?classifier=sources
 - pkg:maven/moe.sdl.yabapi/yabapi-core-jvm@0.10.0?classifier=sources
+- pkg:maven/moe.sdl.yabapi/yabapi-core-jvm@0.11.0?classifier=sources
+- pkg:maven/moe.sdl.yabapi/yabapi-core-jvm@0.11.1?classifier=sources

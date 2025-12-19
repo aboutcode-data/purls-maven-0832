@@ -15,3 +15,11 @@
 - pkg:maven/com.linkedin.dualip/dualip_2.12@2.3.2?classifier=sources
 - pkg:maven/com.linkedin.dualip/dualip_2.12@2.3.3?classifier=sources
 - pkg:maven/com.linkedin.dualip/dualip_2.12@2.3.4?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.4.0?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.4.1?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.4.2?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.4.6?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.4.8?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.4.9?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.5.1?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.5.2?classifier=sources

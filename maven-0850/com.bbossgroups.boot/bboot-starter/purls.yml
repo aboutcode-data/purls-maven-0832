@@ -14,3 +14,4 @@
 - pkg:maven/com.bbossgroups.boot/bboot-starter@5.9.7?classifier=sources
 - pkg:maven/com.bbossgroups.boot/bboot-starter@5.9.8?classifier=sources
 - pkg:maven/com.bbossgroups.boot/bboot-starter@5.9.9?classifier=sources
+- pkg:maven/com.bbossgroups.boot/bboot-starter@6.0.0?classifier=sources

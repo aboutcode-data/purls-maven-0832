@@ -15,4 +15,5 @@
 - pkg:maven/com.greedygame.sdkx/mystique@0.0.95-b1?classifier=sources
 - pkg:maven/com.greedygame.sdkx/mystique@0.0.95-b2?classifier=sources
 - pkg:maven/com.greedygame.sdkx/mystique@0.0.95-b3?classifier=sources
+- pkg:maven/com.greedygame.sdkx/mystique@0.0.95-returns-placement-id?classifier=sources
 - pkg:maven/com.greedygame.sdkx/mystique@v-dev?classifier=sources

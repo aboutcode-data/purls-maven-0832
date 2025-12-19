@@ -40,3 +40,5 @@
 - pkg:maven/com.cognitect.aws/dlm@821.2.1107.0?classifier=sources
 - pkg:maven/com.cognitect.aws/dlm@822.2.1193.0
 - pkg:maven/com.cognitect.aws/dlm@822.2.1193.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dlm@825.2.1233.0
+- pkg:maven/com.cognitect.aws/dlm@825.2.1233.0?classifier=sources

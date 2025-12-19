@@ -14,5 +14,7 @@
 - pkg:maven/org.webjars.npm/material__touch-target@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__touch-target@7.0.0
 - pkg:maven/org.webjars.npm/material__touch-target@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__touch-target@8.0.0
+- pkg:maven/org.webjars.npm/material__touch-target@8.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__touch-target@9.0.0
 - pkg:maven/org.webjars.npm/material__touch-target@9.0.0?classifier=sources

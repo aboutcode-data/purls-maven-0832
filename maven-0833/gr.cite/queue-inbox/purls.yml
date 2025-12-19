@@ -1,0 +1,2 @@
+- pkg:maven/gr.cite/queue-inbox@1.0.0
+- pkg:maven/gr.cite/queue-inbox@1.0.0?classifier=sources

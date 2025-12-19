@@ -60,8 +60,12 @@
 - pkg:maven/eu.borglum.functional/core@0.126?classifier=sources
 - pkg:maven/eu.borglum.functional/core@0.127
 - pkg:maven/eu.borglum.functional/core@0.127?classifier=sources
+- pkg:maven/eu.borglum.functional/core@0.129
+- pkg:maven/eu.borglum.functional/core@0.129?classifier=sources
 - pkg:maven/eu.borglum.functional/core@0.12?classifier=sources
 - pkg:maven/eu.borglum.functional/core@0.13
+- pkg:maven/eu.borglum.functional/core@0.130
+- pkg:maven/eu.borglum.functional/core@0.130?classifier=sources
 - pkg:maven/eu.borglum.functional/core@0.13?classifier=sources
 - pkg:maven/eu.borglum.functional/core@0.14
 - pkg:maven/eu.borglum.functional/core@0.14?classifier=sources

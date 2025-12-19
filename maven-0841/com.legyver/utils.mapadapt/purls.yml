@@ -4,3 +4,4 @@
 - pkg:maven/com.legyver/utils.mapadapt@3.1.0?classifier=sources
 - pkg:maven/com.legyver/utils.mapadapt@3.2.0?classifier=sources
 - pkg:maven/com.legyver/utils.mapadapt@3.2.1?classifier=sources
+- pkg:maven/com.legyver/utils.mapadapt@3.3.0?classifier=sources

@@ -11,4 +11,5 @@
 - pkg:maven/com.apurebase/kgraphql@0.17.9-alpha-2?classifier=sources
 - pkg:maven/com.apurebase/kgraphql@0.17.9-alpha?classifier=sources
 - pkg:maven/com.apurebase/kgraphql@0.17.9?classifier=sources
+- pkg:maven/com.apurebase/kgraphql@0.18.0?classifier=sources
 - pkg:maven/com.apurebase/kgraphql@version?classifier=sources

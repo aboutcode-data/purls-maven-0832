@@ -30,6 +30,8 @@
 - pkg:maven/io.datarouter/datarouter-copy-table@0.0.115?classifier=sources
 - pkg:maven/io.datarouter/datarouter-copy-table@0.0.116
 - pkg:maven/io.datarouter/datarouter-copy-table@0.0.116?classifier=sources
+- pkg:maven/io.datarouter/datarouter-copy-table@0.0.117
+- pkg:maven/io.datarouter/datarouter-copy-table@0.0.117?classifier=sources
 - pkg:maven/io.datarouter/datarouter-copy-table@0.0.24
 - pkg:maven/io.datarouter/datarouter-copy-table@0.0.24?classifier=sources
 - pkg:maven/io.datarouter/datarouter-copy-table@0.0.25

@@ -52,3 +52,5 @@
 - pkg:maven/com.redhat.cloud/connector-management-sdk@0.25.0?classifier=sources
 - pkg:maven/com.redhat.cloud/connector-management-sdk@0.26.0
 - pkg:maven/com.redhat.cloud/connector-management-sdk@0.26.0?classifier=sources
+- pkg:maven/com.redhat.cloud/connector-management-sdk@0.27.1
+- pkg:maven/com.redhat.cloud/connector-management-sdk@0.27.1?classifier=sources

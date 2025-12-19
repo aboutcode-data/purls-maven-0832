@@ -199,6 +199,10 @@
 - pkg:maven/org.craftercms/crafter-commons-audit@3.1.26?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-audit@3.1.26E
 - pkg:maven/org.craftercms/crafter-commons-audit@3.1.26E?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-audit@3.1.27
+- pkg:maven/org.craftercms/crafter-commons-audit@3.1.27?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-audit@3.1.27E
+- pkg:maven/org.craftercms/crafter-commons-audit@3.1.27E?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-audit@3.1.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-audit@3.1.3
 - pkg:maven/org.craftercms/crafter-commons-audit@3.1.3?classifier=sources
@@ -234,6 +238,7 @@
 - pkg:maven/org.craftercms/crafter-commons-audit@4.0.0-rc2?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-audit@4.0.0-rc2E
 - pkg:maven/org.craftercms/crafter-commons-audit@4.0.0-rc2E?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-audit@4.0.1
 - pkg:maven/org.craftercms/crafter-commons-audit@v2.5.0-Beta4
 - pkg:maven/org.craftercms/crafter-commons-audit@v2.5.0-Beta4?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-audit@v2.5.0-Beta5

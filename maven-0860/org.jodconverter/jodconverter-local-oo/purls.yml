@@ -1,0 +1,2 @@
+- pkg:maven/org.jodconverter/jodconverter-local-oo@4.4.3?classifier=sources
+- pkg:maven/org.jodconverter/jodconverter-local-oo@4.4.4?classifier=sources

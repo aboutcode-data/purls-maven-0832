@@ -132,6 +132,8 @@
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@21.6.6?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@21.6.7
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@21.6.7?classifier=sources
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@22.12.0.a20221005-01
+- pkg:maven/org.faktorips/faktorips-valuetypes-joda@22.12.0.a20221005-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@22.6.0
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@22.6.0-m01
 - pkg:maven/org.faktorips/faktorips-valuetypes-joda@22.6.0-m01?classifier=sources

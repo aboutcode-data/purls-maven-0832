@@ -1,2 +1,3 @@
 - pkg:maven/com.kraftful.analytics.kotlin/kraftful-analytics@0.0.3?classifier=sources
 - pkg:maven/com.kraftful.analytics.kotlin/kraftful-analytics@1.0.0?classifier=sources
+- pkg:maven/com.kraftful.analytics.kotlin/kraftful-analytics@2.0.0?classifier=sources

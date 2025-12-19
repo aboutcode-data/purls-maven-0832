@@ -41,6 +41,10 @@
 - pkg:maven/io.spinnaker.kork/kork-credentials@7.143.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-credentials@7.144.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-credentials@7.145.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-credentials@7.146.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-credentials@7.147.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-credentials@7.148.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-credentials@7.149.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-credentials@7.92.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-credentials@7.92.4?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-credentials@7.92.5?classifier=sources

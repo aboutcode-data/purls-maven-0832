@@ -10,6 +10,17 @@
 - pkg:maven/org.noear/fastdfs-solon-plugin@1.10.2-M1
 - pkg:maven/org.noear/fastdfs-solon-plugin@1.10.2-M2
 - pkg:maven/org.noear/fastdfs-solon-plugin@1.10.2-M3
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.3
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.3-M1
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.3-M2
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.3-M3
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.3-M4
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.3-M5
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.3-M6
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.3-M7
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.4
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.4-M1
+- pkg:maven/org.noear/fastdfs-solon-plugin@1.10.4-M2
 - pkg:maven/org.noear/fastdfs-solon-plugin@1.6.30
 - pkg:maven/org.noear/fastdfs-solon-plugin@1.6.30-m1
 - pkg:maven/org.noear/fastdfs-solon-plugin@1.6.30-m2

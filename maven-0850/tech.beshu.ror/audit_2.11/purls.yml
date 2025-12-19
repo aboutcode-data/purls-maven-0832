@@ -79,3 +79,5 @@
 - pkg:maven/tech.beshu.ror/audit_2.11@1.42.0?classifier=sources
 - pkg:maven/tech.beshu.ror/audit_2.11@1.43.0
 - pkg:maven/tech.beshu.ror/audit_2.11@1.43.0?classifier=sources
+- pkg:maven/tech.beshu.ror/audit_2.11@1.44.0
+- pkg:maven/tech.beshu.ror/audit_2.11@1.44.0?classifier=sources

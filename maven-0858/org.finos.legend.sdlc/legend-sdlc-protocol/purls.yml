@@ -190,3 +190,17 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.91.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.91.1
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.91.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.92.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.92.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.93.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.93.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.93.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.93.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.93.2
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.93.2?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.93.3
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.93.3?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.94.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.94.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.94.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol@0.94.1?classifier=sources

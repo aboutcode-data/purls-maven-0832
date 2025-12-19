@@ -4,3 +4,5 @@
 - pkg:maven/com.yandex.android/maps.mobile@4.1.0-lite?type=aar
 - pkg:maven/com.yandex.android/maps.mobile@4.2.0-full?type=aar
 - pkg:maven/com.yandex.android/maps.mobile@4.2.0-lite?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.2.1-full?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.2.1-lite?type=aar

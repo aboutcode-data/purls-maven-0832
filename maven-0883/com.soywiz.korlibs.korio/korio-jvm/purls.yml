@@ -40,3 +40,4 @@
 - pkg:maven/com.soywiz.korlibs.korio/korio-jvm@3.0.0?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korio/korio-jvm@3.0.1?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korio/korio-jvm@3.1.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-jvm@3.2.0?classifier=sources

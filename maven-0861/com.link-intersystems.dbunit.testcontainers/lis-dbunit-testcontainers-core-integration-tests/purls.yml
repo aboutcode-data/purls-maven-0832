@@ -1,1 +1,2 @@
 - pkg:maven/com.link-intersystems.dbunit.testcontainers/lis-dbunit-testcontainers-core-integration-tests@1.1.1
+- pkg:maven/com.link-intersystems.dbunit.testcontainers/lis-dbunit-testcontainers-core-integration-tests@1.2.0

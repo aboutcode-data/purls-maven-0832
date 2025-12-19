@@ -24,3 +24,5 @@
 - pkg:maven/com.aliyun/arms20190808@2.8.22?classifier=sources
 - pkg:maven/com.aliyun/arms20190808@2.8.23
 - pkg:maven/com.aliyun/arms20190808@2.8.23?classifier=sources
+- pkg:maven/com.aliyun/arms20190808@2.8.24
+- pkg:maven/com.aliyun/arms20190808@2.8.24?classifier=sources

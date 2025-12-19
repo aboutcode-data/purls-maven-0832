@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.7.2976
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.7.2976?classifier=sources

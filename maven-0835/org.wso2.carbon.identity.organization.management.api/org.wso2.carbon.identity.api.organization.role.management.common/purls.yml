@@ -4,6 +4,16 @@
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.11?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.12
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.12?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.13
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.13?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.14
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.14?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.15
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.15?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.16
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.16?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.17
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.17?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.3
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.api.organization.role.management.common@1.0.4

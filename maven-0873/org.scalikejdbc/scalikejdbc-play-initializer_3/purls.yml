@@ -1,0 +1,2 @@
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_3@2.8.0-scalikejdbc-4.0
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_3@2.8.0-scalikejdbc-4.0?classifier=sources

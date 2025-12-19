@@ -154,6 +154,8 @@
 - pkg:maven/io.shiftleft/overflowdb-traversal_2.13@1.146?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-traversal_2.13@1.147
 - pkg:maven/io.shiftleft/overflowdb-traversal_2.13@1.147?classifier=sources
+- pkg:maven/io.shiftleft/overflowdb-traversal_2.13@1.148
+- pkg:maven/io.shiftleft/overflowdb-traversal_2.13@1.148?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-traversal_2.13@1.14?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-traversal_2.13@1.15
 - pkg:maven/io.shiftleft/overflowdb-traversal_2.13@1.15?classifier=sources

@@ -90,3 +90,5 @@
 - pkg:maven/br.com.jarch/jarch-apt@22.7.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-apt@22.8.0
 - pkg:maven/br.com.jarch/jarch-apt@22.8.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-apt@22.9.0
+- pkg:maven/br.com.jarch/jarch-apt@22.9.0?classifier=sources

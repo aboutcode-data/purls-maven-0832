@@ -1,2 +1,4 @@
 - pkg:maven/uk.co.spudsoft/vertx-resteasy-helpers@0.0.6
 - pkg:maven/uk.co.spudsoft/vertx-resteasy-helpers@0.0.6?classifier=sources
+- pkg:maven/uk.co.spudsoft/vertx-resteasy-helpers@0.0.7
+- pkg:maven/uk.co.spudsoft/vertx-resteasy-helpers@0.0.7?classifier=sources

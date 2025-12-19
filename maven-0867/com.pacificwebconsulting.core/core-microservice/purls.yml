@@ -14,6 +14,10 @@
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.104?classifier=sources
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.105
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.105?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.106
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.106?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.107
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.107?classifier=sources
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.10?classifier=sources
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.11
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.11?classifier=sources

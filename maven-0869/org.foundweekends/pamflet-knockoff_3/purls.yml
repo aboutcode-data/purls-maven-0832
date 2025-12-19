@@ -1,0 +1,2 @@
+- pkg:maven/org.foundweekends/pamflet-knockoff_3@0.10.0
+- pkg:maven/org.foundweekends/pamflet-knockoff_3@0.10.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.morphir/morphir-toolkit-core_3@0.1.0-M03
+- pkg:maven/org.finos.morphir/morphir-toolkit-core_3@0.1.0-M03?classifier=sources
+- pkg:maven/org.finos.morphir/morphir-toolkit-core_3@0.1.1-M01
+- pkg:maven/org.finos.morphir/morphir-toolkit-core_3@0.1.1-M01?classifier=sources

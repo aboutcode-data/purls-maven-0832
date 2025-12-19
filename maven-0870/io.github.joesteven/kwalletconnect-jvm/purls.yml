@@ -1,2 +1,7 @@
+- pkg:maven/io.github.joesteven/kwalletconnect-jvm@1.0.0-dev03?classifier=sources
+- pkg:maven/io.github.joesteven/kwalletconnect-jvm@1.0.0-dev04?classifier=sources
 - pkg:maven/io.github.joesteven/kwalletconnect-jvm@1.0.0-dev?classifier=sources
 - pkg:maven/io.github.joesteven/kwalletconnect-jvm@1.0.0?classifier=sources
+- pkg:maven/io.github.joesteven/kwalletconnect-jvm@1.0.1-dev?classifier=sources
+- pkg:maven/io.github.joesteven/kwalletconnect-jvm@1.0.2-dev?classifier=sources
+- pkg:maven/io.github.joesteven/kwalletconnect-jvm@1.0.3-dev?classifier=sources

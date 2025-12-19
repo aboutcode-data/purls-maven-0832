@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/kind-projector_2.13.9@0.13.2
+- pkg:maven/org.typelevel/kind-projector_2.13.9@0.13.2?classifier=sources

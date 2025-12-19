@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.plc4x/plc4j-driver-bacnet@0.10.0
+- pkg:maven/org.apache.plc4x/plc4j-driver-bacnet@0.10.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.danbrough.ktor/ktor-server-conditional-headers@2.1.1?classifier=sources
+- pkg:maven/org.danbrough.ktor/ktor-server-conditional-headers@2.1.1a?classifier=sources

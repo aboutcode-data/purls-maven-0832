@@ -20,3 +20,5 @@
 - pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc5
 - pkg:maven/org.yarnandtail/andhow-core@0.4.2-rc5?classifier=sources
 - pkg:maven/org.yarnandtail/andhow-core@0.4.2?classifier=sources
+- pkg:maven/org.yarnandtail/andhow-core@1.5.0
+- pkg:maven/org.yarnandtail/andhow-core@1.5.0?classifier=sources

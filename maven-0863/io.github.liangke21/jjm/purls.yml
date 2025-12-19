@@ -1,0 +1,7 @@
+- pkg:maven/io.github.liangke21/jjm@1.0?classifier=sources
+- pkg:maven/io.github.liangke21/jjm@2.1?classifier=sources
+- pkg:maven/io.github.liangke21/jjm@2.3?classifier=sources
+- pkg:maven/io.github.liangke21/jjm@2.4?classifier=sources
+- pkg:maven/io.github.liangke21/jjm@2.5?classifier=sources
+- pkg:maven/io.github.liangke21/jjm@2.6?classifier=sources
+- pkg:maven/io.github.liangke21/jjm@3.4?classifier=sources

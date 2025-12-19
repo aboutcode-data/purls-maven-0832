@@ -16,6 +16,14 @@
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.27-jing8?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.28-jing8?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.31-jing8?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.32-jing8?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.33-jing8?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.34-jing8?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.35-jing8?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.36-jing8?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.37-jing8?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.38-jing8?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.39-jing8?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.3?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.6?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.7?type=aar

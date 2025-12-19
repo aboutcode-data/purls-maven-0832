@@ -1,0 +1,4 @@
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.10
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.10?classifier=sources
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.8
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.8?classifier=sources

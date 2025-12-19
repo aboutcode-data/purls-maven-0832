@@ -26,3 +26,5 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@22.0.29
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@22.0.29?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@22.0.2?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@22.0.33
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@22.0.33?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.scalax/commons-lang3-bridge_2.13@0.0.1
+- pkg:maven/net.scalax/commons-lang3-bridge_2.13@0.0.1?classifier=sources
+- pkg:maven/net.scalax/commons-lang3-bridge_2.13@0.1.0
+- pkg:maven/net.scalax/commons-lang3-bridge_2.13@0.1.0?classifier=sources

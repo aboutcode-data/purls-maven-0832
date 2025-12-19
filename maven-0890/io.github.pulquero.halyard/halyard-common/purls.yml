@@ -6,7 +6,11 @@
 - pkg:maven/io.github.pulquero.halyard/halyard-common@3.11?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-common@3.12
 - pkg:maven/io.github.pulquero.halyard/halyard-common@3.12?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-common@3.13
+- pkg:maven/io.github.pulquero.halyard/halyard-common@3.13?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-common@3.7
 - pkg:maven/io.github.pulquero.halyard/halyard-common@3.7?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-common@3.9
 - pkg:maven/io.github.pulquero.halyard/halyard-common@3.9?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-common@4.1
+- pkg:maven/io.github.pulquero.halyard/halyard-common@4.1?classifier=sources

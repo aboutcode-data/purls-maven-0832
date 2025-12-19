@@ -4,6 +4,14 @@
 - pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.11?classifier=sources
 - pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.12
 - pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.12?classifier=sources
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.13
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.13?classifier=sources
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.14
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.14?classifier=sources
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.15
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.15?classifier=sources
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.16
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.16?classifier=sources
 - pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.4
 - pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.4?classifier=sources
 - pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.5

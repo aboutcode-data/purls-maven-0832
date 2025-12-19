@@ -1,3 +1,5 @@
+- pkg:maven/io.infinitic/infinitic-worker@0.10.0?classifier=sources
+- pkg:maven/io.infinitic/infinitic-worker@0.11.0?classifier=sources
 - pkg:maven/io.infinitic/infinitic-worker@0.7.3?classifier=sources
 - pkg:maven/io.infinitic/infinitic-worker@0.7.4?classifier=sources
 - pkg:maven/io.infinitic/infinitic-worker@0.8.0?classifier=sources

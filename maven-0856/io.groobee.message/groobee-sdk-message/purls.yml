@@ -56,6 +56,10 @@
 - pkg:maven/io.groobee.message/groobee-sdk-message@1.0.31?type=aar
 - pkg:maven/io.groobee.message/groobee-sdk-message@1.0.32?classifier=sources
 - pkg:maven/io.groobee.message/groobee-sdk-message@1.0.32?type=aar
+- pkg:maven/io.groobee.message/groobee-sdk-message@1.0.33?classifier=sources
+- pkg:maven/io.groobee.message/groobee-sdk-message@1.0.33?type=aar
+- pkg:maven/io.groobee.message/groobee-sdk-message@1.0.34?classifier=sources
+- pkg:maven/io.groobee.message/groobee-sdk-message@1.0.34?type=aar
 - pkg:maven/io.groobee.message/groobee-sdk-message@1.0.3?classifier=sources
 - pkg:maven/io.groobee.message/groobee-sdk-message@1.0.3?type=aar
 - pkg:maven/io.groobee.message/groobee-sdk-message@1.0.4?classifier=sources

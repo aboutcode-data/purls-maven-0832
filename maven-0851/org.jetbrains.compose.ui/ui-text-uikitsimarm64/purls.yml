@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.compose.ui/ui-text-uikitsimarm64@1.2.0-beta01?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-text-uikitsimarm64@1.2.0?classifier=sources

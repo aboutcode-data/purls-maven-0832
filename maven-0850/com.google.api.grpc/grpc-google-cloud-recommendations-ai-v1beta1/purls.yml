@@ -10,6 +10,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.10.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.10.3
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.10.3?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.10.4
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.10.4?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.11.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.11.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.2.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recommendations-ai-v1beta1@0.3.0
