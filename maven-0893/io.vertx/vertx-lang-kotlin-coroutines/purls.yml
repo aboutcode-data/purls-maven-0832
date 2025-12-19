@@ -168,3 +168,5 @@
 - pkg:maven/io.vertx/vertx-lang-kotlin-coroutines@4.3.8?classifier=sources
 - pkg:maven/io.vertx/vertx-lang-kotlin-coroutines@4.4.0
 - pkg:maven/io.vertx/vertx-lang-kotlin-coroutines@4.4.0?classifier=sources
+- pkg:maven/io.vertx/vertx-lang-kotlin-coroutines@4.4.1
+- pkg:maven/io.vertx/vertx-lang-kotlin-coroutines@4.4.1?classifier=sources

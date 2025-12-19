@@ -33,4 +33,6 @@
 - pkg:maven/io.runon.trading/trading-data@0.2.5
 - pkg:maven/io.runon.trading/trading-data@0.2.5?classifier=sources
 - pkg:maven/io.runon.trading/trading-data@0.2.6
+- pkg:maven/io.runon.trading/trading-data@0.2.61
+- pkg:maven/io.runon.trading/trading-data@0.2.61?classifier=sources
 - pkg:maven/io.runon.trading/trading-data@0.2.6?classifier=sources

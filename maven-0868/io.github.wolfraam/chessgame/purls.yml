@@ -4,3 +4,4 @@
 - pkg:maven/io.github.wolfraam/chessgame@1.2?classifier=sources
 - pkg:maven/io.github.wolfraam/chessgame@1.3?classifier=sources
 - pkg:maven/io.github.wolfraam/chessgame@1.4?classifier=sources
+- pkg:maven/io.github.wolfraam/chessgame@1.5?classifier=sources

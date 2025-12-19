@@ -24,3 +24,7 @@
 - pkg:maven/org.fugerit.java/fj-doc-lib-autodoc@0.8.9?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-lib-autodoc@1.0.0
 - pkg:maven/org.fugerit.java/fj-doc-lib-autodoc@1.0.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-lib-autodoc@1.0.1
+- pkg:maven/org.fugerit.java/fj-doc-lib-autodoc@1.0.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-lib-autodoc@1.0.2-rc.001
+- pkg:maven/org.fugerit.java/fj-doc-lib-autodoc@1.0.2-rc.001?classifier=sources

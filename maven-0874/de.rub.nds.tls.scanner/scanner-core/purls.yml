@@ -1,0 +1,2 @@
+- pkg:maven/de.rub.nds.tls.scanner/scanner-core@5.2.4
+- pkg:maven/de.rub.nds.tls.scanner/scanner-core@5.2.4?classifier=sources

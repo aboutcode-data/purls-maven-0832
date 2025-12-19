@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.autofeedback/autofeedback-maven-plugin@0.5.2
+- pkg:maven/com.gitlab.autofeedback/autofeedback-maven-plugin@0.5.2?classifier=sources

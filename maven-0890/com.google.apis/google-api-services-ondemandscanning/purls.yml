@@ -64,6 +64,12 @@
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20230109-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20230213-2.0.0
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20230213-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20230313-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20230313-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20230327-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20230327-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20230403-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1-rev20230403-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210222-1.31.0
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210222-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20210319-1.31.0
@@ -132,3 +138,9 @@
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20230109-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20230213-2.0.0
 - pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20230213-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20230313-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20230313-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20230327-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20230327-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20230403-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ondemandscanning@v1beta1-rev20230403-2.0.0?classifier=sources

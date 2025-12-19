@@ -1,2 +1,4 @@
 - pkg:maven/no.digipost/jul-to-slf4j-junit-extension@0.1-RC1
 - pkg:maven/no.digipost/jul-to-slf4j-junit-extension@0.1-RC1?classifier=sources
+- pkg:maven/no.digipost/jul-to-slf4j-junit-extension@1.0
+- pkg:maven/no.digipost/jul-to-slf4j-junit-extension@1.0?classifier=sources

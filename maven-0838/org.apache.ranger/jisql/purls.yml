@@ -11,3 +11,4 @@
 - pkg:maven/org.apache.ranger/jisql@2.1.0
 - pkg:maven/org.apache.ranger/jisql@2.2.0
 - pkg:maven/org.apache.ranger/jisql@2.3.0
+- pkg:maven/org.apache.ranger/jisql@2.4.0

@@ -72,6 +72,8 @@
 - pkg:maven/org.opencastproject/opencast-lti-service-remote@13.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-lti-service-remote@13.2
 - pkg:maven/org.opencastproject/opencast-lti-service-remote@13.2?classifier=sources
+- pkg:maven/org.opencastproject/opencast-lti-service-remote@13.4
+- pkg:maven/org.opencastproject/opencast-lti-service-remote@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-lti-service-remote@9.0
 - pkg:maven/org.opencastproject/opencast-lti-service-remote@9.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-lti-service-remote@9.1

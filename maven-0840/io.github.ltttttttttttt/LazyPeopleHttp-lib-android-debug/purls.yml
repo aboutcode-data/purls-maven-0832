@@ -1,3 +1,5 @@
 - pkg:maven/io.github.ltttttttttttt/LazyPeopleHttp-lib-android-debug@0.0.4?classifier=sources
 - pkg:maven/io.github.ltttttttttttt/LazyPeopleHttp-lib-android-debug@0.0.6?classifier=sources
 - pkg:maven/io.github.ltttttttttttt/LazyPeopleHttp-lib-android-debug@1.0.0?classifier=sources
+- pkg:maven/io.github.ltttttttttttt/LazyPeopleHttp-lib-android-debug@1.0.1?classifier=sources
+- pkg:maven/io.github.ltttttttttttt/LazyPeopleHttp-lib-android-debug@1.0.2?classifier=sources

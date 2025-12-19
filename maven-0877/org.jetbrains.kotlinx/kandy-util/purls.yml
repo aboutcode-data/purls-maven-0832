@@ -1,0 +1,6 @@
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.0-dev-16?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.0-dev-17?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.0-dev-18?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.0-dev-19?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.0-dev-20?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.0?classifier=sources

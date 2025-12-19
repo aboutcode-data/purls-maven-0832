@@ -144,4 +144,6 @@
 - pkg:maven/com.netflix.archaius/archaius2-archaius1-bridge@2.3.19?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius2-archaius1-bridge@2.3.1?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius2-archaius1-bridge@2.3.2
+- pkg:maven/com.netflix.archaius/archaius2-archaius1-bridge@2.3.20?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius2-archaius1-bridge@2.3.21?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius2-archaius1-bridge@2.3.2?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.github.nbaars/paseto4j-commons@0.0.35?classifier=sources
 - pkg:maven/io.github.nbaars/paseto4j-commons@0.0.36
 - pkg:maven/io.github.nbaars/paseto4j-commons@0.0.36?classifier=sources
+- pkg:maven/io.github.nbaars/paseto4j-commons@2023.0
+- pkg:maven/io.github.nbaars/paseto4j-commons@2023.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/seatunnel-flink-15-starter@2.3.1
+- pkg:maven/org.apache.seatunnel/seatunnel-flink-15-starter@2.3.1?classifier=sources

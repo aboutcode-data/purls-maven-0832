@@ -1,0 +1,4 @@
+- pkg:maven/com.holdenkarau/spark-scalafix-rules-2.1.1_2.11@0.1.10
+- pkg:maven/com.holdenkarau/spark-scalafix-rules-2.1.1_2.11@0.1.10?classifier=sources
+- pkg:maven/com.holdenkarau/spark-scalafix-rules-2.1.1_2.11@0.1.11
+- pkg:maven/com.holdenkarau/spark-scalafix-rules-2.1.1_2.11@0.1.11?classifier=sources

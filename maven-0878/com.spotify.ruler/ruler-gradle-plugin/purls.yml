@@ -7,3 +7,5 @@
 - pkg:maven/com.spotify.ruler/ruler-gradle-plugin@1.2.1?classifier=sources
 - pkg:maven/com.spotify.ruler/ruler-gradle-plugin@1.3.0?classifier=sources
 - pkg:maven/com.spotify.ruler/ruler-gradle-plugin@1.4.0?classifier=sources
+- pkg:maven/com.spotify.ruler/ruler-gradle-plugin@2.0.0-alpha-1?classifier=sources
+- pkg:maven/com.spotify.ruler/ruler-gradle-plugin@2.0.0-alpha-2?classifier=sources

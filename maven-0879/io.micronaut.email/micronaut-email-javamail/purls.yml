@@ -12,3 +12,4 @@
 - pkg:maven/io.micronaut.email/micronaut-email-javamail@1.3.2?classifier=sources
 - pkg:maven/io.micronaut.email/micronaut-email-javamail@1.4.0?classifier=sources
 - pkg:maven/io.micronaut.email/micronaut-email-javamail@1.5.0?classifier=sources
+- pkg:maven/io.micronaut.email/micronaut-email-javamail@2.0.0-M1?classifier=sources

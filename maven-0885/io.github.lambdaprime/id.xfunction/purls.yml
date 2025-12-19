@@ -5,3 +5,4 @@
 - pkg:maven/io.github.lambdaprime/id.xfunction@18.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/id.xfunction@19.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/id.xfunction@20.0?classifier=sources
+- pkg:maven/io.github.lambdaprime/id.xfunction@21.0?classifier=sources

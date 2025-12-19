@@ -1,0 +1,2 @@
+- pkg:maven/za.co.absa.jacoco/org.jacoco.core.test.validation.java7@0.8.9
+- pkg:maven/za.co.absa.jacoco/org.jacoco.core.test.validation.java7@0.8.9?classifier=sources

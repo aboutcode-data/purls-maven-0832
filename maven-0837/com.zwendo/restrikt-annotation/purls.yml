@@ -6,3 +6,4 @@
 - pkg:maven/com.zwendo/restrikt-annotation@2.1.0?classifier=sources
 - pkg:maven/com.zwendo/restrikt-annotation@3.0.0?classifier=sources
 - pkg:maven/com.zwendo/restrikt-annotation@3.0.1?classifier=sources
+- pkg:maven/com.zwendo/restrikt-annotation@4.0.0?classifier=sources

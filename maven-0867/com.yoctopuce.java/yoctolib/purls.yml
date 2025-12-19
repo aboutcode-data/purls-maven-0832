@@ -160,3 +160,7 @@
 - pkg:maven/com.yoctopuce.java/yoctolib@1.10.52255?classifier=sources
 - pkg:maven/com.yoctopuce.java/yoctolib@1.10.52382
 - pkg:maven/com.yoctopuce.java/yoctolib@1.10.52382?classifier=sources
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.53532
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.53532?classifier=sources
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.53786
+- pkg:maven/com.yoctopuce.java/yoctolib@1.10.53786?classifier=sources

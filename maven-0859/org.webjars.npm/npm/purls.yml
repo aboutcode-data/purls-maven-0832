@@ -64,6 +64,8 @@
 - pkg:maven/org.webjars.npm/npm@6.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/npm@6.9.1-next.0
 - pkg:maven/org.webjars.npm/npm@6.9.1-next.0?classifier=sources
+- pkg:maven/org.webjars.npm/npm@7.0.0-rc.4
+- pkg:maven/org.webjars.npm/npm@7.0.0-rc.4?classifier=sources
 - pkg:maven/org.webjars.npm/npm@7.16.0
 - pkg:maven/org.webjars.npm/npm@7.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/npm@7.3.0

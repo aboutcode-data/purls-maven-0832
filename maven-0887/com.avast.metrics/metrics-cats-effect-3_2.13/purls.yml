@@ -10,3 +10,5 @@
 - pkg:maven/com.avast.metrics/metrics-cats-effect-3_2.13@2.10.4?classifier=sources
 - pkg:maven/com.avast.metrics/metrics-cats-effect-3_2.13@3.0.1
 - pkg:maven/com.avast.metrics/metrics-cats-effect-3_2.13@3.0.1?classifier=sources
+- pkg:maven/com.avast.metrics/metrics-cats-effect-3_2.13@3.0.2
+- pkg:maven/com.avast.metrics/metrics-cats-effect-3_2.13@3.0.2?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-apache-pulsar-2.8@1.24.0-alpha?classifier=sources

@@ -8,6 +8,10 @@
 - pkg:maven/de.digitalcollections.model/dc-model@11.0.0?classifier=sources
 - pkg:maven/de.digitalcollections.model/dc-model@11.0.1
 - pkg:maven/de.digitalcollections.model/dc-model@11.0.1?classifier=sources
+- pkg:maven/de.digitalcollections.model/dc-model@11.0.2
+- pkg:maven/de.digitalcollections.model/dc-model@11.0.2?classifier=sources
+- pkg:maven/de.digitalcollections.model/dc-model@11.0.3
+- pkg:maven/de.digitalcollections.model/dc-model@11.0.3?classifier=sources
 - pkg:maven/de.digitalcollections.model/dc-model@2.0.0
 - pkg:maven/de.digitalcollections.model/dc-model@2.0.0?classifier=sources
 - pkg:maven/de.digitalcollections.model/dc-model@2.1.0

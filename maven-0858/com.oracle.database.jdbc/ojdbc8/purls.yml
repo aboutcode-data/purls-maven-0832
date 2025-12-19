@@ -56,3 +56,5 @@
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@21.8.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@21.9.0.0
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@21.9.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/ojdbc8@23.2.0.0
+- pkg:maven/com.oracle.database.jdbc/ojdbc8@23.2.0.0?classifier=sources

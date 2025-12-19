@@ -70,3 +70,7 @@
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2021-07-23?classifier=sources
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2021-11-02
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2021-11-02?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2023-03-28
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2023-03-28?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2023-04-05
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder.web@2023-04-05?classifier=sources

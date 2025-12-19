@@ -51,6 +51,8 @@
 - pkg:maven/org.jboss.byteman/byteman@3.0.20?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman@3.0.21
 - pkg:maven/org.jboss.byteman/byteman@3.0.21?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman@3.0.22
+- pkg:maven/org.jboss.byteman/byteman@3.0.22?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman@3.0.2?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman@3.0.3
 - pkg:maven/org.jboss.byteman/byteman@3.0.3?classifier=sources
@@ -107,6 +109,8 @@
 - pkg:maven/org.jboss.byteman/byteman@4.0.2
 - pkg:maven/org.jboss.byteman/byteman@4.0.20
 - pkg:maven/org.jboss.byteman/byteman@4.0.20?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman@4.0.21
+- pkg:maven/org.jboss.byteman/byteman@4.0.21?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman@4.0.2?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman@4.0.3
 - pkg:maven/org.jboss.byteman/byteman@4.0.3?classifier=sources

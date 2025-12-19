@@ -24,3 +24,5 @@
 - pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@1.2.2?classifier=sources
 - pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@1.2.3
 - pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@1.2.3?classifier=sources
+- pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@1.2.4
+- pkg:maven/com.salesforce.servicelibs/reactive-grpc-gencommon@1.2.4?classifier=sources

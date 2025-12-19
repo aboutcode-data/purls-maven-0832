@@ -11,3 +11,5 @@
 - pkg:maven/org.daiv.dependency/DependencyHandling@0.1.50?classifier=sources
 - pkg:maven/org.daiv.dependency/DependencyHandling@0.1.51?classifier=sources
 - pkg:maven/org.daiv.dependency/DependencyHandling@0.1.52?classifier=sources
+- pkg:maven/org.daiv.dependency/DependencyHandling@0.1.53?classifier=sources
+- pkg:maven/org.daiv.dependency/DependencyHandling@0.1.54?classifier=sources

@@ -134,3 +134,9 @@
 - pkg:maven/org.terasoluna.gfw/terasoluna-gfw-codepoints@5.7.1.RELEASE?classifier=sources
 - pkg:maven/org.terasoluna.gfw/terasoluna-gfw-codepoints@5.7.1.SP1.RELEASE
 - pkg:maven/org.terasoluna.gfw/terasoluna-gfw-codepoints@5.7.1.SP1.RELEASE?classifier=sources
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-codepoints@5.7.2.RELEASE
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-codepoints@5.7.2.RELEASE?classifier=sources
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-codepoints@5.8.0.RELEASE
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-codepoints@5.8.0.RELEASE?classifier=sources
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-codepoints@5.8.1.RELEASE
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-codepoints@5.8.1.RELEASE?classifier=sources

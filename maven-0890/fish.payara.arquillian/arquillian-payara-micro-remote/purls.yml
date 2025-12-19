@@ -2,3 +2,5 @@
 - pkg:maven/fish.payara.arquillian/arquillian-payara-micro-remote@3.0.alpha6?classifier=sources
 - pkg:maven/fish.payara.arquillian/arquillian-payara-micro-remote@3.0.alpha7
 - pkg:maven/fish.payara.arquillian/arquillian-payara-micro-remote@3.0.alpha7?classifier=sources
+- pkg:maven/fish.payara.arquillian/arquillian-payara-micro-remote@3.0.alpha8
+- pkg:maven/fish.payara.arquillian/arquillian-payara-micro-remote@3.0.alpha8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.timepit/refined-cats_native0.4_3@0.10.3
+- pkg:maven/eu.timepit/refined-cats_native0.4_3@0.10.3?classifier=sources

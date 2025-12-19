@@ -1,0 +1,2 @@
+- pkg:maven/aws.sdk.kotlin/vpclattice-jvm@0.21.5-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/vpclattice-jvm@0.22.0-beta?classifier=sources

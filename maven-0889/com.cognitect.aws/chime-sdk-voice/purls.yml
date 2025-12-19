@@ -2,3 +2,7 @@
 - pkg:maven/com.cognitect.aws/chime-sdk-voice@825.2.1262.0?classifier=sources
 - pkg:maven/com.cognitect.aws/chime-sdk-voice@836.2.1323.0
 - pkg:maven/com.cognitect.aws/chime-sdk-voice@836.2.1323.0?classifier=sources
+- pkg:maven/com.cognitect.aws/chime-sdk-voice@845.2.1345.0
+- pkg:maven/com.cognitect.aws/chime-sdk-voice@845.2.1345.0?classifier=sources
+- pkg:maven/com.cognitect.aws/chime-sdk-voice@845.2.1359.0
+- pkg:maven/com.cognitect.aws/chime-sdk-voice@845.2.1359.0?classifier=sources

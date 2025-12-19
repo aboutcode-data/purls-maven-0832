@@ -8,3 +8,5 @@
 - pkg:maven/top.zopx/goku-framework-support-activiti@1.5.1.1231?classifier=sources
 - pkg:maven/top.zopx/goku-framework-support-activiti@1.5.1.220701
 - pkg:maven/top.zopx/goku-framework-support-activiti@1.5.1.220701?classifier=sources
+- pkg:maven/top.zopx/goku-framework-support-activiti@2.0.01_04
+- pkg:maven/top.zopx/goku-framework-support-activiti@2.0.01_04?classifier=sources

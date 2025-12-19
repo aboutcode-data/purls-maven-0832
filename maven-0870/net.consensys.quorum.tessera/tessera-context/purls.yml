@@ -32,3 +32,4 @@
 - pkg:maven/net.consensys.quorum.tessera/tessera-context@22.1.7?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/tessera-context@22.10.0?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/tessera-context@22.10.1?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/tessera-context@23.4.0?classifier=sources

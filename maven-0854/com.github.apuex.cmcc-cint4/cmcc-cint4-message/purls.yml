@@ -1,0 +1,2 @@
+- pkg:maven/com.github.apuex.cmcc-cint4/cmcc-cint4-message@0.0.1
+- pkg:maven/com.github.apuex.cmcc-cint4/cmcc-cint4-message@0.0.1?classifier=sources

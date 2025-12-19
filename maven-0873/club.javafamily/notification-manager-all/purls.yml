@@ -5,6 +5,8 @@
 - pkg:maven/club.javafamily/notification-manager-all@2.3.2-beta.11?classifier=sources
 - pkg:maven/club.javafamily/notification-manager-all@2.3.2-beta.12
 - pkg:maven/club.javafamily/notification-manager-all@2.3.2-beta.12?classifier=sources
+- pkg:maven/club.javafamily/notification-manager-all@2.3.2-beta.13
+- pkg:maven/club.javafamily/notification-manager-all@2.3.2-beta.13?classifier=sources
 - pkg:maven/club.javafamily/notification-manager-all@2.3.2-beta.1?classifier=sources
 - pkg:maven/club.javafamily/notification-manager-all@2.3.2-beta.2
 - pkg:maven/club.javafamily/notification-manager-all@2.3.2-beta.2?classifier=sources

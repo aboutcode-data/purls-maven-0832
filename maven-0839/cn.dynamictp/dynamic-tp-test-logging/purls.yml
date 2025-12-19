@@ -1,1 +1,4 @@
 - pkg:maven/cn.dynamictp/dynamic-tp-test-logging@1.1.0
+- pkg:maven/cn.dynamictp/dynamic-tp-test-logging@1.1.1
+- pkg:maven/cn.dynamictp/dynamic-tp-test-logging@1.1.1-beta
+- pkg:maven/cn.dynamictp/dynamic-tp-test-logging@1.1.2

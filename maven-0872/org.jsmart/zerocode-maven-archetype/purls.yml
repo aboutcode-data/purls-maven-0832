@@ -22,3 +22,5 @@
 - pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.30?classifier=sources
 - pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.31
 - pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.31?classifier=sources
+- pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.33
+- pkg:maven/org.jsmart/zerocode-maven-archetype@1.3.33?classifier=sources

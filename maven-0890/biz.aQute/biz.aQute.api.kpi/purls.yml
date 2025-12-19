@@ -1,3 +1,5 @@
+- pkg:maven/biz.aQute/biz.aQute.api.kpi@1.10.0
+- pkg:maven/biz.aQute/biz.aQute.api.kpi@1.10.0?classifier=sources
 - pkg:maven/biz.aQute/biz.aQute.api.kpi@1.8.0
 - pkg:maven/biz.aQute/biz.aQute.api.kpi@1.8.0?classifier=sources
 - pkg:maven/biz.aQute/biz.aQute.api.kpi@1.9.0

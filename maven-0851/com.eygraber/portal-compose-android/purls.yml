@@ -12,6 +12,7 @@
 - pkg:maven/com.eygraber/portal-compose-android@0.9.21?classifier=sources
 - pkg:maven/com.eygraber/portal-compose-android@0.9.22?classifier=sources
 - pkg:maven/com.eygraber/portal-compose-android@0.9.23?classifier=sources
+- pkg:maven/com.eygraber/portal-compose-android@0.9.24?classifier=sources
 - pkg:maven/com.eygraber/portal-compose-android@0.9.6?classifier=sources
 - pkg:maven/com.eygraber/portal-compose-android@0.9.7?classifier=sources
 - pkg:maven/com.eygraber/portal-compose-android@0.9.8?classifier=sources

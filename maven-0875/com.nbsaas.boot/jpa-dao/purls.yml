@@ -1,0 +1,4 @@
+- pkg:maven/com.nbsaas.boot/jpa-dao@1.0.5-2023-04-08
+- pkg:maven/com.nbsaas.boot/jpa-dao@1.0.5-2023-04-08?classifier=sources
+- pkg:maven/com.nbsaas.boot/jpa-dao@1.0.6-2023-04-09
+- pkg:maven/com.nbsaas.boot/jpa-dao@1.0.6-2023-04-09?classifier=sources

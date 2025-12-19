@@ -72,6 +72,8 @@
 - pkg:maven/org.opencastproject/opencast-termination-state-aws@13.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-termination-state-aws@13.2
 - pkg:maven/org.opencastproject/opencast-termination-state-aws@13.2?classifier=sources
+- pkg:maven/org.opencastproject/opencast-termination-state-aws@13.4
+- pkg:maven/org.opencastproject/opencast-termination-state-aws@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-termination-state-aws@8.0
 - pkg:maven/org.opencastproject/opencast-termination-state-aws@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-termination-state-aws@8.1

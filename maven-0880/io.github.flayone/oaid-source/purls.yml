@@ -2,4 +2,5 @@
 - pkg:maven/io.github.flayone/oaid-source@1.0.2?type=aar
 - pkg:maven/io.github.flayone/oaid-source@1.0.3?type=aar
 - pkg:maven/io.github.flayone/oaid-source@1.0.4?type=aar
+- pkg:maven/io.github.flayone/oaid-source@1.0.5?type=aar
 - pkg:maven/io.github.flayone/oaid-source@1.0?type=aar

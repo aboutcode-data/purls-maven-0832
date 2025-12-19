@@ -1,0 +1,2 @@
+- pkg:maven/cn.xphsc.boot/ssh2-spring-boot-starter@1.0.0-RC
+- pkg:maven/cn.xphsc.boot/ssh2-spring-boot-starter@1.0.0-RC?classifier=sources

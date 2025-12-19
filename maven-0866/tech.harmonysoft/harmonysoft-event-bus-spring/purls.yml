@@ -39,6 +39,7 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.46.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.47.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.49.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.50.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.7.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.8.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.9.0?classifier=sources

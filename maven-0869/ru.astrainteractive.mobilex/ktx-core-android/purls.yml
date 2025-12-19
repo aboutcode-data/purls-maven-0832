@@ -10,3 +10,4 @@
 - pkg:maven/ru.astrainteractive.mobilex/ktx-core-android@2.4.7?classifier=sources
 - pkg:maven/ru.astrainteractive.mobilex/ktx-core-android@2.5.0?classifier=sources
 - pkg:maven/ru.astrainteractive.mobilex/ktx-core-android@2.5.2?classifier=sources
+- pkg:maven/ru.astrainteractive.mobilex/ktx-core-android@2.5.3?classifier=sources

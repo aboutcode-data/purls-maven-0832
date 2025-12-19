@@ -16,3 +16,5 @@
 - pkg:maven/cn.hserver/hserver-plugin-rpc@3.1.M2?classifier=sources
 - pkg:maven/cn.hserver/hserver-plugin-rpc@3.1.M3
 - pkg:maven/cn.hserver/hserver-plugin-rpc@3.1.M3?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-rpc@3.2.M1
+- pkg:maven/cn.hserver/hserver-plugin-rpc@3.2.M1?classifier=sources

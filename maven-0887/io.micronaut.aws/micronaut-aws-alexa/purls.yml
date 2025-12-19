@@ -42,6 +42,7 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.1.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.1.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.10.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.10.10?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.10.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.10.2?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.10.3?classifier=sources
@@ -54,9 +55,11 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.11.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.11.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.11.2?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.11.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.12.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.12.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.12.2?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.12.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.13.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.13.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.13.2?classifier=sources
@@ -64,7 +67,13 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.14.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.14.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.14.2?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.14.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.15.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.15.1?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.15.2?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.16.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.16.1?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.17.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.2.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.2.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.2.2?classifier=sources
@@ -88,3 +97,4 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.9.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.9.2?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa@3.9.3?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa@4.0.0-M1?classifier=sources

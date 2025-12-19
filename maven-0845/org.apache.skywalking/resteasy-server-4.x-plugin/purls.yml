@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.skywalking/resteasy-server-4.x-plugin@8.13.0?classifier=sources
 - pkg:maven/org.apache.skywalking/resteasy-server-4.x-plugin@8.14.0
 - pkg:maven/org.apache.skywalking/resteasy-server-4.x-plugin@8.14.0?classifier=sources
+- pkg:maven/org.apache.skywalking/resteasy-server-4.x-plugin@8.15.0
+- pkg:maven/org.apache.skywalking/resteasy-server-4.x-plugin@8.15.0?classifier=sources

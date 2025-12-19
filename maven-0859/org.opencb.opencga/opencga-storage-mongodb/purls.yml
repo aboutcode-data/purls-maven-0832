@@ -55,6 +55,8 @@
 - pkg:maven/org.opencb.opencga/opencga-storage-mongodb@2.4.13.1
 - pkg:maven/org.opencb.opencga/opencga-storage-mongodb@2.4.13.1?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-mongodb@2.4.13?classifier=sources
+- pkg:maven/org.opencb.opencga/opencga-storage-mongodb@2.4.14
+- pkg:maven/org.opencb.opencga/opencga-storage-mongodb@2.4.14?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-mongodb@2.4.1?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-mongodb@2.4.2
 - pkg:maven/org.opencb.opencga/opencga-storage-mongodb@2.4.2?classifier=sources

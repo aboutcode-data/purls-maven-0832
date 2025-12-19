@@ -1,0 +1,4 @@
+- pkg:maven/tech.msop/ms-auth-starter@0.2.3.RELEASE
+- pkg:maven/tech.msop/ms-auth-starter@0.2.3.RELEASE?classifier=sources
+- pkg:maven/tech.msop/ms-auth-starter@0.2.4.RELEASE
+- pkg:maven/tech.msop/ms-auth-starter@0.2.4.RELEASE?classifier=sources

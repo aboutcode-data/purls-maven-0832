@@ -42,3 +42,5 @@
 - pkg:maven/org.opennms.newts/newts-ui@1.5.7?classifier=sources
 - pkg:maven/org.opennms.newts/newts-ui@2.0.0
 - pkg:maven/org.opennms.newts/newts-ui@2.0.0?classifier=sources
+- pkg:maven/org.opennms.newts/newts-ui@3.0.0
+- pkg:maven/org.opennms.newts/newts-ui@3.0.0?classifier=sources

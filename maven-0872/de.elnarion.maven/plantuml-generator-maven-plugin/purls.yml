@@ -24,3 +24,5 @@
 - pkg:maven/de.elnarion.maven/plantuml-generator-maven-plugin@1.6.0?classifier=sources
 - pkg:maven/de.elnarion.maven/plantuml-generator-maven-plugin@2.0.0
 - pkg:maven/de.elnarion.maven/plantuml-generator-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/de.elnarion.maven/plantuml-generator-maven-plugin@2.0.2
+- pkg:maven/de.elnarion.maven/plantuml-generator-maven-plugin@2.0.2?classifier=sources

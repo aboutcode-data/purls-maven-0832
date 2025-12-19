@@ -76,3 +76,5 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.248?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.249?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.250?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.251?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.252?classifier=sources

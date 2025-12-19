@@ -1,0 +1,2 @@
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@2.0
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@2.0?classifier=sources

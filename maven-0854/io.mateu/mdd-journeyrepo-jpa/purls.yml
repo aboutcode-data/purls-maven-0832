@@ -1,0 +1,4 @@
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.0.1
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.0.1?classifier=sources
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.0.2
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.0.2?classifier=sources

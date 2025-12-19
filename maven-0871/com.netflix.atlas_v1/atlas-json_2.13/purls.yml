@@ -40,3 +40,5 @@
 - pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.0-rc.31
 - pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.0-rc.31?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.0?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.1
+- pkg:maven/com.netflix.atlas_v1/atlas-json_2.13@1.7.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.cognitect.aws/ivs-realtime@845.2.1345.0
+- pkg:maven/com.cognitect.aws/ivs-realtime@845.2.1345.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ivs-realtime@845.2.1359.0
+- pkg:maven/com.cognitect.aws/ivs-realtime@845.2.1359.0?classifier=sources

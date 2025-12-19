@@ -1,0 +1,8 @@
+- pkg:maven/io.github.mjhaugsdal/msghead-2006-05-24@1.0.0
+- pkg:maven/io.github.mjhaugsdal/msghead-2006-05-24@1.0.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/msghead-2006-05-24@2.0.0
+- pkg:maven/io.github.mjhaugsdal/msghead-2006-05-24@2.0.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/msghead-2006-05-24@3.0.0
+- pkg:maven/io.github.mjhaugsdal/msghead-2006-05-24@3.0.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/msghead-2006-05-24@4.0.0
+- pkg:maven/io.github.mjhaugsdal/msghead-2006-05-24@4.0.0?classifier=sources

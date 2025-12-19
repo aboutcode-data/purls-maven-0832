@@ -36,3 +36,5 @@
 - pkg:maven/me.zalo/sdk-analytics@4.1.0815?type=aar
 - pkg:maven/me.zalo/sdk-analytics@4.1.1101?classifier=sources
 - pkg:maven/me.zalo/sdk-analytics@4.1.1101?type=aar
+- pkg:maven/me.zalo/sdk-analytics@4.2.0313?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@4.2.0313?type=aar

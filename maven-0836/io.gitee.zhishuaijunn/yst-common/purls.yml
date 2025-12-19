@@ -1,0 +1,6 @@
+- pkg:maven/io.gitee.zhishuaijunn/yst-common@1.0
+- pkg:maven/io.gitee.zhishuaijunn/yst-common@1.0.0
+- pkg:maven/io.gitee.zhishuaijunn/yst-common@1.0.0-release
+- pkg:maven/io.gitee.zhishuaijunn/yst-common@1.0.0-release?classifier=sources
+- pkg:maven/io.gitee.zhishuaijunn/yst-common@1.0.0?classifier=sources
+- pkg:maven/io.gitee.zhishuaijunn/yst-common@1.0?classifier=sources

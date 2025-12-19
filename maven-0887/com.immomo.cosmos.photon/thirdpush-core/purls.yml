@@ -20,6 +20,10 @@
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.16_kaka_202212281?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.16_kaka_20221228?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.16_kaka_20221228?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.16_kaka_202304141?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.16_kaka_202304141?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.16_kaka_202304142?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.16_kaka_202304142?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.7?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.7?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.2.8?classifier=sources
@@ -32,6 +36,14 @@
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.0_061001?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.0_061002?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.0_061002?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.1?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.1?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.2?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.2?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.4?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.4?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.5?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.3.5?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.4.0_061001_tt?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.4.0_061001_tt?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.4.0_061301_tt?classifier=sources
@@ -54,3 +66,5 @@
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.5.0_122001_tt?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.5.0_122901_tt?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.5.0_122901_tt?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.5.1_032201_tt?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.5.1_032201_tt?type=aar

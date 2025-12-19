@@ -63,3 +63,4 @@
 - pkg:maven/dev.inmo/tgbotapi.webapps-js@6.0.3?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-js@6.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-js@7.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps-js@7.0.1?classifier=sources

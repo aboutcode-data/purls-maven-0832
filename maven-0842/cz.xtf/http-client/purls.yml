@@ -9,3 +9,5 @@
 - pkg:maven/cz.xtf/http-client@0.27?classifier=sources
 - pkg:maven/cz.xtf/http-client@0.28
 - pkg:maven/cz.xtf/http-client@0.28?classifier=sources
+- pkg:maven/cz.xtf/http-client@0.29
+- pkg:maven/cz.xtf/http-client@0.29?classifier=sources

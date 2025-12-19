@@ -20,3 +20,5 @@
 - pkg:maven/me.wojnowski/googlecloud4s-logging-logback-circe_2.13@0.7.0?classifier=sources
 - pkg:maven/me.wojnowski/googlecloud4s-logging-logback-circe_2.13@0.7.1
 - pkg:maven/me.wojnowski/googlecloud4s-logging-logback-circe_2.13@0.7.1?classifier=sources
+- pkg:maven/me.wojnowski/googlecloud4s-logging-logback-circe_2.13@0.7.2
+- pkg:maven/me.wojnowski/googlecloud4s-logging-logback-circe_2.13@0.7.2?classifier=sources

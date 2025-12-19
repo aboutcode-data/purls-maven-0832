@@ -60,3 +60,5 @@
 - pkg:maven/org.virtuslab.scala-cli/test-runner_3@0.2.0?classifier=sources
 - pkg:maven/org.virtuslab.scala-cli/test-runner_3@0.2.1
 - pkg:maven/org.virtuslab.scala-cli/test-runner_3@0.2.1?classifier=sources
+- pkg:maven/org.virtuslab.scala-cli/test-runner_3@1.0.0-RC1
+- pkg:maven/org.virtuslab.scala-cli/test-runner_3@1.0.0-RC1?classifier=sources

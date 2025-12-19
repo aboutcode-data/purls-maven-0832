@@ -4,3 +4,4 @@
 - pkg:maven/org.rationalityfrontline.workaround/grpc-api@1.45.1?classifier=sources
 - pkg:maven/org.rationalityfrontline.workaround/grpc-api@1.48.1?classifier=sources
 - pkg:maven/org.rationalityfrontline.workaround/grpc-api@1.51.0?classifier=sources
+- pkg:maven/org.rationalityfrontline.workaround/grpc-api@1.54.0?classifier=sources

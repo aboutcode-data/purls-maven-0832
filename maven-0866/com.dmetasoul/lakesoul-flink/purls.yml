@@ -2,3 +2,5 @@
 - pkg:maven/com.dmetasoul/lakesoul-flink@2.1.0-flink-1.14?classifier=sources
 - pkg:maven/com.dmetasoul/lakesoul-flink@2.1.1-flink-1.14
 - pkg:maven/com.dmetasoul/lakesoul-flink@2.1.1-flink-1.14?classifier=sources
+- pkg:maven/com.dmetasoul/lakesoul-flink@2.2.0-flink-1.14
+- pkg:maven/com.dmetasoul/lakesoul-flink@2.2.0-flink-1.14?classifier=sources

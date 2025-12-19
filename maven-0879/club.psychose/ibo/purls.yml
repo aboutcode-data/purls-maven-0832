@@ -2,3 +2,7 @@
 - pkg:maven/club.psychose/ibo@1.0.2?classifier=sources
 - pkg:maven/club.psychose/ibo@1.0.3?classifier=sources
 - pkg:maven/club.psychose/ibo@1.0.4?classifier=sources
+- pkg:maven/club.psychose/ibo@1.1.0?classifier=sources
+- pkg:maven/club.psychose/ibo@1.2.0?classifier=sources
+- pkg:maven/club.psychose/ibo@1.2.1?classifier=sources
+- pkg:maven/club.psychose/ibo@1.2.2?classifier=sources

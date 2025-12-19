@@ -1,3 +1,5 @@
+- pkg:maven/biz.aQute/biz.aQute.osgi.logger.components.provider@1.10.0
+- pkg:maven/biz.aQute/biz.aQute.osgi.logger.components.provider@1.10.0?classifier=sources
 - pkg:maven/biz.aQute/biz.aQute.osgi.logger.components.provider@1.7.0
 - pkg:maven/biz.aQute/biz.aQute.osgi.logger.components.provider@1.7.0?classifier=sources
 - pkg:maven/biz.aQute/biz.aQute.osgi.logger.components.provider@1.8.0

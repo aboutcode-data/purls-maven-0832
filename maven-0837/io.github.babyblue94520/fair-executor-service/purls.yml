@@ -1,0 +1,4 @@
+- pkg:maven/io.github.babyblue94520/fair-executor-service@0.0.1-RELEASE
+- pkg:maven/io.github.babyblue94520/fair-executor-service@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.babyblue94520/fair-executor-service@0.1.1-RELEASE
+- pkg:maven/io.github.babyblue94520/fair-executor-service@0.1.1-RELEASE?classifier=sources

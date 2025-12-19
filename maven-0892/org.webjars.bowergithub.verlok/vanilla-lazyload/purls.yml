@@ -1,0 +1,16 @@
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@10.19.1
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@10.19.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@11.0.6
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@11.0.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@12.5.1
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@12.5.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@13.0.1
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@13.0.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@14.0.1
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@14.0.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@15.2.0
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@15.2.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@16.1.0
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@16.1.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@17.8.3
+- pkg:maven/org.webjars.bowergithub.verlok/vanilla-lazyload@17.8.3?classifier=sources

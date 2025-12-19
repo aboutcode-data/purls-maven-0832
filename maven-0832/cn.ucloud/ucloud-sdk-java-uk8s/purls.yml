@@ -32,3 +32,5 @@
 - pkg:maven/cn.ucloud/ucloud-sdk-java-uk8s@1.2.3-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-uk8s@1.2.4-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-uk8s@1.2.4-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-uk8s@1.2.5-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-uk8s@1.2.5-release?classifier=sources

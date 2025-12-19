@@ -1,0 +1,2 @@
+- pkg:maven/com.github.imrafaelmerino/jio-test@0.7.0
+- pkg:maven/com.github.imrafaelmerino/jio-test@0.7.0?classifier=sources

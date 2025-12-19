@@ -3,3 +3,5 @@
 - pkg:maven/com.androidacy/cronet-common@109.0.5414.75?classifier=sources
 - pkg:maven/com.androidacy/cronet-common@110.0.5481.110-2?classifier=sources
 - pkg:maven/com.androidacy/cronet-common@110.0.5481.110?classifier=sources
+- pkg:maven/com.androidacy/cronet-common@111.0.5563.75?classifier=sources
+- pkg:maven/com.androidacy/cronet-common@112.0.5615.62?classifier=sources

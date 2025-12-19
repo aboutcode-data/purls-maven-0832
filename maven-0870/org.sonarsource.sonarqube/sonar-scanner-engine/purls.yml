@@ -1,3 +1,4 @@
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@10.0.0.68432?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@5.5
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@5.5-RC1
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@5.5-RC1?classifier=sources

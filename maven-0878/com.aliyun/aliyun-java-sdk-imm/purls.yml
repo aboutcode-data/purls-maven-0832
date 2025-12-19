@@ -136,3 +136,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-imm@1.9.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-imm@1.9.2
 - pkg:maven/com.aliyun/aliyun-java-sdk-imm@1.9.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-imm@2.1.11
+- pkg:maven/com.aliyun/aliyun-java-sdk-imm@2.1.11?classifier=sources

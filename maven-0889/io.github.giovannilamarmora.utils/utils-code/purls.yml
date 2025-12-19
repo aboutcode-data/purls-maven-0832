@@ -1,4 +1,5 @@
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@0.2.10
+- pkg:maven/io.github.giovannilamarmora.utils/utils-code@0.2.20
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@0.2.3
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@0.2.4
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@0.2.6

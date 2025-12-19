@@ -1,0 +1,2 @@
+- pkg:maven/fr.inria.corese/corese-command@4.4.0
+- pkg:maven/fr.inria.corese/corese-command@4.4.0?classifier=sources

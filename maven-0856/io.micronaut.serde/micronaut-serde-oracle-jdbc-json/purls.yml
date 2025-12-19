@@ -7,3 +7,4 @@
 - pkg:maven/io.micronaut.serde/micronaut-serde-oracle-jdbc-json@1.5.0?classifier=sources
 - pkg:maven/io.micronaut.serde/micronaut-serde-oracle-jdbc-json@1.5.1?classifier=sources
 - pkg:maven/io.micronaut.serde/micronaut-serde-oracle-jdbc-json@1.5.2?classifier=sources
+- pkg:maven/io.micronaut.serde/micronaut-serde-oracle-jdbc-json@2.0.0-M1?classifier=sources

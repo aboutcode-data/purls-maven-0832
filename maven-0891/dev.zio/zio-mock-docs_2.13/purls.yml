@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-mock-docs_2.13@1.0.0-RC10
+- pkg:maven/dev.zio/zio-mock-docs_2.13@1.0.0-RC10?classifier=sources
+- pkg:maven/dev.zio/zio-mock-docs_2.13@1.0.0-RC11
+- pkg:maven/dev.zio/zio-mock-docs_2.13@1.0.0-RC11?classifier=sources

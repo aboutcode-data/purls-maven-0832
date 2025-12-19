@@ -16,3 +16,5 @@
 - pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.0.4?classifier=sources
 - pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.1.0
 - pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.1.0?classifier=sources
+- pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.1.1
+- pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.1.1?classifier=sources

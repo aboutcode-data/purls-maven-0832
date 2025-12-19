@@ -1,0 +1,6 @@
+- pkg:maven/world.mappable.android/maps.mobile@1.0.0-full?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@1.0.0-lite?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@1.0.1-full?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@1.0.1-lite?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@1.0.2-full?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@1.0.2-lite?type=aar

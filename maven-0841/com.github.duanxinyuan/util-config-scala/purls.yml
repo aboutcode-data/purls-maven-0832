@@ -1,1 +1,4 @@
 - pkg:maven/com.github.duanxinyuan/util-config-scala@1.1.0
+- pkg:maven/com.github.duanxinyuan/util-config-scala@1.3.0
+- pkg:maven/com.github.duanxinyuan/util-config-scala@1.3.1
+- pkg:maven/com.github.duanxinyuan/util-config-scala@1.4.0

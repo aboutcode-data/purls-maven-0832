@@ -106,6 +106,7 @@
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.17.0?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.17.1
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.17.1?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.18.0
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.18.0-M10
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.18.0-M10?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.18.0-M11
@@ -132,3 +133,4 @@
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.18.0-M8?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.18.0-M9
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.18.0-M9?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.18.0?classifier=sources

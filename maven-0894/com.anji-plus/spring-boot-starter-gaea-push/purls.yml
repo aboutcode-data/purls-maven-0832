@@ -6,5 +6,9 @@
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@2.4.0.RELEASE?classifier=sources
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@2.4.1.RELEASE
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@2.4.1.RELEASE?classifier=sources
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@2.5.0.RELEASE
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@2.5.0.RELEASE?classifier=sources
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@2.6.0.RELEASE
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@2.6.0.RELEASE?classifier=sources
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@2.7.0.RELEASE
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-push@2.7.0.RELEASE?classifier=sources

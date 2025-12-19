@@ -36,6 +36,9 @@
 - pkg:maven/org.dmfs/http-client-types@0.19?classifier=sources
 - pkg:maven/org.dmfs/http-client-types@0.20
 - pkg:maven/org.dmfs/http-client-types@0.20?classifier=sources
+- pkg:maven/org.dmfs/http-client-types@0.21.1?classifier=sources
+- pkg:maven/org.dmfs/http-client-types@0.21.2?classifier=sources
+- pkg:maven/org.dmfs/http-client-types@0.21.3?classifier=sources
 - pkg:maven/org.dmfs/http-client-types@0.5
 - pkg:maven/org.dmfs/http-client-types@0.5?classifier=sources
 - pkg:maven/org.dmfs/http-client-types@0.6

@@ -62,6 +62,16 @@
 - pkg:maven/tv.hd3g/transfertfiles@13.3.0?classifier=sources
 - pkg:maven/tv.hd3g/transfertfiles@13.3.1
 - pkg:maven/tv.hd3g/transfertfiles@13.3.1?classifier=sources
+- pkg:maven/tv.hd3g/transfertfiles@13.3.2
+- pkg:maven/tv.hd3g/transfertfiles@13.3.2?classifier=sources
+- pkg:maven/tv.hd3g/transfertfiles@13.3.3
+- pkg:maven/tv.hd3g/transfertfiles@13.3.3?classifier=sources
+- pkg:maven/tv.hd3g/transfertfiles@13.4.0
+- pkg:maven/tv.hd3g/transfertfiles@13.4.0?classifier=sources
+- pkg:maven/tv.hd3g/transfertfiles@13.4.1
+- pkg:maven/tv.hd3g/transfertfiles@13.4.1?classifier=sources
+- pkg:maven/tv.hd3g/transfertfiles@13.4.2
+- pkg:maven/tv.hd3g/transfertfiles@13.4.2?classifier=sources
 - pkg:maven/tv.hd3g/transfertfiles@9.0.0
 - pkg:maven/tv.hd3g/transfertfiles@9.0.0?classifier=sources
 - pkg:maven/tv.hd3g/transfertfiles@9.0.1

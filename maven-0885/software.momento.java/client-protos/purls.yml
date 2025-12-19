@@ -1,0 +1,4 @@
+- pkg:maven/software.momento.java/client-protos@0.54.0?classifier=sources
+- pkg:maven/software.momento.java/client-protos@0.54.1?classifier=sources
+- pkg:maven/software.momento.java/client-protos@0.54.2?classifier=sources
+- pkg:maven/software.momento.java/client-protos@0.54.3?classifier=sources

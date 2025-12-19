@@ -1,0 +1,8 @@
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@1.0.0.Alpha1
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@1.0.0.Alpha1?classifier=sources
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@1.0.0.Beta1
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@1.0.0.Beta1?classifier=sources
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@2.0.0.Alpha1
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@2.0.0.Alpha1?classifier=sources
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@2.0.0.Beta1
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@2.0.0.Beta1?classifier=sources

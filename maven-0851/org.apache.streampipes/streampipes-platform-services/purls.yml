@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.streampipes/streampipes-platform-services@0.70.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-platform-services@0.90.0
 - pkg:maven/org.apache.streampipes/streampipes-platform-services@0.90.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-platform-services@0.91.0
+- pkg:maven/org.apache.streampipes/streampipes-platform-services@0.91.0?classifier=sources

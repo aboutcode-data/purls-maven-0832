@@ -1,0 +1,6 @@
+- pkg:maven/io.github.git-fudge/new-artifact@11.22.33
+- pkg:maven/io.github.git-fudge/new-artifact@11.22.33?classifier=sources
+- pkg:maven/io.github.git-fudge/new-artifact@22.33.44
+- pkg:maven/io.github.git-fudge/new-artifact@22.33.44?classifier=sources
+- pkg:maven/io.github.git-fudge/new-artifact@9.9.9
+- pkg:maven/io.github.git-fudge/new-artifact@9.9.9?classifier=sources

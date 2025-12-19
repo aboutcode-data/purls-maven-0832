@@ -4,3 +4,5 @@
 - pkg:maven/net.avcompris.commons/avc-domdumper@0.5.2?classifier=sources
 - pkg:maven/net.avcompris.commons/avc-domdumper@0.5.3
 - pkg:maven/net.avcompris.commons/avc-domdumper@0.5.3?classifier=sources
+- pkg:maven/net.avcompris.commons/avc-domdumper@0.6.1
+- pkg:maven/net.avcompris.commons/avc-domdumper@0.6.1?classifier=sources

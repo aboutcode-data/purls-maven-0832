@@ -10,5 +10,7 @@
 - pkg:maven/org.webjars.npm/style-loader@0.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/style-loader@1.2.1
 - pkg:maven/org.webjars.npm/style-loader@1.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/style-loader@2.0.0
+- pkg:maven/org.webjars.npm/style-loader@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/style-loader@3.3.1
 - pkg:maven/org.webjars.npm/style-loader@3.3.1?classifier=sources

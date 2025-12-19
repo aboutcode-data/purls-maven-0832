@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.spark/spark-connect-common_2.13@3.4.0
+- pkg:maven/org.apache.spark/spark-connect-common_2.13@3.4.0?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/com.epam.drill.plugins.test2code/api-linuxx64@0.8.0-79?classifier=sources
 - pkg:maven/com.epam.drill.plugins.test2code/api-linuxx64@0.8.0-remove-active-scope.0?classifier=sources
 - pkg:maven/com.epam.drill.plugins.test2code/api-linuxx64@0.8.0-remove-active-scope.1?classifier=sources
+- pkg:maven/com.epam.drill.plugins.test2code/api-linuxx64@0.8.1?classifier=sources

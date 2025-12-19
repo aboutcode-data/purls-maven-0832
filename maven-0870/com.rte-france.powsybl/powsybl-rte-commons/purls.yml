@@ -33,6 +33,7 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.10.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.11.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.12.0
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.13.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.2.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.3.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.3.0-alpha-1

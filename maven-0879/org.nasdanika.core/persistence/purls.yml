@@ -14,3 +14,5 @@
 - pkg:maven/org.nasdanika.core/persistence@2023.2.0?classifier=sources
 - pkg:maven/org.nasdanika.core/persistence@2023.3.0
 - pkg:maven/org.nasdanika.core/persistence@2023.3.0?classifier=sources
+- pkg:maven/org.nasdanika.core/persistence@2023.4.0
+- pkg:maven/org.nasdanika.core/persistence@2023.4.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/ch.unibas.cs.gravis/vtkjavanativeslinuximpl@0.1.0?classifier=sources
 - pkg:maven/ch.unibas.cs.gravis/vtkjavanativeslinuximpl@0.1.1
 - pkg:maven/ch.unibas.cs.gravis/vtkjavanativeslinuximpl@0.1.1?classifier=sources
+- pkg:maven/ch.unibas.cs.gravis/vtkjavanativeslinuximpl@0.2-RC1
+- pkg:maven/ch.unibas.cs.gravis/vtkjavanativeslinuximpl@0.2-RC1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.ow2.petals/petals-cli-bc-gateway@2.1.0?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-cli-bc-gateway@2.1.0?classifier=sources
 - pkg:maven/org.ow2.petals/petals-cli-bc-gateway@2.1.0?type=zip
+- pkg:maven/org.ow2.petals/petals-cli-bc-gateway@2.2.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-cli-bc-gateway@2.2.0?type=zip

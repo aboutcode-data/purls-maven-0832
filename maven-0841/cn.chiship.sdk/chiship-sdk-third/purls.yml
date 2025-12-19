@@ -32,3 +32,5 @@
 - pkg:maven/cn.chiship.sdk/chiship-sdk-third@1.9.4?classifier=sources
 - pkg:maven/cn.chiship.sdk/chiship-sdk-third@2.1.1
 - pkg:maven/cn.chiship.sdk/chiship-sdk-third@2.1.1?classifier=sources
+- pkg:maven/cn.chiship.sdk/chiship-sdk-third@2.3.1
+- pkg:maven/cn.chiship.sdk/chiship-sdk-third@2.3.1?classifier=sources

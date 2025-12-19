@@ -8,4 +8,6 @@
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@1.0.5
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@1.0.6
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@1.0.7
+- pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@2.0.0
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@2.0.0.CR1
+- pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@2.0.0.CR2

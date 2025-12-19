@@ -104,3 +104,5 @@
 - pkg:maven/org.openapitools/openapi-generator@6.3.0?classifier=sources
 - pkg:maven/org.openapitools/openapi-generator@6.4.0
 - pkg:maven/org.openapitools/openapi-generator@6.4.0?classifier=sources
+- pkg:maven/org.openapitools/openapi-generator@6.5.0
+- pkg:maven/org.openapitools/openapi-generator@6.5.0?classifier=sources

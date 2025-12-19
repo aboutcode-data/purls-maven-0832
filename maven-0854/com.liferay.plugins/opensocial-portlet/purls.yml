@@ -303,6 +303,8 @@
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.43?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.44?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.45?type=war
+- pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.46?type=war
+- pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.47?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.4?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.5?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.6?type=war

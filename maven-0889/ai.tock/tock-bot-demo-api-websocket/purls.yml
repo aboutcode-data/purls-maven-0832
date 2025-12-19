@@ -32,3 +32,5 @@
 - pkg:maven/ai.tock/tock-bot-demo-api-websocket@22.3.0?classifier=sources
 - pkg:maven/ai.tock/tock-bot-demo-api-websocket@22.9.0
 - pkg:maven/ai.tock/tock-bot-demo-api-websocket@22.9.0?classifier=sources
+- pkg:maven/ai.tock/tock-bot-demo-api-websocket@23.3.0
+- pkg:maven/ai.tock/tock-bot-demo-api-websocket@23.3.0?classifier=sources

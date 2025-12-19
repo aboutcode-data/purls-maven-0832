@@ -1,0 +1,4 @@
+- pkg:maven/io.extremum/extremum-annotations@2.1.19
+- pkg:maven/io.extremum/extremum-annotations@2.1.19?classifier=sources
+- pkg:maven/io.extremum/extremum-annotations@3.0.0
+- pkg:maven/io.extremum/extremum-annotations@3.0.0?classifier=sources
