@@ -6,5 +6,6 @@
 - pkg:maven/com.github.insurlytech/androidlibrary@1.2.1?type=aar
 - pkg:maven/com.github.insurlytech/androidlibrary@1.2.2?classifier=sources
 - pkg:maven/com.github.insurlytech/androidlibrary@1.2.2?type=aar
+- pkg:maven/com.github.insurlytech/androidlibrary@1.2.4?classifier=sources
 - pkg:maven/com.github.insurlytech/androidlibrary@1.2?classifier=sources
 - pkg:maven/com.github.insurlytech/androidlibrary@1.2?type=aar

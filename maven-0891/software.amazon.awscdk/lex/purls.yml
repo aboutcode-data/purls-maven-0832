@@ -30,3 +30,15 @@
 - pkg:maven/software.amazon.awscdk/lex@1.148.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lex@1.149.0
 - pkg:maven/software.amazon.awscdk/lex@1.149.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.150.0
+- pkg:maven/software.amazon.awscdk/lex@1.150.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.151.0
+- pkg:maven/software.amazon.awscdk/lex@1.151.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.152.0
+- pkg:maven/software.amazon.awscdk/lex@1.152.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.153.0
+- pkg:maven/software.amazon.awscdk/lex@1.153.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.153.1
+- pkg:maven/software.amazon.awscdk/lex@1.153.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.154.0
+- pkg:maven/software.amazon.awscdk/lex@1.154.0?classifier=sources

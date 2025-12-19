@@ -12,3 +12,5 @@
 - pkg:maven/dev.guardrail/guardrail-scala-akka-http_2.13@0.68.0?classifier=sources
 - pkg:maven/dev.guardrail/guardrail-scala-akka-http_2.13@0.69.0
 - pkg:maven/dev.guardrail/guardrail-scala-akka-http_2.13@0.69.0?classifier=sources
+- pkg:maven/dev.guardrail/guardrail-scala-akka-http_2.13@0.70.0
+- pkg:maven/dev.guardrail/guardrail-scala-akka-http_2.13@0.70.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.juul.tuulbox/logging-ktor-client-macosarm64@6.1.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/logging-ktor-client-macosarm64@6.2.0?classifier=sources

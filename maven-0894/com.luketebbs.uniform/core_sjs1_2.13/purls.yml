@@ -8,3 +8,5 @@
 - pkg:maven/com.luketebbs.uniform/core_sjs1_2.13@5.0.0-RC4?classifier=sources
 - pkg:maven/com.luketebbs.uniform/core_sjs1_2.13@5.0.0-RC5
 - pkg:maven/com.luketebbs.uniform/core_sjs1_2.13@5.0.0-RC5?classifier=sources
+- pkg:maven/com.luketebbs.uniform/core_sjs1_2.13@5.0.0-RC6
+- pkg:maven/com.luketebbs.uniform/core_sjs1_2.13@5.0.0-RC6?classifier=sources

@@ -23,3 +23,5 @@
 - pkg:maven/com.squareup.misk/misk-metrics@0.20.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-metrics@0.22.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-metrics@0.23.0-20211108.2134-3a0d6d3?classifier=sources
+- pkg:maven/com.squareup.misk/misk-metrics@0.23.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-metrics@0.24.0?classifier=sources

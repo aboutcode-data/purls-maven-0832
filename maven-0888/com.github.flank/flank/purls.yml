@@ -47,5 +47,7 @@
 - pkg:maven/com.github.flank/flank@21.09.0?classifier=sources
 - pkg:maven/com.github.flank/flank@21.11.0?classifier=sources
 - pkg:maven/com.github.flank/flank@2131?classifier=sources
+- pkg:maven/com.github.flank/flank@22.03.0?classifier=sources
+- pkg:maven/com.github.flank/flank@22.04.0?classifier=sources
 - pkg:maven/com.github.flank/flank@flank_snapshot
 - pkg:maven/com.github.flank/flank@flank_snapshot?classifier=sources

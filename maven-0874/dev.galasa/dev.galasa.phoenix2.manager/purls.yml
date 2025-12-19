@@ -1,1 +1,2 @@
 - pkg:maven/dev.galasa/dev.galasa.phoenix2.manager@0.15.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.phoenix2.manager@0.21.0?classifier=sources

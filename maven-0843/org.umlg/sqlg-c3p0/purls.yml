@@ -1,0 +1,2 @@
+- pkg:maven/org.umlg/sqlg-c3p0@2.1.6
+- pkg:maven/org.umlg/sqlg-c3p0@2.1.6?classifier=sources

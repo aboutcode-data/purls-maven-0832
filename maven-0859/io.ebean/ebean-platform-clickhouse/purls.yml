@@ -1,0 +1,12 @@
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.0.0
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.0.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.1.0
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.1.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.2.0
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.2.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.3.0
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.3.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.3.1
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.3.1?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.4.0
+- pkg:maven/io.ebean/ebean-platform-clickhouse@13.4.0?classifier=sources

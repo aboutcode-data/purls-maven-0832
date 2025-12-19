@@ -33,6 +33,8 @@
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.28
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.28?classifier=sources
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.3
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.30
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.30?classifier=sources
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.3?classifier=sources
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.4
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.4?classifier=sources

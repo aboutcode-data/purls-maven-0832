@@ -2,3 +2,4 @@
 - pkg:maven/com.motorro.rxlcemodel/viewmodel@3.3.0?classifier=sources
 - pkg:maven/com.motorro.rxlcemodel/viewmodel@3.4.0?classifier=sources
 - pkg:maven/com.motorro.rxlcemodel/viewmodel@3.4.1?classifier=sources
+- pkg:maven/com.motorro.rxlcemodel/viewmodel@4.0.0?classifier=sources

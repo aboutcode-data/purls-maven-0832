@@ -16,3 +16,5 @@
 - pkg:maven/com.io7m.jregions/com.io7m.jregions.documentation@2.0.0?type=zip
 - pkg:maven/com.io7m.jregions/com.io7m.jregions.documentation@3.0.0?classifier=sources
 - pkg:maven/com.io7m.jregions/com.io7m.jregions.documentation@3.0.0?type=zip
+- pkg:maven/com.io7m.jregions/com.io7m.jregions.documentation@4.0.0?classifier=sources
+- pkg:maven/com.io7m.jregions/com.io7m.jregions.documentation@4.0.0?type=zip

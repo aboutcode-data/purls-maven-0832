@@ -1,6 +1,7 @@
 - pkg:maven/com.facebook.airlift/airbase-policy@100
 - pkg:maven/com.facebook.airlift/airbase-policy@101
 - pkg:maven/com.facebook.airlift/airbase-policy@102
+- pkg:maven/com.facebook.airlift/airbase-policy@103
 - pkg:maven/com.facebook.airlift/airbase-policy@94
 - pkg:maven/com.facebook.airlift/airbase-policy@95
 - pkg:maven/com.facebook.airlift/airbase-policy@96

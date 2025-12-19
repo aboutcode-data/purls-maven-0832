@@ -69,6 +69,8 @@
 - pkg:maven/io.airlift/slice@0.40?classifier=sources
 - pkg:maven/io.airlift/slice@0.41
 - pkg:maven/io.airlift/slice@0.41?classifier=sources
+- pkg:maven/io.airlift/slice@0.42
+- pkg:maven/io.airlift/slice@0.42?classifier=sources
 - pkg:maven/io.airlift/slice@0.4?classifier=sources
 - pkg:maven/io.airlift/slice@0.5
 - pkg:maven/io.airlift/slice@0.5?classifier=sources

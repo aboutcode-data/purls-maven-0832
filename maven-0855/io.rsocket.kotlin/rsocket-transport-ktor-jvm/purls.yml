@@ -1,3 +1,4 @@
 - pkg:maven/io.rsocket.kotlin/rsocket-transport-ktor-jvm@0.13.0?classifier=sources
 - pkg:maven/io.rsocket.kotlin/rsocket-transport-ktor-jvm@0.13.1?classifier=sources
 - pkg:maven/io.rsocket.kotlin/rsocket-transport-ktor-jvm@0.14.3?classifier=sources
+- pkg:maven/io.rsocket.kotlin/rsocket-transport-ktor-jvm@0.15.4?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/net.axay/kspigot@1.17.3?classifier=sources
 - pkg:maven/net.axay/kspigot@1.17.4?classifier=sources
 - pkg:maven/net.axay/kspigot@1.18.0?classifier=sources
+- pkg:maven/net.axay/kspigot@1.18.2?classifier=sources

@@ -2,3 +2,11 @@
 - pkg:maven/com.iussoft/iussoft-common-ius@3.1.1?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-ius@3.2.1
 - pkg:maven/com.iussoft/iussoft-common-ius@3.2.1?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.2
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.22031801
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.22031801?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.22032103
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.22032103?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.22032104
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.22032104?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.2?classifier=sources

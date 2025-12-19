@@ -12,3 +12,11 @@
 - pkg:maven/dev.vality/machinegun-proto@1.26-5b81e1e?classifier=sources
 - pkg:maven/dev.vality/machinegun-proto@1.27-dec518d
 - pkg:maven/dev.vality/machinegun-proto@1.27-dec518d?classifier=sources
+- pkg:maven/dev.vality/machinegun-proto@1.28-1cd1577
+- pkg:maven/dev.vality/machinegun-proto@1.28-1cd1577?classifier=sources
+- pkg:maven/dev.vality/machinegun-proto@1.29-ed9924f
+- pkg:maven/dev.vality/machinegun-proto@1.29-ed9924f?classifier=sources
+- pkg:maven/dev.vality/machinegun-proto@1.30-277f06e
+- pkg:maven/dev.vality/machinegun-proto@1.30-277f06e?classifier=sources
+- pkg:maven/dev.vality/machinegun-proto@1.31-b43d6fd
+- pkg:maven/dev.vality/machinegun-proto@1.31-b43d6fd?classifier=sources

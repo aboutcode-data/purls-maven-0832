@@ -1,5 +1,7 @@
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics-android@0.1.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics-android@0.10.0?classifier=sources
+- pkg:maven/io.github.copper-leaf/ballast-crashlytics-android@0.11.0?classifier=sources
+- pkg:maven/io.github.copper-leaf/ballast-crashlytics-android@0.12.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics-android@0.3.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics-android@0.4.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics-android@0.5.0?classifier=sources

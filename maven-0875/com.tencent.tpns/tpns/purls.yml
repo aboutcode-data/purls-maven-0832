@@ -60,3 +60,6 @@
 - pkg:maven/com.tencent.tpns/tpns@1.3.2.0-release?type=aar
 - pkg:maven/com.tencent.tpns/tpns@1.3.2.1-release?classifier=sources
 - pkg:maven/com.tencent.tpns/tpns@1.3.2.1-release?type=aar
+- pkg:maven/com.tencent.tpns/tpns@1.3.3.0-release?classifier=sources
+- pkg:maven/com.tencent.tpns/tpns@1.3.3.1-release?classifier=sources
+- pkg:maven/com.tencent.tpns/tpns@1.3.3.3-release?classifier=sources

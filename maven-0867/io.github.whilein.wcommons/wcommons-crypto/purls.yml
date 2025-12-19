@@ -1,0 +1,4 @@
+- pkg:maven/io.github.whilein.wcommons/wcommons-crypto@1.0.3
+- pkg:maven/io.github.whilein.wcommons/wcommons-crypto@1.0.3?classifier=sources
+- pkg:maven/io.github.whilein.wcommons/wcommons-crypto@1.1.0
+- pkg:maven/io.github.whilein.wcommons/wcommons-crypto@1.1.0?classifier=sources

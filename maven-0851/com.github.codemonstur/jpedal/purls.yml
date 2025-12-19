@@ -1,0 +1,2 @@
+- pkg:maven/com.github.codemonstur/jpedal@4.92-p13
+- pkg:maven/com.github.codemonstur/jpedal@4.92-p13?classifier=sources

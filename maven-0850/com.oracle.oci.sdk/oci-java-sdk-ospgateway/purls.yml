@@ -16,3 +16,17 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.17.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.18.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.18.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.19.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.19.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.19.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.19.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.20.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.20.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.21.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.21.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.22.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.22.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.23.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.23.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.24.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-ospgateway@2.24.0?classifier=sources

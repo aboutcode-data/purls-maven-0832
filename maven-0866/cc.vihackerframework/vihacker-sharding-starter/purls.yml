@@ -1,0 +1,2 @@
+- pkg:maven/cc.vihackerframework/vihacker-sharding-starter@1.0.6.R
+- pkg:maven/cc.vihackerframework/vihacker-sharding-starter@1.0.6.R?classifier=sources

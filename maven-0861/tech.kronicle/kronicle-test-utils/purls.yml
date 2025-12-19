@@ -1,1 +1,4 @@
 - pkg:maven/tech.kronicle/kronicle-test-utils@0.1.159?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-test-utils@0.1.175?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-test-utils@0.1.205?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-test-utils@0.1.206?classifier=sources

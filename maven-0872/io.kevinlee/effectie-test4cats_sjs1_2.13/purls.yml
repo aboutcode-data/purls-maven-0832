@@ -1,0 +1,2 @@
+- pkg:maven/io.kevinlee/effectie-test4cats_sjs1_2.13@2.0.0-beta1
+- pkg:maven/io.kevinlee/effectie-test4cats_sjs1_2.13@2.0.0-beta1?classifier=sources

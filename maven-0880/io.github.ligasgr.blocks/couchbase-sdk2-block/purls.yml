@@ -1,4 +1,5 @@
 - pkg:maven/io.github.ligasgr.blocks/couchbase-sdk2-block@0.10?classifier=sources
+- pkg:maven/io.github.ligasgr.blocks/couchbase-sdk2-block@0.11?classifier=sources
 - pkg:maven/io.github.ligasgr.blocks/couchbase-sdk2-block@0.5?classifier=sources
 - pkg:maven/io.github.ligasgr.blocks/couchbase-sdk2-block@0.6?classifier=sources
 - pkg:maven/io.github.ligasgr.blocks/couchbase-sdk2-block@0.7?classifier=sources

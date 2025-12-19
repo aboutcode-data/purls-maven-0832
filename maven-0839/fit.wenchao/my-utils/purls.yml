@@ -1,0 +1,2 @@
+- pkg:maven/fit.wenchao/my-utils@1.0
+- pkg:maven/fit.wenchao/my-utils@1.0?classifier=sources

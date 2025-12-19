@@ -1,0 +1,2 @@
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@6.2.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@6.2.0?type=aar

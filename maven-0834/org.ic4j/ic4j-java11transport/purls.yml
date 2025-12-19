@@ -1,2 +1,6 @@
 - pkg:maven/org.ic4j/ic4j-java11transport@0.6.5
 - pkg:maven/org.ic4j/ic4j-java11transport@0.6.5?classifier=sources
+- pkg:maven/org.ic4j/ic4j-java11transport@0.6.7
+- pkg:maven/org.ic4j/ic4j-java11transport@0.6.7?classifier=sources
+- pkg:maven/org.ic4j/ic4j-java11transport@0.6.8
+- pkg:maven/org.ic4j/ic4j-java11transport@0.6.8?classifier=sources

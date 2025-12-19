@@ -2,4 +2,5 @@
 - pkg:maven/org.openeuler/gmssl@1.0.1?classifier=sources
 - pkg:maven/org.openeuler/gmssl@1.0.2?classifier=sources
 - pkg:maven/org.openeuler/gmssl@1.0.3.1?classifier=sources
+- pkg:maven/org.openeuler/gmssl@1.0.3.2?classifier=sources
 - pkg:maven/org.openeuler/gmssl@1.0.3?classifier=sources

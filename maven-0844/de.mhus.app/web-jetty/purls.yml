@@ -1,2 +1,4 @@
 - pkg:maven/de.mhus.app/web-jetty@7.2.0
 - pkg:maven/de.mhus.app/web-jetty@7.2.0?classifier=sources
+- pkg:maven/de.mhus.app/web-jetty@7.5.0
+- pkg:maven/de.mhus.app/web-jetty@7.5.0?classifier=sources

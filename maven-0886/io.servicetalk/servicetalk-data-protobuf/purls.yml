@@ -52,3 +52,4 @@
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf@0.42.6?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf@0.42.7?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf@0.42.8?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-data-protobuf@0.42.9?classifier=sources

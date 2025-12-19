@@ -1,0 +1,14 @@
+- pkg:maven/com.hhoss/hhoss-util@0.9.3
+- pkg:maven/com.hhoss/hhoss-util@0.9.3?classifier=sources
+- pkg:maven/com.hhoss/hhoss-util@0.9.5
+- pkg:maven/com.hhoss/hhoss-util@0.9.5?classifier=sources
+- pkg:maven/com.hhoss/hhoss-util@0.9.7
+- pkg:maven/com.hhoss/hhoss-util@0.9.7?classifier=sources
+- pkg:maven/com.hhoss/hhoss-util@0.9.8
+- pkg:maven/com.hhoss/hhoss-util@0.9.8?classifier=sources
+- pkg:maven/com.hhoss/hhoss-util@0.9.9
+- pkg:maven/com.hhoss/hhoss-util@0.9.9?classifier=sources
+- pkg:maven/com.hhoss/hhoss-util@1.0.0
+- pkg:maven/com.hhoss/hhoss-util@1.0.0?classifier=sources
+- pkg:maven/com.hhoss/hhoss-util@1.0.1
+- pkg:maven/com.hhoss/hhoss-util@1.0.1?classifier=sources

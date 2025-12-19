@@ -1,3 +1,7 @@
+- pkg:maven/ch.epfl.scala/scalafix-interfaces@0.10.0
+- pkg:maven/ch.epfl.scala/scalafix-interfaces@0.10.0-RC1
+- pkg:maven/ch.epfl.scala/scalafix-interfaces@0.10.0-RC1?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-interfaces@0.10.0?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-interfaces@0.6.0-M14
 - pkg:maven/ch.epfl.scala/scalafix-interfaces@0.6.0-M14?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-interfaces@0.6.0-M15

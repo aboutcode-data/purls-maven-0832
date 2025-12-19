@@ -21,3 +21,4 @@
 - pkg:maven/com.azure.spring/azure-spring-boot-starter@3.7.0
 - pkg:maven/com.azure.spring/azure-spring-boot-starter@3.8.0
 - pkg:maven/com.azure.spring/azure-spring-boot-starter@3.9.0
+- pkg:maven/com.azure.spring/azure-spring-boot-starter@4.0.0

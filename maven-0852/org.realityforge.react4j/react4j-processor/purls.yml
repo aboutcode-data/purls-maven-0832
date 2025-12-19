@@ -207,8 +207,12 @@
 - pkg:maven/org.realityforge.react4j/react4j-processor@0.187?classifier=sources
 - pkg:maven/org.realityforge.react4j/react4j-processor@0.188
 - pkg:maven/org.realityforge.react4j/react4j-processor@0.188?classifier=sources
+- pkg:maven/org.realityforge.react4j/react4j-processor@0.189
+- pkg:maven/org.realityforge.react4j/react4j-processor@0.189?classifier=sources
 - pkg:maven/org.realityforge.react4j/react4j-processor@0.18?classifier=sources
 - pkg:maven/org.realityforge.react4j/react4j-processor@0.19
+- pkg:maven/org.realityforge.react4j/react4j-processor@0.190
+- pkg:maven/org.realityforge.react4j/react4j-processor@0.190?classifier=sources
 - pkg:maven/org.realityforge.react4j/react4j-processor@0.19?classifier=sources
 - pkg:maven/org.realityforge.react4j/react4j-processor@0.20
 - pkg:maven/org.realityforge.react4j/react4j-processor@0.20?classifier=sources

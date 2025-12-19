@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.4
+- pkg:maven/org.virtuslab.scala-cli/scala3-graal_2.13@0.1.4?classifier=sources

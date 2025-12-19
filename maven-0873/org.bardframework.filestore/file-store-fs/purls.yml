@@ -4,3 +4,5 @@
 - pkg:maven/org.bardframework.filestore/file-store-fs@0.3.3?classifier=sources
 - pkg:maven/org.bardframework.filestore/file-store-fs@0.4
 - pkg:maven/org.bardframework.filestore/file-store-fs@0.4?classifier=sources
+- pkg:maven/org.bardframework.filestore/file-store-fs@1.1.19
+- pkg:maven/org.bardframework.filestore/file-store-fs@1.1.19?classifier=sources

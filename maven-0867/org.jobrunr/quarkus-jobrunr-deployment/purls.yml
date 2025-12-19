@@ -13,3 +13,5 @@
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@4.0.8?classifier=sources
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@4.0.9?classifier=sources
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@5.0.0-RC1?classifier=sources
+- pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@5.0.0?classifier=sources
+- pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@5.0.1?classifier=sources

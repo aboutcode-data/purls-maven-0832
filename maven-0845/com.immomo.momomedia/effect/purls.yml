@@ -40,6 +40,14 @@
 - pkg:maven/com.immomo.momomedia/effect@2.3.1-20211223133501?type=aar
 - pkg:maven/com.immomo.momomedia/effect@2.3.1-20211230154701?classifier=sources
 - pkg:maven/com.immomo.momomedia/effect@2.3.1-20211230154701?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20220413154601?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20220413154601?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20220413173001?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20220413173001?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20220413185201?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20220413185201?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20220414103601?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20220414103601?type=aar
 - pkg:maven/com.immomo.momomedia/effect@2.3.2-20211221104101?classifier=sources
 - pkg:maven/com.immomo.momomedia/effect@2.3.2-20211221104101?type=aar
 - pkg:maven/com.immomo.momomedia/effect@2.3.2_202112221131_kaka?classifier=sources

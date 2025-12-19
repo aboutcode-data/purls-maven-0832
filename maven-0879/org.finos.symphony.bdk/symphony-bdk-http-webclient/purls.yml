@@ -24,3 +24,4 @@
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-http-webclient@2.5.0?classifier=sources
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-http-webclient@2.6.0.RC1?classifier=sources
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-http-webclient@2.6.0?classifier=sources
+- pkg:maven/org.finos.symphony.bdk/symphony-bdk-http-webclient@2.7.0?classifier=sources

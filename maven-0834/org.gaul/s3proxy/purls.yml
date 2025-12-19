@@ -28,3 +28,5 @@
 - pkg:maven/org.gaul/s3proxy@1.8.0?classifier=sources
 - pkg:maven/org.gaul/s3proxy@1.9.0
 - pkg:maven/org.gaul/s3proxy@1.9.0?classifier=sources
+- pkg:maven/org.gaul/s3proxy@2.0.0
+- pkg:maven/org.gaul/s3proxy@2.0.0?classifier=sources

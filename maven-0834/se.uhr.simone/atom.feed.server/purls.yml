@@ -34,3 +34,5 @@
 - pkg:maven/se.uhr.simone/atom.feed.server@3.3.2?classifier=sources
 - pkg:maven/se.uhr.simone/atom.feed.server@3.3.3
 - pkg:maven/se.uhr.simone/atom.feed.server@3.3.3?classifier=sources
+- pkg:maven/se.uhr.simone/atom.feed.server@3.3.4
+- pkg:maven/se.uhr.simone/atom.feed.server@3.3.4?classifier=sources

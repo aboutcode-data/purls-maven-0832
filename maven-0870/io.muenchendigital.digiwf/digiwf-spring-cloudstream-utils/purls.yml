@@ -1,0 +1,2 @@
+- pkg:maven/io.muenchendigital.digiwf/digiwf-spring-cloudstream-utils@0.0.1
+- pkg:maven/io.muenchendigital.digiwf/digiwf-spring-cloudstream-utils@0.0.1?classifier=sources

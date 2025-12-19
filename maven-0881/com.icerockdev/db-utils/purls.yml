@@ -1,1 +1,2 @@
 - pkg:maven/com.icerockdev/db-utils@0.3.1?classifier=sources
+- pkg:maven/com.icerockdev/db-utils@0.3.2?classifier=sources

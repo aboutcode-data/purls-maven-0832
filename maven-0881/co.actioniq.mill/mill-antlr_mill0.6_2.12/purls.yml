@@ -1,0 +1,2 @@
+- pkg:maven/co.actioniq.mill/mill-antlr_mill0.6_2.12@0.2.0
+- pkg:maven/co.actioniq.mill/mill-antlr_mill0.6_2.12@0.2.0?classifier=sources

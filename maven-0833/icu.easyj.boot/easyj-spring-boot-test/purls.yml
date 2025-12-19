@@ -39,3 +39,13 @@
 - pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.2?classifier=sources
 - pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.3
 - pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.3?classifier=sources
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.4
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.4?classifier=sources
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.5
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.5?classifier=sources
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.6
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.6?classifier=sources
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.7
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.7?classifier=sources
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.8
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.3.8?classifier=sources

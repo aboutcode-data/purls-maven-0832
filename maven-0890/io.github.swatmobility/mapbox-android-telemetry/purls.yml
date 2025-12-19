@@ -1,0 +1,2 @@
+- pkg:maven/io.github.swatmobility/mapbox-android-telemetry@6.1.0?classifier=sources
+- pkg:maven/io.github.swatmobility/mapbox-android-telemetry@6.1.1?classifier=sources

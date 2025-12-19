@@ -1,2 +1,4 @@
 - pkg:maven/nl.zolotko.sbt/protoc-jar-aarch64@0.0.2
 - pkg:maven/nl.zolotko.sbt/protoc-jar-aarch64@0.0.2?classifier=sources
+- pkg:maven/nl.zolotko.sbt/protoc-jar-aarch64@0.0.3
+- pkg:maven/nl.zolotko.sbt/protoc-jar-aarch64@0.0.3?classifier=sources

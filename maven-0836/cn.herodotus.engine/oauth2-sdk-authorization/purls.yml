@@ -1,0 +1,4 @@
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@2.7.0.Beta4
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@2.7.0.Beta4?classifier=sources
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@2.7.0.Beta5
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@2.7.0.Beta5?classifier=sources

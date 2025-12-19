@@ -1,2 +1,3 @@
 - pkg:maven/org.kordamp.gradle/enforcer-rules@0.1.0
 - pkg:maven/org.kordamp.gradle/enforcer-rules@0.1.0?classifier=sources
+- pkg:maven/org.kordamp.gradle/enforcer-rules@0.10.0?classifier=sources

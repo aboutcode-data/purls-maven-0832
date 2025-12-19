@@ -32,3 +32,5 @@
 - pkg:maven/org.typelevel/log4cats-noop_2.13@2.1.1?classifier=sources
 - pkg:maven/org.typelevel/log4cats-noop_2.13@2.2.0
 - pkg:maven/org.typelevel/log4cats-noop_2.13@2.2.0?classifier=sources
+- pkg:maven/org.typelevel/log4cats-noop_2.13@2.3.0
+- pkg:maven/org.typelevel/log4cats-noop_2.13@2.3.0?classifier=sources

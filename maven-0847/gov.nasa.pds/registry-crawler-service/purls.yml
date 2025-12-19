@@ -1,0 +1,2 @@
+- pkg:maven/gov.nasa.pds/registry-crawler-service@1.0.0
+- pkg:maven/gov.nasa.pds/registry-crawler-service@1.0.0?classifier=sources

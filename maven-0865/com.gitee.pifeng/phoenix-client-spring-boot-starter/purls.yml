@@ -4,3 +4,11 @@
 - pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.1.0.RELEASE?classifier=sources
 - pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.0.RELEASE
 - pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.0.RELEASE?classifier=sources
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.1.RELEASE
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.1.RELEASE-CR1
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.1.RELEASE-CR1?classifier=sources
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.1.RELEASE-CR2
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.1.RELEASE-CR2?classifier=sources
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.1.RELEASE?classifier=sources
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.2.RELEASE
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.2.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.herohan/UVCAndroid@1.0.0?classifier=sources
+- pkg:maven/com.herohan/UVCAndroid@1.0.1?classifier=sources

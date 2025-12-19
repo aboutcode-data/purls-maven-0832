@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.s3fs/S3-FileSystem@0.2?classifier=sources
+- pkg:maven/com.adobe.s3fs/S3-FileSystem@1.0?classifier=sources

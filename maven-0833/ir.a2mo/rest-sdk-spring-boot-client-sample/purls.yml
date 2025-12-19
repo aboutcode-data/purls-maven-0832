@@ -1,0 +1,2 @@
+- pkg:maven/ir.a2mo/rest-sdk-spring-boot-client-sample@0.0.4
+- pkg:maven/ir.a2mo/rest-sdk-spring-boot-client-sample@0.0.4?classifier=sources

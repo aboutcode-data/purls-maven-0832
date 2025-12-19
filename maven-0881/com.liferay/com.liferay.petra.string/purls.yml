@@ -76,6 +76,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.string@2.1.8
 - pkg:maven/com.liferay/com.liferay.petra.string@2.1.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.string@2.1.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.string@2.2.0
+- pkg:maven/com.liferay/com.liferay.petra.string@2.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.string@2.2.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.string@3.0.0
 - pkg:maven/com.liferay/com.liferay.petra.string@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.string@3.0.0?classifier=sources-commercial
@@ -88,6 +91,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.string@3.0.3
 - pkg:maven/com.liferay/com.liferay.petra.string@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.string@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.string@3.1.0
+- pkg:maven/com.liferay/com.liferay.petra.string@3.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.string@3.1.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.string@4.0.0
 - pkg:maven/com.liferay/com.liferay.petra.string@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.string@4.0.0?classifier=sources-commercial
@@ -103,6 +109,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.string@4.0.4
 - pkg:maven/com.liferay/com.liferay.petra.string@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.string@4.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.string@4.1.0
+- pkg:maven/com.liferay/com.liferay.petra.string@4.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.string@4.1.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.string@5.0.0
 - pkg:maven/com.liferay/com.liferay.petra.string@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.string@5.0.0?classifier=sources-commercial
@@ -121,3 +130,6 @@
 - pkg:maven/com.liferay/com.liferay.petra.string@5.1.0
 - pkg:maven/com.liferay/com.liferay.petra.string@5.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.string@5.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.string@5.2.0
+- pkg:maven/com.liferay/com.liferay.petra.string@5.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.string@5.2.0?classifier=sources-commercial

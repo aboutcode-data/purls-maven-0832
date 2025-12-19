@@ -4,3 +4,7 @@
 - pkg:maven/com.cognitect.aws/mgn@811.2.958.0?classifier=sources
 - pkg:maven/com.cognitect.aws/mgn@814.2.1053.0
 - pkg:maven/com.cognitect.aws/mgn@814.2.1053.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mgn@820.2.1096.0
+- pkg:maven/com.cognitect.aws/mgn@820.2.1096.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mgn@822.2.1109.0
+- pkg:maven/com.cognitect.aws/mgn@822.2.1109.0?classifier=sources

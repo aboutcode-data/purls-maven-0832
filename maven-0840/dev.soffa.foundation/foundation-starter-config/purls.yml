@@ -1,0 +1,4 @@
+- pkg:maven/dev.soffa.foundation/foundation-starter-config@0.9.12?classifier=sources
+- pkg:maven/dev.soffa.foundation/foundation-starter-config@0.9.13?classifier=sources
+- pkg:maven/dev.soffa.foundation/foundation-starter-config@0.9.14?classifier=sources
+- pkg:maven/dev.soffa.foundation/foundation-starter-config@0.9.15?classifier=sources

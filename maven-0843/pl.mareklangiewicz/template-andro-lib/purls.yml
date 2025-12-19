@@ -1,0 +1,2 @@
+- pkg:maven/pl.mareklangiewicz/template-andro-lib@0.0.02?classifier=sources
+- pkg:maven/pl.mareklangiewicz/template-andro-lib@0.0.03?classifier=sources

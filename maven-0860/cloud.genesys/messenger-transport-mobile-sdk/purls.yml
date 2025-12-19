@@ -3,3 +3,4 @@
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@1.1.12?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@1.1.13?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@1.1.14?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@1.2.0?classifier=sources

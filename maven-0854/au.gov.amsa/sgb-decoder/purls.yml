@@ -4,3 +4,5 @@
 - pkg:maven/au.gov.amsa/sgb-decoder@0.1-alpha2?classifier=sources
 - pkg:maven/au.gov.amsa/sgb-decoder@0.1.0
 - pkg:maven/au.gov.amsa/sgb-decoder@0.1.0?classifier=sources
+- pkg:maven/au.gov.amsa/sgb-decoder@0.1.1
+- pkg:maven/au.gov.amsa/sgb-decoder@0.1.1?classifier=sources

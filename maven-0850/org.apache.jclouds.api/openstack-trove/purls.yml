@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.jclouds.api/openstack-trove@2.3.0?classifier=sources
 - pkg:maven/org.apache.jclouds.api/openstack-trove@2.4.0
 - pkg:maven/org.apache.jclouds.api/openstack-trove@2.4.0?classifier=sources
+- pkg:maven/org.apache.jclouds.api/openstack-trove@2.5.0
+- pkg:maven/org.apache.jclouds.api/openstack-trove@2.5.0?classifier=sources

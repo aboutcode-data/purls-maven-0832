@@ -4,3 +4,5 @@
 - pkg:maven/org.openpreservation.jhove.modules/aiff-hul@1.6.1-1
 - pkg:maven/org.openpreservation.jhove.modules/aiff-hul@1.6.1-1?classifier=sources
 - pkg:maven/org.openpreservation.jhove.modules/aiff-hul@1.6.1?classifier=sources
+- pkg:maven/org.openpreservation.jhove.modules/aiff-hul@1.6.2-RC2
+- pkg:maven/org.openpreservation.jhove.modules/aiff-hul@1.6.2-RC2?classifier=sources

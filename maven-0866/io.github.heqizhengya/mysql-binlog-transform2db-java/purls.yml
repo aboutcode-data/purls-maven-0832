@@ -1,0 +1,2 @@
+- pkg:maven/io.github.heqizhengya/mysql-binlog-transform2db-java@v0.0.1-Alpha
+- pkg:maven/io.github.heqizhengya/mysql-binlog-transform2db-java@v0.0.1-Alpha?classifier=sources

@@ -66,3 +66,7 @@
 - pkg:maven/io.apiman.plugins/apiman-plugins-url-whitelist-policy@2.1.5.Final?type=war
 - pkg:maven/io.apiman.plugins/apiman-plugins-url-whitelist-policy@2.2.0.Final?classifier=sources
 - pkg:maven/io.apiman.plugins/apiman-plugins-url-whitelist-policy@2.2.0.Final?type=war
+- pkg:maven/io.apiman.plugins/apiman-plugins-url-whitelist-policy@2.2.1.Final?classifier=sources
+- pkg:maven/io.apiman.plugins/apiman-plugins-url-whitelist-policy@2.2.1.Final?type=war
+- pkg:maven/io.apiman.plugins/apiman-plugins-url-whitelist-policy@2.2.3.Final?classifier=sources
+- pkg:maven/io.apiman.plugins/apiman-plugins-url-whitelist-policy@2.2.3.Final?type=war

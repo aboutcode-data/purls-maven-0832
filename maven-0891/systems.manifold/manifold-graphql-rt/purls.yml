@@ -139,6 +139,10 @@
 - pkg:maven/systems.manifold/manifold-graphql-rt@2021.1.9
 - pkg:maven/systems.manifold/manifold-graphql-rt@2021.1.9?classifier=sources
 - pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.1
+- pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.10
+- pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.10?classifier=sources
+- pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.11
+- pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.11?classifier=sources
 - pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.1?classifier=sources
 - pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.2
 - pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.2?classifier=sources
@@ -150,3 +154,7 @@
 - pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.5?classifier=sources
 - pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.7
 - pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.7?classifier=sources
+- pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.8
+- pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.8?classifier=sources
+- pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.9
+- pkg:maven/systems.manifold/manifold-graphql-rt@2022.1.9?classifier=sources

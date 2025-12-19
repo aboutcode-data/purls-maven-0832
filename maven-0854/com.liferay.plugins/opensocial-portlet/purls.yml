@@ -91,6 +91,7 @@
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.0.10.113?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.0.10.114?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.0.10.115?type=war
+- pkg:maven/com.liferay.plugins/opensocial-portlet@7.0.10.116?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.0.10.79?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.0.10.80?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.0.10.81?type=war
@@ -252,6 +253,9 @@
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.2.10.59?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.2.10.60?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.2.10.61?type=war
+- pkg:maven/com.liferay.plugins/opensocial-portlet@7.2.10.62?type=war
+- pkg:maven/com.liferay.plugins/opensocial-portlet@7.2.10.63?type=war
+- pkg:maven/com.liferay.plugins/opensocial-portlet@7.2.10.64?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.10?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.11?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.12?type=war
@@ -280,6 +284,9 @@
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.34?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.35?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.36?type=war
+- pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.37?type=war
+- pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.38?type=war
+- pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.39?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.3?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.4?type=war
 - pkg:maven/com.liferay.plugins/opensocial-portlet@7.3.10.5?type=war

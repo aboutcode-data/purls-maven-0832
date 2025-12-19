@@ -19,3 +19,4 @@
 - pkg:maven/io.github.panpf.assemblyadapter4/assemblyadapter-common-pager@4.1.0-alpha02?classifier=sources
 - pkg:maven/io.github.panpf.assemblyadapter4/assemblyadapter-common-pager@4.1.0-beta01?classifier=sources
 - pkg:maven/io.github.panpf.assemblyadapter4/assemblyadapter-common-pager@4.1.0-beta02?classifier=sources
+- pkg:maven/io.github.panpf.assemblyadapter4/assemblyadapter-common-pager@4.1.0-rc01?classifier=sources

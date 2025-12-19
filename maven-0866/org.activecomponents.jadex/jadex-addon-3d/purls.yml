@@ -13,3 +13,4 @@
 - pkg:maven/org.activecomponents.jadex/jadex-addon-3d@4.0.262?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-addon-3d@4.0.263?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-addon-3d@4.0.264?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-addon-3d@4.0.265?classifier=sources

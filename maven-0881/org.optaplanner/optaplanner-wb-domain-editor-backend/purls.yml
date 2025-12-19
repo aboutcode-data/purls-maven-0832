@@ -186,6 +186,8 @@
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-backend@7.66.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-backend@7.67.0.Final
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-backend@7.67.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-backend@7.68.0.Final
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-backend@7.68.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-backend@7.7.0.Final
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-backend@7.7.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-backend@7.8.0.Final

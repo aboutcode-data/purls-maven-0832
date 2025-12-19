@@ -1,0 +1,4 @@
+- pkg:maven/io.bitbucket.supportomateinc.aop/jboss-aop@2.2.2.GA
+- pkg:maven/io.bitbucket.supportomateinc.aop/jboss-aop@2.2.2.GA?classifier=sources
+- pkg:maven/io.bitbucket.supportomateinc.aop/jboss-aop@2.2.3.GA
+- pkg:maven/io.bitbucket.supportomateinc.aop/jboss-aop@2.2.3.GA?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.1-50932ec-client
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.1-50932ec-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.1-50932ec-server
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.1-50932ec-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.1-7f8cce8-client
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.1-7f8cce8-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.1-7f8cce8-server
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.1-7f8cce8-server?classifier=sources

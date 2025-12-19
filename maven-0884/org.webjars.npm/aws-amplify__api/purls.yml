@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/aws-amplify__api@4.0.36
+- pkg:maven/org.webjars.npm/aws-amplify__api@4.0.36?classifier=sources

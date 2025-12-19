@@ -1,1 +1,2 @@
 - pkg:maven/app.softwork/cloudkitclient-core@0.0.8?classifier=sources
+- pkg:maven/app.softwork/cloudkitclient-core@0.1.0?classifier=sources

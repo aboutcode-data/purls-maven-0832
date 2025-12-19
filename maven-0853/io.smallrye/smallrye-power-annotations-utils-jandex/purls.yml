@@ -52,3 +52,9 @@
 - pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.4.3?classifier=sources
 - pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.4.4
 - pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.4.4?classifier=sources
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.4.5
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.4.5?classifier=sources
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.5.0
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@1.5.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@2.0.0.RC1
+- pkg:maven/io.smallrye/smallrye-power-annotations-utils-jandex@2.0.0.RC1?classifier=sources

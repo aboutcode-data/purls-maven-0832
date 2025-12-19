@@ -358,6 +358,8 @@
 - pkg:maven/org.onosproject/onos-core-common@2.5.7-rc1?classifier=sources
 - pkg:maven/org.onosproject/onos-core-common@2.5.7-rc2
 - pkg:maven/org.onosproject/onos-core-common@2.5.7-rc2?classifier=sources
+- pkg:maven/org.onosproject/onos-core-common@2.5.7-rc3
+- pkg:maven/org.onosproject/onos-core-common@2.5.7-rc3?classifier=sources
 - pkg:maven/org.onosproject/onos-core-common@2.6.0
 - pkg:maven/org.onosproject/onos-core-common@2.6.0-rc3
 - pkg:maven/org.onosproject/onos-core-common@2.6.0-rc3?classifier=sources

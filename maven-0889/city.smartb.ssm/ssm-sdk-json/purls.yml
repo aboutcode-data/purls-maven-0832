@@ -1,3 +1,8 @@
 - pkg:maven/city.smartb.ssm/ssm-sdk-json@0.1.0?classifier=sources
 - pkg:maven/city.smartb.ssm/ssm-sdk-json@0.2.1?classifier=sources
 - pkg:maven/city.smartb.ssm/ssm-sdk-json@0.3.1?classifier=sources
+- pkg:maven/city.smartb.ssm/ssm-sdk-json@0.4.1?classifier=sources
+- pkg:maven/city.smartb.ssm/ssm-sdk-json@0.5.0?classifier=sources
+- pkg:maven/city.smartb.ssm/ssm-sdk-json@0.6.0?classifier=sources
+- pkg:maven/city.smartb.ssm/ssm-sdk-json@0.7.0?classifier=sources
+- pkg:maven/city.smartb.ssm/ssm-sdk-json@0.8.0?classifier=sources

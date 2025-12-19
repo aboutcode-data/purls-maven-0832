@@ -1,5 +1,15 @@
 - pkg:maven/com.vaadin/flow-gradle-plugin@23.0.0
 - pkg:maven/com.vaadin/flow-gradle-plugin@23.0.0?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.1
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.1?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.2
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.2?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.3
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.3?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.4
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.4?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.5
+- pkg:maven/com.vaadin/flow-gradle-plugin@23.0.5?classifier=sources
 - pkg:maven/com.vaadin/flow-gradle-plugin@7.0.0
 - pkg:maven/com.vaadin/flow-gradle-plugin@7.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-gradle-plugin@7.0.1
@@ -35,6 +45,12 @@
 - pkg:maven/com.vaadin/flow-gradle-plugin@9.0.0
 - pkg:maven/com.vaadin/flow-gradle-plugin@9.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-gradle-plugin@9.0.1
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.10
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.10?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.11
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.11?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.12
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.12?classifier=sources
 - pkg:maven/com.vaadin/flow-gradle-plugin@9.0.1?classifier=sources
 - pkg:maven/com.vaadin/flow-gradle-plugin@9.0.2
 - pkg:maven/com.vaadin/flow-gradle-plugin@9.0.2?classifier=sources
@@ -49,3 +65,5 @@
 - pkg:maven/com.vaadin/flow-gradle-plugin@9.0.7?classifier=sources
 - pkg:maven/com.vaadin/flow-gradle-plugin@9.0.8
 - pkg:maven/com.vaadin/flow-gradle-plugin@9.0.8?classifier=sources
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.9
+- pkg:maven/com.vaadin/flow-gradle-plugin@9.0.9?classifier=sources

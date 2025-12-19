@@ -1,0 +1,12 @@
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.11
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.11?classifier=sources
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.14
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.14?classifier=sources
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.16
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.16?classifier=sources
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.7
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.7?classifier=sources
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.8
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.0.8?classifier=sources
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.5
+- pkg:maven/com.twosixlabs.dart.corpex/corpex-client_2.12@3.5?classifier=sources

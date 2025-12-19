@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jaxrs2@8.0.2
+- pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jaxrs2@8.0.3

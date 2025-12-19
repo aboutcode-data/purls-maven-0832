@@ -1,1 +1,2 @@
 - pkg:maven/pl.mareklangiewicz/upue@0.0.09?classifier=sources
+- pkg:maven/pl.mareklangiewicz/upue@0.0.10?classifier=sources

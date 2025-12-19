@@ -86,3 +86,5 @@
 - pkg:maven/com.google.mug/mug@5.8?classifier=sources
 - pkg:maven/com.google.mug/mug@5.9
 - pkg:maven/com.google.mug/mug@5.9?classifier=sources
+- pkg:maven/com.google.mug/mug@6.0
+- pkg:maven/com.google.mug/mug@6.0?classifier=sources

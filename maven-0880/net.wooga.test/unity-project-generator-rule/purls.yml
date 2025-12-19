@@ -1,1 +1,2 @@
 - pkg:maven/net.wooga.test/unity-project-generator-rule@0.3.0?classifier=sources
+- pkg:maven/net.wooga.test/unity-project-generator-rule@0.4.0?classifier=sources

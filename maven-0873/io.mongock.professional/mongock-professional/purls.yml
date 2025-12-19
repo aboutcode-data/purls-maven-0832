@@ -1,1 +1,3 @@
 - pkg:maven/io.mongock.professional/mongock-professional@5.0.28.BETA?classifier=sources
+- pkg:maven/io.mongock.professional/mongock-professional@5.0.29?classifier=sources
+- pkg:maven/io.mongock.professional/mongock-professional@5.0.30?classifier=sources

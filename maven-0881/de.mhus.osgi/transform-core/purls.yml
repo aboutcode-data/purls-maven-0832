@@ -4,3 +4,5 @@
 - pkg:maven/de.mhus.osgi/transform-core@7.1.0?classifier=sources
 - pkg:maven/de.mhus.osgi/transform-core@7.2.0
 - pkg:maven/de.mhus.osgi/transform-core@7.2.0?classifier=sources
+- pkg:maven/de.mhus.osgi/transform-core@7.5.0
+- pkg:maven/de.mhus.osgi/transform-core@7.5.0?classifier=sources

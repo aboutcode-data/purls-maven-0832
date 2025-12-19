@@ -40,3 +40,11 @@
 - pkg:maven/io.github.solf/extra2@3.2.0?classifier=sources
 - pkg:maven/io.github.solf/extra2@3.3.0
 - pkg:maven/io.github.solf/extra2@3.3.0?classifier=sources
+- pkg:maven/io.github.solf/extra2@3.4.0
+- pkg:maven/io.github.solf/extra2@3.4.0?classifier=sources
+- pkg:maven/io.github.solf/extra2@3.5.0
+- pkg:maven/io.github.solf/extra2@3.5.0?classifier=sources
+- pkg:maven/io.github.solf/extra2@3.6.0
+- pkg:maven/io.github.solf/extra2@3.6.0?classifier=sources
+- pkg:maven/io.github.solf/extra2@3.7.0
+- pkg:maven/io.github.solf/extra2@3.7.0?classifier=sources

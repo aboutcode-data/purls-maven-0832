@@ -1,0 +1,2 @@
+- pkg:maven/com.yugabyte/cassandra-unit-spring@4.3.1.0-yb-1
+- pkg:maven/com.yugabyte/cassandra-unit-spring@4.3.1.0-yb-1?classifier=sources

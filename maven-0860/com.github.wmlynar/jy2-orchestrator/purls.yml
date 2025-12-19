@@ -1,2 +1,4 @@
 - pkg:maven/com.github.wmlynar/jy2-orchestrator@0.0.22
 - pkg:maven/com.github.wmlynar/jy2-orchestrator@0.0.22?classifier=sources
+- pkg:maven/com.github.wmlynar/jy2-orchestrator@0.0.23
+- pkg:maven/com.github.wmlynar/jy2-orchestrator@0.0.23?classifier=sources

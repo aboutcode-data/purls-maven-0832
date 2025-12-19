@@ -30,3 +30,4 @@
 - pkg:maven/com.redis/spring-boot-starter-batch-redis@2.26.1?classifier=sources
 - pkg:maven/com.redis/spring-boot-starter-batch-redis@2.27.1?classifier=sources
 - pkg:maven/com.redis/spring-boot-starter-batch-redis@2.28.0?classifier=sources
+- pkg:maven/com.redis/spring-boot-starter-batch-redis@2.29.0?classifier=sources

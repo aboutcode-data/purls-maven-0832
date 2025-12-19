@@ -1,0 +1,2 @@
+- pkg:maven/ch.qos.logback.db/logback-classic-db@1.2.11.1
+- pkg:maven/ch.qos.logback.db/logback-classic-db@1.2.11.1?classifier=sources

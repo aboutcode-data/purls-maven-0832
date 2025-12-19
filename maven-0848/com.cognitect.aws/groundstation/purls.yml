@@ -12,3 +12,5 @@
 - pkg:maven/com.cognitect.aws/groundstation@809.2.784.0?classifier=sources
 - pkg:maven/com.cognitect.aws/groundstation@811.2.934.0
 - pkg:maven/com.cognitect.aws/groundstation@811.2.934.0?classifier=sources
+- pkg:maven/com.cognitect.aws/groundstation@821.2.1107.0
+- pkg:maven/com.cognitect.aws/groundstation@821.2.1107.0?classifier=sources

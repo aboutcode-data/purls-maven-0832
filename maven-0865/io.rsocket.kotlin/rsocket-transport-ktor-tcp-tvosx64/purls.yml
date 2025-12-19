@@ -1,0 +1,1 @@
+- pkg:maven/io.rsocket.kotlin/rsocket-transport-ktor-tcp-tvosx64@0.15.4?classifier=sources

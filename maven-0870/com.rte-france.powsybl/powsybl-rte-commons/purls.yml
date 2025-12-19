@@ -38,3 +38,5 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.5.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.6.0
 - pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.7.0
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.7.1
+- pkg:maven/com.rte-france.powsybl/powsybl-rte-commons@3.8.0

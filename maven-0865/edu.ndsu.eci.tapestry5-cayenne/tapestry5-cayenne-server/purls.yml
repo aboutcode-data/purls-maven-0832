@@ -4,3 +4,5 @@
 - pkg:maven/edu.ndsu.eci.tapestry5-cayenne/tapestry5-cayenne-server@0.7.2?classifier=sources
 - pkg:maven/edu.ndsu.eci.tapestry5-cayenne/tapestry5-cayenne-server@0.7.3
 - pkg:maven/edu.ndsu.eci.tapestry5-cayenne/tapestry5-cayenne-server@0.7.3?classifier=sources
+- pkg:maven/edu.ndsu.eci.tapestry5-cayenne/tapestry5-cayenne-server@0.7.4
+- pkg:maven/edu.ndsu.eci.tapestry5-cayenne/tapestry5-cayenne-server@0.7.4?classifier=sources
