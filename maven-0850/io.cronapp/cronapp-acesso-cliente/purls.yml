@@ -1,0 +1,4 @@
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@2.9.4-SP.3
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@2.9.4-SP.3?classifier=sources
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@2.9.4-SP.4
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@2.9.4-SP.4?classifier=sources

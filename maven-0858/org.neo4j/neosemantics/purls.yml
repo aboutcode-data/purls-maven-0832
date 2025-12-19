@@ -36,3 +36,5 @@
 - pkg:maven/org.neo4j/neosemantics@5.4.0.0?classifier=sources
 - pkg:maven/org.neo4j/neosemantics@5.5.0.0
 - pkg:maven/org.neo4j/neosemantics@5.5.0.0?classifier=sources
+- pkg:maven/org.neo4j/neosemantics@5.7.0.0
+- pkg:maven/org.neo4j/neosemantics@5.7.0.0?classifier=sources

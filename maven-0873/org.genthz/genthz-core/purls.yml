@@ -22,3 +22,9 @@
 - pkg:maven/org.genthz/genthz-core@1.1.0?classifier=sources
 - pkg:maven/org.genthz/genthz-core@2.0.0
 - pkg:maven/org.genthz/genthz-core@2.0.0?classifier=sources
+- pkg:maven/org.genthz/genthz-core@3.0.0
+- pkg:maven/org.genthz/genthz-core@3.0.0?classifier=sources
+- pkg:maven/org.genthz/genthz-core@3.0.1
+- pkg:maven/org.genthz/genthz-core@3.0.1?classifier=sources
+- pkg:maven/org.genthz/genthz-core@3.0.2
+- pkg:maven/org.genthz/genthz-core@3.0.2?classifier=sources

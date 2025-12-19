@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.2.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.3.0

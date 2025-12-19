@@ -9,3 +9,9 @@
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.4.1?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.4.2-RC2?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.4.3?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.7.0-RC3?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.7.0-RC6?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.7.0-RC8?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.7.1?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.7.2?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.7.4?classifier=sources

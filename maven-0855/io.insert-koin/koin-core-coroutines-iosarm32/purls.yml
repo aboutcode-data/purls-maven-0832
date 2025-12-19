@@ -1,1 +1,2 @@
 - pkg:maven/io.insert-koin/koin-core-coroutines-iosarm32@3.4.0?classifier=sources
+- pkg:maven/io.insert-koin/koin-core-coroutines-iosarm32@3.4.1?classifier=sources

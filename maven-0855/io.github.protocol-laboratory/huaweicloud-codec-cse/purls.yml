@@ -1,0 +1,2 @@
+- pkg:maven/io.github.protocol-laboratory/huaweicloud-codec-cse@0.0.1
+- pkg:maven/io.github.protocol-laboratory/huaweicloud-codec-cse@0.0.1?classifier=sources

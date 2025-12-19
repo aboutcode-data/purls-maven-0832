@@ -1,1 +1,2 @@
 - pkg:maven/io.insert-koin/koin-core-coroutines-macosx64@3.4.0?classifier=sources
+- pkg:maven/io.insert-koin/koin-core-coroutines-macosx64@3.4.1?classifier=sources

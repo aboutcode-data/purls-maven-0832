@@ -45,3 +45,8 @@
 - pkg:maven/com.keyri/scanner@2.6.6?classifier=sources
 - pkg:maven/com.keyri/scanner@2.6.7?classifier=sources
 - pkg:maven/com.keyri/scanner@3.0.0?classifier=sources
+- pkg:maven/com.keyri/scanner@3.0.2?classifier=sources
+- pkg:maven/com.keyri/scanner@3.0.3?classifier=sources
+- pkg:maven/com.keyri/scanner@3.0.4?classifier=sources
+- pkg:maven/com.keyri/scanner@3.0.5?classifier=sources
+- pkg:maven/com.keyri/scanner@VERSION?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.jactl/jactl@1.1.0?classifier=sources
+- pkg:maven/io.jactl/jactl@1.2.0?classifier=sources

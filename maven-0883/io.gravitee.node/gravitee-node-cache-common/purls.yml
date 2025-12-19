@@ -1,0 +1,5 @@
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@3.1.0-alpha.5?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@3.1.0-alpha.6?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@3.1.0-alpha.7?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@3.1.0-alpha.8?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@3.1.0-alpha.9?classifier=sources

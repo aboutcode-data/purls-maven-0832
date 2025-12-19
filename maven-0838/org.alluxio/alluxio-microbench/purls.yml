@@ -22,3 +22,9 @@
 - pkg:maven/org.alluxio/alluxio-microbench@291-beta?classifier=sources
 - pkg:maven/org.alluxio/alluxio-microbench@291-gamma
 - pkg:maven/org.alluxio/alluxio-microbench@291-gamma?classifier=sources
+- pkg:maven/org.alluxio/alluxio-microbench@294
+- pkg:maven/org.alluxio/alluxio-microbench@294?classifier=sources
+- pkg:maven/org.alluxio/alluxio-microbench@295
+- pkg:maven/org.alluxio/alluxio-microbench@295?classifier=sources
+- pkg:maven/org.alluxio/alluxio-microbench@300
+- pkg:maven/org.alluxio/alluxio-microbench@300?classifier=sources

@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2sedeploy@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2sedeploy@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2sedeploy@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2sedeploy@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2sedeploy@RELEASE90?classifier=sources

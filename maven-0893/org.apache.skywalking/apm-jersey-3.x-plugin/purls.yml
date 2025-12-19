@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-jersey-3.x-plugin@8.16.0
+- pkg:maven/org.apache.skywalking/apm-jersey-3.x-plugin@8.16.0?classifier=sources

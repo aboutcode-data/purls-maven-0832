@@ -49,3 +49,4 @@
 - pkg:maven/com.exactpro.sf/service-itch@3.3.54?classifier=sources
 - pkg:maven/com.exactpro.sf/service-itch@3.3.77?classifier=sources
 - pkg:maven/com.exactpro.sf/service-itch@3.3.7?classifier=sources
+- pkg:maven/com.exactpro.sf/service-itch@3.3.93?classifier=sources

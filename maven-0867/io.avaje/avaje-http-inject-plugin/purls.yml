@@ -1,0 +1,4 @@
+- pkg:maven/io.avaje/avaje-http-inject-plugin@1.38
+- pkg:maven/io.avaje/avaje-http-inject-plugin@1.38?classifier=sources
+- pkg:maven/io.avaje/avaje-http-inject-plugin@1.39
+- pkg:maven/io.avaje/avaje-http-inject-plugin@1.39?classifier=sources

@@ -40,3 +40,7 @@
 - pkg:maven/com.hccake/ballcat-extend-kafka@1.0.2?classifier=sources
 - pkg:maven/com.hccake/ballcat-extend-kafka@1.0.3
 - pkg:maven/com.hccake/ballcat-extend-kafka@1.0.3?classifier=sources
+- pkg:maven/com.hccake/ballcat-extend-kafka@1.1.0
+- pkg:maven/com.hccake/ballcat-extend-kafka@1.1.0?classifier=sources
+- pkg:maven/com.hccake/ballcat-extend-kafka@1.2.0
+- pkg:maven/com.hccake/ballcat-extend-kafka@1.2.0?classifier=sources

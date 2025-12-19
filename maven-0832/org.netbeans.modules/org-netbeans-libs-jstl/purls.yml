@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE180?classifier=sources

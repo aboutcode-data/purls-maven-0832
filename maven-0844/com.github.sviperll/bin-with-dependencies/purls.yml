@@ -24,6 +24,8 @@
 - pkg:maven/com.github.sviperll/bin-with-dependencies@0.23-rc2
 - pkg:maven/com.github.sviperll/bin-with-dependencies@0.23-rc2?classifier=sources
 - pkg:maven/com.github.sviperll/bin-with-dependencies@0.23?classifier=sources
+- pkg:maven/com.github.sviperll/bin-with-dependencies@0.24-beta2
+- pkg:maven/com.github.sviperll/bin-with-dependencies@0.24-beta2?classifier=sources
 - pkg:maven/com.github.sviperll/bin-with-dependencies@0.6
 - pkg:maven/com.github.sviperll/bin-with-dependencies@0.6?classifier=sources
 - pkg:maven/com.github.sviperll/bin-with-dependencies@0.7

@@ -26,3 +26,5 @@
 - pkg:maven/org.keycloak/keycloak-model-legacy@21.0.2?classifier=sources
 - pkg:maven/org.keycloak/keycloak-model-legacy@21.1.0
 - pkg:maven/org.keycloak/keycloak-model-legacy@21.1.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-model-legacy@21.1.1
+- pkg:maven/org.keycloak/keycloak-model-legacy@21.1.1?classifier=sources

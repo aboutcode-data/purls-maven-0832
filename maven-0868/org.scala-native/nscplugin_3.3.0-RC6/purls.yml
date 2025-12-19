@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-native/nscplugin_3.3.0-RC6@0.4.12
+- pkg:maven/org.scala-native/nscplugin_3.3.0-RC6@0.4.12?classifier=sources

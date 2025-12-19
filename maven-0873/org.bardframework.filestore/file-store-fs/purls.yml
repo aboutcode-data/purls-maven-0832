@@ -26,3 +26,7 @@
 - pkg:maven/org.bardframework.filestore/file-store-fs@1.7.3?classifier=sources
 - pkg:maven/org.bardframework.filestore/file-store-fs@1.9.3
 - pkg:maven/org.bardframework.filestore/file-store-fs@1.9.3?classifier=sources
+- pkg:maven/org.bardframework.filestore/file-store-fs@2.1.3
+- pkg:maven/org.bardframework.filestore/file-store-fs@2.1.3?classifier=sources
+- pkg:maven/org.bardframework.filestore/file-store-fs@2.2.13
+- pkg:maven/org.bardframework.filestore/file-store-fs@2.2.13?classifier=sources

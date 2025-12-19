@@ -4,3 +4,5 @@
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.8.3326?classifier=sources
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.9.20.29
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.9.20.29?classifier=sources
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.9.21.4
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.9.21.4?classifier=sources

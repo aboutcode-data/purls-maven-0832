@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/codestar-notifications@821.2.1107.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codestar-notifications@825.2.1220.0
 - pkg:maven/com.cognitect.aws/codestar-notifications@825.2.1220.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codestar-notifications@847.2.1365.0
+- pkg:maven/com.cognitect.aws/codestar-notifications@847.2.1365.0?classifier=sources

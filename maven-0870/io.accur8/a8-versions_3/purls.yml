@@ -1,0 +1,14 @@
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230425_1120_master
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230425_1120_master?classifier=sources
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230426_0955_master
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230426_0955_master?classifier=sources
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230426_1104_master
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230426_1104_master?classifier=sources
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230426_1346_master
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230426_1346_master?classifier=sources
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230429_1914_master
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230429_1914_master?classifier=sources
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230501_1014_master
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230501_1014_master?classifier=sources
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230502_0659_master
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230502_0659_master?classifier=sources

@@ -478,3 +478,4 @@
 - pkg:maven/com.palantir.baseline/gradle-junit-reports@5.4.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-junit-reports@5.5.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-junit-reports@5.6.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@5.7.0?classifier=sources

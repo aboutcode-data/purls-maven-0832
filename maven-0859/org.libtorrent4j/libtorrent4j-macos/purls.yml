@@ -39,3 +39,4 @@
 - pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.1.0-27
 - pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.1.0-28
 - pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.1.0-29
+- pkg:maven/org.libtorrent4j/libtorrent4j-macos@2.1.0-30

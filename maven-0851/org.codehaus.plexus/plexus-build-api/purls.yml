@@ -3,3 +3,9 @@
 - pkg:maven/org.codehaus.plexus/plexus-build-api@1.0.0
 - pkg:maven/org.codehaus.plexus/plexus-build-api@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-build-api@1.0.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-build-api@1.1.0
+- pkg:maven/org.codehaus.plexus/plexus-build-api@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus-build-api@1.1.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-build-api@1.2.0
+- pkg:maven/org.codehaus.plexus/plexus-build-api@1.2.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus-build-api@1.2.0?classifier=sources

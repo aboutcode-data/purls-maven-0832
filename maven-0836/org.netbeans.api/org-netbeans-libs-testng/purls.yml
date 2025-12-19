@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-testng@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-testng@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-testng@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-testng@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-testng@RELEASE90?classifier=sources

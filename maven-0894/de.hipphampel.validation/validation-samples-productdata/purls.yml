@@ -6,3 +6,9 @@
 - pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.1.2?classifier=sources
 - pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.3.1
 - pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.3.1?classifier=sources
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.4.1
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.4.1?classifier=sources
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.5.1
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.5.1?classifier=sources
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.5.2
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.5.2?classifier=sources

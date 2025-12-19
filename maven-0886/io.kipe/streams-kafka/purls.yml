@@ -1,0 +1,2 @@
+- pkg:maven/io.kipe/streams-kafka@0.1-RC
+- pkg:maven/io.kipe/streams-kafka@0.1-RC?classifier=sources

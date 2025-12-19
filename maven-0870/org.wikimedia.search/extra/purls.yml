@@ -40,3 +40,4 @@
 - pkg:maven/org.wikimedia.search/extra@6.8.23-wmf1?classifier=sources
 - pkg:maven/org.wikimedia.search/extra@7.10.2-wmf1?classifier=sources
 - pkg:maven/org.wikimedia.search/extra@7.10.2-wmf4?classifier=sources
+- pkg:maven/org.wikimedia.search/extra@7.10.2-wmf8?classifier=sources

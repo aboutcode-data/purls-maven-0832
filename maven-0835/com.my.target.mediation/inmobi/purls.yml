@@ -1,1 +1,2 @@
 - pkg:maven/com.my.target.mediation/inmobi@9.1.9.0?type=aar
+- pkg:maven/com.my.target.mediation/inmobi@9.1.9.1?type=aar

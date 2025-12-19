@@ -22,3 +22,11 @@
 - pkg:maven/org.finos.vuu/toolbox@0.4.63?classifier=sources
 - pkg:maven/org.finos.vuu/toolbox@0.4.64
 - pkg:maven/org.finos.vuu/toolbox@0.4.64?classifier=sources
+- pkg:maven/org.finos.vuu/toolbox@0.5.00
+- pkg:maven/org.finos.vuu/toolbox@0.5.00-beta1
+- pkg:maven/org.finos.vuu/toolbox@0.5.00-beta1?classifier=sources
+- pkg:maven/org.finos.vuu/toolbox@0.5.00-beta2
+- pkg:maven/org.finos.vuu/toolbox@0.5.00-beta2?classifier=sources
+- pkg:maven/org.finos.vuu/toolbox@0.5.00?classifier=sources
+- pkg:maven/org.finos.vuu/toolbox@0.5.02
+- pkg:maven/org.finos.vuu/toolbox@0.5.02?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.ignite/ignite-compress@2.13.0?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-compress@2.14.0
 - pkg:maven/org.apache.ignite/ignite-compress@2.14.0?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-compress@2.15.0
+- pkg:maven/org.apache.ignite/ignite-compress@2.15.0?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-compress@2.8.0
 - pkg:maven/org.apache.ignite/ignite-compress@2.8.0?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-compress@2.8.1

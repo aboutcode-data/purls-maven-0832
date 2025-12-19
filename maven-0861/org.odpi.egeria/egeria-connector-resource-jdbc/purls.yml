@@ -1,1 +1,2 @@
 - pkg:maven/org.odpi.egeria/egeria-connector-resource-jdbc@1.0?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-connector-resource-jdbc@1.1?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-web@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-web@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-web@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-web@RELEASE180?classifier=sources

@@ -298,3 +298,6 @@
 - pkg:maven/com.liferay/com.liferay.social.bookmarks.taglib@4.1.8
 - pkg:maven/com.liferay/com.liferay.social.bookmarks.taglib@4.1.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmarks.taglib@4.1.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.bookmarks.taglib@4.1.9
+- pkg:maven/com.liferay/com.liferay.social.bookmarks.taglib@4.1.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.bookmarks.taglib@4.1.9?classifier=sources-commercial

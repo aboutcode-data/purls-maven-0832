@@ -1,3 +1,5 @@
+- pkg:maven/com.foursoft.harness.vec/vec-common@0.1.0
+- pkg:maven/com.foursoft.harness.vec/vec-common@0.1.0?classifier=sources
 - pkg:maven/com.foursoft.harness.vec/vec-common@2.0.0
 - pkg:maven/com.foursoft.harness.vec/vec-common@2.0.0?classifier=sources
 - pkg:maven/com.foursoft.harness.vec/vec-common@2.0.1

@@ -12,3 +12,4 @@
 - pkg:maven/com.apollographql.apollo3/apollo-tooling@3.7.4?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-tooling@3.7.5?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-tooling@3.8.0?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-tooling@3.8.1?classifier=sources

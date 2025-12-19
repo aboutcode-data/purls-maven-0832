@@ -1,3 +1,4 @@
+- pkg:maven/com.arangodb/core@7.0.0
 - pkg:maven/com.arangodb/core@7.0.0-ALPHA.3
 - pkg:maven/com.arangodb/core@7.0.0-ALPHA.3?classifier=sources
 - pkg:maven/com.arangodb/core@7.0.0-ALPHA.4
@@ -10,3 +11,6 @@
 - pkg:maven/com.arangodb/core@7.0.0-RC.3?classifier=sources
 - pkg:maven/com.arangodb/core@7.0.0-RC.4
 - pkg:maven/com.arangodb/core@7.0.0-RC.4?classifier=sources
+- pkg:maven/com.arangodb/core@7.0.0-RC.5
+- pkg:maven/com.arangodb/core@7.0.0-RC.5?classifier=sources
+- pkg:maven/com.arangodb/core@7.0.0?classifier=sources

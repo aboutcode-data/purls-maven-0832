@@ -12,3 +12,4 @@
 - pkg:maven/team.yi.tools/semantic-gitlog@0.5.11?classifier=sources
 - pkg:maven/team.yi.tools/semantic-gitlog@0.6.1?classifier=sources
 - pkg:maven/team.yi.tools/semantic-gitlog@0.7.0?classifier=sources
+- pkg:maven/team.yi.tools/semantic-gitlog@0.8.8?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.heartlandpaymentsystems/heartland-android-sdk@1.0.3_DEV?classifier=sources
 - pkg:maven/com.heartlandpaymentsystems/heartland-android-sdk@1.0.4_DEV?classifier=sources
 - pkg:maven/com.heartlandpaymentsystems/heartland-android-sdk@1.0.5_DEV?classifier=sources
+- pkg:maven/com.heartlandpaymentsystems/heartland-android-sdk@1.0.6_DEV?classifier=sources

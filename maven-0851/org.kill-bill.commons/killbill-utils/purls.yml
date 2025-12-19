@@ -1,2 +1,4 @@
 - pkg:maven/org.kill-bill.commons/killbill-utils@0.26.0
 - pkg:maven/org.kill-bill.commons/killbill-utils@0.26.0?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-utils@0.26.1
+- pkg:maven/org.kill-bill.commons/killbill-utils@0.26.1?classifier=sources

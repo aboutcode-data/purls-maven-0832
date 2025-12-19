@@ -1,0 +1,15 @@
+- pkg:maven/org.dromara/northstar-api@6.0.0.ALPHA1
+- pkg:maven/org.dromara/northstar-api@6.0.0.ALPHA1?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.0.0.BETA2
+- pkg:maven/org.dromara/northstar-api@6.0.0.BETA2?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC1
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC1?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC3
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC3?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC4
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC4?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC5
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC5?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC7
+- pkg:maven/org.dromara/northstar-api@6.0.0.RC7?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.0.0?classifier=sources

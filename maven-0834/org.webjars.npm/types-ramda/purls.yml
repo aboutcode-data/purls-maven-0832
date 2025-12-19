@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types-ramda@0.29.2
+- pkg:maven/org.webjars.npm/types-ramda@0.29.2?classifier=sources

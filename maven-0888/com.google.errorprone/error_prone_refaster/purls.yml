@@ -42,6 +42,8 @@
 - pkg:maven/com.google.errorprone/error_prone_refaster@2.17.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_refaster@2.18.0
 - pkg:maven/com.google.errorprone/error_prone_refaster@2.18.0?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_refaster@2.19.0
+- pkg:maven/com.google.errorprone/error_prone_refaster@2.19.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_refaster@2.2.0
 - pkg:maven/com.google.errorprone/error_prone_refaster@2.2.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_refaster@2.3.0

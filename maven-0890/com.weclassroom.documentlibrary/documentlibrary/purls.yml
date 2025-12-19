@@ -19,6 +19,7 @@
 - pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.5.1.yach?classifier=sources
 - pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.5.1?classifier=sources
 - pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.5.2.yach?classifier=sources
+- pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.5.2?classifier=sources
 - pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.5.3.yach?classifier=sources
 - pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.5.4.yach?classifier=sources
 - pkg:maven/com.weclassroom.documentlibrary/documentlibrary@0.5.5.yach?classifier=sources

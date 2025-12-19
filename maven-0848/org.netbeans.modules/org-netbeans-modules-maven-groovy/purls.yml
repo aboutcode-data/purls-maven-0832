@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-groovy@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-groovy@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-groovy@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-groovy@RELEASE180?classifier=sources

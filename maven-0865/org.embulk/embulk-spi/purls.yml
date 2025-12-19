@@ -46,6 +46,7 @@
 - pkg:maven/org.embulk/embulk-spi@0.10.47?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.48?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.49?classifier=sources
+- pkg:maven/org.embulk/embulk-spi@0.10.50?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.7?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.8?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.9?classifier=sources

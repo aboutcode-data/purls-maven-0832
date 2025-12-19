@@ -16,3 +16,5 @@
 - pkg:maven/org.wildfly.security.jakarta/jakarta-authentication@3.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.security.jakarta/jakarta-authentication@3.0.1.Final
 - pkg:maven/org.wildfly.security.jakarta/jakarta-authentication@3.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.security.jakarta/jakarta-authentication@3.0.2.Final
+- pkg:maven/org.wildfly.security.jakarta/jakarta-authentication@3.0.2.Final?classifier=sources

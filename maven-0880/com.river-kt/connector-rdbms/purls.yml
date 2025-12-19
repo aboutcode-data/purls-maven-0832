@@ -1,0 +1,2 @@
+- pkg:maven/com.river-kt/connector-rdbms@0.0.1-alpha01?classifier=sources
+- pkg:maven/com.river-kt/connector-rdbms@0.0.1-alpha02?classifier=sources

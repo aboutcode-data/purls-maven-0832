@@ -78,3 +78,5 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-condition@3.5.3.1-EXT306.1
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-condition@3.5.3.1-EXT306.1?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-condition@3.5.3.1-EXT306?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-condition@3.5.3.1-EXT307
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-condition@3.5.3.1-EXT307?classifier=sources

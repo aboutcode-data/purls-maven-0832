@@ -6,3 +6,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE180?classifier=sources

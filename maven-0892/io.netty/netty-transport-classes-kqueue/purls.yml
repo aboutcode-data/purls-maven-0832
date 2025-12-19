@@ -42,3 +42,7 @@
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.90.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.91.Final
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.91.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.92.Final
+- pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.92.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.93.Final
+- pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.93.Final?classifier=sources

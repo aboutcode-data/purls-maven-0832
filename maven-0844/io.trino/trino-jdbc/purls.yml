@@ -122,3 +122,13 @@
 - pkg:maven/io.trino/trino-jdbc@412?classifier=sources
 - pkg:maven/io.trino/trino-jdbc@413
 - pkg:maven/io.trino/trino-jdbc@413?classifier=sources
+- pkg:maven/io.trino/trino-jdbc@414
+- pkg:maven/io.trino/trino-jdbc@414?classifier=sources
+- pkg:maven/io.trino/trino-jdbc@415
+- pkg:maven/io.trino/trino-jdbc@415?classifier=sources
+- pkg:maven/io.trino/trino-jdbc@416
+- pkg:maven/io.trino/trino-jdbc@416?classifier=sources
+- pkg:maven/io.trino/trino-jdbc@417
+- pkg:maven/io.trino/trino-jdbc@417?classifier=sources
+- pkg:maven/io.trino/trino-jdbc@418
+- pkg:maven/io.trino/trino-jdbc@418?classifier=sources

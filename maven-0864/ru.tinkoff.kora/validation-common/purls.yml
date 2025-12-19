@@ -5,3 +5,6 @@
 - pkg:maven/ru.tinkoff.kora/validation-common@0.11.4?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@0.11.5?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@0.11.6?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@0.11.7?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@0.11.8?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@0.11.9?classifier=sources

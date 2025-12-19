@@ -64,3 +64,5 @@
 - pkg:maven/in.specmatic/specmatic-core@0.63.2?classifier=sources
 - pkg:maven/in.specmatic/specmatic-core@0.63.3?classifier=sources
 - pkg:maven/in.specmatic/specmatic-core@0.64.0?classifier=sources
+- pkg:maven/in.specmatic/specmatic-core@0.65.0?classifier=sources
+- pkg:maven/in.specmatic/specmatic-core@0.65.1?classifier=sources

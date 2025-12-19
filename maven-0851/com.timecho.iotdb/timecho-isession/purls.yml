@@ -1,0 +1,2 @@
+- pkg:maven/com.timecho.iotdb/timecho-isession@1.1.0.1
+- pkg:maven/com.timecho.iotdb/timecho-isession@1.1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.dromara.hutool/hutool-poi@6.0.0.M3
+- pkg:maven/org.dromara.hutool/hutool-poi@6.0.0.M3?classifier=sources

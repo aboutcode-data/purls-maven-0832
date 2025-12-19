@@ -248,3 +248,5 @@
 - pkg:maven/io.dekorate/option-annotations@3.5.3?classifier=sources
 - pkg:maven/io.dekorate/option-annotations@3.5.4
 - pkg:maven/io.dekorate/option-annotations@3.5.4?classifier=sources
+- pkg:maven/io.dekorate/option-annotations@3.5.5
+- pkg:maven/io.dekorate/option-annotations@3.5.5?classifier=sources

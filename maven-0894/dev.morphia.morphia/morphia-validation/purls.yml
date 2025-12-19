@@ -1,2 +1,6 @@
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.3.0
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.3.0?classifier=sources
+- pkg:maven/dev.morphia.morphia/morphia-validation@2.3.1
+- pkg:maven/dev.morphia.morphia/morphia-validation@2.3.1?classifier=sources
+- pkg:maven/dev.morphia.morphia/morphia-validation@2.3.2
+- pkg:maven/dev.morphia.morphia/morphia-validation@2.3.2?classifier=sources

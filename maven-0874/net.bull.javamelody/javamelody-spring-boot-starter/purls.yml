@@ -58,3 +58,9 @@
 - pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.91.0?classifier=sources
 - pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.92.0
 - pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.92.0?classifier=sources
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.93.0
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.93.0?classifier=sources
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.94.0
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@1.94.0?classifier=sources
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@2.0.0
+- pkg:maven/net.bull.javamelody/javamelody-spring-boot-starter@2.0.0?classifier=sources

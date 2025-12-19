@@ -21,6 +21,7 @@
 - pkg:maven/io.opentelemetry/opentelemetry-extension-incubator@1.23.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-incubator@1.24.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-incubator@1.25.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-incubator@1.26.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-incubator@1.3.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-incubator@1.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-incubator@1.4.1-alpha?classifier=sources

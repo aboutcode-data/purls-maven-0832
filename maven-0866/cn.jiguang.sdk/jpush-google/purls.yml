@@ -28,3 +28,4 @@
 - pkg:maven/cn.jiguang.sdk/jpush-google@4.8.5?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush-google@4.9.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush-google@5.0.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jpush-google@5.0.3?classifier=sources

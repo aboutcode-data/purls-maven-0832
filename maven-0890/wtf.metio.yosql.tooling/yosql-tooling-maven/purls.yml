@@ -36,3 +36,5 @@
 - pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.3.8?classifier=sources
 - pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.4.5
 - pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.4.5?classifier=sources
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.5.3
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.5.3?classifier=sources

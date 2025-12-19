@@ -58,3 +58,5 @@
 - pkg:maven/org.apache.shiro/shiro-spring@1.9.1?classifier=sources
 - pkg:maven/org.apache.shiro/shiro-spring@2.0.0-alpha-1
 - pkg:maven/org.apache.shiro/shiro-spring@2.0.0-alpha-1?classifier=sources
+- pkg:maven/org.apache.shiro/shiro-spring@2.0.0-alpha-2
+- pkg:maven/org.apache.shiro/shiro-spring@2.0.0-alpha-2?classifier=sources

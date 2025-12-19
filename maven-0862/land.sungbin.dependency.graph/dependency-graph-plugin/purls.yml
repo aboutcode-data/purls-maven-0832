@@ -1,1 +1,3 @@
 - pkg:maven/land.sungbin.dependency.graph/dependency-graph-plugin@1.0.0?classifier=sources
+- pkg:maven/land.sungbin.dependency.graph/dependency-graph-plugin@1.1.0?classifier=sources
+- pkg:maven/land.sungbin.dependency.graph/dependency-graph-plugin@1.2.0-alpha?classifier=sources

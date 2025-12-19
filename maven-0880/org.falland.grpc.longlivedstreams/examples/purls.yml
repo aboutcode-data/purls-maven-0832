@@ -1,0 +1,2 @@
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@1.0
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@1.0?classifier=sources

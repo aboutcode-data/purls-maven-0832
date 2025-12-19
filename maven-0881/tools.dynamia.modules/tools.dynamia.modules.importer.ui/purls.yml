@@ -4,3 +4,7 @@
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.importer.ui@2.5.0?classifier=sources
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.importer.ui@2.6.0
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.importer.ui@2.6.0?classifier=sources
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.importer.ui@2.7.0
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.importer.ui@2.7.0?classifier=sources
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.importer.ui@3.0.0
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.importer.ui@3.0.0?classifier=sources

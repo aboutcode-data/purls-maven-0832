@@ -1,6 +1,10 @@
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.0?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.10?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.11?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.12?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.13?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.14?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.15?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.2?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.3?classifier=sources
@@ -11,8 +15,13 @@
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.8?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.19.9?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.0?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.10?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.1?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.2?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.3?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.4?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.5?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.6?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.7?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.8?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-http-post@3.20.9?classifier=sources

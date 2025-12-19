@@ -78,3 +78,5 @@
 - pkg:maven/net.apexes.commons/apexes-commons-android@1.9.2?classifier=sources
 - pkg:maven/net.apexes.commons/apexes-commons-android@1.9.3
 - pkg:maven/net.apexes.commons/apexes-commons-android@1.9.3?classifier=sources
+- pkg:maven/net.apexes.commons/apexes-commons-android@2.0.0
+- pkg:maven/net.apexes.commons/apexes-commons-android@2.0.0?classifier=sources

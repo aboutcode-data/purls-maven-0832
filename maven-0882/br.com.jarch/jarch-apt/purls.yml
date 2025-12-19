@@ -102,3 +102,5 @@
 - pkg:maven/br.com.jarch/jarch-apt@23.2.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-apt@23.3.0
 - pkg:maven/br.com.jarch/jarch-apt@23.3.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-apt@23.4.0
+- pkg:maven/br.com.jarch/jarch-apt@23.4.0?classifier=sources

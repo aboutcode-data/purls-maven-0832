@@ -54,3 +54,5 @@
 - pkg:maven/com.aliyun/vpc20160428@3.2.22?classifier=sources
 - pkg:maven/com.aliyun/vpc20160428@3.2.23
 - pkg:maven/com.aliyun/vpc20160428@3.2.23?classifier=sources
+- pkg:maven/com.aliyun/vpc20160428@3.2.24
+- pkg:maven/com.aliyun/vpc20160428@3.2.24?classifier=sources

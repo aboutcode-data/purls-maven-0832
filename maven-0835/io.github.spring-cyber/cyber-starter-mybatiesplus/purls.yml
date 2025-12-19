@@ -1,0 +1,2 @@
+- pkg:maven/io.github.spring-cyber/cyber-starter-mybatiesplus@0.0.1
+- pkg:maven/io.github.spring-cyber/cyber-starter-mybatiesplus@0.0.1?classifier=sources

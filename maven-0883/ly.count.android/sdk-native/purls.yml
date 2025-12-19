@@ -21,3 +21,4 @@
 - pkg:maven/ly.count.android/sdk-native@22.09.1?classifier=sources
 - pkg:maven/ly.count.android/sdk-native@22.09.2?classifier=sources
 - pkg:maven/ly.count.android/sdk-native@22.09.3?classifier=sources
+- pkg:maven/ly.count.android/sdk-native@22.09.4?classifier=sources

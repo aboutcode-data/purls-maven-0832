@@ -125,6 +125,9 @@
 - pkg:maven/com.liferay/com.liferay.object.js.components.web@1.0.47
 - pkg:maven/com.liferay/com.liferay.object.js.components.web@1.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.js.components.web@1.0.47?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.object.js.components.web@1.0.48
+- pkg:maven/com.liferay/com.liferay.object.js.components.web@1.0.48?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.js.components.web@1.0.48?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.object.js.components.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.js.components.web@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.object.js.components.web@1.0.5

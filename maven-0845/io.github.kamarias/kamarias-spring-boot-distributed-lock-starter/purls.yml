@@ -1,0 +1,4 @@
+- pkg:maven/io.github.kamarias/kamarias-spring-boot-distributed-lock-starter@1.0.0.RELEASE
+- pkg:maven/io.github.kamarias/kamarias-spring-boot-distributed-lock-starter@1.0.1.RELEASE
+- pkg:maven/io.github.kamarias/kamarias-spring-boot-distributed-lock-starter@1.0.2.RELEASE
+- pkg:maven/io.github.kamarias/kamarias-spring-boot-distributed-lock-starter@1.0.2.RELEASE?classifier=sources

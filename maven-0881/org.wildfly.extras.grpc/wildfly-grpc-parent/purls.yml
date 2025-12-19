@@ -1,0 +1,1 @@
+- pkg:maven/org.wildfly.extras.grpc/wildfly-grpc-parent@0.1.0.Final?classifier=source-release&type=zip

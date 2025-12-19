@@ -156,6 +156,8 @@
 - pkg:maven/org.axonframework/axon-legacy@4.6.6?classifier=sources
 - pkg:maven/org.axonframework/axon-legacy@4.6.7
 - pkg:maven/org.axonframework/axon-legacy@4.6.7?classifier=sources
+- pkg:maven/org.axonframework/axon-legacy@4.6.8
+- pkg:maven/org.axonframework/axon-legacy@4.6.8?classifier=sources
 - pkg:maven/org.axonframework/axon-legacy@4.7.0
 - pkg:maven/org.axonframework/axon-legacy@4.7.0?classifier=sources
 - pkg:maven/org.axonframework/axon-legacy@4.7.1
@@ -164,3 +166,7 @@
 - pkg:maven/org.axonframework/axon-legacy@4.7.2?classifier=sources
 - pkg:maven/org.axonframework/axon-legacy@4.7.3
 - pkg:maven/org.axonframework/axon-legacy@4.7.3?classifier=sources
+- pkg:maven/org.axonframework/axon-legacy@4.7.4
+- pkg:maven/org.axonframework/axon-legacy@4.7.4?classifier=sources
+- pkg:maven/org.axonframework/axon-legacy@4.7.5
+- pkg:maven/org.axonframework/axon-legacy@4.7.5?classifier=sources

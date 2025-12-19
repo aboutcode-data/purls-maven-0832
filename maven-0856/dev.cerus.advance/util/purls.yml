@@ -2,3 +2,5 @@
 - pkg:maven/dev.cerus.advance/util@1.0.0?classifier=sources
 - pkg:maven/dev.cerus.advance/util@1.1.0
 - pkg:maven/dev.cerus.advance/util@1.1.0?classifier=sources
+- pkg:maven/dev.cerus.advance/util@1.2.0
+- pkg:maven/dev.cerus.advance/util@1.2.0?classifier=sources

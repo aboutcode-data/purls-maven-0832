@@ -58,3 +58,5 @@
 - pkg:maven/net.folivo/trixnity-core-jvm@3.5.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-core-jvm@3.5.1?classifier=sources
 - pkg:maven/net.folivo/trixnity-core-jvm@3.6.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-core-jvm@3.6.1?classifier=sources
+- pkg:maven/net.folivo/trixnity-core-jvm@3.6.2?classifier=sources

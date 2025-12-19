@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wendy512/stream-rabbitmq@1.0.0
+- pkg:maven/io.github.wendy512/stream-rabbitmq@1.0.0?classifier=sources

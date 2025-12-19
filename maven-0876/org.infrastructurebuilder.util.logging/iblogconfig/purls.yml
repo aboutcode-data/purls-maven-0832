@@ -1,3 +1,5 @@
 - pkg:maven/org.infrastructurebuilder.util.logging/iblogconfig@0.13.0
 - pkg:maven/org.infrastructurebuilder.util.logging/iblogconfig@0.13.1
 - pkg:maven/org.infrastructurebuilder.util.logging/iblogconfig@0.13.2
+- pkg:maven/org.infrastructurebuilder.util.logging/iblogconfig@0.14.0
+- pkg:maven/org.infrastructurebuilder.util.logging/iblogconfig@0.14.2

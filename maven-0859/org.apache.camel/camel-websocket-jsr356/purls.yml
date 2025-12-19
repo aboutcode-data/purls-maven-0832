@@ -74,6 +74,8 @@
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.14.6?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.14.7
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.14.7?classifier=sources
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.14.8
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.14.8?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.15.0
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.15.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.16.0
@@ -94,6 +96,8 @@
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.18.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.18.6
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.18.6?classifier=sources
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.18.7
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.18.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.19.0
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.19.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.2.0
@@ -106,6 +110,10 @@
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.20.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.20.3
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.20.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.20.4
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.20.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.20.5
+- pkg:maven/org.apache.camel/camel-websocket-jsr356@3.20.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.3.0
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-websocket-jsr356@3.4.0

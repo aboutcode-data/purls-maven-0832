@@ -56,3 +56,5 @@
 - pkg:maven/com.cognitect.aws/elasticloadbalancingv2@825.2.1262.0?classifier=sources
 - pkg:maven/com.cognitect.aws/elasticloadbalancingv2@836.2.1323.0
 - pkg:maven/com.cognitect.aws/elasticloadbalancingv2@836.2.1323.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@847.2.1365.0
+- pkg:maven/com.cognitect.aws/elasticloadbalancingv2@847.2.1365.0?classifier=sources
