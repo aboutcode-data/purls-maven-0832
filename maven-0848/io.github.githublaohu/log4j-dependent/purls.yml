@@ -1,2 +1,4 @@
 - pkg:maven/io.github.githublaohu/log4j-dependent@0.0.10
 - pkg:maven/io.github.githublaohu/log4j-dependent@0.0.10?classifier=sources
+- pkg:maven/io.github.githublaohu/log4j-dependent@0.1.4
+- pkg:maven/io.github.githublaohu/log4j-dependent@0.1.4?classifier=sources

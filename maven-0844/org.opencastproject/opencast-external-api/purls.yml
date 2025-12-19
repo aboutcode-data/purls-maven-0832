@@ -1,6 +1,10 @@
 - pkg:maven/org.opencastproject/opencast-external-api@10.0
 - pkg:maven/org.opencastproject/opencast-external-api@10.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-external-api@10.1
+- pkg:maven/org.opencastproject/opencast-external-api@10.10
+- pkg:maven/org.opencastproject/opencast-external-api@10.10?classifier=sources
+- pkg:maven/org.opencastproject/opencast-external-api@10.11
+- pkg:maven/org.opencastproject/opencast-external-api@10.11?classifier=sources
 - pkg:maven/org.opencastproject/opencast-external-api@10.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-external-api@10.2
 - pkg:maven/org.opencastproject/opencast-external-api@10.2?classifier=sources
@@ -16,6 +20,8 @@
 - pkg:maven/org.opencastproject/opencast-external-api@10.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-external-api@10.8
 - pkg:maven/org.opencastproject/opencast-external-api@10.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-external-api@10.9
+- pkg:maven/org.opencastproject/opencast-external-api@10.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-external-api@11.0
 - pkg:maven/org.opencastproject/opencast-external-api@11.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-external-api@11.1
@@ -24,6 +30,8 @@
 - pkg:maven/org.opencastproject/opencast-external-api@11.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-external-api@11.3
 - pkg:maven/org.opencastproject/opencast-external-api@11.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-external-api@11.4
+- pkg:maven/org.opencastproject/opencast-external-api@11.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-external-api@6.6
 - pkg:maven/org.opencastproject/opencast-external-api@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-external-api@7.2

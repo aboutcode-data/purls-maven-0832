@@ -16,3 +16,7 @@
 - pkg:maven/io.github.bianjieai/opb-sdk@0.1.7?classifier=sources
 - pkg:maven/io.github.bianjieai/opb-sdk@0.1.8-rc1
 - pkg:maven/io.github.bianjieai/opb-sdk@0.1.8-rc1?classifier=sources
+- pkg:maven/io.github.bianjieai/opb-sdk@0.1.8-rc2
+- pkg:maven/io.github.bianjieai/opb-sdk@0.1.8-rc2?classifier=sources
+- pkg:maven/io.github.bianjieai/opb-sdk@0.1.8-rc3
+- pkg:maven/io.github.bianjieai/opb-sdk@0.1.8-rc3?classifier=sources

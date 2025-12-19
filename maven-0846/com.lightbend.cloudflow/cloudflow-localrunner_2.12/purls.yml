@@ -941,6 +941,16 @@
 - pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0
 - pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220131
 - pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220131?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220207
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220207?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220214
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220214?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220221
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220221?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220228
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220228?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220307
+- pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-NIGHTLY20220307?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-RC1
 - pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-RC10
 - pkg:maven/com.lightbend.cloudflow/cloudflow-localrunner_2.12@2.3.0-RC10?classifier=sources

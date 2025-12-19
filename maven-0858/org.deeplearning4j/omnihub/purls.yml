@@ -1,0 +1,2 @@
+- pkg:maven/org.deeplearning4j/omnihub@1.0.0-M2
+- pkg:maven/org.deeplearning4j/omnihub@1.0.0-M2?classifier=sources

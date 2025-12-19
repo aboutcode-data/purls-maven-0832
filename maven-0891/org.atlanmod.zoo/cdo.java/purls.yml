@@ -1,0 +1,2 @@
+- pkg:maven/org.atlanmod.zoo/cdo.java@1.0.5
+- pkg:maven/org.atlanmod.zoo/cdo.java@1.0.5?classifier=sources

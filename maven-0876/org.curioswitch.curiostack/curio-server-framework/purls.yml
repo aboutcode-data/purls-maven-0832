@@ -1,3 +1,5 @@
 - pkg:maven/org.curioswitch.curiostack/curio-server-framework@0.0.1
 - pkg:maven/org.curioswitch.curiostack/curio-server-framework@0.0.1?classifier=sources
 - pkg:maven/org.curioswitch.curiostack/curio-server-framework@0.7.1?classifier=sources
+- pkg:maven/org.curioswitch.curiostack/curio-server-framework@0.8.0?classifier=sources
+- pkg:maven/org.curioswitch.curiostack/curio-server-framework@0.8.1?classifier=sources

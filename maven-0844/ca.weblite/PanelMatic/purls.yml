@@ -1,0 +1,2 @@
+- pkg:maven/ca.weblite/PanelMatic@0.9.9
+- pkg:maven/ca.weblite/PanelMatic@0.9.9?classifier=sources

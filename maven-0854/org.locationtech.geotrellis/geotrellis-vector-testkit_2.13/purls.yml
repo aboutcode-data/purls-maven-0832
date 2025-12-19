@@ -1,0 +1,2 @@
+- pkg:maven/org.locationtech.geotrellis/geotrellis-vector-testkit_2.13@3.6.1
+- pkg:maven/org.locationtech.geotrellis/geotrellis-vector-testkit_2.13@3.6.1?classifier=sources

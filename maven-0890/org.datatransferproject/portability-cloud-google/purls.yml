@@ -6,3 +6,9 @@
 - pkg:maven/org.datatransferproject/portability-cloud-google@0.3.59?classifier=sources
 - pkg:maven/org.datatransferproject/portability-cloud-google@0.3.60
 - pkg:maven/org.datatransferproject/portability-cloud-google@0.3.60?classifier=sources
+- pkg:maven/org.datatransferproject/portability-cloud-google@0.3.62
+- pkg:maven/org.datatransferproject/portability-cloud-google@0.3.62?classifier=sources
+- pkg:maven/org.datatransferproject/portability-cloud-google@0.3.63
+- pkg:maven/org.datatransferproject/portability-cloud-google@0.3.63?classifier=sources
+- pkg:maven/org.datatransferproject/portability-cloud-google@0.3.64
+- pkg:maven/org.datatransferproject/portability-cloud-google@0.3.64?classifier=sources

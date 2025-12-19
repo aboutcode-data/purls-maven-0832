@@ -1,1 +1,2 @@
 - pkg:maven/com.qmuiteam/type@0.0.13?classifier=sources
+- pkg:maven/com.qmuiteam/type@0.1.0?classifier=sources

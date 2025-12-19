@@ -12,3 +12,4 @@
 - pkg:maven/io.elements.pay/core-module@1.0.1-beta01?classifier=sources
 - pkg:maven/io.elements.pay/core-module@1.0.2-beta01?classifier=sources
 - pkg:maven/io.elements.pay/core-module@1.0.3?classifier=sources
+- pkg:maven/io.elements.pay/core-module@1.0.4?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/net.simonix.scripts/groovy-jmeter@0.13.0?classifier=sources
 - pkg:maven/net.simonix.scripts/groovy-jmeter@0.14.0?classifier=sources
 - pkg:maven/net.simonix.scripts/groovy-jmeter@0.15.0?classifier=sources
+- pkg:maven/net.simonix.scripts/groovy-jmeter@0.16.0?classifier=sources
+- pkg:maven/net.simonix.scripts/groovy-jmeter@0.17.0?classifier=sources

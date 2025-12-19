@@ -18,3 +18,9 @@
 - pkg:maven/com.arangodb/arangodb-spring-boot-starter@2.3.0.RELEASE?classifier=sources
 - pkg:maven/com.arangodb/arangodb-spring-boot-starter@2.3.3.RELEASE
 - pkg:maven/com.arangodb/arangodb-spring-boot-starter@2.3.3.RELEASE?classifier=sources
+- pkg:maven/com.arangodb/arangodb-spring-boot-starter@2.4-0
+- pkg:maven/com.arangodb/arangodb-spring-boot-starter@2.4-0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-spring-boot-starter@2.5-0
+- pkg:maven/com.arangodb/arangodb-spring-boot-starter@2.5-0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-spring-boot-starter@2.6-0
+- pkg:maven/com.arangodb/arangodb-spring-boot-starter@2.6-0?classifier=sources

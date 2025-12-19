@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-vcs@8.2.0.43778?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-vcs@8.3.0.45095?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/nl.mirila.example/mirila-example-war@1.1.2?classifier=sources
+- pkg:maven/nl.mirila.example/mirila-example-war@1.1.2?type=war
+- pkg:maven/nl.mirila.example/mirila-example-war@1.1.3?classifier=sources
+- pkg:maven/nl.mirila.example/mirila-example-war@1.1.3?type=war

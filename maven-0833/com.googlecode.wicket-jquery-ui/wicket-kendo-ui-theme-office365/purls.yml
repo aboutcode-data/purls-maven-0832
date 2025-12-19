@@ -114,6 +114,8 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.10.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.10.1
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.10.1?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.10.2
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.10.2?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.11.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.11.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@8.11.1
@@ -162,3 +164,5 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@9.6.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@9.7.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@9.7.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@9.8.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-office365@9.8.0?classifier=sources

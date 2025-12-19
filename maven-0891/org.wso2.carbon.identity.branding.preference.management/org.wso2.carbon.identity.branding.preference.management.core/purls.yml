@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.identity.branding.preference.management/org.wso2.carbon.identity.branding.preference.management.core@1.0.0
+- pkg:maven/org.wso2.carbon.identity.branding.preference.management/org.wso2.carbon.identity.branding.preference.management.core@1.0.0?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.branding.preference.management/org.wso2.carbon.identity.branding.preference.management.core@1.0.1
+- pkg:maven/org.wso2.carbon.identity.branding.preference.management/org.wso2.carbon.identity.branding.preference.management.core@1.0.1?classifier=sources

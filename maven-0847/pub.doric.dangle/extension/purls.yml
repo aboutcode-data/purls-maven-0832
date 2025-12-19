@@ -1,5 +1,9 @@
 - pkg:maven/pub.doric.dangle/extension@0.0.10?classifier=sources
 - pkg:maven/pub.doric.dangle/extension@0.0.10?type=aar
+- pkg:maven/pub.doric.dangle/extension@0.0.11?classifier=sources
+- pkg:maven/pub.doric.dangle/extension@0.0.11?type=aar
+- pkg:maven/pub.doric.dangle/extension@0.0.12?classifier=sources
+- pkg:maven/pub.doric.dangle/extension@0.0.12?type=aar
 - pkg:maven/pub.doric.dangle/extension@0.0.5?classifier=sources
 - pkg:maven/pub.doric.dangle/extension@0.0.5?type=aar
 - pkg:maven/pub.doric.dangle/extension@0.0.6?classifier=sources
@@ -10,3 +14,7 @@
 - pkg:maven/pub.doric.dangle/extension@0.0.8?type=aar
 - pkg:maven/pub.doric.dangle/extension@0.0.9?classifier=sources
 - pkg:maven/pub.doric.dangle/extension@0.0.9?type=aar
+- pkg:maven/pub.doric.dangle/extension@0.1.0?classifier=sources
+- pkg:maven/pub.doric.dangle/extension@0.1.0?type=aar
+- pkg:maven/pub.doric.dangle/extension@0.1.1?classifier=sources
+- pkg:maven/pub.doric.dangle/extension@0.1.1?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/net.katsstuff/typenbt_sjs1_2.13@0.5.1
 - pkg:maven/net.katsstuff/typenbt_sjs1_2.13@0.5.1?classifier=sources
+- pkg:maven/net.katsstuff/typenbt_sjs1_2.13@0.6.0
+- pkg:maven/net.katsstuff/typenbt_sjs1_2.13@0.6.0?classifier=sources

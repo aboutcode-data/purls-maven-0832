@@ -9,3 +9,4 @@
 - pkg:maven/com.arkivanov.decompose/decompose-js@0.3.1?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-js@0.4.0?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-js@0.5.0?classifier=sources
+- pkg:maven/com.arkivanov.decompose/decompose-js@0.5.1?classifier=sources

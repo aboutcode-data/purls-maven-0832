@@ -1,0 +1,2 @@
+- pkg:maven/com.github.stacycurl/circe_2.12@0.0.2
+- pkg:maven/com.github.stacycurl/circe_2.12@0.0.2?classifier=sources

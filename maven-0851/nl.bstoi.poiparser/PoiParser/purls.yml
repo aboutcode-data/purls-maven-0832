@@ -42,3 +42,5 @@
 - pkg:maven/nl.bstoi.poiparser/PoiParser@4.1.2?classifier=sources
 - pkg:maven/nl.bstoi.poiparser/PoiParser@5.0.0
 - pkg:maven/nl.bstoi.poiparser/PoiParser@5.0.0?classifier=sources
+- pkg:maven/nl.bstoi.poiparser/PoiParser@5.2.0
+- pkg:maven/nl.bstoi.poiparser/PoiParser@5.2.0?classifier=sources

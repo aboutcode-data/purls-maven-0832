@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lyh200/dynamic-tp-spring-boot-starter-common@1.0.1
+- pkg:maven/io.github.lyh200/dynamic-tp-spring-boot-starter-common@1.0.1?classifier=sources

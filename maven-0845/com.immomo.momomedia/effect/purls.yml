@@ -62,3 +62,9 @@
 - pkg:maven/com.immomo.momomedia/effect@3.0.0-2021122904?type=aar
 - pkg:maven/com.immomo.momomedia/effect@3.0.0-2021122907?classifier=sources
 - pkg:maven/com.immomo.momomedia/effect@3.0.0-2021122907?type=aar
+- pkg:maven/com.immomo.momomedia/effect@3.0.0-202202171412?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@3.0.0-202202171412?type=aar
+- pkg:maven/com.immomo.momomedia/effect@3.0.0-202202171700?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@3.0.0-202202171700?type=aar
+- pkg:maven/com.immomo.momomedia/effect@3.0.0-202202231446?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@3.0.0-202202231446?type=aar

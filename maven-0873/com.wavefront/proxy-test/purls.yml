@@ -1,0 +1,12 @@
+- pkg:maven/com.wavefront/proxy-test@999.0
+- pkg:maven/com.wavefront/proxy-test@999.0-RC3
+- pkg:maven/com.wavefront/proxy-test@999.0-RC3?classifier=sources
+- pkg:maven/com.wavefront/proxy-test@999.0?classifier=sources
+- pkg:maven/com.wavefront/proxy-test@999.1
+- pkg:maven/com.wavefront/proxy-test@999.1?classifier=sources
+- pkg:maven/com.wavefront/proxy-test@999.2
+- pkg:maven/com.wavefront/proxy-test@999.2?classifier=sources
+- pkg:maven/com.wavefront/proxy-test@999.3
+- pkg:maven/com.wavefront/proxy-test@999.3?classifier=sources
+- pkg:maven/com.wavefront/proxy-test@999.4
+- pkg:maven/com.wavefront/proxy-test@999.4?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.github.aquality-automation/aquality-appium-mobile@2.1.0?classifier=sources
 - pkg:maven/com.github.aquality-automation/aquality-appium-mobile@2.2.0
 - pkg:maven/com.github.aquality-automation/aquality-appium-mobile@2.2.0?classifier=sources
+- pkg:maven/com.github.aquality-automation/aquality-appium-mobile@3.0.0-beta
+- pkg:maven/com.github.aquality-automation/aquality-appium-mobile@3.0.0-beta?classifier=sources

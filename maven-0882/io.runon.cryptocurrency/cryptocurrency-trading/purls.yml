@@ -1,0 +1,2 @@
+- pkg:maven/io.runon.cryptocurrency/cryptocurrency-trading@0.0.9
+- pkg:maven/io.runon.cryptocurrency/cryptocurrency-trading@0.0.9?classifier=sources

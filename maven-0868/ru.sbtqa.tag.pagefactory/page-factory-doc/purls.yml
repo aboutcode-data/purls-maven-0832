@@ -164,6 +164,8 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@16.4.4?type=zip
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@16.4.5?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@16.4.5?type=zip
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@16.5.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@16.5.0?type=zip
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@4.9.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@4.9.0?type=zip
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@7.3.1?classifier=sources

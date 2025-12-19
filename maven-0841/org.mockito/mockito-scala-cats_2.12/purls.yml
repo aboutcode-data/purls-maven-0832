@@ -104,6 +104,9 @@
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.16.49?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.16.55?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.17.0?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.17.3?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.17.4?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-cats_2.12@1.17.5?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.4.1
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.4.1?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-cats_2.12@1.4.2

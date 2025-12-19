@@ -12,3 +12,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.db@5.25.6?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.db@5.25.7
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.db@5.25.7?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.db@5.25.8
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.db@5.25.8?classifier=sources

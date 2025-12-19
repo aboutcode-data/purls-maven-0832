@@ -7,3 +7,6 @@
 - pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.0.0-b07?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.0.0-b08?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.0.0-b09?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.0.0-rc01?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.0.0-rc02?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.0.0?classifier=sources

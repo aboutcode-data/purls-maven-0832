@@ -11,3 +11,4 @@
 - pkg:maven/com.avanza.astrix/astrix-test-support@1.0.7
 - pkg:maven/com.avanza.astrix/astrix-test-support@1.0.8
 - pkg:maven/com.avanza.astrix/astrix-test-support@1.0.9
+- pkg:maven/com.avanza.astrix/astrix-test-support@2.0.0

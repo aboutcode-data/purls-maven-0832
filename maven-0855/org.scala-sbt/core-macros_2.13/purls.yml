@@ -56,3 +56,5 @@
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.6.0?classifier=sources
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.6.1
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.6.1?classifier=sources
+- pkg:maven/org.scala-sbt/core-macros_2.13@1.6.2
+- pkg:maven/org.scala-sbt/core-macros_2.13@1.6.2?classifier=sources

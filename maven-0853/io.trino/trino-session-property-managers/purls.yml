@@ -17,3 +17,8 @@
 - pkg:maven/io.trino/trino-session-property-managers@367?classifier=sources
 - pkg:maven/io.trino/trino-session-property-managers@368?classifier=sources
 - pkg:maven/io.trino/trino-session-property-managers@369?classifier=sources
+- pkg:maven/io.trino/trino-session-property-managers@370?classifier=sources
+- pkg:maven/io.trino/trino-session-property-managers@371?classifier=sources
+- pkg:maven/io.trino/trino-session-property-managers@372?classifier=sources
+- pkg:maven/io.trino/trino-session-property-managers@373?classifier=sources
+- pkg:maven/io.trino/trino-session-property-managers@374?classifier=sources

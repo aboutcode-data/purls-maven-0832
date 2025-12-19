@@ -346,6 +346,14 @@
 - pkg:maven/com.palantir.baseline/gradle-junit-reports@4.64.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-junit-reports@4.65.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-junit-reports@4.66.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@4.67.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@4.68.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@4.69.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-junit-reports@4.7.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@4.70.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@4.71.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@4.72.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@4.73.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-junit-reports@4.74.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-junit-reports@4.8.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-junit-reports@4.9.0?classifier=sources

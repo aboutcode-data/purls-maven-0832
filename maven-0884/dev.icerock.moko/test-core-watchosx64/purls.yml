@@ -1,0 +1,2 @@
+- pkg:maven/dev.icerock.moko/test-core-watchosx64@0.6.0?classifier=sources
+- pkg:maven/dev.icerock.moko/test-core-watchosx64@0.6.1?classifier=sources

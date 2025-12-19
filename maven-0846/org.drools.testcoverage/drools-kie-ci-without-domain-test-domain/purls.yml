@@ -212,6 +212,12 @@
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.63.0.t20211129?classifier=sources
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.64.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.64.0.Final?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.65.0.Final
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.65.0.Final?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.66.0.Final
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.66.0.Final?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.67.0.Final
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.67.0.Final?classifier=sources
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.7.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.7.0.Final?classifier=sources
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@7.8.0.Final
@@ -228,3 +234,11 @@
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.15.0.Beta?classifier=sources
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.16.0.Beta
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.16.0.Beta?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.16.1.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.16.1.Beta?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.17.0.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.17.0.Beta?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.18.0.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.18.0.Beta?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.19.0.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.19.0.Beta?classifier=sources

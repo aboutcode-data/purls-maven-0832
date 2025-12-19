@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/alibabacloud-amqp_open20191212@1.0.0
+- pkg:maven/com.aliyun/alibabacloud-amqp_open20191212@1.0.0?classifier=sources

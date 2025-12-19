@@ -55,3 +55,4 @@
 - pkg:maven/com.netflix.nebula/gradle-java-cross-compile-plugin@5.0.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-java-cross-compile-plugin@6.0.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-java-cross-compile-plugin@6.1.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-java-cross-compile-plugin@6.2.0?classifier=sources

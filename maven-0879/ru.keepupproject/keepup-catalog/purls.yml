@@ -1,0 +1,2 @@
+- pkg:maven/ru.keepupproject/keepup-catalog@2.0.0-alpha?classifier=sources
+- pkg:maven/ru.keepupproject/keepup-catalog@2.0.0-beta-1?classifier=sources

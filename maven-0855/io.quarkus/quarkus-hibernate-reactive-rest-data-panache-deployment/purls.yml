@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-hibernate-reactive-rest-data-panache-deployment@2.8.0.CR1
+- pkg:maven/io.quarkus/quarkus-hibernate-reactive-rest-data-panache-deployment@2.8.0.CR1?classifier=sources

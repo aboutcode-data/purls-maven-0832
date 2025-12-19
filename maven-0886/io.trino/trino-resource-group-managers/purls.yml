@@ -17,3 +17,8 @@
 - pkg:maven/io.trino/trino-resource-group-managers@367?classifier=sources
 - pkg:maven/io.trino/trino-resource-group-managers@368?classifier=sources
 - pkg:maven/io.trino/trino-resource-group-managers@369?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@370?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@371?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@372?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@373?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@374?classifier=sources

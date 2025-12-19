@@ -1,1 +1,2 @@
 - pkg:maven/io.javalin/javalin-osgi@3.13.12
+- pkg:maven/io.javalin/javalin-osgi@3.13.13

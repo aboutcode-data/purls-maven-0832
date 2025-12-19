@@ -6,3 +6,5 @@
 - pkg:maven/io.fabric8/volcano-model-v1beta1@5.11.2?classifier=sources
 - pkg:maven/io.fabric8/volcano-model-v1beta1@5.12.0
 - pkg:maven/io.fabric8/volcano-model-v1beta1@5.12.0?classifier=sources
+- pkg:maven/io.fabric8/volcano-model-v1beta1@5.12.1
+- pkg:maven/io.fabric8/volcano-model-v1beta1@5.12.1?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/nl.vpro.media/media-tva@5.26.0?classifier=sources
 - pkg:maven/nl.vpro.media/media-tva@5.27.2
 - pkg:maven/nl.vpro.media/media-tva@5.27.2?classifier=sources
+- pkg:maven/nl.vpro.media/media-tva@5.27.4
+- pkg:maven/nl.vpro.media/media-tva@5.27.4?classifier=sources
 - pkg:maven/nl.vpro.media/media-tva@5.29.0
 - pkg:maven/nl.vpro.media/media-tva@5.29.0?classifier=sources
 - pkg:maven/nl.vpro.media/media-tva@5.30

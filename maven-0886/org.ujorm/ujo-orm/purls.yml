@@ -133,3 +133,7 @@
 - pkg:maven/org.ujorm/ujo-orm@2.18?classifier=sources
 - pkg:maven/org.ujorm/ujo-orm@2.20
 - pkg:maven/org.ujorm/ujo-orm@2.20?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@2.21
+- pkg:maven/org.ujorm/ujo-orm@2.21?classifier=sources
+- pkg:maven/org.ujorm/ujo-orm@2.22
+- pkg:maven/org.ujorm/ujo-orm@2.22?classifier=sources

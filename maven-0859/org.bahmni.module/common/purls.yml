@@ -1,2 +1,6 @@
 - pkg:maven/org.bahmni.module/common@0.94.0
 - pkg:maven/org.bahmni.module/common@0.94.0?classifier=sources
+- pkg:maven/org.bahmni.module/common@0.94.1
+- pkg:maven/org.bahmni.module/common@0.94.1?classifier=sources
+- pkg:maven/org.bahmni.module/common@0.94.2
+- pkg:maven/org.bahmni.module/common@0.94.2?classifier=sources

@@ -12,6 +12,8 @@
 - pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@10.0.6?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@10.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@10.0.7?type=war
+- pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@10.0.8?classifier=sources
+- pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@10.0.8?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@11.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@11.0.1?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@11.0.2?classifier=sources
@@ -26,3 +28,5 @@
 - pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@11.0.6?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@11.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@11.0.7?type=war
+- pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@11.0.8?classifier=sources
+- pkg:maven/org.eclipse.jetty.demos/demo-jsp-webapp@11.0.8?type=war

@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ant@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ant@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ant@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ant@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner-ant@RELEASE90?classifier=sources

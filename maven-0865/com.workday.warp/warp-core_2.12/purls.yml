@@ -101,3 +101,5 @@
 - pkg:maven/com.workday.warp/warp-core_2.12@6.4.2?classifier=sources
 - pkg:maven/com.workday.warp/warp-core_2.12@6.4.3
 - pkg:maven/com.workday.warp/warp-core_2.12@6.4.3?classifier=sources
+- pkg:maven/com.workday.warp/warp-core_2.12@6.4.4
+- pkg:maven/com.workday.warp/warp-core_2.12@6.4.4?classifier=sources

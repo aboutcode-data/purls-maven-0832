@@ -1,0 +1,2 @@
+- pkg:maven/org.korz/log4j2-clogger-pattern@1.0.0
+- pkg:maven/org.korz/log4j2-clogger-pattern@1.0.0?classifier=sources

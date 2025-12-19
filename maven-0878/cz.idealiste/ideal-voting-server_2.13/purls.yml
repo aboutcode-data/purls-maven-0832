@@ -1,3 +1,21 @@
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.10
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.10?classifier=sources
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.11
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.11?classifier=sources
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.12
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.12?classifier=sources
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.13
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.13?classifier=sources
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.14
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.14?classifier=sources
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.15
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.15?classifier=sources
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.16
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.16?classifier=sources
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.17
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.17?classifier=sources
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.18
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.18?classifier=sources
 - pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.5
 - pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.5?classifier=sources
 - pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.6
@@ -6,3 +24,5 @@
 - pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.7?classifier=sources
 - pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.8
 - pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.8?classifier=sources
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.9
+- pkg:maven/cz.idealiste/ideal-voting-server_2.13@0.0.9?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/me.dehasi/zeliba@2020.02.06?classifier=sources
 - pkg:maven/me.dehasi/zeliba@2020.02.21
 - pkg:maven/me.dehasi/zeliba@2020.02.21?classifier=sources
 - pkg:maven/me.dehasi/zeliba@2020.02.25
@@ -8,3 +9,6 @@
 - pkg:maven/me.dehasi/zeliba@2021.06.19?classifier=sources
 - pkg:maven/me.dehasi/zeliba@2021.06.22
 - pkg:maven/me.dehasi/zeliba@2021.06.22?classifier=sources
+- pkg:maven/me.dehasi/zeliba@2022.02.02?classifier=sources
+- pkg:maven/me.dehasi/zeliba@2022.02.07?classifier=sources
+- pkg:maven/me.dehasi/zeliba@2022.02.08?classifier=sources

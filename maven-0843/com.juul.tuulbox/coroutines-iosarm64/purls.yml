@@ -8,3 +8,4 @@
 - pkg:maven/com.juul.tuulbox/coroutines-iosarm64@4.8.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/coroutines-iosarm64@5.0.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/coroutines-iosarm64@5.1.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/coroutines-iosarm64@6.0.0?classifier=sources

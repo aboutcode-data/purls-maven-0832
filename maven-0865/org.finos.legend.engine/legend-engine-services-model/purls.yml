@@ -12,3 +12,13 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.54.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.55.0
 - pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.55.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.56.0
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.56.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.57.0
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.57.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.58.0
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.58.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.58.1
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.58.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.59.0
+- pkg:maven/org.finos.legend.engine/legend-engine-services-model@2.59.0?classifier=sources

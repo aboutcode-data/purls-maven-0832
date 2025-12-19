@@ -2,3 +2,9 @@
 - pkg:maven/io.github.aemmie/utils@0.01?classifier=sources
 - pkg:maven/io.github.aemmie/utils@0.02
 - pkg:maven/io.github.aemmie/utils@0.02?classifier=sources
+- pkg:maven/io.github.aemmie/utils@0.03
+- pkg:maven/io.github.aemmie/utils@0.03?classifier=sources
+- pkg:maven/io.github.aemmie/utils@0.04
+- pkg:maven/io.github.aemmie/utils@0.04?classifier=sources
+- pkg:maven/io.github.aemmie/utils@0.05
+- pkg:maven/io.github.aemmie/utils@0.05?classifier=sources

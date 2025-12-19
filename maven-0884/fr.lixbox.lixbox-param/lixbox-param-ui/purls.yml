@@ -1,5 +1,10 @@
 - pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.14?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.16?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.18?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.19?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.20?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.21?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.24?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.2?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.3?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-param/lixbox-param-ui@11.1.2.4?classifier=sources

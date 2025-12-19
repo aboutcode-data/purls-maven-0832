@@ -1,0 +1,2 @@
+- pkg:maven/io.atlasmap/atlas-kafka-connect-core@2.4.0-M.4
+- pkg:maven/io.atlasmap/atlas-kafka-connect-core@2.4.0-M.4?classifier=sources

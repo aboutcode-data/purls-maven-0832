@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.resteasy/spring-boot-sample-app@6.0.0.Alpha1
+- pkg:maven/org.jboss.resteasy/spring-boot-sample-app@6.0.0.Alpha1?classifier=sources

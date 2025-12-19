@@ -8,3 +8,5 @@
 - pkg:maven/org.sonatype.sisu.goodies/goodies-testsupport@1.13?classifier=sources
 - pkg:maven/org.sonatype.sisu.goodies/goodies-testsupport@1.14
 - pkg:maven/org.sonatype.sisu.goodies/goodies-testsupport@1.14?classifier=sources
+- pkg:maven/org.sonatype.sisu.goodies/goodies-testsupport@1.15
+- pkg:maven/org.sonatype.sisu.goodies/goodies-testsupport@1.15?classifier=sources

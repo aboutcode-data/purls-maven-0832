@@ -1,0 +1,2 @@
+- pkg:maven/net.sansa-stack.thirdparty.it.unibz.inf.ontop/ontop-rdb@4.3.0-1
+- pkg:maven/net.sansa-stack.thirdparty.it.unibz.inf.ontop/ontop-rdb@4.3.0-1?classifier=sources

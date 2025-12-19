@@ -48,3 +48,5 @@
 - pkg:maven/org.modelmapper/modelmapper-examples@2.4.5?classifier=sources
 - pkg:maven/org.modelmapper/modelmapper-examples@3.0.0
 - pkg:maven/org.modelmapper/modelmapper-examples@3.0.0?classifier=sources
+- pkg:maven/org.modelmapper/modelmapper-examples@3.1.0
+- pkg:maven/org.modelmapper/modelmapper-examples@3.1.0?classifier=sources

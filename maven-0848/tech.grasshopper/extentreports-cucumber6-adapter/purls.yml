@@ -8,6 +8,8 @@
 - pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.0.0?classifier=sources
 - pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.1.0
 - pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.1.0?classifier=sources
+- pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.10.0
+- pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.10.0?classifier=sources
 - pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.2.0
 - pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.2.0?classifier=sources
 - pkg:maven/tech.grasshopper/extentreports-cucumber6-adapter@2.3.0

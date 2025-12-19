@@ -8,6 +8,8 @@
 - pkg:maven/com.github.anylogic/alogic-rpc@1.6.13?classifier=sources
 - pkg:maven/com.github.anylogic/alogic-rpc@1.6.14
 - pkg:maven/com.github.anylogic/alogic-rpc@1.6.14?classifier=sources
+- pkg:maven/com.github.anylogic/alogic-rpc@1.6.15
+- pkg:maven/com.github.anylogic/alogic-rpc@1.6.15?classifier=sources
 - pkg:maven/com.github.anylogic/alogic-rpc@1.6.7
 - pkg:maven/com.github.anylogic/alogic-rpc@1.6.7?classifier=sources
 - pkg:maven/com.github.anylogic/alogic-rpc@1.6.8

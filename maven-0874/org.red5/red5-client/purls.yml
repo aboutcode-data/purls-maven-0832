@@ -99,6 +99,10 @@
 - pkg:maven/org.red5/red5-client@1.2.11?classifier=sources
 - pkg:maven/org.red5/red5-client@1.2.12
 - pkg:maven/org.red5/red5-client@1.2.12?classifier=sources
+- pkg:maven/org.red5/red5-client@1.2.14
+- pkg:maven/org.red5/red5-client@1.2.14?classifier=sources
+- pkg:maven/org.red5/red5-client@1.2.16
+- pkg:maven/org.red5/red5-client@1.2.16?classifier=sources
 - pkg:maven/org.red5/red5-client@1.2.1?classifier=sources
 - pkg:maven/org.red5/red5-client@1.2.2
 - pkg:maven/org.red5/red5-client@1.2.2?classifier=sources

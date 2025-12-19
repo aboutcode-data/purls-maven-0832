@@ -1,0 +1,2 @@
+- pkg:maven/eu.hansolo.fx/dotmatrix@17.0.0?classifier=sources
+- pkg:maven/eu.hansolo.fx/dotmatrix@17.0.1?classifier=sources

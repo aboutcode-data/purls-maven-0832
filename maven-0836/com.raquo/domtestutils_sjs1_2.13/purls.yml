@@ -28,3 +28,5 @@
 - pkg:maven/com.raquo/domtestutils_sjs1_2.13@0.15.1?classifier=sources
 - pkg:maven/com.raquo/domtestutils_sjs1_2.13@0.16.0-RC1
 - pkg:maven/com.raquo/domtestutils_sjs1_2.13@0.16.0-RC1?classifier=sources
+- pkg:maven/com.raquo/domtestutils_sjs1_2.13@0.16.0-RC2
+- pkg:maven/com.raquo/domtestutils_sjs1_2.13@0.16.0-RC2?classifier=sources

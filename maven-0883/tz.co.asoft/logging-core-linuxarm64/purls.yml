@@ -12,3 +12,4 @@
 - pkg:maven/tz.co.asoft/logging-core-linuxarm64@1.4.50?classifier=sources
 - pkg:maven/tz.co.asoft/logging-core-linuxarm64@1.4.60?classifier=sources
 - pkg:maven/tz.co.asoft/logging-core-linuxarm64@1.4.61?classifier=sources
+- pkg:maven/tz.co.asoft/logging-core-linuxarm64@1.4.62?classifier=sources

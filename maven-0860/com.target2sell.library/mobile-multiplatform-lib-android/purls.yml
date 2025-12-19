@@ -1,1 +1,2 @@
 - pkg:maven/com.target2sell.library/mobile-multiplatform-lib-android@0.0.2?classifier=sources
+- pkg:maven/com.target2sell.library/mobile-multiplatform-lib-android@0.0.3?classifier=sources

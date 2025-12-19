@@ -78,3 +78,5 @@
 - pkg:maven/org.clojure/core.logic@0.8.9?classifier=sources
 - pkg:maven/org.clojure/core.logic@1.0.0
 - pkg:maven/org.clojure/core.logic@1.0.0?classifier=sources
+- pkg:maven/org.clojure/core.logic@1.0.1
+- pkg:maven/org.clojure/core.logic@1.0.1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-mock@21.06.2
 - pkg:maven/com.oracle.coherence.ce/coherence-mock@21.12
 - pkg:maven/com.oracle.coherence.ce/coherence-mock@21.12.1
+- pkg:maven/com.oracle.coherence.ce/coherence-mock@21.12.2
+- pkg:maven/com.oracle.coherence.ce/coherence-mock@21.12.3

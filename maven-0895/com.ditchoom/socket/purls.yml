@@ -11,6 +11,7 @@
 - pkg:maven/com.ditchoom/socket@1.0.34?classifier=sources
 - pkg:maven/com.ditchoom/socket@1.0.35?classifier=sources
 - pkg:maven/com.ditchoom/socket@1.0.36?classifier=sources
+- pkg:maven/com.ditchoom/socket@1.0.37?classifier=sources
 - pkg:maven/com.ditchoom/socket@1.0.3?classifier=sources
 - pkg:maven/com.ditchoom/socket@1.0.4?classifier=sources
 - pkg:maven/com.ditchoom/socket@1.0.7?classifier=sources

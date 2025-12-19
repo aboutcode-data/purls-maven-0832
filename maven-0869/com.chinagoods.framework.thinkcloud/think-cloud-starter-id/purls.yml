@@ -1,2 +1,6 @@
 - pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-id@2.0.1.RELEASE
 - pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-id@2.0.1.RELEASE?classifier=sources
+- pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-id@3.0.1.RELEASE
+- pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-id@3.0.1.RELEASE?classifier=sources
+- pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-id@3.0.2.RELEASE
+- pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-id@3.0.2.RELEASE?classifier=sources

@@ -46,6 +46,12 @@
 - pkg:maven/io.mongock/mongock-standalone@5.0.34?classifier=sources
 - pkg:maven/io.mongock/mongock-standalone@5.0.35
 - pkg:maven/io.mongock/mongock-standalone@5.0.35?classifier=sources
+- pkg:maven/io.mongock/mongock-standalone@5.0.36
+- pkg:maven/io.mongock/mongock-standalone@5.0.36?classifier=sources
+- pkg:maven/io.mongock/mongock-standalone@5.0.37
+- pkg:maven/io.mongock/mongock-standalone@5.0.37?classifier=sources
+- pkg:maven/io.mongock/mongock-standalone@5.0.38
+- pkg:maven/io.mongock/mongock-standalone@5.0.38?classifier=sources
 - pkg:maven/io.mongock/mongock-standalone@5.0.4.BETA
 - pkg:maven/io.mongock/mongock-standalone@5.0.4.BETA?classifier=sources
 - pkg:maven/io.mongock/mongock-standalone@5.0.5.BETA

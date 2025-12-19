@@ -34,3 +34,7 @@
 - pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.4.3?classifier=sources
 - pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.4.4
 - pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.4.4?classifier=sources
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.4.5
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.4.5?classifier=sources
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.4.6
+- pkg:maven/edu.wisc.library.ocfl/ocfl-java-core@1.4.6?classifier=sources

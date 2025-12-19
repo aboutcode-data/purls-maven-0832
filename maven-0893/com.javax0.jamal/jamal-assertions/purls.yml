@@ -8,6 +8,10 @@
 - pkg:maven/com.javax0.jamal/jamal-assertions@1.10.3?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-assertions@1.10.4
 - pkg:maven/com.javax0.jamal/jamal-assertions@1.10.4?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-assertions@1.11.0
+- pkg:maven/com.javax0.jamal/jamal-assertions@1.11.0?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-assertions@1.11.1
+- pkg:maven/com.javax0.jamal/jamal-assertions@1.11.1?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-assertions@1.8.0
 - pkg:maven/com.javax0.jamal/jamal-assertions@1.8.0?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-assertions@1.9.0

@@ -22,3 +22,5 @@
 - pkg:maven/net.ymate.platform/ymate-platform-webmvc@2.0.8?classifier=sources
 - pkg:maven/net.ymate.platform/ymate-platform-webmvc@2.0.9
 - pkg:maven/net.ymate.platform/ymate-platform-webmvc@2.0.9?classifier=sources
+- pkg:maven/net.ymate.platform/ymate-platform-webmvc@2.1.0
+- pkg:maven/net.ymate.platform/ymate-platform-webmvc@2.1.0?classifier=sources

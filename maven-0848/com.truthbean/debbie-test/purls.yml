@@ -2,3 +2,4 @@
 - pkg:maven/com.truthbean/debbie-test@0.5.1-RELEASE?classifier=sources
 - pkg:maven/com.truthbean/debbie-test@0.5.2-RELEASE?classifier=sources
 - pkg:maven/com.truthbean/debbie-test@0.5.3-RELEASE?classifier=sources
+- pkg:maven/com.truthbean/debbie-test@0.5.4-RELEASE?classifier=sources

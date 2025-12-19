@@ -2,6 +2,14 @@
 - pkg:maven/org.webjars.npm/fundamental-styles@0.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/fundamental-styles@0.20.3
 - pkg:maven/org.webjars.npm/fundamental-styles@0.20.3?classifier=sources
+- pkg:maven/org.webjars.npm/fundamental-styles@0.21.0
+- pkg:maven/org.webjars.npm/fundamental-styles@0.21.0?classifier=sources
+- pkg:maven/org.webjars.npm/fundamental-styles@0.21.1
+- pkg:maven/org.webjars.npm/fundamental-styles@0.21.1?classifier=sources
+- pkg:maven/org.webjars.npm/fundamental-styles@0.22.0
+- pkg:maven/org.webjars.npm/fundamental-styles@0.22.0?classifier=sources
+- pkg:maven/org.webjars.npm/fundamental-styles@0.23.0
+- pkg:maven/org.webjars.npm/fundamental-styles@0.23.0?classifier=sources
 - pkg:maven/org.webjars.npm/fundamental-styles@0.3.0
 - pkg:maven/org.webjars.npm/fundamental-styles@0.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/fundamental-styles@0.6.0

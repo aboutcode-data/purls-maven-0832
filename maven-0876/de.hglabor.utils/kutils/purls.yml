@@ -2,6 +2,9 @@
 - pkg:maven/de.hglabor.utils/kutils@0.0.12?classifier=sources
 - pkg:maven/de.hglabor.utils/kutils@0.0.14?classifier=sources
 - pkg:maven/de.hglabor.utils/kutils@0.0.15?classifier=sources
+- pkg:maven/de.hglabor.utils/kutils@0.0.17?classifier=sources
+- pkg:maven/de.hglabor.utils/kutils@0.0.18?classifier=sources
+- pkg:maven/de.hglabor.utils/kutils@0.0.19?classifier=sources
 - pkg:maven/de.hglabor.utils/kutils@0.0.1?classifier=sources
 - pkg:maven/de.hglabor.utils/kutils@0.0.2?classifier=sources
 - pkg:maven/de.hglabor.utils/kutils@0.0.3?classifier=sources

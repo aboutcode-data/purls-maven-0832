@@ -11,3 +11,4 @@
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk@7.72.0?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk@7.73.0?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk@7.74.0?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk@7.76.0?classifier=sources

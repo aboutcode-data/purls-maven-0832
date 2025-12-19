@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/algolia__client-account@4.12.1
+- pkg:maven/org.webjars.npm/algolia__client-account@4.12.1?classifier=sources

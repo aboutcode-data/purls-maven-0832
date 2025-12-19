@@ -14,3 +14,5 @@
 - pkg:maven/io.kotest/kotest-framework-concurrency-js@5.0.2?classifier=sources
 - pkg:maven/io.kotest/kotest-framework-concurrency-js@5.0.3?classifier=sources
 - pkg:maven/io.kotest/kotest-framework-concurrency-js@5.1.0?classifier=sources
+- pkg:maven/io.kotest/kotest-framework-concurrency-js@5.2.0?classifier=sources
+- pkg:maven/io.kotest/kotest-framework-concurrency-js@5.2.1?classifier=sources

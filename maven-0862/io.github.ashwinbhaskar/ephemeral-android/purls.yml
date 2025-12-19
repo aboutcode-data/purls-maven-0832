@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ashwinbhaskar/ephemeral-android@0.1.0?classifier=sources
+- pkg:maven/io.github.ashwinbhaskar/ephemeral-android@1.0.0?classifier=sources

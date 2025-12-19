@@ -340,6 +340,10 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.16.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.16.3
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.16.3?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.17.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.17.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.17.1
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.17.1?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.2.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.2.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-testkit_2.12@7.3.0

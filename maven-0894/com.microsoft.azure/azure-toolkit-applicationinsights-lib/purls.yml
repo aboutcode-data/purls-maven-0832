@@ -18,6 +18,10 @@
 - pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.15.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.16.0
 - pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.16.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.17.0
+- pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.17.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.17.1
+- pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.17.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.7.0
 - pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.7.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-applicationinsights-lib@0.7.1

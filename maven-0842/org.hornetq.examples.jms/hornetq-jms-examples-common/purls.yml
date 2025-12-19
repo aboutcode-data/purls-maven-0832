@@ -46,5 +46,7 @@
 - pkg:maven/org.hornetq.examples.jms/hornetq-jms-examples-common@2.4.6.Final?classifier=sources
 - pkg:maven/org.hornetq.examples.jms/hornetq-jms-examples-common@2.4.7.Final
 - pkg:maven/org.hornetq.examples.jms/hornetq-jms-examples-common@2.4.7.Final?classifier=sources
+- pkg:maven/org.hornetq.examples.jms/hornetq-jms-examples-common@2.4.9.Final
+- pkg:maven/org.hornetq.examples.jms/hornetq-jms-examples-common@2.4.9.Final?classifier=sources
 - pkg:maven/org.hornetq.examples.jms/hornetq-jms-examples-common@2.5.0.Beta1
 - pkg:maven/org.hornetq.examples.jms/hornetq-jms-examples-common@2.5.0.Beta1?classifier=sources

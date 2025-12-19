@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cb372/scala-typed-holes_2.13.7@0.1.11
+- pkg:maven/com.github.cb372/scala-typed-holes_2.13.7@0.1.11?classifier=sources

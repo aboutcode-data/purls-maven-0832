@@ -9,3 +9,4 @@
 - pkg:maven/org.anasoid.jmc/jmc-test@v0.6.2?classifier=sources
 - pkg:maven/org.anasoid.jmc/jmc-test@v0.6.3?classifier=sources
 - pkg:maven/org.anasoid.jmc/jmc-test@v0.6.4?classifier=sources
+- pkg:maven/org.anasoid.jmc/jmc-test@v0.6.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.runon.trading/trading-data@0.0.9
+- pkg:maven/io.runon.trading/trading-data@0.0.9?classifier=sources
+- pkg:maven/io.runon.trading/trading-data@0.1.0
+- pkg:maven/io.runon.trading/trading-data@0.1.0?classifier=sources

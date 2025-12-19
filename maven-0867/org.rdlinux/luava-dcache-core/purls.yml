@@ -2,3 +2,7 @@
 - pkg:maven/org.rdlinux/luava-dcache-core@0.0.1.RS?classifier=sources
 - pkg:maven/org.rdlinux/luava-dcache-core@0.0.2.RS
 - pkg:maven/org.rdlinux/luava-dcache-core@0.0.2.RS?classifier=sources
+- pkg:maven/org.rdlinux/luava-dcache-core@0.0.3.RS
+- pkg:maven/org.rdlinux/luava-dcache-core@0.0.3.RS?classifier=sources
+- pkg:maven/org.rdlinux/luava-dcache-core@0.0.4.RS
+- pkg:maven/org.rdlinux/luava-dcache-core@0.0.4.RS?classifier=sources

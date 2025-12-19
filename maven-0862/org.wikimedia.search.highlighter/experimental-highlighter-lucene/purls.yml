@@ -100,5 +100,7 @@
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-lucene@6.5.4?classifier=sources
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-lucene@6.8.23
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-lucene@6.8.23?classifier=sources
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-lucene@7.10.2
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-lucene@7.10.2?classifier=sources
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-lucene@7.5.1
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-lucene@7.5.1?classifier=sources

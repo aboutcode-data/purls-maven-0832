@@ -109,6 +109,8 @@
 - pkg:maven/com.vaadin/vaadin-platform-javadoc@14.8.1
 - pkg:maven/com.vaadin/vaadin-platform-javadoc@14.8.2
 - pkg:maven/com.vaadin/vaadin-platform-javadoc@14.8.3
+- pkg:maven/com.vaadin/vaadin-platform-javadoc@14.8.4
+- pkg:maven/com.vaadin/vaadin-platform-javadoc@14.8.5
 - pkg:maven/com.vaadin/vaadin-platform-javadoc@15.0.0
 - pkg:maven/com.vaadin/vaadin-platform-javadoc@15.0.1
 - pkg:maven/com.vaadin/vaadin-platform-javadoc@15.0.2
@@ -175,3 +177,7 @@
 - pkg:maven/com.vaadin/vaadin-platform-javadoc@22.0.2
 - pkg:maven/com.vaadin/vaadin-platform-javadoc@22.0.3
 - pkg:maven/com.vaadin/vaadin-platform-javadoc@22.0.4
+- pkg:maven/com.vaadin/vaadin-platform-javadoc@22.0.5
+- pkg:maven/com.vaadin/vaadin-platform-javadoc@22.0.6
+- pkg:maven/com.vaadin/vaadin-platform-javadoc@22.0.7
+- pkg:maven/com.vaadin/vaadin-platform-javadoc@23.0.0

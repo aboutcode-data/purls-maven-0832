@@ -11,6 +11,7 @@
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.0.40.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.0.41.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.0.42.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_pluginx@7.0.43.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.0.50.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.0.51.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.0.52.1?type=aar
@@ -20,6 +21,11 @@
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.2.1.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.2.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_pluginx@7.2.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.3.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_pluginx@7.4.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_pluginx@7.4.11.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_pluginx@7.4.21.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_pluginx@7.4.30.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_pluginx@7.5.0.1?type=aar

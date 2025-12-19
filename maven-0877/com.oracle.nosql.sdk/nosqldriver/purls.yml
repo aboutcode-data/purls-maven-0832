@@ -6,3 +6,5 @@
 - pkg:maven/com.oracle.nosql.sdk/nosqldriver@5.2.27?classifier=sources
 - pkg:maven/com.oracle.nosql.sdk/nosqldriver@5.2.29
 - pkg:maven/com.oracle.nosql.sdk/nosqldriver@5.2.29?classifier=sources
+- pkg:maven/com.oracle.nosql.sdk/nosqldriver@5.3.1
+- pkg:maven/com.oracle.nosql.sdk/nosqldriver@5.3.1?classifier=sources

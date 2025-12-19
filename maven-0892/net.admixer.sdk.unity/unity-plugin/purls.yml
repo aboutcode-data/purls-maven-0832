@@ -1,3 +1,5 @@
 - pkg:maven/net.admixer.sdk.unity/unity-plugin@0.0.1?type=aar
 - pkg:maven/net.admixer.sdk.unity/unity-plugin@0.0.2?type=aar
 - pkg:maven/net.admixer.sdk.unity/unity-plugin@0.0.3?type=aar
+- pkg:maven/net.admixer.sdk.unity/unity-plugin@0.0.4?type=aar
+- pkg:maven/net.admixer.sdk.unity/unity-plugin@1.4.6.0?type=aar

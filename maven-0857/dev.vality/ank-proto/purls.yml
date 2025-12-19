@@ -1,2 +1,4 @@
 - pkg:maven/dev.vality/ank-proto@1.2-912e47a
 - pkg:maven/dev.vality/ank-proto@1.2-912e47a?classifier=sources
+- pkg:maven/dev.vality/ank-proto@1.3-0620a4d
+- pkg:maven/dev.vality/ank-proto@1.3-0620a4d?classifier=sources

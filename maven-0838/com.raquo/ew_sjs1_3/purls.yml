@@ -1,0 +1,2 @@
+- pkg:maven/com.raquo/ew_sjs1_3@0.1.0
+- pkg:maven/com.raquo/ew_sjs1_3@0.1.0?classifier=sources

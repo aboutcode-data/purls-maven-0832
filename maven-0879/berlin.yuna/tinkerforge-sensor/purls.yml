@@ -33,6 +33,8 @@
 - pkg:maven/berlin.yuna/tinkerforge-sensor@0.1.22?classifier=sources
 - pkg:maven/berlin.yuna/tinkerforge-sensor@0.1.23
 - pkg:maven/berlin.yuna/tinkerforge-sensor@0.1.23?classifier=sources
+- pkg:maven/berlin.yuna/tinkerforge-sensor@0.1.24
+- pkg:maven/berlin.yuna/tinkerforge-sensor@0.1.24?classifier=sources
 - pkg:maven/berlin.yuna/tinkerforge-sensor@0.1.2?classifier=sources
 - pkg:maven/berlin.yuna/tinkerforge-sensor@0.1.3
 - pkg:maven/berlin.yuna/tinkerforge-sensor@0.1.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.july-cloud/nacos-core@2.0.4
+- pkg:maven/com.july-cloud/nacos-core@2.0.41
+- pkg:maven/com.july-cloud/nacos-core@2.0.41?classifier=sources
+- pkg:maven/com.july-cloud/nacos-core@2.0.4?classifier=sources

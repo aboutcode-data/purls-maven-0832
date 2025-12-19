@@ -6,3 +6,7 @@
 - pkg:maven/tv.blademaker/slash@0.5.3?classifier=sources
 - pkg:maven/tv.blademaker/slash@0.6.0?classifier=sources
 - pkg:maven/tv.blademaker/slash@0.6.1?classifier=sources
+- pkg:maven/tv.blademaker/slash@0.6.3?classifier=sources
+- pkg:maven/tv.blademaker/slash@0.6.4?classifier=sources
+- pkg:maven/tv.blademaker/slash@0.7.1?classifier=sources
+- pkg:maven/tv.blademaker/slash@0.7.2?classifier=sources

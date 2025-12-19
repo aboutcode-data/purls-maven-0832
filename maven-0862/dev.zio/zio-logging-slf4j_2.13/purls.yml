@@ -64,3 +64,5 @@
 - pkg:maven/dev.zio/zio-logging-slf4j_2.13@2.0.0-RC2?classifier=sources
 - pkg:maven/dev.zio/zio-logging-slf4j_2.13@2.0.0-RC4
 - pkg:maven/dev.zio/zio-logging-slf4j_2.13@2.0.0-RC4?classifier=sources
+- pkg:maven/dev.zio/zio-logging-slf4j_2.13@2.0.0-RC5
+- pkg:maven/dev.zio/zio-logging-slf4j_2.13@2.0.0-RC5?classifier=sources

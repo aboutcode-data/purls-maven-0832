@@ -1,2 +1,3 @@
 - pkg:maven/ai.salmonbrain/ruleofthumb_2.3.0_2.11@0.0.3?classifier=sources
 - pkg:maven/ai.salmonbrain/ruleofthumb_2.3.0_2.11@0.0.4?classifier=sources
+- pkg:maven/ai.salmonbrain/ruleofthumb_2.3.0_2.11@0.0.5?classifier=sources

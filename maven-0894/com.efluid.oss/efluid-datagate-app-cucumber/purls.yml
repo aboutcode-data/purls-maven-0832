@@ -84,3 +84,4 @@
 - pkg:maven/com.efluid.oss/efluid-datagate-app-cucumber@4.1.0
 - pkg:maven/com.efluid.oss/efluid-datagate-app-cucumber@4.1.1
 - pkg:maven/com.efluid.oss/efluid-datagate-app-cucumber@4.1.2
+- pkg:maven/com.efluid.oss/efluid-datagate-app-cucumber@5.1.0

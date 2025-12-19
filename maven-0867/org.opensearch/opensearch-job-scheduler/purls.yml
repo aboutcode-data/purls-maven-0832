@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch/opensearch-job-scheduler@1.3.0.0?classifier=sources

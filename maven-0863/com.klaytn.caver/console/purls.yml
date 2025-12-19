@@ -121,7 +121,15 @@
 - pkg:maven/com.klaytn.caver/console@1.6.3-rc.6-android?classifier=sources
 - pkg:maven/com.klaytn.caver/console@1.6.3-rc.6?classifier=sources
 - pkg:maven/com.klaytn.caver/console@1.6.3?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.6.4-android?classifier=sources
 - pkg:maven/com.klaytn.caver/console@1.6.4-rc.1-android?classifier=sources
 - pkg:maven/com.klaytn.caver/console@1.6.4-rc.1?classifier=sources
 - pkg:maven/com.klaytn.caver/console@1.6.4-rc.2-android?classifier=sources
 - pkg:maven/com.klaytn.caver/console@1.6.4-rc.2?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.6.4-rc.3-android?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.6.4-rc.3?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.6.4?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.8.0-android?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.8.0-rc.1-android?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.8.0-rc.1?classifier=sources
+- pkg:maven/com.klaytn.caver/console@1.8.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/pl.fhframework.dp/fhdp-commons-jaxb@4.9.23
+- pkg:maven/pl.fhframework.dp/fhdp-commons-jaxb@4.9.23?classifier=sources
+- pkg:maven/pl.fhframework.dp/fhdp-commons-jaxb@4.9.24
+- pkg:maven/pl.fhframework.dp/fhdp-commons-jaxb@4.9.24?classifier=sources

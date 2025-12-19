@@ -1,0 +1,2 @@
+- pkg:maven/com.farao-community.farao/farao-core-cne-exporter@3.7.1
+- pkg:maven/com.farao-community.farao/farao-core-cne-exporter@3.7.1?classifier=sources

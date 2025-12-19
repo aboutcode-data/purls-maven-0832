@@ -1,0 +1,4 @@
+- pkg:maven/com.51degrees/pipeline.web.examples.shared@4.3.14
+- pkg:maven/com.51degrees/pipeline.web.examples.shared@4.3.14?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.examples.shared@4.3.16
+- pkg:maven/com.51degrees/pipeline.web.examples.shared@4.3.16?classifier=sources

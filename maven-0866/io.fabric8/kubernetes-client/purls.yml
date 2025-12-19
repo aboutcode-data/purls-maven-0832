@@ -486,6 +486,8 @@
 - pkg:maven/io.fabric8/kubernetes-client@5.11.2?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-client@5.12.0
 - pkg:maven/io.fabric8/kubernetes-client@5.12.0?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-client@5.12.1
+- pkg:maven/io.fabric8/kubernetes-client@5.12.1?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-client@5.2.0
 - pkg:maven/io.fabric8/kubernetes-client@5.2.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-client@5.2.1

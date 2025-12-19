@@ -1,2 +1,4 @@
 - pkg:maven/com.github.mkroli/dns4s-fs2_3@0.20.0
 - pkg:maven/com.github.mkroli/dns4s-fs2_3@0.20.0?classifier=sources
+- pkg:maven/com.github.mkroli/dns4s-fs2_3@0.21.0
+- pkg:maven/com.github.mkroli/dns4s-fs2_3@0.21.0?classifier=sources

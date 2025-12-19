@@ -188,6 +188,8 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-repository-sail@3.7.3?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-repository-sail@3.7.4
 - pkg:maven/org.eclipse.rdf4j/rdf4j-repository-sail@3.7.4?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-repository-sail@3.7.5
+- pkg:maven/org.eclipse.rdf4j/rdf4j-repository-sail@3.7.5?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-repository-sail@4.0.0-M1
 - pkg:maven/org.eclipse.rdf4j/rdf4j-repository-sail@4.0.0-M1?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-repository-sail@4.0.0-M2

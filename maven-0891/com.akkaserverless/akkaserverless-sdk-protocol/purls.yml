@@ -48,6 +48,8 @@
 - pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.7.4?type=zip
 - pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.0?classifier=sources
 - pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.0?type=zip
+- pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.10?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.10?type=zip
 - pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.1?classifier=sources
 - pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.1?type=zip
 - pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.2?classifier=sources
@@ -62,3 +64,7 @@
 - pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.6?type=zip
 - pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.7?classifier=sources
 - pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.7?type=zip
+- pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.8?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.8?type=zip
+- pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.9?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-sdk-protocol@0.8.9?type=zip

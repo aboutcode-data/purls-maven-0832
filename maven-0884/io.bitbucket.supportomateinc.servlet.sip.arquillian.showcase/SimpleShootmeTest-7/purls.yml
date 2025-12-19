@@ -1,0 +1,6 @@
+- pkg:maven/io.bitbucket.supportomateinc.servlet.sip.arquillian.showcase/SimpleShootmeTest-7@1.0.3
+- pkg:maven/io.bitbucket.supportomateinc.servlet.sip.arquillian.showcase/SimpleShootmeTest-7@1.0.3?classifier=sources
+- pkg:maven/io.bitbucket.supportomateinc.servlet.sip.arquillian.showcase/SimpleShootmeTest-7@1.0.4
+- pkg:maven/io.bitbucket.supportomateinc.servlet.sip.arquillian.showcase/SimpleShootmeTest-7@1.0.4?classifier=sources
+- pkg:maven/io.bitbucket.supportomateinc.servlet.sip.arquillian.showcase/SimpleShootmeTest-7@1.0.5
+- pkg:maven/io.bitbucket.supportomateinc.servlet.sip.arquillian.showcase/SimpleShootmeTest-7@1.0.5?classifier=sources

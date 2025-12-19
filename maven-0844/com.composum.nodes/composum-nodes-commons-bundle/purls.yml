@@ -27,3 +27,4 @@
 - pkg:maven/com.composum.nodes/composum-nodes-commons-bundle@3.3.0?classifier=sources
 - pkg:maven/com.composum.nodes/composum-nodes-commons-bundle@3.3.1?classifier=sources
 - pkg:maven/com.composum.nodes/composum-nodes-commons-bundle@4.0.0?classifier=sources
+- pkg:maven/com.composum.nodes/composum-nodes-commons-bundle@4.0.1?classifier=sources

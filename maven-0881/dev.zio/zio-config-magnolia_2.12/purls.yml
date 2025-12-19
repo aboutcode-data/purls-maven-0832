@@ -102,3 +102,5 @@
 - pkg:maven/dev.zio/zio-config-magnolia_2.12@2.0.0?classifier=sources
 - pkg:maven/dev.zio/zio-config-magnolia_2.12@3.0.0-RC1
 - pkg:maven/dev.zio/zio-config-magnolia_2.12@3.0.0-RC1?classifier=sources
+- pkg:maven/dev.zio/zio-config-magnolia_2.12@3.0.0-RC2
+- pkg:maven/dev.zio/zio-config-magnolia_2.12@3.0.0-RC2?classifier=sources
