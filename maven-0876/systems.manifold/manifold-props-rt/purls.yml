@@ -75,6 +75,16 @@
 - pkg:maven/systems.manifold/manifold-props-rt@2022.1.10?classifier=sources
 - pkg:maven/systems.manifold/manifold-props-rt@2022.1.11
 - pkg:maven/systems.manifold/manifold-props-rt@2022.1.11?classifier=sources
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.12
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.12?classifier=sources
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.13
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.13?classifier=sources
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.14
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.14?classifier=sources
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.15
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.15?classifier=sources
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.16
+- pkg:maven/systems.manifold/manifold-props-rt@2022.1.16?classifier=sources
 - pkg:maven/systems.manifold/manifold-props-rt@2022.1.1?classifier=sources
 - pkg:maven/systems.manifold/manifold-props-rt@2022.1.2
 - pkg:maven/systems.manifold/manifold-props-rt@2022.1.2?classifier=sources

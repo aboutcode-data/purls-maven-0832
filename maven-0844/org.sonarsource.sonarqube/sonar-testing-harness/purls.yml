@@ -203,3 +203,4 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@9.2.4.50792?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@9.3.0.51899?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@9.4.0.54424?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@9.5.0.56709?classifier=sources

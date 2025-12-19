@@ -6,3 +6,5 @@
 - pkg:maven/io.axway.alf/alf-benchmark@0.15.0?classifier=sources
 - pkg:maven/io.axway.alf/alf-benchmark@0.16.0
 - pkg:maven/io.axway.alf/alf-benchmark@0.16.0?classifier=sources
+- pkg:maven/io.axway.alf/alf-benchmark@0.17.0
+- pkg:maven/io.axway.alf/alf-benchmark@0.17.0?classifier=sources

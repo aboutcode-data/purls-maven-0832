@@ -25,3 +25,9 @@
 - pkg:maven/io.trino/trino-clickhouse@377?classifier=sources
 - pkg:maven/io.trino/trino-clickhouse@378?classifier=sources
 - pkg:maven/io.trino/trino-clickhouse@379?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@380?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@381?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@382?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@383?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@384?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@385?classifier=sources

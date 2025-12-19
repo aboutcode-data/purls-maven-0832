@@ -4,3 +4,6 @@
 - pkg:maven/org.drools.testcoverage/test-integration-notms@8.18.0.Beta
 - pkg:maven/org.drools.testcoverage/test-integration-notms@8.19.0.Beta
 - pkg:maven/org.drools.testcoverage/test-integration-notms@8.20.0.Beta
+- pkg:maven/org.drools.testcoverage/test-integration-notms@8.21.0.Beta
+- pkg:maven/org.drools.testcoverage/test-integration-notms@8.22.0.Beta
+- pkg:maven/org.drools.testcoverage/test-integration-notms@8.22.1.Beta

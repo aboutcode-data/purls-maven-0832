@@ -1,0 +1,6 @@
+- pkg:maven/party.iroiro/reactor-locks@0.1.0?classifier=sources
+- pkg:maven/party.iroiro/reactor-locks@0.2.0?classifier=sources
+- pkg:maven/party.iroiro/reactor-locks@0.3.0?classifier=sources
+- pkg:maven/party.iroiro/reactor-locks@0.4.0?classifier=sources
+- pkg:maven/party.iroiro/reactor-locks@0.4.1?classifier=sources
+- pkg:maven/party.iroiro/reactor-locks@1.0.0?classifier=sources

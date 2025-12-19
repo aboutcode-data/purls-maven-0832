@@ -6,6 +6,8 @@
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.12?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.13
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.13?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.14
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.14?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.3
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.3?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.4

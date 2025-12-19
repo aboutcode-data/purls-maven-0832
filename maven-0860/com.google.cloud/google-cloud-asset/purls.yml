@@ -212,3 +212,7 @@
 - pkg:maven/com.google.cloud/google-cloud-asset@3.2.8?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-asset@3.2.9
 - pkg:maven/com.google.cloud/google-cloud-asset@3.2.9?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-asset@3.3.0
+- pkg:maven/com.google.cloud/google-cloud-asset@3.3.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-asset@3.3.1
+- pkg:maven/com.google.cloud/google-cloud-asset@3.3.1?classifier=sources

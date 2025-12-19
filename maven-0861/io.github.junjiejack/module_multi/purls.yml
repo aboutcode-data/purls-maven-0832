@@ -1,0 +1,2 @@
+- pkg:maven/io.github.junjiejack/module_multi@0.0.2?classifier=sources
+- pkg:maven/io.github.junjiejack/module_multi@1.0.0?classifier=sources

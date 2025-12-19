@@ -1,3 +1,4 @@
+- pkg:maven/org.docbook/schemas-publishers@5.2CR1?classifier=sources
 - pkg:maven/org.docbook/schemas-publishers@5.2b10a4?classifier=sources
 - pkg:maven/org.docbook/schemas-publishers@5.2b10a5?classifier=sources
 - pkg:maven/org.docbook/schemas-publishers@5.2b11?classifier=sources

@@ -134,3 +134,7 @@
 - pkg:maven/com.hack23.cia/service.external.esv@2022.4.2?classifier=sources
 - pkg:maven/com.hack23.cia/service.external.esv@2022.4.9
 - pkg:maven/com.hack23.cia/service.external.esv@2022.4.9?classifier=sources
+- pkg:maven/com.hack23.cia/service.external.esv@2022.5.1
+- pkg:maven/com.hack23.cia/service.external.esv@2022.5.15
+- pkg:maven/com.hack23.cia/service.external.esv@2022.5.15?classifier=sources
+- pkg:maven/com.hack23.cia/service.external.esv@2022.5.1?classifier=sources

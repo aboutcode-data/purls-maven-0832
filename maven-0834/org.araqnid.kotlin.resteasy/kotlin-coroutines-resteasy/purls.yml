@@ -1,1 +1,2 @@
 - pkg:maven/org.araqnid.kotlin.resteasy/kotlin-coroutines-resteasy@1.4.4?classifier=sources
+- pkg:maven/org.araqnid.kotlin.resteasy/kotlin-coroutines-resteasy@1.5.0?classifier=sources

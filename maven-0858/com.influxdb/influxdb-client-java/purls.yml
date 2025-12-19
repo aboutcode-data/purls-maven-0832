@@ -62,3 +62,5 @@
 - pkg:maven/com.influxdb/influxdb-client-java@5.0.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-java@6.0.0
 - pkg:maven/com.influxdb/influxdb-client-java@6.0.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-java@6.1.0
+- pkg:maven/com.influxdb/influxdb-client-java@6.1.0?classifier=sources

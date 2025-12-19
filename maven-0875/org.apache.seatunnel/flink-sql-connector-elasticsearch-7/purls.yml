@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/flink-sql-connector-elasticsearch-7@2.1.2
+- pkg:maven/org.apache.seatunnel/flink-sql-connector-elasticsearch-7@2.1.2?classifier=sources

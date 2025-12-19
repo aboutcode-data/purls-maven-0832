@@ -39,3 +39,5 @@
 - pkg:maven/in.specmatic/specmatic-core@0.40.0?classifier=sources
 - pkg:maven/in.specmatic/specmatic-core@0.41.0?classifier=sources
 - pkg:maven/in.specmatic/specmatic-core@0.42.0?classifier=sources
+- pkg:maven/in.specmatic/specmatic-core@0.43.0?classifier=sources
+- pkg:maven/in.specmatic/specmatic-core@0.44.0?classifier=sources

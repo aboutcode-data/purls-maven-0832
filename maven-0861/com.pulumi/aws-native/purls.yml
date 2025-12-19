@@ -1,0 +1,1 @@
+- pkg:maven/com.pulumi/aws-native@0.16.1?classifier=sources

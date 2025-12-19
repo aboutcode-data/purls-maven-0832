@@ -1,2 +1,4 @@
 - pkg:maven/tech.b180.cordaptor/cordaptor-kernel@0.1.0
 - pkg:maven/tech.b180.cordaptor/cordaptor-kernel@0.1.0?classifier=sources
+- pkg:maven/tech.b180.cordaptor/cordaptor-kernel@0.4.0-corda4.7
+- pkg:maven/tech.b180.cordaptor/cordaptor-kernel@0.4.0-corda4.7?classifier=sources

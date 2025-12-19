@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ahsirg/scheduling@1.0.1
+- pkg:maven/io.github.ahsirg/scheduling@1.0.1?classifier=sources

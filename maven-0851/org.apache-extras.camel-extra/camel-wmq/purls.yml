@@ -18,4 +18,5 @@
 - pkg:maven/org.apache-extras.camel-extra/camel-wmq@2.25.2?classifier=sources
 - pkg:maven/org.apache-extras.camel-extra/camel-wmq@3.11.0
 - pkg:maven/org.apache-extras.camel-extra/camel-wmq@3.11.1
+- pkg:maven/org.apache-extras.camel-extra/camel-wmq@3.14.3
 - pkg:maven/org.apache-extras.camel-extra/camel-wmq@3.9.0

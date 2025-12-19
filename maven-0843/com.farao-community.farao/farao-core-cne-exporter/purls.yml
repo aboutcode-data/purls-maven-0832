@@ -2,3 +2,7 @@
 - pkg:maven/com.farao-community.farao/farao-core-cne-exporter@3.7.1?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-core-cne-exporter@3.8.0
 - pkg:maven/com.farao-community.farao/farao-core-cne-exporter@3.8.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-core-cne-exporter@3.9.0
+- pkg:maven/com.farao-community.farao/farao-core-cne-exporter@3.9.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-core-cne-exporter@3.9.1
+- pkg:maven/com.farao-community.farao/farao-core-cne-exporter@3.9.1?classifier=sources

@@ -54,6 +54,10 @@
 - pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.20.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.21.0
 - pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.21.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.22.0
+- pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.22.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.23.0
+- pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.23.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.3.0
 - pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.3.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.failover/colocated-failover@2.4.0

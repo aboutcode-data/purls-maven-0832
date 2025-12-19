@@ -188,8 +188,14 @@
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.67.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.68.0.Final
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.68.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.69.0.Final
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.69.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.7.0.Final
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.7.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.70.0.Final
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.70.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.71.0.Final
+- pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.71.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.8.0.Final
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.8.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-wb-domain-editor-api@7.9.0.Final

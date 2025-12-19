@@ -1,0 +1,2 @@
+- pkg:maven/fr.abes.sudoqual/sudoqual-api@2.10.4
+- pkg:maven/fr.abes.sudoqual/sudoqual-api@2.10.4?classifier=sources

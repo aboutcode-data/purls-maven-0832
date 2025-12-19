@@ -31,3 +31,5 @@
 - pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha28?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha29?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha30?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha31?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator-compose@0.1-alpha32?classifier=sources

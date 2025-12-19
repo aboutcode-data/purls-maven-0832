@@ -26,6 +26,7 @@
 - pkg:maven/org.opendaylight.openflowplugin.applications/device-ownership-service@0.12.4?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/device-ownership-service@0.13.1?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/device-ownership-service@0.13.2?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin.applications/device-ownership-service@0.13.3?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/device-ownership-service@0.14.0?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/device-ownership-service@0.6.4
 - pkg:maven/org.opendaylight.openflowplugin.applications/device-ownership-service@0.6.4?classifier=sources

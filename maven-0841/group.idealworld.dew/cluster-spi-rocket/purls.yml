@@ -1,0 +1,2 @@
+- pkg:maven/group.idealworld.dew/cluster-spi-rocket@3.0.0-Beta4
+- pkg:maven/group.idealworld.dew/cluster-spi-rocket@3.0.0-Beta4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hellokaton/blade-log@0.2.0
+- pkg:maven/com.hellokaton/blade-log@0.2.0?classifier=sources

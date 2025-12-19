@@ -1,2 +1,4 @@
 - pkg:maven/uk.co.unclealex/browser-push-notifications_2.13@3.0.1
 - pkg:maven/uk.co.unclealex/browser-push-notifications_2.13@3.0.1?classifier=sources
+- pkg:maven/uk.co.unclealex/browser-push-notifications_2.13@3.0.2
+- pkg:maven/uk.co.unclealex/browser-push-notifications_2.13@3.0.2?classifier=sources

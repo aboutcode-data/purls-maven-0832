@@ -16,3 +16,5 @@
 - pkg:maven/org.datatransferproject/portability-spi-service@0.3.63?classifier=sources
 - pkg:maven/org.datatransferproject/portability-spi-service@0.3.64
 - pkg:maven/org.datatransferproject/portability-spi-service@0.3.64?classifier=sources
+- pkg:maven/org.datatransferproject/portability-spi-service@0.3.65
+- pkg:maven/org.datatransferproject/portability-spi-service@0.3.65?classifier=sources

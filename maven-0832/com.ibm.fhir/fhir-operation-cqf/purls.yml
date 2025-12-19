@@ -6,3 +6,5 @@
 - pkg:maven/com.ibm.fhir/fhir-operation-cqf@4.10.2?classifier=sources
 - pkg:maven/com.ibm.fhir/fhir-operation-cqf@4.11.0
 - pkg:maven/com.ibm.fhir/fhir-operation-cqf@4.11.0?classifier=sources
+- pkg:maven/com.ibm.fhir/fhir-operation-cqf@4.11.1
+- pkg:maven/com.ibm.fhir/fhir-operation-cqf@4.11.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-nativeimage-api@RELEASE140?classifier=sources

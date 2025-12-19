@@ -1,0 +1,2 @@
+- pkg:maven/de.unentscheidbar/migratedb-integration-tests@0.1.0
+- pkg:maven/de.unentscheidbar/migratedb-integration-tests@0.1.0?classifier=sources

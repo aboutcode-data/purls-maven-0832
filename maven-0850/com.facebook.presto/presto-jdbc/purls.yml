@@ -437,7 +437,15 @@
 - pkg:maven/com.facebook.presto/presto-jdbc@0.271.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-jdbc@0.271?classifier=sources
 - pkg:maven/com.facebook.presto/presto-jdbc@0.272
+- pkg:maven/com.facebook.presto/presto-jdbc@0.272.1
+- pkg:maven/com.facebook.presto/presto-jdbc@0.272.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-jdbc@0.272?classifier=sources
+- pkg:maven/com.facebook.presto/presto-jdbc@0.273
+- pkg:maven/com.facebook.presto/presto-jdbc@0.273.1
+- pkg:maven/com.facebook.presto/presto-jdbc@0.273.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-jdbc@0.273.2
+- pkg:maven/com.facebook.presto/presto-jdbc@0.273.2?classifier=sources
+- pkg:maven/com.facebook.presto/presto-jdbc@0.273?classifier=sources
 - pkg:maven/com.facebook.presto/presto-jdbc@0.52
 - pkg:maven/com.facebook.presto/presto-jdbc@0.52?classifier=sources
 - pkg:maven/com.facebook.presto/presto-jdbc@0.53

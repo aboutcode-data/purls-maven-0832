@@ -1,0 +1,4 @@
+- pkg:maven/org.wvlet.airframe/airframe-rx-html_3@22.6.0
+- pkg:maven/org.wvlet.airframe/airframe-rx-html_3@22.6.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-rx-html_3@22.6.1
+- pkg:maven/org.wvlet.airframe/airframe-rx-html_3@22.6.1?classifier=sources

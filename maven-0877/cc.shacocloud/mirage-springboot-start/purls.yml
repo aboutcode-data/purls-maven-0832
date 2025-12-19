@@ -1,0 +1,4 @@
+- pkg:maven/cc.shacocloud/mirage-springboot-start@1.0-RELEASE
+- pkg:maven/cc.shacocloud/mirage-springboot-start@1.0-RELEASE?classifier=sources
+- pkg:maven/cc.shacocloud/mirage-springboot-start@1.0.1-RELEASE
+- pkg:maven/cc.shacocloud/mirage-springboot-start@1.0.1-RELEASE?classifier=sources

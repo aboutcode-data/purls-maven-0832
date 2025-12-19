@@ -126,6 +126,12 @@
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.67.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.68.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.68.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.69.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.69.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.70.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.70.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.71.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.71.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.8.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-testing-utils@7.9.0.Final

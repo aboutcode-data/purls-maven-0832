@@ -2,3 +2,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.lodash@0.1.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.lodash@0.2.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.lodash@0.3.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.lodash@0.3.1?classifier=sources

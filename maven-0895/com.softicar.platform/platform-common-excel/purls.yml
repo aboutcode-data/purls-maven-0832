@@ -18,3 +18,8 @@
 - pkg:maven/com.softicar.platform/platform-common-excel@17.0.2?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-excel@17.0.3?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-excel@18.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-excel@18.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-excel@18.0.2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-excel@19.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-excel@19.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-excel@19.0.2?classifier=sources

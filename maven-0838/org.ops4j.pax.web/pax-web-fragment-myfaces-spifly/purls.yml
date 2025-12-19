@@ -2,3 +2,4 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.1
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.2
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.3
+- pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.4

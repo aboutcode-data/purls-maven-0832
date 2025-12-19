@@ -4,3 +4,7 @@
 - pkg:maven/com.atomgraph/twirl@1.0.20?classifier=sources
 - pkg:maven/com.atomgraph/twirl@1.0.25
 - pkg:maven/com.atomgraph/twirl@1.0.25?classifier=sources
+- pkg:maven/com.atomgraph/twirl@1.0.28
+- pkg:maven/com.atomgraph/twirl@1.0.28?classifier=sources
+- pkg:maven/com.atomgraph/twirl@1.0.30
+- pkg:maven/com.atomgraph/twirl@1.0.30?classifier=sources

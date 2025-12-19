@@ -326,3 +326,11 @@
 - pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.89?classifier=sources
 - pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.90
 - pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.90?classifier=sources
+- pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.93
+- pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.93?classifier=sources
+- pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.94
+- pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.94?classifier=sources
+- pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.96
+- pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.96?classifier=sources
+- pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.97
+- pkg:maven/io.nosqlbench/virtdata-lib-basics@4.15.97?classifier=sources

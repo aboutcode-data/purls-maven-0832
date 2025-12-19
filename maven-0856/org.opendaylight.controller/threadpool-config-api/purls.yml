@@ -78,6 +78,9 @@
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.15.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.15.1
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.15.10?classifier=sources
+- pkg:maven/org.opendaylight.controller/threadpool-config-api@0.15.11
+- pkg:maven/org.opendaylight.controller/threadpool-config-api@0.15.11?classifier=sources
+- pkg:maven/org.opendaylight.controller/threadpool-config-api@0.15.12?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.15.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.15.2
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.15.2?classifier=sources
@@ -96,6 +99,9 @@
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.16.2?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.16.3
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.16.3?classifier=sources
+- pkg:maven/org.opendaylight.controller/threadpool-config-api@0.16.4
+- pkg:maven/org.opendaylight.controller/threadpool-config-api@0.16.4?classifier=sources
+- pkg:maven/org.opendaylight.controller/threadpool-config-api@0.16.5?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.2.3
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.2.3?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.2.5-Helium

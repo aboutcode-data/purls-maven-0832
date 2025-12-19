@@ -102,6 +102,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.34
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.35
+- pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@4.0.4
@@ -186,6 +189,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.28
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.29
+- pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@5.0.3
@@ -270,6 +276,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.28
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.29
+- pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@6.0.3
@@ -345,6 +354,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.25
 - pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.26
+- pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.27
+- pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.28
+- pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@7.0.3
@@ -399,6 +417,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.18
 - pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.19
+- pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.messaging@8.0.2

@@ -26,5 +26,13 @@
 - pkg:maven/io.specgen/specgen-maven-plugin@2.1.1632?classifier=sources
 - pkg:maven/io.specgen/specgen-maven-plugin@2.1.1638
 - pkg:maven/io.specgen/specgen-maven-plugin@2.1.1638?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.1.1646
+- pkg:maven/io.specgen/specgen-maven-plugin@2.1.1646?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.1.1698
+- pkg:maven/io.specgen/specgen-maven-plugin@2.1.1698?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.1.1700
+- pkg:maven/io.specgen/specgen-maven-plugin@2.1.1700?classifier=sources
+- pkg:maven/io.specgen/specgen-maven-plugin@2.1.1720
+- pkg:maven/io.specgen/specgen-maven-plugin@2.1.1720?classifier=sources
 - pkg:maven/io.specgen/specgen-maven-plugin@2.1.852
 - pkg:maven/io.specgen/specgen-maven-plugin@2.1.852?classifier=sources

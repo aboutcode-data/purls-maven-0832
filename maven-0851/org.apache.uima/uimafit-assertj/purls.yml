@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.uima/uimafit-assertj@3.2.0?classifier=sources
+- pkg:maven/org.apache.uima/uimafit-assertj@3.3.0?classifier=sources

@@ -7,4 +7,6 @@
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client3_3@0.13.0
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client3_3@0.13.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client3_3@0.13.1
+- pkg:maven/io.janstenpickle/trace4cats-sttp-client3_3@0.13.1%2B17-7cc35475
+- pkg:maven/io.janstenpickle/trace4cats-sttp-client3_3@0.13.1%2B17-7cc35475?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client3_3@0.13.1?classifier=sources

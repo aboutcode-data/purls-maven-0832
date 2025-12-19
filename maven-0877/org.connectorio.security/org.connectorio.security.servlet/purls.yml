@@ -1,0 +1,2 @@
+- pkg:maven/org.connectorio.security/org.connectorio.security.servlet@3.0.0
+- pkg:maven/org.connectorio.security/org.connectorio.security.servlet@3.0.0?classifier=sources

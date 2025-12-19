@@ -1,0 +1,2 @@
+- pkg:maven/se.hackney.jwt/jawt@1.0
+- pkg:maven/se.hackney.jwt/jawt@1.0?classifier=sources

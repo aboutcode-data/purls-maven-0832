@@ -28,3 +28,7 @@
 - pkg:maven/com.intenthq/action-processor-integrations_2.13@4.1.2?classifier=sources
 - pkg:maven/com.intenthq/action-processor-integrations_2.13@4.2.0
 - pkg:maven/com.intenthq/action-processor-integrations_2.13@4.2.0?classifier=sources
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@5.0.0
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@5.0.0?classifier=sources
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@5.0.1
+- pkg:maven/com.intenthq/action-processor-integrations_2.13@5.0.1?classifier=sources

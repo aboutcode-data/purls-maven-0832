@@ -1,0 +1,4 @@
+- pkg:maven/com.rustknife.jknife/jknife-shiro@1.2.0-RELEASE
+- pkg:maven/com.rustknife.jknife/jknife-shiro@1.2.0-RELEASE?classifier=sources
+- pkg:maven/com.rustknife.jknife/jknife-shiro@2.0.0-RELEASE
+- pkg:maven/com.rustknife.jknife/jknife-shiro@2.0.0-RELEASE?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/cc.jinhx/spring-boot-starter-process-core@1.0.34?classifier=sources
 - pkg:maven/cc.jinhx/spring-boot-starter-process-core@1.0.35
 - pkg:maven/cc.jinhx/spring-boot-starter-process-core@1.0.35?classifier=sources
+- pkg:maven/cc.jinhx/spring-boot-starter-process-core@1.0.36
+- pkg:maven/cc.jinhx/spring-boot-starter-process-core@1.0.36?classifier=sources
+- pkg:maven/cc.jinhx/spring-boot-starter-process-core@1.0.37
+- pkg:maven/cc.jinhx/spring-boot-starter-process-core@1.0.37?classifier=sources

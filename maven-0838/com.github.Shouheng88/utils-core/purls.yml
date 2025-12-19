@@ -12,3 +12,4 @@
 - pkg:maven/com.github.Shouheng88/utils-core@2.5.3?type=aar
 - pkg:maven/com.github.Shouheng88/utils-core@2.6.0?classifier=sources
 - pkg:maven/com.github.Shouheng88/utils-core@2.6.0?type=aar
+- pkg:maven/com.github.Shouheng88/utils-core@2.7.0?classifier=sources

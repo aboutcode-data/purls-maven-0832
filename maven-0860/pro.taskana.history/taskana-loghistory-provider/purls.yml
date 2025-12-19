@@ -44,3 +44,5 @@
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@5.0.1?classifier=sources
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@5.1.0
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@5.1.0?classifier=sources
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@5.2.0
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@5.2.0?classifier=sources

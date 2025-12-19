@@ -9,4 +9,8 @@
 - pkg:maven/com.guaboy/guaboy-commons@1.0.4.RELEASES
 - pkg:maven/com.guaboy/guaboy-commons@1.0.4.RELEASES?classifier=sources
 - pkg:maven/com.guaboy/guaboy-commons@1.0.5
+- pkg:maven/com.guaboy/guaboy-commons@1.0.5.RC
+- pkg:maven/com.guaboy/guaboy-commons@1.0.5.RC?classifier=sources
+- pkg:maven/com.guaboy/guaboy-commons@1.0.5.RELEASE
+- pkg:maven/com.guaboy/guaboy-commons@1.0.5.RELEASE?classifier=sources
 - pkg:maven/com.guaboy/guaboy-commons@1.0.5?classifier=sources

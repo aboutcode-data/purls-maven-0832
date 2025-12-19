@@ -66,3 +66,5 @@
 - pkg:maven/io.mongock/mongock-test-util@5.0.8.RC?classifier=sources
 - pkg:maven/io.mongock/mongock-test-util@5.0.9.RC
 - pkg:maven/io.mongock/mongock-test-util@5.0.9.RC?classifier=sources
+- pkg:maven/io.mongock/mongock-test-util@5.1.0
+- pkg:maven/io.mongock/mongock-test-util@5.1.0?classifier=sources

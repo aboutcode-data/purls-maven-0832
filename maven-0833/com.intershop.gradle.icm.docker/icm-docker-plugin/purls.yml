@@ -20,3 +20,4 @@
 - pkg:maven/com.intershop.gradle.icm.docker/icm-docker-plugin@1.7.1?classifier=sources
 - pkg:maven/com.intershop.gradle.icm.docker/icm-docker-plugin@1.7.2?classifier=sources
 - pkg:maven/com.intershop.gradle.icm.docker/icm-docker-plugin@1.7.3?classifier=sources
+- pkg:maven/com.intershop.gradle.icm.docker/icm-docker-plugin@2.0.2?classifier=sources

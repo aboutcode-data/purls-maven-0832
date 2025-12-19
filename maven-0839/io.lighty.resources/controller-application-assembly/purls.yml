@@ -86,6 +86,10 @@
 - pkg:maven/io.lighty.resources/controller-application-assembly@15.1.0?classifier=sources
 - pkg:maven/io.lighty.resources/controller-application-assembly@15.2.0
 - pkg:maven/io.lighty.resources/controller-application-assembly@15.2.0?classifier=sources
+- pkg:maven/io.lighty.resources/controller-application-assembly@15.3.0
+- pkg:maven/io.lighty.resources/controller-application-assembly@15.3.0?classifier=sources
+- pkg:maven/io.lighty.resources/controller-application-assembly@16.0.0
+- pkg:maven/io.lighty.resources/controller-application-assembly@16.0.0?classifier=sources
 - pkg:maven/io.lighty.resources/controller-application-assembly@8.4.1
 - pkg:maven/io.lighty.resources/controller-application-assembly@8.4.1?classifier=sources
 - pkg:maven/io.lighty.resources/controller-application-assembly@8.4.2

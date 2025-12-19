@@ -2,6 +2,8 @@
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-jse-runtime@1.6.10?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-jse-runtime@1.6.12
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-jse-runtime@1.6.12?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-jse-runtime@1.6.13
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-jse-runtime@1.6.13?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-jse-runtime@1.6.6
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-jse-runtime@1.6.6?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-jse-runtime@1.6.7

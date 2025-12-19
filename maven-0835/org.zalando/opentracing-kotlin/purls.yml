@@ -6,3 +6,7 @@
 - pkg:maven/org.zalando/opentracing-kotlin@4.0.3?classifier=sources
 - pkg:maven/org.zalando/opentracing-kotlin@4.1.0
 - pkg:maven/org.zalando/opentracing-kotlin@4.1.0?classifier=sources
+- pkg:maven/org.zalando/opentracing-kotlin@4.2.0
+- pkg:maven/org.zalando/opentracing-kotlin@4.2.0?classifier=sources
+- pkg:maven/org.zalando/opentracing-kotlin@4.2.1
+- pkg:maven/org.zalando/opentracing-kotlin@4.2.1?classifier=sources

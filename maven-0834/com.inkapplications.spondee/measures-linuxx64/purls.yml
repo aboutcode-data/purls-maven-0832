@@ -4,3 +4,4 @@
 - pkg:maven/com.inkapplications.spondee/measures-linuxx64@0.3.0?classifier=sources
 - pkg:maven/com.inkapplications.spondee/measures-linuxx64@0.4.4?classifier=sources
 - pkg:maven/com.inkapplications.spondee/measures-linuxx64@0.5.0?classifier=sources
+- pkg:maven/com.inkapplications.spondee/measures-linuxx64@0.6.0?classifier=sources

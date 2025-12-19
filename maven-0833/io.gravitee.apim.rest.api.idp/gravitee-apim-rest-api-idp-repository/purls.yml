@@ -3,6 +3,8 @@
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.10.12?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.10.13?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.10.14?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.10.15?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.10.16?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.10.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.10.2?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.10.3?classifier=sources
@@ -36,6 +38,7 @@
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.15.5?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.15.7?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.15.8?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.15.9?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.16.0?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.16.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.16.2?classifier=sources
@@ -43,6 +46,8 @@
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.16.4?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.17.0?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.17.1?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.17.2?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.17.3?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.5.19?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.5.20?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.5.21?classifier=sources
@@ -55,4 +60,5 @@
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.5.28?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.5.29?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.5.30?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.5.31?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.idp/gravitee-apim-rest-api-idp-repository@3.9.4?classifier=sources

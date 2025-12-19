@@ -4,3 +4,5 @@
 - pkg:maven/com.google.mug/mug-protobuf@5.9?classifier=sources
 - pkg:maven/com.google.mug/mug-protobuf@6.0
 - pkg:maven/com.google.mug/mug-protobuf@6.0?classifier=sources
+- pkg:maven/com.google.mug/mug-protobuf@6.1
+- pkg:maven/com.google.mug/mug-protobuf@6.1?classifier=sources

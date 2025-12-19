@@ -18,3 +18,7 @@
 - pkg:maven/pro.chenggang/mybatis-r2dbc@1.0.8.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/mybatis-r2dbc@1.0.9.RELEASE
 - pkg:maven/pro.chenggang/mybatis-r2dbc@1.0.9.RELEASE?classifier=sources
+- pkg:maven/pro.chenggang/mybatis-r2dbc@1.1.0.RELEASE
+- pkg:maven/pro.chenggang/mybatis-r2dbc@1.1.0.RELEASE?classifier=sources
+- pkg:maven/pro.chenggang/mybatis-r2dbc@1.1.1.RELEASE
+- pkg:maven/pro.chenggang/mybatis-r2dbc@1.1.1.RELEASE?classifier=sources

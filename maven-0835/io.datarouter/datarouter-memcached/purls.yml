@@ -22,6 +22,8 @@
 - pkg:maven/io.datarouter/datarouter-memcached@0.0.110?classifier=sources
 - pkg:maven/io.datarouter/datarouter-memcached@0.0.111
 - pkg:maven/io.datarouter/datarouter-memcached@0.0.111?classifier=sources
+- pkg:maven/io.datarouter/datarouter-memcached@0.0.113
+- pkg:maven/io.datarouter/datarouter-memcached@0.0.113?classifier=sources
 - pkg:maven/io.datarouter/datarouter-memcached@0.0.15
 - pkg:maven/io.datarouter/datarouter-memcached@0.0.15?classifier=sources
 - pkg:maven/io.datarouter/datarouter-memcached@0.0.16

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.xjrga/looks@01
 - pkg:maven/io.github.xjrga/looks@01?classifier=sources
+- pkg:maven/io.github.xjrga/looks@02
+- pkg:maven/io.github.xjrga/looks@02?classifier=sources

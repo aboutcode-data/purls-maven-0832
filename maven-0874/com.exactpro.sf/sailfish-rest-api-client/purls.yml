@@ -32,3 +32,4 @@
 - pkg:maven/com.exactpro.sf/sailfish-rest-api-client@3.2.1771?classifier=sources
 - pkg:maven/com.exactpro.sf/sailfish-rest-api-client@3.2.1776?classifier=sources
 - pkg:maven/com.exactpro.sf/sailfish-rest-api-client@3.2.1811?classifier=sources
+- pkg:maven/com.exactpro.sf/sailfish-rest-api-client@3.2.1839?classifier=sources

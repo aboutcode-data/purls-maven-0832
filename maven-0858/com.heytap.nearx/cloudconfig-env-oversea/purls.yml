@@ -1,0 +1,2 @@
+- pkg:maven/com.heytap.nearx/cloudconfig-env-oversea@2.3.7
+- pkg:maven/com.heytap.nearx/cloudconfig-env-oversea@2.3.7?classifier=sources

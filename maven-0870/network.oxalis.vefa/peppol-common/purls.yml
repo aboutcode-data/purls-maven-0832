@@ -10,3 +10,7 @@
 - pkg:maven/network.oxalis.vefa/peppol-common@2.0.2?classifier=sources
 - pkg:maven/network.oxalis.vefa/peppol-common@2.1.0
 - pkg:maven/network.oxalis.vefa/peppol-common@2.1.0?classifier=sources
+- pkg:maven/network.oxalis.vefa/peppol-common@2.2.0
+- pkg:maven/network.oxalis.vefa/peppol-common@2.2.0?classifier=sources
+- pkg:maven/network.oxalis.vefa/peppol-common@2.3.0
+- pkg:maven/network.oxalis.vefa/peppol-common@2.3.0?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.iceberg/iceberg-hive-metastore@0.12.1?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-hive-metastore@0.13.0?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-hive-metastore@0.13.1?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-hive-metastore@0.13.2?classifier=sources

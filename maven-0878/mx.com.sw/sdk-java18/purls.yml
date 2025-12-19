@@ -10,3 +10,7 @@
 - pkg:maven/mx.com.sw/sdk-java18@0.0.1.2?classifier=sources
 - pkg:maven/mx.com.sw/sdk-java18@0.0.1.3
 - pkg:maven/mx.com.sw/sdk-java18@0.0.1.3?classifier=sources
+- pkg:maven/mx.com.sw/sdk-java18@0.0.1.4
+- pkg:maven/mx.com.sw/sdk-java18@0.0.1.4?classifier=sources
+- pkg:maven/mx.com.sw/sdk-java18@0.0.1.5
+- pkg:maven/mx.com.sw/sdk-java18@0.0.1.5?classifier=sources

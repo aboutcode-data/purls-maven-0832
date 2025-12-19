@@ -5,6 +5,9 @@
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@1.8.4-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@1.9.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@10.0.0?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@10.0.1?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@10.0.2?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@11.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@2.0.1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@2.0.2?classifier=sources
@@ -100,6 +103,8 @@
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@9.0.11?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@9.0.12?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@9.0.13?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@9.0.14?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@9.0.15?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@9.0.1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@9.0.2?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-feature@9.0.3?classifier=sources

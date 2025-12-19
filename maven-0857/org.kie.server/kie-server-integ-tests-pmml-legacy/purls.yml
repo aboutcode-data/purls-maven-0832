@@ -15,3 +15,6 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-pmml-legacy@7.66.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-pmml-legacy@7.67.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-pmml-legacy@7.68.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-pmml-legacy@7.69.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-pmml-legacy@7.70.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-pmml-legacy@7.71.0.Final

@@ -5,3 +5,4 @@
 - pkg:maven/kr.jadekim/j-logger-coroutine@2.0.3-alpha2?classifier=sources
 - pkg:maven/kr.jadekim/j-logger-coroutine@2.0.3-alpha3?classifier=sources
 - pkg:maven/kr.jadekim/j-logger-coroutine@2.0.3-alpha4?classifier=sources
+- pkg:maven/kr.jadekim/j-logger-coroutine@2.0.3-alpha5?classifier=sources

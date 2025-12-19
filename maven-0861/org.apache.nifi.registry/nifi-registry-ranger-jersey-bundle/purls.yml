@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.16.0?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.16.1
 - pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.16.1?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.16.2
+- pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.16.2?classifier=sources

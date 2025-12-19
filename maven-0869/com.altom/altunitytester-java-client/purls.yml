@@ -26,3 +26,5 @@
 - pkg:maven/com.altom/altunitytester-java-client@1.7.0-alpha
 - pkg:maven/com.altom/altunitytester-java-client@1.7.0-alpha?classifier=sources
 - pkg:maven/com.altom/altunitytester-java-client@1.7.0?classifier=sources
+- pkg:maven/com.altom/altunitytester-java-client@1.7.1
+- pkg:maven/com.altom/altunitytester-java-client@1.7.1?classifier=sources

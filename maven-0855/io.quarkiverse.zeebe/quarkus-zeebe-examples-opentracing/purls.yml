@@ -1,2 +1,4 @@
 - pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-examples-opentracing@0.4.0
 - pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-examples-opentracing@0.4.0?classifier=sources
+- pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-examples-opentracing@0.5.0
+- pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-examples-opentracing@0.5.0?classifier=sources

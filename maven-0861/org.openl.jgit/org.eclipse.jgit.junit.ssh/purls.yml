@@ -4,3 +4,7 @@
 - pkg:maven/org.openl.jgit/org.eclipse.jgit.junit.ssh@6.0.0.202202081800-r?classifier=sources
 - pkg:maven/org.openl.jgit/org.eclipse.jgit.junit.ssh@6.0.0.202203041800-r
 - pkg:maven/org.openl.jgit/org.eclipse.jgit.junit.ssh@6.0.0.202203041800-r?classifier=sources
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.junit.ssh@6.1.0.202205052000-r
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.junit.ssh@6.1.0.202205052000-r?classifier=sources
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.junit.ssh@6.1.0.202205052100-r
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.junit.ssh@6.1.0.202205052100-r?classifier=sources

@@ -26,5 +26,7 @@
 - pkg:maven/com.graphhopper/hmm-lib-external@5.0-pre3
 - pkg:maven/com.graphhopper/hmm-lib-external@5.0-pre3?classifier=sources
 - pkg:maven/com.graphhopper/hmm-lib-external@5.0?classifier=sources
+- pkg:maven/com.graphhopper/hmm-lib-external@5.3
+- pkg:maven/com.graphhopper/hmm-lib-external@5.3?classifier=sources
 - pkg:maven/com.graphhopper/hmm-lib-external@client_hc_no_vehicle
 - pkg:maven/com.graphhopper/hmm-lib-external@client_hc_no_vehicle?classifier=sources

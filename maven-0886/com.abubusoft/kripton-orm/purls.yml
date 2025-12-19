@@ -106,3 +106,5 @@
 - pkg:maven/com.abubusoft/kripton-orm@8.0.0-rc.2?classifier=sources
 - pkg:maven/com.abubusoft/kripton-orm@8.0.0-rc.3
 - pkg:maven/com.abubusoft/kripton-orm@8.0.0-rc.3?classifier=sources
+- pkg:maven/com.abubusoft/kripton-orm@8.0.0-rc.4
+- pkg:maven/com.abubusoft/kripton-orm@8.0.0-rc.4?classifier=sources

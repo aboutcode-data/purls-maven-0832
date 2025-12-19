@@ -48,3 +48,4 @@
 - pkg:maven/it.unibo.tuprolog/theory-js@0.20.2?classifier=sources
 - pkg:maven/it.unibo.tuprolog/theory-js@0.20.3?classifier=sources
 - pkg:maven/it.unibo.tuprolog/theory-js@0.20.4?classifier=sources
+- pkg:maven/it.unibo.tuprolog/theory-js@0.20.7?classifier=sources

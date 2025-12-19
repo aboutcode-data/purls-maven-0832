@@ -1,0 +1,2 @@
+- pkg:maven/group.idealworld.dew/skywalking-starter@3.0.0-Beta4
+- pkg:maven/group.idealworld.dew/skywalking-starter@3.0.0-Beta4?classifier=sources

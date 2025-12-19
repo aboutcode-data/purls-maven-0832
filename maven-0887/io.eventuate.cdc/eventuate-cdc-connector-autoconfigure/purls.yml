@@ -1,3 +1,4 @@
 - pkg:maven/io.eventuate.cdc/eventuate-cdc-connector-autoconfigure@0.10.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.cdc/eventuate-cdc-connector-autoconfigure@0.11.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.cdc/eventuate-cdc-connector-autoconfigure@0.12.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.cdc/eventuate-cdc-connector-autoconfigure@0.13.0.RELEASE?classifier=sources

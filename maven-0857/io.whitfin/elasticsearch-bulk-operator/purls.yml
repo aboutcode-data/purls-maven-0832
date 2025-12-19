@@ -6,3 +6,5 @@
 - pkg:maven/io.whitfin/elasticsearch-bulk-operator@1.0.2?classifier=sources
 - pkg:maven/io.whitfin/elasticsearch-bulk-operator@1.0.3
 - pkg:maven/io.whitfin/elasticsearch-bulk-operator@1.0.3?classifier=sources
+- pkg:maven/io.whitfin/elasticsearch-bulk-operator@2.0.0
+- pkg:maven/io.whitfin/elasticsearch-bulk-operator@2.0.0?classifier=sources

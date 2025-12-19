@@ -1,0 +1,2 @@
+- pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.0.0
+- pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.0.0?classifier=sources

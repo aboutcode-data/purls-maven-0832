@@ -27,3 +27,9 @@
 - pkg:maven/io.trino/trino-server-rpm@377?classifier=sources
 - pkg:maven/io.trino/trino-server-rpm@378?classifier=sources
 - pkg:maven/io.trino/trino-server-rpm@379?classifier=sources
+- pkg:maven/io.trino/trino-server-rpm@380?classifier=sources
+- pkg:maven/io.trino/trino-server-rpm@381?classifier=sources
+- pkg:maven/io.trino/trino-server-rpm@382?classifier=sources
+- pkg:maven/io.trino/trino-server-rpm@383?classifier=sources
+- pkg:maven/io.trino/trino-server-rpm@384?classifier=sources
+- pkg:maven/io.trino/trino-server-rpm@385?classifier=sources

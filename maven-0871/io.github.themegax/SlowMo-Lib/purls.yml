@@ -2,3 +2,5 @@
 - pkg:maven/io.github.themegax/SlowMo-Lib@1.0.0?classifier=sources
 - pkg:maven/io.github.themegax/SlowMo-Lib@1.0.1%2B1.18.2?classifier=sources
 - pkg:maven/io.github.themegax/SlowMo-Lib@1.0.2%2B1.18.2?classifier=sources
+- pkg:maven/io.github.themegax/SlowMo-Lib@1.0.3%2B1.18.2?classifier=sources
+- pkg:maven/io.github.themegax/SlowMo-Lib@1.0.4%2B1.18.2?classifier=sources

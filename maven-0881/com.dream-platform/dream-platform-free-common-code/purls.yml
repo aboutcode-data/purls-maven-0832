@@ -1,0 +1,2 @@
+- pkg:maven/com.dream-platform/dream-platform-free-common-code@1.0.0-RELEASE
+- pkg:maven/com.dream-platform/dream-platform-free-common-code@1.0.0-RELEASE?classifier=sources

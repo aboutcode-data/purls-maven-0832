@@ -38,6 +38,9 @@
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-payco@2.35.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-payco@2.36.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-payco@2.37.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-payco@2.38.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-payco@2.39.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-payco@2.40.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-payco@2.6.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-payco@2.6.1?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-payco@2.6.2?type=aar

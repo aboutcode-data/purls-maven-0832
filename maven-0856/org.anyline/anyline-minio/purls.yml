@@ -1,0 +1,4 @@
+- pkg:maven/org.anyline/anyline-minio@8.5.3-20220601
+- pkg:maven/org.anyline/anyline-minio@8.5.3-20220601?classifier=sources
+- pkg:maven/org.anyline/anyline-minio@8.5.3-20220609
+- pkg:maven/org.anyline/anyline-minio@8.5.3-20220609?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/aws.sdk.kotlin/route53-jvm@0.16.0?classifier=sources
+- pkg:maven/aws.sdk.kotlin/route53-jvm@0.16.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/route53-jvm@0.16.2-beta?classifier=sources

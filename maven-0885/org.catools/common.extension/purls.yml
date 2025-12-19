@@ -46,3 +46,5 @@
 - pkg:maven/org.catools/common.extension@0.1.48?classifier=sources
 - pkg:maven/org.catools/common.extension@0.1.49
 - pkg:maven/org.catools/common.extension@0.1.49?classifier=sources
+- pkg:maven/org.catools/common.extension@1.0.0
+- pkg:maven/org.catools/common.extension@1.0.0?classifier=sources

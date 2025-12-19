@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.scala-cli/java-class-name_3@0.1.0
+- pkg:maven/io.github.alexarchambault.scala-cli/java-class-name_3@0.1.0?classifier=sources

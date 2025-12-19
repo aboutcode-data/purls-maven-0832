@@ -34,6 +34,16 @@
 - pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.116?classifier=sources
 - pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.117
 - pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.117?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.118
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.118?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.119
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.119?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.120
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.120?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.121
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.121?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.122
+- pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.122?classifier=sources
 - pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.40
 - pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.40?classifier=sources
 - pkg:maven/org.dotwebstack.framework/example-rml-proxy@0.3.41

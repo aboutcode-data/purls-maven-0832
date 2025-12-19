@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.bpm.extension.examples/camunda-platform-7-keycloak-examples-sso-kubernetes@7.17.0
+- pkg:maven/org.camunda.bpm.extension.examples/camunda-platform-7-keycloak-examples-sso-kubernetes@7.17.0?classifier=sources

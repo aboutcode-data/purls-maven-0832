@@ -20,3 +20,5 @@
 - pkg:maven/com.github.rssh/dotty-cps-async_sjs1_3@0.9.7?classifier=sources
 - pkg:maven/com.github.rssh/dotty-cps-async_sjs1_3@0.9.8
 - pkg:maven/com.github.rssh/dotty-cps-async_sjs1_3@0.9.8?classifier=sources
+- pkg:maven/com.github.rssh/dotty-cps-async_sjs1_3@0.9.9
+- pkg:maven/com.github.rssh/dotty-cps-async_sjs1_3@0.9.9?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/group.rxcloud/cloud-runtimes-capa@1.12.RELEASE
 - pkg:maven/group.rxcloud/cloud-runtimes-capa@1.12.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/cloud-runtimes-capa@1.13.RELEASE
+- pkg:maven/group.rxcloud/cloud-runtimes-capa@1.13.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/cloud-runtimes-capa@1.14.RELEASE
+- pkg:maven/group.rxcloud/cloud-runtimes-capa@1.14.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/cloud-runtimes-capa@1.15.RELEASE
+- pkg:maven/group.rxcloud/cloud-runtimes-capa@1.15.RELEASE?classifier=sources

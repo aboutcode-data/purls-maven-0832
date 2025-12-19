@@ -18,6 +18,8 @@
 - pkg:maven/io.servicetalk/servicetalk-grpc-internal@0.41.8?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-internal@0.41.9?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-internal@0.42.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-grpc-internal@0.42.10?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-grpc-internal@0.42.11?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-internal@0.42.1?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-internal@0.42.2?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-internal@0.42.3?classifier=sources

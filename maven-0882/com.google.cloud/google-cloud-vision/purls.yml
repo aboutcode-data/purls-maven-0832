@@ -363,6 +363,8 @@
 - pkg:maven/com.google.cloud/google-cloud-vision@2.0.27?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@2.0.28
 - pkg:maven/com.google.cloud/google-cloud-vision@2.0.28?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-vision@2.0.29
+- pkg:maven/com.google.cloud/google-cloud-vision@2.0.29?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@2.0.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@2.0.3
 - pkg:maven/com.google.cloud/google-cloud-vision@2.0.3?classifier=sources
@@ -378,3 +380,7 @@
 - pkg:maven/com.google.cloud/google-cloud-vision@2.0.8?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@2.0.9
 - pkg:maven/com.google.cloud/google-cloud-vision@2.0.9?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-vision@2.1.0
+- pkg:maven/com.google.cloud/google-cloud-vision@2.1.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-vision@2.1.1
+- pkg:maven/com.google.cloud/google-cloud-vision@2.1.1?classifier=sources

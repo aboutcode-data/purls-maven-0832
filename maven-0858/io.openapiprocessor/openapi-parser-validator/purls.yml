@@ -1,0 +1,2 @@
+- pkg:maven/io.openapiprocessor/openapi-parser-validator@2022.1.1?classifier=sources
+- pkg:maven/io.openapiprocessor/openapi-parser-validator@2022.1?classifier=sources

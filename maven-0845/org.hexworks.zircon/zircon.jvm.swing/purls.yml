@@ -13,3 +13,4 @@
 - pkg:maven/org.hexworks.zircon/zircon.jvm.swing@2020.2.0-RELEASE?classifier=sources
 - pkg:maven/org.hexworks.zircon/zircon.jvm.swing@2021.1.0-RELEASE?classifier=sources
 - pkg:maven/org.hexworks.zircon/zircon.jvm.swing@2021.1.1-PREVIEW?classifier=sources
+- pkg:maven/org.hexworks.zircon/zircon.jvm.swing@2022.1.0-RELEASE?classifier=sources

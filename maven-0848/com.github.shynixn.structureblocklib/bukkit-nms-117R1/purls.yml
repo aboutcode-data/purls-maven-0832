@@ -4,3 +4,6 @@
 - pkg:maven/com.github.shynixn.structureblocklib/bukkit-nms-117R1@2.3.0?classifier=sources
 - pkg:maven/com.github.shynixn.structureblocklib/bukkit-nms-117R1@2.4.0?classifier=sources
 - pkg:maven/com.github.shynixn.structureblocklib/bukkit-nms-117R1@2.5.0?classifier=sources
+- pkg:maven/com.github.shynixn.structureblocklib/bukkit-nms-117R1@2.6.0?classifier=sources
+- pkg:maven/com.github.shynixn.structureblocklib/bukkit-nms-117R1@2.7.0?classifier=sources
+- pkg:maven/com.github.shynixn.structureblocklib/bukkit-nms-117R1@2.8.0?classifier=sources

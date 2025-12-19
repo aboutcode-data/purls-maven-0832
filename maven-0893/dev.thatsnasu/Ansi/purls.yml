@@ -1,2 +1,3 @@
 - pkg:maven/dev.thatsnasu/Ansi@0.1.0?classifier=sources
 - pkg:maven/dev.thatsnasu/Ansi@1.0.0?classifier=sources
+- pkg:maven/dev.thatsnasu/Ansi@1.1.0?classifier=sources

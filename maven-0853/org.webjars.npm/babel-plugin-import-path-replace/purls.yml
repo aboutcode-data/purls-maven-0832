@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel-plugin-import-path-replace@0.1.0
+- pkg:maven/org.webjars.npm/babel-plugin-import-path-replace@0.1.0?classifier=sources

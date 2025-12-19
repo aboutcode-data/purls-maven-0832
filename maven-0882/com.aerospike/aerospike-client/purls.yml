@@ -182,3 +182,4 @@
 - pkg:maven/com.aerospike/aerospike-client@5.1.8?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client@5.1.9?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client@6.0.0?classifier=sources
+- pkg:maven/com.aerospike/aerospike-client@6.0.1?classifier=sources

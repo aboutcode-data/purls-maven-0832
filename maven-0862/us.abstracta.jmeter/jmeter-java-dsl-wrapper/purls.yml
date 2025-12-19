@@ -31,3 +31,11 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.53?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.54
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.54?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.55
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.55?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.56
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.56?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.57
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.57?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.58
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@0.58?classifier=sources

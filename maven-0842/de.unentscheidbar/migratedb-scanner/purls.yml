@@ -1,0 +1,2 @@
+- pkg:maven/de.unentscheidbar/migratedb-scanner@0.1.0
+- pkg:maven/de.unentscheidbar/migratedb-scanner@0.1.0?classifier=sources

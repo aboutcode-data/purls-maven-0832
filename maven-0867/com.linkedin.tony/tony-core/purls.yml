@@ -100,3 +100,7 @@
 - pkg:maven/com.linkedin.tony/tony-core@0.5.0?classifier=sources
 - pkg:maven/com.linkedin.tony/tony-core@0.5.1
 - pkg:maven/com.linkedin.tony/tony-core@0.5.1?classifier=sources
+- pkg:maven/com.linkedin.tony/tony-core@0.5.2
+- pkg:maven/com.linkedin.tony/tony-core@0.5.2?classifier=sources
+- pkg:maven/com.linkedin.tony/tony-core@0.5.3
+- pkg:maven/com.linkedin.tony/tony-core@0.5.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.datarobot/mlops-utils-for-spark_3.2.0@8.0.7
 - pkg:maven/com.datarobot/mlops-utils-for-spark_3.2.0@8.0.7?classifier=sources
+- pkg:maven/com.datarobot/mlops-utils-for-spark_3.2.0@8.1.2
+- pkg:maven/com.datarobot/mlops-utils-for-spark_3.2.0@8.1.2?classifier=sources

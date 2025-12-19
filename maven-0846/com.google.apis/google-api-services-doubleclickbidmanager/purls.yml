@@ -732,6 +732,10 @@
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20211109-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20220329-1.32.1
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20220329-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20220426-1.32.1
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20220426-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20220607-1.32.1
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev20220607-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev3-1.25.0
@@ -740,3 +744,5 @@
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev4-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev4-1.25.0
 - pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v1.1-rev4-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v2-rev20220524-1.32.1
+- pkg:maven/com.google.apis/google-api-services-doubleclickbidmanager@v2-rev20220524-1.32.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/seatunnel-connectors-flink-dist@2.1.2
+- pkg:maven/org.apache.seatunnel/seatunnel-connectors-flink-dist@2.1.2?classifier=sources

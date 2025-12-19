@@ -1,3 +1,7 @@
+- pkg:maven/com.netease.nimlib.flutter/lucene@8.11.11?classifier=sources
+- pkg:maven/com.netease.nimlib.flutter/lucene@8.11.11?type=aar
+- pkg:maven/com.netease.nimlib.flutter/lucene@8.11.12?classifier=sources
+- pkg:maven/com.netease.nimlib.flutter/lucene@8.11.12?type=aar
 - pkg:maven/com.netease.nimlib.flutter/lucene@8.11.7?classifier=sources
 - pkg:maven/com.netease.nimlib.flutter/lucene@8.11.7?type=aar
 - pkg:maven/com.netease.nimlib.flutter/lucene@8.11.9?classifier=sources

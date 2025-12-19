@@ -28,5 +28,7 @@
 - pkg:maven/qa.hedgehog/hedgehog-runner_2.12@0.7.0?classifier=sources
 - pkg:maven/qa.hedgehog/hedgehog-runner_2.12@0.8.0
 - pkg:maven/qa.hedgehog/hedgehog-runner_2.12@0.8.0?classifier=sources
+- pkg:maven/qa.hedgehog/hedgehog-runner_2.12@0.9.0
+- pkg:maven/qa.hedgehog/hedgehog-runner_2.12@0.9.0?classifier=sources
 - pkg:maven/qa.hedgehog/hedgehog-runner_2.12@f97736f18b23ac93dbf047043d660cbe81679a11
 - pkg:maven/qa.hedgehog/hedgehog-runner_2.12@f97736f18b23ac93dbf047043d660cbe81679a11?classifier=sources

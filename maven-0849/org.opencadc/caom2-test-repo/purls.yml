@@ -1,1 +1,2 @@
 - pkg:maven/org.opencadc/caom2-test-repo@1.1.4?classifier=sources
+- pkg:maven/org.opencadc/caom2-test-repo@1.1.5?classifier=sources

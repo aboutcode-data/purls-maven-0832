@@ -1,3 +1,5 @@
 - pkg:maven/com.moengage/inbox-core@0.0.01?classifier=sources
 - pkg:maven/com.moengage/inbox-core@1.0.00?classifier=sources
 - pkg:maven/com.moengage/inbox-core@2.0.0?classifier=sources
+- pkg:maven/com.moengage/inbox-core@2.1.0?classifier=sources
+- pkg:maven/com.moengage/inbox-core@2.1.1?classifier=sources

@@ -12,3 +12,6 @@
 - pkg:maven/com.linkedin.dualip/dualip_2.12@2.2.8?classifier=sources
 - pkg:maven/com.linkedin.dualip/dualip_2.12@2.2.9?classifier=sources
 - pkg:maven/com.linkedin.dualip/dualip_2.12@2.3.0?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.3.2?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.3.3?classifier=sources
+- pkg:maven/com.linkedin.dualip/dualip_2.12@2.3.4?classifier=sources

@@ -122,3 +122,5 @@
 - pkg:maven/net.serenity-bdd/serenity-cli@3.2.3?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cli@3.2.4
 - pkg:maven/net.serenity-bdd/serenity-cli@3.2.4?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cli@3.2.5
+- pkg:maven/net.serenity-bdd/serenity-cli@3.2.5?classifier=sources

@@ -29,3 +29,6 @@
 - pkg:maven/com.soywiz.korlibs.korvi/korvi@2.6.2?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korvi/korvi@2.6.3?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korvi/korvi@2.7.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korvi/korvi@3.0.0-Beta2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korvi/korvi@3.0.0-Beta3?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korvi/korvi@3.0.0-Beta?classifier=sources

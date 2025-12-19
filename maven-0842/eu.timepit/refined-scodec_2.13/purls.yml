@@ -34,5 +34,7 @@
 - pkg:maven/eu.timepit/refined-scodec_2.13@0.9.27?classifier=sources
 - pkg:maven/eu.timepit/refined-scodec_2.13@0.9.28
 - pkg:maven/eu.timepit/refined-scodec_2.13@0.9.28?classifier=sources
+- pkg:maven/eu.timepit/refined-scodec_2.13@0.9.29
+- pkg:maven/eu.timepit/refined-scodec_2.13@0.9.29?classifier=sources
 - pkg:maven/eu.timepit/refined-scodec_2.13@0.9.9
 - pkg:maven/eu.timepit/refined-scodec_2.13@0.9.9?classifier=sources

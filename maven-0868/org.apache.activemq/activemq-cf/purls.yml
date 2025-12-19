@@ -52,6 +52,8 @@
 - pkg:maven/org.apache.activemq/activemq-cf@5.16.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-cf@5.16.4
 - pkg:maven/org.apache.activemq/activemq-cf@5.16.4?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-cf@5.16.5
+- pkg:maven/org.apache.activemq/activemq-cf@5.16.5?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-cf@5.17.0
 - pkg:maven/org.apache.activemq/activemq-cf@5.17.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-cf@5.17.1

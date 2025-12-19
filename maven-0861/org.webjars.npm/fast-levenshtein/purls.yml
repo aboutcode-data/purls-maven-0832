@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/fast-levenshtein@1.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/fast-levenshtein@2.0.6
 - pkg:maven/org.webjars.npm/fast-levenshtein@2.0.6?classifier=sources
+- pkg:maven/org.webjars.npm/fast-levenshtein@3.0.0
+- pkg:maven/org.webjars.npm/fast-levenshtein@3.0.0?classifier=sources

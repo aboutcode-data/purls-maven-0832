@@ -52,6 +52,10 @@
 - pkg:maven/com.codacy/scooby-doo-fwk@2.49.3?classifier=sources
 - pkg:maven/com.codacy/scooby-doo-fwk@2.51.13
 - pkg:maven/com.codacy/scooby-doo-fwk@2.51.13?classifier=sources
+- pkg:maven/com.codacy/scooby-doo-fwk@2.51.14
+- pkg:maven/com.codacy/scooby-doo-fwk@2.51.14?classifier=sources
+- pkg:maven/com.codacy/scooby-doo-fwk@2.51.15
+- pkg:maven/com.codacy/scooby-doo-fwk@2.51.15?classifier=sources
 - pkg:maven/com.codacy/scooby-doo-fwk@2.51.2
 - pkg:maven/com.codacy/scooby-doo-fwk@2.51.2?classifier=sources
 - pkg:maven/com.codacy/scooby-doo-fwk@2.51.6

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pdfbox/io@3.0.0-alpha3
+- pkg:maven/org.apache.pdfbox/io@3.0.0-alpha3?classifier=sources

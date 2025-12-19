@@ -1,0 +1,3 @@
+- pkg:maven/cc.rbbl.game-of-life/game-of-life-lib@0.2.0?classifier=sources
+- pkg:maven/cc.rbbl.game-of-life/game-of-life-lib@0.2.3?classifier=sources
+- pkg:maven/cc.rbbl.game-of-life/game-of-life-lib@0.2.7?classifier=sources

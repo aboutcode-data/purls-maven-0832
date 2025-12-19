@@ -45,5 +45,7 @@
 - pkg:maven/io.hyphenate/hyphenate-sdk@3.7.6.1?type=aar
 - pkg:maven/io.hyphenate/hyphenate-sdk@3.7.6.2?classifier=sources
 - pkg:maven/io.hyphenate/hyphenate-sdk@3.7.6.2?type=aar
+- pkg:maven/io.hyphenate/hyphenate-sdk@3.7.6.3?classifier=sources
+- pkg:maven/io.hyphenate/hyphenate-sdk@3.7.6.3?type=aar
 - pkg:maven/io.hyphenate/hyphenate-sdk@3.7.6?classifier=sources
 - pkg:maven/io.hyphenate/hyphenate-sdk@3.7.6?type=aar

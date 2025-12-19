@@ -1,0 +1,4 @@
+- pkg:maven/nl.vroste/rezilience-config_3@0.8.1-1
+- pkg:maven/nl.vroste/rezilience-config_3@0.8.1-1?classifier=sources
+- pkg:maven/nl.vroste/rezilience-config_3@0.8.2
+- pkg:maven/nl.vroste/rezilience-config_3@0.8.2?classifier=sources
