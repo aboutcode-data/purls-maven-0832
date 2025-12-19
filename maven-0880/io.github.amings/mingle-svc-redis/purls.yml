@@ -1,0 +1,2 @@
+- pkg:maven/io.github.amings/mingle-svc-redis@1.0.0
+- pkg:maven/io.github.amings/mingle-svc-redis@1.0.0?classifier=sources

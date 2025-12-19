@@ -50,3 +50,5 @@
 - pkg:maven/org.commonjava.indy/indy-content-browse-ui@2.7.3
 - pkg:maven/org.commonjava.indy/indy-content-browse-ui@2.7.4
 - pkg:maven/org.commonjava.indy/indy-content-browse-ui@2.7.5
+- pkg:maven/org.commonjava.indy/indy-content-browse-ui@2.7.6
+- pkg:maven/org.commonjava.indy/indy-content-browse-ui@3.0.0

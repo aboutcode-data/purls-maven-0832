@@ -1,2 +1,6 @@
 - pkg:maven/com.github.tharwaninitin/gcp4zio-bq_2.12@1.0.0
 - pkg:maven/com.github.tharwaninitin/gcp4zio-bq_2.12@1.0.0?classifier=sources
+- pkg:maven/com.github.tharwaninitin/gcp4zio-bq_2.12@1.1.0
+- pkg:maven/com.github.tharwaninitin/gcp4zio-bq_2.12@1.1.0?classifier=sources
+- pkg:maven/com.github.tharwaninitin/gcp4zio-bq_2.12@1.2.0
+- pkg:maven/com.github.tharwaninitin/gcp4zio-bq_2.12@1.2.0?classifier=sources

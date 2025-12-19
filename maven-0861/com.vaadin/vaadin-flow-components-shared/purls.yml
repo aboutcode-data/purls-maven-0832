@@ -110,6 +110,10 @@
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.9
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@14.8.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.9.0
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.9.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.9.1
+- pkg:maven/com.vaadin/vaadin-flow-components-shared@14.9.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@17.0.10
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@17.0.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-flow-components-shared@17.0.11

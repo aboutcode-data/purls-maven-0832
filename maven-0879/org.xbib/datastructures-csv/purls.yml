@@ -1,3 +1,4 @@
 - pkg:maven/org.xbib/datastructures-csv@0.1.0?classifier=sources
 - pkg:maven/org.xbib/datastructures-csv@1.0.0?classifier=sources
 - pkg:maven/org.xbib/datastructures-csv@1.0.1?classifier=sources
+- pkg:maven/org.xbib/datastructures-csv@2.0.0?classifier=sources

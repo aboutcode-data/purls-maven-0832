@@ -27,4 +27,6 @@
 - pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.4.RELEASE-CR6?classifier=sources
 - pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.4.RELEASE-CR7
 - pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.4.RELEASE-CR7?classifier=sources
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.4.RELEASE-CR8
+- pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.4.RELEASE-CR8?classifier=sources
 - pkg:maven/com.gitee.pifeng/phoenix-client-spring-boot-starter@1.2.4.RELEASE?classifier=sources

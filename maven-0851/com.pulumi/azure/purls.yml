@@ -23,6 +23,11 @@
 - pkg:maven/com.pulumi/azure@5.20.0?classifier=sources
 - pkg:maven/com.pulumi/azure@5.21.0?classifier=sources
 - pkg:maven/com.pulumi/azure@5.22.0-alpha.1665690150%2B147d98bc?classifier=sources
+- pkg:maven/com.pulumi/azure@5.22.0?classifier=sources
+- pkg:maven/com.pulumi/azure@5.23.0?classifier=sources
+- pkg:maven/com.pulumi/azure@5.24.0-alpha.1668014576%2Be1898131?classifier=sources
+- pkg:maven/com.pulumi/azure@5.24.0-alpha.1668019634%2Bba918e95?classifier=sources
+- pkg:maven/com.pulumi/azure@5.24.0?classifier=sources
 - pkg:maven/com.pulumi/azure@v5.12.0-alpha.1657285175%2Bf3796c4f?classifier=sources
 - pkg:maven/com.pulumi/azure@v5.12.0-alpha.1657562051%2B1ef8862e?classifier=sources
 - pkg:maven/com.pulumi/azure@v5.12.0?classifier=sources

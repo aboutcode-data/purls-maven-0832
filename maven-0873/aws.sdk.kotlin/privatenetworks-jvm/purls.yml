@@ -1,4 +1,8 @@
+- pkg:maven/aws.sdk.kotlin/privatenetworks-jvm@0.17.10-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/privatenetworks-jvm@0.17.11-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/privatenetworks-jvm@0.17.12-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/privatenetworks-jvm@0.17.5-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/privatenetworks-jvm@0.17.6-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/privatenetworks-jvm@0.17.7-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/privatenetworks-jvm@0.17.8-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/privatenetworks-jvm@0.17.9-beta?classifier=sources

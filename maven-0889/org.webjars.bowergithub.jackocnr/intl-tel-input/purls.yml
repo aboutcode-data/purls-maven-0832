@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.jackocnr/intl-tel-input@15.1.0
 - pkg:maven/org.webjars.bowergithub.jackocnr/intl-tel-input@15.1.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.jackocnr/intl-tel-input@17.0.19
+- pkg:maven/org.webjars.bowergithub.jackocnr/intl-tel-input@17.0.19?classifier=sources

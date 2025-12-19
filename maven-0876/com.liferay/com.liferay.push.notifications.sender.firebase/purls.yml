@@ -132,6 +132,9 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@2.0.26
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@2.0.28
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@2.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@2.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@2.0.3
@@ -321,6 +324,9 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@5.0.12
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@5.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@5.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@5.0.15
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@5.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.firebase@5.0.2

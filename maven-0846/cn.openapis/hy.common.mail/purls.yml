@@ -1,0 +1,2 @@
+- pkg:maven/cn.openapis/hy.common.mail@2.0.8
+- pkg:maven/cn.openapis/hy.common.mail@2.0.8?classifier=sources

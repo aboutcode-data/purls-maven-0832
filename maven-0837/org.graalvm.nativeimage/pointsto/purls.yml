@@ -42,6 +42,8 @@
 - pkg:maven/org.graalvm.nativeimage/pointsto@20.3.7.1
 - pkg:maven/org.graalvm.nativeimage/pointsto@20.3.7.1?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/pointsto@20.3.7?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/pointsto@20.3.8
+- pkg:maven/org.graalvm.nativeimage/pointsto@20.3.8?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/pointsto@21.0.0
 - pkg:maven/org.graalvm.nativeimage/pointsto@21.0.0.2
 - pkg:maven/org.graalvm.nativeimage/pointsto@21.0.0.2?classifier=sources
@@ -62,6 +64,8 @@
 - pkg:maven/org.graalvm.nativeimage/pointsto@21.3.3.1
 - pkg:maven/org.graalvm.nativeimage/pointsto@21.3.3.1?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/pointsto@21.3.3?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/pointsto@21.3.4
+- pkg:maven/org.graalvm.nativeimage/pointsto@21.3.4?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/pointsto@22.0.0
 - pkg:maven/org.graalvm.nativeimage/pointsto@22.0.0.2
 - pkg:maven/org.graalvm.nativeimage/pointsto@22.0.0.2?classifier=sources
@@ -74,3 +78,5 @@
 - pkg:maven/org.graalvm.nativeimage/pointsto@22.2.0.1
 - pkg:maven/org.graalvm.nativeimage/pointsto@22.2.0.1?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/pointsto@22.2.0?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/pointsto@22.3.0
+- pkg:maven/org.graalvm.nativeimage/pointsto@22.3.0?classifier=sources

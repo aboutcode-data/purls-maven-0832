@@ -70,3 +70,7 @@
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.6?classifier=sources
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.7
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.7?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.8
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.8?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.9
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.9?classifier=sources

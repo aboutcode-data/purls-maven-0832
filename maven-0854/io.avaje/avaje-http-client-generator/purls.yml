@@ -6,6 +6,10 @@
 - pkg:maven/io.avaje/avaje-http-client-generator@1.16?classifier=sources
 - pkg:maven/io.avaje/avaje-http-client-generator@1.17
 - pkg:maven/io.avaje/avaje-http-client-generator@1.17?classifier=sources
+- pkg:maven/io.avaje/avaje-http-client-generator@1.18
+- pkg:maven/io.avaje/avaje-http-client-generator@1.18?classifier=sources
+- pkg:maven/io.avaje/avaje-http-client-generator@1.19
+- pkg:maven/io.avaje/avaje-http-client-generator@1.19?classifier=sources
 - pkg:maven/io.avaje/avaje-http-client-generator@1.7
 - pkg:maven/io.avaje/avaje-http-client-generator@1.7?classifier=sources
 - pkg:maven/io.avaje/avaje-http-client-generator@1.9

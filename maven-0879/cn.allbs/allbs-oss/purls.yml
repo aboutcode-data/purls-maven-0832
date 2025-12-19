@@ -1,0 +1,2 @@
+- pkg:maven/cn.allbs/allbs-oss@1.1.8
+- pkg:maven/cn.allbs/allbs-oss@1.1.8?classifier=sources

@@ -43,3 +43,7 @@
 - pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-agent@1.0.682?classifier=sources
 - pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-agent@1.0.683?classifier=sources
 - pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-agent@1.0.684?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-agent@1.0.686?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-agent@1.0.687?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-agent@1.0.688?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-agent@1.0.689?classifier=sources

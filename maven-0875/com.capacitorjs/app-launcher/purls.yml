@@ -5,3 +5,6 @@
 - pkg:maven/com.capacitorjs/app-launcher@1.0.7?classifier=sources
 - pkg:maven/com.capacitorjs/app-launcher@1.0.8?classifier=sources
 - pkg:maven/com.capacitorjs/app-launcher@1.0.9?classifier=sources
+- pkg:maven/com.capacitorjs/app-launcher@4.0.1-beta1?classifier=sources
+- pkg:maven/com.capacitorjs/app-launcher@4.0.1?classifier=sources
+- pkg:maven/com.capacitorjs/app-launcher@4.1.0?classifier=sources

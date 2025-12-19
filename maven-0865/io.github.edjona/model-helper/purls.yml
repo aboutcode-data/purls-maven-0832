@@ -1,0 +1,2 @@
+- pkg:maven/io.github.edjona/model-helper@1.0.0
+- pkg:maven/io.github.edjona/model-helper@1.0.0?classifier=sources

@@ -10,5 +10,9 @@
 - pkg:maven/org.postgresql/r2dbc-postgresql@0.9.1.RELEASE?classifier=sources
 - pkg:maven/org.postgresql/r2dbc-postgresql@0.9.2.RELEASE
 - pkg:maven/org.postgresql/r2dbc-postgresql@0.9.2.RELEASE?classifier=sources
+- pkg:maven/org.postgresql/r2dbc-postgresql@0.9.3.RELEASE
+- pkg:maven/org.postgresql/r2dbc-postgresql@0.9.3.RELEASE?classifier=sources
 - pkg:maven/org.postgresql/r2dbc-postgresql@1.0.0.RC1
 - pkg:maven/org.postgresql/r2dbc-postgresql@1.0.0.RC1?classifier=sources
+- pkg:maven/org.postgresql/r2dbc-postgresql@1.0.0.RELEASE
+- pkg:maven/org.postgresql/r2dbc-postgresql@1.0.0.RELEASE?classifier=sources

@@ -98,3 +98,9 @@
 - pkg:maven/org.alfasoftware/morf-nuodb@1.7.5?classifier=sources
 - pkg:maven/org.alfasoftware/morf-nuodb@1.8.0
 - pkg:maven/org.alfasoftware/morf-nuodb@1.8.0?classifier=sources
+- pkg:maven/org.alfasoftware/morf-nuodb@1.8.1
+- pkg:maven/org.alfasoftware/morf-nuodb@1.8.1?classifier=sources
+- pkg:maven/org.alfasoftware/morf-nuodb@1.9.0
+- pkg:maven/org.alfasoftware/morf-nuodb@1.9.0?classifier=sources
+- pkg:maven/org.alfasoftware/morf-nuodb@1.9.1
+- pkg:maven/org.alfasoftware/morf-nuodb@1.9.1?classifier=sources

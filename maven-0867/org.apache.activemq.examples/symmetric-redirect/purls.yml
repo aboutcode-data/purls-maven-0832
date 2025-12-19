@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.activemq.examples/symmetric-redirect@2.25.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples/symmetric-redirect@2.26.0
 - pkg:maven/org.apache.activemq.examples/symmetric-redirect@2.26.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples/symmetric-redirect@2.27.0
+- pkg:maven/org.apache.activemq.examples/symmetric-redirect@2.27.0?classifier=sources

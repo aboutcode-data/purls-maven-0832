@@ -152,6 +152,12 @@
 - pkg:maven/com.amplifyframework/aws-predictions@1.37.4?type=aar
 - pkg:maven/com.amplifyframework/aws-predictions@1.37.5?classifier=sources
 - pkg:maven/com.amplifyframework/aws-predictions@1.37.5?type=aar
+- pkg:maven/com.amplifyframework/aws-predictions@1.37.6?classifier=sources
+- pkg:maven/com.amplifyframework/aws-predictions@1.37.6?type=aar
+- pkg:maven/com.amplifyframework/aws-predictions@1.37.7?classifier=sources
+- pkg:maven/com.amplifyframework/aws-predictions@1.37.7?type=aar
+- pkg:maven/com.amplifyframework/aws-predictions@1.37.8?classifier=sources
+- pkg:maven/com.amplifyframework/aws-predictions@1.37.8?type=aar
 - pkg:maven/com.amplifyframework/aws-predictions@1.4.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-predictions@1.4.0?type=aar
 - pkg:maven/com.amplifyframework/aws-predictions@1.4.1?classifier=sources
@@ -184,6 +190,8 @@
 - pkg:maven/com.amplifyframework/aws-predictions@1.6.8?type=aar
 - pkg:maven/com.amplifyframework/aws-predictions@1.6.9?classifier=sources
 - pkg:maven/com.amplifyframework/aws-predictions@1.6.9?type=aar
+- pkg:maven/com.amplifyframework/aws-predictions@2.0.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-predictions@2.0.0?type=aar
 - pkg:maven/com.amplifyframework/aws-predictions@main?classifier=sources
 - pkg:maven/com.amplifyframework/aws-predictions@main?type=aar
 - pkg:maven/com.amplifyframework/aws-predictions@v1.37.0-cpkey-preview.0?classifier=sources

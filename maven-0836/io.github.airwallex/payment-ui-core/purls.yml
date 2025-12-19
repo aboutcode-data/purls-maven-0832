@@ -8,3 +8,4 @@
 - pkg:maven/io.github.airwallex/payment-ui-core@4.0.3?classifier=sources
 - pkg:maven/io.github.airwallex/payment-ui-core@4.0.4?classifier=sources
 - pkg:maven/io.github.airwallex/payment-ui-core@4.1.0?classifier=sources
+- pkg:maven/io.github.airwallex/payment-ui-core@4.1.1?classifier=sources

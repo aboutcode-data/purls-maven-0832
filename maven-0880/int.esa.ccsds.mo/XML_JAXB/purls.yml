@@ -8,3 +8,5 @@
 - pkg:maven/int.esa.ccsds.mo/XML_JAXB@1.7?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/XML_JAXB@8.0
 - pkg:maven/int.esa.ccsds.mo/XML_JAXB@8.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/XML_JAXB@8.1
+- pkg:maven/int.esa.ccsds.mo/XML_JAXB@8.1?classifier=sources

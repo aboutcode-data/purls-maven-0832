@@ -168,6 +168,8 @@
 - pkg:maven/org.infinispan/infinispan-client-hotrod@13.0.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod@13.0.11.Final
 - pkg:maven/org.infinispan/infinispan-client-hotrod@13.0.11.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-client-hotrod@13.0.12.Final
+- pkg:maven/org.infinispan/infinispan-client-hotrod@13.0.12.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod@13.0.2.Final
 - pkg:maven/org.infinispan/infinispan-client-hotrod@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod@13.0.3.Final
@@ -200,6 +202,8 @@
 - pkg:maven/org.infinispan/infinispan-client-hotrod@14.0.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod@14.0.1.Final
 - pkg:maven/org.infinispan/infinispan-client-hotrod@14.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-client-hotrod@14.0.2.Final
+- pkg:maven/org.infinispan/infinispan-client-hotrod@14.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod@5.0.0.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod@5.0.1.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod@5.1.0.ALPHA1?classifier=sources

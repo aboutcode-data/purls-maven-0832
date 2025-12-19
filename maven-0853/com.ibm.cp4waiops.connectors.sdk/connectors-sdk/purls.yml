@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.cp4waiops.connectors.sdk/connectors-sdk@1.4.4
+- pkg:maven/com.ibm.cp4waiops.connectors.sdk/connectors-sdk@1.4.4?classifier=sources

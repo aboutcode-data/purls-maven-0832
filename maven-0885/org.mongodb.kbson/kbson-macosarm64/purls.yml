@@ -1,0 +1,1 @@
+- pkg:maven/org.mongodb.kbson/kbson-macosarm64@0.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.gu/commercial-shared_2.12@6.1.6
 - pkg:maven/com.gu/commercial-shared_2.12@6.1.6?classifier=sources
+- pkg:maven/com.gu/commercial-shared_2.12@6.1.7
+- pkg:maven/com.gu/commercial-shared_2.12@6.1.7?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/org.opensearch/opensearch-job-scheduler@2.2.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler@2.2.1.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler@2.3.0.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-job-scheduler@2.4.0.0?classifier=sources

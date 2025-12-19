@@ -1,0 +1,2 @@
+- pkg:maven/io.activated.reduction/reduction-core@1.0.2.10?classifier=sources
+- pkg:maven/io.activated.reduction/reduction-core@2.2.0?classifier=sources

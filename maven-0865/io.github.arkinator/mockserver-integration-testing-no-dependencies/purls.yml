@@ -1,0 +1,2 @@
+- pkg:maven/io.github.arkinator/mockserver-integration-testing-no-dependencies@5.14.1
+- pkg:maven/io.github.arkinator/mockserver-integration-testing-no-dependencies@5.14.1?classifier=sources

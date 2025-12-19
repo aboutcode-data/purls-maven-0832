@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere/shardingsphere-sql-federation-executor-original@5.2.1
+- pkg:maven/org.apache.shardingsphere/shardingsphere-sql-federation-executor-original@5.2.1?classifier=sources

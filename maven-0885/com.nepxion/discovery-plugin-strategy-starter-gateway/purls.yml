@@ -298,6 +298,10 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.12.6?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.12.7
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.12.7?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.12.8
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.12.8?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.12.9
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.12.9?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.13.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.13.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.13.1
@@ -314,6 +318,10 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.16.2?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.17.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.17.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.18.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.18.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.19.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.19.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.2.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.2.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway@6.3.0

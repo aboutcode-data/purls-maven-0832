@@ -76,3 +76,5 @@
 - pkg:maven/org.cryptomator/webdav-nio-adapter@1.2.7?classifier=sources
 - pkg:maven/org.cryptomator/webdav-nio-adapter@1.2.8
 - pkg:maven/org.cryptomator/webdav-nio-adapter@1.2.8?classifier=sources
+- pkg:maven/org.cryptomator/webdav-nio-adapter@2.0.0-beta1
+- pkg:maven/org.cryptomator/webdav-nio-adapter@2.0.0-beta1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.bytedeco/tritonserver-platform@2.18-1.5.7
 - pkg:maven/org.bytedeco/tritonserver-platform@2.18-1.5.7?classifier=sources
+- pkg:maven/org.bytedeco/tritonserver-platform@2.26-1.5.8
+- pkg:maven/org.bytedeco/tritonserver-platform@2.26-1.5.8?classifier=sources

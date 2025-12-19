@@ -1,0 +1,2 @@
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-iossimulatorarm64@1.0.0-alpha-07-native-compose?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-iossimulatorarm64@1.0.0-beta-01-native-compose?classifier=sources

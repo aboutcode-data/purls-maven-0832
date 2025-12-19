@@ -1,0 +1,4 @@
+- pkg:maven/vip.breakpoint/easy-log@1.0.0.RELEASE
+- pkg:maven/vip.breakpoint/easy-log@1.0.0.RELEASE?classifier=sources
+- pkg:maven/vip.breakpoint/easy-log@1.0.1
+- pkg:maven/vip.breakpoint/easy-log@1.0.1?classifier=sources

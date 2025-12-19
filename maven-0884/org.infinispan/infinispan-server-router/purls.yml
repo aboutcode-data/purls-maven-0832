@@ -168,6 +168,8 @@
 - pkg:maven/org.infinispan/infinispan-server-router@13.0.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@13.0.11.Final
 - pkg:maven/org.infinispan/infinispan-server-router@13.0.11.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-router@13.0.12.Final
+- pkg:maven/org.infinispan/infinispan-server-router@13.0.12.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@13.0.2.Final
 - pkg:maven/org.infinispan/infinispan-server-router@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@13.0.3.Final
@@ -200,6 +202,8 @@
 - pkg:maven/org.infinispan/infinispan-server-router@14.0.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@14.0.1.Final
 - pkg:maven/org.infinispan/infinispan-server-router@14.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-router@14.0.2.Final
+- pkg:maven/org.infinispan/infinispan-server-router@14.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@9.0.0.Beta2
 - pkg:maven/org.infinispan/infinispan-server-router@9.0.0.Beta2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@9.0.0.CR1

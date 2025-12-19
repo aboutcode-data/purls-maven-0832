@@ -12,4 +12,5 @@
 - pkg:maven/org.drewcarlson/mobiuskt-core-jvm@0.5.2?classifier=sources
 - pkg:maven/org.drewcarlson/mobiuskt-core-jvm@0.6.0?classifier=sources
 - pkg:maven/org.drewcarlson/mobiuskt-core-jvm@1.0.0-rc01?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-core-jvm@1.0.0-rc02?classifier=sources
 - pkg:maven/org.drewcarlson/mobiuskt-core-jvm@v0.2.0?classifier=sources

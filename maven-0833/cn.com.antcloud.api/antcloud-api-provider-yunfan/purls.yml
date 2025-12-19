@@ -1,4 +1,6 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yunfan@3.17.2
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yunfan@3.17.2?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yunfan@3.20.4
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yunfan@3.20.4?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yunfan@3.8.5
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yunfan@3.8.5?classifier=sources

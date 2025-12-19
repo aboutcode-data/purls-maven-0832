@@ -24,3 +24,5 @@
 - pkg:maven/com.aliyun/aliyun-gateway-pop@0.1.6-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-gateway-pop@0.1.7-beta
 - pkg:maven/com.aliyun/aliyun-gateway-pop@0.1.7-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-gateway-pop@0.1.8-beta
+- pkg:maven/com.aliyun/aliyun-gateway-pop@0.1.8-beta?classifier=sources

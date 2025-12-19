@@ -1,0 +1,2 @@
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.8
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.8?classifier=sources

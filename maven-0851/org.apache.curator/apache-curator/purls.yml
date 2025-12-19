@@ -33,3 +33,4 @@
 - pkg:maven/org.apache.curator/apache-curator@5.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.curator/apache-curator@5.2.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.curator/apache-curator@5.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.curator/apache-curator@5.4.0?classifier=source-release&type=zip

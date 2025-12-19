@@ -1,0 +1,1 @@
+- pkg:maven/io.github.robothy/local-s3-testcontainers@1.4?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.factset.sdk/factsetentityreportbuilder@0.20.0?classifier=sources
 - pkg:maven/com.factset.sdk/factsetentityreportbuilder@0.21.0?classifier=sources
 - pkg:maven/com.factset.sdk/factsetentityreportbuilder@1.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/factsetentityreportbuilder@1.0.1?classifier=sources

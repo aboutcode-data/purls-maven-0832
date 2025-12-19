@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.satoken/quarkus-satoken-dao-alone-redis-deployment@1.31.0
+- pkg:maven/io.quarkiverse.satoken/quarkus-satoken-dao-alone-redis-deployment@1.31.0?classifier=sources

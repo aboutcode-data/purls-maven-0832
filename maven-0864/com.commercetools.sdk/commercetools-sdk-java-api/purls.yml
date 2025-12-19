@@ -85,3 +85,4 @@
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@9.2.2?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@9.3.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@9.4.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@9.5.0?classifier=sources

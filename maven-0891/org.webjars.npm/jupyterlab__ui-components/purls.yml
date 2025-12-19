@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jupyterlab__ui-components@4.0.0-alpha.30
+- pkg:maven/org.webjars.npm/jupyterlab__ui-components@4.0.0-alpha.30?classifier=sources

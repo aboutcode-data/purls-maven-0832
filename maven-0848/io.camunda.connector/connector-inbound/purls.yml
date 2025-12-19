@@ -1,0 +1,6 @@
+- pkg:maven/io.camunda.connector/connector-inbound@0.3.0-alpha2
+- pkg:maven/io.camunda.connector/connector-inbound@0.3.0-alpha2?classifier=sources
+- pkg:maven/io.camunda.connector/connector-inbound@0.3.0-alpha3
+- pkg:maven/io.camunda.connector/connector-inbound@0.3.0-alpha3?classifier=sources
+- pkg:maven/io.camunda.connector/connector-inbound@0.3.0-alpha4
+- pkg:maven/io.camunda.connector/connector-inbound@0.3.0-alpha4?classifier=sources

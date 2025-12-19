@@ -156,8 +156,16 @@
 - pkg:maven/com.google.cloud/google-cloud-nio@0.124.16?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.124.17
 - pkg:maven/com.google.cloud/google-cloud-nio@0.124.17?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio@0.124.18
+- pkg:maven/com.google.cloud/google-cloud-nio@0.124.18?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio@0.124.19
+- pkg:maven/com.google.cloud/google-cloud-nio@0.124.19?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.124.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.124.2
+- pkg:maven/com.google.cloud/google-cloud-nio@0.124.20
+- pkg:maven/com.google.cloud/google-cloud-nio@0.124.20?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio@0.124.21
+- pkg:maven/com.google.cloud/google-cloud-nio@0.124.21?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.124.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.124.3
 - pkg:maven/com.google.cloud/google-cloud-nio@0.124.3?classifier=sources

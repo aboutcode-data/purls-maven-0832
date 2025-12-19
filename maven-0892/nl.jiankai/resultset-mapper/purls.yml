@@ -22,3 +22,7 @@
 - pkg:maven/nl.jiankai/resultset-mapper@1.5.0?classifier=sources
 - pkg:maven/nl.jiankai/resultset-mapper@1.6.0
 - pkg:maven/nl.jiankai/resultset-mapper@1.6.0?classifier=sources
+- pkg:maven/nl.jiankai/resultset-mapper@1.6.1
+- pkg:maven/nl.jiankai/resultset-mapper@1.6.1?classifier=sources
+- pkg:maven/nl.jiankai/resultset-mapper@1.6.2
+- pkg:maven/nl.jiankai/resultset-mapper@1.6.2?classifier=sources

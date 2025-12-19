@@ -160,6 +160,8 @@
 - pkg:maven/net.sourceforge.pmd/pmd-jsp@6.5.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-jsp@6.50.0
 - pkg:maven/net.sourceforge.pmd/pmd-jsp@6.50.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-jsp@6.51.0
+- pkg:maven/net.sourceforge.pmd/pmd-jsp@6.51.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-jsp@6.6.0
 - pkg:maven/net.sourceforge.pmd/pmd-jsp@6.6.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-jsp@6.7.0

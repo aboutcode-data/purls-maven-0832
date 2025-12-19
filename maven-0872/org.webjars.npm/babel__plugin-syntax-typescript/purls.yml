@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/babel__plugin-syntax-typescript@7.16.7?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-syntax-typescript@7.17.12
 - pkg:maven/org.webjars.npm/babel__plugin-syntax-typescript@7.17.12?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-syntax-typescript@7.20.0
+- pkg:maven/org.webjars.npm/babel__plugin-syntax-typescript@7.20.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-syntax-typescript@7.8.3
 - pkg:maven/org.webjars.npm/babel__plugin-syntax-typescript@7.8.3?classifier=sources

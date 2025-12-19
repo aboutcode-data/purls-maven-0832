@@ -784,6 +784,10 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.56?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.57
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.57?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.63
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.63?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.64
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.64?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.8
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.analytics.auth.rest.api@3.0.9

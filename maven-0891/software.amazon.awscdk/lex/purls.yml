@@ -98,3 +98,9 @@
 - pkg:maven/software.amazon.awscdk/lex@1.177.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lex@1.178.0
 - pkg:maven/software.amazon.awscdk/lex@1.178.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.179.0
+- pkg:maven/software.amazon.awscdk/lex@1.179.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.180.0
+- pkg:maven/software.amazon.awscdk/lex@1.180.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lex@1.181.0
+- pkg:maven/software.amazon.awscdk/lex@1.181.0?classifier=sources

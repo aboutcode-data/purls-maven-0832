@@ -163,3 +163,4 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@3.0.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@3.0.2?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@3.0.3?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-scheduler@3.0.4?classifier=sources

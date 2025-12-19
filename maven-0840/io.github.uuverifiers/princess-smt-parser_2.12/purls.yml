@@ -12,3 +12,5 @@
 - pkg:maven/io.github.uuverifiers/princess-smt-parser_2.12@2022-03-16?classifier=sources
 - pkg:maven/io.github.uuverifiers/princess-smt-parser_2.12@2022-07-01
 - pkg:maven/io.github.uuverifiers/princess-smt-parser_2.12@2022-07-01?classifier=sources
+- pkg:maven/io.github.uuverifiers/princess-smt-parser_2.12@2022-11-03
+- pkg:maven/io.github.uuverifiers/princess-smt-parser_2.12@2022-11-03?classifier=sources

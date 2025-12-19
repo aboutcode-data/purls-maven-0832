@@ -63,3 +63,5 @@
 - pkg:maven/org.jboss.windup.rules.apps/windup-rules-xml-tests@6.0.0.Alpha1
 - pkg:maven/org.jboss.windup.rules.apps/windup-rules-xml-tests@6.0.0.Alpha2
 - pkg:maven/org.jboss.windup.rules.apps/windup-rules-xml-tests@6.0.0.Final
+- pkg:maven/org.jboss.windup.rules.apps/windup-rules-xml-tests@6.1.0.Alpha1
+- pkg:maven/org.jboss.windup.rules.apps/windup-rules-xml-tests@6.1.0.Final

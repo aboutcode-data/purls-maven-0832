@@ -1,5 +1,7 @@
 - pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.10
 - pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.10?classifier=sources
+- pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.11
+- pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.11?classifier=sources
 - pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.5
 - pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.5?classifier=sources
 - pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.6
@@ -10,3 +12,5 @@
 - pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.8?classifier=sources
 - pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.9
 - pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.0.9?classifier=sources
+- pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.1.0
+- pkg:maven/no.ks/k-es-demo-app-grpc-jackson@3.1.0?classifier=sources

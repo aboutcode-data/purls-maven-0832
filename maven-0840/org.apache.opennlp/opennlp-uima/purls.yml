@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.opennlp/opennlp-uima@1.9.4?classifier=sources
 - pkg:maven/org.apache.opennlp/opennlp-uima@2.0.0
 - pkg:maven/org.apache.opennlp/opennlp-uima@2.0.0?classifier=sources
+- pkg:maven/org.apache.opennlp/opennlp-uima@2.1.0
+- pkg:maven/org.apache.opennlp/opennlp-uima@2.1.0?classifier=sources

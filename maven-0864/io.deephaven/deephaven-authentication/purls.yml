@@ -1,1 +1,2 @@
 - pkg:maven/io.deephaven/deephaven-authentication@0.17.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-authentication@0.18.0?classifier=sources

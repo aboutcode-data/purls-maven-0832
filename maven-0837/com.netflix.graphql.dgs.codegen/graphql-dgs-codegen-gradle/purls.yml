@@ -43,3 +43,6 @@
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-gradle@5.3.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-gradle@5.3.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-gradle@5.4.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-gradle@5.5.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-gradle@5.6.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-gradle@5.6.2?classifier=sources

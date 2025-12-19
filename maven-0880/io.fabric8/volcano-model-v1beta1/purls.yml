@@ -22,3 +22,5 @@
 - pkg:maven/io.fabric8/volcano-model-v1beta1@6.1.0?classifier=sources
 - pkg:maven/io.fabric8/volcano-model-v1beta1@6.1.1
 - pkg:maven/io.fabric8/volcano-model-v1beta1@6.1.1?classifier=sources
+- pkg:maven/io.fabric8/volcano-model-v1beta1@6.2.0
+- pkg:maven/io.fabric8/volcano-model-v1beta1@6.2.0?classifier=sources

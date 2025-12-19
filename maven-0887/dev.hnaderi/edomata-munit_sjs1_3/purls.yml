@@ -8,3 +8,5 @@
 - pkg:maven/dev.hnaderi/edomata-munit_sjs1_3@0.5.1?classifier=sources
 - pkg:maven/dev.hnaderi/edomata-munit_sjs1_3@0.5.2
 - pkg:maven/dev.hnaderi/edomata-munit_sjs1_3@0.5.2?classifier=sources
+- pkg:maven/dev.hnaderi/edomata-munit_sjs1_3@0.6.0
+- pkg:maven/dev.hnaderi/edomata-munit_sjs1_3@0.6.0?classifier=sources

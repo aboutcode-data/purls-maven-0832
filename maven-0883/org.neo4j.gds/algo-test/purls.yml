@@ -34,3 +34,8 @@
 - pkg:maven/org.neo4j.gds/algo-test@2.2.0-alpha05?classifier=sources
 - pkg:maven/org.neo4j.gds/algo-test@2.2.0?classifier=sources
 - pkg:maven/org.neo4j.gds/algo-test@2.2.1?classifier=sources
+- pkg:maven/org.neo4j.gds/algo-test@2.2.2?classifier=sources
+- pkg:maven/org.neo4j.gds/algo-test@2.2.3?classifier=sources
+- pkg:maven/org.neo4j.gds/algo-test@2.2.4?classifier=sources
+- pkg:maven/org.neo4j.gds/algo-test@2.3.0-alpha01?classifier=sources
+- pkg:maven/org.neo4j.gds/algo-test@2.3.0-alpha02?classifier=sources

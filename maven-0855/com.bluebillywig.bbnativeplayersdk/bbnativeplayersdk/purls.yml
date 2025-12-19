@@ -22,3 +22,5 @@
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk@7.90.0?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk@7.90.1?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk@7.93.0?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk@7.94.0?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk@7.95.0?classifier=sources

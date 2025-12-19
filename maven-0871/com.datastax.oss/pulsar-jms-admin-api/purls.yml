@@ -1,0 +1,4 @@
+- pkg:maven/com.datastax.oss/pulsar-jms-admin-api@3.1.0
+- pkg:maven/com.datastax.oss/pulsar-jms-admin-api@3.1.0?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-admin-api@3.2.0
+- pkg:maven/com.datastax.oss/pulsar-jms-admin-api@3.2.0?classifier=sources

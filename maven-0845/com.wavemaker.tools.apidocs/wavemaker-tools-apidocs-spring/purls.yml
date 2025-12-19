@@ -22,6 +22,8 @@
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@10.15.2?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@10.15.3.ee?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@10.15.3?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@10.15.4.ee?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@10.15.4?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@10.6.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@10.6.0?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@10.6.1.ee?classifier=sources
@@ -61,4 +63,6 @@
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@11.1.2?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@11.1.3.ee?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@11.1.3?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@11.1.4.ee?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@11.2.0?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-spring@9.9.9-20201011200802?classifier=sources

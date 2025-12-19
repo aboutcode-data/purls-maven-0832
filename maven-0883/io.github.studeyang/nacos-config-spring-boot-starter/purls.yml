@@ -1,0 +1,2 @@
+- pkg:maven/io.github.studeyang/nacos-config-spring-boot-starter@1.4.0
+- pkg:maven/io.github.studeyang/nacos-config-spring-boot-starter@1.4.0?classifier=sources

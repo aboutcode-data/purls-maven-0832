@@ -50,6 +50,16 @@
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.42?classifier=sources
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.43
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.43?classifier=sources
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.44.202211081849
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.44.202211081849?classifier=sources
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.44.202211081915
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.44.202211081915?classifier=sources
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.44.202211082139
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.44.202211082139?classifier=sources
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.45.202211090053
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.45.202211090053?classifier=sources
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.45.202211090110
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.45.202211090110?classifier=sources
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.6
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.6?classifier=sources
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext@3.0.7

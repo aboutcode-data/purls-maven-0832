@@ -40,3 +40,5 @@
 - pkg:maven/org.codelibs.fess/fess-ds-git@14.3.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-git@14.4.0
 - pkg:maven/org.codelibs.fess/fess-ds-git@14.4.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-git@14.5.0
+- pkg:maven/org.codelibs.fess/fess-ds-git@14.5.0?classifier=sources

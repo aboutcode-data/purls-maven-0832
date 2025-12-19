@@ -6,3 +6,5 @@
 - pkg:maven/com.aliyun/codeup20200414@0.1.6?classifier=sources
 - pkg:maven/com.aliyun/codeup20200414@1.0.0
 - pkg:maven/com.aliyun/codeup20200414@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/codeup20200414@1.0.1
+- pkg:maven/com.aliyun/codeup20200414@1.0.1?classifier=sources

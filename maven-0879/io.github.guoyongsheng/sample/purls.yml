@@ -1,0 +1,2 @@
+- pkg:maven/io.github.guoyongsheng/sample@1.2.3?classifier=sources
+- pkg:maven/io.github.guoyongsheng/sample@1.2.4?classifier=sources

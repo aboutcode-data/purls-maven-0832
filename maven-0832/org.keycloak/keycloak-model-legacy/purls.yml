@@ -6,3 +6,7 @@
 - pkg:maven/org.keycloak/keycloak-model-legacy@19.0.2?classifier=sources
 - pkg:maven/org.keycloak/keycloak-model-legacy@19.0.3
 - pkg:maven/org.keycloak/keycloak-model-legacy@19.0.3?classifier=sources
+- pkg:maven/org.keycloak/keycloak-model-legacy@20.0.0
+- pkg:maven/org.keycloak/keycloak-model-legacy@20.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-model-legacy@20.0.1
+- pkg:maven/org.keycloak/keycloak-model-legacy@20.0.1?classifier=sources

@@ -84,3 +84,13 @@
 - pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2135?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2139
 - pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2139?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2141
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2141?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2145
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2145?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2146
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2146?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2152
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2152?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2159
+- pkg:maven/io.sealights.on-premise.agents/sl-build-scanner@4.0.2159?classifier=sources

@@ -4,5 +4,7 @@
 - pkg:maven/com.myzlab/K@1.1.37?classifier=sources
 - pkg:maven/com.myzlab/K@1.1.38
 - pkg:maven/com.myzlab/K@1.1.38?classifier=sources
+- pkg:maven/com.myzlab/K@1.1.39
+- pkg:maven/com.myzlab/K@1.1.39?classifier=sources
 - pkg:maven/com.myzlab/K@1.1.7
 - pkg:maven/com.myzlab/K@1.1.7?classifier=sources

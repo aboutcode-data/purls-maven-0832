@@ -1,0 +1,2 @@
+- pkg:maven/org.knowm.xchange/xchange-coincheck@5.0.14
+- pkg:maven/org.knowm.xchange/xchange-coincheck@5.0.14?classifier=sources

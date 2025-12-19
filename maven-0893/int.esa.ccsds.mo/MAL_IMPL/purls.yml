@@ -18,3 +18,5 @@
 - pkg:maven/int.esa.ccsds.mo/MAL_IMPL@1.7?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/MAL_IMPL@8.0
 - pkg:maven/int.esa.ccsds.mo/MAL_IMPL@8.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/MAL_IMPL@8.1
+- pkg:maven/int.esa.ccsds.mo/MAL_IMPL@8.1?classifier=sources

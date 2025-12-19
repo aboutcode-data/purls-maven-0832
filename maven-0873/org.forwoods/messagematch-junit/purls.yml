@@ -12,3 +12,5 @@
 - pkg:maven/org.forwoods/messagematch-junit@0.1.2?classifier=sources
 - pkg:maven/org.forwoods/messagematch-junit@0.1.3
 - pkg:maven/org.forwoods/messagematch-junit@0.1.3?classifier=sources
+- pkg:maven/org.forwoods/messagematch-junit@0.1.5
+- pkg:maven/org.forwoods/messagematch-junit@0.1.5?classifier=sources

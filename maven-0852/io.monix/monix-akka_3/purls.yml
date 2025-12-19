@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/monix-akka_3@0.9.0
+- pkg:maven/io.monix/monix-akka_3@0.9.0?classifier=sources

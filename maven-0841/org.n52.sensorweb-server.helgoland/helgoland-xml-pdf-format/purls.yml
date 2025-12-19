@@ -26,9 +26,15 @@
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.4.2?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.4.3
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.4.3?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.4.4
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.4.4?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.1
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.10
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.10?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.11
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.11?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.12
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.12?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.2
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-xml-pdf-format@3.5.0-PR.2?classifier=sources

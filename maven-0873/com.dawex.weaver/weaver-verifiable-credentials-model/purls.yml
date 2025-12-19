@@ -1,0 +1,2 @@
+- pkg:maven/com.dawex.weaver/weaver-verifiable-credentials-model@1.0.0?classifier=sources
+- pkg:maven/com.dawex.weaver/weaver-verifiable-credentials-model@1.0.1?classifier=sources

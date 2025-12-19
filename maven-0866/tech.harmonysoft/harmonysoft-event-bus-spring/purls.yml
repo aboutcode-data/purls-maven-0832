@@ -14,6 +14,13 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.20.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.21.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.22.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.23.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.24.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.25.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.26.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.27.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.28.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.29.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.7.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.8.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-spring@1.9.0?classifier=sources

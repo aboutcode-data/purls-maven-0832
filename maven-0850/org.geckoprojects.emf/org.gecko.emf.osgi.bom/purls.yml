@@ -4,3 +4,9 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@3.4.0?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.0.0
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.0.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.3.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.3.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.3.1
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.3.1?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.4.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bom@4.4.0?classifier=sources

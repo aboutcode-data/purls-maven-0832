@@ -2,3 +2,7 @@
 - pkg:maven/dev.vality/scrooge-proto@1.16-b0d5cf2?classifier=sources
 - pkg:maven/dev.vality/scrooge-proto@1.17-c4ab541
 - pkg:maven/dev.vality/scrooge-proto@1.17-c4ab541?classifier=sources
+- pkg:maven/dev.vality/scrooge-proto@1.18-b9b2aa7
+- pkg:maven/dev.vality/scrooge-proto@1.18-b9b2aa7?classifier=sources
+- pkg:maven/dev.vality/scrooge-proto@1.19-bf0f65a
+- pkg:maven/dev.vality/scrooge-proto@1.19-bf0f65a?classifier=sources

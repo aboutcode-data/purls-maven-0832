@@ -1,2 +1,14 @@
 - pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.5.1113
 - pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.5.1113?classifier=sources
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.6
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.6?classifier=sources
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7.001
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7.001?classifier=sources
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7.004
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7.004?classifier=sources
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7.005
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7.005?classifier=sources
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7.006
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7.006?classifier=sources
+- pkg:maven/io.github.wherby/document-for-dora_2.12@1.8.0.7?classifier=sources

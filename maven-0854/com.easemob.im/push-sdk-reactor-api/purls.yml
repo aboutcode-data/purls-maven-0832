@@ -1,0 +1,16 @@
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC1
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC1?classifier=sources
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC2
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC2?classifier=sources
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC3
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC3?classifier=sources
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC4
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC4?classifier=sources
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC5
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC5?classifier=sources
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC6
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC6?classifier=sources
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC7
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC7?classifier=sources
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC8
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.2.RC8?classifier=sources

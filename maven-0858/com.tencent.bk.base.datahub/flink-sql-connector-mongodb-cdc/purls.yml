@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.bk.base.datahub/flink-sql-connector-mongodb-cdc@2.2.1-bkbase.2
+- pkg:maven/com.tencent.bk.base.datahub/flink-sql-connector-mongodb-cdc@2.2.1-bkbase.2?classifier=sources
