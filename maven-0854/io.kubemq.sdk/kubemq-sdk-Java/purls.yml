@@ -7,3 +7,4 @@
 - pkg:maven/io.kubemq.sdk/kubemq-sdk-Java@1.0.2?classifier=sources
 - pkg:maven/io.kubemq.sdk/kubemq-sdk-Java@1.0.3
 - pkg:maven/io.kubemq.sdk/kubemq-sdk-Java@1.0.3?classifier=sources
+- pkg:maven/io.kubemq.sdk/kubemq-sdk-Java@1.0.4?classifier=sources

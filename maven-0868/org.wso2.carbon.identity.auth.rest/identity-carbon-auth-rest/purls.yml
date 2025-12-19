@@ -96,6 +96,8 @@
 - pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.7.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.7.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.8.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.8.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.8.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.8.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.8.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.auth.rest/identity-carbon-auth-rest@1.8.3?classifier=source-release&type=zip

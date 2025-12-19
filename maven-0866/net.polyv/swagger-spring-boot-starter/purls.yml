@@ -1,0 +1,6 @@
+- pkg:maven/net.polyv/swagger-spring-boot-starter@1.0.0.Final.RELEASE
+- pkg:maven/net.polyv/swagger-spring-boot-starter@1.0.0.Final.RELEASE?classifier=sources
+- pkg:maven/net.polyv/swagger-spring-boot-starter@1.0.1.Final.RELEASE
+- pkg:maven/net.polyv/swagger-spring-boot-starter@1.0.1.Final.RELEASE?classifier=sources
+- pkg:maven/net.polyv/swagger-spring-boot-starter@1.0.2.Final.RELEASE
+- pkg:maven/net.polyv/swagger-spring-boot-starter@1.0.2.Final.RELEASE?classifier=sources

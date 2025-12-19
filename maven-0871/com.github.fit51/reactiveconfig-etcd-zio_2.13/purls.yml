@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fit51/reactiveconfig-etcd-zio_2.13@0.3.0
+- pkg:maven/com.github.fit51/reactiveconfig-etcd-zio_2.13@0.3.0?classifier=sources

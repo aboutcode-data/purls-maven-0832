@@ -104,8 +104,16 @@
 - pkg:maven/org.qbicc/qbicc-machine-file-bin@0.56.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-machine-file-bin@0.57.0
 - pkg:maven/org.qbicc/qbicc-machine-file-bin@0.57.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-machine-file-bin@0.58.0
+- pkg:maven/org.qbicc/qbicc-machine-file-bin@0.58.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-machine-file-bin@0.59.0
+- pkg:maven/org.qbicc/qbicc-machine-file-bin@0.59.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-machine-file-bin@0.6.0
 - pkg:maven/org.qbicc/qbicc-machine-file-bin@0.6.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-machine-file-bin@0.60.0
+- pkg:maven/org.qbicc/qbicc-machine-file-bin@0.60.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-machine-file-bin@0.61.0
+- pkg:maven/org.qbicc/qbicc-machine-file-bin@0.61.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-machine-file-bin@0.7.0
 - pkg:maven/org.qbicc/qbicc-machine-file-bin@0.7.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-machine-file-bin@0.8.0

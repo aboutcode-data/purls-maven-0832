@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-diagram-java@4.0.0
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-diagram-java@4.0.0?classifier=sources

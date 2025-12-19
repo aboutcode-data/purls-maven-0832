@@ -1,0 +1,2 @@
+- pkg:maven/be.vito.rma.configtools/configtools-common@2.2.1
+- pkg:maven/be.vito.rma.configtools/configtools-common@2.2.1?classifier=sources

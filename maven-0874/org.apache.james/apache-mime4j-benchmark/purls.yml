@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.james/apache-mime4j-benchmark@0.8.7?classifier=sources
 - pkg:maven/org.apache.james/apache-mime4j-benchmark@0.8.8
 - pkg:maven/org.apache.james/apache-mime4j-benchmark@0.8.8?classifier=sources
+- pkg:maven/org.apache.james/apache-mime4j-benchmark@0.8.9
+- pkg:maven/org.apache.james/apache-mime4j-benchmark@0.8.9?classifier=sources

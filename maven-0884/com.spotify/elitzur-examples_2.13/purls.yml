@@ -28,3 +28,7 @@
 - pkg:maven/com.spotify/elitzur-examples_2.13@0.6.8?classifier=sources
 - pkg:maven/com.spotify/elitzur-examples_2.13@0.6.9
 - pkg:maven/com.spotify/elitzur-examples_2.13@0.6.9?classifier=sources
+- pkg:maven/com.spotify/elitzur-examples_2.13@0.7.0
+- pkg:maven/com.spotify/elitzur-examples_2.13@0.7.0?classifier=sources
+- pkg:maven/com.spotify/elitzur-examples_2.13@0.7.1
+- pkg:maven/com.spotify/elitzur-examples_2.13@0.7.1?classifier=sources

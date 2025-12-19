@@ -24,3 +24,7 @@
 - pkg:maven/com.github.charlemaznable/gentle-factory@2022.0.1?classifier=sources
 - pkg:maven/com.github.charlemaznable/gentle-factory@2022.0.2
 - pkg:maven/com.github.charlemaznable/gentle-factory@2022.0.2?classifier=sources
+- pkg:maven/com.github.charlemaznable/gentle-factory@2022.0.3
+- pkg:maven/com.github.charlemaznable/gentle-factory@2022.0.3?classifier=sources
+- pkg:maven/com.github.charlemaznable/gentle-factory@2023.0.0
+- pkg:maven/com.github.charlemaznable/gentle-factory@2023.0.0?classifier=sources

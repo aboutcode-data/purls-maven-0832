@@ -16,3 +16,4 @@
 - pkg:maven/io.insert-koin/koin-core-watchosarm32@3.2.2?classifier=sources
 - pkg:maven/io.insert-koin/koin-core-watchosarm32@3.3.0?classifier=sources
 - pkg:maven/io.insert-koin/koin-core-watchosarm32@3.3.2?classifier=sources
+- pkg:maven/io.insert-koin/koin-core-watchosarm32@3.3.3?classifier=sources

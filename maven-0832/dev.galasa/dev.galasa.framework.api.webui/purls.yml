@@ -1,3 +1,4 @@
 - pkg:maven/dev.galasa/dev.galasa.framework.api.webui@0.15.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.webui@0.17.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.webui@0.21.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework.api.webui@0.25.0?classifier=sources

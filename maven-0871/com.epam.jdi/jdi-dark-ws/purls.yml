@@ -2,6 +2,8 @@
 - pkg:maven/com.epam.jdi/jdi-dark-ws@1.1.0?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-dark-ws@1.1.12
 - pkg:maven/com.epam.jdi/jdi-dark-ws@1.1.12?classifier=sources
+- pkg:maven/com.epam.jdi/jdi-dark-ws@1.1.13
+- pkg:maven/com.epam.jdi/jdi-dark-ws@1.1.13?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-dark-ws@1.2.0
 - pkg:maven/com.epam.jdi/jdi-dark-ws@1.2.0?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-dark-ws@1.2.1

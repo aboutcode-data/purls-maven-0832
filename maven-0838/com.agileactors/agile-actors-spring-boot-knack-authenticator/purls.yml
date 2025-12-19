@@ -5,3 +5,5 @@
 - pkg:maven/com.agileactors/agile-actors-spring-boot-knack-authenticator@1.2.0-202212030702?classifier=sources
 - pkg:maven/com.agileactors/agile-actors-spring-boot-knack-authenticator@1.2.0-202212081141?classifier=sources
 - pkg:maven/com.agileactors/agile-actors-spring-boot-knack-authenticator@1.2.1-202212182139?classifier=sources
+- pkg:maven/com.agileactors/agile-actors-spring-boot-knack-authenticator@1.2.1-202301250835?classifier=sources
+- pkg:maven/com.agileactors/agile-actors-spring-boot-knack-authenticator@1.3.0-202302061702?classifier=sources

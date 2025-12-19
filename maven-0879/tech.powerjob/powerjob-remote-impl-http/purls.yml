@@ -1,0 +1,2 @@
+- pkg:maven/tech.powerjob/powerjob-remote-impl-http@4.3.0
+- pkg:maven/tech.powerjob/powerjob-remote-impl-http@4.3.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.laserdisc/pure-kinesis-tagless_3@5.0.2?classifier=sources
 - pkg:maven/io.laserdisc/pure-kinesis-tagless_3@5.1.0
 - pkg:maven/io.laserdisc/pure-kinesis-tagless_3@5.1.0?classifier=sources
+- pkg:maven/io.laserdisc/pure-kinesis-tagless_3@6.0.0
+- pkg:maven/io.laserdisc/pure-kinesis-tagless_3@6.0.0?classifier=sources

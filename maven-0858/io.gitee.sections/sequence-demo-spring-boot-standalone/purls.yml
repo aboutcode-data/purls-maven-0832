@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.sections/sequence-demo-spring-boot-standalone@1.0
+- pkg:maven/io.gitee.sections/sequence-demo-spring-boot-standalone@1.0?classifier=sources

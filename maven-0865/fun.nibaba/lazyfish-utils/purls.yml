@@ -1,3 +1,5 @@
+- pkg:maven/fun.nibaba/lazyfish-utils@0.0.2
+- pkg:maven/fun.nibaba/lazyfish-utils@0.0.2?classifier=sources
 - pkg:maven/fun.nibaba/lazyfish-utils@0.0.4
 - pkg:maven/fun.nibaba/lazyfish-utils@0.0.4?classifier=sources
 - pkg:maven/fun.nibaba/lazyfish-utils@0.0.5

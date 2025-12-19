@@ -3,3 +3,5 @@
 - pkg:maven/dev.rikka.shizuku/api@12.0.0?classifier=sources
 - pkg:maven/dev.rikka.shizuku/api@12.1.0?classifier=sources
 - pkg:maven/dev.rikka.shizuku/api@12.2.0?classifier=sources
+- pkg:maven/dev.rikka.shizuku/api@13.0.0?classifier=sources
+- pkg:maven/dev.rikka.shizuku/api@13.1.0?classifier=sources

@@ -208,3 +208,5 @@
 - pkg:maven/org.pac4j/pac4j-cas@6.0.0-RC3?classifier=sources
 - pkg:maven/org.pac4j/pac4j-cas@6.0.0-RC4
 - pkg:maven/org.pac4j/pac4j-cas@6.0.0-RC4?classifier=sources
+- pkg:maven/org.pac4j/pac4j-cas@6.0.0-RC5
+- pkg:maven/org.pac4j/pac4j-cas@6.0.0-RC5?classifier=sources

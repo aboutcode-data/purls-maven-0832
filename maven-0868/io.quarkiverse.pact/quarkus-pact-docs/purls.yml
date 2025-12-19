@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.pact/quarkus-pact-docs@0.2
+- pkg:maven/io.quarkiverse.pact/quarkus-pact-docs@0.2?classifier=sources

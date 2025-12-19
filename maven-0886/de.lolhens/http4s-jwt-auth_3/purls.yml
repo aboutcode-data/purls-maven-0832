@@ -1,0 +1,2 @@
+- pkg:maven/de.lolhens/http4s-jwt-auth_3@0.4.3
+- pkg:maven/de.lolhens/http4s-jwt-auth_3@0.4.3?classifier=sources

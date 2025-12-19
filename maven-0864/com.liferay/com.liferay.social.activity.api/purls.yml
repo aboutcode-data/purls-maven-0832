@@ -149,6 +149,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activity.api@3.0.14
 - pkg:maven/com.liferay/com.liferay.social.activity.api@3.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.api@3.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activity.api@3.0.15
+- pkg:maven/com.liferay/com.liferay.social.activity.api@3.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activity.api@3.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activity.api@3.0.16
 - pkg:maven/com.liferay/com.liferay.social.activity.api@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.api@3.0.16?classifier=sources-commercial
@@ -203,6 +206,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.11
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.12
+- pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.13
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.13?classifier=sources-commercial
@@ -233,6 +239,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.21
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.22
+- pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activity.api@4.0.3

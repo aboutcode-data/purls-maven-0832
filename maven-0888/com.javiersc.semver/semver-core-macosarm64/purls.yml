@@ -1,0 +1,3 @@
+- pkg:maven/com.javiersc.semver/semver-core-macosarm64@0.1.0-beta.11?classifier=sources
+- pkg:maven/com.javiersc.semver/semver-core-macosarm64@0.1.0-beta.12?classifier=sources
+- pkg:maven/com.javiersc.semver/semver-core-macosarm64@0.1.0-beta.13?classifier=sources

@@ -15,6 +15,8 @@
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.22.13?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.22.14
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.22.14?classifier=sources
+- pkg:maven/org.http4s/http4s-jetty-server_3@0.22.15
+- pkg:maven/org.http4s/http4s-jetty-server_3@0.22.15?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.22.1?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.22.2
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.22.2?classifier=sources
@@ -43,6 +45,8 @@
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.23.10?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.23.11
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.23.11?classifier=sources
+- pkg:maven/org.http4s/http4s-jetty-server_3@0.23.12
+- pkg:maven/org.http4s/http4s-jetty-server_3@0.23.12?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.23.1?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.23.2
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.23.2?classifier=sources
@@ -60,6 +64,10 @@
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.23.8?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.23.9
 - pkg:maven/org.http4s/http4s-jetty-server_3@0.23.9?classifier=sources
+- pkg:maven/org.http4s/http4s-jetty-server_3@0.24.0-M1
+- pkg:maven/org.http4s/http4s-jetty-server_3@0.24.0-M1?classifier=sources
+- pkg:maven/org.http4s/http4s-jetty-server_3@0.25.0-M1
+- pkg:maven/org.http4s/http4s-jetty-server_3@0.25.0-M1?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-server_3@1.0.0-M22
 - pkg:maven/org.http4s/http4s-jetty-server_3@1.0.0-M22?classifier=sources
 - pkg:maven/org.http4s/http4s-jetty-server_3@1.0.0-M23

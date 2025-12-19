@@ -28,3 +28,7 @@
 - pkg:maven/dev.binis/code-generator-spring-configuration@0.4.2?classifier=sources
 - pkg:maven/dev.binis/code-generator-spring-configuration@0.4.3
 - pkg:maven/dev.binis/code-generator-spring-configuration@0.4.3?classifier=sources
+- pkg:maven/dev.binis/code-generator-spring-configuration@1.0.0
+- pkg:maven/dev.binis/code-generator-spring-configuration@1.0.0?classifier=sources
+- pkg:maven/dev.binis/code-generator-spring-configuration@1.0.1
+- pkg:maven/dev.binis/code-generator-spring-configuration@1.0.1?classifier=sources

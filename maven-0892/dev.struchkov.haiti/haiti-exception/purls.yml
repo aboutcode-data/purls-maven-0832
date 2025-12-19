@@ -30,3 +30,7 @@
 - pkg:maven/dev.struchkov.haiti/haiti-exception@2.3.2?classifier=sources
 - pkg:maven/dev.struchkov.haiti/haiti-exception@2.3.4
 - pkg:maven/dev.struchkov.haiti/haiti-exception@2.3.4?classifier=sources
+- pkg:maven/dev.struchkov.haiti/haiti-exception@2.4.0
+- pkg:maven/dev.struchkov.haiti/haiti-exception@2.4.0?classifier=sources
+- pkg:maven/dev.struchkov.haiti/haiti-exception@2.4.1
+- pkg:maven/dev.struchkov.haiti/haiti-exception@2.4.1?classifier=sources

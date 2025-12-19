@@ -10,3 +10,5 @@
 - pkg:maven/com.gitee.secretopen/secret-boot-framework-excel@1.6.0?classifier=sources
 - pkg:maven/com.gitee.secretopen/secret-boot-framework-excel@1.7.0
 - pkg:maven/com.gitee.secretopen/secret-boot-framework-excel@1.7.0?classifier=sources
+- pkg:maven/com.gitee.secretopen/secret-boot-framework-excel@2.0.0
+- pkg:maven/com.gitee.secretopen/secret-boot-framework-excel@2.0.0?classifier=sources

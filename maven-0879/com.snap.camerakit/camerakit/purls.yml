@@ -10,3 +10,5 @@
 - pkg:maven/com.snap.camerakit/camerakit@1.18.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit@1.18.1?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit@1.19.0?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit@1.19.1?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit@1.19.2?classifier=sources

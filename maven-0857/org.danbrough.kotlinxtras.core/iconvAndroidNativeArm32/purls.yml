@@ -1,0 +1,2 @@
+- pkg:maven/org.danbrough.kotlinxtras.core/iconvAndroidNativeArm32@1.17?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras.core/iconvAndroidNativeArm32@1.17a?classifier=sources

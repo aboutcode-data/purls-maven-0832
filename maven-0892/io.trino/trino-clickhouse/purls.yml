@@ -50,3 +50,4 @@
 - pkg:maven/io.trino/trino-clickhouse@402?classifier=sources
 - pkg:maven/io.trino/trino-clickhouse@403?classifier=sources
 - pkg:maven/io.trino/trino-clickhouse@405?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@406?classifier=sources

@@ -100,6 +100,8 @@
 - pkg:maven/com.github.paulcwarren/content-s3-spring-boot-starter@2.6.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/content-s3-spring-boot-starter@2.7.0
 - pkg:maven/com.github.paulcwarren/content-s3-spring-boot-starter@2.7.0?classifier=sources
+- pkg:maven/com.github.paulcwarren/content-s3-spring-boot-starter@2.8.0
+- pkg:maven/com.github.paulcwarren/content-s3-spring-boot-starter@2.8.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/content-s3-spring-boot-starter@v1.2.0
 - pkg:maven/com.github.paulcwarren/content-s3-spring-boot-starter@v1.2.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/content-s3-spring-boot-starter@v1.2.3

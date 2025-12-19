@@ -1,0 +1,6 @@
+- pkg:maven/io.github.padaiyal.libs/filesystem@2023.01.18
+- pkg:maven/io.github.padaiyal.libs/filesystem@2023.01.18?classifier=sources
+- pkg:maven/io.github.padaiyal.libs/filesystem@2023.02.06
+- pkg:maven/io.github.padaiyal.libs/filesystem@2023.02.06?classifier=sources
+- pkg:maven/io.github.padaiyal.libs/filesystem@2023.02.07
+- pkg:maven/io.github.padaiyal.libs/filesystem@2023.02.07?classifier=sources

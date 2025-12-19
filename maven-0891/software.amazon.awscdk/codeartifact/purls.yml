@@ -198,6 +198,16 @@
 - pkg:maven/software.amazon.awscdk/codeartifact@1.186.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/codeartifact@1.186.1
 - pkg:maven/software.amazon.awscdk/codeartifact@1.186.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/codeartifact@1.187.0
+- pkg:maven/software.amazon.awscdk/codeartifact@1.187.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/codeartifact@1.188.0
+- pkg:maven/software.amazon.awscdk/codeartifact@1.188.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/codeartifact@1.189.0
+- pkg:maven/software.amazon.awscdk/codeartifact@1.189.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/codeartifact@1.190.0
+- pkg:maven/software.amazon.awscdk/codeartifact@1.190.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/codeartifact@1.191.0
+- pkg:maven/software.amazon.awscdk/codeartifact@1.191.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/codeartifact@1.68.0
 - pkg:maven/software.amazon.awscdk/codeartifact@1.68.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/codeartifact@1.69.0

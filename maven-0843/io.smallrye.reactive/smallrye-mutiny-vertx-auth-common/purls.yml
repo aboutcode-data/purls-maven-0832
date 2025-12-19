@@ -78,6 +78,8 @@
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@2.29.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@2.3.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@2.3.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@2.30.1
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@2.30.1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@2.4.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@2.4.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@2.5.0
@@ -98,3 +100,5 @@
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@3.0.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@3.1.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@3.1.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@3.2.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-common@3.2.0?classifier=sources

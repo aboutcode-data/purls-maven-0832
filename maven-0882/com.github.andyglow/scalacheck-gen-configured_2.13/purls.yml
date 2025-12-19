@@ -1,0 +1,2 @@
+- pkg:maven/com.github.andyglow/scalacheck-gen-configured_2.13@0.0.6
+- pkg:maven/com.github.andyglow/scalacheck-gen-configured_2.13@0.0.6?classifier=sources

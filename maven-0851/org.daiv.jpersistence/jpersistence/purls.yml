@@ -1,1 +1,3 @@
+- pkg:maven/org.daiv.jpersistence/jpersistence@0.10.10?classifier=sources
+- pkg:maven/org.daiv.jpersistence/jpersistence@0.10.11?classifier=sources
 - pkg:maven/org.daiv.jpersistence/jpersistence@0.10.9?classifier=sources

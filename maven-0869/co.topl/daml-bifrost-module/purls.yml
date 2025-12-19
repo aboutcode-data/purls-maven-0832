@@ -1,0 +1,2 @@
+- pkg:maven/co.topl/daml-bifrost-module@0.1.0
+- pkg:maven/co.topl/daml-bifrost-module@0.1.0?classifier=sources

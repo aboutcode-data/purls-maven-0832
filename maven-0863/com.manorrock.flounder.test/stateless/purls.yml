@@ -2,3 +2,5 @@
 - pkg:maven/com.manorrock.flounder.test/stateless@22.1.0?type=war
 - pkg:maven/com.manorrock.flounder.test/stateless@22.7.0?classifier=sources
 - pkg:maven/com.manorrock.flounder.test/stateless@22.7.0?type=war
+- pkg:maven/com.manorrock.flounder.test/stateless@23.1.0?classifier=sources
+- pkg:maven/com.manorrock.flounder.test/stateless@23.1.0?type=war

@@ -56,6 +56,8 @@
 - pkg:maven/org.apache.calcite/calcite-splunk@1.31.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-splunk@1.32.0
 - pkg:maven/org.apache.calcite/calcite-splunk@1.32.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-splunk@1.33.0
+- pkg:maven/org.apache.calcite/calcite-splunk@1.33.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-splunk@1.4.0-incubating
 - pkg:maven/org.apache.calcite/calcite-splunk@1.4.0-incubating?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-splunk@1.5.0

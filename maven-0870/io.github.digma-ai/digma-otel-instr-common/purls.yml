@@ -3,3 +3,4 @@
 - pkg:maven/io.github.digma-ai/digma-otel-instr-common@0.3.3?classifier=sources
 - pkg:maven/io.github.digma-ai/digma-otel-instr-common@0.4.22?classifier=sources
 - pkg:maven/io.github.digma-ai/digma-otel-instr-common@0.5.30?classifier=sources
+- pkg:maven/io.github.digma-ai/digma-otel-instr-common@0.5.32?classifier=sources

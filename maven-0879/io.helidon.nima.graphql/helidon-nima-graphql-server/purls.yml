@@ -1,0 +1,4 @@
+- pkg:maven/io.helidon.nima.graphql/helidon-nima-graphql-server@4.0.0-ALPHA3
+- pkg:maven/io.helidon.nima.graphql/helidon-nima-graphql-server@4.0.0-ALPHA3?classifier=sources
+- pkg:maven/io.helidon.nima.graphql/helidon-nima-graphql-server@4.0.0-ALPHA4
+- pkg:maven/io.helidon.nima.graphql/helidon-nima-graphql-server@4.0.0-ALPHA4?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/pl.touk.krush/krush-runtime-postgresql@0.6.1?classifier=sources
 - pkg:maven/pl.touk.krush/krush-runtime-postgresql@0.6.2?classifier=sources
 - pkg:maven/pl.touk.krush/krush-runtime-postgresql@1.0.0?classifier=sources
+- pkg:maven/pl.touk.krush/krush-runtime-postgresql@1.1.0?classifier=sources

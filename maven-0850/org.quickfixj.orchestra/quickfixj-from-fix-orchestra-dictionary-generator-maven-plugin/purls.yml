@@ -1,0 +1,2 @@
+- pkg:maven/org.quickfixj.orchestra/quickfixj-from-fix-orchestra-dictionary-generator-maven-plugin@1.0.0
+- pkg:maven/org.quickfixj.orchestra/quickfixj-from-fix-orchestra-dictionary-generator-maven-plugin@1.0.0?classifier=sources

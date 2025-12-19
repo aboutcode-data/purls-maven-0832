@@ -1,0 +1,6 @@
+- pkg:maven/com.cleverpine/cp-logging-library@1.0.0
+- pkg:maven/com.cleverpine/cp-logging-library@1.0.0-Springboot2
+- pkg:maven/com.cleverpine/cp-logging-library@1.0.0-Springboot2?classifier=sources
+- pkg:maven/com.cleverpine/cp-logging-library@1.0.0?classifier=sources
+- pkg:maven/com.cleverpine/cp-logging-library@1.0.1-Springboot2
+- pkg:maven/com.cleverpine/cp-logging-library@1.0.1-Springboot2?classifier=sources

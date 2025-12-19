@@ -29,3 +29,4 @@
 - pkg:maven/org.openziti/ziti-netty@0.23.7?classifier=sources
 - pkg:maven/org.openziti/ziti-netty@0.23.8?classifier=sources
 - pkg:maven/org.openziti/ziti-netty@0.23.9?classifier=sources
+- pkg:maven/org.openziti/ziti-netty@0.24.0?classifier=sources

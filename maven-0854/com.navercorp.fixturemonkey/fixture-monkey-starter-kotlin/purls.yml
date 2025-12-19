@@ -1,4 +1,6 @@
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.4.10?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.4.11?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.4.12?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.4.3?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.4.4?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.4.5?classifier=sources

@@ -83,3 +83,4 @@
 - pkg:maven/mil.nga.geopackage/geopackage-android@6.5.0?classifier=sources
 - pkg:maven/mil.nga.geopackage/geopackage-android@6.6.0?classifier=sources
 - pkg:maven/mil.nga.geopackage/geopackage-android@6.7.0?classifier=sources
+- pkg:maven/mil.nga.geopackage/geopackage-android@6.7.1?classifier=sources

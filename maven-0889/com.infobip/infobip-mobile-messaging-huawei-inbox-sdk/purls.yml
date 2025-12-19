@@ -1,0 +1,2 @@
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-inbox-sdk@3.0.0-rc10?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-inbox-sdk@3.0.0?classifier=sources

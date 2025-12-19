@@ -1,0 +1,4 @@
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-http-proxy@2.30.1
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-http-proxy@2.30.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-http-proxy@3.2.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-http-proxy@3.2.0?classifier=sources

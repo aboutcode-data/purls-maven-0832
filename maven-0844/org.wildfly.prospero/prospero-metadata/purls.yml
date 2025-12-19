@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.prospero/prospero-metadata@1.0.0.Beta5
+- pkg:maven/org.wildfly.prospero/prospero-metadata@1.0.0.Beta5?classifier=sources

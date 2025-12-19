@@ -22,3 +22,5 @@
 - pkg:maven/org.xmlunit/xmlunit-placeholders@2.8.4?classifier=sources
 - pkg:maven/org.xmlunit/xmlunit-placeholders@2.9.0
 - pkg:maven/org.xmlunit/xmlunit-placeholders@2.9.0?classifier=sources
+- pkg:maven/org.xmlunit/xmlunit-placeholders@2.9.1
+- pkg:maven/org.xmlunit/xmlunit-placeholders@2.9.1?classifier=sources

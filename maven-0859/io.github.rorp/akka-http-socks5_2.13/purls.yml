@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rorp/akka-http-socks5_2.13@10.2.7
+- pkg:maven/io.github.rorp/akka-http-socks5_2.13@10.2.7?classifier=sources

@@ -74,3 +74,5 @@
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M6?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M7
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M7?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M8
+- pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M8?classifier=sources

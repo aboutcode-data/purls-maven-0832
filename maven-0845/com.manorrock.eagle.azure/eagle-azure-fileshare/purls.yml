@@ -6,3 +6,5 @@
 - pkg:maven/com.manorrock.eagle.azure/eagle-azure-fileshare@22.6.1?classifier=sources
 - pkg:maven/com.manorrock.eagle.azure/eagle-azure-fileshare@22.7.0
 - pkg:maven/com.manorrock.eagle.azure/eagle-azure-fileshare@22.7.0?classifier=sources
+- pkg:maven/com.manorrock.eagle.azure/eagle-azure-fileshare@23.1.0
+- pkg:maven/com.manorrock.eagle.azure/eagle-azure-fileshare@23.1.0?classifier=sources

@@ -4,6 +4,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@1.0.10
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@1.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@1.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.engine.lang@1.0.11
+- pkg:maven/com.liferay/com.liferay.wiki.engine.lang@1.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.lang@1.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@1.0.12
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@1.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@1.0.12?classifier=sources-commercial
@@ -132,6 +135,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.1
+- pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.10
+- pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.11
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.11?classifier=sources-commercial
@@ -165,6 +171,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.20
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.21
+- pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.22
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.lang@4.0.22?classifier=sources-commercial

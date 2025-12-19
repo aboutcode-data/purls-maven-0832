@@ -25,6 +25,7 @@
 - pkg:maven/biz.turnonline.ecosystem/ecosystem-admin-widgets@0.32?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/ecosystem-admin-widgets@0.33?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/ecosystem-admin-widgets@0.34?classifier=sources
+- pkg:maven/biz.turnonline.ecosystem/ecosystem-admin-widgets@0.35?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/ecosystem-admin-widgets@0.3?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/ecosystem-admin-widgets@0.4?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/ecosystem-admin-widgets@0.5?classifier=sources

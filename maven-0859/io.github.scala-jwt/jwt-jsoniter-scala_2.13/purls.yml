@@ -1,0 +1,2 @@
+- pkg:maven/io.github.scala-jwt/jwt-jsoniter-scala_2.13@0.0.1
+- pkg:maven/io.github.scala-jwt/jwt-jsoniter-scala_2.13@0.0.1?classifier=sources

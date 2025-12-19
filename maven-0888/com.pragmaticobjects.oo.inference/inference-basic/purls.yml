@@ -12,3 +12,5 @@
 - pkg:maven/com.pragmaticobjects.oo.inference/inference-basic@0.1.3?classifier=sources
 - pkg:maven/com.pragmaticobjects.oo.inference/inference-basic@0.1.4
 - pkg:maven/com.pragmaticobjects.oo.inference/inference-basic@0.1.4?classifier=sources
+- pkg:maven/com.pragmaticobjects.oo.inference/inference-basic@0.1.5
+- pkg:maven/com.pragmaticobjects.oo.inference/inference-basic@0.1.5?classifier=sources

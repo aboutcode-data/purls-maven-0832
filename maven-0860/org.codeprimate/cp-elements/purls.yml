@@ -22,3 +22,5 @@
 - pkg:maven/org.codeprimate/cp-elements@1.0.0.M6
 - pkg:maven/org.codeprimate/cp-elements@1.0.0.M6?classifier=sources
 - pkg:maven/org.codeprimate/cp-elements@1.0.0?classifier=sources
+- pkg:maven/org.codeprimate/cp-elements@1.0.1
+- pkg:maven/org.codeprimate/cp-elements@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.automatiko.addons/automatiko-error-management-addon@0.21.0
+- pkg:maven/io.automatiko.addons/automatiko-error-management-addon@0.21.0?classifier=sources

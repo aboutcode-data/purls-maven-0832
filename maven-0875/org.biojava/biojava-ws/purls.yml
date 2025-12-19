@@ -104,3 +104,5 @@
 - pkg:maven/org.biojava/biojava-ws@6.0.5?classifier=sources
 - pkg:maven/org.biojava/biojava-ws@6.1.0
 - pkg:maven/org.biojava/biojava-ws@6.1.0?classifier=sources
+- pkg:maven/org.biojava/biojava-ws@7.0.0
+- pkg:maven/org.biojava/biojava-ws@7.0.0?classifier=sources

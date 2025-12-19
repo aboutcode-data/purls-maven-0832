@@ -20,3 +20,5 @@
 - pkg:maven/se.kth.castor/depclean-maven-plugin@2.0.4?classifier=sources
 - pkg:maven/se.kth.castor/depclean-maven-plugin@2.0.5
 - pkg:maven/se.kth.castor/depclean-maven-plugin@2.0.5?classifier=sources
+- pkg:maven/se.kth.castor/depclean-maven-plugin@2.0.6
+- pkg:maven/se.kth.castor/depclean-maven-plugin@2.0.6?classifier=sources

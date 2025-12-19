@@ -12,3 +12,5 @@
 - pkg:maven/org.roboquant/roboquant-jupyter@0.9.8?classifier=sources
 - pkg:maven/org.roboquant/roboquant-jupyter@0.9.9
 - pkg:maven/org.roboquant/roboquant-jupyter@0.9.9?classifier=sources
+- pkg:maven/org.roboquant/roboquant-jupyter@1.0.0
+- pkg:maven/org.roboquant/roboquant-jupyter@1.0.0?classifier=sources

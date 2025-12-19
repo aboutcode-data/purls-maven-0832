@@ -11,3 +11,4 @@
 - pkg:maven/com.soywiz.korge/com.soywiz.korge.gradle.plugin@3.3.1?classifier=sources
 - pkg:maven/com.soywiz.korge/com.soywiz.korge.gradle.plugin@3.4.0?classifier=sources
 - pkg:maven/com.soywiz.korge/com.soywiz.korge.gradle.plugin@4.0.0-alpha-1?classifier=sources
+- pkg:maven/com.soywiz.korge/com.soywiz.korge.gradle.plugin@4.0.0-alpha-2?classifier=sources

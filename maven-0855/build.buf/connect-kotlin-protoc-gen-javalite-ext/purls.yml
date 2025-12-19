@@ -1,0 +1,1 @@
+- pkg:maven/build.buf/connect-kotlin-protoc-gen-javalite-ext@v0.0.0-preview?classifier=sources

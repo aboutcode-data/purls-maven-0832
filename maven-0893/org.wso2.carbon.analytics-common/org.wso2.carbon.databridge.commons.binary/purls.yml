@@ -136,6 +136,10 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@5.3.0?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@5.3.1
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@5.3.1?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@5.3.3
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@5.3.3?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@5.3.4
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@5.3.4?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.0.0
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.0.1
@@ -375,6 +379,8 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.1.62?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.1.63
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.1.63?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.1.64
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.1.64?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.1.6?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.1.7
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.commons.binary@6.1.7?classifier=sources

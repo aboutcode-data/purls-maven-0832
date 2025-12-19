@@ -179,6 +179,8 @@
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.11.10?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.11.11
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.11.11?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.11.12
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.11.12?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.11.1?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.11.2
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@1.11.2?classifier=sources
@@ -292,3 +294,5 @@
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@2.0.2?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@2.0.3
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@2.0.3?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@2.0.4
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-spring-gwtp@2.0.4?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/pl.unforgiven/superfields@0.16.0
 - pkg:maven/pl.unforgiven/superfields@0.16.0?classifier=sources
+- pkg:maven/pl.unforgiven/superfields@0.17.0
+- pkg:maven/pl.unforgiven/superfields@0.17.0-vaadin14
+- pkg:maven/pl.unforgiven/superfields@0.17.0-vaadin14?classifier=sources
+- pkg:maven/pl.unforgiven/superfields@0.17.0?classifier=sources

@@ -82,3 +82,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@2.9.2?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@2.9.3
 - pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@2.9.3?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@2.9.4
+- pkg:maven/org.apache.pulsar/pulsar-zookeeper-utils@2.9.4?classifier=sources

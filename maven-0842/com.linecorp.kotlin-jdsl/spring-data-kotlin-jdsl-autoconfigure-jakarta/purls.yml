@@ -1,0 +1,2 @@
+- pkg:maven/com.linecorp.kotlin-jdsl/spring-data-kotlin-jdsl-autoconfigure-jakarta@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.linecorp.kotlin-jdsl/spring-data-kotlin-jdsl-autoconfigure-jakarta@2.2.0.RELEASE?classifier=sources

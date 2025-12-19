@@ -1,3 +1,7 @@
+- pkg:maven/ru.tinkoff.core.components.log/log-android@2.10.0?classifier=sources
+- pkg:maven/ru.tinkoff.core.components.log/log-android@2.10.0?type=aar
+- pkg:maven/ru.tinkoff.core.components.log/log-android@2.11.0?classifier=sources
+- pkg:maven/ru.tinkoff.core.components.log/log-android@2.11.0?type=aar
 - pkg:maven/ru.tinkoff.core.components.log/log-android@2.5.0?classifier=sources
 - pkg:maven/ru.tinkoff.core.components.log/log-android@2.5.0?type=aar
 - pkg:maven/ru.tinkoff.core.components.log/log-android@2.7.0?classifier=sources

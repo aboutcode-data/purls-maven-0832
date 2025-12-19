@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.maven/wso2-esb-messageprocessor-plugin@5.2.42
+- pkg:maven/org.wso2.maven/wso2-esb-messageprocessor-plugin@5.2.42?classifier=sources

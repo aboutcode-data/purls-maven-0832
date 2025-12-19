@@ -24,3 +24,7 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.charsetdetect@22.0.39?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.charsetdetect@22.0.41
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.charsetdetect@22.0.41?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.charsetdetect@23.1.0-beta.4
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.charsetdetect@23.1.0-beta.4?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.charsetdetect@23.1.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.charsetdetect@23.1.1?classifier=sources

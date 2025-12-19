@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-undo@31.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-undo@32.0.0
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-undo@32.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-undo@36.0.0
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-undo@36.0.0?classifier=sources

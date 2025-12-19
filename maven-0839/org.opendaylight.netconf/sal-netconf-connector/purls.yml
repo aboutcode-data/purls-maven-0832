@@ -156,3 +156,6 @@
 - pkg:maven/org.opendaylight.netconf/sal-netconf-connector@4.0.3?classifier=sources
 - pkg:maven/org.opendaylight.netconf/sal-netconf-connector@4.0.4
 - pkg:maven/org.opendaylight.netconf/sal-netconf-connector@4.0.4?classifier=sources
+- pkg:maven/org.opendaylight.netconf/sal-netconf-connector@4.0.5?classifier=sources
+- pkg:maven/org.opendaylight.netconf/sal-netconf-connector@5.0.0?classifier=sources
+- pkg:maven/org.opendaylight.netconf/sal-netconf-connector@5.0.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.neko233/neko233-toolchain@0.3.2?classifier=sources
+- pkg:maven/com.neko233/neko233-toolchain@0.4.0?classifier=sources
+- pkg:maven/com.neko233/neko233-toolchain@0.4.1?classifier=sources

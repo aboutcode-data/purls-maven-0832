@@ -4,3 +4,6 @@
 - pkg:maven/com.pulumi/tailscale@0.11.1-alpha.1663343775%2B7c12746c?classifier=sources
 - pkg:maven/com.pulumi/tailscale@0.11.1-alpha.1667393469%2Bc5a04c0d?classifier=sources
 - pkg:maven/com.pulumi/tailscale@0.11.1-alpha.1667417275%2B81445221?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.11.1-alpha.1674503548%2Ba04910d2?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.11.1-alpha.1674681644%2B584f68fe?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.12.0?classifier=sources

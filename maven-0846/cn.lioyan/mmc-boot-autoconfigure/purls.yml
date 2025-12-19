@@ -1,0 +1,2 @@
+- pkg:maven/cn.lioyan/mmc-boot-autoconfigure@0.0.3
+- pkg:maven/cn.lioyan/mmc-boot-autoconfigure@0.0.3?classifier=sources

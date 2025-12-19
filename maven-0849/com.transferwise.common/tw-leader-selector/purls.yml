@@ -2,3 +2,4 @@
 - pkg:maven/com.transferwise.common/tw-leader-selector@1.1.1?classifier=sources
 - pkg:maven/com.transferwise.common/tw-leader-selector@1.6.0?classifier=sources
 - pkg:maven/com.transferwise.common/tw-leader-selector@1.8.0?classifier=sources
+- pkg:maven/com.transferwise.common/tw-leader-selector@1.9.0?classifier=sources

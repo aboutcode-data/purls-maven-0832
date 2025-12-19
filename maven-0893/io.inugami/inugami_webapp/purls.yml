@@ -4,3 +4,5 @@
 - pkg:maven/io.inugami/inugami_webapp@2.0.1?type=war
 - pkg:maven/io.inugami/inugami_webapp@2.0.2?classifier=sources
 - pkg:maven/io.inugami/inugami_webapp@2.0.2?type=war
+- pkg:maven/io.inugami/inugami_webapp@2.1.0?classifier=sources
+- pkg:maven/io.inugami/inugami_webapp@2.1.0?type=war

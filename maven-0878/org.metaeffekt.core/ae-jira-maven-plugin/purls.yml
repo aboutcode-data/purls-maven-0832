@@ -120,3 +120,7 @@
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.72.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.73.0
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.73.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.74.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.74.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.75.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.75.0?classifier=sources

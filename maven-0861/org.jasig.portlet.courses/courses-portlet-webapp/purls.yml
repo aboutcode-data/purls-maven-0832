@@ -16,3 +16,5 @@
 - pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@2.0.2?type=war
 - pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@2.0.3?classifier=sources
 - pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@2.0.3?type=war
+- pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@2.1.0?classifier=sources
+- pkg:maven/org.jasig.portlet.courses/courses-portlet-webapp@2.1.0?type=war

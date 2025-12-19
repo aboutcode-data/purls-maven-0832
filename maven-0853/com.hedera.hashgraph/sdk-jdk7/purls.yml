@@ -106,6 +106,7 @@
 - pkg:maven/com.hedera.hashgraph/sdk-jdk7@2.2.0-beta.2
 - pkg:maven/com.hedera.hashgraph/sdk-jdk7@2.2.0-beta.2?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk-jdk7@2.2.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk-jdk7@2.20.0-beta.1?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk-jdk7@2.3.0
 - pkg:maven/com.hedera.hashgraph/sdk-jdk7@2.3.0?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk-jdk7@2.4.0

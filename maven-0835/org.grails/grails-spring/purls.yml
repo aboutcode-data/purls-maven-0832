@@ -329,4 +329,5 @@
 - pkg:maven/org.grails/grails-spring@5.2.3?classifier=sources
 - pkg:maven/org.grails/grails-spring@5.2.4?classifier=sources
 - pkg:maven/org.grails/grails-spring@5.2.5?classifier=sources
+- pkg:maven/org.grails/grails-spring@5.3.0?classifier=sources
 - pkg:maven/org.grails/grails-spring@6.0.0-M1?classifier=sources

@@ -120,3 +120,11 @@
 - pkg:maven/org.questdb/questdb@6.6.1?type=zip
 - pkg:maven/org.questdb/questdb@6.6?classifier=sources
 - pkg:maven/org.questdb/questdb@6.6?type=zip
+- pkg:maven/org.questdb/questdb@6.7-jdk8?classifier=sources
+- pkg:maven/org.questdb/questdb@6.7-jdk8?type=zip
+- pkg:maven/org.questdb/questdb@6.7?classifier=sources
+- pkg:maven/org.questdb/questdb@6.7?type=zip
+- pkg:maven/org.questdb/questdb@7.0.0-jdk8?classifier=sources
+- pkg:maven/org.questdb/questdb@7.0.0-jdk8?type=zip
+- pkg:maven/org.questdb/questdb@7.0.0?classifier=sources
+- pkg:maven/org.questdb/questdb@7.0.0?type=zip

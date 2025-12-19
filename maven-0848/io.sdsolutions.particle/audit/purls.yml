@@ -4,3 +4,5 @@
 - pkg:maven/io.sdsolutions.particle/audit@2.7.0?classifier=sources
 - pkg:maven/io.sdsolutions.particle/audit@3.0.0
 - pkg:maven/io.sdsolutions.particle/audit@3.0.0?classifier=sources
+- pkg:maven/io.sdsolutions.particle/audit@3.0.1
+- pkg:maven/io.sdsolutions.particle/audit@3.0.1?classifier=sources

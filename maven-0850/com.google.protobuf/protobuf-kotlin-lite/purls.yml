@@ -80,3 +80,5 @@
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.8?classifier=sources
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.9
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.21.9?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.22.0-RC1
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@3.22.0-RC1?classifier=sources

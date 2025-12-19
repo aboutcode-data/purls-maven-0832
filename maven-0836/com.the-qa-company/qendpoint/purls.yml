@@ -32,3 +32,11 @@
 - pkg:maven/com.the-qa-company/qendpoint@1.7.2?classifier=sources
 - pkg:maven/com.the-qa-company/qendpoint@1.7.3
 - pkg:maven/com.the-qa-company/qendpoint@1.7.3?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint@1.7.4
+- pkg:maven/com.the-qa-company/qendpoint@1.7.4?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint@1.7.5
+- pkg:maven/com.the-qa-company/qendpoint@1.7.5?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint@1.8.0
+- pkg:maven/com.the-qa-company/qendpoint@1.8.0?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint@1.9.0
+- pkg:maven/com.the-qa-company/qendpoint@1.9.0?classifier=sources

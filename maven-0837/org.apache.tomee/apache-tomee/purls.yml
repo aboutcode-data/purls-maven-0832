@@ -52,6 +52,8 @@
 - pkg:maven/org.apache.tomee/apache-tomee@8.0.12?classifier=sources
 - pkg:maven/org.apache.tomee/apache-tomee@8.0.13
 - pkg:maven/org.apache.tomee/apache-tomee@8.0.13?classifier=sources
+- pkg:maven/org.apache.tomee/apache-tomee@8.0.14
+- pkg:maven/org.apache.tomee/apache-tomee@8.0.14?classifier=sources
 - pkg:maven/org.apache.tomee/apache-tomee@8.0.1?classifier=sources
 - pkg:maven/org.apache.tomee/apache-tomee@8.0.2
 - pkg:maven/org.apache.tomee/apache-tomee@8.0.2?classifier=sources
@@ -69,9 +71,11 @@
 - pkg:maven/org.apache.tomee/apache-tomee@8.0.8?classifier=sources
 - pkg:maven/org.apache.tomee/apache-tomee@8.0.9
 - pkg:maven/org.apache.tomee/apache-tomee@8.0.9?classifier=sources
+- pkg:maven/org.apache.tomee/apache-tomee@9.0.0
 - pkg:maven/org.apache.tomee/apache-tomee@9.0.0-M7
 - pkg:maven/org.apache.tomee/apache-tomee@9.0.0-M7?classifier=sources
 - pkg:maven/org.apache.tomee/apache-tomee@9.0.0-M8
 - pkg:maven/org.apache.tomee/apache-tomee@9.0.0-M8?classifier=sources
 - pkg:maven/org.apache.tomee/apache-tomee@9.0.0.RC1
 - pkg:maven/org.apache.tomee/apache-tomee@9.0.0.RC1?classifier=sources
+- pkg:maven/org.apache.tomee/apache-tomee@9.0.0?classifier=sources

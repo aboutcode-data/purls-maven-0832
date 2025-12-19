@@ -1,2 +1,6 @@
 - pkg:maven/de.hipphampel.validation/validation-samples-productdata@0.0.2
 - pkg:maven/de.hipphampel.validation/validation-samples-productdata@0.0.2?classifier=sources
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.1.1
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.1.1?classifier=sources
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.1.2
+- pkg:maven/de.hipphampel.validation/validation-samples-productdata@23.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.maxxq.maven/maxxq-maven@1.1.0
+- pkg:maven/org.maxxq.maven/maxxq-maven@1.1.0?classifier=sources

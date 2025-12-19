@@ -1,0 +1,2 @@
+- pkg:maven/com.github.geirolz/app-toolkit-log4cats_3@0.0.2
+- pkg:maven/com.github.geirolz/app-toolkit-log4cats_3@0.0.2?classifier=sources

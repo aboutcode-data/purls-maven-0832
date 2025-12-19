@@ -1,0 +1,10 @@
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.0-alpha
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.0-alpha?classifier=sources
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.1-alpha
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.1-alpha?classifier=sources
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.2-alpha
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.2-alpha?classifier=sources
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.3-alpha
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.3-alpha?classifier=sources
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.4-alpha
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.4-alpha?classifier=sources

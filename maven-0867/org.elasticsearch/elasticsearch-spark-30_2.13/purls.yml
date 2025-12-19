@@ -37,3 +37,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.5.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.5.3
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.5.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.6.0
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.6.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.6.1
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.6.1?classifier=sources

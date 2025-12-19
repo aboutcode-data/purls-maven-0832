@@ -1,0 +1,2 @@
+- pkg:maven/de.humanfork.springdatajpaextension/spring-data-jpa-extension@0.4.2
+- pkg:maven/de.humanfork.springdatajpaextension/spring-data-jpa-extension@0.4.2?classifier=sources

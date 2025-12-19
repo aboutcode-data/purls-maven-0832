@@ -1,0 +1,2 @@
+- pkg:maven/nl.mirila.payments/mirila-payments-core@2.1.0
+- pkg:maven/nl.mirila.payments/mirila-payments-core@2.1.0?classifier=sources

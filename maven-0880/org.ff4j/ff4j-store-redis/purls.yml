@@ -68,3 +68,5 @@
 - pkg:maven/org.ff4j/ff4j-store-redis@1.8?classifier=sources
 - pkg:maven/org.ff4j/ff4j-store-redis@1.9
 - pkg:maven/org.ff4j/ff4j-store-redis@1.9?classifier=sources
+- pkg:maven/org.ff4j/ff4j-store-redis@2.0.0
+- pkg:maven/org.ff4j/ff4j-store-redis@2.0.0?classifier=sources

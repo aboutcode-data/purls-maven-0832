@@ -26,3 +26,5 @@
 - pkg:maven/fr.insee.trevas/vtl-model@0.4.6?classifier=sources
 - pkg:maven/fr.insee.trevas/vtl-model@0.4.7
 - pkg:maven/fr.insee.trevas/vtl-model@0.4.7?classifier=sources
+- pkg:maven/fr.insee.trevas/vtl-model@0.4.8
+- pkg:maven/fr.insee.trevas/vtl-model@0.4.8?classifier=sources

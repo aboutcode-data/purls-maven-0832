@@ -1,0 +1,4 @@
+- pkg:maven/io.github.devil-ycl/springframework-boot-commons@2022.12.01
+- pkg:maven/io.github.devil-ycl/springframework-boot-commons@2022.12.01?classifier=sources
+- pkg:maven/io.github.devil-ycl/springframework-boot-commons@2022.12.02
+- pkg:maven/io.github.devil-ycl/springframework-boot-commons@2022.12.02?classifier=sources

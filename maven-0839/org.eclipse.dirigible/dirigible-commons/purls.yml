@@ -169,3 +169,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.8
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.9
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@7.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@7.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@7.1.1

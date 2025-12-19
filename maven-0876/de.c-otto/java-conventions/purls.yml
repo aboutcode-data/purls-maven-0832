@@ -1,0 +1,8 @@
+- pkg:maven/de.c-otto/java-conventions@2023.01.29?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.01.29_2?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.01.29_3?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.01.30?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.02.04?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.02.04_3?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.02.05?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.02.05_2?classifier=sources

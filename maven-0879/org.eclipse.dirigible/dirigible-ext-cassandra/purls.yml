@@ -266,3 +266,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ext-cassandra@6.3.9?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-ext-cassandra@7.0.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ext-cassandra@7.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-cassandra@7.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-cassandra@7.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-cassandra@7.1.1
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-cassandra@7.1.1?classifier=sources
