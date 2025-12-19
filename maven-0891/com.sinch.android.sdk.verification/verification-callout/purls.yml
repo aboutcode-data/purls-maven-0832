@@ -7,3 +7,7 @@
 - pkg:maven/com.sinch.android.sdk.verification/verification-callout@2.1.7?classifier=sources
 - pkg:maven/com.sinch.android.sdk.verification/verification-callout@2.1.8?classifier=sources
 - pkg:maven/com.sinch.android.sdk.verification/verification-callout@2.1.9?classifier=sources
+- pkg:maven/com.sinch.android.sdk.verification/verification-callout@2.2.0?classifier=sources
+- pkg:maven/com.sinch.android.sdk.verification/verification-callout@2.4.0?classifier=sources
+- pkg:maven/com.sinch.android.sdk.verification/verification-callout@2.5.0?classifier=sources
+- pkg:maven/com.sinch.android.sdk.verification/verification-callout@2.6.0?classifier=sources

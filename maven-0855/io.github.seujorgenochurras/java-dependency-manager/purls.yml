@@ -4,3 +4,8 @@
 - pkg:maven/io.github.seujorgenochurras/java-dependency-manager@0.2.3?classifier=sources
 - pkg:maven/io.github.seujorgenochurras/java-dependency-manager@0.3.0?classifier=sources
 - pkg:maven/io.github.seujorgenochurras/java-dependency-manager@0.3.1?classifier=sources
+- pkg:maven/io.github.seujorgenochurras/java-dependency-manager@0.4.0?classifier=sources
+- pkg:maven/io.github.seujorgenochurras/java-dependency-manager@0.4.1?classifier=sources
+- pkg:maven/io.github.seujorgenochurras/java-dependency-manager@0.4.2?classifier=sources
+- pkg:maven/io.github.seujorgenochurras/java-dependency-manager@0.4.3?classifier=sources
+- pkg:maven/io.github.seujorgenochurras/java-dependency-manager@0.5.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-iossimulatorarm64@1.0.0-compose-experimental?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-iossimulatorarm64@2.0.0-compose-experimental-alpha-01?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-iossimulatorarm64@2.0.0-compose-experimental-alpha-02?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-iossimulatorarm64@2.0.0-compose-experimental-beta-01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-iossimulatorarm64@2.1.0-compose-experimental-alpha-01?classifier=sources

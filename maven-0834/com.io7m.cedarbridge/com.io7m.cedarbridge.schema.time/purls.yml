@@ -1,0 +1,8 @@
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.schema.time@1.0.0
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.schema.time@1.0.0-beta0001
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.schema.time@1.0.0-beta0001?classifier=sources
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.schema.time@1.0.0?classifier=sources
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.schema.time@1.1.0
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.schema.time@1.1.0?classifier=sources
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.schema.time@1.2.0
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.schema.time@1.2.0?classifier=sources

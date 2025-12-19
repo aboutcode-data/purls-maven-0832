@@ -51,6 +51,7 @@
 - pkg:maven/com.indeed/util-varexport@1.0.5
 - pkg:maven/com.indeed/util-varexport@1.0.50-34ca15b?classifier=sources
 - pkg:maven/com.indeed/util-varexport@1.0.51-e4c2289?classifier=sources
+- pkg:maven/com.indeed/util-varexport@1.0.52-3042601?classifier=sources
 - pkg:maven/com.indeed/util-varexport@1.0.5?classifier=sources
 - pkg:maven/com.indeed/util-varexport@1.0.6
 - pkg:maven/com.indeed/util-varexport@1.0.6?classifier=sources

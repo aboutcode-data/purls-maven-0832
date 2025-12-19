@@ -36,6 +36,9 @@
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.0.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.1.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.1.1?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@16.10.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@16.11.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@16.11.1?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.2.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.3.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.3.1?classifier=sources
@@ -57,3 +60,8 @@
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.9.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.9.1?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@16.9.2?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@16.9.3?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@17.0.0-beta?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@17.0.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@17.0.1?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@17.0.2?classifier=sources

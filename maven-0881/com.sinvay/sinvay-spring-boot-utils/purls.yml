@@ -1,0 +1,2 @@
+- pkg:maven/com.sinvay/sinvay-spring-boot-utils@0.0.7
+- pkg:maven/com.sinvay/sinvay-spring-boot-utils@0.0.7?classifier=sources

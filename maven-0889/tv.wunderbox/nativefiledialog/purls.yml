@@ -1,0 +1,2 @@
+- pkg:maven/tv.wunderbox/nativefiledialog@1.0.2?classifier=sources
+- pkg:maven/tv.wunderbox/nativefiledialog@1.0.3?classifier=sources

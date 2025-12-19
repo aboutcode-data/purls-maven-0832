@@ -17,3 +17,13 @@
 - pkg:maven/com.pulumi/kafka@3.5.0-alpha.1683321065%2B47da5d36?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.5.0-alpha.1683325558%2Bc246514b?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.5.0-alpha.1683612894%2B9a6dc941?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1683784467%2Bfaed6493?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1684215245%2B1437ddf1?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1684388239%2Bda2e5273?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1685079548%2B999a9940?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1685165866%2Bf132a957?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1686288963%2B034d12f1?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1686336490%2Ba2431b30?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1686634924%2B86dc1f45?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1687055060%2Be824e0e0?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1687671489%2B277af54c?classifier=sources

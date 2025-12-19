@@ -8,3 +8,5 @@
 - pkg:maven/io.github.yangkeith/utils@1.0.4?classifier=sources
 - pkg:maven/io.github.yangkeith/utils@1.0.5
 - pkg:maven/io.github.yangkeith/utils@1.0.5?classifier=sources
+- pkg:maven/io.github.yangkeith/utils@1.1.1-nl
+- pkg:maven/io.github.yangkeith/utils@1.1.1-nl?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-core-spring-boot-starter@2.7.0?classifier=sources
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-core-spring-boot-starter@2.8.0?classifier=sources
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-core-spring-boot-starter@2.9.0?classifier=sources
+- pkg:maven/org.finos.symphony.bdk/symphony-bdk-core-spring-boot-starter@3.0.0-alpha?classifier=sources
+- pkg:maven/org.finos.symphony.bdk/symphony-bdk-core-spring-boot-starter@3.0.0.RC1?classifier=sources

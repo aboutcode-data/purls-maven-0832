@@ -6,6 +6,7 @@
 - pkg:maven/com.adyen.checkout/dotpay@4.1.1?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.10.0?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.11.0?classifier=sources
+- pkg:maven/com.adyen.checkout/dotpay@4.12.0?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.2.0?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.3.0?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.4.0?classifier=sources

@@ -35,3 +35,5 @@
 - pkg:maven/org.apache.skywalking/server-starter@9.3.0?classifier=sources
 - pkg:maven/org.apache.skywalking/server-starter@9.4.0
 - pkg:maven/org.apache.skywalking/server-starter@9.4.0?classifier=sources
+- pkg:maven/org.apache.skywalking/server-starter@9.5.0
+- pkg:maven/org.apache.skywalking/server-starter@9.5.0?classifier=sources

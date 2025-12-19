@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/connector-file-sftp-e2e@2.3.2
+- pkg:maven/org.apache.seatunnel/connector-file-sftp-e2e@2.3.2?classifier=sources

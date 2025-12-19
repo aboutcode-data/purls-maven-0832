@@ -18,8 +18,17 @@
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.23-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.24-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.25-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.26-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.27-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.28-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.29-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.3-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.3-release?type=aar
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.31-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.32-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.33-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.34-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.35-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.4-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.4-release?type=aar
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.5-release?classifier=sources

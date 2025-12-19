@@ -78,6 +78,10 @@
 - pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@13.6
 - pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@13.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@13.7
+- pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@13.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@14.0
+- pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@14.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@6.6
 - pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-inspection-service-ffmpeg@7.2

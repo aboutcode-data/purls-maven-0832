@@ -3,3 +3,4 @@
 - pkg:maven/com.hedera.evm/hedera-evm@0.36.2?classifier=sources
 - pkg:maven/com.hedera.evm/hedera-evm@0.36.4?classifier=sources
 - pkg:maven/com.hedera.evm/hedera-evm@0.37.0?classifier=sources
+- pkg:maven/com.hedera.evm/hedera-evm@0.38.0?classifier=sources

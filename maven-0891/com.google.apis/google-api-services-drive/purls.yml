@@ -2006,6 +2006,12 @@
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev20230413-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev20230423-2.0.0
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev20230423-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20230514-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20230514-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20230517-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20230517-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20230520-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20230520-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev203-1.19.1
@@ -3958,6 +3964,12 @@
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20230413-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20230423-2.0.0
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20230423-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20230514-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20230514-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20230517-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20230517-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20230520-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20230520-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev21-1.19.1

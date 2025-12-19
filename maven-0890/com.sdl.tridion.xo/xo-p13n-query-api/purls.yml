@@ -24,5 +24,7 @@
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.1.0-1109?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.5.0-1067
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.5.0-1067?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.5.0-1206
+- pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.5.0-1206?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.6.0-1173
 - pkg:maven/com.sdl.tridion.xo/xo-p13n-query-api@11.6.0-1173?classifier=sources

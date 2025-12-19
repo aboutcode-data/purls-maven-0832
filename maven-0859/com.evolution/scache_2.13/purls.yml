@@ -2,6 +2,10 @@
 - pkg:maven/com.evolution/scache_2.13@3.6.1?classifier=sources
 - pkg:maven/com.evolution/scache_2.13@3.7.0
 - pkg:maven/com.evolution/scache_2.13@3.7.0?classifier=sources
+- pkg:maven/com.evolution/scache_2.13@3.8.0
+- pkg:maven/com.evolution/scache_2.13@3.8.0?classifier=sources
+- pkg:maven/com.evolution/scache_2.13@3.9.0
+- pkg:maven/com.evolution/scache_2.13@3.9.0?classifier=sources
 - pkg:maven/com.evolution/scache_2.13@4.3.1.1
 - pkg:maven/com.evolution/scache_2.13@4.3.1.1?classifier=sources
 - pkg:maven/com.evolution/scache_2.13@4.3.2
@@ -10,3 +14,7 @@
 - pkg:maven/com.evolution/scache_2.13@4.4.0?classifier=sources
 - pkg:maven/com.evolution/scache_2.13@4.4.1
 - pkg:maven/com.evolution/scache_2.13@4.4.1?classifier=sources
+- pkg:maven/com.evolution/scache_2.13@5.0.0
+- pkg:maven/com.evolution/scache_2.13@5.0.0?classifier=sources
+- pkg:maven/com.evolution/scache_2.13@5.1.0
+- pkg:maven/com.evolution/scache_2.13@5.1.0?classifier=sources

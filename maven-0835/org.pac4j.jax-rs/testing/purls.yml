@@ -16,3 +16,5 @@
 - pkg:maven/org.pac4j.jax-rs/testing@4.0.0?classifier=sources
 - pkg:maven/org.pac4j.jax-rs/testing@5.0.0
 - pkg:maven/org.pac4j.jax-rs/testing@5.0.0?classifier=sources
+- pkg:maven/org.pac4j.jax-rs/testing@6.0.0
+- pkg:maven/org.pac4j.jax-rs/testing@6.0.0?classifier=sources

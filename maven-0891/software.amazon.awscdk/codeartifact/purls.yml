@@ -234,6 +234,8 @@
 - pkg:maven/software.amazon.awscdk/codeartifact@1.202.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/codeartifact@1.203.0
 - pkg:maven/software.amazon.awscdk/codeartifact@1.203.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/codeartifact@1.204.0
+- pkg:maven/software.amazon.awscdk/codeartifact@1.204.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/codeartifact@1.68.0
 - pkg:maven/software.amazon.awscdk/codeartifact@1.68.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/codeartifact@1.69.0

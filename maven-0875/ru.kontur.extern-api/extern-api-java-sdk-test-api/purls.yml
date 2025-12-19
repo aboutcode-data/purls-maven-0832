@@ -1,3 +1,5 @@
+- pkg:maven/ru.kontur.extern-api/extern-api-java-sdk-test-api@1.7.10
+- pkg:maven/ru.kontur.extern-api/extern-api-java-sdk-test-api@1.7.10?classifier=sources
 - pkg:maven/ru.kontur.extern-api/extern-api-java-sdk-test-api@1.7.5
 - pkg:maven/ru.kontur.extern-api/extern-api-java-sdk-test-api@1.7.5?classifier=sources
 - pkg:maven/ru.kontur.extern-api/extern-api-java-sdk-test-api@1.7.6

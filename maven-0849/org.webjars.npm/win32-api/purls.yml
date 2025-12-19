@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/win32-api@20.4.1
+- pkg:maven/org.webjars.npm/win32-api@20.4.1?classifier=sources

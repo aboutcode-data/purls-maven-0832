@@ -1,1 +1,4 @@
 - pkg:maven/tools.samt/samt-config@0.0.8?classifier=sources
+- pkg:maven/tools.samt/samt-config@0.0.9?classifier=sources
+- pkg:maven/tools.samt/samt-config@0.1.0?classifier=sources
+- pkg:maven/tools.samt/samt-config@1.0.0?classifier=sources

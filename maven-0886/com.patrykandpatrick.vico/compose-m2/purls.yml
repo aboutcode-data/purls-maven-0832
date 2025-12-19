@@ -2,3 +2,5 @@
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@1.6.3?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@1.6.4?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@1.6.5?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@1.6.6?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@1.7.0?classifier=sources

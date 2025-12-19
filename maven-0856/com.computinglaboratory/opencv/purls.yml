@@ -1,1 +1,2 @@
 - pkg:maven/com.computinglaboratory/opencv@4.7.0-0?classifier=sources
+- pkg:maven/com.computinglaboratory/opencv@4.7.0-1?classifier=sources

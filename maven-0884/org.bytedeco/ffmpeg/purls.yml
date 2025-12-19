@@ -16,3 +16,5 @@
 - pkg:maven/org.bytedeco/ffmpeg@5.0-1.5.7?classifier=sources
 - pkg:maven/org.bytedeco/ffmpeg@5.1.2-1.5.8
 - pkg:maven/org.bytedeco/ffmpeg@5.1.2-1.5.8?classifier=sources
+- pkg:maven/org.bytedeco/ffmpeg@6.0-1.5.9
+- pkg:maven/org.bytedeco/ffmpeg@6.0-1.5.9?classifier=sources

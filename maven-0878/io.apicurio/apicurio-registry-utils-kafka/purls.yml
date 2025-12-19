@@ -62,3 +62,5 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-kafka@2.4.1.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-kafka@2.4.2.Final
 - pkg:maven/io.apicurio/apicurio-registry-utils-kafka@2.4.2.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-kafka@2.4.3.Final
+- pkg:maven/io.apicurio/apicurio-registry-utils-kafka@2.4.3.Final?classifier=sources

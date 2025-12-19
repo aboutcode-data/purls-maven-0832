@@ -1,0 +1,2 @@
+- pkg:maven/dev.cheleb/sbt-plantuml_2.12_1.0@0.0.9
+- pkg:maven/dev.cheleb/sbt-plantuml_2.12_1.0@0.0.9?classifier=sources

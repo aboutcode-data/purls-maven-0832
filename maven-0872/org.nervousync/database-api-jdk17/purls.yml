@@ -1,0 +1,2 @@
+- pkg:maven/org.nervousync/database-api-jdk17@1.0.0
+- pkg:maven/org.nervousync/database-api-jdk17@1.0.0?classifier=sources

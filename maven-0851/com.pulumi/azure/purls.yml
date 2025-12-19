@@ -78,6 +78,16 @@
 - pkg:maven/com.pulumi/azure@5.43.0-alpha.1683064916%2B5c1f00d6?classifier=sources
 - pkg:maven/com.pulumi/azure@5.43.0-alpha.1683337544%2B3ec7b764?classifier=sources
 - pkg:maven/com.pulumi/azure@5.43.0?classifier=sources
+- pkg:maven/com.pulumi/azure@5.44.0-alpha.1683679184%2B6222371b?classifier=sources
+- pkg:maven/com.pulumi/azure@5.44.0-alpha.1686078109%2Bc4917616?classifier=sources
+- pkg:maven/com.pulumi/azure@5.44.0-alpha.1686079761%2B3941ce47?classifier=sources
+- pkg:maven/com.pulumi/azure@5.44.0-alpha.1686147479%2Bc61e50c2?classifier=sources
+- pkg:maven/com.pulumi/azure@5.44.0-alpha.1686290899%2B2f52918e?classifier=sources
+- pkg:maven/com.pulumi/azure@5.44.0-alpha.1686636555%2B8d4bd787?classifier=sources
+- pkg:maven/com.pulumi/azure@5.44.0-alpha.1686714892%2B83aed279?classifier=sources
+- pkg:maven/com.pulumi/azure@5.44.0?classifier=sources
+- pkg:maven/com.pulumi/azure@5.44.1?classifier=sources
+- pkg:maven/com.pulumi/azure@5.45.0-alpha.1687673124%2B40779a65?classifier=sources
 - pkg:maven/com.pulumi/azure@v5.12.0-alpha.1657285175%2Bf3796c4f?classifier=sources
 - pkg:maven/com.pulumi/azure@v5.12.0-alpha.1657562051%2B1ef8862e?classifier=sources
 - pkg:maven/com.pulumi/azure@v5.12.0?classifier=sources

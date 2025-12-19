@@ -5,3 +5,7 @@
 - pkg:maven/io.github.coolishbee/universalsdk@3.0.1?type=aar
 - pkg:maven/io.github.coolishbee/universalsdk@3.0.2?type=aar
 - pkg:maven/io.github.coolishbee/universalsdk@3.0.3?type=aar
+- pkg:maven/io.github.coolishbee/universalsdk@3.0.4?type=aar
+- pkg:maven/io.github.coolishbee/universalsdk@3.0.5?type=aar
+- pkg:maven/io.github.coolishbee/universalsdk@3.0.6?type=aar
+- pkg:maven/io.github.coolishbee/universalsdk@3.0.7?type=aar

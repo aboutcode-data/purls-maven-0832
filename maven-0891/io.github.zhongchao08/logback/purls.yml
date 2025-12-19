@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zhongchao08/logback@1.0
+- pkg:maven/io.github.zhongchao08/logback@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.iohao.game/external-core@17.1.43
+- pkg:maven/com.iohao.game/external-core@17.1.43?classifier=sources
+- pkg:maven/com.iohao.game/external-core@17.1.44
+- pkg:maven/com.iohao.game/external-core@17.1.44?classifier=sources

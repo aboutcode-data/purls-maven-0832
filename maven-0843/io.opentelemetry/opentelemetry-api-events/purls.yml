@@ -3,3 +3,4 @@
 - pkg:maven/io.opentelemetry/opentelemetry-api-events@1.24.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-api-events@1.25.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-api-events@1.26.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-api-events@1.27.0-alpha?classifier=sources

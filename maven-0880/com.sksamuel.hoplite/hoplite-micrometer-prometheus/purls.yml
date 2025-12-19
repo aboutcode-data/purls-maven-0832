@@ -17,3 +17,4 @@
 - pkg:maven/com.sksamuel.hoplite/hoplite-micrometer-prometheus@2.7.2?classifier=sources
 - pkg:maven/com.sksamuel.hoplite/hoplite-micrometer-prometheus@2.7.3?classifier=sources
 - pkg:maven/com.sksamuel.hoplite/hoplite-micrometer-prometheus@2.7.4?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-micrometer-prometheus@2.8.0.RC1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.spotify.metrics/semantic-metrics-jmh-benchmarks@1.1.10?classifier=sources
 - pkg:maven/com.spotify.metrics/semantic-metrics-jmh-benchmarks@1.1.11
 - pkg:maven/com.spotify.metrics/semantic-metrics-jmh-benchmarks@1.1.11?classifier=sources
+- pkg:maven/com.spotify.metrics/semantic-metrics-jmh-benchmarks@1.2.0
+- pkg:maven/com.spotify.metrics/semantic-metrics-jmh-benchmarks@1.2.0?classifier=sources

@@ -176,3 +176,5 @@
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_3@2.22.2?classifier=sources
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_3@2.23.0
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_3@2.23.0?classifier=sources
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_3@2.23.1
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_3@2.23.1?classifier=sources

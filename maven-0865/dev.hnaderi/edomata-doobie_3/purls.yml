@@ -1,5 +1,11 @@
 - pkg:maven/dev.hnaderi/edomata-doobie_3@0.10.0
 - pkg:maven/dev.hnaderi/edomata-doobie_3@0.10.0?classifier=sources
+- pkg:maven/dev.hnaderi/edomata-doobie_3@0.10.1
+- pkg:maven/dev.hnaderi/edomata-doobie_3@0.10.1?classifier=sources
+- pkg:maven/dev.hnaderi/edomata-doobie_3@0.11.0
+- pkg:maven/dev.hnaderi/edomata-doobie_3@0.11.0?classifier=sources
+- pkg:maven/dev.hnaderi/edomata-doobie_3@0.11.1
+- pkg:maven/dev.hnaderi/edomata-doobie_3@0.11.1?classifier=sources
 - pkg:maven/dev.hnaderi/edomata-doobie_3@0.5.0
 - pkg:maven/dev.hnaderi/edomata-doobie_3@0.5.0?classifier=sources
 - pkg:maven/dev.hnaderi/edomata-doobie_3@0.5.1

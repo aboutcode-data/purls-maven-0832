@@ -1,2 +1,6 @@
 - pkg:maven/ai.dragonfly/cliviz_3@0.1
+- pkg:maven/ai.dragonfly/cliviz_3@0.101
+- pkg:maven/ai.dragonfly/cliviz_3@0.101?classifier=sources
+- pkg:maven/ai.dragonfly/cliviz_3@0.102
+- pkg:maven/ai.dragonfly/cliviz_3@0.102?classifier=sources
 - pkg:maven/ai.dragonfly/cliviz_3@0.1?classifier=sources

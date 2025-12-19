@@ -28,5 +28,7 @@
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.1.0-1128?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.5.0-1054
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.5.0-1054?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.5.0-1180
+- pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.5.0-1180?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.6.0-1115
 - pkg:maven/com.sdl.delivery/udp-ugc-cil-common@11.6.0-1115?classifier=sources

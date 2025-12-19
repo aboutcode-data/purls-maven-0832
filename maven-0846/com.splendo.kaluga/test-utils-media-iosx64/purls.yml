@@ -1,0 +1,2 @@
+- pkg:maven/com.splendo.kaluga/test-utils-media-iosx64@1.2.0?classifier=sources
+- pkg:maven/com.splendo.kaluga/test-utils-media-iosx64@1.2.1?classifier=sources

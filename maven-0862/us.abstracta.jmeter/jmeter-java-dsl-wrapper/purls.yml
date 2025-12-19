@@ -74,6 +74,10 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.10?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.11
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.11?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.12
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.12.1
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.12.1?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.12?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.1?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.2
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-wrapper@1.2?classifier=sources

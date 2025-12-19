@@ -24,6 +24,7 @@
 - pkg:maven/com.tencent.tinker/tinker-android-lib-no-op@1.9.14.23?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-lib-no-op@1.9.14.24?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-lib-no-op@1.9.14.25.1?classifier=sources
+- pkg:maven/com.tencent.tinker/tinker-android-lib-no-op@1.9.14.25.2?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-lib-no-op@1.9.14.25?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-lib-no-op@1.9.14.5?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-lib-no-op@1.9.14.5?type=aar

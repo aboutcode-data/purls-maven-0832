@@ -54,3 +54,5 @@
 - pkg:maven/com.snowplowanalytics/snowplow-badrows_2.12@2.2.0-M2
 - pkg:maven/com.snowplowanalytics/snowplow-badrows_2.12@2.2.0-M2?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-badrows_2.12@2.2.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-badrows_2.12@2.2.1
+- pkg:maven/com.snowplowanalytics/snowplow-badrows_2.12@2.2.1?classifier=sources

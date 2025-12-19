@@ -1,2 +1,4 @@
 - pkg:maven/jakarta.nosql/nosql-column@1.0.0-b6
 - pkg:maven/jakarta.nosql/nosql-column@1.0.0-b6?classifier=sources
+- pkg:maven/jakarta.nosql/nosql-column@1.0.0-b7
+- pkg:maven/jakarta.nosql/nosql-column@1.0.0-b7?classifier=sources

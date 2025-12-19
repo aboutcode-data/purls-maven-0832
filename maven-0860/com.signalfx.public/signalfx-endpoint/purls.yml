@@ -1,0 +1,4 @@
+- pkg:maven/com.signalfx.public/signalfx-endpoint@1.0.31
+- pkg:maven/com.signalfx.public/signalfx-endpoint@1.0.31?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-endpoint@1.0.32
+- pkg:maven/com.signalfx.public/signalfx-endpoint@1.0.32?classifier=sources

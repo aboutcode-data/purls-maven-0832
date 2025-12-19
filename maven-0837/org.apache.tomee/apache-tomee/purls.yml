@@ -81,3 +81,5 @@
 - pkg:maven/org.apache.tomee/apache-tomee@9.0.0.RC1
 - pkg:maven/org.apache.tomee/apache-tomee@9.0.0.RC1?classifier=sources
 - pkg:maven/org.apache.tomee/apache-tomee@9.0.0?classifier=sources
+- pkg:maven/org.apache.tomee/apache-tomee@9.1.0
+- pkg:maven/org.apache.tomee/apache-tomee@9.1.0?classifier=sources

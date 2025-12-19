@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.jasperreports/quarkus-jasperreports@schmalnau
+- pkg:maven/io.quarkiverse.jasperreports/quarkus-jasperreports@schmalnau?classifier=sources

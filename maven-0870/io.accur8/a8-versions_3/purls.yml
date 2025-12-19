@@ -12,3 +12,5 @@
 - pkg:maven/io.accur8/a8-versions_3@1.0.0-20230501_1014_master?classifier=sources
 - pkg:maven/io.accur8/a8-versions_3@1.0.0-20230502_0659_master
 - pkg:maven/io.accur8/a8-versions_3@1.0.0-20230502_0659_master?classifier=sources
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230502_1307_master
+- pkg:maven/io.accur8/a8-versions_3@1.0.0-20230502_1307_master?classifier=sources

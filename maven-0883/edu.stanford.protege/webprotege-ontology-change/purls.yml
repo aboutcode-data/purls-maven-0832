@@ -1,2 +1,4 @@
 - pkg:maven/edu.stanford.protege/webprotege-ontology-change@0.9.1
 - pkg:maven/edu.stanford.protege/webprotege-ontology-change@0.9.1?classifier=sources
+- pkg:maven/edu.stanford.protege/webprotege-ontology-change@0.9.2
+- pkg:maven/edu.stanford.protege/webprotege-ontology-change@0.9.2?classifier=sources

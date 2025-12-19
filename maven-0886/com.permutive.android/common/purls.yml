@@ -5,3 +5,4 @@
 - pkg:maven/com.permutive.android/common@1.5.12?classifier=sources
 - pkg:maven/com.permutive.android/common@1.5.13?classifier=sources
 - pkg:maven/com.permutive.android/common@1.6.0?classifier=sources
+- pkg:maven/com.permutive.android/common@1.7.0?classifier=sources

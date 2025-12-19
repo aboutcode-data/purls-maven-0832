@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flink/flink-ml-python-1.15@2.3.0
+- pkg:maven/org.apache.flink/flink-ml-python-1.15@2.3.0?classifier=sources

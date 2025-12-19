@@ -724,6 +724,10 @@
 - pkg:maven/io.mangoo/mangooio-maven-archetype@7.13.0-RC5
 - pkg:maven/io.mangoo/mangooio-maven-archetype@7.13.0-RC5?classifier=sources
 - pkg:maven/io.mangoo/mangooio-maven-archetype@7.13.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@7.14.0
+- pkg:maven/io.mangoo/mangooio-maven-archetype@7.14.0-Beta1
+- pkg:maven/io.mangoo/mangooio-maven-archetype@7.14.0-Beta1?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@7.14.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-maven-archetype@7.2.0
 - pkg:maven/io.mangoo/mangooio-maven-archetype@7.2.0-Beta1
 - pkg:maven/io.mangoo/mangooio-maven-archetype@7.2.0-Beta1?classifier=sources

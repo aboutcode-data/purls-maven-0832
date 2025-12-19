@@ -8,6 +8,12 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.12?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.13
 - pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.13?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.14
+- pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.14?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.15
+- pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.15?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.16
+- pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.16?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.2
 - pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-computenestsupplier@2.0.3

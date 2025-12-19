@@ -1,0 +1,3 @@
+- pkg:maven/com.vaadin/vaadin-prod-bundle@24.1.0
+- pkg:maven/com.vaadin/vaadin-prod-bundle@24.1.1
+- pkg:maven/com.vaadin/vaadin-prod-bundle@24.1.2

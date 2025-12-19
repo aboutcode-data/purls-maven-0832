@@ -28,3 +28,7 @@
 - pkg:maven/com.github.lolgab/mill-scalablytyped_mill0.10_2.13@0.1.6?classifier=sources
 - pkg:maven/com.github.lolgab/mill-scalablytyped_mill0.10_2.13@0.1.7
 - pkg:maven/com.github.lolgab/mill-scalablytyped_mill0.10_2.13@0.1.7?classifier=sources
+- pkg:maven/com.github.lolgab/mill-scalablytyped_mill0.10_2.13@0.1.8
+- pkg:maven/com.github.lolgab/mill-scalablytyped_mill0.10_2.13@0.1.8?classifier=sources
+- pkg:maven/com.github.lolgab/mill-scalablytyped_mill0.10_2.13@0.1.9
+- pkg:maven/com.github.lolgab/mill-scalablytyped_mill0.10_2.13@0.1.9?classifier=sources

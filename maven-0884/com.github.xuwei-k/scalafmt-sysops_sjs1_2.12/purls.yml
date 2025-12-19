@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xuwei-k/scalafmt-sysops_sjs1_2.12@3.7.4-fork-1
+- pkg:maven/com.github.xuwei-k/scalafmt-sysops_sjs1_2.12@3.7.4-fork-1?classifier=sources

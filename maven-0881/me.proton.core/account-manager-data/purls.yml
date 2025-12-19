@@ -36,6 +36,8 @@
 - pkg:maven/me.proton.core/account-manager-data@10.6.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data@10.7.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data@10.7.1?classifier=sources
+- pkg:maven/me.proton.core/account-manager-data@11.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-data@12.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-data@3.0.0?classifier=sources

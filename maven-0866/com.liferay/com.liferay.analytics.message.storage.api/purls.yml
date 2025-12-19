@@ -133,6 +133,12 @@
 - pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@4.2.4
 - pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@4.2.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@4.2.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@4.3.0
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@4.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@4.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@4.4.0
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@4.4.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@4.4.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@5.0.0?classifier=sources-commercial
@@ -178,3 +184,12 @@
 - pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.4.0
 - pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.4.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.4.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.5.0
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.5.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.5.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.6.0
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.6.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.6.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.7.0
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.7.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.message.storage.api@6.7.0?classifier=sources-commercial

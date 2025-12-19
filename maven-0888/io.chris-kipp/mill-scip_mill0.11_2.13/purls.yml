@@ -1,0 +1,2 @@
+- pkg:maven/io.chris-kipp/mill-scip_mill0.11_2.13@0.3.4
+- pkg:maven/io.chris-kipp/mill-scip_mill0.11_2.13@0.3.4?classifier=sources

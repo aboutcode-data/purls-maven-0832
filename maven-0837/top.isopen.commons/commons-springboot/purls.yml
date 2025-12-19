@@ -1,0 +1,4 @@
+- pkg:maven/top.isopen.commons/commons-springboot@0.1.0
+- pkg:maven/top.isopen.commons/commons-springboot@0.1.0?classifier=sources
+- pkg:maven/top.isopen.commons/commons-springboot@1.0.0
+- pkg:maven/top.isopen.commons/commons-springboot@1.0.0?classifier=sources

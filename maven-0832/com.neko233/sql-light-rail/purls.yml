@@ -32,3 +32,4 @@
 - pkg:maven/com.neko233/sql-light-rail@0.3.1?classifier=sources
 - pkg:maven/com.neko233/sql-light-rail@1.0.0?classifier=sources
 - pkg:maven/com.neko233/sql-light-rail@1.0.1?classifier=sources
+- pkg:maven/com.neko233/sql-light-rail@1.0.2?classifier=sources

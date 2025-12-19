@@ -248,3 +248,13 @@
 - pkg:maven/org.fugerit.java/fj-doc-sample@1.0.1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-sample@1.0.2-rc.001
 - pkg:maven/org.fugerit.java/fj-doc-sample@1.0.2-rc.001?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.0.3-rc.001
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.0.3-rc.001?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.0.3-rc.002
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.0.3-rc.002?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.1.0-rc.001
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.1.0-rc.001?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.1.1-rc.001
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.1.1-rc.001?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.1.2-rc.001
+- pkg:maven/org.fugerit.java/fj-doc-sample@1.1.2-rc.001?classifier=sources

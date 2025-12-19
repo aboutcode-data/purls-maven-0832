@@ -6,3 +6,5 @@
 - pkg:maven/org.codehaus.mojo.versions/versions-common@2.14.2?classifier=sources
 - pkg:maven/org.codehaus.mojo.versions/versions-common@2.15.0
 - pkg:maven/org.codehaus.mojo.versions/versions-common@2.15.0?classifier=sources
+- pkg:maven/org.codehaus.mojo.versions/versions-common@2.16.0
+- pkg:maven/org.codehaus.mojo.versions/versions-common@2.16.0?classifier=sources

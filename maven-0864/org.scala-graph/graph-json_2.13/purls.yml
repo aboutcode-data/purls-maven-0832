@@ -1,2 +1,4 @@
 - pkg:maven/org.scala-graph/graph-json_2.13@1.13.0
 - pkg:maven/org.scala-graph/graph-json_2.13@1.13.0?classifier=sources
+- pkg:maven/org.scala-graph/graph-json_2.13@2.0.0
+- pkg:maven/org.scala-graph/graph-json_2.13@2.0.0?classifier=sources

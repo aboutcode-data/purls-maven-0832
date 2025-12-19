@@ -5,6 +5,11 @@
 - pkg:maven/com.ritense.valtimo/exact-plugin@10.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/exact-plugin@10.4.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/exact-plugin@10.5.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/exact-plugin@10.5.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/exact-plugin@10.5.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/exact-plugin@10.5.3.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/exact-plugin@10.6.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/exact-plugin@9.24.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/exact-plugin@9.26.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/exact-plugin@9.26.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/exact-plugin@9.26.2.RELEASE?classifier=sources

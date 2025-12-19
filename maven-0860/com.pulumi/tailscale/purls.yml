@@ -14,3 +14,11 @@
 - pkg:maven/com.pulumi/tailscale@0.12.1?classifier=sources
 - pkg:maven/com.pulumi/tailscale@0.12.2-alpha.1680912209%2Bbbca0cc9?classifier=sources
 - pkg:maven/com.pulumi/tailscale@0.12.2-alpha.1681938800%2B679bd7ef?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.12.2?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.12.3-alpha.1686071327%2B6f1e70bb?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.12.3-alpha.1686072659%2Bb953b495?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.12.3-alpha.1686116251%2B4bcfaade?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.12.3-alpha.1686291472%2B335eb986?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.12.3-alpha.1686638328%2Bef0125ec?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.12.3-alpha.1687057253%2B0c794dd8?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.12.3-alpha.1687758057%2B28847966?classifier=sources

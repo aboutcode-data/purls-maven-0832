@@ -1,0 +1,1 @@
+- pkg:maven/app.cash.sqldelight/compiler-env@2.0.0-rc01?classifier=sources

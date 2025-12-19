@@ -20,3 +20,5 @@
 - pkg:maven/org.prebid/prebid-mobile-sdk-max-adapters@2.0.9?classifier=sources
 - pkg:maven/org.prebid/prebid-mobile-sdk-max-adapters@2.1.0
 - pkg:maven/org.prebid/prebid-mobile-sdk-max-adapters@2.1.0?classifier=sources
+- pkg:maven/org.prebid/prebid-mobile-sdk-max-adapters@2.1.1
+- pkg:maven/org.prebid/prebid-mobile-sdk-max-adapters@2.1.1?classifier=sources

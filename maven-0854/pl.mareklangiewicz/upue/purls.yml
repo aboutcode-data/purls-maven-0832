@@ -2,3 +2,4 @@
 - pkg:maven/pl.mareklangiewicz/upue@0.0.10?classifier=sources
 - pkg:maven/pl.mareklangiewicz/upue@0.0.11?classifier=sources
 - pkg:maven/pl.mareklangiewicz/upue@0.0.12?classifier=sources
+- pkg:maven/pl.mareklangiewicz/upue@0.0.14?classifier=sources

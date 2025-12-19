@@ -64,6 +64,12 @@
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@17.2.0
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@17.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@17.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.api@17.3.0
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.api@17.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.api@17.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.api@17.4.0
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.api@17.4.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.api@17.4.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@2.0.0?classifier=sources-commercial

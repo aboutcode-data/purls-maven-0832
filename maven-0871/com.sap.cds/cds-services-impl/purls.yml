@@ -142,3 +142,5 @@
 - pkg:maven/com.sap.cds/cds-services-impl@1.8.3?classifier=sources
 - pkg:maven/com.sap.cds/cds-services-impl@1.9.0
 - pkg:maven/com.sap.cds/cds-services-impl@1.9.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-services-impl@2.0.1
+- pkg:maven/com.sap.cds/cds-services-impl@2.0.1?classifier=sources

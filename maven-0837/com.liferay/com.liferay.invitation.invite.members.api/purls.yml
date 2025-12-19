@@ -230,6 +230,12 @@
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@5.3.3
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@5.3.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@5.3.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@5.4.0
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@5.4.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@5.4.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@5.5.0
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@5.5.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@5.5.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@6.0.0
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@6.0.0?classifier=sources-commercial
@@ -263,3 +269,9 @@
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@7.1.0
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@7.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@7.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@7.2.0
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@7.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@7.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@7.3.0
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@7.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.invitation.invite.members.api@7.3.0?classifier=sources-commercial

@@ -2,3 +2,5 @@
 - pkg:maven/io.extremum/extremum-annotations@2.1.19?classifier=sources
 - pkg:maven/io.extremum/extremum-annotations@3.0.0
 - pkg:maven/io.extremum/extremum-annotations@3.0.0?classifier=sources
+- pkg:maven/io.extremum/extremum-annotations@3.2.0-rc.1
+- pkg:maven/io.extremum/extremum-annotations@3.2.0-rc.1?classifier=sources

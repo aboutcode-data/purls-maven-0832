@@ -16,5 +16,9 @@
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.20?classifier=sources
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.21
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.21?classifier=sources
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.22
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.22?classifier=sources
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.23
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.23?classifier=sources
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.8
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-client@0.8?classifier=sources

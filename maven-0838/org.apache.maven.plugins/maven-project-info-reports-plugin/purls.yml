@@ -84,3 +84,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-project-info-reports-plugin@3.4.4
 - pkg:maven/org.apache.maven.plugins/maven-project-info-reports-plugin@3.4.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-project-info-reports-plugin@3.4.4?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-project-info-reports-plugin@3.4.5
+- pkg:maven/org.apache.maven.plugins/maven-project-info-reports-plugin@3.4.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-project-info-reports-plugin@3.4.5?classifier=sources

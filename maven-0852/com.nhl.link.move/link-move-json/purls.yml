@@ -50,3 +50,5 @@
 - pkg:maven/com.nhl.link.move/link-move-json@3.0.M3?classifier=sources
 - pkg:maven/com.nhl.link.move/link-move-json@3.0.M4
 - pkg:maven/com.nhl.link.move/link-move-json@3.0.M4?classifier=sources
+- pkg:maven/com.nhl.link.move/link-move-json@3.0.M5
+- pkg:maven/com.nhl.link.move/link-move-json@3.0.M5?classifier=sources

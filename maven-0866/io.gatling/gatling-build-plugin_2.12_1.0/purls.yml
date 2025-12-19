@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling/gatling-build-plugin_2.12_1.0@5.2.1
+- pkg:maven/io.gatling/gatling-build-plugin_2.12_1.0@5.2.1?classifier=sources

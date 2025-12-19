@@ -12,3 +12,5 @@
 - pkg:maven/dev.hcf.ball/ball-databind@2.0.7.20230325?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-databind@2.0.8.20230424
 - pkg:maven/dev.hcf.ball/ball-databind@2.0.8.20230424?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-databind@2.0.9.20230520
+- pkg:maven/dev.hcf.ball/ball-databind@2.0.9.20230520?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iosx64@0.0.16?classifier=sources
 - pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iosx64@0.0.17?classifier=sources
 - pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iosx64@0.0.18?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iosx64@0.0.19?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iosx64@0.0.20?classifier=sources

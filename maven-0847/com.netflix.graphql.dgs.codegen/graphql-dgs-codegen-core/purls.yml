@@ -33,6 +33,13 @@
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.1.7?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.1.8?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.1.9?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.10.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.11.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.11.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.12.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.12.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.12.3?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.12.4?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.2.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.2.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.2.2?classifier=sources
@@ -55,3 +62,8 @@
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.7.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.7.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.7.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.7.3?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.8.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.8.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.9.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@5.9.1?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/app.cash.nostrino/nostr-sdk@0.0.3?classifier=sources
+- pkg:maven/app.cash.nostrino/nostr-sdk@0.0.4?classifier=sources
+- pkg:maven/app.cash.nostrino/nostr-sdk@0.0.5-20230519.0630-a7654e6?classifier=sources
+- pkg:maven/app.cash.nostrino/nostr-sdk@0.0.5?classifier=sources

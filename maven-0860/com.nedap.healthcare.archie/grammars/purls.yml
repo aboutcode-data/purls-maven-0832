@@ -109,3 +109,5 @@
 - pkg:maven/com.nedap.healthcare.archie/grammars@3.1.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/grammars@3.2.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/grammars@3.3.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/grammars@3.4.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/grammars@3.5.0?classifier=sources

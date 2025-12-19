@@ -198,6 +198,8 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@19.0.0?type=zip
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@19.0.2?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@19.0.2?type=zip
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@20.0.2?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@20.0.2?type=zip
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@4.9.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@4.9.0?type=zip
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-doc@7.3.1?classifier=sources

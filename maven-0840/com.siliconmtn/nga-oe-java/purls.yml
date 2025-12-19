@@ -2,3 +2,4 @@
 - pkg:maven/com.siliconmtn/nga-oe-java@0.1.52?classifier=sources
 - pkg:maven/com.siliconmtn/nga-oe-java@0.1.53?classifier=sources
 - pkg:maven/com.siliconmtn/nga-oe-java@0.2.0?classifier=sources
+- pkg:maven/com.siliconmtn/nga-oe-java@0.2.1?classifier=sources

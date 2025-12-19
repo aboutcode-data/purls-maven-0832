@@ -1,0 +1,4 @@
+- pkg:maven/com.typesafe.play/sbt-twirl_2.12_1.0@1.6.0-RC3
+- pkg:maven/com.typesafe.play/sbt-twirl_2.12_1.0@1.6.0-RC3?classifier=sources
+- pkg:maven/com.typesafe.play/sbt-twirl_2.12_1.0@1.6.0-RC4
+- pkg:maven/com.typesafe.play/sbt-twirl_2.12_1.0@1.6.0-RC4?classifier=sources

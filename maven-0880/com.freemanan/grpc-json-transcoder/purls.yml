@@ -1,0 +1,2 @@
+- pkg:maven/com.freemanan/grpc-json-transcoder@2.1.0-RC1?classifier=sources
+- pkg:maven/com.freemanan/grpc-json-transcoder@3.1.0-RC1?classifier=sources
