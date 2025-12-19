@@ -8,6 +8,8 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.11.6-Hoxton.SR12?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.11.7-Hoxton.SR12
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.11.7-Hoxton.SR12?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.11.8-Hoxton.SR12
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.11.8-Hoxton.SR12?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.4.0-Hoxton.SR9
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.4.0-Hoxton.SR9?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.4.1-Hoxton.SR9

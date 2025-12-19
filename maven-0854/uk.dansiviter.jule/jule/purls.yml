@@ -1,0 +1,4 @@
+- pkg:maven/uk.dansiviter.jule/jule@0.7.0
+- pkg:maven/uk.dansiviter.jule/jule@0.7.0?classifier=sources
+- pkg:maven/uk.dansiviter.jule/jule@0.7.1
+- pkg:maven/uk.dansiviter.jule/jule@0.7.1?classifier=sources

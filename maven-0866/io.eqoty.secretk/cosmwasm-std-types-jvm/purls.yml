@@ -14,3 +14,5 @@
 - pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@3.1.0?classifier=sources
 - pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@3.1.1?classifier=sources
 - pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@3.1.2?classifier=sources
+- pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@4.0.0?classifier=sources
+- pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@5.0.0?classifier=sources

@@ -410,3 +410,13 @@
 - pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.2-NIGHTLY20221003
 - pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.2-NIGHTLY20221003?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.2?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-RC1
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-RC1?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-RC3
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-RC3?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-RC4
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-RC4?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-RC5
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-RC5?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-debug.8
+- pkg:maven/com.lightbend.cloudflow/cloudflow-build-support_2.12@2.3.4-debug.8?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/ca.dvgi/managerial-twitter-util_3@0.8.0
 - pkg:maven/ca.dvgi/managerial-twitter-util_3@0.8.0?classifier=sources
+- pkg:maven/ca.dvgi/managerial-twitter-util_3@0.9.1
+- pkg:maven/ca.dvgi/managerial-twitter-util_3@0.9.1?classifier=sources

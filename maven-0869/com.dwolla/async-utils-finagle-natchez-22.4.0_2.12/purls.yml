@@ -1,0 +1,2 @@
+- pkg:maven/com.dwolla/async-utils-finagle-natchez-22.4.0_2.12@1.1.0
+- pkg:maven/com.dwolla/async-utils-finagle-natchez-22.4.0_2.12@1.1.0?classifier=sources

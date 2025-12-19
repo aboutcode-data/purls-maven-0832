@@ -15,3 +15,5 @@
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.7.1?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.7.2?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.7.4?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.7.5?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.9.0?classifier=sources

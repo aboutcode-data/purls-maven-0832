@@ -1,0 +1,2 @@
+- pkg:maven/com.goyeau/mill-git_mill0.11_2.13@0.2.5
+- pkg:maven/com.goyeau/mill-git_mill0.11_2.13@0.2.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/fun.fengwk.convention4j/convention4j-api@0.0.1
 - pkg:maven/fun.fengwk.convention4j/convention4j-api@0.0.1?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-api@0.0.3
+- pkg:maven/fun.fengwk.convention4j/convention4j-api@0.0.3?classifier=sources

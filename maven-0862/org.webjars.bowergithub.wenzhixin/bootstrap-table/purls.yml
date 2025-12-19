@@ -40,3 +40,5 @@
 - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.21.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.22.0
 - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.22.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.22.1
+- pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table@1.22.1?classifier=sources

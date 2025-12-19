@@ -1,0 +1,2 @@
+- pkg:maven/tech.catheu/flexmark-ext-math@0.8.0
+- pkg:maven/tech.catheu/flexmark-ext-math@0.8.0?classifier=sources

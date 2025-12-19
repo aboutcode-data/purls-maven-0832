@@ -1,0 +1,2 @@
+- pkg:maven/de.gwdg.metadataqa/qa-catalogue@0.7.0
+- pkg:maven/de.gwdg.metadataqa/qa-catalogue@0.7.0?classifier=sources

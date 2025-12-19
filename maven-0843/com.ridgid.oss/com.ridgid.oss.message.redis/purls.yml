@@ -28,3 +28,5 @@
 - pkg:maven/com.ridgid.oss/com.ridgid.oss.message.redis@2.158?classifier=sources
 - pkg:maven/com.ridgid.oss/com.ridgid.oss.message.redis@2.159
 - pkg:maven/com.ridgid.oss/com.ridgid.oss.message.redis@2.159?classifier=sources
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.message.redis@2.160
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.message.redis@2.160?classifier=sources

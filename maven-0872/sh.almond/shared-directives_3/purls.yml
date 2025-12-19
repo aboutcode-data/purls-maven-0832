@@ -1,0 +1,4 @@
+- pkg:maven/sh.almond/shared-directives_3@0.14.0-RC11
+- pkg:maven/sh.almond/shared-directives_3@0.14.0-RC11?classifier=sources
+- pkg:maven/sh.almond/shared-directives_3@0.14.0-RC12
+- pkg:maven/sh.almond/shared-directives_3@0.14.0-RC12?classifier=sources

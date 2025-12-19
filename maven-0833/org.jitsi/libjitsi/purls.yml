@@ -24,6 +24,14 @@
 - pkg:maven/org.jitsi/libjitsi@1.1-23-g86401561?classifier=sources
 - pkg:maven/org.jitsi/libjitsi@1.1-26-g4e9c95d3
 - pkg:maven/org.jitsi/libjitsi@1.1-26-g4e9c95d3?classifier=sources
+- pkg:maven/org.jitsi/libjitsi@1.1-29-g00e62769
+- pkg:maven/org.jitsi/libjitsi@1.1-29-g00e62769?classifier=sources
+- pkg:maven/org.jitsi/libjitsi@1.1-30-gb1b02a58
+- pkg:maven/org.jitsi/libjitsi@1.1-30-gb1b02a58?classifier=sources
+- pkg:maven/org.jitsi/libjitsi@1.1-31-g532ecd55
+- pkg:maven/org.jitsi/libjitsi@1.1-31-g532ecd55?classifier=sources
+- pkg:maven/org.jitsi/libjitsi@1.1-32-g2a5a8171
+- pkg:maven/org.jitsi/libjitsi@1.1-32-g2a5a8171?classifier=sources
 - pkg:maven/org.jitsi/libjitsi@1.1-4-gfb6b03ff
 - pkg:maven/org.jitsi/libjitsi@1.1-4-gfb6b03ff?classifier=sources
 - pkg:maven/org.jitsi/libjitsi@1.1-7-gbd220eef

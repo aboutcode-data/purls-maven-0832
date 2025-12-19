@@ -156,6 +156,10 @@
 - pkg:maven/de.sciss/soundprocesses-views_2.12@4.14.6?classifier=sources
 - pkg:maven/de.sciss/soundprocesses-views_2.12@4.14.7
 - pkg:maven/de.sciss/soundprocesses-views_2.12@4.14.7?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-views_2.12@4.14.8
+- pkg:maven/de.sciss/soundprocesses-views_2.12@4.14.8?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-views_2.12@4.14.9
+- pkg:maven/de.sciss/soundprocesses-views_2.12@4.14.9?classifier=sources
 - pkg:maven/de.sciss/soundprocesses-views_2.12@4.2.0
 - pkg:maven/de.sciss/soundprocesses-views_2.12@4.2.0?classifier=sources
 - pkg:maven/de.sciss/soundprocesses-views_2.12@4.3.0

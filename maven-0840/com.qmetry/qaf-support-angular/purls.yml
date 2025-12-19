@@ -16,3 +16,5 @@
 - pkg:maven/com.qmetry/qaf-support-angular@3.2.0?classifier=sources
 - pkg:maven/com.qmetry/qaf-support-angular@3.2.0b
 - pkg:maven/com.qmetry/qaf-support-angular@3.2.0b?classifier=sources
+- pkg:maven/com.qmetry/qaf-support-angular@4.0.0-RC1
+- pkg:maven/com.qmetry/qaf-support-angular@4.0.0-RC1?classifier=sources

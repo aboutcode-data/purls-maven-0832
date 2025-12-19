@@ -1,0 +1,2 @@
+- pkg:maven/cn.ibizlab.plugin/ibiz-model-util@8.1.0.319
+- pkg:maven/cn.ibizlab.plugin/ibiz-model-util@8.1.0.319?classifier=sources

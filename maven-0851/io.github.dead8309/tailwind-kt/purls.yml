@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dead8309/tailwind-kt@0.0.2?classifier=sources
+- pkg:maven/io.github.dead8309/tailwind-kt@0.0.3?classifier=sources

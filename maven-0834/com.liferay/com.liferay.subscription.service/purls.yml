@@ -104,6 +104,11 @@
 - pkg:maven/com.liferay/com.liferay.subscription.service@1.0.40
 - pkg:maven/com.liferay/com.liferay.subscription.service@1.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@1.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.subscription.service@1.0.41
+- pkg:maven/com.liferay/com.liferay.subscription.service@1.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.subscription.service@1.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.subscription.service@1.0.42
+- pkg:maven/com.liferay/com.liferay.subscription.service@1.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.subscription.service@1.0.5
@@ -224,6 +229,11 @@
 - pkg:maven/com.liferay/com.liferay.subscription.service@2.1.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@2.1.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.subscription.service@2.1.4
+- pkg:maven/com.liferay/com.liferay.subscription.service@2.1.40
+- pkg:maven/com.liferay/com.liferay.subscription.service@2.1.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.subscription.service@2.1.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.subscription.service@2.1.41
+- pkg:maven/com.liferay/com.liferay.subscription.service@2.1.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@2.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@2.1.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.subscription.service@2.1.5
@@ -332,6 +342,11 @@
 - pkg:maven/com.liferay/com.liferay.subscription.service@3.0.36
 - pkg:maven/com.liferay/com.liferay.subscription.service@3.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@3.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.subscription.service@3.0.37
+- pkg:maven/com.liferay/com.liferay.subscription.service@3.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.subscription.service@3.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.subscription.service@3.0.38
+- pkg:maven/com.liferay/com.liferay.subscription.service@3.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.subscription.service@3.0.4
@@ -428,6 +443,11 @@
 - pkg:maven/com.liferay/com.liferay.subscription.service@4.0.31
 - pkg:maven/com.liferay/com.liferay.subscription.service@4.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@4.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.subscription.service@4.0.32
+- pkg:maven/com.liferay/com.liferay.subscription.service@4.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.subscription.service@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.subscription.service@4.0.33
+- pkg:maven/com.liferay/com.liferay.subscription.service@4.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.service@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.subscription.service@4.0.4

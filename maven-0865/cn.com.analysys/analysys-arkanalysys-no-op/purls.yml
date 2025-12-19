@@ -62,6 +62,8 @@
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.17.7?type=aar
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.17.8?classifier=sources
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.17.8?type=aar
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.18?classifier=sources
+- pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.18?type=aar
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.1?classifier=sources
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.1?type=aar
 - pkg:maven/cn.com.analysys/analysys-arkanalysys-no-op@4.5.2?classifier=sources

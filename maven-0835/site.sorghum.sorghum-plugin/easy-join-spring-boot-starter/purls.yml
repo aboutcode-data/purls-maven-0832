@@ -1,0 +1,4 @@
+- pkg:maven/site.sorghum.sorghum-plugin/easy-join-spring-boot-starter@0.0.1.M2
+- pkg:maven/site.sorghum.sorghum-plugin/easy-join-spring-boot-starter@0.0.1.M2?classifier=sources
+- pkg:maven/site.sorghum.sorghum-plugin/easy-join-spring-boot-starter@0.0.1.M3
+- pkg:maven/site.sorghum.sorghum-plugin/easy-join-spring-boot-starter@0.0.1.M3?classifier=sources

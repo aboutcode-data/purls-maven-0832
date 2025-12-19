@@ -1,5 +1,9 @@
 - pkg:maven/com.netease.nim/camellia-redis-proxy-nacos@1.2.10
 - pkg:maven/com.netease.nim/camellia-redis-proxy-nacos@1.2.10?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-nacos@1.2.11
+- pkg:maven/com.netease.nim/camellia-redis-proxy-nacos@1.2.11?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-nacos@1.2.12
+- pkg:maven/com.netease.nim/camellia-redis-proxy-nacos@1.2.12?classifier=sources
 - pkg:maven/com.netease.nim/camellia-redis-proxy-nacos@1.2.4
 - pkg:maven/com.netease.nim/camellia-redis-proxy-nacos@1.2.4?classifier=sources
 - pkg:maven/com.netease.nim/camellia-redis-proxy-nacos@1.2.5

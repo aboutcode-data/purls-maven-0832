@@ -1,0 +1,2 @@
+- pkg:maven/com.github.joutvhu/spring-form-json@1.25.0?classifier=sources
+- pkg:maven/com.github.joutvhu/spring-form-json@1.30.0?classifier=sources

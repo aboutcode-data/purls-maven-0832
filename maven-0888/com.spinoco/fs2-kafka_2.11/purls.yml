@@ -19,4 +19,6 @@
 - pkg:maven/com.spinoco/fs2-kafka_2.11@0.4.0-M6?classifier=sources
 - pkg:maven/com.spinoco/fs2-kafka_2.11@0.4.0-M7
 - pkg:maven/com.spinoco/fs2-kafka_2.11@0.4.0-M7?classifier=sources
+- pkg:maven/com.spinoco/fs2-kafka_2.11@0.4.0-M8
+- pkg:maven/com.spinoco/fs2-kafka_2.11@0.4.0-M8?classifier=sources
 - pkg:maven/com.spinoco/fs2-kafka_2.11@0.4.0?classifier=sources

@@ -98,6 +98,10 @@
 - pkg:maven/com.github.yujiaao/tablegen@1.13.9.4?classifier=sources
 - pkg:maven/com.github.yujiaao/tablegen@1.13.9.7
 - pkg:maven/com.github.yujiaao/tablegen@1.13.9.7?classifier=sources
+- pkg:maven/com.github.yujiaao/tablegen@1.14.0
+- pkg:maven/com.github.yujiaao/tablegen@1.14.0?classifier=sources
+- pkg:maven/com.github.yujiaao/tablegen@1.14.3
+- pkg:maven/com.github.yujiaao/tablegen@1.14.3?classifier=sources
 - pkg:maven/com.github.yujiaao/tablegen@1.2.0
 - pkg:maven/com.github.yujiaao/tablegen@1.2.0?classifier=sources
 - pkg:maven/com.github.yujiaao/tablegen@1.2.1

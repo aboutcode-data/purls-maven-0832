@@ -30,3 +30,5 @@
 - pkg:maven/io.zipkin.aws/zipkin-awssdk-sqs@0.23.3?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-awssdk-sqs@0.23.4
 - pkg:maven/io.zipkin.aws/zipkin-awssdk-sqs@0.23.4?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-awssdk-sqs@0.23.5
+- pkg:maven/io.zipkin.aws/zipkin-awssdk-sqs@0.23.5?classifier=sources

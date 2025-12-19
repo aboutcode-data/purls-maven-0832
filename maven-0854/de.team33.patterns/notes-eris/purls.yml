@@ -1,2 +1,4 @@
 - pkg:maven/de.team33.patterns/notes-eris@1.12.0
 - pkg:maven/de.team33.patterns/notes-eris@1.12.0?classifier=sources
+- pkg:maven/de.team33.patterns/notes-eris@1.12.2
+- pkg:maven/de.team33.patterns/notes-eris@1.12.2?classifier=sources

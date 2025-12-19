@@ -78,3 +78,5 @@
 - pkg:maven/org.cicirello/chips-n-salsa@6.2.1?classifier=sources
 - pkg:maven/org.cicirello/chips-n-salsa@6.3.0
 - pkg:maven/org.cicirello/chips-n-salsa@6.3.0?classifier=sources
+- pkg:maven/org.cicirello/chips-n-salsa@6.4.0
+- pkg:maven/org.cicirello/chips-n-salsa@6.4.0?classifier=sources

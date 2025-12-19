@@ -1,2 +1,6 @@
 - pkg:maven/be.vito.rma.resttools/resttools-api@4.4.1
 - pkg:maven/be.vito.rma.resttools/resttools-api@4.4.1?classifier=sources
+- pkg:maven/be.vito.rma.resttools/resttools-api@5.0.0
+- pkg:maven/be.vito.rma.resttools/resttools-api@5.0.0?classifier=sources
+- pkg:maven/be.vito.rma.resttools/resttools-api@5.0.1
+- pkg:maven/be.vito.rma.resttools/resttools-api@5.0.1?classifier=sources

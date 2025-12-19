@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.camel/camel-swift@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-swift@4.0.0-RC1
 - pkg:maven/org.apache.camel/camel-swift@4.0.0-RC1?classifier=sources
+- pkg:maven/org.apache.camel/camel-swift@4.0.0-RC2
+- pkg:maven/org.apache.camel/camel-swift@4.0.0-RC2?classifier=sources

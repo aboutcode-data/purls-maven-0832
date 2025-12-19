@@ -24,3 +24,4 @@
 - pkg:maven/io.github.g00fy2.quickie/quickie-unbundled@1.5.2?classifier=sources
 - pkg:maven/io.github.g00fy2.quickie/quickie-unbundled@1.6.0?classifier=sources
 - pkg:maven/io.github.g00fy2.quickie/quickie-unbundled@1.7.0?classifier=sources
+- pkg:maven/io.github.g00fy2.quickie/quickie-unbundled@1.8.0?classifier=sources

@@ -187,6 +187,8 @@
 - pkg:maven/org.http4s/http4s-ember-core_2.12@0.23.21?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-core_2.12@0.23.22
 - pkg:maven/org.http4s/http4s-ember-core_2.12@0.23.22?classifier=sources
+- pkg:maven/org.http4s/http4s-ember-core_2.12@0.23.23
+- pkg:maven/org.http4s/http4s-ember-core_2.12@0.23.23?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-core_2.12@0.23.2?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-core_2.12@0.23.3
 - pkg:maven/org.http4s/http4s-ember-core_2.12@0.23.3?classifier=sources

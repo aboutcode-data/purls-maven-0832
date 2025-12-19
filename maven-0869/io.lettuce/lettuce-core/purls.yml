@@ -122,3 +122,5 @@
 - pkg:maven/io.lettuce/lettuce-core@6.2.3.RELEASE?classifier=sources
 - pkg:maven/io.lettuce/lettuce-core@6.2.4.RELEASE
 - pkg:maven/io.lettuce/lettuce-core@6.2.4.RELEASE?classifier=sources
+- pkg:maven/io.lettuce/lettuce-core@6.2.5.RELEASE
+- pkg:maven/io.lettuce/lettuce-core@6.2.5.RELEASE?classifier=sources

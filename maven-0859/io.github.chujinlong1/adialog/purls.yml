@@ -1,0 +1,2 @@
+- pkg:maven/io.github.chujinlong1/adialog@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.chujinlong1/adialog@1.0.0-RELEASE?type=aar

@@ -2,3 +2,5 @@
 - pkg:maven/io.datarouter/datarouter-data-export@0.0.119?classifier=sources
 - pkg:maven/io.datarouter/datarouter-data-export@0.0.120
 - pkg:maven/io.datarouter/datarouter-data-export@0.0.120?classifier=sources
+- pkg:maven/io.datarouter/datarouter-data-export@0.0.121
+- pkg:maven/io.datarouter/datarouter-data-export@0.0.121?classifier=sources

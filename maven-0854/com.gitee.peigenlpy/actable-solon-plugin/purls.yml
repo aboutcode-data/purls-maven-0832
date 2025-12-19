@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.peigenlpy/actable-solon-plugin@1.5.0.RELEASE
+- pkg:maven/com.gitee.peigenlpy/actable-solon-plugin@1.5.0.RELEASE?classifier=sources
+- pkg:maven/com.gitee.peigenlpy/actable-solon-plugin@1.5.1.RELEASE
+- pkg:maven/com.gitee.peigenlpy/actable-solon-plugin@1.5.1.RELEASE?classifier=sources

@@ -98,3 +98,5 @@
 - pkg:maven/org.fujion/fujion-script-jython@2.2.1?classifier=sources
 - pkg:maven/org.fujion/fujion-script-jython@3.0.0
 - pkg:maven/org.fujion/fujion-script-jython@3.0.0?classifier=sources
+- pkg:maven/org.fujion/fujion-script-jython@3.1.0
+- pkg:maven/org.fujion/fujion-script-jython@3.1.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.3.0
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.3.0-M4
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.3.0-M4?classifier=sources
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.3.0-M5
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.3.0-M5?classifier=sources
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.3.0?classifier=sources
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.4.0-M1
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.4.0-M1-02
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.4.0-M1-02?classifier=sources
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.4.0-M1-2023.08.04
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.4.0-M1-2023.08.04?classifier=sources
+- pkg:maven/org.finos.morphir/morphir-runtime-zio_2.13@0.4.0-M1?classifier=sources

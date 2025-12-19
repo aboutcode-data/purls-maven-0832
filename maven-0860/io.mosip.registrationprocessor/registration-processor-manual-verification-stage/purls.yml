@@ -34,6 +34,8 @@
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-manual-verification-stage@1.1.5.5-P1?classifier=sources
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-manual-verification-stage@1.1.5.5-P3
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-manual-verification-stage@1.1.5.5-P3?classifier=sources
+- pkg:maven/io.mosip.registrationprocessor/registration-processor-manual-verification-stage@1.1.5.5-P4
+- pkg:maven/io.mosip.registrationprocessor/registration-processor-manual-verification-stage@1.1.5.5-P4?classifier=sources
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-manual-verification-stage@1.1.5.5?classifier=sources
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-manual-verification-stage@1.1.5.6
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-manual-verification-stage@1.1.5.6?classifier=sources

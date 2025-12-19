@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/emotion__babel-plugin@11.10.2
 - pkg:maven/org.webjars.npm/emotion__babel-plugin@11.10.2?classifier=sources
+- pkg:maven/org.webjars.npm/emotion__babel-plugin@11.11.0
+- pkg:maven/org.webjars.npm/emotion__babel-plugin@11.11.0?classifier=sources
 - pkg:maven/org.webjars.npm/emotion__babel-plugin@11.7.2
 - pkg:maven/org.webjars.npm/emotion__babel-plugin@11.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/emotion__babel-plugin@11.9.2

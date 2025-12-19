@@ -2,3 +2,15 @@
 - pkg:maven/com.iohao.game/external-core@17.1.43?classifier=sources
 - pkg:maven/com.iohao.game/external-core@17.1.44
 - pkg:maven/com.iohao.game/external-core@17.1.44?classifier=sources
+- pkg:maven/com.iohao.game/external-core@17.1.45
+- pkg:maven/com.iohao.game/external-core@17.1.45?classifier=sources
+- pkg:maven/com.iohao.game/external-core@17.1.46
+- pkg:maven/com.iohao.game/external-core@17.1.46?classifier=sources
+- pkg:maven/com.iohao.game/external-core@17.1.47
+- pkg:maven/com.iohao.game/external-core@17.1.47?classifier=sources
+- pkg:maven/com.iohao.game/external-core@17.1.48
+- pkg:maven/com.iohao.game/external-core@17.1.48?classifier=sources
+- pkg:maven/com.iohao.game/external-core@17.1.49
+- pkg:maven/com.iohao.game/external-core@17.1.49?classifier=sources
+- pkg:maven/com.iohao.game/external-core@17.1.50
+- pkg:maven/com.iohao.game/external-core@17.1.50?classifier=sources

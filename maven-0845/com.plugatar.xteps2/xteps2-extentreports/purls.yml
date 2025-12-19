@@ -2,3 +2,5 @@
 - pkg:maven/com.plugatar.xteps2/xteps2-extentreports@0.2?classifier=sources
 - pkg:maven/com.plugatar.xteps2/xteps2-extentreports@1.0
 - pkg:maven/com.plugatar.xteps2/xteps2-extentreports@1.0?classifier=sources
+- pkg:maven/com.plugatar.xteps2/xteps2-extentreports@1.1
+- pkg:maven/com.plugatar.xteps2/xteps2-extentreports@1.1?classifier=sources

@@ -26,6 +26,10 @@
 - pkg:maven/com.alipay.sofa/hessian@3.3.8?classifier=sources
 - pkg:maven/com.alipay.sofa/hessian@3.3.9
 - pkg:maven/com.alipay.sofa/hessian@3.3.9?classifier=sources
+- pkg:maven/com.alipay.sofa/hessian@3.4.0
+- pkg:maven/com.alipay.sofa/hessian@3.4.0?classifier=sources
+- pkg:maven/com.alipay.sofa/hessian@3.5.0-beta1
+- pkg:maven/com.alipay.sofa/hessian@3.5.0-beta1?classifier=sources
 - pkg:maven/com.alipay.sofa/hessian@4.0.0
 - pkg:maven/com.alipay.sofa/hessian@4.0.0?classifier=sources
 - pkg:maven/com.alipay.sofa/hessian@4.0.1

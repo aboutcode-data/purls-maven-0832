@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@1.21.0?type=war
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@1.22.0?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@1.22.0?type=war
+- pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@1.23.0?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-web-ui@1.23.0?type=war

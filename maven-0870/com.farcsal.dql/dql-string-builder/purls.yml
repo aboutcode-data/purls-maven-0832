@@ -2,3 +2,7 @@
 - pkg:maven/com.farcsal.dql/dql-string-builder@0.2.0?classifier=sources
 - pkg:maven/com.farcsal.dql/dql-string-builder@0.2.1?classifier=sources
 - pkg:maven/com.farcsal.dql/dql-string-builder@0.3.0?classifier=sources
+- pkg:maven/com.farcsal.dql/dql-string-builder@0.4.0?classifier=sources
+- pkg:maven/com.farcsal.dql/dql-string-builder@0.4.1?classifier=sources
+- pkg:maven/com.farcsal.dql/dql-string-builder@0.5.0?classifier=sources
+- pkg:maven/com.farcsal.dql/dql-string-builder@0.6.0?classifier=sources

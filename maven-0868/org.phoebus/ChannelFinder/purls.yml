@@ -2,3 +2,5 @@
 - pkg:maven/org.phoebus/ChannelFinder@4.0.4?classifier=sources
 - pkg:maven/org.phoebus/ChannelFinder@4.7.0
 - pkg:maven/org.phoebus/ChannelFinder@4.7.0?classifier=sources
+- pkg:maven/org.phoebus/ChannelFinder@4.7.1
+- pkg:maven/org.phoebus/ChannelFinder@4.7.1?classifier=sources

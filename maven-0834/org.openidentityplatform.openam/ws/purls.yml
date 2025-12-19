@@ -19,3 +19,4 @@
 - pkg:maven/org.openidentityplatform.openam/ws@14.7.0.0?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/ws@14.7.2.3
 - pkg:maven/org.openidentityplatform.openam/ws@14.7.2.3?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/ws@14.7.3.1

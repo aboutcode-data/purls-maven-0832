@@ -207,4 +207,6 @@
 - pkg:maven/org.openforis.collect/collect-rdb@4.0.85?classifier=sources
 - pkg:maven/org.openforis.collect/collect-rdb@4.0.86
 - pkg:maven/org.openforis.collect/collect-rdb@4.0.86?classifier=sources
+- pkg:maven/org.openforis.collect/collect-rdb@4.0.87
+- pkg:maven/org.openforis.collect/collect-rdb@4.0.87?classifier=sources
 - pkg:maven/org.openforis.collect/collect-rdb@4.0.8?classifier=sources

@@ -514,6 +514,10 @@
 - pkg:maven/com.cognitect.aws/endpoints@1.1.12.456?classifier=sources
 - pkg:maven/com.cognitect.aws/endpoints@1.1.12.478
 - pkg:maven/com.cognitect.aws/endpoints@1.1.12.478?classifier=sources
+- pkg:maven/com.cognitect.aws/endpoints@1.1.12.489
+- pkg:maven/com.cognitect.aws/endpoints@1.1.12.489?classifier=sources
+- pkg:maven/com.cognitect.aws/endpoints@1.1.12.504
+- pkg:maven/com.cognitect.aws/endpoints@1.1.12.504?classifier=sources
 - pkg:maven/com.cognitect.aws/endpoints@1.1.12.51
 - pkg:maven/com.cognitect.aws/endpoints@1.1.12.51?classifier=sources
 - pkg:maven/com.cognitect.aws/endpoints@1.1.12.56

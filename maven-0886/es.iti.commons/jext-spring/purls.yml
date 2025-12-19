@@ -1,2 +1,4 @@
 - pkg:maven/es.iti.commons/jext-spring@1.0.0
 - pkg:maven/es.iti.commons/jext-spring@1.0.0?classifier=sources
+- pkg:maven/es.iti.commons/jext-spring@2.0.0
+- pkg:maven/es.iti.commons/jext-spring@2.0.0?classifier=sources

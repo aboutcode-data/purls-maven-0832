@@ -1,1 +1,2 @@
 - pkg:maven/dev.testify/testify-fullscreen@2.0.0-beta01?classifier=sources
+- pkg:maven/dev.testify/testify-fullscreen@2.0.0-beta02?classifier=sources

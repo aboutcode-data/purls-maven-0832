@@ -18,6 +18,7 @@
 - pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.0-rc3
 - pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.0-rc4
 - pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.0-rc5
+- pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.0-rc6
 - pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.0-test1
 - pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.0-test2
 - pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.0-test3

@@ -30,6 +30,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-plugin@1.5.9.1
 - pkg:maven/org.wicketstuff/wicketstuff-plugin@1.5.9.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-plugin@1.5.9?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-plugin@10.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-plugin@10.0.0-M1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-plugin@6.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-plugin@6.0.0-beta1
 - pkg:maven/org.wicketstuff/wicketstuff-plugin@6.0.0-beta1.1

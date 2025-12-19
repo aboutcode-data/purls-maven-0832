@@ -1,0 +1,2 @@
+- pkg:maven/org.http4s/http4s-session_3@0.2.0
+- pkg:maven/org.http4s/http4s-session_3@0.2.0?classifier=sources

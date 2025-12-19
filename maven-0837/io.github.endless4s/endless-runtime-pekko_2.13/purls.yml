@@ -1,0 +1,2 @@
+- pkg:maven/io.github.endless4s/endless-runtime-pekko_2.13@0.24.0
+- pkg:maven/io.github.endless4s/endless-runtime-pekko_2.13@0.24.0?classifier=sources

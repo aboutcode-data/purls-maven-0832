@@ -189,5 +189,6 @@
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@7.0.7
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@7.0.7?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@7.0.8?classifier=sources
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@7.0.9?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@8.0.0
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@8.0.0?classifier=sources

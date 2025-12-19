@@ -1,0 +1,2 @@
+- pkg:maven/org.clulab/scala-transformers-encoder_3@0.3.0
+- pkg:maven/org.clulab/scala-transformers-encoder_3@0.3.0?classifier=sources

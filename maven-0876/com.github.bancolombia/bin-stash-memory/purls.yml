@@ -3,3 +3,4 @@
 - pkg:maven/com.github.bancolombia/bin-stash-memory@1.0.5.PREVIEW?classifier=sources
 - pkg:maven/com.github.bancolombia/bin-stash-memory@1.0.5?classifier=sources
 - pkg:maven/com.github.bancolombia/bin-stash-memory@1.1.0?classifier=sources
+- pkg:maven/com.github.bancolombia/bin-stash-memory@1.2.0?classifier=sources

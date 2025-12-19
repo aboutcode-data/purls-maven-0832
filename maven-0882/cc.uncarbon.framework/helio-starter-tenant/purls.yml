@@ -12,3 +12,5 @@
 - pkg:maven/cc.uncarbon.framework/helio-starter-tenant@1.7.2?classifier=sources
 - pkg:maven/cc.uncarbon.framework/helio-starter-tenant@1.7.3
 - pkg:maven/cc.uncarbon.framework/helio-starter-tenant@1.7.3?classifier=sources
+- pkg:maven/cc.uncarbon.framework/helio-starter-tenant@1.8.0
+- pkg:maven/cc.uncarbon.framework/helio-starter-tenant@1.8.0?classifier=sources

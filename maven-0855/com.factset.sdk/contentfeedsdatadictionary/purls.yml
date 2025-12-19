@@ -5,3 +5,5 @@
 - pkg:maven/com.factset.sdk/contentfeedsdatadictionary@0.21.3?classifier=sources
 - pkg:maven/com.factset.sdk/contentfeedsdatadictionary@0.21.4?classifier=sources
 - pkg:maven/com.factset.sdk/contentfeedsdatadictionary@0.21.5?classifier=sources
+- pkg:maven/com.factset.sdk/contentfeedsdatadictionary@0.21.6?classifier=sources
+- pkg:maven/com.factset.sdk/contentfeedsdatadictionary@0.21.7?classifier=sources

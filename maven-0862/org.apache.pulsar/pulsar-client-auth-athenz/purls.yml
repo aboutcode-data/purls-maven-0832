@@ -26,10 +26,14 @@
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.10.3?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.10.4
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.10.4?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.10.5
+- pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.10.5?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.11.0
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.11.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.11.1
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.11.1?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.11.2
+- pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.11.2?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.2.0
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.2.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.2.1
@@ -98,3 +102,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@2.9.5?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@3.0.0
 - pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@3.0.0?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@3.0.1
+- pkg:maven/org.apache.pulsar/pulsar-client-auth-athenz@3.0.1?classifier=sources

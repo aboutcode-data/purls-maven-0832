@@ -95,4 +95,7 @@
 - pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.89?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.8?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.90?classifier=sources
+- pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.91?classifier=sources
+- pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.92?classifier=sources
+- pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.93?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.9?classifier=sources

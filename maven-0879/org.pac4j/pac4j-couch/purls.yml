@@ -150,3 +150,5 @@
 - pkg:maven/org.pac4j/pac4j-couch@6.0.0-RC6?classifier=sources
 - pkg:maven/org.pac4j/pac4j-couch@6.0.0-RC7
 - pkg:maven/org.pac4j/pac4j-couch@6.0.0-RC7?classifier=sources
+- pkg:maven/org.pac4j/pac4j-couch@6.0.0-RC8
+- pkg:maven/org.pac4j/pac4j-couch@6.0.0-RC8?classifier=sources

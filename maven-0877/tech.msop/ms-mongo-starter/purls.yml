@@ -1,0 +1,2 @@
+- pkg:maven/tech.msop/ms-mongo-starter@0.2.6.RELEASE
+- pkg:maven/tech.msop/ms-mongo-starter@0.2.6.RELEASE?classifier=sources

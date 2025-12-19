@@ -11,6 +11,7 @@
 - pkg:maven/com.liferay.plugins/saml-hook@7.0.10.27?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.0.10.28?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.0.10.29?type=war
+- pkg:maven/com.liferay.plugins/saml-hook@7.0.10.30?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.1.10.13?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.1.10.14?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.1.10.15?type=war
@@ -29,6 +30,8 @@
 - pkg:maven/com.liferay.plugins/saml-hook@7.1.10.28?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.1.10.29?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.1.10.30?type=war
+- pkg:maven/com.liferay.plugins/saml-hook@7.1.10.31?type=war
+- pkg:maven/com.liferay.plugins/saml-hook@7.1.10.32?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.2.10.15?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.2.10.16?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.2.10.17?type=war
@@ -43,6 +46,8 @@
 - pkg:maven/com.liferay.plugins/saml-hook@7.2.10.26?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.2.10.27?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.2.10.28?type=war
+- pkg:maven/com.liferay.plugins/saml-hook@7.2.10.29?type=war
+- pkg:maven/com.liferay.plugins/saml-hook@7.2.10.30?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.3.10.11?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.3.10.12?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.3.10.13?type=war
@@ -66,4 +71,5 @@
 - pkg:maven/com.liferay.plugins/saml-hook@7.3.10.31?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.3.10.32?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.3.10.33?type=war
+- pkg:maven/com.liferay.plugins/saml-hook@7.3.10.34?type=war
 - pkg:maven/com.liferay.plugins/saml-hook@7.4.10.1?type=war

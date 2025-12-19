@@ -52,6 +52,8 @@
 - pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.21.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.22.0
 - pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.22.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.23.0
+- pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.23.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.8.0
 - pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.8.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-mock-authorizer@1.9.0

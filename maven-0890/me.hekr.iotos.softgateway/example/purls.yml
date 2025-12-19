@@ -43,6 +43,14 @@
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.20?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.21
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.21?classifier=sources
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.22
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.22?classifier=sources
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.23
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.23?classifier=sources
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.24
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.24?classifier=sources
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.25
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.25?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.2?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.3
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.3?classifier=sources

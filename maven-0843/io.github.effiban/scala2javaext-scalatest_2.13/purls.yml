@@ -1,2 +1,3 @@
 - pkg:maven/io.github.effiban/scala2javaext-scalatest_2.13@1.0.0?classifier=sources
 - pkg:maven/io.github.effiban/scala2javaext-scalatest_2.13@2.0.0?classifier=sources
+- pkg:maven/io.github.effiban/scala2javaext-scalatest_2.13@3.0.0?classifier=sources

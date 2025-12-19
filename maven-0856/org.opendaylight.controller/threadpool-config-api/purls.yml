@@ -133,6 +133,7 @@
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.18.7
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.18.7?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.18.8?classifier=sources
+- pkg:maven/org.opendaylight.controller/threadpool-config-api@0.18.9?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.19.0
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.19.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/threadpool-config-api@0.2.3

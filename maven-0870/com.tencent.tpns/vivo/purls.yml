@@ -77,3 +77,4 @@
 - pkg:maven/com.tencent.tpns/vivo@1.3.9.0-release?classifier=sources
 - pkg:maven/com.tencent.tpns/vivo@1.4.0.0-release?classifier=sources
 - pkg:maven/com.tencent.tpns/vivo@1.4.0.1-release?classifier=sources
+- pkg:maven/com.tencent.tpns/vivo@1.4.2.0-release?classifier=sources

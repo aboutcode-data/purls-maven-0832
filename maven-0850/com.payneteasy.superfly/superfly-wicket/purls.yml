@@ -115,6 +115,10 @@
 - pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-29?classifier=sources
 - pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-2?classifier=sources
 - pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-3
+- pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-30
+- pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-30?classifier=sources
+- pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-31
+- pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-31?classifier=sources
 - pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-3?classifier=sources
 - pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-4
 - pkg:maven/com.payneteasy.superfly/superfly-wicket@1.7-4?classifier=sources

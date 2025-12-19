@@ -1,3 +1,5 @@
+- pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.17.13
+- pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.17.13?classifier=sources
 - pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.1
 - pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.10
 - pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.10?classifier=sources
@@ -5,6 +7,8 @@
 - pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.11?classifier=sources
 - pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.12
 - pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.12?classifier=sources
+- pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.13
+- pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.13?classifier=sources
 - pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.1?classifier=sources
 - pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.2
 - pkg:maven/com.github.ghik/silencer-plugin_2.12.13@1.7.2?classifier=sources

@@ -22,3 +22,9 @@
 - pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.39.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.39.1
 - pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.39.1?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.40.0
+- pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.40.0-a0
+- pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.40.0-a0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.40.0-rc1
+- pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.40.0-rc1?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.40.0?classifier=sources

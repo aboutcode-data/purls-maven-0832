@@ -1,1 +1,2 @@
 - pkg:maven/com.alibaba.dingtalk/realm-extension-interface@2.0?type=aar
+- pkg:maven/com.alibaba.dingtalk/realm-extension-interface@2.1?type=aar

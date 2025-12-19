@@ -1,1 +1,2 @@
+- pkg:maven/nl.nl-portal/common-ground-authentication@0.1.0.RELEASE?classifier=sources
 - pkg:maven/nl.nl-portal/common-ground-authentication@1.0.8.RELEASE?classifier=sources

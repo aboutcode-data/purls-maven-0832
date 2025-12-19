@@ -3,3 +3,4 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-spring-boot3-autoconfigure@0.61.2?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-spring-boot3-autoconfigure@0.61.3?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-spring-boot3-autoconfigure@0.61.4?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-spring-boot3-autoconfigure@0.61.5?classifier=sources

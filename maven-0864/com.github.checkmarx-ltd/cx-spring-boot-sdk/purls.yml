@@ -188,3 +188,11 @@
 - pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.49?classifier=sources
 - pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.50
 - pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.50?classifier=sources
+- pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.51
+- pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.51?classifier=sources
+- pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.52
+- pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.52?classifier=sources
+- pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.53
+- pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.53?classifier=sources
+- pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.54
+- pkg:maven/com.github.checkmarx-ltd/cx-spring-boot-sdk@0.5.54?classifier=sources

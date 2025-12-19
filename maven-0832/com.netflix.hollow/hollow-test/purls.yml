@@ -211,3 +211,5 @@
 - pkg:maven/com.netflix.hollow/hollow-test@7.5.7?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-test@7.5.8?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-test@7.6.0?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-test@7.6.1?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-test@7.6.2?classifier=sources

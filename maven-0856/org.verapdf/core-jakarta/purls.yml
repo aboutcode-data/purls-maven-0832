@@ -1,0 +1,2 @@
+- pkg:maven/org.verapdf/core-jakarta@1.24.1
+- pkg:maven/org.verapdf/core-jakarta@1.24.1?classifier=sources

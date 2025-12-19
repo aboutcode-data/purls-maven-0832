@@ -45,6 +45,14 @@
 - pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.29?classifier=sources
 - pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.2?classifier=sources
 - pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.3
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.30
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.30?classifier=sources
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.31
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.31?classifier=sources
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.32
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.32?classifier=sources
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.33
+- pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.33?classifier=sources
 - pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.3?classifier=sources
 - pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.4
 - pkg:maven/io.mateu/mdd-journeyrepo-jpa@2.2.4?classifier=sources

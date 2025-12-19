@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.activemq.examples.federation/federated-address-downstream@2.28.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.federation/federated-address-downstream@2.29.0
 - pkg:maven/org.apache.activemq.examples.federation/federated-address-downstream@2.29.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.federation/federated-address-downstream@2.30.0
+- pkg:maven/org.apache.activemq.examples.federation/federated-address-downstream@2.30.0?classifier=sources

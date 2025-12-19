@@ -48,4 +48,7 @@
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@3.0.2?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@3.0.3
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@3.0.3?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@3.0.4
+- pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@3.0.4?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@3.0.5
+- pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@3.0.5?classifier=sources

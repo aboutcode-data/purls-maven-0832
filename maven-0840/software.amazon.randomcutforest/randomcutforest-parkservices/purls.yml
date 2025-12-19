@@ -16,3 +16,5 @@
 - pkg:maven/software.amazon.randomcutforest/randomcutforest-parkservices@3.6.0?classifier=sources
 - pkg:maven/software.amazon.randomcutforest/randomcutforest-parkservices@3.7.0
 - pkg:maven/software.amazon.randomcutforest/randomcutforest-parkservices@3.7.0?classifier=sources
+- pkg:maven/software.amazon.randomcutforest/randomcutforest-parkservices@3.8.0
+- pkg:maven/software.amazon.randomcutforest/randomcutforest-parkservices@3.8.0?classifier=sources

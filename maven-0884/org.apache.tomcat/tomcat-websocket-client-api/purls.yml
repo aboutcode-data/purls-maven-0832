@@ -8,6 +8,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@10.1.0-M8?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@10.1.0?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@10.1.10?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@10.1.11?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@10.1.1?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@10.1.2?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@10.1.4?classifier=sources
@@ -22,3 +23,4 @@
 - pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@11.0.0-M5?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@11.0.0-M6?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@11.0.0-M7?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket-client-api@11.0.0-M9?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/org.sakaiproject.user.util/user-util@22.2?classifier=sources
 - pkg:maven/org.sakaiproject.user.util/user-util@22.3
 - pkg:maven/org.sakaiproject.user.util/user-util@22.3?classifier=sources
+- pkg:maven/org.sakaiproject.user.util/user-util@23.0
+- pkg:maven/org.sakaiproject.user.util/user-util@23.0?classifier=sources

@@ -27,3 +27,5 @@
 - pkg:maven/com.pulumi/kafka@3.5.0-alpha.1686634924%2B86dc1f45?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.5.0-alpha.1687055060%2Be824e0e0?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.5.0-alpha.1687671489%2B277af54c?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1689313347%2Bef5db337?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1690263041%2Bddd18138?classifier=sources

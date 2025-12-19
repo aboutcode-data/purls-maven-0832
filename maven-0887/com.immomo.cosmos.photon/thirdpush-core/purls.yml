@@ -106,3 +106,5 @@
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.6_062501_tt?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.6_070401_tt?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.6_070401_tt?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.6_072401_tt?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-core@2.6_072401_tt?type=aar

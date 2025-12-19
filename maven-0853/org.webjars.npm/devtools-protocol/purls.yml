@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/devtools-protocol@0.0.1107588
+- pkg:maven/org.webjars.npm/devtools-protocol@0.0.1107588?classifier=sources
 - pkg:maven/org.webjars.npm/devtools-protocol@0.0.847576
 - pkg:maven/org.webjars.npm/devtools-protocol@0.0.847576?classifier=sources

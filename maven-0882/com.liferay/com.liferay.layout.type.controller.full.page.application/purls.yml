@@ -79,6 +79,9 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@2.0.33
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@2.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@2.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@2.0.34
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@2.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@2.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@2.0.4
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@2.0.4?classifier=sources
@@ -126,6 +129,11 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.17
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.18
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.19
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@3.0.2
@@ -201,6 +209,11 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.23
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.24
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.25
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@4.0.3
@@ -294,6 +307,8 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@5.0.3
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@5.0.30
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@5.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@5.0.4
@@ -345,6 +360,8 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@6.0.18
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@6.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@6.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@6.0.19
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@6.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.full.page.application@6.0.2

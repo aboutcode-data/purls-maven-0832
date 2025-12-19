@@ -1,0 +1,2 @@
+- pkg:maven/com.lunatech/core_3@2.0.0-RC11
+- pkg:maven/com.lunatech/core_3@2.0.0-RC11?classifier=sources

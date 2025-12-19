@@ -27,3 +27,6 @@
 - pkg:maven/org.drools.testcoverage/test-integration-notms@8.38.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-notms@8.39.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-notms@8.40.0.Final
+- pkg:maven/org.drools.testcoverage/test-integration-notms@8.41.0.Final
+- pkg:maven/org.drools.testcoverage/test-integration-notms@8.42.0.Final
+- pkg:maven/org.drools.testcoverage/test-integration-notms@9.42.0.Alpha

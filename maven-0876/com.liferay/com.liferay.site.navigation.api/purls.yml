@@ -94,6 +94,11 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@2.4.9
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@2.4.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@2.4.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@2.5.0
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@2.5.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@2.5.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@2.5.1
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@2.5.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@3.0.0?classifier=sources-commercial
@@ -157,6 +162,11 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@3.2.9
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@3.2.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@3.2.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@3.3.0
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@3.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@3.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@3.3.1
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@3.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@4.0.0?classifier=sources-commercial
@@ -229,6 +239,8 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@4.7.0
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@4.7.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@4.7.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@4.7.1
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@4.7.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@5.0.0?classifier=sources-commercial
@@ -301,3 +313,5 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@7.3.0
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@7.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.api@7.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@7.3.1
+- pkg:maven/com.liferay/com.liferay.site.navigation.api@7.3.1?classifier=sources

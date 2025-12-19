@@ -1,0 +1,10 @@
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023070301.Alpha
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023070301.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023071001.Alpha
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023071001.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023072101.Alpha
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023072101.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023072601.Alpha
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023072601.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023072701.Alpha
+- pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023072701.Alpha?classifier=sources

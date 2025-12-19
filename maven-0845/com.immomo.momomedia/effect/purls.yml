@@ -100,6 +100,8 @@
 - pkg:maven/com.immomo.momomedia/effect@2.3.1-20220803191001?type=aar
 - pkg:maven/com.immomo.momomedia/effect@2.3.1-20220809183801?classifier=sources
 - pkg:maven/com.immomo.momomedia/effect@2.3.1-20220809183801?type=aar
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20230721165601?classifier=sources
+- pkg:maven/com.immomo.momomedia/effect@2.3.1-20230721165601?type=aar
 - pkg:maven/com.immomo.momomedia/effect@2.3.2-20211221104101?classifier=sources
 - pkg:maven/com.immomo.momomedia/effect@2.3.2-20211221104101?type=aar
 - pkg:maven/com.immomo.momomedia/effect@2.3.2-20220823113500?classifier=sources

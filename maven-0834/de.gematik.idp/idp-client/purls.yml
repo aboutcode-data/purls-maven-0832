@@ -30,3 +30,5 @@
 - pkg:maven/de.gematik.idp/idp-client@23.0.4?classifier=sources
 - pkg:maven/de.gematik.idp/idp-client@24.0.0
 - pkg:maven/de.gematik.idp/idp-client@24.0.0?classifier=sources
+- pkg:maven/de.gematik.idp/idp-client@24.1.0
+- pkg:maven/de.gematik.idp/idp-client@24.1.0?classifier=sources

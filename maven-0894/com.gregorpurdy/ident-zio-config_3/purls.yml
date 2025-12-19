@@ -1,0 +1,2 @@
+- pkg:maven/com.gregorpurdy/ident-zio-config_3@0.3.0
+- pkg:maven/com.gregorpurdy/ident-zio-config_3@0.3.0?classifier=sources

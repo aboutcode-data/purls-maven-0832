@@ -1,0 +1,2 @@
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-otel@0.23.0?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-otel@0.24.0?classifier=sources

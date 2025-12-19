@@ -22,3 +22,5 @@
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.5.9?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.6.0?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.6.1?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.6.2?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-starter-kotlin@0.6.3?classifier=sources

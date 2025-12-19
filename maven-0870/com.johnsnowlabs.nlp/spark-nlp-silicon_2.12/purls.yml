@@ -16,3 +16,5 @@
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp-silicon_2.12@4.4.4?classifier=sources
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp-silicon_2.12@5.0.0
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp-silicon_2.12@5.0.0?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-silicon_2.12@5.0.1
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-silicon_2.12@5.0.1?classifier=sources

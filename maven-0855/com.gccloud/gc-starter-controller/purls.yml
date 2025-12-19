@@ -5,3 +5,14 @@
 - pkg:maven/com.gccloud/gc-starter-controller@1.0.2-beta5
 - pkg:maven/com.gccloud/gc-starter-controller@1.1.0-beta1
 - pkg:maven/com.gccloud/gc-starter-controller@1.1.1
+- pkg:maven/com.gccloud/gc-starter-controller@1.2.4.2023013001.RELEASE
+- pkg:maven/com.gccloud/gc-starter-controller@1.2.5.RELEASE
+- pkg:maven/com.gccloud/gc-starter-controller@2.0.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-controller@2.1.0.2022112402.RELEASE
+- pkg:maven/com.gccloud/gc-starter-controller@2.1.0.2023042801.bugfix.RELEASE
+- pkg:maven/com.gccloud/gc-starter-controller@2.1.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-controller@2.2.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-controller@2.2.1.2023063001.Alpha
+- pkg:maven/com.gccloud/gc-starter-controller@2.2.1.RELEASE
+- pkg:maven/com.gccloud/gc-starter-controller@2.2.2.RELEASE
+- pkg:maven/com.gccloud/gc-starter-controller@2.3.0.RELEASE
