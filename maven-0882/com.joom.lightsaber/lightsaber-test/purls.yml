@@ -7,3 +7,4 @@
 - pkg:maven/com.joom.lightsaber/lightsaber-test@1.0.0-alpha11?classifier=sources
 - pkg:maven/com.joom.lightsaber/lightsaber-test@1.0.0-alpha12?classifier=sources
 - pkg:maven/com.joom.lightsaber/lightsaber-test@1.0.0-alpha13?classifier=sources
+- pkg:maven/com.joom.lightsaber/lightsaber-test@1.0.0-alpha14?classifier=sources

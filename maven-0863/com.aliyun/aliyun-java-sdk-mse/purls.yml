@@ -35,6 +35,8 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-mse@3.0.20?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-mse@3.0.21
 - pkg:maven/com.aliyun/aliyun-java-sdk-mse@3.0.21?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-mse@3.0.25
+- pkg:maven/com.aliyun/aliyun-java-sdk-mse@3.0.25?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-mse@3.0.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-mse@3.0.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-mse@3.0.3?classifier=sources

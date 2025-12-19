@@ -92,5 +92,7 @@
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.148?classifier=sources
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.149
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.149?classifier=sources
+- pkg:maven/com.yotpo/metorikku_2.12@0.0.151
+- pkg:maven/com.yotpo/metorikku_2.12@0.0.151?classifier=sources
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.99
 - pkg:maven/com.yotpo/metorikku_2.12@0.0.99?classifier=sources

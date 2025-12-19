@@ -131,6 +131,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.2.33
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.2.34
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.2.35
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.2.36
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.2.4
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.2.5
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.2.6
@@ -138,3 +139,15 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.2.8
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.2.9
 - pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.1
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.10
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.11
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.12
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.2
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.3
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.4
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.5
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.6
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.7
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.8
+- pkg:maven/org.eclipse.dirigible/dirigible-commons@6.3.9

@@ -12,3 +12,9 @@
 - pkg:maven/com.aliyun/arms20190808@2.8.13?classifier=sources
 - pkg:maven/com.aliyun/arms20190808@2.8.14
 - pkg:maven/com.aliyun/arms20190808@2.8.14?classifier=sources
+- pkg:maven/com.aliyun/arms20190808@2.8.16
+- pkg:maven/com.aliyun/arms20190808@2.8.16?classifier=sources
+- pkg:maven/com.aliyun/arms20190808@2.8.19
+- pkg:maven/com.aliyun/arms20190808@2.8.19?classifier=sources
+- pkg:maven/com.aliyun/arms20190808@2.8.20
+- pkg:maven/com.aliyun/arms20190808@2.8.20?classifier=sources

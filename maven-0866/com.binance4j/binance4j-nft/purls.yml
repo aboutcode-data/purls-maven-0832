@@ -6,3 +6,5 @@
 - pkg:maven/com.binance4j/binance4j-nft@1.7.3?classifier=sources
 - pkg:maven/com.binance4j/binance4j-nft@1.7.4
 - pkg:maven/com.binance4j/binance4j-nft@1.7.4?classifier=sources
+- pkg:maven/com.binance4j/binance4j-nft@1.7.5
+- pkg:maven/com.binance4j/binance4j-nft@1.7.5?classifier=sources

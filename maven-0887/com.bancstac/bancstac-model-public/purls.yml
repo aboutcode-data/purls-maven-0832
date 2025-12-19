@@ -1,0 +1,4 @@
+- pkg:maven/com.bancstac/bancstac-model-public@4.0.5
+- pkg:maven/com.bancstac/bancstac-model-public@4.0.5?classifier=sources
+- pkg:maven/com.bancstac/bancstac-model-public@4.0.6
+- pkg:maven/com.bancstac/bancstac-model-public@4.0.6?classifier=sources

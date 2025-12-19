@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.views@3.106.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.views@3.107.0
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.views@3.107.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.views@3.107.100
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.views@3.107.100?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.team2539/cougar-swerve-lib@1.1.0?classifier=sources
+- pkg:maven/com.team2539/cougar-swerve-lib@1.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.resteasy/resteasy-undertow-cdi@6.1.0.Beta3
+- pkg:maven/org.jboss.resteasy/resteasy-undertow-cdi@6.1.0.Beta3?classifier=sources

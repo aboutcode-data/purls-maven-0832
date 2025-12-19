@@ -82,3 +82,7 @@
 - pkg:maven/me.proton.core/auth-data@7.2.3?classifier=sources
 - pkg:maven/me.proton.core/auth-data@8.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth-data@8.1.0?classifier=sources
+- pkg:maven/me.proton.core/auth-data@8.2.0?classifier=sources
+- pkg:maven/me.proton.core/auth-data@8.3.0?classifier=sources
+- pkg:maven/me.proton.core/auth-data@8.4.0?classifier=sources
+- pkg:maven/me.proton.core/auth-data@8.5.0?classifier=sources

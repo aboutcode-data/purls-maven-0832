@@ -82,3 +82,5 @@
 - pkg:maven/com.pusher/pusher-java-client@2.2.7?classifier=sources
 - pkg:maven/com.pusher/pusher-java-client@2.2.8
 - pkg:maven/com.pusher/pusher-java-client@2.2.8?classifier=sources
+- pkg:maven/com.pusher/pusher-java-client@2.3.0-beta?classifier=sources
+- pkg:maven/com.pusher/pusher-java-client@2.4.0?classifier=sources

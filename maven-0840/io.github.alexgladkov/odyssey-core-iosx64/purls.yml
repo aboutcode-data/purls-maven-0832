@@ -12,4 +12,7 @@
 - pkg:maven/io.github.alexgladkov/odyssey-core-iosx64@1.0.0-beta06?classifier=sources
 - pkg:maven/io.github.alexgladkov/odyssey-core-iosx64@1.0.0-beta07?classifier=sources
 - pkg:maven/io.github.alexgladkov/odyssey-core-iosx64@1.0.0-beta08?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-core-iosx64@1.0.0-beta09-native?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-core-iosx64@1.0.0-beta11?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-core-iosx64@1.0.0-beta12?classifier=sources
 - pkg:maven/io.github.alexgladkov/odyssey-core-iosx64@1.0.0-beta?classifier=sources

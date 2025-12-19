@@ -1,0 +1,2 @@
+- pkg:maven/com.lethanh98.java/java-null-safety@1.0
+- pkg:maven/com.lethanh98.java/java-null-safety@1.0?classifier=sources

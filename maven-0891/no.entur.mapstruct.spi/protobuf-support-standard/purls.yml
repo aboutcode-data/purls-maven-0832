@@ -8,3 +8,11 @@
 - pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.23?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.24
 - pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.24?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.25
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.25?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.26
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.26?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.27
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.27?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.28
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.28?classifier=sources

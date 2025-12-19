@@ -19,4 +19,6 @@
 - pkg:maven/com.iussoft/iussoft-common-ius@3.3.22061410?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-ius@3.3.22061412
 - pkg:maven/com.iussoft/iussoft-common-ius@3.3.22061412?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.22072514
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.22072514?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-ius@3.3.2?classifier=sources

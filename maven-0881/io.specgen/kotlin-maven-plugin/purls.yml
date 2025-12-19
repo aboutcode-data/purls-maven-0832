@@ -1,0 +1,6 @@
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.1798
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.1798?classifier=sources
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.1814
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.1814?classifier=sources
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.1828
+- pkg:maven/io.specgen/kotlin-maven-plugin@2.1.1828?classifier=sources

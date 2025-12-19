@@ -40,3 +40,7 @@
 - pkg:maven/com.oracle.database.jdbc.debug/ojdbc8_g@21.4.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc.debug/ojdbc8_g@21.5.0.0
 - pkg:maven/com.oracle.database.jdbc.debug/ojdbc8_g@21.5.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc.debug/ojdbc8_g@21.6.0.0
+- pkg:maven/com.oracle.database.jdbc.debug/ojdbc8_g@21.6.0.0.1
+- pkg:maven/com.oracle.database.jdbc.debug/ojdbc8_g@21.6.0.0.1?classifier=sources
+- pkg:maven/com.oracle.database.jdbc.debug/ojdbc8_g@21.6.0.0?classifier=sources

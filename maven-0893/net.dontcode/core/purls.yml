@@ -6,3 +6,5 @@
 - pkg:maven/net.dontcode/core@0.1.4
 - pkg:maven/net.dontcode/core@0.1.4?classifier=sources
 - pkg:maven/net.dontcode/core@0.1?classifier=sources
+- pkg:maven/net.dontcode/core@0.2.0
+- pkg:maven/net.dontcode/core@0.2.0?classifier=sources

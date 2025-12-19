@@ -18,6 +18,16 @@
 - pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-18?classifier=sources
 - pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-19
 - pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-19?classifier=sources
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-20
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-20?classifier=sources
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-21
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-21?classifier=sources
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-22
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-22?classifier=sources
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-23
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-23?classifier=sources
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-24
+- pkg:maven/com.github.hetianyi/springboot-ready@SB-2.2.2.RELEASE-24?classifier=sources
 - pkg:maven/com.github.hetianyi/springboot-ready@SB-2.7.0.RELEASE-1
 - pkg:maven/com.github.hetianyi/springboot-ready@SB-2.7.0.RELEASE-1?classifier=sources
 - pkg:maven/com.github.hetianyi/springboot-ready@SB-2.x.RELEASE-1

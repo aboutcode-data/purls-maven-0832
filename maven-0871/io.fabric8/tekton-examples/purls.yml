@@ -134,3 +134,7 @@
 - pkg:maven/io.fabric8/tekton-examples@5.8.1?classifier=sources
 - pkg:maven/io.fabric8/tekton-examples@5.9.0
 - pkg:maven/io.fabric8/tekton-examples@5.9.0?classifier=sources
+- pkg:maven/io.fabric8/tekton-examples@6.0.0
+- pkg:maven/io.fabric8/tekton-examples@6.0.0-RC1
+- pkg:maven/io.fabric8/tekton-examples@6.0.0-RC1?classifier=sources
+- pkg:maven/io.fabric8/tekton-examples@6.0.0?classifier=sources

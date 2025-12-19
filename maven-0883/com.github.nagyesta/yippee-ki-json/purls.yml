@@ -13,3 +13,6 @@
 - pkg:maven/com.github.nagyesta/yippee-ki-json@1.6.52?classifier=sources
 - pkg:maven/com.github.nagyesta/yippee-ki-json@1.6.9?classifier=sources
 - pkg:maven/com.github.nagyesta/yippee-ki-json@1.7.0?classifier=sources
+- pkg:maven/com.github.nagyesta/yippee-ki-json@1.7.16?classifier=sources
+- pkg:maven/com.github.nagyesta/yippee-ki-json@1.7.19?classifier=sources
+- pkg:maven/com.github.nagyesta/yippee-ki-json@1.7.6?classifier=sources

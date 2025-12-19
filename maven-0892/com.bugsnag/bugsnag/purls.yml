@@ -90,3 +90,5 @@
 - pkg:maven/com.bugsnag/bugsnag@3.6.2?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag@3.6.3
 - pkg:maven/com.bugsnag/bugsnag@3.6.3?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag@3.6.4
+- pkg:maven/com.bugsnag/bugsnag@3.6.4?classifier=sources

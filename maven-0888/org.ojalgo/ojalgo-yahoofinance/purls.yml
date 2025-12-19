@@ -1,2 +1,4 @@
 - pkg:maven/org.ojalgo/ojalgo-yahoofinance@1.0.0
 - pkg:maven/org.ojalgo/ojalgo-yahoofinance@1.0.0?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo-yahoofinance@1.0.1
+- pkg:maven/org.ojalgo/ojalgo-yahoofinance@1.0.1?classifier=sources

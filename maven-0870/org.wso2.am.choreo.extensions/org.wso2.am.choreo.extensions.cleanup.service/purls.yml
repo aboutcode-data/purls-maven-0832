@@ -106,3 +106,9 @@
 - pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.cleanup.service@1.0.74?classifier=sources
 - pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.cleanup.service@1.0.75
 - pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.cleanup.service@1.0.75?classifier=sources
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.cleanup.service@1.0.82
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.cleanup.service@1.0.82?classifier=sources
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.cleanup.service@1.0.83
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.cleanup.service@1.0.83?classifier=sources
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.cleanup.service@1.0.84
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.cleanup.service@1.0.84?classifier=sources

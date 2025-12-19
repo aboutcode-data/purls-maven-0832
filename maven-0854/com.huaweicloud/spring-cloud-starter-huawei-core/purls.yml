@@ -1,5 +1,9 @@
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.10.0-2020.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.10.0-2021.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.10.1-2020.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.10.1-2021.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.10.2-2020.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.10.2-2021.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.6.0-Greenwich
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.6.1-2020.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.6.1-Greenwich
@@ -16,3 +20,4 @@
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.9.1-2020.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.9.1-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.9.2-Hoxton
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-core@1.9.3-Hoxton

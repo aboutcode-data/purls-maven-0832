@@ -22,3 +22,5 @@
 - pkg:maven/com.colisweb/google-drive-scala-client_2.13@0.15.3?classifier=sources
 - pkg:maven/com.colisweb/google-drive-scala-client_2.13@0.15.4
 - pkg:maven/com.colisweb/google-drive-scala-client_2.13@0.15.4?classifier=sources
+- pkg:maven/com.colisweb/google-drive-scala-client_2.13@0.16.2
+- pkg:maven/com.colisweb/google-drive-scala-client_2.13@0.16.2?classifier=sources

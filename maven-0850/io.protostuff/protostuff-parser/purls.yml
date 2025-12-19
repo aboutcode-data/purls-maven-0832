@@ -164,3 +164,5 @@
 - pkg:maven/io.protostuff/protostuff-parser@2.2.27?classifier=sources
 - pkg:maven/io.protostuff/protostuff-parser@3.1.38
 - pkg:maven/io.protostuff/protostuff-parser@3.1.38?classifier=sources
+- pkg:maven/io.protostuff/protostuff-parser@3.1.40
+- pkg:maven/io.protostuff/protostuff-parser@3.1.40?classifier=sources

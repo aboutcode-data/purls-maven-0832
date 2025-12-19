@@ -1,0 +1,4 @@
+- pkg:maven/com.link-intersystems.commons/lis-commons-jdbc-test@1.6.0
+- pkg:maven/com.link-intersystems.commons/lis-commons-jdbc-test@1.6.0?classifier=sources
+- pkg:maven/com.link-intersystems.commons/lis-commons-jdbc-test@1.6.1
+- pkg:maven/com.link-intersystems.commons/lis-commons-jdbc-test@1.6.1?classifier=sources

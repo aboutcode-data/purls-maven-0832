@@ -1,0 +1,2 @@
+- pkg:maven/io.github.aalbul/zio-telegram-bot-api_2.13@0.2.0
+- pkg:maven/io.github.aalbul/zio-telegram-bot-api_2.13@0.2.0?classifier=sources

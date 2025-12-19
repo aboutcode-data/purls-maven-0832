@@ -14,3 +14,7 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-r2dbc@4.35.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-r2dbc@4.36.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-r2dbc@4.36.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-r2dbc@4.37.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-r2dbc@4.37.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-r2dbc@4.38.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-r2dbc@4.38.0?classifier=sources

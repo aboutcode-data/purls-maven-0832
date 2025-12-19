@@ -1,0 +1,6 @@
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-api-loader@1.6.18
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-api-loader@1.6.18?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-api-loader@1.6.19
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-api-loader@1.6.19?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-api-loader@1.6.20
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-api-loader@1.6.20?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.8?classifier=sources
 - pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.7.9?classifier=sources
 - pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.8.4?classifier=sources
+- pkg:maven/com.fillr/fillr-browser-sdk-fillrdefault@8.8.5-rakuten-rewards?classifier=sources

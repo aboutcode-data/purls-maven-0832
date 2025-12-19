@@ -28,3 +28,5 @@
 - pkg:maven/com.artipie/files-adapter@0.7?classifier=sources
 - pkg:maven/com.artipie/files-adapter@v1.0.0
 - pkg:maven/com.artipie/files-adapter@v1.0.0?classifier=sources
+- pkg:maven/com.artipie/files-adapter@v1.0.1
+- pkg:maven/com.artipie/files-adapter@v1.0.1?classifier=sources

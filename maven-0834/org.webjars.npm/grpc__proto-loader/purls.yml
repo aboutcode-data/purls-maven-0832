@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.npm/grpc__proto-loader@0.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/grpc__proto-loader@0.6.0-pre9
 - pkg:maven/org.webjars.npm/grpc__proto-loader@0.6.0-pre9?classifier=sources
+- pkg:maven/org.webjars.npm/grpc__proto-loader@0.6.13
+- pkg:maven/org.webjars.npm/grpc__proto-loader@0.6.13?classifier=sources
 - pkg:maven/org.webjars.npm/grpc__proto-loader@0.6.9
 - pkg:maven/org.webjars.npm/grpc__proto-loader@0.6.9?classifier=sources

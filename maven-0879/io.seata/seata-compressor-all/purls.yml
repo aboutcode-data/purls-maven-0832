@@ -8,3 +8,5 @@
 - pkg:maven/io.seata/seata-compressor-all@1.4.2
 - pkg:maven/io.seata/seata-compressor-all@1.5.0
 - pkg:maven/io.seata/seata-compressor-all@1.5.1
+- pkg:maven/io.seata/seata-compressor-all@1.5.1.1
+- pkg:maven/io.seata/seata-compressor-all@1.5.2

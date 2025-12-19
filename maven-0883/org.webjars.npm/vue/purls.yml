@@ -96,6 +96,16 @@
 - pkg:maven/org.webjars.npm/vue@2.6.8?classifier=sources
 - pkg:maven/org.webjars.npm/vue@2.6.9
 - pkg:maven/org.webjars.npm/vue@2.6.9?classifier=sources
+- pkg:maven/org.webjars.npm/vue@2.7.0
+- pkg:maven/org.webjars.npm/vue@2.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/vue@2.7.2
+- pkg:maven/org.webjars.npm/vue@2.7.2?classifier=sources
+- pkg:maven/org.webjars.npm/vue@2.7.3
+- pkg:maven/org.webjars.npm/vue@2.7.3?classifier=sources
+- pkg:maven/org.webjars.npm/vue@2.7.7
+- pkg:maven/org.webjars.npm/vue@2.7.7?classifier=sources
+- pkg:maven/org.webjars.npm/vue@2.7.8
+- pkg:maven/org.webjars.npm/vue@2.7.8?classifier=sources
 - pkg:maven/org.webjars.npm/vue@3.0.0
 - pkg:maven/org.webjars.npm/vue@3.0.0-alpha.10
 - pkg:maven/org.webjars.npm/vue@3.0.0-alpha.10?classifier=sources
@@ -198,6 +208,8 @@
 - pkg:maven/org.webjars.npm/vue@3.2.33?classifier=sources
 - pkg:maven/org.webjars.npm/vue@3.2.36
 - pkg:maven/org.webjars.npm/vue@3.2.36?classifier=sources
+- pkg:maven/org.webjars.npm/vue@3.2.37
+- pkg:maven/org.webjars.npm/vue@3.2.37?classifier=sources
 - pkg:maven/org.webjars.npm/vue@3.2.6
 - pkg:maven/org.webjars.npm/vue@3.2.6?classifier=sources
 - pkg:maven/org.webjars.npm/vue@3.2.8

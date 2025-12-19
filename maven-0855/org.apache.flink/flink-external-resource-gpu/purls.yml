@@ -52,5 +52,9 @@
 - pkg:maven/org.apache.flink/flink-external-resource-gpu@1.14.3?classifier=sources
 - pkg:maven/org.apache.flink/flink-external-resource-gpu@1.14.4
 - pkg:maven/org.apache.flink/flink-external-resource-gpu@1.14.4?classifier=sources
+- pkg:maven/org.apache.flink/flink-external-resource-gpu@1.14.5
+- pkg:maven/org.apache.flink/flink-external-resource-gpu@1.14.5?classifier=sources
 - pkg:maven/org.apache.flink/flink-external-resource-gpu@1.15.0
 - pkg:maven/org.apache.flink/flink-external-resource-gpu@1.15.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-external-resource-gpu@1.15.1
+- pkg:maven/org.apache.flink/flink-external-resource-gpu@1.15.1?classifier=sources

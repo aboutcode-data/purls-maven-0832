@@ -2,3 +2,5 @@
 - pkg:maven/io.github.lexinda/veryrule-spring@1.1.0-RELEASE?classifier=sources
 - pkg:maven/io.github.lexinda/veryrule-spring@1.2.0-RELEASE
 - pkg:maven/io.github.lexinda/veryrule-spring@1.2.0-RELEASE?classifier=sources
+- pkg:maven/io.github.lexinda/veryrule-spring@2.0.0-RELEASE
+- pkg:maven/io.github.lexinda/veryrule-spring@2.0.0-RELEASE?classifier=sources

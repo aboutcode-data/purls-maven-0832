@@ -24,3 +24,6 @@
 - pkg:maven/tz.co.asoft/viewmodel-test-expect-js@0.2.29?classifier=sources
 - pkg:maven/tz.co.asoft/viewmodel-test-expect-js@0.2.30?classifier=sources
 - pkg:maven/tz.co.asoft/viewmodel-test-expect-js@0.2.41?classifier=sources
+- pkg:maven/tz.co.asoft/viewmodel-test-expect-js@0.2.42?classifier=sources
+- pkg:maven/tz.co.asoft/viewmodel-test-expect-js@0.2.43?classifier=sources
+- pkg:maven/tz.co.asoft/viewmodel-test-expect-js@1.5.3?classifier=sources

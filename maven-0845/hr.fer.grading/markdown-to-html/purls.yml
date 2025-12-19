@@ -1,4 +1,8 @@
 - pkg:maven/hr.fer.grading/markdown-to-html@0.10.0?classifier=sources
+- pkg:maven/hr.fer.grading/markdown-to-html@0.11.0?classifier=sources
+- pkg:maven/hr.fer.grading/markdown-to-html@0.12.0?classifier=sources
+- pkg:maven/hr.fer.grading/markdown-to-html@0.13.0?classifier=sources
+- pkg:maven/hr.fer.grading/markdown-to-html@0.13.1?classifier=sources
 - pkg:maven/hr.fer.grading/markdown-to-html@0.3.0?classifier=sources
 - pkg:maven/hr.fer.grading/markdown-to-html@0.4.0?classifier=sources
 - pkg:maven/hr.fer.grading/markdown-to-html@0.5.0?classifier=sources

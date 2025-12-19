@@ -244,3 +244,11 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.88.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.88.1
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.88.1?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.88.2
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.88.2?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.88.3
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.88.3?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.88.4
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.88.4?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.89.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1p3beta1@0.89.1?classifier=sources

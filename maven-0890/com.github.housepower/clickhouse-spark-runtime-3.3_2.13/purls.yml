@@ -1,0 +1,2 @@
+- pkg:maven/com.github.housepower/clickhouse-spark-runtime-3.3_2.13@0.3.0?classifier=sources
+- pkg:maven/com.github.housepower/clickhouse-spark-runtime-3.3_2.13@0.4.0?classifier=sources

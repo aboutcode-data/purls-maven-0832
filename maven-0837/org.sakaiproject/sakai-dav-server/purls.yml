@@ -68,3 +68,5 @@
 - pkg:maven/org.sakaiproject/sakai-dav-server@21.3?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-dav-server@22.0
 - pkg:maven/org.sakaiproject/sakai-dav-server@22.0?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-dav-server@22.1
+- pkg:maven/org.sakaiproject/sakai-dav-server@22.1?classifier=sources

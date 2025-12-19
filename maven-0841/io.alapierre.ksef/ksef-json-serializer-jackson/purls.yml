@@ -1,0 +1,2 @@
+- pkg:maven/io.alapierre.ksef/ksef-json-serializer-jackson@2.0.10
+- pkg:maven/io.alapierre.ksef/ksef-json-serializer-jackson@2.0.10?classifier=sources

@@ -92,6 +92,7 @@
 - pkg:maven/org.infinispan/infinispan-cdi-jcache-it@14.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-cdi-jcache-it@14.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-cdi-jcache-it@14.0.0.Dev03
+- pkg:maven/org.infinispan/infinispan-cdi-jcache-it@14.0.0.Dev04
 - pkg:maven/org.infinispan/infinispan-cdi-jcache-it@6.0.0.CR1
 - pkg:maven/org.infinispan/infinispan-cdi-jcache-it@6.0.0.CR1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cdi-jcache-it@6.0.0.Final

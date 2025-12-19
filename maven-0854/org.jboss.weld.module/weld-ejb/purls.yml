@@ -112,3 +112,5 @@
 - pkg:maven/org.jboss.weld.module/weld-ejb@5.0.0.SP1?classifier=sources
 - pkg:maven/org.jboss.weld.module/weld-ejb@5.0.0.SP2
 - pkg:maven/org.jboss.weld.module/weld-ejb@5.0.0.SP2?classifier=sources
+- pkg:maven/org.jboss.weld.module/weld-ejb@5.0.1.Final
+- pkg:maven/org.jboss.weld.module/weld-ejb@5.0.1.Final?classifier=sources

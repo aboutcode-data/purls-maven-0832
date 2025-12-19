@@ -3,3 +3,5 @@
 - pkg:maven/co.adcel.android/adcel-ads-mediation-native@2.0.0.2?classifier=sources
 - pkg:maven/co.adcel.android/adcel-ads-mediation-native@2.0.0.3?classifier=sources
 - pkg:maven/co.adcel.android/adcel-ads-mediation-native@2.0.0?classifier=sources
+- pkg:maven/co.adcel.android/adcel-ads-mediation-native@2.0.4?classifier=sources
+- pkg:maven/co.adcel.android/adcel-ads-mediation-native@2.0.5?classifier=sources

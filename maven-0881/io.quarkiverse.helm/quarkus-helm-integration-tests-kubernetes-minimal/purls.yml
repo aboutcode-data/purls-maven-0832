@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-kubernetes-minimal@0.0.3
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-kubernetes-minimal@0.0.3?classifier=sources

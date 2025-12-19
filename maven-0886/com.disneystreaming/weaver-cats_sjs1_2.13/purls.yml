@@ -21,6 +21,8 @@
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.6.11?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.6.12
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.6.12?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.6.13
+- pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.6.13?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.6.1?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.6.2
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.6.2?classifier=sources
@@ -59,6 +61,8 @@
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.7.11?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.7.12
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.7.12?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.7.13
+- pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.7.13?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.7.1?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.7.2
 - pkg:maven/com.disneystreaming/weaver-cats_sjs1_2.13@0.7.2?classifier=sources

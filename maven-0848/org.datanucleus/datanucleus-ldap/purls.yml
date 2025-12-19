@@ -139,3 +139,5 @@
 - pkg:maven/org.datanucleus/datanucleus-ldap@6.0.0-m4?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-ldap@6.0.0-m5
 - pkg:maven/org.datanucleus/datanucleus-ldap@6.0.0-m5?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-ldap@6.0.0-release
+- pkg:maven/org.datanucleus/datanucleus-ldap@6.0.0-release?classifier=sources

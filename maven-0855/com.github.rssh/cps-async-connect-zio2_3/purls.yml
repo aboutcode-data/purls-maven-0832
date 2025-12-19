@@ -1,6 +1,10 @@
+- pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.10
+- pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.10?classifier=sources
 - pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.3
 - pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.3?classifier=sources
 - pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.8
 - pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.8?classifier=sources
 - pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.9
+- pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.9-1
+- pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.9-1?classifier=sources
 - pkg:maven/com.github.rssh/cps-async-connect-zio2_3@0.9.9?classifier=sources

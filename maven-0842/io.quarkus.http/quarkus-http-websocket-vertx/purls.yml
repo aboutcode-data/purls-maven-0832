@@ -30,3 +30,5 @@
 - pkg:maven/io.quarkus.http/quarkus-http-websocket-vertx@4.1.8?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-websocket-vertx@4.1.9
 - pkg:maven/io.quarkus.http/quarkus-http-websocket-vertx@4.1.9?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-websocket-vertx@5.0.0.Alpha1
+- pkg:maven/io.quarkus.http/quarkus-http-websocket-vertx@5.0.0.Alpha1?classifier=sources

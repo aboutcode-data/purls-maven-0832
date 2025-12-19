@@ -46,3 +46,5 @@
 - pkg:maven/com.github.chris2018998/beeop@1.2.6?classifier=sources
 - pkg:maven/com.github.chris2018998/beeop@1.2.7
 - pkg:maven/com.github.chris2018998/beeop@1.2.7?classifier=sources
+- pkg:maven/com.github.chris2018998/beeop@1.2.8
+- pkg:maven/com.github.chris2018998/beeop@1.2.8?classifier=sources

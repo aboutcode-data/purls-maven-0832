@@ -36,3 +36,5 @@
 - pkg:maven/com.couchbase.client/metrics-micrometer@0.3.0?classifier=sources
 - pkg:maven/com.couchbase.client/metrics-micrometer@0.3.1
 - pkg:maven/com.couchbase.client/metrics-micrometer@0.3.1?classifier=sources
+- pkg:maven/com.couchbase.client/metrics-micrometer@0.3.2
+- pkg:maven/com.couchbase.client/metrics-micrometer@0.3.2?classifier=sources

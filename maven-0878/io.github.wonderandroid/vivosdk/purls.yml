@@ -13,3 +13,8 @@
 - pkg:maven/io.github.wonderandroid/vivosdk@1.1.0?type=aar
 - pkg:maven/io.github.wonderandroid/vivosdk@1.1.1?type=aar
 - pkg:maven/io.github.wonderandroid/vivosdk@1.1.2?type=aar
+- pkg:maven/io.github.wonderandroid/vivosdk@1.1.3?type=aar
+- pkg:maven/io.github.wonderandroid/vivosdk@1.1.4?type=aar
+- pkg:maven/io.github.wonderandroid/vivosdk@1.1.5?type=aar
+- pkg:maven/io.github.wonderandroid/vivosdk@1.1.6?type=aar
+- pkg:maven/io.github.wonderandroid/vivosdk@1.1.7?type=aar

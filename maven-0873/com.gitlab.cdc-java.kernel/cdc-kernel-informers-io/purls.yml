@@ -22,3 +22,7 @@
 - pkg:maven/com.gitlab.cdc-java.kernel/cdc-kernel-informers-io@0.20.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.kernel/cdc-kernel-informers-io@0.20.3
 - pkg:maven/com.gitlab.cdc-java.kernel/cdc-kernel-informers-io@0.20.3?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.kernel/cdc-kernel-informers-io@0.20.4
+- pkg:maven/com.gitlab.cdc-java.kernel/cdc-kernel-informers-io@0.20.4?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.kernel/cdc-kernel-informers-io@0.20.5
+- pkg:maven/com.gitlab.cdc-java.kernel/cdc-kernel-informers-io@0.20.5?classifier=sources

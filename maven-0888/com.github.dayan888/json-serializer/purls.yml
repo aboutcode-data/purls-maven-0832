@@ -1,2 +1,4 @@
 - pkg:maven/com.github.dayan888/json-serializer@0.4
 - pkg:maven/com.github.dayan888/json-serializer@0.4?classifier=sources
+- pkg:maven/com.github.dayan888/json-serializer@0.5
+- pkg:maven/com.github.dayan888/json-serializer@0.5?classifier=sources

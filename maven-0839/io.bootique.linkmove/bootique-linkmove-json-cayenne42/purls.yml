@@ -1,2 +1,4 @@
+- pkg:maven/io.bootique.linkmove/bootique-linkmove-json-cayenne42@2.0
+- pkg:maven/io.bootique.linkmove/bootique-linkmove-json-cayenne42@2.0.1
 - pkg:maven/io.bootique.linkmove/bootique-linkmove-json-cayenne42@2.0.B1
 - pkg:maven/io.bootique.linkmove/bootique-linkmove-json-cayenne42@2.0.RC1

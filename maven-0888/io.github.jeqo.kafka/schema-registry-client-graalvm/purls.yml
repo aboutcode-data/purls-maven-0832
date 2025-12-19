@@ -10,3 +10,7 @@
 - pkg:maven/io.github.jeqo.kafka/schema-registry-client-graalvm@0.2.1-RC2?classifier=sources
 - pkg:maven/io.github.jeqo.kafka/schema-registry-client-graalvm@0.2.1-RC3
 - pkg:maven/io.github.jeqo.kafka/schema-registry-client-graalvm@0.2.1-RC3?classifier=sources
+- pkg:maven/io.github.jeqo.kafka/schema-registry-client-graalvm@0.3.0
+- pkg:maven/io.github.jeqo.kafka/schema-registry-client-graalvm@0.3.0?classifier=sources
+- pkg:maven/io.github.jeqo.kafka/schema-registry-client-graalvm@0.4.0
+- pkg:maven/io.github.jeqo.kafka/schema-registry-client-graalvm@0.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mmdai/flood-spring-cloud-starter-nacos-deregister@2.7.0.2
+- pkg:maven/io.github.mmdai/flood-spring-cloud-starter-nacos-deregister@2.7.0.2?classifier=sources

@@ -376,6 +376,12 @@
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev20220513-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev20220528-1.32.1
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev20220528-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev20220619-1.32.1
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev20220619-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev20220711-1.32.1
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev20220711-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev20220720-1.32.1
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev20220720-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1-rev21-1.22.0
@@ -1038,6 +1044,12 @@
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev20220425-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev20220513-1.32.1
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev20220513-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev20220619-1.32.1
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev20220619-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev20220711-1.32.1
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev20220711-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev20220720-1.32.1
+- pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev20220720-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicenetworking@v1beta-rev21-1.24.1

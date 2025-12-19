@@ -24,3 +24,5 @@
 - pkg:maven/net.katsstuff/ackcord-core_2.13@0.18.0-RC1
 - pkg:maven/net.katsstuff/ackcord-core_2.13@0.18.0-RC1?classifier=sources
 - pkg:maven/net.katsstuff/ackcord-core_2.13@0.18.0?classifier=sources
+- pkg:maven/net.katsstuff/ackcord-core_2.13@0.18.1
+- pkg:maven/net.katsstuff/ackcord-core_2.13@0.18.1?classifier=sources

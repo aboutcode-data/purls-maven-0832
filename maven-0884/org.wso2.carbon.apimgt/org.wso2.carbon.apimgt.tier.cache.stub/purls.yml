@@ -4109,6 +4109,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.0.368
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.0.368?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.0.369
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.0.369.1
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.0.369.1?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.0.369?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.0.36?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.0.37
@@ -4355,6 +4357,14 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.3
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.3?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.4
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.46
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.46?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.47
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.47?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.48
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.48?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.49
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.49?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.4?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.5
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tier.cache.stub@9.2.5.1

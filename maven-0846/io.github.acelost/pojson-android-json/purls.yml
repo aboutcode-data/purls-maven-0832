@@ -1,1 +1,2 @@
 - pkg:maven/io.github.acelost/pojson-android-json@0.0.7?classifier=sources
+- pkg:maven/io.github.acelost/pojson-android-json@0.0.8?classifier=sources

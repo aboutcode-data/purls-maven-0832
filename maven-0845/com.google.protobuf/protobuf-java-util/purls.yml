@@ -139,6 +139,10 @@
 - pkg:maven/com.google.protobuf/protobuf-java-util@3.21.0?classifier=sources
 - pkg:maven/com.google.protobuf/protobuf-java-util@3.21.1
 - pkg:maven/com.google.protobuf/protobuf-java-util@3.21.1?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-java-util@3.21.2
+- pkg:maven/com.google.protobuf/protobuf-java-util@3.21.2?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-java-util@3.21.3
+- pkg:maven/com.google.protobuf/protobuf-java-util@3.21.3?classifier=sources
 - pkg:maven/com.google.protobuf/protobuf-java-util@3.3.0
 - pkg:maven/com.google.protobuf/protobuf-java-util@3.3.0?classifier=sources
 - pkg:maven/com.google.protobuf/protobuf-java-util@3.3.1

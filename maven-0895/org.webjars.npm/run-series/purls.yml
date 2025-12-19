@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/run-series@1.1.8
 - pkg:maven/org.webjars.npm/run-series@1.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/run-series@1.1.9
+- pkg:maven/org.webjars.npm/run-series@1.1.9?classifier=sources

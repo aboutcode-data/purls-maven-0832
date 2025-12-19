@@ -1,0 +1,2 @@
+- pkg:maven/io.github.openfeign/feign-jakarta@11.9.1
+- pkg:maven/io.github.openfeign/feign-jakarta@11.9.1?classifier=sources

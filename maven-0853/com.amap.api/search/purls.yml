@@ -44,3 +44,4 @@
 - pkg:maven/com.amap.api/search@7.9.0?classifier=sources
 - pkg:maven/com.amap.api/search@8.1.0?classifier=sources
 - pkg:maven/com.amap.api/search@9.2.0?classifier=sources
+- pkg:maven/com.amap.api/search@9.3.1?classifier=sources

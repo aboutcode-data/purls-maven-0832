@@ -1,1 +1,2 @@
 - pkg:maven/io.github.kyay10.kotlin-null-defaults/kotlin-plugin-native@0.1.1?classifier=sources
+- pkg:maven/io.github.kyay10.kotlin-null-defaults/kotlin-plugin-native@0.2.0?classifier=sources

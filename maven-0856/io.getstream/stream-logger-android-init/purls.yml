@@ -1,0 +1,2 @@
+- pkg:maven/io.getstream/stream-logger-android-init@5.6.0?classifier=sources
+- pkg:maven/io.getstream/stream-logger-android-init@5.6.1?classifier=sources

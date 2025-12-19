@@ -18,3 +18,5 @@
 - pkg:maven/cn.chiship.sdk/chiship-sdk-third@1.4.2?classifier=sources
 - pkg:maven/cn.chiship.sdk/chiship-sdk-third@1.5.1.beta
 - pkg:maven/cn.chiship.sdk/chiship-sdk-third@1.5.1.beta?classifier=sources
+- pkg:maven/cn.chiship.sdk/chiship-sdk-third@1.7.1
+- pkg:maven/cn.chiship.sdk/chiship-sdk-third@1.7.1?classifier=sources

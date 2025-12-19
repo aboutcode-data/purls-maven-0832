@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.dataspaceconnector/ids@0.0.1-milestone-4?classifier=sources
+- pkg:maven/org.eclipse.dataspaceconnector/ids@0.0.1-milestone-5?classifier=sources

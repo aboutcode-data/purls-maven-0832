@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client3/opentelemetry-tracing-zio-backend_2.13@3.7.1
+- pkg:maven/com.softwaremill.sttp.client3/opentelemetry-tracing-zio-backend_2.13@3.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.nkpro.elcube/plugins-esign@2.2.4
+- pkg:maven/cn.nkpro.elcube/plugins-esign@2.2.4?classifier=sources

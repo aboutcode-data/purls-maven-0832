@@ -136,3 +136,4 @@
 - pkg:maven/org.testng/testng@7.4.0?classifier=sources
 - pkg:maven/org.testng/testng@7.5?classifier=sources
 - pkg:maven/org.testng/testng@7.6.0?classifier=sources
+- pkg:maven/org.testng/testng@7.6.1?classifier=sources

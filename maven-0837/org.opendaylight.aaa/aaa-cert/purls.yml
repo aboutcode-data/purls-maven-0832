@@ -73,6 +73,7 @@
 - pkg:maven/org.opendaylight.aaa/aaa-cert@0.15.4
 - pkg:maven/org.opendaylight.aaa/aaa-cert@0.15.4?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-cert@0.15.5?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-cert@0.16.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-cert@0.4.0-Boron
 - pkg:maven/org.opendaylight.aaa/aaa-cert@0.4.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-cert@0.4.1-Boron-SR1

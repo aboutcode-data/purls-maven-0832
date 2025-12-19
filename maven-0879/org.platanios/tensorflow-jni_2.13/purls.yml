@@ -16,3 +16,5 @@
 - pkg:maven/org.platanios/tensorflow-jni_2.13@0.6.2?classifier=sources
 - pkg:maven/org.platanios/tensorflow-jni_2.13@0.6.4
 - pkg:maven/org.platanios/tensorflow-jni_2.13@0.6.4?classifier=sources
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.6.5
+- pkg:maven/org.platanios/tensorflow-jni_2.13@0.6.5?classifier=sources

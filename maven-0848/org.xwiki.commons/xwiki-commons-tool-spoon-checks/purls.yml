@@ -92,6 +92,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.10.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.10.6
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.10.6?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.10.7
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.10.7?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.10.8
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.10.8?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@13.2
@@ -165,4 +169,12 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.4-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.4.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.4.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.4.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.4.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.4?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.5?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.6
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.6-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.6-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-checks@14.6?classifier=sources

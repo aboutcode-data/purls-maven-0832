@@ -24,6 +24,12 @@
 - pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.10.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.11.0
 - pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.11.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.12.0
+- pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.12.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.13.0
+- pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.13.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.14.0
+- pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.14.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.2.2
 - pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.2.2?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-hibernate5@4.3.0

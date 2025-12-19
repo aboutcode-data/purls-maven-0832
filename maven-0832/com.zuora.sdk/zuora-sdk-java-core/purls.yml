@@ -30,3 +30,5 @@
 - pkg:maven/com.zuora.sdk/zuora-sdk-java-core@2.0.0-alpha.5?classifier=sources
 - pkg:maven/com.zuora.sdk/zuora-sdk-java-core@2.0.0-alpha.6
 - pkg:maven/com.zuora.sdk/zuora-sdk-java-core@2.0.0-alpha.6?classifier=sources
+- pkg:maven/com.zuora.sdk/zuora-sdk-java-core@2.0.0-alpha.7
+- pkg:maven/com.zuora.sdk/zuora-sdk-java-core@2.0.0-alpha.7?classifier=sources

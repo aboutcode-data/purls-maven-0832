@@ -217,6 +217,16 @@
 - pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.0
 - pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B16-ff3bad5c
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B16-ff3bad5c?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B26-51dbef5d
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B26-51dbef5d?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B28-865c1324
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B28-865c1324?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B31-f9c5aef6
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B31-f9c5aef6?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B35-4cbea9f8
+- pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1%2B35-4cbea9f8?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.13.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.6.0%2B32-9c0fbbf8
 - pkg:maven/io.janstenpickle/trace4cats-avro-kafka-exporter_2.13@0.6.0%2B32-9c0fbbf8?classifier=sources

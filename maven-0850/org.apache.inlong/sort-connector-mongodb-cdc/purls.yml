@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.inlong/sort-connector-mongodb-cdc@1.2.0-incubating
+- pkg:maven/org.apache.inlong/sort-connector-mongodb-cdc@1.2.0-incubating?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.mohakgupta53/number-addition@1.0
+- pkg:maven/io.github.mohakgupta53/number-addition@1.0?classifier=sources
+- pkg:maven/io.github.mohakgupta53/number-addition@2.0
+- pkg:maven/io.github.mohakgupta53/number-addition@2.0?classifier=sources

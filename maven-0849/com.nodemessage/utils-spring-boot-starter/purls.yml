@@ -1,0 +1,4 @@
+- pkg:maven/com.nodemessage/utils-spring-boot-starter@2.0.0
+- pkg:maven/com.nodemessage/utils-spring-boot-starter@2.0.0?classifier=sources
+- pkg:maven/com.nodemessage/utils-spring-boot-starter@2.0.1.RELEASE
+- pkg:maven/com.nodemessage/utils-spring-boot-starter@2.0.1.RELEASE?classifier=sources

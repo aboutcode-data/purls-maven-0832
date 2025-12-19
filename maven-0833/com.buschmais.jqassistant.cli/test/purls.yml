@@ -5,6 +5,7 @@
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.11.0
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.11.0-RC-1
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.11.1
+- pkg:maven/com.buschmais.jqassistant.cli/test@1.12.0
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.12.0-M1
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.4.0
 - pkg:maven/com.buschmais.jqassistant.cli/test@1.5.0

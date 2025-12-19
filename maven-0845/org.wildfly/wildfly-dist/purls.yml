@@ -220,6 +220,12 @@
 - pkg:maven/org.wildfly/wildfly-dist@27.0.0.Alpha1?classifier=src&type=tar.gz
 - pkg:maven/org.wildfly/wildfly-dist@27.0.0.Alpha1?classifier=src&type=zip
 - pkg:maven/org.wildfly/wildfly-dist@27.0.0.Alpha1?type=zip
+- pkg:maven/org.wildfly/wildfly-dist@27.0.0.Alpha2?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-dist@27.0.0.Alpha2?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-dist@27.0.0.Alpha2?type=zip
+- pkg:maven/org.wildfly/wildfly-dist@27.0.0.Alpha3?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-dist@27.0.0.Alpha3?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-dist@27.0.0.Alpha3?type=zip
 - pkg:maven/org.wildfly/wildfly-dist@8.0.0.Alpha1?classifier=src&type=tar.gz
 - pkg:maven/org.wildfly/wildfly-dist@8.0.0.Alpha1?classifier=src&type=zip
 - pkg:maven/org.wildfly/wildfly-dist@8.0.0.Alpha2?classifier=src&type=tar.gz

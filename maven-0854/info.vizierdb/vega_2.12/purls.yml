@@ -1,0 +1,2 @@
+- pkg:maven/info.vizierdb/vega_2.12@1.0.0
+- pkg:maven/info.vizierdb/vega_2.12@1.0.0?classifier=sources

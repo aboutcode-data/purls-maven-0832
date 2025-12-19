@@ -1,0 +1,4 @@
+- pkg:maven/io.github.freya022/BotCommands@2.4.0
+- pkg:maven/io.github.freya022/BotCommands@2.4.0?classifier=sources
+- pkg:maven/io.github.freya022/BotCommands@2.4.1
+- pkg:maven/io.github.freya022/BotCommands@2.4.1?classifier=sources

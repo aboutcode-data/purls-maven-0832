@@ -27,3 +27,6 @@
 - pkg:maven/com.ditchoom/buffer-tvosarm64@1.0.81?classifier=sources
 - pkg:maven/com.ditchoom/buffer-tvosarm64@1.0.82?classifier=sources
 - pkg:maven/com.ditchoom/buffer-tvosarm64@1.0.83?classifier=sources
+- pkg:maven/com.ditchoom/buffer-tvosarm64@1.0.84?classifier=sources
+- pkg:maven/com.ditchoom/buffer-tvosarm64@1.0.85?classifier=sources
+- pkg:maven/com.ditchoom/buffer-tvosarm64@1.0.86?classifier=sources

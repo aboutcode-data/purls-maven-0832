@@ -8,3 +8,4 @@
 - pkg:maven/io.awspring.cloud/spring-cloud-starter-aws-ses@2.3.5
 - pkg:maven/io.awspring.cloud/spring-cloud-starter-aws-ses@2.4.0
 - pkg:maven/io.awspring.cloud/spring-cloud-starter-aws-ses@2.4.1
+- pkg:maven/io.awspring.cloud/spring-cloud-starter-aws-ses@2.4.2

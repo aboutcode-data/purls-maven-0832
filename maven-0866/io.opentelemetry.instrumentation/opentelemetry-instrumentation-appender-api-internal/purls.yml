@@ -7,3 +7,5 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-appender-api-internal@1.13.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-appender-api-internal@1.13.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-appender-api-internal@1.14.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-appender-api-internal@1.15.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-appender-api-internal@1.16.0-alpha?classifier=sources

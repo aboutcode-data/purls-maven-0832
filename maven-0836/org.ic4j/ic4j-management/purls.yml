@@ -1,0 +1,2 @@
+- pkg:maven/org.ic4j/ic4j-management@0.6.13
+- pkg:maven/org.ic4j/ic4j-management@0.6.13?classifier=sources

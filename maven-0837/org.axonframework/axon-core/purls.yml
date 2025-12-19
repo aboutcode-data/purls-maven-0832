@@ -169,6 +169,8 @@
 - pkg:maven/org.axonframework/axon-core@3.4.2?classifier=sources
 - pkg:maven/org.axonframework/axon-core@3.4.3
 - pkg:maven/org.axonframework/axon-core@3.4.3?classifier=sources
+- pkg:maven/org.axonframework/axon-core@3.4.4
+- pkg:maven/org.axonframework/axon-core@3.4.4?classifier=sources
 - pkg:maven/org.axonframework/axon-core@3.4?classifier=sources
 - pkg:maven/org.axonframework/axon-core@4.0-M1
 - pkg:maven/org.axonframework/axon-core@4.0-M1?classifier=sources

@@ -47,3 +47,5 @@
 - pkg:maven/net.hexonet.apiconnector/java-sdk@4.0.7?classifier=sources
 - pkg:maven/net.hexonet.apiconnector/java-sdk@4.0.8
 - pkg:maven/net.hexonet.apiconnector/java-sdk@4.0.8?classifier=sources
+- pkg:maven/net.hexonet.apiconnector/java-sdk@4.0.9
+- pkg:maven/net.hexonet.apiconnector/java-sdk@4.0.9?classifier=sources

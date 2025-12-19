@@ -42,3 +42,5 @@
 - pkg:maven/nl.vpro.media/media-tva@5.32.0?classifier=sources
 - pkg:maven/nl.vpro.media/media-tva@5.33.0
 - pkg:maven/nl.vpro.media/media-tva@5.33.0?classifier=sources
+- pkg:maven/nl.vpro.media/media-tva@5.34.0
+- pkg:maven/nl.vpro.media/media-tva@5.34.0?classifier=sources

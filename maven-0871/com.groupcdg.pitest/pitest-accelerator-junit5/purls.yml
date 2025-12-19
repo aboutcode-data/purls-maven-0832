@@ -3,3 +3,4 @@
 - pkg:maven/com.groupcdg.pitest/pitest-accelerator-junit5@0.0.3
 - pkg:maven/com.groupcdg.pitest/pitest-accelerator-junit5@0.0.4
 - pkg:maven/com.groupcdg.pitest/pitest-accelerator-junit5@0.1.0
+- pkg:maven/com.groupcdg.pitest/pitest-accelerator-junit5@1.0.0

@@ -158,3 +158,4 @@
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@5.0.4
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@5.0.4?classifier=sources
 - pkg:maven/org.opendaylight.controller/rpcbenchmark@5.0.5?classifier=sources
+- pkg:maven/org.opendaylight.controller/rpcbenchmark@6.0.0?classifier=sources

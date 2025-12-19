@@ -42,3 +42,4 @@
 - pkg:maven/com.tappx.sdk.android/tappx-sdk@3.2.4?type=aar
 - pkg:maven/com.tappx.sdk.android/tappx-sdk@3.2.5?type=aar
 - pkg:maven/com.tappx.sdk.android/tappx-sdk@3.2.6?type=aar
+- pkg:maven/com.tappx.sdk.android/tappx-sdk@4.0.0?type=aar

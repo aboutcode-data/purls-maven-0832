@@ -9,3 +9,5 @@
 - pkg:maven/io.github.merseyside/archy-core@1.4.7?classifier=sources
 - pkg:maven/io.github.merseyside/archy-core@1.4.8?classifier=sources
 - pkg:maven/io.github.merseyside/archy-core@1.4.9?classifier=sources
+- pkg:maven/io.github.merseyside/archy-core@1.5.0?classifier=sources
+- pkg:maven/io.github.merseyside/archy-core@1.5.1?classifier=sources

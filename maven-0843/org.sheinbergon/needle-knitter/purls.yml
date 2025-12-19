@@ -4,3 +4,4 @@
 - pkg:maven/org.sheinbergon/needle-knitter@0.2.0-RELEASE?classifier=sources
 - pkg:maven/org.sheinbergon/needle-knitter@0.2.1-RELEASE?classifier=sources
 - pkg:maven/org.sheinbergon/needle-knitter@0.3.0-RELEASE?classifier=sources
+- pkg:maven/org.sheinbergon/needle-knitter@0.4.0-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.scoperetail.simurai/simurai-resources@0.1
+- pkg:maven/com.scoperetail.simurai/simurai-resources@0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.swimos/swim@4.0.0?classifier=sources
+- pkg:maven/org.swimos/swim@4.0.1?classifier=sources

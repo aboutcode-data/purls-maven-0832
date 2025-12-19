@@ -1,3 +1,5 @@
+- pkg:maven/org.odpi.egeria/repository-governance-spring@3.10
+- pkg:maven/org.odpi.egeria/repository-governance-spring@3.10?classifier=sources
 - pkg:maven/org.odpi.egeria/repository-governance-spring@3.8
 - pkg:maven/org.odpi.egeria/repository-governance-spring@3.8?classifier=sources
 - pkg:maven/org.odpi.egeria/repository-governance-spring@3.9

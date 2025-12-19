@@ -1,0 +1,14 @@
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.10
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.10?classifier=sources
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.11
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.11?classifier=sources
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.12
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.12?classifier=sources
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.13
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.13?classifier=sources
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.9
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.0.9?classifier=sources
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.1.0
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.1.0?classifier=sources
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.1.1
+- pkg:maven/io.chris-kipp/github-dependency-graph-domain_2.13@0.1.1?classifier=sources

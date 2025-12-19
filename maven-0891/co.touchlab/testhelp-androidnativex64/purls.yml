@@ -1,1 +1,2 @@
 - pkg:maven/co.touchlab/testhelp-androidnativex64@0.6.3?classifier=sources
+- pkg:maven/co.touchlab/testhelp-androidnativex64@0.6.4?classifier=sources

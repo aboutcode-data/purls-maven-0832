@@ -24,3 +24,7 @@
 - pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.17.2?classifier=sources
 - pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.17.3
 - pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.17.3?classifier=sources
+- pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.17.4
+- pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.17.4?classifier=sources
+- pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.17.5
+- pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.17.5?classifier=sources

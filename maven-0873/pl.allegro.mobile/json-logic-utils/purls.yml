@@ -1,2 +1,4 @@
 - pkg:maven/pl.allegro.mobile/json-logic-utils@0.2.11?classifier=sources
+- pkg:maven/pl.allegro.mobile/json-logic-utils@0.2.12?classifier=sources
+- pkg:maven/pl.allegro.mobile/json-logic-utils@0.2.13?classifier=sources
 - pkg:maven/pl.allegro.mobile/json-logic-utils@0.2.9?classifier=sources

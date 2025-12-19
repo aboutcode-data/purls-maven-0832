@@ -174,3 +174,7 @@
 - pkg:maven/love.forte.simple-robot.serialization/json-jackson@2.3.7?classifier=sources
 - pkg:maven/love.forte.simple-robot.serialization/json-jackson@2.3.8
 - pkg:maven/love.forte.simple-robot.serialization/json-jackson@2.3.8?classifier=sources
+- pkg:maven/love.forte.simple-robot.serialization/json-jackson@2.3.9
+- pkg:maven/love.forte.simple-robot.serialization/json-jackson@2.3.9?classifier=sources
+- pkg:maven/love.forte.simple-robot.serialization/json-jackson@2.4.0
+- pkg:maven/love.forte.simple-robot.serialization/json-jackson@2.4.0?classifier=sources

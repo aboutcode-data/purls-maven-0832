@@ -32,6 +32,10 @@
 - pkg:maven/org.jboss.narayana.jta/jms@5.12.5.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jta/jms@5.12.6.Final
 - pkg:maven/org.jboss.narayana.jta/jms@5.12.6.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.jta/jms@5.12.7.Final
+- pkg:maven/org.jboss.narayana.jta/jms@5.12.7.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.jta/jms@5.13.0.Final
+- pkg:maven/org.jboss.narayana.jta/jms@5.13.0.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jta/jms@5.3.1.Final
 - pkg:maven/org.jboss.narayana.jta/jms@5.3.1.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jta/jms@5.3.2.Final

@@ -50,3 +50,13 @@
 - pkg:maven/com.axinfu/axf-util@1.2.1R?classifier=sources
 - pkg:maven/com.axinfu/axf-util@1.2.2R
 - pkg:maven/com.axinfu/axf-util@1.2.2R?classifier=sources
+- pkg:maven/com.axinfu/axf-util@1.2.3R
+- pkg:maven/com.axinfu/axf-util@1.2.3R?classifier=sources
+- pkg:maven/com.axinfu/axf-util@1.2.4R
+- pkg:maven/com.axinfu/axf-util@1.2.4R?classifier=sources
+- pkg:maven/com.axinfu/axf-util@1.2.5R
+- pkg:maven/com.axinfu/axf-util@1.2.5R?classifier=sources
+- pkg:maven/com.axinfu/axf-util@1.2.6R
+- pkg:maven/com.axinfu/axf-util@1.2.6R?classifier=sources
+- pkg:maven/com.axinfu/axf-util@1.2.7R
+- pkg:maven/com.axinfu/axf-util@1.2.7R?classifier=sources

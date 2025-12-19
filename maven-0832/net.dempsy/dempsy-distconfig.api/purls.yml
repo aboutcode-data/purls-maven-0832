@@ -2,3 +2,5 @@
 - pkg:maven/net.dempsy/dempsy-distconfig.api@2.0.0?classifier=sources
 - pkg:maven/net.dempsy/dempsy-distconfig.api@2.0.1
 - pkg:maven/net.dempsy/dempsy-distconfig.api@2.0.1?classifier=sources
+- pkg:maven/net.dempsy/dempsy-distconfig.api@2.4.0
+- pkg:maven/net.dempsy/dempsy-distconfig.api@2.4.0?classifier=sources

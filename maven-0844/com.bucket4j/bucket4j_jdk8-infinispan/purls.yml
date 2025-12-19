@@ -1,0 +1,2 @@
+- pkg:maven/com.bucket4j/bucket4j_jdk8-infinispan@8.0.0
+- pkg:maven/com.bucket4j/bucket4j_jdk8-infinispan@8.0.0?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.57?classifier=sources
 - pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.58
 - pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.58?classifier=sources
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.59
+- pkg:maven/com.netease.nim/camellia-id-gen-snowflake-spring-boot-starter@1.0.59?classifier=sources

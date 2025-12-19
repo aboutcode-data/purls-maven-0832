@@ -1,0 +1,8 @@
+- pkg:maven/io.nosqlbench/driver-s4j@4.15.100
+- pkg:maven/io.nosqlbench/driver-s4j@4.15.100?classifier=sources
+- pkg:maven/io.nosqlbench/driver-s4j@4.15.101
+- pkg:maven/io.nosqlbench/driver-s4j@4.15.101?classifier=sources
+- pkg:maven/io.nosqlbench/driver-s4j@4.15.98
+- pkg:maven/io.nosqlbench/driver-s4j@4.15.98?classifier=sources
+- pkg:maven/io.nosqlbench/driver-s4j@4.15.99
+- pkg:maven/io.nosqlbench/driver-s4j@4.15.99?classifier=sources

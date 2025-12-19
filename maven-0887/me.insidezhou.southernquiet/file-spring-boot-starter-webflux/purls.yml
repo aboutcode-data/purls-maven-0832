@@ -60,3 +60,4 @@
 - pkg:maven/me.insidezhou.southernquiet/file-spring-boot-starter-webflux@4.6.7?classifier=sources
 - pkg:maven/me.insidezhou.southernquiet/file-spring-boot-starter-webflux@4.7.0?classifier=sources
 - pkg:maven/me.insidezhou.southernquiet/file-spring-boot-starter-webflux@4.7.1?classifier=sources
+- pkg:maven/me.insidezhou.southernquiet/file-spring-boot-starter-webflux@4.7.2?classifier=sources

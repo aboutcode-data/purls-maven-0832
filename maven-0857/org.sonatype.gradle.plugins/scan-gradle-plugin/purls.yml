@@ -58,3 +58,4 @@
 - pkg:maven/org.sonatype.gradle.plugins/scan-gradle-plugin@2.2.2?classifier=sources
 - pkg:maven/org.sonatype.gradle.plugins/scan-gradle-plugin@2.2.3?classifier=sources
 - pkg:maven/org.sonatype.gradle.plugins/scan-gradle-plugin@2.3.0?classifier=sources
+- pkg:maven/org.sonatype.gradle.plugins/scan-gradle-plugin@2.4.0?classifier=sources

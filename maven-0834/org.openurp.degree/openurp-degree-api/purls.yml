@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.degree/openurp-degree-api@0.26.0
+- pkg:maven/org.openurp.degree/openurp-degree-api@0.26.0?classifier=sources

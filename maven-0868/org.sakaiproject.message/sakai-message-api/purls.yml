@@ -98,3 +98,5 @@
 - pkg:maven/org.sakaiproject.message/sakai-message-api@21.3?classifier=sources
 - pkg:maven/org.sakaiproject.message/sakai-message-api@22.0
 - pkg:maven/org.sakaiproject.message/sakai-message-api@22.0?classifier=sources
+- pkg:maven/org.sakaiproject.message/sakai-message-api@22.1
+- pkg:maven/org.sakaiproject.message/sakai-message-api@22.1?classifier=sources
