@@ -19,4 +19,5 @@
 - pkg:maven/org.apache-extras.camel-extra/camel-wmq@3.11.0
 - pkg:maven/org.apache-extras.camel-extra/camel-wmq@3.11.1
 - pkg:maven/org.apache-extras.camel-extra/camel-wmq@3.14.3
+- pkg:maven/org.apache-extras.camel-extra/camel-wmq@3.20.2
 - pkg:maven/org.apache-extras.camel-extra/camel-wmq@3.9.0

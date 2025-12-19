@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-source-query@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-source-query@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-source-query@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-source-query@RELEASE170?classifier=sources

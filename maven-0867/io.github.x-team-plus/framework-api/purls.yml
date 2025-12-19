@@ -1,0 +1,2 @@
+- pkg:maven/io.github.x-team-plus/framework-api@1.0.0
+- pkg:maven/io.github.x-team-plus/framework-api@1.0.0?classifier=sources

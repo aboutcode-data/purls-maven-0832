@@ -1,0 +1,1 @@
+- pkg:maven/io.github.aecsocket/cpu-features-jni-natives-macos@1.0.1?classifier=sources

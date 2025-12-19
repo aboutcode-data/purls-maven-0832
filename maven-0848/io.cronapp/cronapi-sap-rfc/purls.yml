@@ -1,2 +1,12 @@
 - pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.2-SP.9
 - pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.2-SP.9?classifier=sources
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3-SP.1
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3-SP.1?classifier=sources
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3-SP.2
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3-SP.2?classifier=sources
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3-SP.3
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3-SP.3?classifier=sources
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3-SP.4
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3-SP.4?classifier=sources
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.3?classifier=sources

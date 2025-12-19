@@ -54,6 +54,8 @@
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-jaxrs-webapp@2.37?type=war
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-jaxrs-webapp@2.38?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-jaxrs-webapp@2.38?type=war
+- pkg:maven/org.glassfish.jersey.examples/sse-item-store-jaxrs-webapp@2.39?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/sse-item-store-jaxrs-webapp@2.39?type=war
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-jaxrs-webapp@3.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-jaxrs-webapp@3.0.0-M1?type=war
 - pkg:maven/org.glassfish.jersey.examples/sse-item-store-jaxrs-webapp@3.0.0-M6?classifier=sources

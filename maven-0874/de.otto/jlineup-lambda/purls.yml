@@ -2,3 +2,7 @@
 - pkg:maven/de.otto/jlineup-lambda@4.6.2?classifier=sources
 - pkg:maven/de.otto/jlineup-lambda@4.6.3?classifier=sources
 - pkg:maven/de.otto/jlineup-lambda@4.7.0?classifier=sources
+- pkg:maven/de.otto/jlineup-lambda@4.8.0?classifier=sources
+- pkg:maven/de.otto/jlineup-lambda@4.8.1?classifier=sources
+- pkg:maven/de.otto/jlineup-lambda@4.8.2?classifier=sources
+- pkg:maven/de.otto/jlineup-lambda@4.8.3?classifier=sources

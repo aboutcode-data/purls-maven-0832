@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/workdocs@822.2.1109.0?classifier=sources
 - pkg:maven/com.cognitect.aws/workdocs@825.2.1262.0
 - pkg:maven/com.cognitect.aws/workdocs@825.2.1262.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workdocs@836.2.1323.0
+- pkg:maven/com.cognitect.aws/workdocs@836.2.1323.0?classifier=sources

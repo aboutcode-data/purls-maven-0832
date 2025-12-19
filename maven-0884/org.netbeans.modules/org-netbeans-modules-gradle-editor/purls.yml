@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-editor@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-editor@RELEASE170?classifier=sources

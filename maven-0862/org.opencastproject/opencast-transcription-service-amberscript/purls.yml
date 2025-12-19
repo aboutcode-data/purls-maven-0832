@@ -62,10 +62,16 @@
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@12.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@12.7
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@12.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@12.8
+- pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@12.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@12.9
+- pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@12.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@13.0
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@13.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@13.1
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@13.1?classifier=sources
+- pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@13.2
+- pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@13.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@9.0
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@9.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-transcription-service-amberscript@9.1

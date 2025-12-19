@@ -4,3 +4,7 @@
 - pkg:maven/io.ceresdb/ceresdb-sql-javacc@0.1.0-snapshot
 - pkg:maven/io.ceresdb/ceresdb-sql-javacc@0.1.0-snapshot?classifier=sources
 - pkg:maven/io.ceresdb/ceresdb-sql-javacc@0.1.0?classifier=sources
+- pkg:maven/io.ceresdb/ceresdb-sql-javacc@1.0.0
+- pkg:maven/io.ceresdb/ceresdb-sql-javacc@1.0.0-alpha
+- pkg:maven/io.ceresdb/ceresdb-sql-javacc@1.0.0-alpha?classifier=sources
+- pkg:maven/io.ceresdb/ceresdb-sql-javacc@1.0.0?classifier=sources

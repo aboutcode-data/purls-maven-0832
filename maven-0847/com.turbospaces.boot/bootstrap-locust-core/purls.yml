@@ -5,6 +5,12 @@
 - pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.104?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.105
 - pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.105?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.106
+- pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.106?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.107
+- pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.107?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.108
+- pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.108?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.10?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.11
 - pkg:maven/com.turbospaces.boot/bootstrap-locust-core@1.0.11?classifier=sources

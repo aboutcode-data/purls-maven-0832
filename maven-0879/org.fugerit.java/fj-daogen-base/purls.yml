@@ -124,3 +124,5 @@
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.4?classifier=sources
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.5
 - pkg:maven/org.fugerit.java/fj-daogen-base@0.4.5?classifier=sources
+- pkg:maven/org.fugerit.java/fj-daogen-base@1.0.0
+- pkg:maven/org.fugerit.java/fj-daogen-base@1.0.0?classifier=sources

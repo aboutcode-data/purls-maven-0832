@@ -19,3 +19,5 @@
 - pkg:maven/org.jetbrains.lets-plot/plot-builder-portable@3.0.0-rc1?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/plot-builder-portable@3.0.0-rc2?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/plot-builder-portable@3.0.0?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/plot-builder-portable@3.1.0-rc1?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/plot-builder-portable@3.1.0?classifier=sources

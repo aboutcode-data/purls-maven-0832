@@ -4,3 +4,13 @@
 - pkg:maven/de.maxbossing/MaxAPI@1.0.2
 - pkg:maven/de.maxbossing/MaxAPI@1.0.2?classifier=sources
 - pkg:maven/de.maxbossing/MaxAPI@1.0?classifier=sources
+- pkg:maven/de.maxbossing/MaxAPI@1.1.0
+- pkg:maven/de.maxbossing/MaxAPI@1.1.0?classifier=sources
+- pkg:maven/de.maxbossing/MaxAPI@1.2.0
+- pkg:maven/de.maxbossing/MaxAPI@1.2.0?classifier=sources
+- pkg:maven/de.maxbossing/MaxAPI@1.2.1
+- pkg:maven/de.maxbossing/MaxAPI@1.2.1?classifier=sources
+- pkg:maven/de.maxbossing/MaxAPI@1.2.2
+- pkg:maven/de.maxbossing/MaxAPI@1.2.2?classifier=sources
+- pkg:maven/de.maxbossing/MaxAPI@1.2.3
+- pkg:maven/de.maxbossing/MaxAPI@1.2.3?classifier=sources

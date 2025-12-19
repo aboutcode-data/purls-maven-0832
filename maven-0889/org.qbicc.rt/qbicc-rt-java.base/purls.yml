@@ -83,8 +83,16 @@
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.46?classifier=sources
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.47
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.47?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.48
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.48?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.49
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.49?classifier=sources
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.4?classifier=sources
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.5
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.50
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.50?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.51
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.51?classifier=sources
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.5?classifier=sources
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.6
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.base@17.alpha.0.6?classifier=sources

@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-editor@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-editor@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-editor@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-editor@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-sql-editor@RELEASE90?classifier=sources

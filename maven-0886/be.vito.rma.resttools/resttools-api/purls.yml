@@ -1,0 +1,2 @@
+- pkg:maven/be.vito.rma.resttools/resttools-api@4.4.1
+- pkg:maven/be.vito.rma.resttools/resttools-api@4.4.1?classifier=sources

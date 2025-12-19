@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor@RELEASE90?classifier=sources

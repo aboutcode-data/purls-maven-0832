@@ -1,2 +1,4 @@
 - pkg:maven/pl.wavesoftware.testing/ansi@1.0.0
 - pkg:maven/pl.wavesoftware.testing/ansi@1.0.0?classifier=sources
+- pkg:maven/pl.wavesoftware.testing/ansi@1.1.0
+- pkg:maven/pl.wavesoftware.testing/ansi@1.1.0?classifier=sources

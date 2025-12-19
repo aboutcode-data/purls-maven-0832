@@ -10,3 +10,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-watchossimulatorarm64@4.4.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-watchossimulatorarm64@4.5.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-watchossimulatorarm64@5.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-watchossimulatorarm64@5.1.0?classifier=sources

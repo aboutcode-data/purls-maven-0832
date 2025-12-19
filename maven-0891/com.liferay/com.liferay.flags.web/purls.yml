@@ -111,6 +111,9 @@
 - pkg:maven/com.liferay/com.liferay.flags.web@2.0.43
 - pkg:maven/com.liferay/com.liferay.flags.web@2.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.web@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.web@2.0.44
+- pkg:maven/com.liferay/com.liferay.flags.web@2.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.web@2.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.web@2.0.5
 - pkg:maven/com.liferay/com.liferay.flags.web@2.0.5?classifier=sources

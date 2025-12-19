@@ -8,3 +8,9 @@
 - pkg:maven/org.finos.vuu/toolbox@0.4.44?classifier=sources
 - pkg:maven/org.finos.vuu/toolbox@0.4.45
 - pkg:maven/org.finos.vuu/toolbox@0.4.45?classifier=sources
+- pkg:maven/org.finos.vuu/toolbox@0.4.47
+- pkg:maven/org.finos.vuu/toolbox@0.4.47?classifier=sources
+- pkg:maven/org.finos.vuu/toolbox@0.4.50
+- pkg:maven/org.finos.vuu/toolbox@0.4.50?classifier=sources
+- pkg:maven/org.finos.vuu/toolbox@0.4.51
+- pkg:maven/org.finos.vuu/toolbox@0.4.51?classifier=sources

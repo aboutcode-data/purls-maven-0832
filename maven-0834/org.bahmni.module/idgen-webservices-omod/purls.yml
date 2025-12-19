@@ -1,0 +1,2 @@
+- pkg:maven/org.bahmni.module/idgen-webservices-omod@1.4.0
+- pkg:maven/org.bahmni.module/idgen-webservices-omod@1.4.0?classifier=sources

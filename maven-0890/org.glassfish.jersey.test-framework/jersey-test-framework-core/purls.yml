@@ -167,6 +167,8 @@
 - pkg:maven/org.glassfish.jersey.test-framework/jersey-test-framework-core@2.37?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework/jersey-test-framework-core@2.38
 - pkg:maven/org.glassfish.jersey.test-framework/jersey-test-framework-core@2.38?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework/jersey-test-framework-core@2.39
+- pkg:maven/org.glassfish.jersey.test-framework/jersey-test-framework-core@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework/jersey-test-framework-core@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework/jersey-test-framework-core@2.4
 - pkg:maven/org.glassfish.jersey.test-framework/jersey-test-framework-core@2.4.1

@@ -1,1 +1,2 @@
 - pkg:maven/com.foxnicweb.web/service-pcm@1.7.0.RELEASE?classifier=sources
+- pkg:maven/com.foxnicweb.web/service-pcm@1.7.1.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/sentry__replay@7.41.0
+- pkg:maven/org.webjars.npm/sentry__replay@7.41.0?classifier=sources

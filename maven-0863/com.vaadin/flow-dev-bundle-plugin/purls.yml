@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin/flow-dev-bundle-plugin@24.0.0
+- pkg:maven/com.vaadin/flow-dev-bundle-plugin@24.0.0?classifier=sources

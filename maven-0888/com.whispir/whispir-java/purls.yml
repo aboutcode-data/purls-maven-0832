@@ -1,1 +1,2 @@
 - pkg:maven/com.whispir/whispir-java@1.0.0?classifier=sources
+- pkg:maven/com.whispir/whispir-java@1.1.1?classifier=sources

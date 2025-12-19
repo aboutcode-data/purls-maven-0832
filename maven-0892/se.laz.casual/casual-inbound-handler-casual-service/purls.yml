@@ -1,0 +1,2 @@
+- pkg:maven/se.laz.casual/casual-inbound-handler-casual-service@2.2.16-RC1?classifier=sources
+- pkg:maven/se.laz.casual/casual-inbound-handler-casual-service@2.2.16?classifier=sources

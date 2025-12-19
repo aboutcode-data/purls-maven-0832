@@ -1,0 +1,6 @@
+- pkg:maven/com.arangodb/core@7.0.0-ALPHA.3
+- pkg:maven/com.arangodb/core@7.0.0-ALPHA.3?classifier=sources
+- pkg:maven/com.arangodb/core@7.0.0-ALPHA.4
+- pkg:maven/com.arangodb/core@7.0.0-ALPHA.4?classifier=sources
+- pkg:maven/com.arangodb/core@7.0.0-RC.1
+- pkg:maven/com.arangodb/core@7.0.0-RC.1?classifier=sources

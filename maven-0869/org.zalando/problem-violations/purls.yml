@@ -20,3 +20,5 @@
 - pkg:maven/org.zalando/problem-violations@0.27.0?classifier=sources
 - pkg:maven/org.zalando/problem-violations@0.28.0-RC.0
 - pkg:maven/org.zalando/problem-violations@0.28.0-RC.0?classifier=sources
+- pkg:maven/org.zalando/problem-violations@0.28.0-RC.1
+- pkg:maven/org.zalando/problem-violations@0.28.0-RC.1?classifier=sources

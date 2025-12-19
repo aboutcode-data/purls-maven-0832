@@ -12,3 +12,4 @@
 - pkg:maven/com.windowsazure/Notification-Hubs-java-sdk@0.4.2?classifier=sources
 - pkg:maven/com.windowsazure/Notification-Hubs-java-sdk@1.0.3
 - pkg:maven/com.windowsazure/Notification-Hubs-java-sdk@1.0.3?classifier=sources
+- pkg:maven/com.windowsazure/Notification-Hubs-java-sdk@1.0.4?classifier=sources

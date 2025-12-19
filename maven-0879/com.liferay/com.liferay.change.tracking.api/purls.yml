@@ -133,6 +133,12 @@
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@15.7.0
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@15.7.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@15.7.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.change.tracking.api@15.8.0
+- pkg:maven/com.liferay/com.liferay.change.tracking.api@15.8.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.api@15.8.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.change.tracking.api@16.0.0
+- pkg:maven/com.liferay/com.liferay.change.tracking.api@16.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.api@16.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@2.0.0?classifier=sources-commercial

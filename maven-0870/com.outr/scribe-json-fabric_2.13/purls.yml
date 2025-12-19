@@ -1,0 +1,4 @@
+- pkg:maven/com.outr/scribe-json-fabric_2.13@3.11.0
+- pkg:maven/com.outr/scribe-json-fabric_2.13@3.11.0?classifier=sources
+- pkg:maven/com.outr/scribe-json-fabric_2.13@3.11.1
+- pkg:maven/com.outr/scribe-json-fabric_2.13@3.11.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.pulumi/kafka@3.4.0-alpha.1673556106%2B5e32e354?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.4.0-alpha.1675204945%2B8ec49c98?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.4.0?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.5.0-alpha.1677783570%2B14ec379a?classifier=sources

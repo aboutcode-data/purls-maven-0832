@@ -1,1 +1,2 @@
 - pkg:maven/com.linecorp.kotlin-jdsl/hibernate-reactive-kotlin-jdsl-jakarta@2.2.0.RELEASE?classifier=sources
+- pkg:maven/com.linecorp.kotlin-jdsl/hibernate-reactive-kotlin-jdsl-jakarta@2.2.1.RELEASE?classifier=sources

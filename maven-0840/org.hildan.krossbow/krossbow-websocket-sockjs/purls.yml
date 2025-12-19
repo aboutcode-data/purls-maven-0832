@@ -35,3 +35,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs@4.4.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs@4.5.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs@5.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs@5.1.0?classifier=sources

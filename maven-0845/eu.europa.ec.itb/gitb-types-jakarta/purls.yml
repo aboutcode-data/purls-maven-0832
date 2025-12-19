@@ -1,0 +1,2 @@
+- pkg:maven/eu.europa.ec.itb/gitb-types-jakarta@1.18.1
+- pkg:maven/eu.europa.ec.itb/gitb-types-jakarta@1.18.1?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/one.gfw/wtfbd@1.1-RELEASE?classifier=sources
 - pkg:maven/one.gfw/wtfbd@1.2-RELEASE
 - pkg:maven/one.gfw/wtfbd@1.2-RELEASE?classifier=sources
+- pkg:maven/one.gfw/wtfbd@1.3-RELEASE
+- pkg:maven/one.gfw/wtfbd@1.3-RELEASE?classifier=sources
+- pkg:maven/one.gfw/wtfbd@1.4-RELEASE
+- pkg:maven/one.gfw/wtfbd@1.4-RELEASE?classifier=sources

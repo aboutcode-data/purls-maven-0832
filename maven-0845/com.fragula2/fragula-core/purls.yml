@@ -12,3 +12,4 @@
 - pkg:maven/com.fragula2/fragula-core@2.4.1?classifier=sources
 - pkg:maven/com.fragula2/fragula-core@2.4?classifier=sources
 - pkg:maven/com.fragula2/fragula-core@2.5?classifier=sources
+- pkg:maven/com.fragula2/fragula-core@2.6?classifier=sources

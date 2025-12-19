@@ -23,4 +23,15 @@
 - pkg:maven/org.webpieces.core/core-ssl@2.1.35?classifier=sources
 - pkg:maven/org.webpieces.core/core-ssl@2.1.36?classifier=sources
 - pkg:maven/org.webpieces.core/core-ssl@2.1.37?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.38?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.39?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.40?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.42?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.43?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.46?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.47?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.48?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.49?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.50?classifier=sources
+- pkg:maven/org.webpieces.core/core-ssl@2.1.51?classifier=sources
 - pkg:maven/org.webpieces.core/core-ssl@2.1.8?classifier=sources

@@ -6,3 +6,9 @@
 - pkg:maven/de.c-otto/java-conventions@2023.02.04_3?classifier=sources
 - pkg:maven/de.c-otto/java-conventions@2023.02.05?classifier=sources
 - pkg:maven/de.c-otto/java-conventions@2023.02.05_2?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.02.14?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.02.25?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.02.25_3?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.02.27?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.02.28?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2023.03.04?classifier=sources

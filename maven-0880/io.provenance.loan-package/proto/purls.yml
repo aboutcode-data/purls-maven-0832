@@ -17,3 +17,6 @@
 - pkg:maven/io.provenance.loan-package/proto@0.5.1?classifier=sources
 - pkg:maven/io.provenance.loan-package/proto@0.6.0?classifier=sources
 - pkg:maven/io.provenance.loan-package/proto@0.6.1?classifier=sources
+- pkg:maven/io.provenance.loan-package/proto@1.0.1-rc.1?classifier=sources
+- pkg:maven/io.provenance.loan-package/proto@1.0.1?classifier=sources
+- pkg:maven/io.provenance.loan-package/proto@1.0.2?classifier=sources

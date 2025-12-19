@@ -1,0 +1,2 @@
+- pkg:maven/com.hkupty.penna/penna-core@0.4?classifier=sources
+- pkg:maven/com.hkupty.penna/penna-core@0.5?classifier=sources

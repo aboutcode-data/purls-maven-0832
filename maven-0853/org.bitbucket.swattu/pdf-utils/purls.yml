@@ -180,3 +180,5 @@
 - pkg:maven/org.bitbucket.swattu/pdf-utils@5.0.0?classifier=sources
 - pkg:maven/org.bitbucket.swattu/pdf-utils@5.0.1
 - pkg:maven/org.bitbucket.swattu/pdf-utils@5.0.1?classifier=sources
+- pkg:maven/org.bitbucket.swattu/pdf-utils@6.0.1
+- pkg:maven/org.bitbucket.swattu/pdf-utils@6.0.1?classifier=sources

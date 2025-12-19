@@ -10,3 +10,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-undertow-cdi@6.2.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-undertow-cdi@6.2.2.Final
 - pkg:maven/org.jboss.resteasy/resteasy-undertow-cdi@6.2.2.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-undertow-cdi@6.2.3.Final
+- pkg:maven/org.jboss.resteasy/resteasy-undertow-cdi@6.2.3.Final?classifier=sources

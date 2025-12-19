@@ -24,6 +24,8 @@
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@19.16.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@19.17.0.0
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@19.17.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/ojdbc8@19.18.0.0
+- pkg:maven/com.oracle.database.jdbc/ojdbc8@19.18.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@19.3.0.0
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@19.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@19.6.0.0
@@ -52,3 +54,5 @@
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@21.7.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@21.8.0.0
 - pkg:maven/com.oracle.database.jdbc/ojdbc8@21.8.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/ojdbc8@21.9.0.0
+- pkg:maven/com.oracle.database.jdbc/ojdbc8@21.9.0.0?classifier=sources

@@ -202,3 +202,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.api@7.1.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.api@7.1.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.api@7.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.api@8.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.order.api@8.0.0?classifier=sources-commercial

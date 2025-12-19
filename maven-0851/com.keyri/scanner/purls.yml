@@ -30,3 +30,8 @@
 - pkg:maven/com.keyri/scanner@2.5.2?classifier=sources
 - pkg:maven/com.keyri/scanner@2.5.3?classifier=sources
 - pkg:maven/com.keyri/scanner@2.5.4?classifier=sources
+- pkg:maven/com.keyri/scanner@2.5.5?classifier=sources
+- pkg:maven/com.keyri/scanner@2.5.6?classifier=sources
+- pkg:maven/com.keyri/scanner@2.6.0-alpha01?classifier=sources
+- pkg:maven/com.keyri/scanner@2.6.0-alpha02?classifier=sources
+- pkg:maven/com.keyri/scanner@2.6.0-alpha03?classifier=sources

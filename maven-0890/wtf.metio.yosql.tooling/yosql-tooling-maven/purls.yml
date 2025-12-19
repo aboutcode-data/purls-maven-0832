@@ -25,6 +25,12 @@
 - pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.1.25
 - pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.1.25?classifier=sources
 - pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.2.1
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.2.15
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.2.15?classifier=sources
 - pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.2.1?classifier=sources
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.2.22
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.2.22?classifier=sources
 - pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.2.8
 - pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.2.8?classifier=sources
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.3.8
+- pkg:maven/wtf.metio.yosql.tooling/yosql-tooling-maven@2023.3.8?classifier=sources

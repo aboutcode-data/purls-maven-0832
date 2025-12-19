@@ -2,3 +2,7 @@
 - pkg:maven/com.io7m.jsamplebuffer/com.io7m.jsamplebuffer.documentation@0.0.1?type=zip
 - pkg:maven/com.io7m.jsamplebuffer/com.io7m.jsamplebuffer.documentation@0.0.2?classifier=sources
 - pkg:maven/com.io7m.jsamplebuffer/com.io7m.jsamplebuffer.documentation@0.0.2?type=zip
+- pkg:maven/com.io7m.jsamplebuffer/com.io7m.jsamplebuffer.documentation@0.0.3?classifier=sources
+- pkg:maven/com.io7m.jsamplebuffer/com.io7m.jsamplebuffer.documentation@0.0.3?type=zip
+- pkg:maven/com.io7m.jsamplebuffer/com.io7m.jsamplebuffer.documentation@0.0.4?classifier=sources
+- pkg:maven/com.io7m.jsamplebuffer/com.io7m.jsamplebuffer.documentation@0.0.4?type=zip

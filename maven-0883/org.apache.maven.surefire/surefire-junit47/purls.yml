@@ -60,6 +60,7 @@
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@2.8?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@2.9
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@2.9?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M1
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M1?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M2
@@ -76,3 +77,6 @@
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M7?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M8
 - pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M8?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M9
+- pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0-M9?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-junit47@3.0.0?classifier=sources

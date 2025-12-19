@@ -20,3 +20,5 @@
 - pkg:maven/org.infinispan/infinispan-hotrod@14.0.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-hotrod@14.0.6.Final
 - pkg:maven/org.infinispan/infinispan-hotrod@14.0.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-hotrod@14.0.7.Final
+- pkg:maven/org.infinispan/infinispan-hotrod@14.0.7.Final?classifier=sources

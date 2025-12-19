@@ -102,6 +102,8 @@
 - pkg:maven/org.sakaiproject.mailsender/mailsender-api@21.3?classifier=sources
 - pkg:maven/org.sakaiproject.mailsender/mailsender-api@21.4
 - pkg:maven/org.sakaiproject.mailsender/mailsender-api@21.4?classifier=sources
+- pkg:maven/org.sakaiproject.mailsender/mailsender-api@21.5
+- pkg:maven/org.sakaiproject.mailsender/mailsender-api@21.5?classifier=sources
 - pkg:maven/org.sakaiproject.mailsender/mailsender-api@22.0
 - pkg:maven/org.sakaiproject.mailsender/mailsender-api@22.0?classifier=sources
 - pkg:maven/org.sakaiproject.mailsender/mailsender-api@22.1

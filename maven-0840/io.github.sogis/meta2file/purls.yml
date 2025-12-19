@@ -1,3 +1,5 @@
+- pkg:maven/io.github.sogis/meta2file@1.0.100?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.101?classifier=sources
 - pkg:maven/io.github.sogis/meta2file@1.0.62?classifier=sources
 - pkg:maven/io.github.sogis/meta2file@1.0.63?classifier=sources
 - pkg:maven/io.github.sogis/meta2file@1.0.64?classifier=sources
@@ -20,3 +22,11 @@
 - pkg:maven/io.github.sogis/meta2file@1.0.85?classifier=sources
 - pkg:maven/io.github.sogis/meta2file@1.0.86?classifier=sources
 - pkg:maven/io.github.sogis/meta2file@1.0.87?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.88?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.89?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.90?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.91?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.92?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.95?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.97?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.99?classifier=sources

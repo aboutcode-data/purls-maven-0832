@@ -1,1 +1,2 @@
 - pkg:maven/io.github.lambdaprime/jros1client@5.0?classifier=sources
+- pkg:maven/io.github.lambdaprime/jros1client@6.0?classifier=sources

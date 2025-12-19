@@ -1,0 +1,3 @@
+- pkg:maven/org.mvnpm.at.vaadin/icons@23.3.7?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/icons@23.3.8?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/icons@24.0.0?classifier=sources

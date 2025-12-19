@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.esi@0.3.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.esi@0.3.0?classifier=sources

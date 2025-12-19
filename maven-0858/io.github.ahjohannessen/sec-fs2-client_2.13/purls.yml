@@ -178,6 +178,14 @@
 - pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.24.7?classifier=sources
 - pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.24.8
 - pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.24.8?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.25.0
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.25.0?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.25.1
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.25.1?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.25.2
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.25.2?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.25.3
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.25.3?classifier=sources
 - pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.3.1
 - pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.3.1?classifier=sources
 - pkg:maven/io.github.ahjohannessen/sec-fs2-client_2.13@0.4.0

@@ -1,0 +1,1 @@
+- pkg:maven/io.grpc/grpc-servlet-jakarta@1.53.0?classifier=sources

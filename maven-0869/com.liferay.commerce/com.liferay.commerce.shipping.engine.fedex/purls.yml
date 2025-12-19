@@ -80,6 +80,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@2.0.28
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@2.0.28?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@2.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@2.0.29
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@2.0.29?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@2.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@2.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@2.0.3
@@ -115,6 +118,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@3.0.3
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@3.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@3.0.4
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@3.0.4?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@4.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@4.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@4.0.0?classifier=sources-commercial
@@ -218,6 +224,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@5.0.26
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@5.0.26?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@5.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@5.0.27
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@5.0.27?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@5.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@5.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fedex@5.0.3

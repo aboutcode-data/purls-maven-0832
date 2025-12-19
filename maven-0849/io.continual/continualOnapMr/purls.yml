@@ -58,6 +58,8 @@
 - pkg:maven/io.continual/continualOnapMr@0.2.45?classifier=sources
 - pkg:maven/io.continual/continualOnapMr@0.2.46
 - pkg:maven/io.continual/continualOnapMr@0.2.46?classifier=sources
+- pkg:maven/io.continual/continualOnapMr@0.2.47
+- pkg:maven/io.continual/continualOnapMr@0.2.47?classifier=sources
 - pkg:maven/io.continual/continualOnapMr@0.9.0
 - pkg:maven/io.continual/continualOnapMr@0.9.0?classifier=sources
 - pkg:maven/io.continual/continualOnapMr@0.9.1

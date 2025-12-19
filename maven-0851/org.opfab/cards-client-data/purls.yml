@@ -17,6 +17,7 @@
 - pkg:maven/org.opfab/cards-client-data@3.11.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/cards-client-data@3.11.2.RELEASE?classifier=sources
 - pkg:maven/org.opfab/cards-client-data@3.12.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/cards-client-data@3.13.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/cards-client-data@3.2.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/cards-client-data@3.3.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/cards-client-data@3.4.0.RELEASE?classifier=sources

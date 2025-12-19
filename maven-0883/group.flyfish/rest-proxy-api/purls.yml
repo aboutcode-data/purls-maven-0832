@@ -18,3 +18,7 @@
 - pkg:maven/group.flyfish/rest-proxy-api@1.0.8?classifier=sources
 - pkg:maven/group.flyfish/rest-proxy-api@1.0.9
 - pkg:maven/group.flyfish/rest-proxy-api@1.0.9?classifier=sources
+- pkg:maven/group.flyfish/rest-proxy-api@1.1.0
+- pkg:maven/group.flyfish/rest-proxy-api@1.1.0?classifier=sources
+- pkg:maven/group.flyfish/rest-proxy-api@1.1.1
+- pkg:maven/group.flyfish/rest-proxy-api@1.1.1?classifier=sources

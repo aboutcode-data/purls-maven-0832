@@ -25,6 +25,8 @@
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.38-jing8?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.39-jing8?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.3?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.41-jing8?type=aar
+- pkg:maven/com.tencent.svp/svpplayer@0.0.0.42-jing8?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.6?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.7?type=aar
 - pkg:maven/com.tencent.svp/svpplayer@0.0.0.8?type=aar

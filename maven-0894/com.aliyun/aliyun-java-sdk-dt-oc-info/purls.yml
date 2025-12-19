@@ -1,4 +1,6 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dt-oc-info@1.0.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-dt-oc-info@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dt-oc-info@1.0.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-dt-oc-info@1.0.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dt-oc-info@1.7.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-dt-oc-info@1.7.0?classifier=sources

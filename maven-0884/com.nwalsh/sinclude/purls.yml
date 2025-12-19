@@ -12,3 +12,6 @@
 - pkg:maven/com.nwalsh/sinclude@4.1.0?classifier=sources
 - pkg:maven/com.nwalsh/sinclude@4.2.0?classifier=sources
 - pkg:maven/com.nwalsh/sinclude@4.2.1?classifier=sources
+- pkg:maven/com.nwalsh/sinclude@5.0.0?classifier=sources
+- pkg:maven/com.nwalsh/sinclude@5.1.0?classifier=sources
+- pkg:maven/com.nwalsh/sinclude@5.1.1?classifier=sources

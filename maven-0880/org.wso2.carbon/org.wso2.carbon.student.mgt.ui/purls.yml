@@ -90,10 +90,13 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.8.0-beta
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.8.0-m1
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.8.0-m2
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.8.1
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.0
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.0-alpha
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.0-beta
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.0-m1
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.0-m2
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.0-m3
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.1
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.1-m1
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.3

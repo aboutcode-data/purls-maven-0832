@@ -1,0 +1,2 @@
+- pkg:maven/io.kalix/kalix-spring-boot-starter-test@1.2.0-M1
+- pkg:maven/io.kalix/kalix-spring-boot-starter-test@1.2.0-M1?classifier=sources

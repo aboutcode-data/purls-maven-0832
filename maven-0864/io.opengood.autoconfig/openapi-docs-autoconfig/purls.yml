@@ -10,3 +10,4 @@
 - pkg:maven/io.opengood.autoconfig/openapi-docs-autoconfig@1.4.0?classifier=sources
 - pkg:maven/io.opengood.autoconfig/openapi-docs-autoconfig@1.5.0?classifier=sources
 - pkg:maven/io.opengood.autoconfig/openapi-docs-autoconfig@1.6.0?classifier=sources
+- pkg:maven/io.opengood.autoconfig/openapi-docs-autoconfig@2.0.0?classifier=sources

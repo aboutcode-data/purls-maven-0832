@@ -1,1 +1,2 @@
 - pkg:maven/com.pallycon/widevine@3.1.0?classifier=sources
+- pkg:maven/com.pallycon/widevine@3.2.0?classifier=sources

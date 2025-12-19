@@ -3,3 +3,4 @@
 - pkg:maven/com.ionspin.kotlin/bignum-serialization-kotlinx-mingwx64@0.3.4?classifier=sources
 - pkg:maven/com.ionspin.kotlin/bignum-serialization-kotlinx-mingwx64@0.3.6?classifier=sources
 - pkg:maven/com.ionspin.kotlin/bignum-serialization-kotlinx-mingwx64@0.3.7?classifier=sources
+- pkg:maven/com.ionspin.kotlin/bignum-serialization-kotlinx-mingwx64@0.3.8?classifier=sources

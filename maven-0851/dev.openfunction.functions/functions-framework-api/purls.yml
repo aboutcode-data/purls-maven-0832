@@ -1,2 +1,6 @@
+- pkg:maven/dev.openfunction.functions/functions-framework-api@1.0.0
 - pkg:maven/dev.openfunction.functions/functions-framework-api@1.0.0-SNAPSHOTS
 - pkg:maven/dev.openfunction.functions/functions-framework-api@1.0.0-SNAPSHOTS?classifier=sources
+- pkg:maven/dev.openfunction.functions/functions-framework-api@1.0.0?classifier=sources
+- pkg:maven/dev.openfunction.functions/functions-framework-api@1.0.1
+- pkg:maven/dev.openfunction.functions/functions-framework-api@1.0.1?classifier=sources

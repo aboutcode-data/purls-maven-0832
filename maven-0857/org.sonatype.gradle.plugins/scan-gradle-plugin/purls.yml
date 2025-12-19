@@ -66,3 +66,4 @@
 - pkg:maven/org.sonatype.gradle.plugins/scan-gradle-plugin@2.5.3?classifier=sources
 - pkg:maven/org.sonatype.gradle.plugins/scan-gradle-plugin@2.5.4?classifier=sources
 - pkg:maven/org.sonatype.gradle.plugins/scan-gradle-plugin@2.5.5?classifier=sources
+- pkg:maven/org.sonatype.gradle.plugins/scan-gradle-plugin@2.6.0?classifier=sources

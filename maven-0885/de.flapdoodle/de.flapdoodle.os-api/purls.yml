@@ -1,0 +1,4 @@
+- pkg:maven/de.flapdoodle/de.flapdoodle.os-api@1.3.0
+- pkg:maven/de.flapdoodle/de.flapdoodle.os-api@1.3.0?classifier=sources
+- pkg:maven/de.flapdoodle/de.flapdoodle.os-api@1.3.1
+- pkg:maven/de.flapdoodle/de.flapdoodle.os-api@1.3.1?classifier=sources

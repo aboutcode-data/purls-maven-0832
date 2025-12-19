@@ -14,3 +14,5 @@
 - pkg:maven/org.openrefine/pc-axis@3.7-beta1?classifier=sources
 - pkg:maven/org.openrefine/pc-axis@3.7-beta2
 - pkg:maven/org.openrefine/pc-axis@3.7-beta2?classifier=sources
+- pkg:maven/org.openrefine/pc-axis@3.7.0
+- pkg:maven/org.openrefine/pc-axis@3.7.0?classifier=sources

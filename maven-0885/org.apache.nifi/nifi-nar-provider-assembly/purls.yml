@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-nar-provider-assembly@1.20.0
+- pkg:maven/org.apache.nifi/nifi-nar-provider-assembly@1.20.0?classifier=sources

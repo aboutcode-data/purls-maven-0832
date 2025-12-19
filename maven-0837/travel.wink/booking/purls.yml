@@ -4,3 +4,9 @@
 - pkg:maven/travel.wink/booking@22.0.1?classifier=sources
 - pkg:maven/travel.wink/booking@23.1.1
 - pkg:maven/travel.wink/booking@23.1.1?classifier=sources
+- pkg:maven/travel.wink/booking@24.0.0
+- pkg:maven/travel.wink/booking@24.0.0?classifier=sources
+- pkg:maven/travel.wink/booking@24.3.2
+- pkg:maven/travel.wink/booking@24.3.2?classifier=sources
+- pkg:maven/travel.wink/booking@24.7.0
+- pkg:maven/travel.wink/booking@24.7.0?classifier=sources

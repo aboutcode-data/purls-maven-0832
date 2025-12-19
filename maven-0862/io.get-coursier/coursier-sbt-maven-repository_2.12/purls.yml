@@ -1,0 +1,2 @@
+- pkg:maven/io.get-coursier/coursier-sbt-maven-repository_2.12@2.1.0-RC6
+- pkg:maven/io.get-coursier/coursier-sbt-maven-repository_2.12@2.1.0-RC6?classifier=sources

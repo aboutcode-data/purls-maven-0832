@@ -2,6 +2,7 @@
 - pkg:maven/org.docbook/schemas-publishers@5.2CR2?classifier=sources
 - pkg:maven/org.docbook/schemas-publishers@5.2CR3?classifier=sources
 - pkg:maven/org.docbook/schemas-publishers@5.2CR4?classifier=sources
+- pkg:maven/org.docbook/schemas-publishers@5.2CR5?classifier=sources
 - pkg:maven/org.docbook/schemas-publishers@5.2b10a4?classifier=sources
 - pkg:maven/org.docbook/schemas-publishers@5.2b10a5?classifier=sources
 - pkg:maven/org.docbook/schemas-publishers@5.2b11?classifier=sources

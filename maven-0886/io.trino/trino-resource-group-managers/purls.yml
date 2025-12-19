@@ -53,3 +53,7 @@
 - pkg:maven/io.trino/trino-resource-group-managers@403?classifier=sources
 - pkg:maven/io.trino/trino-resource-group-managers@405?classifier=sources
 - pkg:maven/io.trino/trino-resource-group-managers@406?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@407?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@408?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@409?classifier=sources
+- pkg:maven/io.trino/trino-resource-group-managers@410?classifier=sources

@@ -168,6 +168,7 @@
 - pkg:maven/io.grpc/grpc-services@1.51.3?classifier=sources
 - pkg:maven/io.grpc/grpc-services@1.52.0?classifier=sources
 - pkg:maven/io.grpc/grpc-services@1.52.1?classifier=sources
+- pkg:maven/io.grpc/grpc-services@1.53.0?classifier=sources
 - pkg:maven/io.grpc/grpc-services@1.6.0
 - pkg:maven/io.grpc/grpc-services@1.6.0?classifier=sources
 - pkg:maven/io.grpc/grpc-services@1.6.1

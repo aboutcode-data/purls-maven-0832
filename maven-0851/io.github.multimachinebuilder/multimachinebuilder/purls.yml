@@ -1,0 +1,2 @@
+- pkg:maven/io.github.multimachinebuilder/multimachinebuilder@0.5
+- pkg:maven/io.github.multimachinebuilder/multimachinebuilder@0.5?classifier=sources

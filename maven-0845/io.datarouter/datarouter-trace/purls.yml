@@ -34,6 +34,8 @@
 - pkg:maven/io.datarouter/datarouter-trace@0.0.117?classifier=sources
 - pkg:maven/io.datarouter/datarouter-trace@0.0.118
 - pkg:maven/io.datarouter/datarouter-trace@0.0.118?classifier=sources
+- pkg:maven/io.datarouter/datarouter-trace@0.0.119
+- pkg:maven/io.datarouter/datarouter-trace@0.0.119?classifier=sources
 - pkg:maven/io.datarouter/datarouter-trace@0.0.24
 - pkg:maven/io.datarouter/datarouter-trace@0.0.24?classifier=sources
 - pkg:maven/io.datarouter/datarouter-trace@0.0.25

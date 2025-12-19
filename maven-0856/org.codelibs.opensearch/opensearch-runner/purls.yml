@@ -40,3 +40,5 @@
 - pkg:maven/org.codelibs.opensearch/opensearch-runner@2.4.1.0?classifier=sources
 - pkg:maven/org.codelibs.opensearch/opensearch-runner@2.5.0.0
 - pkg:maven/org.codelibs.opensearch/opensearch-runner@2.5.0.0?classifier=sources
+- pkg:maven/org.codelibs.opensearch/opensearch-runner@2.6.0.0
+- pkg:maven/org.codelibs.opensearch/opensearch-runner@2.6.0.0?classifier=sources

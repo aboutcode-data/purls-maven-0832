@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/media4s_2.13@1.0.18
+- pkg:maven/com.outr/media4s_2.13@1.0.18?classifier=sources

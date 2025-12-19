@@ -3,3 +3,4 @@
 - pkg:maven/org.cthul/cthul-monad@2.1.0?classifier=sources
 - pkg:maven/org.cthul/cthul-monad@2.2.0?classifier=sources
 - pkg:maven/org.cthul/cthul-monad@2.3.0?classifier=sources
+- pkg:maven/org.cthul/cthul-monad@2.4.0?classifier=sources
