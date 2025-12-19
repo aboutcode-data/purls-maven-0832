@@ -28,3 +28,5 @@
 - pkg:maven/cn.majingjing/http-client@1.2.1?classifier=sources
 - pkg:maven/cn.majingjing/http-client@1.4.1
 - pkg:maven/cn.majingjing/http-client@1.4.1?classifier=sources
+- pkg:maven/cn.majingjing/http-client@1.4.2
+- pkg:maven/cn.majingjing/http-client@1.4.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.2-SP.9
+- pkg:maven/io.cronapp/cronapi-sap-rfc@2.9.2-SP.9?classifier=sources

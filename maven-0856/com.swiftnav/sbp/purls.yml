@@ -1,4 +1,5 @@
 - pkg:maven/com.swiftnav/sbp@1.0.0?classifier=sources
+- pkg:maven/com.swiftnav/sbp@4.10.0-1-g7501110f?classifier=sources
 - pkg:maven/com.swiftnav/sbp@4.2.0?classifier=sources
 - pkg:maven/com.swiftnav/sbp@4.3.0-14-g1403d762?classifier=sources
 - pkg:maven/com.swiftnav/sbp@4.3.0?classifier=sources

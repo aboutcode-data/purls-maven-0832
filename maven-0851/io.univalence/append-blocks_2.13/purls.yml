@@ -1,0 +1,2 @@
+- pkg:maven/io.univalence/append-blocks_2.13@0.9.3
+- pkg:maven/io.univalence/append-blocks_2.13@0.9.3?classifier=sources

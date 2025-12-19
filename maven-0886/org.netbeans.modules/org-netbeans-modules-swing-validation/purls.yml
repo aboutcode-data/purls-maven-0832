@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-swing-validation@RELEASE90?classifier=sources

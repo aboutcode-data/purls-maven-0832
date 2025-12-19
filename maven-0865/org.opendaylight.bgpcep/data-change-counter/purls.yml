@@ -84,11 +84,14 @@
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.17.6
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.17.6?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.17.7?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.17.8?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.18.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.18.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.18.2?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.18.3
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.18.3?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.18.4
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.18.4?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.3.1-Helium
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.3.1-Helium?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.3.2-Helium-SR1

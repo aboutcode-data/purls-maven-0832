@@ -435,6 +435,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.32.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.33.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.33.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.34.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.34.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.34.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.34.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.4.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.4.1

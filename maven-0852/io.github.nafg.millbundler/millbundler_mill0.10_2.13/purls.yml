@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nafg.millbundler/millbundler_mill0.10_2.13@0.1.0
+- pkg:maven/io.github.nafg.millbundler/millbundler_mill0.10_2.13@0.1.0?classifier=sources

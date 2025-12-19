@@ -113,6 +113,13 @@
 - pkg:maven/org.http4k/http4k-realtime-core@4.34.0.3?classifier=sources
 - pkg:maven/org.http4k/http4k-realtime-core@4.34.0.4?classifier=sources
 - pkg:maven/org.http4k/http4k-realtime-core@4.34.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-realtime-core@4.34.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-realtime-core@4.34.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-realtime-core@4.34.3.1?classifier=sources
+- pkg:maven/org.http4k/http4k-realtime-core@4.34.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-realtime-core@4.35.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-realtime-core@4.35.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-realtime-core@4.35.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-realtime-core@4.8.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-realtime-core@4.8.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-realtime-core@4.8.2.0?classifier=sources

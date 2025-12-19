@@ -1,0 +1,1 @@
+- pkg:maven/com.lapanthere/flink-kotlin@0.2.1?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.40.0?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.40.1
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.40.1?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.41.0
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.41.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.42.0
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.42.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.43.0
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.43.0?classifier=sources

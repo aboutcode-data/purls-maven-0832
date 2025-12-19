@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jkugiya/aws-v4-signer-scala_2.13@0.14
+- pkg:maven/com.github.jkugiya/aws-v4-signer-scala_2.13@0.14?classifier=sources

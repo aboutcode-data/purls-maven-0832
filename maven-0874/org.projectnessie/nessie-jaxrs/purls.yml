@@ -60,6 +60,9 @@
 - pkg:maven/org.projectnessie/nessie-jaxrs@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-jaxrs@0.43.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-jaxrs@0.44.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.45.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.46.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-jaxrs@0.46.2?classifier=sources
 - pkg:maven/org.projectnessie/nessie-jaxrs@0.8.2
 - pkg:maven/org.projectnessie/nessie-jaxrs@0.8.2?classifier=sources
 - pkg:maven/org.projectnessie/nessie-jaxrs@0.8.3

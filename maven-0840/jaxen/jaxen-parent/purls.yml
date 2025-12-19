@@ -1,2 +1,4 @@
 - pkg:maven/jaxen/jaxen-parent@2.0.0-beta-1?classifier=src&type=tar.gz
 - pkg:maven/jaxen/jaxen-parent@2.0.0-beta-1?classifier=src&type=zip
+- pkg:maven/jaxen/jaxen-parent@2.0.0?classifier=src&type=tar.gz
+- pkg:maven/jaxen/jaxen-parent@2.0.0?classifier=src&type=zip

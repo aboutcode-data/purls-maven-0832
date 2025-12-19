@@ -23,3 +23,5 @@
 - pkg:maven/io.micronaut.azure/micronaut-azure-function-http@3.4.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-function-http@3.5.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-function-http@3.6.0?classifier=sources
+- pkg:maven/io.micronaut.azure/micronaut-azure-function-http@3.7.0?classifier=sources
+- pkg:maven/io.micronaut.azure/micronaut-azure-function-http@4.0.0?classifier=sources

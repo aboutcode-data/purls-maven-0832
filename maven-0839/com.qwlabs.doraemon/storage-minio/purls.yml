@@ -1,0 +1,6 @@
+- pkg:maven/com.qwlabs.doraemon/storage-minio@0.1.55?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/storage-minio@0.1.56?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/storage-minio@0.1.57?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/storage-minio@0.1.58?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/storage-minio@0.1.59?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/storage-minio@0.1.60?classifier=sources

@@ -134,6 +134,8 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@22.0.37?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@22.0.39
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@22.0.39?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@22.0.41
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@22.0.41?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@9.0.0.015_Simrel_2019_06_M3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@9.0.0.015_Simrel_2019_06_M3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@9.0.0.016_Simrel_2019_06_RC1

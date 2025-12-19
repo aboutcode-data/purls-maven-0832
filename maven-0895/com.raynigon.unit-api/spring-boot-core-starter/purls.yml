@@ -1,2 +1,3 @@
 - pkg:maven/com.raynigon.unit-api/spring-boot-core-starter@2.0.0?classifier=sources
 - pkg:maven/com.raynigon.unit-api/spring-boot-core-starter@2.0.1?classifier=sources
+- pkg:maven/com.raynigon.unit-api/spring-boot-core-starter@3.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/top.redscorpion.boot/redscorpion-boot-config@0.0.8?classifier=sources
 - pkg:maven/top.redscorpion.boot/redscorpion-boot-config@0.0.9?classifier=sources
 - pkg:maven/top.redscorpion.boot/redscorpion-boot-config@0.1.0?classifier=sources
+- pkg:maven/top.redscorpion.boot/redscorpion-boot-config@0.1.1?classifier=sources
+- pkg:maven/top.redscorpion.boot/redscorpion-boot-config@0.1.2?classifier=sources

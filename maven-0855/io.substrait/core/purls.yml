@@ -1,0 +1,2 @@
+- pkg:maven/io.substrait/core@0.1.4?classifier=sources
+- pkg:maven/io.substrait/core@0.2.0?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/org.junit-pioneer/junit-pioneer@1.7.2?classifier=sources
 - pkg:maven/org.junit-pioneer/junit-pioneer@1.8.0?classifier=sources
 - pkg:maven/org.junit-pioneer/junit-pioneer@1.9.0?classifier=sources
+- pkg:maven/org.junit-pioneer/junit-pioneer@1.9.1?classifier=sources
+- pkg:maven/org.junit-pioneer/junit-pioneer@2.0.0-RC1?classifier=sources

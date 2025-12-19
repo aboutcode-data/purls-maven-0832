@@ -179,6 +179,10 @@
 - pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.2.3?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.2.4?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.0?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.10?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.11?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.12?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.13?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.3?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.4?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.5?classifier=sources
@@ -186,3 +190,5 @@
 - pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.7?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.8?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.3.9?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@8.4.0?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/mindiff-macosx64@9.0.2?classifier=sources

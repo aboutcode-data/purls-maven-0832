@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.readmetool@3.5.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.readmetool@3.6.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.readmetool@3.6.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.readmetool@3.6.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.readmetool@3.6.100?classifier=sources

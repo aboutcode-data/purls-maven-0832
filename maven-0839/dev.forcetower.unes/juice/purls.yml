@@ -1,1 +1,2 @@
 - pkg:maven/dev.forcetower.unes/juice@1.7.1?classifier=sources
+- pkg:maven/dev.forcetower.unes/juice@1.8.0?classifier=sources

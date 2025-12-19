@@ -12,3 +12,7 @@
 - pkg:maven/com.github.ants-double/mainhua@1.06?classifier=sources
 - pkg:maven/com.github.ants-double/mainhua@1.07
 - pkg:maven/com.github.ants-double/mainhua@1.07?classifier=sources
+- pkg:maven/com.github.ants-double/mainhua@2.0
+- pkg:maven/com.github.ants-double/mainhua@2.0?classifier=sources
+- pkg:maven/com.github.ants-double/mainhua@2.1
+- pkg:maven/com.github.ants-double/mainhua@2.1?classifier=sources

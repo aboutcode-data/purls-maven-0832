@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.linkmove/bootique-linkmove2@3.0.M1
+- pkg:maven/io.bootique.linkmove/bootique-linkmove2@3.0.M1?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/software.amazon.awscdk/location-alpha@2.54.0-alpha.0
+- pkg:maven/software.amazon.awscdk/location-alpha@2.54.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/location-alpha@2.55.0-alpha.0
+- pkg:maven/software.amazon.awscdk/location-alpha@2.55.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/location-alpha@2.55.1-alpha.0
+- pkg:maven/software.amazon.awscdk/location-alpha@2.55.1-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/location-alpha@2.56.0-alpha.0
+- pkg:maven/software.amazon.awscdk/location-alpha@2.56.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/location-alpha@2.56.1-alpha.0
+- pkg:maven/software.amazon.awscdk/location-alpha@2.56.1-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/location-alpha@2.57.0-alpha.0
+- pkg:maven/software.amazon.awscdk/location-alpha@2.57.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/location-alpha@2.58.0-alpha.0
+- pkg:maven/software.amazon.awscdk/location-alpha@2.58.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/location-alpha@2.58.1-alpha.0
+- pkg:maven/software.amazon.awscdk/location-alpha@2.58.1-alpha.0?classifier=sources

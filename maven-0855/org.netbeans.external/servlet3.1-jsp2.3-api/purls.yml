@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.external/servlet3.1-jsp2.3-api@RELEASE130
 - pkg:maven/org.netbeans.external/servlet3.1-jsp2.3-api@RELEASE140
 - pkg:maven/org.netbeans.external/servlet3.1-jsp2.3-api@RELEASE150
+- pkg:maven/org.netbeans.external/servlet3.1-jsp2.3-api@RELEASE160

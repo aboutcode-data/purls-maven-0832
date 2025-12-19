@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/discoveryjs__json-ext@0.5.2
 - pkg:maven/org.webjars.npm/discoveryjs__json-ext@0.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/discoveryjs__json-ext@0.5.7
+- pkg:maven/org.webjars.npm/discoveryjs__json-ext@0.5.7?classifier=sources

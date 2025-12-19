@@ -1,1 +1,2 @@
 - pkg:maven/org.gretty/gretty-runner-jetty10@3.1.0?classifier=sources
+- pkg:maven/org.gretty/gretty-runner-jetty10@3.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.1.4
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.1.4?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.1.5
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.1.5?classifier=sources

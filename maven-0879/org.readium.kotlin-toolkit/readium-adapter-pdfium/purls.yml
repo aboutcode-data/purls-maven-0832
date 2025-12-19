@@ -1,0 +1,1 @@
+- pkg:maven/org.readium.kotlin-toolkit/readium-adapter-pdfium@2.3.0?classifier=sources

@@ -510,6 +510,8 @@
 - pkg:maven/com.daml/daml-lf-interface_2.13@2.3.6?classifier=sources
 - pkg:maven/com.daml/daml-lf-interface_2.13@2.3.7
 - pkg:maven/com.daml/daml-lf-interface_2.13@2.3.7?classifier=sources
+- pkg:maven/com.daml/daml-lf-interface_2.13@2.3.8
+- pkg:maven/com.daml/daml-lf-interface_2.13@2.3.8?classifier=sources
 - pkg:maven/com.daml/daml-lf-interface_2.13@2.4.0
 - pkg:maven/com.daml/daml-lf-interface_2.13@2.4.0-snapshot.20220622.10127.0.c2cd6141
 - pkg:maven/com.daml/daml-lf-interface_2.13@2.4.0-snapshot.20220622.10127.0.c2cd6141?classifier=sources

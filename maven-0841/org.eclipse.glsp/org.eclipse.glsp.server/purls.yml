@@ -7,3 +7,4 @@
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@1.0.0?classifier=sources
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@1.1.0.RC01?classifier=sources
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@1.1.0.RC02?classifier=sources
+- pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@1.1.0.RC03?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-vcs@8.10.0.56343?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-vcs@8.11.0.56591?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-vcs@8.12.0.58811?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-vcs@8.2.0.43778?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-vcs@8.3.0.45095?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-vcs@8.4.0.45663?classifier=sources

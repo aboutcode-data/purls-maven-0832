@@ -1,0 +1,6 @@
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-bdyun@1.0.0
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-bdyun@1.0.0-jdk17
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-bdyun@1.0.0-jdk17?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-bdyun@1.0.0?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-bdyun@1.0.1-jdk17
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-bdyun@1.0.1-jdk17?classifier=sources

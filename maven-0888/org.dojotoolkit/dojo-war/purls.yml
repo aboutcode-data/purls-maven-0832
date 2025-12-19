@@ -59,6 +59,8 @@
 - pkg:maven/org.dojotoolkit/dojo-war@1.17.1?type=war
 - pkg:maven/org.dojotoolkit/dojo-war@1.17.2?classifier=sources
 - pkg:maven/org.dojotoolkit/dojo-war@1.17.2?type=war
+- pkg:maven/org.dojotoolkit/dojo-war@1.17.3?classifier=sources
+- pkg:maven/org.dojotoolkit/dojo-war@1.17.3?type=war
 - pkg:maven/org.dojotoolkit/dojo-war@1.2.0?type=war
 - pkg:maven/org.dojotoolkit/dojo-war@1.2.0b2?type=war
 - pkg:maven/org.dojotoolkit/dojo-war@1.2.3?type=war

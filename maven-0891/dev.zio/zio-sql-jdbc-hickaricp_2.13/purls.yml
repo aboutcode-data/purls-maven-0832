@@ -1,2 +1,6 @@
 - pkg:maven/dev.zio/zio-sql-jdbc-hickaricp_2.13@0.0.3
 - pkg:maven/dev.zio/zio-sql-jdbc-hickaricp_2.13@0.0.3?classifier=sources
+- pkg:maven/dev.zio/zio-sql-jdbc-hickaricp_2.13@0.1.0
+- pkg:maven/dev.zio/zio-sql-jdbc-hickaricp_2.13@0.1.0?classifier=sources
+- pkg:maven/dev.zio/zio-sql-jdbc-hickaricp_2.13@0.1.1
+- pkg:maven/dev.zio/zio-sql-jdbc-hickaricp_2.13@0.1.1?classifier=sources

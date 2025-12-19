@@ -1,0 +1,4 @@
+- pkg:maven/cn.ezeyc/enc-maven-plugin@1
+- pkg:maven/cn.ezeyc/enc-maven-plugin@1.0.1
+- pkg:maven/cn.ezeyc/enc-maven-plugin@1.0.1?classifier=sources
+- pkg:maven/cn.ezeyc/enc-maven-plugin@1?classifier=sources

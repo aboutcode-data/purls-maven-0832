@@ -163,3 +163,5 @@
 - pkg:maven/org.mongodb/mongodb-driver-sync@4.8.0-rc0
 - pkg:maven/org.mongodb/mongodb-driver-sync@4.8.0-rc0?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-sync@4.8.0?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-sync@4.8.1
+- pkg:maven/org.mongodb/mongodb-driver-sync@4.8.1?classifier=sources

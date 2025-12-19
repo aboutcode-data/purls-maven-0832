@@ -1,1 +1,2 @@
 - pkg:maven/io.github.katerinapetrova/mpp-sample-lib-jvm@1.0.0?classifier=sources
+- pkg:maven/io.github.katerinapetrova/mpp-sample-lib-jvm@1.1.0?classifier=sources

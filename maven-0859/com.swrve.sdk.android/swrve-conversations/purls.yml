@@ -5,6 +5,8 @@
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@10.4.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@10.5.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@10.6.0?classifier=sources
+- pkg:maven/com.swrve.sdk.android/swrve-conversations@10.7.0?classifier=sources
+- pkg:maven/com.swrve.sdk.android/swrve-conversations@10.8.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@4.6.2?type=aar
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@4.9.0?type=aar
 - pkg:maven/com.swrve.sdk.android/swrve-conversations@5.3.0?classifier=sources

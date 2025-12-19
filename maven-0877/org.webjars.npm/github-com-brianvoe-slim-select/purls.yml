@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-brianvoe-slim-select@2.0.2
+- pkg:maven/org.webjars.npm/github-com-brianvoe-slim-select@2.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.m-m-m/mmm-value-converter@0.9.0
+- pkg:maven/io.github.m-m-m/mmm-value-converter@0.9.0?classifier=sources

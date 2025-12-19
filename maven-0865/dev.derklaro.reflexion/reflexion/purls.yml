@@ -5,3 +5,5 @@
 - pkg:maven/dev.derklaro.reflexion/reflexion@1.4.0?classifier=sources
 - pkg:maven/dev.derklaro.reflexion/reflexion@1.5.0?classifier=sources
 - pkg:maven/dev.derklaro.reflexion/reflexion@1.6.0?classifier=sources
+- pkg:maven/dev.derklaro.reflexion/reflexion@1.7.0?classifier=sources
+- pkg:maven/dev.derklaro.reflexion/reflexion@1.8.0?classifier=sources

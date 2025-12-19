@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.nifi.minifi/minifi-standard-nar@1.17.0?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-standard-nar@1.18.0?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-standard-nar@1.19.0?classifier=sources
+- pkg:maven/org.apache.nifi.minifi/minifi-standard-nar@1.19.1?classifier=sources

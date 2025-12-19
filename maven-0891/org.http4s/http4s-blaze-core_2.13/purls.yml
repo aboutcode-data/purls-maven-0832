@@ -157,6 +157,8 @@
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@0.23.11?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@0.23.12
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@0.23.12?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-core_2.13@0.23.13
+- pkg:maven/org.http4s/http4s-blaze-core_2.13@0.23.13?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@0.23.1?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@0.23.2
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@0.23.2?classifier=sources
@@ -273,6 +275,8 @@
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M35?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M36
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M36?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M37
+- pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M37?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M3?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M4
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M4?classifier=sources

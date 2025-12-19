@@ -180,3 +180,5 @@
 - pkg:maven/love.forte.simple-robot.http/client-ktor@2.4.0?classifier=sources
 - pkg:maven/love.forte.simple-robot.http/client-ktor@2.5.0
 - pkg:maven/love.forte.simple-robot.http/client-ktor@2.5.0?classifier=sources
+- pkg:maven/love.forte.simple-robot.http/client-ktor@2.5.1
+- pkg:maven/love.forte.simple-robot.http/client-ktor@2.5.1?classifier=sources

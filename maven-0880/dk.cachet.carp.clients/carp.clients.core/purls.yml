@@ -9,3 +9,4 @@
 - pkg:maven/dk.cachet.carp.clients/carp.clients.core@1.0.0-alpha.39?classifier=sources
 - pkg:maven/dk.cachet.carp.clients/carp.clients.core@1.0.0-alpha.40?classifier=sources
 - pkg:maven/dk.cachet.carp.clients/carp.clients.core@1.1.0-alpha.1?classifier=sources
+- pkg:maven/dk.cachet.carp.clients/carp.clients.core@1.1.1-alpha.1?classifier=sources

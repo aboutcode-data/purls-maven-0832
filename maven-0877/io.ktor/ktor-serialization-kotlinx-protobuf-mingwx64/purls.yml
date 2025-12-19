@@ -1,0 +1,2 @@
+- pkg:maven/io.ktor/ktor-serialization-kotlinx-protobuf-mingwx64@2.2.0?classifier=sources
+- pkg:maven/io.ktor/ktor-serialization-kotlinx-protobuf-mingwx64@2.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/it.sephiroth.android.library.asm/asm-commons@2.0.2?classifier=sources
+- pkg:maven/it.sephiroth.android.library.asm/asm-commons@2.0.3?classifier=sources

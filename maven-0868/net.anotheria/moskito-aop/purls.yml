@@ -130,3 +130,5 @@
 - pkg:maven/net.anotheria/moskito-aop@2.9.3?classifier=sources
 - pkg:maven/net.anotheria/moskito-aop@3.0.0
 - pkg:maven/net.anotheria/moskito-aop@3.0.0?classifier=sources
+- pkg:maven/net.anotheria/moskito-aop@3.1.0
+- pkg:maven/net.anotheria/moskito-aop@3.1.0?classifier=sources

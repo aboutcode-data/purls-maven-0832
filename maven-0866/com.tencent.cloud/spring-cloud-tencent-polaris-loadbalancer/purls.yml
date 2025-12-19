@@ -58,7 +58,15 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.1-2020.0.5?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.1-2021.0.3
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.1-2021.0.3?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.1-2022.0.0-RC2
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.1-2022.0.0-RC2?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.1-Hoxton.SR12
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.1-Hoxton.SR12?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.2-2020.0.5
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.2-2020.0.5?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.2-2022.0.0
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.2-2022.0.0-RC2
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.2-2022.0.0-RC2?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.2-2022.0.0?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.2-Hoxton.SR12
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-polaris-loadbalancer@1.8.2-Hoxton.SR12?classifier=sources

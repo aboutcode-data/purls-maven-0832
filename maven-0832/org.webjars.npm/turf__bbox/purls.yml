@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/turf__bbox@6.2.0-alpha.2?classifier=sources
 - pkg:maven/org.webjars.npm/turf__bbox@6.5.0
 - pkg:maven/org.webjars.npm/turf__bbox@6.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/turf__bbox@7.0.0-alpha.0
+- pkg:maven/org.webjars.npm/turf__bbox@7.0.0-alpha.0?classifier=sources

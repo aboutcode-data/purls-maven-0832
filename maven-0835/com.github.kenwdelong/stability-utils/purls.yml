@@ -56,3 +56,7 @@
 - pkg:maven/com.github.kenwdelong/stability-utils@1.7.5?classifier=sources
 - pkg:maven/com.github.kenwdelong/stability-utils@1.7.6
 - pkg:maven/com.github.kenwdelong/stability-utils@1.7.6?classifier=sources
+- pkg:maven/com.github.kenwdelong/stability-utils@2.0.0
+- pkg:maven/com.github.kenwdelong/stability-utils@2.0.0?classifier=sources
+- pkg:maven/com.github.kenwdelong/stability-utils@2.0.1
+- pkg:maven/com.github.kenwdelong/stability-utils@2.0.1?classifier=sources

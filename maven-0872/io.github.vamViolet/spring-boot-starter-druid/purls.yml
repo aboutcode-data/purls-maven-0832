@@ -1,0 +1,6 @@
+- pkg:maven/io.github.vamViolet/spring-boot-starter-druid@1.0.1-SNAPTSHOT
+- pkg:maven/io.github.vamViolet/spring-boot-starter-druid@1.0.1-SNAPTSHOT?classifier=sources
+- pkg:maven/io.github.vamViolet/spring-boot-starter-druid@1.0.2-SNAPTSHOT
+- pkg:maven/io.github.vamViolet/spring-boot-starter-druid@1.0.2-SNAPTSHOT?classifier=sources
+- pkg:maven/io.github.vamViolet/spring-boot-starter-druid@1.0.3-SNAPTSHOT
+- pkg:maven/io.github.vamViolet/spring-boot-starter-druid@1.0.3-SNAPTSHOT?classifier=sources

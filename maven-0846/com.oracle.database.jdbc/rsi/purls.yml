@@ -14,3 +14,5 @@
 - pkg:maven/com.oracle.database.jdbc/rsi@21.6.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/rsi@21.7.0.0
 - pkg:maven/com.oracle.database.jdbc/rsi@21.7.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/rsi@21.8.0.0
+- pkg:maven/com.oracle.database.jdbc/rsi@21.8.0.0?classifier=sources

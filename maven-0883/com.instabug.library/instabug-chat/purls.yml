@@ -66,6 +66,8 @@
 - pkg:maven/com.instabug.library/instabug-chat@11.5.2?classifier=sources
 - pkg:maven/com.instabug.library/instabug-chat@11.5.3?classifier=sources
 - pkg:maven/com.instabug.library/instabug-chat@11.5.4?classifier=sources
+- pkg:maven/com.instabug.library/instabug-chat@11.6.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-chat@11.7.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-chat@4.10.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-chat@4.10.0?type=aar
 - pkg:maven/com.instabug.library/instabug-chat@4.10.1?classifier=sources

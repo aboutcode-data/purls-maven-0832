@@ -1,0 +1,2 @@
+- pkg:maven/com.promcteam/prorpgitems@1.0.4
+- pkg:maven/com.promcteam/prorpgitems@1.0.4?classifier=sources

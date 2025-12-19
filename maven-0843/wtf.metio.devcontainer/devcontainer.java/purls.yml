@@ -1,0 +1,10 @@
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.11.28
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.11.28?classifier=sources
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.11.30
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.11.30?classifier=sources
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.12.14
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.12.14?classifier=sources
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.12.23
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.12.23?classifier=sources
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.12.7
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2022.12.7?classifier=sources

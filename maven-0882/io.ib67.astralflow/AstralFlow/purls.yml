@@ -1,1 +1,2 @@
 - pkg:maven/io.ib67.astralflow/AstralFlow@0.1.5-build%2B6?classifier=sources
+- pkg:maven/io.ib67.astralflow/AstralFlow@0.1.6-build%2B7?classifier=sources

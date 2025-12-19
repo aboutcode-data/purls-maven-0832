@@ -2,3 +2,7 @@
 - pkg:maven/org.tango-controls/Astor@7.4.3?classifier=sources
 - pkg:maven/org.tango-controls/Astor@7.4.4
 - pkg:maven/org.tango-controls/Astor@7.4.4?classifier=sources
+- pkg:maven/org.tango-controls/Astor@7.5.0
+- pkg:maven/org.tango-controls/Astor@7.5.0?classifier=sources
+- pkg:maven/org.tango-controls/Astor@7.5.1
+- pkg:maven/org.tango-controls/Astor@7.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.opencastproject/opencast-plugin-manager@13.0
+- pkg:maven/org.opencastproject/opencast-plugin-manager@13.0?classifier=sources

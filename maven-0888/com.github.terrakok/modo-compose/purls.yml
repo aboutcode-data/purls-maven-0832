@@ -1,1 +1,2 @@
 - pkg:maven/com.github.terrakok/modo-compose@0.7.0?classifier=sources
+- pkg:maven/com.github.terrakok/modo-compose@0.7.1?classifier=sources

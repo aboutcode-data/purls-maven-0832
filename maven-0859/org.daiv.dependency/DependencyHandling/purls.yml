@@ -1,0 +1,2 @@
+- pkg:maven/org.daiv.dependency/DependencyHandling@0.1.40?classifier=sources
+- pkg:maven/org.daiv.dependency/DependencyHandling@0.1.41?classifier=sources

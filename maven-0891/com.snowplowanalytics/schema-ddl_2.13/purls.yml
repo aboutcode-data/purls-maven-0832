@@ -60,8 +60,13 @@
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.15.1?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.15.2
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.15.2?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.15.3-M1
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.15.3-M1?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-M1
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-M1?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-M3
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-M3?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc10
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc10?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc11
@@ -72,6 +77,12 @@
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc13?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc14
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc14?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc15
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc15?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc16
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc16?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc17
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc17?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc2
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc2?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc3
@@ -84,3 +95,6 @@
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc7?classifier=sources
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc8
 - pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0-rc8?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0.-rc16
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0.-rc16?classifier=sources
+- pkg:maven/com.snowplowanalytics/schema-ddl_2.13@0.16.0?classifier=sources

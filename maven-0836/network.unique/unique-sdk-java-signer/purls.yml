@@ -1,0 +1,2 @@
+- pkg:maven/network.unique/unique-sdk-java-signer@0.0.1?classifier=sources
+- pkg:maven/network.unique/unique-sdk-java-signer@0.0.2?classifier=sources

@@ -160,3 +160,5 @@
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.3
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.3?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.4
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/org.wso2.carbon.email.mgt.stub@1.7.4?classifier=sources

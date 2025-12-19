@@ -75,7 +75,13 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.21.0.RC1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.21.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.22.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.22.0.RC1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.22.0.RC1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.22.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.22.1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.22.1.RC1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.22.1.RC1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@3.22.1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.0.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.0.0.RC1
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.0.0.RC1?classifier=sources
@@ -89,4 +95,10 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.0.0.RC5?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.0.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.1.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.1.0.RC1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.1.0.RC1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.1.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.1.1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.1.1.RC1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.1.1.RC1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.1.1?classifier=sources

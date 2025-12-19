@@ -1294,6 +1294,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.2.70?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.2.71?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.2.71?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.2.72?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.2.72?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.2.7?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.2.7?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.2.8?classifier=sources
@@ -1390,6 +1392,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.50.5?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.50.6?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.50.6?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.50.7?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.50.7?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.50?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.50?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.51?classifier=sources
@@ -1414,6 +1418,10 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.61?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.62?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.62?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.63?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.63?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.64?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.22.64?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.23.0?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.23.0?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.23.10?classifier=sources
@@ -1670,6 +1678,14 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.3?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.4?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.4?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.5?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.5?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.6?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.6?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.7?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.7?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.8?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.28.8?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.3.0?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.3.0?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.rest.api.service.catalog@9.4.0?classifier=sources

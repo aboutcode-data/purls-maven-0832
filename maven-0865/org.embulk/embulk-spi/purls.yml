@@ -34,6 +34,10 @@
 - pkg:maven/org.embulk/embulk-spi@0.10.35?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.36?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.37?classifier=sources
+- pkg:maven/org.embulk/embulk-spi@0.10.38?classifier=sources
+- pkg:maven/org.embulk/embulk-spi@0.10.39?classifier=sources
+- pkg:maven/org.embulk/embulk-spi@0.10.40?classifier=sources
+- pkg:maven/org.embulk/embulk-spi@0.10.41?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.7?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.8?classifier=sources
 - pkg:maven/org.embulk/embulk-spi@0.10.9?classifier=sources

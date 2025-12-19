@@ -2,3 +2,5 @@
 - pkg:maven/org.typelevel/vault_native0.4_2.12@3.2.1-33-97a8eb2?classifier=sources
 - pkg:maven/org.typelevel/vault_native0.4_2.12@3.3.0
 - pkg:maven/org.typelevel/vault_native0.4_2.12@3.3.0?classifier=sources
+- pkg:maven/org.typelevel/vault_native0.4_2.12@3.4.0
+- pkg:maven/org.typelevel/vault_native0.4_2.12@3.4.0?classifier=sources

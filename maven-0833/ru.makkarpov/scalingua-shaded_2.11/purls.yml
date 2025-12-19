@@ -15,4 +15,6 @@
 - pkg:maven/ru.makkarpov/scalingua-shaded_2.11@1.1
 - pkg:maven/ru.makkarpov/scalingua-shaded_2.11@1.1.1
 - pkg:maven/ru.makkarpov/scalingua-shaded_2.11@1.1.1?classifier=sources
+- pkg:maven/ru.makkarpov/scalingua-shaded_2.11@1.1.2
+- pkg:maven/ru.makkarpov/scalingua-shaded_2.11@1.1.2?classifier=sources
 - pkg:maven/ru.makkarpov/scalingua-shaded_2.11@1.1?classifier=sources

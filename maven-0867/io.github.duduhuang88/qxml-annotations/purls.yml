@@ -36,3 +36,4 @@
 - pkg:maven/io.github.duduhuang88/qxml-annotations@3.1.0?classifier=sources
 - pkg:maven/io.github.duduhuang88/qxml-annotations@3.2.0?classifier=sources
 - pkg:maven/io.github.duduhuang88/qxml-annotations@3.3.0?classifier=sources
+- pkg:maven/io.github.duduhuang88/qxml-annotations@3.4.0?classifier=sources

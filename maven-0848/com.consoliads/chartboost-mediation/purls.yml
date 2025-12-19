@@ -1,3 +1,4 @@
+- pkg:maven/com.consoliads/chartboost-mediation@9.1.0_v13_1.0?classifier=sources
 - pkg:maven/com.consoliads/chartboost-mediation@v8.2.1-1.0?classifier=sources
 - pkg:maven/com.consoliads/chartboost-mediation@v8.2.1-1.1?classifier=sources
 - pkg:maven/com.consoliads/chartboost-mediation@v8.2.1-2.0?classifier=sources

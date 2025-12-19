@@ -1,0 +1,4 @@
+- pkg:maven/net.reyadeyat/net.reyadeyat.nlp@2023.01.01
+- pkg:maven/net.reyadeyat/net.reyadeyat.nlp@2023.01.01?classifier=sources
+- pkg:maven/net.reyadeyat/net.reyadeyat.nlp@2023.01.02
+- pkg:maven/net.reyadeyat/net.reyadeyat.nlp@2023.01.02?classifier=sources

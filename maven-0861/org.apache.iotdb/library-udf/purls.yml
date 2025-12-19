@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.iotdb/library-udf@0.14.0-preview2?classifier=sources
 - pkg:maven/org.apache.iotdb/library-udf@0.14.0-preview3
 - pkg:maven/org.apache.iotdb/library-udf@0.14.0-preview3?classifier=sources
+- pkg:maven/org.apache.iotdb/library-udf@1.0.0
+- pkg:maven/org.apache.iotdb/library-udf@1.0.0?classifier=sources

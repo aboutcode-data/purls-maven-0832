@@ -1202,3 +1202,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-null@3.0.9?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-null@4.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-null@4.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-null@4.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-null@4.0.1?classifier=sources

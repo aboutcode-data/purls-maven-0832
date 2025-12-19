@@ -63,3 +63,7 @@
 - pkg:maven/me.proton.core/country-data@9.4.0?classifier=sources
 - pkg:maven/me.proton.core/country-data@9.4.1?classifier=sources
 - pkg:maven/me.proton.core/country-data@9.5.0?classifier=sources
+- pkg:maven/me.proton.core/country-data@9.6.0?classifier=sources
+- pkg:maven/me.proton.core/country-data@9.7.0?classifier=sources
+- pkg:maven/me.proton.core/country-data@9.7.1?classifier=sources
+- pkg:maven/me.proton.core/country-data@9.8.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.hadiyarajesh.flower-ktorfit/flower-ktorfit-android@3.0.0?classifier=sources
+- pkg:maven/io.github.hadiyarajesh.flower-ktorfit/flower-ktorfit-android@3.1.0?classifier=sources

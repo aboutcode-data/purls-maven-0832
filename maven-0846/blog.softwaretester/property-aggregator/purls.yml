@@ -10,3 +10,5 @@
 - pkg:maven/blog.softwaretester/property-aggregator@1.3.0?classifier=sources
 - pkg:maven/blog.softwaretester/property-aggregator@1.4.0
 - pkg:maven/blog.softwaretester/property-aggregator@1.4.0?classifier=sources
+- pkg:maven/blog.softwaretester/property-aggregator@1.5.0
+- pkg:maven/blog.softwaretester/property-aggregator@1.5.0?classifier=sources

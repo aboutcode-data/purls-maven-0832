@@ -1,0 +1,2 @@
+- pkg:maven/net.ruippeixotog/akka-testkit-specs2_3@0.3.2
+- pkg:maven/net.ruippeixotog/akka-testkit-specs2_3@0.3.2?classifier=sources

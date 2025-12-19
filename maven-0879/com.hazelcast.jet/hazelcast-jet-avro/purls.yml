@@ -35,6 +35,8 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@4.5.2?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@4.5.3
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@4.5.3?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@4.5.4
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@4.5.4?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@4.5?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.0
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.0-BETA-1
@@ -47,6 +49,8 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.0.2?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.0.3
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.0.3?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.0.4
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.0.4?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.0?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.1
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-avro@5.1-BETA-1

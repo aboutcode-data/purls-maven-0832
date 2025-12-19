@@ -26,3 +26,5 @@
 - pkg:maven/com.bluecirclesoft.open/json-jackson-modeller@0.30?classifier=sources
 - pkg:maven/com.bluecirclesoft.open/json-jackson-modeller@1.0
 - pkg:maven/com.bluecirclesoft.open/json-jackson-modeller@1.0?classifier=sources
+- pkg:maven/com.bluecirclesoft.open/json-jackson-modeller@1.1
+- pkg:maven/com.bluecirclesoft.open/json-jackson-modeller@1.1?classifier=sources

@@ -15,6 +15,7 @@
 - pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.14.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.15.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.16.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.16.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.17.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.17.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.17.2?classifier=sources
@@ -24,3 +25,4 @@
 - pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.20.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.20.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.20.3?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-graphql-protocol@1.21.0?classifier=sources

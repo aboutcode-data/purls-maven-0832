@@ -1,0 +1,2 @@
+- pkg:maven/com.lerna-stack/akka-entity-replication-rollback-tool-cassandra_2.13@2.2.0
+- pkg:maven/com.lerna-stack/akka-entity-replication-rollback-tool-cassandra_2.13@2.2.0?classifier=sources

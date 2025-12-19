@@ -1,0 +1,4 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-queue@2.51.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-queue@2.51.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-queue@3.2.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-queue@3.2.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.lightbend/scala-fortify_2.13.9@1.0.22?classifier=sources
 - pkg:maven/com.lightbend/scala-fortify_2.13.9@1.0.23-M2
 - pkg:maven/com.lightbend/scala-fortify_2.13.9@1.0.23-M2?classifier=sources
+- pkg:maven/com.lightbend/scala-fortify_2.13.9@1.0.23-M3
+- pkg:maven/com.lightbend/scala-fortify_2.13.9@1.0.23-M3?classifier=sources

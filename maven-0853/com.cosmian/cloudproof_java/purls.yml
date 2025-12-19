@@ -8,3 +8,5 @@
 - pkg:maven/com.cosmian/cloudproof_java@1.11.2?classifier=sources
 - pkg:maven/com.cosmian/cloudproof_java@2.0.0
 - pkg:maven/com.cosmian/cloudproof_java@2.0.0?classifier=sources
+- pkg:maven/com.cosmian/cloudproof_java@3.0.0
+- pkg:maven/com.cosmian/cloudproof_java@3.0.0?classifier=sources

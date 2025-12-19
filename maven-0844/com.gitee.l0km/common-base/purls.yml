@@ -320,3 +320,9 @@
 - pkg:maven/com.gitee.l0km/common-base@2.7.1?classifier=sources
 - pkg:maven/com.gitee.l0km/common-base@2.7.2
 - pkg:maven/com.gitee.l0km/common-base@2.7.2?classifier=sources
+- pkg:maven/com.gitee.l0km/common-base@2.7.3
+- pkg:maven/com.gitee.l0km/common-base@2.7.3?classifier=sources
+- pkg:maven/com.gitee.l0km/common-base@2.7.4
+- pkg:maven/com.gitee.l0km/common-base@2.7.4?classifier=sources
+- pkg:maven/com.gitee.l0km/common-base@2.7.5
+- pkg:maven/com.gitee.l0km/common-base@2.7.5?classifier=sources

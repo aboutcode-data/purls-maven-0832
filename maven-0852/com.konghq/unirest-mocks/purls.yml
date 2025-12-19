@@ -56,6 +56,10 @@
 - pkg:maven/com.konghq/unirest-mocks@3.13.8?classifier=sources
 - pkg:maven/com.konghq/unirest-mocks@3.13.9
 - pkg:maven/com.konghq/unirest-mocks@3.13.9?classifier=sources
+- pkg:maven/com.konghq/unirest-mocks@3.14.0
+- pkg:maven/com.konghq/unirest-mocks@3.14.0?classifier=sources
+- pkg:maven/com.konghq/unirest-mocks@3.14.1
+- pkg:maven/com.konghq/unirest-mocks@3.14.1?classifier=sources
 - pkg:maven/com.konghq/unirest-mocks@4.0.0-RC1
 - pkg:maven/com.konghq/unirest-mocks@4.0.0-RC1?classifier=sources
 - pkg:maven/com.konghq/unirest-mocks@4.0.0-RC2
@@ -66,3 +70,7 @@
 - pkg:maven/com.konghq/unirest-mocks@4.0.0-RC4?classifier=sources
 - pkg:maven/com.konghq/unirest-mocks@4.0.0-RC5
 - pkg:maven/com.konghq/unirest-mocks@4.0.0-RC5?classifier=sources
+- pkg:maven/com.konghq/unirest-mocks@4.0.0-RC6
+- pkg:maven/com.konghq/unirest-mocks@4.0.0-RC6?classifier=sources
+- pkg:maven/com.konghq/unirest-mocks@4.0.0-RC7
+- pkg:maven/com.konghq/unirest-mocks@4.0.0-RC7?classifier=sources

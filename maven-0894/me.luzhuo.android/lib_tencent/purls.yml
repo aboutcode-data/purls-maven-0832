@@ -1,0 +1,2 @@
+- pkg:maven/me.luzhuo.android/lib_tencent@1.1.8?classifier=sources
+- pkg:maven/me.luzhuo.android/lib_tencent@1.1.9?classifier=sources

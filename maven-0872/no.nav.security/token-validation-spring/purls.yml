@@ -104,3 +104,9 @@
 - pkg:maven/no.nav.security/token-validation-spring@2.1.7?classifier=sources
 - pkg:maven/no.nav.security/token-validation-spring@2.1.8
 - pkg:maven/no.nav.security/token-validation-spring@2.1.8?classifier=sources
+- pkg:maven/no.nav.security/token-validation-spring@2.1.9
+- pkg:maven/no.nav.security/token-validation-spring@2.1.9?classifier=sources
+- pkg:maven/no.nav.security/token-validation-spring@3.0.0
+- pkg:maven/no.nav.security/token-validation-spring@3.0.0?classifier=sources
+- pkg:maven/no.nav.security/token-validation-spring@3.0.2
+- pkg:maven/no.nav.security/token-validation-spring@3.0.2?classifier=sources

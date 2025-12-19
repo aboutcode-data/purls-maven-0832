@@ -2,3 +2,5 @@
 - pkg:maven/cn.xuqiudong.support/common-base@1.0.1?classifier=sources
 - pkg:maven/cn.xuqiudong.support/common-base@1.0.2-RELEASE
 - pkg:maven/cn.xuqiudong.support/common-base@1.0.2-RELEASE?classifier=sources
+- pkg:maven/cn.xuqiudong.support/common-base@1.1.0
+- pkg:maven/cn.xuqiudong.support/common-base@1.1.0?classifier=sources

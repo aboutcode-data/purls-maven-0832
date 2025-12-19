@@ -1,2 +1,5 @@
 - pkg:maven/com.ascert.open/openterm@1.5.3
 - pkg:maven/com.ascert.open/openterm@1.5.3?classifier=sources
+- pkg:maven/com.ascert.open/openterm@1.7.0?classifier=sources
+- pkg:maven/com.ascert.open/openterm@1.7.1?classifier=sources
+- pkg:maven/com.ascert.open/openterm@1.7.2?classifier=sources

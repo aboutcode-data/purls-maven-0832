@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/node-fetch-native@0.1.4
 - pkg:maven/org.webjars.npm/node-fetch-native@0.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/node-fetch-native@0.1.8
+- pkg:maven/org.webjars.npm/node-fetch-native@0.1.8?classifier=sources
