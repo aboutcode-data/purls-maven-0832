@@ -1,0 +1,2 @@
+- pkg:maven/com.dinstone.focus.serialize/focus-serialize-json@0.9.5
+- pkg:maven/com.dinstone.focus.serialize/focus-serialize-json@0.9.5?classifier=sources

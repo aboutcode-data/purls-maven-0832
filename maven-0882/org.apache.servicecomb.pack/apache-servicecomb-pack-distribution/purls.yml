@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.servicecomb.pack/apache-servicecomb-pack-distribution@0.5.0?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb.pack/apache-servicecomb-pack-distribution@0.6.0?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb.pack/apache-servicecomb-pack-distribution@0.7.0?classifier=src&type=zip
+- pkg:maven/org.apache.servicecomb.pack/apache-servicecomb-pack-distribution@0.7.1?classifier=src&type=zip

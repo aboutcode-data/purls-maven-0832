@@ -38,3 +38,5 @@
 - pkg:maven/com.exactpro.sf/service-itch@3.2.1858?classifier=sources
 - pkg:maven/com.exactpro.sf/service-itch@3.2.1859?classifier=sources
 - pkg:maven/com.exactpro.sf/service-itch@3.2.1860?classifier=sources
+- pkg:maven/com.exactpro.sf/service-itch@3.2.1877?classifier=sources
+- pkg:maven/com.exactpro.sf/service-itch@3.2.1881?classifier=sources

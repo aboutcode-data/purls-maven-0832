@@ -52,3 +52,5 @@
 - pkg:maven/org.wvlet.airframe/airspec_3@22.7.2?classifier=sources
 - pkg:maven/org.wvlet.airframe/airspec_3@22.7.3
 - pkg:maven/org.wvlet.airframe/airspec_3@22.7.3?classifier=sources
+- pkg:maven/org.wvlet.airframe/airspec_3@22.8.0
+- pkg:maven/org.wvlet.airframe/airspec_3@22.8.0?classifier=sources

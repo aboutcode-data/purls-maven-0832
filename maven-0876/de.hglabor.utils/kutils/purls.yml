@@ -15,3 +15,6 @@
 - pkg:maven/de.hglabor.utils/kutils@0.0.7?classifier=sources
 - pkg:maven/de.hglabor.utils/kutils@0.0.8?classifier=sources
 - pkg:maven/de.hglabor.utils/kutils@0.0.9?classifier=sources
+- pkg:maven/de.hglabor.utils/kutils@1.0.0-alpha.2?classifier=sources
+- pkg:maven/de.hglabor.utils/kutils@1.0.0-alpha?classifier=sources
+- pkg:maven/de.hglabor.utils/kutils@1.0.0-beta?classifier=sources

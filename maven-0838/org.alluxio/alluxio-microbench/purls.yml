@@ -1,2 +1,4 @@
 - pkg:maven/org.alluxio/alluxio-microbench@2.8.0-2
 - pkg:maven/org.alluxio/alluxio-microbench@2.8.0-2?classifier=sources
+- pkg:maven/org.alluxio/alluxio-microbench@2.8.1
+- pkg:maven/org.alluxio/alluxio-microbench@2.8.1?classifier=sources

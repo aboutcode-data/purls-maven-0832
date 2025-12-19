@@ -11,6 +11,11 @@
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.2.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.21.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.22.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.23.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.24.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.25.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.26.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.27.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.3.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.4.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks@0.5.0?classifier=sources

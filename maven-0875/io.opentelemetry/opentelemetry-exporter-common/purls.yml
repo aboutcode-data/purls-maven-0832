@@ -1,0 +1,2 @@
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-common@1.17.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-common@1.18.0?classifier=sources

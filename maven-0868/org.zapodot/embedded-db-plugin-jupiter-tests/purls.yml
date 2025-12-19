@@ -1,3 +1,4 @@
 - pkg:maven/org.zapodot/embedded-db-plugin-jupiter-tests@2.0.0
 - pkg:maven/org.zapodot/embedded-db-plugin-jupiter-tests@2.0.1
 - pkg:maven/org.zapodot/embedded-db-plugin-jupiter-tests@2.0.2
+- pkg:maven/org.zapodot/embedded-db-plugin-jupiter-tests@2.1.0

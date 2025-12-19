@@ -91,6 +91,10 @@
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@16.0.1?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@16.1.0?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@16.2.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@16.3.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@17.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@17.0.1?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@17.1.0?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@2.0.1
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@2.0.1?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@2.0.2

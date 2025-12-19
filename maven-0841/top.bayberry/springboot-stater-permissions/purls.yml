@@ -1,2 +1,6 @@
+- pkg:maven/top.bayberry/springboot-stater-permissions@0.0.11
+- pkg:maven/top.bayberry/springboot-stater-permissions@0.0.11?classifier=sources
 - pkg:maven/top.bayberry/springboot-stater-permissions@0.0.3-GA
 - pkg:maven/top.bayberry/springboot-stater-permissions@0.0.3-GA?classifier=sources
+- pkg:maven/top.bayberry/springboot-stater-permissions@2.7.1.GA.0.0.12
+- pkg:maven/top.bayberry/springboot-stater-permissions@2.7.1.GA.0.0.12?classifier=sources

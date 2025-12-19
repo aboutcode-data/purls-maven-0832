@@ -14,3 +14,9 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring-jersey@1.6.54?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring-jersey@1.6.55
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring-jersey@1.6.55?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring-jersey@1.6.56
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring-jersey@1.6.56?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring-jersey@1.6.57
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring-jersey@1.6.57?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring-jersey@1.6.58
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring-jersey@1.6.58?classifier=sources

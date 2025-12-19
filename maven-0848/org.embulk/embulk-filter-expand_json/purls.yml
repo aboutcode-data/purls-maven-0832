@@ -1,0 +1,1 @@
+- pkg:maven/org.embulk/embulk-filter-expand_json@0.6.0?classifier=sources

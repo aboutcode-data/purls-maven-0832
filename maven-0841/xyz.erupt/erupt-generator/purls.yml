@@ -7,6 +7,12 @@
 - pkg:maven/xyz.erupt/erupt-generator@1.10.10-beta2?classifier=sources
 - pkg:maven/xyz.erupt/erupt-generator@1.10.10-beta?classifier=sources
 - pkg:maven/xyz.erupt/erupt-generator@1.10.10?classifier=sources
+- pkg:maven/xyz.erupt/erupt-generator@1.10.11
+- pkg:maven/xyz.erupt/erupt-generator@1.10.11?classifier=sources
+- pkg:maven/xyz.erupt/erupt-generator@1.10.12
+- pkg:maven/xyz.erupt/erupt-generator@1.10.12?classifier=sources
+- pkg:maven/xyz.erupt/erupt-generator@1.10.13
+- pkg:maven/xyz.erupt/erupt-generator@1.10.13?classifier=sources
 - pkg:maven/xyz.erupt/erupt-generator@1.10.1?classifier=sources
 - pkg:maven/xyz.erupt/erupt-generator@1.10.2
 - pkg:maven/xyz.erupt/erupt-generator@1.10.2?classifier=sources

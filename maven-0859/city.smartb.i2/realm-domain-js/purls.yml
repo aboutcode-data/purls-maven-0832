@@ -1,3 +1,5 @@
+- pkg:maven/city.smartb.i2/realm-domain-js@0.10.0?classifier=sources
+- pkg:maven/city.smartb.i2/realm-domain-js@0.10.1?classifier=sources
 - pkg:maven/city.smartb.i2/realm-domain-js@0.2.0?classifier=sources
 - pkg:maven/city.smartb.i2/realm-domain-js@0.3.1?classifier=sources
 - pkg:maven/city.smartb.i2/realm-domain-js@0.5.0?classifier=sources

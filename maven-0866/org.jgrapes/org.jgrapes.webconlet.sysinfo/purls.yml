@@ -11,3 +11,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.sysinfo@0.37.2?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.sysinfo@0.38.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.sysinfo@0.39.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.sysinfo@0.40.0?classifier=sources

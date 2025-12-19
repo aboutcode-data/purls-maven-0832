@@ -86,3 +86,5 @@
 - pkg:maven/io.debezium/debezium-microbenchmark-oracle@2.0.0.Alpha2?classifier=sources
 - pkg:maven/io.debezium/debezium-microbenchmark-oracle@2.0.0.Alpha3
 - pkg:maven/io.debezium/debezium-microbenchmark-oracle@2.0.0.Alpha3?classifier=sources
+- pkg:maven/io.debezium/debezium-microbenchmark-oracle@2.0.0.Beta1
+- pkg:maven/io.debezium/debezium-microbenchmark-oracle@2.0.0.Beta1?classifier=sources

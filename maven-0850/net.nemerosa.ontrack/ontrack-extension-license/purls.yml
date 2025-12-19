@@ -1,0 +1,2 @@
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-license@4.3-beta.1?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-license@4.3.0?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-markdown-core@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-markdown-core@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-markdown-core@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-markdown-core@RELEASE150?classifier=sources

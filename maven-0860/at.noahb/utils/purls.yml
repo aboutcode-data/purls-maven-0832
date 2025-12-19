@@ -1,0 +1,2 @@
+- pkg:maven/at.noahb/utils@1.1.0
+- pkg:maven/at.noahb/utils@1.1.0?classifier=sources

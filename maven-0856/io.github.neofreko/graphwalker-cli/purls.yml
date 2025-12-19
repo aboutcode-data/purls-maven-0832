@@ -1,0 +1,2 @@
+- pkg:maven/io.github.neofreko/graphwalker-cli@4.3.1.100
+- pkg:maven/io.github.neofreko/graphwalker-cli@4.3.1.100?classifier=sources

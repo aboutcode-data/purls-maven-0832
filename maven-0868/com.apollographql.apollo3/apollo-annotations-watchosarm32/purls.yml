@@ -1,0 +1,2 @@
+- pkg:maven/com.apollographql.apollo3/apollo-annotations-watchosarm32@3.5.0?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-annotations-watchosarm32@3.6.0?classifier=sources

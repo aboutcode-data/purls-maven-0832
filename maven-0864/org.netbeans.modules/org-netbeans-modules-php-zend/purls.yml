@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE150?classifier=sources

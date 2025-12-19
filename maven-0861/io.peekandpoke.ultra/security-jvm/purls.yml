@@ -66,3 +66,6 @@
 - pkg:maven/io.peekandpoke.ultra/security-jvm@0.51.0?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/security-jvm@0.52.0?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/security-jvm@0.52.1?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/security-jvm@0.54.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/security-jvm@0.55.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/security-jvm@0.55.1?classifier=sources

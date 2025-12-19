@@ -1,2 +1,4 @@
 - pkg:maven/org.modelmapper/modelmapper-module-jsr310@1.2.2
 - pkg:maven/org.modelmapper/modelmapper-module-jsr310@1.2.2?classifier=sources
+- pkg:maven/org.modelmapper/modelmapper-module-jsr310@1.2.3
+- pkg:maven/org.modelmapper/modelmapper-module-jsr310@1.2.3?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/io.github.nbaars/paseto4j-commons@0.0.31?classifier=sources
 - pkg:maven/io.github.nbaars/paseto4j-commons@0.0.32
 - pkg:maven/io.github.nbaars/paseto4j-commons@0.0.32?classifier=sources
+- pkg:maven/io.github.nbaars/paseto4j-commons@0.0.33
+- pkg:maven/io.github.nbaars/paseto4j-commons@0.0.33?classifier=sources
+- pkg:maven/io.github.nbaars/paseto4j-commons@0.0.35
+- pkg:maven/io.github.nbaars/paseto4j-commons@0.0.35?classifier=sources

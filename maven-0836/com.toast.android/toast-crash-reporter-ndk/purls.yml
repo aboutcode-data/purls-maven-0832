@@ -29,3 +29,4 @@
 - pkg:maven/com.toast.android/toast-crash-reporter-ndk@0.31.0?type=aar
 - pkg:maven/com.toast.android/toast-crash-reporter-ndk@0.31.1?type=aar
 - pkg:maven/com.toast.android/toast-crash-reporter-ndk@1.0.0?type=aar
+- pkg:maven/com.toast.android/toast-crash-reporter-ndk@1.1.0?type=aar

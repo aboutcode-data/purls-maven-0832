@@ -16,6 +16,8 @@
 - pkg:maven/io.fabric8/openshift-model-machineconfig@5.12.1?classifier=sources
 - pkg:maven/io.fabric8/openshift-model-machineconfig@5.12.2
 - pkg:maven/io.fabric8/openshift-model-machineconfig@5.12.2?classifier=sources
+- pkg:maven/io.fabric8/openshift-model-machineconfig@5.12.3
+- pkg:maven/io.fabric8/openshift-model-machineconfig@5.12.3?classifier=sources
 - pkg:maven/io.fabric8/openshift-model-machineconfig@5.5.0
 - pkg:maven/io.fabric8/openshift-model-machineconfig@5.5.0?classifier=sources
 - pkg:maven/io.fabric8/openshift-model-machineconfig@5.6.0
@@ -40,3 +42,7 @@
 - pkg:maven/io.fabric8/openshift-model-machineconfig@6.0.0-RC1
 - pkg:maven/io.fabric8/openshift-model-machineconfig@6.0.0-RC1?classifier=sources
 - pkg:maven/io.fabric8/openshift-model-machineconfig@6.0.0?classifier=sources
+- pkg:maven/io.fabric8/openshift-model-machineconfig@6.1.0
+- pkg:maven/io.fabric8/openshift-model-machineconfig@6.1.0?classifier=sources
+- pkg:maven/io.fabric8/openshift-model-machineconfig@6.1.1
+- pkg:maven/io.fabric8/openshift-model-machineconfig@6.1.1?classifier=sources

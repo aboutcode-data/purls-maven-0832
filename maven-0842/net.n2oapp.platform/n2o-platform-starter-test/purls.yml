@@ -25,6 +25,7 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@3.0.8
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.0.0
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.0.1
+- pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.10.0
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.2.3
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.2.4
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.2.5
@@ -36,3 +37,5 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.5.0
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.8.0
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@4.9.0
+- pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@5.0.0
+- pkg:maven/net.n2oapp.platform/n2o-platform-starter-test@5.0.0-java8

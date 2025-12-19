@@ -266,5 +266,11 @@
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.23.0.Beta?classifier=sources
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.24.0.Beta
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.24.0.Beta?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.24.1.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.24.1.Beta?classifier=sources
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.25.0.Beta
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.25.0.Beta?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.26.0.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.26.0.Beta?classifier=sources
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.27.0.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-test-domain@8.27.0.Beta?classifier=sources

@@ -104,3 +104,7 @@
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.64.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.65.0
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.65.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.66.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.66.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.67.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.67.0?classifier=sources

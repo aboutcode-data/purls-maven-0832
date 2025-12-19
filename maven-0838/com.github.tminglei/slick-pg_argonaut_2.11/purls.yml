@@ -110,6 +110,8 @@
 - pkg:maven/com.github.tminglei/slick-pg_argonaut_2.11@0.20.2?classifier=sources
 - pkg:maven/com.github.tminglei/slick-pg_argonaut_2.11@0.20.3
 - pkg:maven/com.github.tminglei/slick-pg_argonaut_2.11@0.20.3?classifier=sources
+- pkg:maven/com.github.tminglei/slick-pg_argonaut_2.11@0.20.4
+- pkg:maven/com.github.tminglei/slick-pg_argonaut_2.11@0.20.4?classifier=sources
 - pkg:maven/com.github.tminglei/slick-pg_argonaut_2.11@0.6.0
 - pkg:maven/com.github.tminglei/slick-pg_argonaut_2.11@0.6.0-M1
 - pkg:maven/com.github.tminglei/slick-pg_argonaut_2.11@0.6.0-M1?classifier=sources

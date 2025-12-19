@@ -1,2 +1,4 @@
 - pkg:maven/org.bitcoin-s/bitcoin-s-lnurl_2.12@1.9.2
 - pkg:maven/org.bitcoin-s/bitcoin-s-lnurl_2.12@1.9.2?classifier=sources
+- pkg:maven/org.bitcoin-s/bitcoin-s-lnurl_2.12@1.9.3
+- pkg:maven/org.bitcoin-s/bitcoin-s-lnurl_2.12@1.9.3?classifier=sources

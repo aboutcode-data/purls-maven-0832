@@ -1,0 +1,6 @@
+- pkg:maven/io.github.i7mist/privacyannotationlib-android-sdk@1.0.0
+- pkg:maven/io.github.i7mist/privacyannotationlib-android-sdk@1.0.0?classifier=sources
+- pkg:maven/io.github.i7mist/privacyannotationlib-android-sdk@1.1.0
+- pkg:maven/io.github.i7mist/privacyannotationlib-android-sdk@1.1.0?classifier=sources
+- pkg:maven/io.github.i7mist/privacyannotationlib-android-sdk@1.1.1
+- pkg:maven/io.github.i7mist/privacyannotationlib-android-sdk@1.1.1?classifier=sources

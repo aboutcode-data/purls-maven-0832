@@ -1,3 +1,5 @@
+- pkg:maven/me.zalo/sdk-analytics@1.0.0001.demo?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@1.0.0001.demo?type=aar
 - pkg:maven/me.zalo/sdk-analytics@2.6.0428?classifier=sources
 - pkg:maven/me.zalo/sdk-analytics@2.6.0428?type=aar
 - pkg:maven/me.zalo/sdk-analytics@2.6.0513?classifier=sources
@@ -28,3 +30,7 @@
 - pkg:maven/me.zalo/sdk-analytics@4.0.1122?type=aar
 - pkg:maven/me.zalo/sdk-analytics@4.0.1123?classifier=sources
 - pkg:maven/me.zalo/sdk-analytics@4.0.1123?type=aar
+- pkg:maven/me.zalo/sdk-analytics@4.1.0804?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@4.1.0804?type=aar
+- pkg:maven/me.zalo/sdk-analytics@4.1.0815?classifier=sources
+- pkg:maven/me.zalo/sdk-analytics@4.1.0815?type=aar

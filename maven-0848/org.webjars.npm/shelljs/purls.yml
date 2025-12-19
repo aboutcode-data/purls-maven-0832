@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/shelljs@0.7.8?classifier=sources
 - pkg:maven/org.webjars.npm/shelljs@0.8.4
 - pkg:maven/org.webjars.npm/shelljs@0.8.4?classifier=sources
+- pkg:maven/org.webjars.npm/shelljs@0.8.5
+- pkg:maven/org.webjars.npm/shelljs@0.8.5?classifier=sources

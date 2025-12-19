@@ -1,1 +1,2 @@
 - pkg:maven/io.adtrace/android-sdk-plugin-webbridge@2.0.2?classifier=sources
+- pkg:maven/io.adtrace/android-sdk-plugin-webbridge@2.2.0?classifier=sources

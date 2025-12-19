@@ -44,3 +44,5 @@
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.1.0.Beta1
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.1.0.Beta2
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.1.0.Beta3
+- pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.1.0.Final
+- pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.2.0.Beta1

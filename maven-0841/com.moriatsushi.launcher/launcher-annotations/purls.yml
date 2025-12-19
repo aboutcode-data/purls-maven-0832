@@ -1,0 +1,5 @@
+- pkg:maven/com.moriatsushi.launcher/launcher-annotations@1.0.0-alpha01?classifier=sources
+- pkg:maven/com.moriatsushi.launcher/launcher-annotations@1.0.0-alpha02?classifier=sources
+- pkg:maven/com.moriatsushi.launcher/launcher-annotations@1.0.0-dev01?classifier=sources
+- pkg:maven/com.moriatsushi.launcher/launcher-annotations@1.0.0-dev02?classifier=sources
+- pkg:maven/com.moriatsushi.launcher/launcher-annotations@1.0.0-dev03?classifier=sources

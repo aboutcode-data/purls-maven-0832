@@ -277,4 +277,8 @@
 - pkg:maven/org.whitesource/wss-agent-hash-calculator@2.9.9.79?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-hash-calculator@2.9.9.80
 - pkg:maven/org.whitesource/wss-agent-hash-calculator@2.9.9.80?classifier=sources
+- pkg:maven/org.whitesource/wss-agent-hash-calculator@2.9.9.81
+- pkg:maven/org.whitesource/wss-agent-hash-calculator@2.9.9.81?classifier=sources
+- pkg:maven/org.whitesource/wss-agent-hash-calculator@2.9.9.82
+- pkg:maven/org.whitesource/wss-agent-hash-calculator@2.9.9.82?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-hash-calculator@2.9.9?classifier=sources

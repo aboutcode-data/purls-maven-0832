@@ -1,0 +1,2 @@
+- pkg:maven/io.openmessaging.storage/dledger-proxy@0.3.0
+- pkg:maven/io.openmessaging.storage/dledger-proxy@0.3.0?classifier=sources

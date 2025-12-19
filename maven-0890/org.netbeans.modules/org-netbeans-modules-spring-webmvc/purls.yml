@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE150?classifier=sources

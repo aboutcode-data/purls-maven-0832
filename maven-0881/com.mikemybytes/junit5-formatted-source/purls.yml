@@ -1,0 +1,2 @@
+- pkg:maven/com.mikemybytes/junit5-formatted-source@0.0.1
+- pkg:maven/com.mikemybytes/junit5-formatted-source@0.0.1?classifier=sources

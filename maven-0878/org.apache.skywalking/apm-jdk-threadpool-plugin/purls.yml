@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.skywalking/apm-jdk-threadpool-plugin@8.10.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-jdk-threadpool-plugin@8.11.0
 - pkg:maven/org.apache.skywalking/apm-jdk-threadpool-plugin@8.11.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-jdk-threadpool-plugin@8.12.0
+- pkg:maven/org.apache.skywalking/apm-jdk-threadpool-plugin@8.12.0?classifier=sources

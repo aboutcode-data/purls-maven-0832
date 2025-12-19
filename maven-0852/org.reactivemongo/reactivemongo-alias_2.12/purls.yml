@@ -58,3 +58,5 @@
 - pkg:maven/org.reactivemongo/reactivemongo-alias_2.12@1.1.0-RC4?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-alias_2.12@1.1.0-RC5
 - pkg:maven/org.reactivemongo/reactivemongo-alias_2.12@1.1.0-RC5?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-alias_2.12@1.1.0-RC6
+- pkg:maven/org.reactivemongo/reactivemongo-alias_2.12@1.1.0-RC6?classifier=sources

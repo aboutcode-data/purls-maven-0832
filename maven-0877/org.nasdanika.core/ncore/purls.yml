@@ -102,3 +102,5 @@
 - pkg:maven/org.nasdanika.core/ncore@2022.6.1?classifier=sources
 - pkg:maven/org.nasdanika.core/ncore@2022.7.0
 - pkg:maven/org.nasdanika.core/ncore@2022.7.0?classifier=sources
+- pkg:maven/org.nasdanika.core/ncore@2022.8.0
+- pkg:maven/org.nasdanika.core/ncore@2022.8.0?classifier=sources

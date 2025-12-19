@@ -1,0 +1,2 @@
+- pkg:maven/com.armanbilge/circe-scala-yaml_sjs1_2.13@0.0.2
+- pkg:maven/com.armanbilge/circe-scala-yaml_sjs1_2.13@0.0.2?classifier=sources

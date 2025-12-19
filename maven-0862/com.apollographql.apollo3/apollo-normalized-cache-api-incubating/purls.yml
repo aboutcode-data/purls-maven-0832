@@ -1,1 +1,3 @@
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-incubating@3.4.0?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-incubating@3.5.0?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-api-incubating@3.6.0?classifier=sources

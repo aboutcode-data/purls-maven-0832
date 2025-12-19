@@ -8,3 +8,5 @@
 - pkg:maven/com.seepine/http@0.0.9?classifier=sources
 - pkg:maven/com.seepine/http@0.1.0
 - pkg:maven/com.seepine/http@0.1.0?classifier=sources
+- pkg:maven/com.seepine/http@1.0.0
+- pkg:maven/com.seepine/http@1.0.0?classifier=sources

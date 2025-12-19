@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.mqtt.paho@2.0.1
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.mqtt.paho@2.0.1?classifier=sources

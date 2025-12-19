@@ -1,9 +1,14 @@
 - pkg:maven/com.weclassroom.liveui/liveui@0.0.1?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.1.1.teacher?classifier=sources
+- pkg:maven/com.weclassroom.liveui/liveui@0.1.4.TEACHER?classifier=sources
+- pkg:maven/com.weclassroom.liveui/liveui@0.1.5.TEACHER?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.4.6.xinkb?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.4.6.yach?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.4.7.yach?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.4.7?classifier=sources
+- pkg:maven/com.weclassroom.liveui/liveui@0.4.8.yach?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.4.8?classifier=sources
+- pkg:maven/com.weclassroom.liveui/liveui@0.4.9.yach?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.4.9?classifier=sources
+- pkg:maven/com.weclassroom.liveui/liveui@0.5.0.yach?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.5.0?classifier=sources

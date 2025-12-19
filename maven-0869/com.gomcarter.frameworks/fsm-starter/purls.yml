@@ -1,3 +1,5 @@
+- pkg:maven/com.gomcarter.frameworks/fsm-starter@2.0.10
+- pkg:maven/com.gomcarter.frameworks/fsm-starter@2.0.10?classifier=sources
 - pkg:maven/com.gomcarter.frameworks/fsm-starter@2.0.7
 - pkg:maven/com.gomcarter.frameworks/fsm-starter@2.0.7?classifier=sources
 - pkg:maven/com.gomcarter.frameworks/fsm-starter@2.0.8

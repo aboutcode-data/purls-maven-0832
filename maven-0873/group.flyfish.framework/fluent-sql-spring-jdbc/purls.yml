@@ -1,0 +1,4 @@
+- pkg:maven/group.flyfish.framework/fluent-sql-spring-jdbc@0.0.2
+- pkg:maven/group.flyfish.framework/fluent-sql-spring-jdbc@0.0.2?classifier=sources
+- pkg:maven/group.flyfish.framework/fluent-sql-spring-jdbc@0.0.3
+- pkg:maven/group.flyfish.framework/fluent-sql-spring-jdbc@0.0.3?classifier=sources

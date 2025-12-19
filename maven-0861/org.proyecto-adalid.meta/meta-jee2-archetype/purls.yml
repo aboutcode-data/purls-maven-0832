@@ -7,3 +7,4 @@
 - pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@4.1.0?classifier=sources
 - pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@4.2.0?classifier=sources
 - pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@4.4.0?classifier=sources
+- pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@4.5.0?classifier=sources

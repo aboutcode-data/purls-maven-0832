@@ -20,3 +20,5 @@
 - pkg:maven/dev.zio/zio-rocksdb_2.12@0.4.0-RC3
 - pkg:maven/dev.zio/zio-rocksdb_2.12@0.4.0-RC3?classifier=sources
 - pkg:maven/dev.zio/zio-rocksdb_2.12@0.4.0?classifier=sources
+- pkg:maven/dev.zio/zio-rocksdb_2.12@0.4.1
+- pkg:maven/dev.zio/zio-rocksdb_2.12@0.4.1?classifier=sources

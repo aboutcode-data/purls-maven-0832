@@ -1,0 +1,2 @@
+- pkg:maven/tools.aqua/bgw-net-protocol-client@0.7.1?classifier=sources
+- pkg:maven/tools.aqua/bgw-net-protocol-client@0.7.2?classifier=sources

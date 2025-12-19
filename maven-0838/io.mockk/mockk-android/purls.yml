@@ -12,6 +12,7 @@
 - pkg:maven/io.mockk/mockk-android@1.12.2?classifier=sources
 - pkg:maven/io.mockk/mockk-android@1.12.3?classifier=sources
 - pkg:maven/io.mockk/mockk-android@1.12.4?classifier=sources
+- pkg:maven/io.mockk/mockk-android@1.12.5?classifier=sources
 - pkg:maven/io.mockk/mockk-android@1.8.10.kotlin13?classifier=sources
 - pkg:maven/io.mockk/mockk-android@1.8.10.kotlin13?type=aar
 - pkg:maven/io.mockk/mockk-android@1.8.10?classifier=sources

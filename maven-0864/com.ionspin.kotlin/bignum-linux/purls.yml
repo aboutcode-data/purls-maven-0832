@@ -25,3 +25,4 @@
 - pkg:maven/com.ionspin.kotlin/bignum-linux@0.3.3?classifier=sources
 - pkg:maven/com.ionspin.kotlin/bignum-linux@0.3.4?classifier=sources
 - pkg:maven/com.ionspin.kotlin/bignum-linux@0.3.6?classifier=sources
+- pkg:maven/com.ionspin.kotlin/bignum-linux@0.3.7?classifier=sources

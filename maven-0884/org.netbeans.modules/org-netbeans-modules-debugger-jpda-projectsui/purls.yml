@@ -14,4 +14,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-projectsui@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-projectsui@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-projectsui@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-projectsui@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-projectsui@RELEASE90?classifier=sources

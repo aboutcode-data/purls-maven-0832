@@ -26,3 +26,7 @@
 - pkg:maven/io.ebean/ebean-spring-txn@12.6.4?classifier=sources
 - pkg:maven/io.ebean/ebean-spring-txn@13.0.0
 - pkg:maven/io.ebean/ebean-spring-txn@13.0.0?classifier=sources
+- pkg:maven/io.ebean/ebean-spring-txn@13.9.0
+- pkg:maven/io.ebean/ebean-spring-txn@13.9.0?classifier=sources
+- pkg:maven/io.ebean/ebean-spring-txn@13.9.1
+- pkg:maven/io.ebean/ebean-spring-txn@13.9.1?classifier=sources

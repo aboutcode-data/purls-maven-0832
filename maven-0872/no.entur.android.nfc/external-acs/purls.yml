@@ -3,3 +3,4 @@
 - pkg:maven/no.entur.android.nfc/external-acs@1.0.3?classifier=sources
 - pkg:maven/no.entur.android.nfc/external-acs@1.0.4?classifier=sources
 - pkg:maven/no.entur.android.nfc/external-acs@1.0.7?classifier=sources
+- pkg:maven/no.entur.android.nfc/external-acs@1.0.9?classifier=sources

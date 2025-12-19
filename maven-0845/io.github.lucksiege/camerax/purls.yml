@@ -14,3 +14,4 @@
 - pkg:maven/io.github.lucksiege/camerax@v3.10.2?classifier=sources
 - pkg:maven/io.github.lucksiege/camerax@v3.10.3?classifier=sources
 - pkg:maven/io.github.lucksiege/camerax@v3.10.4?classifier=sources
+- pkg:maven/io.github.lucksiege/camerax@v3.10.6?classifier=sources

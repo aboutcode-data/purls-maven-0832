@@ -1,0 +1,2 @@
+- pkg:maven/dev.hilla/parser-jvm-plugin-backbone@1.2.0
+- pkg:maven/dev.hilla/parser-jvm-plugin-backbone@1.2.0?classifier=sources

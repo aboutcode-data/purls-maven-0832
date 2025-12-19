@@ -3,4 +3,5 @@
 - pkg:maven/us.ihmc/ihmc-yovariables-test@0.9.12?classifier=sources
 - pkg:maven/us.ihmc/ihmc-yovariables-test@0.9.13?classifier=sources
 - pkg:maven/us.ihmc/ihmc-yovariables-test@0.9.15?classifier=sources
+- pkg:maven/us.ihmc/ihmc-yovariables-test@0.9.16?classifier=sources
 - pkg:maven/us.ihmc/ihmc-yovariables-test@0.9.9?classifier=sources

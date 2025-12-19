@@ -746,6 +746,8 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.181?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.182?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.190?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.191?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.20?classifier=source-release&type=zip
@@ -836,3 +838,9 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.98?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.99?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.7.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.8.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.8.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.8.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.8.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.8.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/identity-inbound-auth-oauth@6.8.5?classifier=source-release&type=zip

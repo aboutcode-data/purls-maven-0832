@@ -1,0 +1,2 @@
+- pkg:maven/io.github.weasley-j/dtt-spring-boot-starter@1.3.5
+- pkg:maven/io.github.weasley-j/dtt-spring-boot-starter@1.3.5?classifier=sources

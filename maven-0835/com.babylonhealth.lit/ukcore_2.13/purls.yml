@@ -1,0 +1,2 @@
+- pkg:maven/com.babylonhealth.lit/ukcore_2.13@0.14.15
+- pkg:maven/com.babylonhealth.lit/ukcore_2.13@0.14.15?classifier=sources

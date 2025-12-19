@@ -58,6 +58,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.2.29?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.2.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.2.2?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.2.30?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.2.30?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.2.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.2.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.2.4?classifier=sources
@@ -108,6 +110,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.3.24?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.3.25?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.3.25?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.3.26?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.3.26?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.3.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.3.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jsf22-cdi@7.3.3?classifier=sources

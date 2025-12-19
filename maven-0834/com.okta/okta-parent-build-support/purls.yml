@@ -17,6 +17,8 @@
 - pkg:maven/com.okta/okta-parent-build-support@22?classifier=sources
 - pkg:maven/com.okta/okta-parent-build-support@23
 - pkg:maven/com.okta/okta-parent-build-support@23?classifier=sources
+- pkg:maven/com.okta/okta-parent-build-support@24
+- pkg:maven/com.okta/okta-parent-build-support@24?classifier=sources
 - pkg:maven/com.okta/okta-parent-build-support@4
 - pkg:maven/com.okta/okta-parent-build-support@5
 - pkg:maven/com.okta/okta-parent-build-support@6

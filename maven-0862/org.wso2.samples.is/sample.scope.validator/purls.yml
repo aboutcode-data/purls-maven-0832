@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.samples.is/sample.scope.validator@4.5.0
+- pkg:maven/org.wso2.samples.is/sample.scope.validator@4.5.0?classifier=sources
+- pkg:maven/org.wso2.samples.is/sample.scope.validator@4.5.1
+- pkg:maven/org.wso2.samples.is/sample.scope.validator@4.5.1?classifier=sources

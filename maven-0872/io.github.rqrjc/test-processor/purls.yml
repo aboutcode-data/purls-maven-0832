@@ -1,0 +1,4 @@
+- pkg:maven/io.github.rqrjc/test-processor@1.1.1
+- pkg:maven/io.github.rqrjc/test-processor@1.1.1?classifier=sources
+- pkg:maven/io.github.rqrjc/test-processor@1.1.3
+- pkg:maven/io.github.rqrjc/test-processor@1.1.3?classifier=sources

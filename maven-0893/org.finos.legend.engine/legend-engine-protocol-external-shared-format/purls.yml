@@ -68,6 +68,8 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-shared-format@3.0.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-shared-format@3.1.0
 - pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-shared-format@3.1.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-shared-format@3.10.0
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-shared-format@3.10.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-shared-format@3.2.0
 - pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-shared-format@3.2.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-protocol-external-shared-format@3.2.1

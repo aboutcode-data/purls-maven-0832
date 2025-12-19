@@ -168,6 +168,7 @@
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@13.0.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@13.0.9.Final
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@13.0.9.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.0.CR1
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.0.Dev02

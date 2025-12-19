@@ -2,6 +2,18 @@
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.0?classifier=sources
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.1
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.10
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.100
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.100?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.101
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.101?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.102
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.102?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.103
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.103?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.104
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.104?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.105
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.105?classifier=sources
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.10?classifier=sources
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.11
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.11?classifier=sources
@@ -190,4 +202,8 @@
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.96?classifier=sources
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.97
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.97?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.98
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.98?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.99
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.99?classifier=sources
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@2.0.9?classifier=sources

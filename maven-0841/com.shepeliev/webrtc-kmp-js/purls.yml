@@ -1,3 +1,6 @@
+- pkg:maven/com.shepeliev/webrtc-kmp-js@0.100.0?classifier=sources
+- pkg:maven/com.shepeliev/webrtc-kmp-js@0.100.1?classifier=sources
+- pkg:maven/com.shepeliev/webrtc-kmp-js@0.100.2?classifier=sources
 - pkg:maven/com.shepeliev/webrtc-kmp-js@0.89.2?classifier=sources
 - pkg:maven/com.shepeliev/webrtc-kmp-js@0.89.3?classifier=sources
 - pkg:maven/com.shepeliev/webrtc-kmp-js@0.89.4?classifier=sources

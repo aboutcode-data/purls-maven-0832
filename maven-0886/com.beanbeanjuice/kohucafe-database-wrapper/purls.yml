@@ -1,0 +1,4 @@
+- pkg:maven/com.beanbeanjuice/kohucafe-database-wrapper@1.0.0
+- pkg:maven/com.beanbeanjuice/kohucafe-database-wrapper@1.0.0?classifier=sources
+- pkg:maven/com.beanbeanjuice/kohucafe-database-wrapper@1.1.0
+- pkg:maven/com.beanbeanjuice/kohucafe-database-wrapper@1.1.0?classifier=sources

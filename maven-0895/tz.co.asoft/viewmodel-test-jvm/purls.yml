@@ -1,3 +1,4 @@
 - pkg:maven/tz.co.asoft/viewmodel-test-jvm@0.0.5?classifier=sources
 - pkg:maven/tz.co.asoft/viewmodel-test-jvm@2.0.0?classifier=sources
 - pkg:maven/tz.co.asoft/viewmodel-test-jvm@2.0.1?classifier=sources
+- pkg:maven/tz.co.asoft/viewmodel-test-jvm@2.0.2?classifier=sources

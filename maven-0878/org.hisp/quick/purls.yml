@@ -12,3 +12,5 @@
 - pkg:maven/org.hisp/quick@1.3?classifier=sources
 - pkg:maven/org.hisp/quick@1.4.0
 - pkg:maven/org.hisp/quick@1.4.0?classifier=sources
+- pkg:maven/org.hisp/quick@1.4.1
+- pkg:maven/org.hisp/quick@1.4.1?classifier=sources

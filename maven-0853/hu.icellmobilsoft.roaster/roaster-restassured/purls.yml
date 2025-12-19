@@ -16,3 +16,5 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-restassured@0.6.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-restassured@0.7.0
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-restassured@0.7.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-restassured@0.8.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-restassured@0.8.0?classifier=sources

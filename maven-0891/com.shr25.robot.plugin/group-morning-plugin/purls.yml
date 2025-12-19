@@ -1,0 +1,2 @@
+- pkg:maven/com.shr25.robot.plugin/group-morning-plugin@1.0.1
+- pkg:maven/com.shr25.robot.plugin/group-morning-plugin@1.0.1?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/org.jdbi/jdbi3-generator@3.30.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-generator@3.31.0
 - pkg:maven/org.jdbi/jdbi3-generator@3.31.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-generator@3.32.0
+- pkg:maven/org.jdbi/jdbi3-generator@3.32.0?classifier=sources

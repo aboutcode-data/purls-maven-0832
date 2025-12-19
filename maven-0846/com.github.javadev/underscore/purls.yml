@@ -130,6 +130,8 @@
 - pkg:maven/com.github.javadev/underscore@1.79?classifier=sources
 - pkg:maven/com.github.javadev/underscore@1.7?classifier=sources
 - pkg:maven/com.github.javadev/underscore@1.8
+- pkg:maven/com.github.javadev/underscore@1.80?classifier=sources
+- pkg:maven/com.github.javadev/underscore@1.81?classifier=sources
 - pkg:maven/com.github.javadev/underscore@1.8?classifier=sources
 - pkg:maven/com.github.javadev/underscore@1.9
 - pkg:maven/com.github.javadev/underscore@1.9?classifier=sources

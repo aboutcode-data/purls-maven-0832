@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.drill.contrib/drill-format-sas@1.20.0-hadoop2
 - pkg:maven/org.apache.drill.contrib/drill-format-sas@1.20.0-hadoop2?classifier=sources
 - pkg:maven/org.apache.drill.contrib/drill-format-sas@1.20.0?classifier=sources
+- pkg:maven/org.apache.drill.contrib/drill-format-sas@1.20.2
+- pkg:maven/org.apache.drill.contrib/drill-format-sas@1.20.2?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-push-adm@2.41.2?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-push-adm@2.42.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-push-adm@2.42.1?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-push-adm@2.43.0?type=aar

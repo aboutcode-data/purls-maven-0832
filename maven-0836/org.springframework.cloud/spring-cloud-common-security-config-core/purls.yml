@@ -42,3 +42,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-common-security-config-core@1.7.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-common-security-config-core@1.7.4
 - pkg:maven/org.springframework.cloud/spring-cloud-common-security-config-core@1.7.4?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-common-security-config-core@1.7.5
+- pkg:maven/org.springframework.cloud/spring-cloud-common-security-config-core@1.7.5?classifier=sources

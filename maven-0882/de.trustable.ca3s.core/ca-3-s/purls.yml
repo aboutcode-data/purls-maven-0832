@@ -61,6 +61,8 @@
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.44?classifier=sources
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.45
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.45?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.48
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.48?classifier=sources
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.4?classifier=sources
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.5
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@0.1.5?classifier=sources

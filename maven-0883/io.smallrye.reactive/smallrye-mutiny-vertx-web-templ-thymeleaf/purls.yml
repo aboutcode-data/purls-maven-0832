@@ -54,6 +54,10 @@
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.24.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.24.1
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.24.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.25.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.25.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.26.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.26.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.3.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.3.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.4.0
@@ -70,3 +74,5 @@
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.8.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.9.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@2.9.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@3.0.0-milestone1
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-templ-thymeleaf@3.0.0-milestone1?classifier=sources

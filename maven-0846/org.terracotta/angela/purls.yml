@@ -191,6 +191,14 @@
 - pkg:maven/org.terracotta/angela@3.3.24?classifier=sources
 - pkg:maven/org.terracotta/angela@3.3.25
 - pkg:maven/org.terracotta/angela@3.3.25?classifier=sources
+- pkg:maven/org.terracotta/angela@3.3.26
+- pkg:maven/org.terracotta/angela@3.3.26?classifier=sources
+- pkg:maven/org.terracotta/angela@3.3.27
+- pkg:maven/org.terracotta/angela@3.3.27?classifier=sources
+- pkg:maven/org.terracotta/angela@3.3.28
+- pkg:maven/org.terracotta/angela@3.3.28?classifier=sources
+- pkg:maven/org.terracotta/angela@3.3.29
+- pkg:maven/org.terracotta/angela@3.3.29?classifier=sources
 - pkg:maven/org.terracotta/angela@3.3.2?classifier=sources
 - pkg:maven/org.terracotta/angela@3.3.3
 - pkg:maven/org.terracotta/angela@3.3.3?classifier=sources

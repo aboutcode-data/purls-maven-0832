@@ -1,0 +1,2 @@
+- pkg:maven/icu.easyj.boot.middleware/easyj-middleware-all-server-application@0.7.5
+- pkg:maven/icu.easyj.boot.middleware/easyj-middleware-all-server-application@0.7.5?classifier=sources

@@ -74,5 +74,11 @@
 - pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.23.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.24.0.Beta
 - pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.24.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.24.1.Beta
+- pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.24.1.Beta?classifier=sources
 - pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.25.0.Beta
 - pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.25.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.26.0.Beta
+- pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.26.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.27.0.Beta
+- pkg:maven/org.kie/kie-pmml-models-scorecard-tests@8.27.0.Beta?classifier=sources

@@ -716,3 +716,7 @@
 - pkg:maven/io.mangoo/mangooio-maven-archetype@7.5.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-maven-archetype@7.6.0
 - pkg:maven/io.mangoo/mangooio-maven-archetype@7.6.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@7.7.0
+- pkg:maven/io.mangoo/mangooio-maven-archetype@7.7.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@7.8.0-Beta1
+- pkg:maven/io.mangoo/mangooio-maven-archetype@7.8.0-Beta1?classifier=sources

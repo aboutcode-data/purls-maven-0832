@@ -1,0 +1,4 @@
+- pkg:maven/io.github.swsw1005/caffeine-utils@1.0.5-SNAPSHOTS
+- pkg:maven/io.github.swsw1005/caffeine-utils@1.0.5-SNAPSHOTS?classifier=sources
+- pkg:maven/io.github.swsw1005/caffeine-utils@1.0.5-test
+- pkg:maven/io.github.swsw1005/caffeine-utils@1.0.5-test?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.jdbc/quarkus-jdbc-clickhouse-docs@0.0.1
+- pkg:maven/io.quarkiverse.jdbc/quarkus-jdbc-clickhouse-docs@0.0.1?classifier=sources

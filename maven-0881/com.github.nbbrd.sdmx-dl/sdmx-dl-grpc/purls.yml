@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nbbrd.sdmx-dl/sdmx-dl-grpc@3.0.0-beta.7
+- pkg:maven/com.github.nbbrd.sdmx-dl/sdmx-dl-grpc@3.0.0-beta.7?classifier=sources

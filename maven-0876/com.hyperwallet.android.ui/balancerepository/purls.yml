@@ -4,3 +4,5 @@
 - pkg:maven/com.hyperwallet.android.ui/balancerepository@1.0.0-beta11?type=aar
 - pkg:maven/com.hyperwallet.android.ui/balancerepository@1.0.0-beta12?classifier=sources
 - pkg:maven/com.hyperwallet.android.ui/balancerepository@1.0.0-beta12?type=aar
+- pkg:maven/com.hyperwallet.android.ui/balancerepository@1.0.0-beta13?classifier=sources
+- pkg:maven/com.hyperwallet.android.ui/balancerepository@1.0.0-beta13?type=aar

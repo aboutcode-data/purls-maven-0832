@@ -18,6 +18,10 @@
 - pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1-rev20220315-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1-rev20220412-1.32.1
 - pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1-rev20220412-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1-rev20220412-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1-rev20220412-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1-rev20220817-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1-rev20220817-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1beta-rev20200901-1.30.10
 - pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1beta-rev20200901-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1beta-rev20200923-1.30.10
@@ -42,3 +46,5 @@
 - pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1beta-rev20210817-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1beta-rev20211019-1.32.1
 - pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1beta-rev20211019-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1beta-rev20211019-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workflowexecutions@v1beta-rev20211019-2.0.0?classifier=sources

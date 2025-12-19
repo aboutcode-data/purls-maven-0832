@@ -1,0 +1,4 @@
+- pkg:maven/com.shopizer/shopizer-search-opensearch-spring-boot-autoconfigure@1.0.0-ALPHA
+- pkg:maven/com.shopizer/shopizer-search-opensearch-spring-boot-autoconfigure@1.0.0-ALPHA?classifier=sources
+- pkg:maven/com.shopizer/shopizer-search-opensearch-spring-boot-autoconfigure@1.0.1-ALPHA
+- pkg:maven/com.shopizer/shopizer-search-opensearch-spring-boot-autoconfigure@1.0.1-ALPHA?classifier=sources

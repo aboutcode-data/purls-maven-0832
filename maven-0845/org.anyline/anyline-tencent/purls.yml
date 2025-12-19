@@ -130,3 +130,17 @@
 - pkg:maven/org.anyline/anyline-tencent@8.5.3-beta3?classifier=sources
 - pkg:maven/org.anyline/anyline-tencent@8.5.5-20220725
 - pkg:maven/org.anyline/anyline-tencent@8.5.5-20220725?classifier=sources
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220731
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220731?classifier=sources
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220801
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220801?classifier=sources
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220802
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220802?classifier=sources
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220805
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220805?classifier=sources
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220808
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-20220808?classifier=sources
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-8.5.5-20220801
+- pkg:maven/org.anyline/anyline-tencent@8.5.5-8.5.5-20220801?classifier=sources
+- pkg:maven/org.anyline/anyline-tencent@8.5.6-20220808
+- pkg:maven/org.anyline/anyline-tencent@8.5.6-20220808?classifier=sources

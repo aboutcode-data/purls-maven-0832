@@ -653,6 +653,14 @@
 - pkg:maven/org.prompto/CodeFactory@0.1.91?classifier=sources
 - pkg:maven/org.prompto/CodeFactory@0.1.92
 - pkg:maven/org.prompto/CodeFactory@0.1.92?classifier=sources
+- pkg:maven/org.prompto/CodeFactory@0.1.93
+- pkg:maven/org.prompto/CodeFactory@0.1.93?classifier=sources
+- pkg:maven/org.prompto/CodeFactory@0.1.94
+- pkg:maven/org.prompto/CodeFactory@0.1.94?classifier=sources
+- pkg:maven/org.prompto/CodeFactory@0.1.95
+- pkg:maven/org.prompto/CodeFactory@0.1.95?classifier=sources
+- pkg:maven/org.prompto/CodeFactory@0.1.96
+- pkg:maven/org.prompto/CodeFactory@0.1.96?classifier=sources
 - pkg:maven/org.prompto/CodeFactory@0.1.9?classifier=sources
 - pkg:maven/org.prompto/CodeFactory@1.0.26
 - pkg:maven/org.prompto/CodeFactory@1.0.26?classifier=sources

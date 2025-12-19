@@ -1,0 +1,4 @@
+- pkg:maven/io.github.caldremch/android-http@1.0.0?classifier=sources
+- pkg:maven/io.github.caldremch/android-http@1.0.1-rc1?classifier=sources
+- pkg:maven/io.github.caldremch/android-http@1.0.1-rc2?classifier=sources
+- pkg:maven/io.github.caldremch/android-http@1.0.1-rc3?classifier=sources

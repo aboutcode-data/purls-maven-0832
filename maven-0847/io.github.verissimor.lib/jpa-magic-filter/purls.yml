@@ -1,3 +1,9 @@
 - pkg:maven/io.github.verissimor.lib/jpa-magic-filter@0.0.10?classifier=sources
 - pkg:maven/io.github.verissimor.lib/jpa-magic-filter@0.0.11?classifier=sources
+- pkg:maven/io.github.verissimor.lib/jpa-magic-filter@0.0.12?classifier=sources
 - pkg:maven/io.github.verissimor.lib/jpa-magic-filter@0.0.9?classifier=sources
+- pkg:maven/io.github.verissimor.lib/jpa-magic-filter@1.0.0?classifier=sources
+- pkg:maven/io.github.verissimor.lib/jpa-magic-filter@1.0.1?classifier=sources
+- pkg:maven/io.github.verissimor.lib/jpa-magic-filter@1.0.2?classifier=sources
+- pkg:maven/io.github.verissimor.lib/jpa-magic-filter@1.0.3?classifier=sources
+- pkg:maven/io.github.verissimor.lib/jpa-magic-filter@1.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.zhxu/data-fastjson2-jsonb@1.5.0
+- pkg:maven/cn.zhxu/data-fastjson2-jsonb@1.5.0?classifier=sources

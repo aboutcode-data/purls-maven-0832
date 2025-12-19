@@ -1,2 +1,4 @@
 - pkg:maven/net.wensel/cascading-core@4.0.0?classifier=sources
 - pkg:maven/net.wensel/cascading-core@4.0.1?classifier=sources
+- pkg:maven/net.wensel/cascading-core@4.1.0?classifier=sources
+- pkg:maven/net.wensel/cascading-core@4.5.0?classifier=sources

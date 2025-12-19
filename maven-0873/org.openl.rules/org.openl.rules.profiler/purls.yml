@@ -1,0 +1,2 @@
+- pkg:maven/org.openl.rules/org.openl.rules.profiler@5.26.1
+- pkg:maven/org.openl.rules/org.openl.rules.profiler@5.26.1?classifier=sources

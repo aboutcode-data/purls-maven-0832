@@ -4,3 +4,5 @@
 - pkg:maven/com.mastfrog/http-test-microframework@0.9.5-dev?classifier=sources
 - pkg:maven/com.mastfrog/http-test-microframework@0.9.6-dev
 - pkg:maven/com.mastfrog/http-test-microframework@0.9.6-dev?classifier=sources
+- pkg:maven/com.mastfrog/http-test-microframework@0.9.7-dev
+- pkg:maven/com.mastfrog/http-test-microframework@0.9.7-dev?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.datarobot/datarobot-mlops@8.1.3?classifier=sources
 - pkg:maven/com.datarobot/datarobot-mlops@8.1.4
 - pkg:maven/com.datarobot/datarobot-mlops@8.1.4?classifier=sources
+- pkg:maven/com.datarobot/datarobot-mlops@8.2.5
+- pkg:maven/com.datarobot/datarobot-mlops@8.2.5?classifier=sources

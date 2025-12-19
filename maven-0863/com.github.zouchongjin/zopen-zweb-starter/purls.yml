@@ -44,3 +44,5 @@
 - pkg:maven/com.github.zouchongjin/zopen-zweb-starter@1.3.3?classifier=sources
 - pkg:maven/com.github.zouchongjin/zopen-zweb-starter@1.3.4
 - pkg:maven/com.github.zouchongjin/zopen-zweb-starter@1.3.4?classifier=sources
+- pkg:maven/com.github.zouchongjin/zopen-zweb-starter@1.4.0
+- pkg:maven/com.github.zouchongjin/zopen-zweb-starter@1.4.0?classifier=sources

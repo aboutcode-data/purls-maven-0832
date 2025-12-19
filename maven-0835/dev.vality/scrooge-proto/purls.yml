@@ -1,2 +1,4 @@
 - pkg:maven/dev.vality/scrooge-proto@1.16-b0d5cf2
 - pkg:maven/dev.vality/scrooge-proto@1.16-b0d5cf2?classifier=sources
+- pkg:maven/dev.vality/scrooge-proto@1.17-c4ab541
+- pkg:maven/dev.vality/scrooge-proto@1.17-c4ab541?classifier=sources

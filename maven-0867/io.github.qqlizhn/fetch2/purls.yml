@@ -1,0 +1,4 @@
+- pkg:maven/io.github.qqlizhn/fetch2@3.0.12?classifier=sources
+- pkg:maven/io.github.qqlizhn/fetch2@3.0.12?type=aar
+- pkg:maven/io.github.qqlizhn/fetch2@3.0.13?classifier=sources
+- pkg:maven/io.github.qqlizhn/fetch2@3.0.13?type=aar

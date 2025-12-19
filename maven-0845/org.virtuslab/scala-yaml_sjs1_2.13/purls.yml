@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/scala-yaml_sjs1_2.13@0.0.5
+- pkg:maven/org.virtuslab/scala-yaml_sjs1_2.13@0.0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.bilal-fazlani/rainbowcli_3@3.0.0
+- pkg:maven/com.bilal-fazlani/rainbowcli_3@3.0.0?classifier=sources
+- pkg:maven/com.bilal-fazlani/rainbowcli_3@3.0.1
+- pkg:maven/com.bilal-fazlani/rainbowcli_3@3.0.1?classifier=sources

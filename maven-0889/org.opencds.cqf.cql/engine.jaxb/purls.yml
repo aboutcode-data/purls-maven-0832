@@ -10,3 +10,7 @@
 - pkg:maven/org.opencds.cqf.cql/engine.jaxb@1.5.7?classifier=sources
 - pkg:maven/org.opencds.cqf.cql/engine.jaxb@1.5.8
 - pkg:maven/org.opencds.cqf.cql/engine.jaxb@1.5.8?classifier=sources
+- pkg:maven/org.opencds.cqf.cql/engine.jaxb@1.5.9
+- pkg:maven/org.opencds.cqf.cql/engine.jaxb@1.5.9?classifier=sources
+- pkg:maven/org.opencds.cqf.cql/engine.jaxb@2.0.0
+- pkg:maven/org.opencds.cqf.cql/engine.jaxb@2.0.0?classifier=sources

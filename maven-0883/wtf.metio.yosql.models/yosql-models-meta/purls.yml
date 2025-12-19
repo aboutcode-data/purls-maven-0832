@@ -18,3 +18,7 @@
 - pkg:maven/wtf.metio.yosql.models/yosql-models-meta@2022.7.20?classifier=sources
 - pkg:maven/wtf.metio.yosql.models/yosql-models-meta@2022.7.6
 - pkg:maven/wtf.metio.yosql.models/yosql-models-meta@2022.7.6?classifier=sources
+- pkg:maven/wtf.metio.yosql.models/yosql-models-meta@2022.8.10
+- pkg:maven/wtf.metio.yosql.models/yosql-models-meta@2022.8.10?classifier=sources
+- pkg:maven/wtf.metio.yosql.models/yosql-models-meta@2022.9.7
+- pkg:maven/wtf.metio.yosql.models/yosql-models-meta@2022.9.7?classifier=sources

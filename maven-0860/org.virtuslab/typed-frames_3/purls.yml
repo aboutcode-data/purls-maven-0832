@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/typed-frames_3@0.0.1
+- pkg:maven/org.virtuslab/typed-frames_3@0.0.1?classifier=sources

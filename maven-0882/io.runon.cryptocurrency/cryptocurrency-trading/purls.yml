@@ -2,3 +2,7 @@
 - pkg:maven/io.runon.cryptocurrency/cryptocurrency-trading@0.0.9?classifier=sources
 - pkg:maven/io.runon.cryptocurrency/cryptocurrency-trading@0.1.0
 - pkg:maven/io.runon.cryptocurrency/cryptocurrency-trading@0.1.0?classifier=sources
+- pkg:maven/io.runon.cryptocurrency/cryptocurrency-trading@0.1.1
+- pkg:maven/io.runon.cryptocurrency/cryptocurrency-trading@0.1.1?classifier=sources
+- pkg:maven/io.runon.cryptocurrency/cryptocurrency-trading@0.1.2
+- pkg:maven/io.runon.cryptocurrency/cryptocurrency-trading@0.1.2?classifier=sources

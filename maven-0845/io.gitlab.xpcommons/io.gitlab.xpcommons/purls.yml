@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.xpcommons/io.gitlab.xpcommons@1.0.0
+- pkg:maven/io.gitlab.xpcommons/io.gitlab.xpcommons@1.0.0?classifier=sources

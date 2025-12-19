@@ -1,0 +1,2 @@
+- pkg:maven/io.pivotal.services.dataTx/gemfire-extensions-core@1.0.0?classifier=sources
+- pkg:maven/io.pivotal.services.dataTx/gemfire-extensions-core@1.1.0?classifier=sources

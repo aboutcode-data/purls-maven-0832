@@ -1,3 +1,5 @@
+- pkg:maven/org.bitcoin-s/tortest_2.13@0.0.9
+- pkg:maven/org.bitcoin-s/tortest_2.13@0.0.9?classifier=sources
 - pkg:maven/org.bitcoin-s/tortest_2.13@1.7.0
 - pkg:maven/org.bitcoin-s/tortest_2.13@1.7.0?classifier=sources
 - pkg:maven/org.bitcoin-s/tortest_2.13@1.8.0

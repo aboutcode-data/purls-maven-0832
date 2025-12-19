@@ -1,0 +1,4 @@
+- pkg:maven/org.guohai/fa4j-spring-boot-starter@0.8.2
+- pkg:maven/org.guohai/fa4j-spring-boot-starter@0.8.2?classifier=sources
+- pkg:maven/org.guohai/fa4j-spring-boot-starter@0.8.4
+- pkg:maven/org.guohai/fa4j-spring-boot-starter@0.8.4?classifier=sources

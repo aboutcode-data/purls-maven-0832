@@ -9,6 +9,7 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-kafka-clients-2.6@1.14.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-kafka-clients-2.6@1.15.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-kafka-clients-2.6@1.16.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-kafka-clients-2.6@1.17.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-kafka-clients-2.6@1.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-kafka-clients-2.6@1.7.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-kafka-clients-2.6@1.7.2-alpha?classifier=sources

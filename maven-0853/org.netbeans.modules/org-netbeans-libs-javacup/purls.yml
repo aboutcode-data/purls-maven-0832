@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacup@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacup@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacup@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javacup@RELEASE150?classifier=sources
