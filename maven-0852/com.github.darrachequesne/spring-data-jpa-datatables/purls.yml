@@ -48,3 +48,7 @@
 - pkg:maven/com.github.darrachequesne/spring-data-jpa-datatables@6.0.1?classifier=sources
 - pkg:maven/com.github.darrachequesne/spring-data-jpa-datatables@6.0.2
 - pkg:maven/com.github.darrachequesne/spring-data-jpa-datatables@6.0.2?classifier=sources
+- pkg:maven/com.github.darrachequesne/spring-data-jpa-datatables@6.0.3
+- pkg:maven/com.github.darrachequesne/spring-data-jpa-datatables@6.0.3?classifier=sources
+- pkg:maven/com.github.darrachequesne/spring-data-jpa-datatables@6.0.4
+- pkg:maven/com.github.darrachequesne/spring-data-jpa-datatables@6.0.4?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.keypop/keypop-calypso-card-java-api@2.0.0?classifier=sources
+- pkg:maven/org.eclipse.keypop/keypop-calypso-card-java-api@2.1.0?classifier=sources

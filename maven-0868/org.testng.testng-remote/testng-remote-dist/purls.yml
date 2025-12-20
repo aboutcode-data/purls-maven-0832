@@ -1,3 +1,4 @@
 - pkg:maven/org.testng.testng-remote/testng-remote-dist@1.5.1
 - pkg:maven/org.testng.testng-remote/testng-remote-dist@1.5.2
 - pkg:maven/org.testng.testng-remote/testng-remote-dist@1.6.0
+- pkg:maven/org.testng.testng-remote/testng-remote-dist@1.7.0

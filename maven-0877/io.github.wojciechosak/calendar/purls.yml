@@ -2,4 +2,8 @@
 - pkg:maven/io.github.wojciechosak/calendar@0.0.2?classifier=sources
 - pkg:maven/io.github.wojciechosak/calendar@0.0.4?classifier=sources
 - pkg:maven/io.github.wojciechosak/calendar@0.0.5?classifier=sources
+- pkg:maven/io.github.wojciechosak/calendar@0.0.6?classifier=sources
+- pkg:maven/io.github.wojciechosak/calendar@0.0.7?classifier=sources
+- pkg:maven/io.github.wojciechosak/calendar@0.0.8-compose-1.5.11?classifier=sources
+- pkg:maven/io.github.wojciechosak/calendar@0.0.8?classifier=sources
 - pkg:maven/io.github.wojciechosak/calendar@unspecified?classifier=sources

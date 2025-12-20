@@ -97,4 +97,9 @@
 - pkg:maven/com.keyri/scanner@4.2.3?classifier=sources
 - pkg:maven/com.keyri/scanner@4.2.4?classifier=sources
 - pkg:maven/com.keyri/scanner@4.3.0-alpha01?classifier=sources
+- pkg:maven/com.keyri/scanner@4.3.0-alpha02?classifier=sources
+- pkg:maven/com.keyri/scanner@4.3.0-alpha03?classifier=sources
+- pkg:maven/com.keyri/scanner@4.3.0-alpha04?classifier=sources
+- pkg:maven/com.keyri/scanner@4.3.0-alpha05?classifier=sources
+- pkg:maven/com.keyri/scanner@4.3.0?classifier=sources
 - pkg:maven/com.keyri/scanner@VERSION?classifier=sources

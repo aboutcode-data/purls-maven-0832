@@ -103,3 +103,12 @@
 - pkg:maven/com.pulumi/kafka@3.7.0-alpha.1710156443%2Bffe66dce?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.7.0-alpha.1710413939%2B0c16e2ce?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.7.0?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.7.1?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.8.0-alpha.1710917137%2Ba0ad74cc?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.8.0-alpha.1710995365%2Be6f2db57?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.8.0-alpha.1711027318%2Be740bde0?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.8.0-alpha.1711518715%2Bcbb46358?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.8.0-alpha.1711737033%2B6de1e585?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.8.0-alpha.1711778096%2Bf5f2babe?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.8.0-alpha.1712399632%2Ba7305d2d?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.8.0-alpha.1712728075%2B290c1527?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.nierjia/nierjia-common@0.0.1
 - pkg:maven/com.nierjia/nierjia-common@0.0.1?classifier=sources
+- pkg:maven/com.nierjia/nierjia-common@0.0.3
+- pkg:maven/com.nierjia/nierjia-common@0.0.3?classifier=sources
+- pkg:maven/com.nierjia/nierjia-common@0.0.4
+- pkg:maven/com.nierjia/nierjia-common@0.0.4?classifier=sources

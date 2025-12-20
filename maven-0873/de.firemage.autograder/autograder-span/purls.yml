@@ -1,1 +1,7 @@
 - pkg:maven/de.firemage.autograder/autograder-span@0.5.29?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-span@0.5.30?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-span@0.5.31?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-span@0.5.32?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-span@0.5.33?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-span@0.5.34?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-span@0.5.35?classifier=sources

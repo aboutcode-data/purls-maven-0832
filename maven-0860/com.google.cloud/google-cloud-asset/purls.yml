@@ -280,6 +280,14 @@
 - pkg:maven/com.google.cloud/google-cloud-asset@3.40.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-asset@3.41.0
 - pkg:maven/com.google.cloud/google-cloud-asset@3.41.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-asset@3.42.0
+- pkg:maven/com.google.cloud/google-cloud-asset@3.42.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-asset@3.43.0
+- pkg:maven/com.google.cloud/google-cloud-asset@3.43.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-asset@3.44.0
+- pkg:maven/com.google.cloud/google-cloud-asset@3.44.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-asset@3.45.0
+- pkg:maven/com.google.cloud/google-cloud-asset@3.45.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-asset@3.5.0
 - pkg:maven/com.google.cloud/google-cloud-asset@3.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-asset@3.6.0

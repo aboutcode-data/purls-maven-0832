@@ -98,3 +98,5 @@
 - pkg:maven/com.salesforce.utam/utam-compiler@2.0.9?classifier=sources
 - pkg:maven/com.salesforce.utam/utam-compiler@3.0.0
 - pkg:maven/com.salesforce.utam/utam-compiler@3.0.0?classifier=sources
+- pkg:maven/com.salesforce.utam/utam-compiler@4.0.0-alpha-1
+- pkg:maven/com.salesforce.utam/utam-compiler@4.0.0-alpha-1?classifier=sources

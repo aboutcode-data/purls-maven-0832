@@ -3,6 +3,10 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.1
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.10
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.10?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.11
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.11?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.12
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.12?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.1?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.2
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@7.6.2?classifier=sources

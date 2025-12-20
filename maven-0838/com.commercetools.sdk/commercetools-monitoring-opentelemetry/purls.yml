@@ -11,3 +11,5 @@
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@17.5.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@17.6.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@17.7.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@17.8.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@17.9.0?classifier=sources

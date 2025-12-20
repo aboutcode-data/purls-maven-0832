@@ -5,3 +5,4 @@
 - pkg:maven/com.tencent.imsdk/tuigroupnote-plugin@7.7.5282?classifier=sources
 - pkg:maven/com.tencent.imsdk/tuigroupnote-plugin@7.8.5483?classifier=sources
 - pkg:maven/com.tencent.imsdk/tuigroupnote-plugin@7.8.5484?classifier=sources
+- pkg:maven/com.tencent.imsdk/tuigroupnote-plugin@7.9.5666?classifier=sources

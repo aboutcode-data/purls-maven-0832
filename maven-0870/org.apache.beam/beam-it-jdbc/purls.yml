@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.beam/beam-it-jdbc@2.54.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-it-jdbc@2.55.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-it-jdbc@2.55.1?classifier=sources
+- pkg:maven/org.apache.beam/beam-it-jdbc@2.56.0?classifier=sources

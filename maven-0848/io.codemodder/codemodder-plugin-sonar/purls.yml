@@ -8,3 +8,13 @@
 - pkg:maven/io.codemodder/codemodder-plugin-sonar@0.70.4?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-sonar@0.70.5?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-sonar@0.70.6?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.71.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.71.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.72.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.72.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.72.2?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.73.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.73.2?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.74.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.75.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@v0.72.2?classifier=sources

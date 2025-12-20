@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wohatel/node-file-nets@1.0.0?classifier=sources
+- pkg:maven/io.github.wohatel/node-file-nets@1.2.0?classifier=sources

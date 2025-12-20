@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatest/scalatest-shouldmatchers_native0.5_2.13@3.2.18
+- pkg:maven/org.scalatest/scalatest-shouldmatchers_native0.5_2.13@3.2.18?classifier=sources

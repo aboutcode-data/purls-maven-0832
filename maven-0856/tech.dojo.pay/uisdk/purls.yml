@@ -2,3 +2,4 @@
 - pkg:maven/tech.dojo.pay/uisdk@1.3.6?classifier=sources
 - pkg:maven/tech.dojo.pay/uisdk@1.3.7?classifier=sources
 - pkg:maven/tech.dojo.pay/uisdk@1.4.0?classifier=sources
+- pkg:maven/tech.dojo.pay/uisdk@1.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.inlong/sort-format-inlongmsg-rowdata-csv@1.12.0
+- pkg:maven/org.apache.inlong/sort-format-inlongmsg-rowdata-csv@1.12.0?classifier=sources

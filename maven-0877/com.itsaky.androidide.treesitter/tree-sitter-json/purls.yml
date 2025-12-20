@@ -1,3 +1,6 @@
 - pkg:maven/com.itsaky.androidide.treesitter/tree-sitter-json@4.0.0?classifier=sources
 - pkg:maven/com.itsaky.androidide.treesitter/tree-sitter-json@4.0.1?classifier=sources
 - pkg:maven/com.itsaky.androidide.treesitter/tree-sitter-json@4.1.0?classifier=sources
+- pkg:maven/com.itsaky.androidide.treesitter/tree-sitter-json@4.2.0?classifier=sources
+- pkg:maven/com.itsaky.androidide.treesitter/tree-sitter-json@4.3.0?classifier=sources
+- pkg:maven/com.itsaky.androidide.treesitter/tree-sitter-json@4.3.1?classifier=sources

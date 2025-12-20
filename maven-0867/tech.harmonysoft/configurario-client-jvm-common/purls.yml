@@ -1,0 +1,2 @@
+- pkg:maven/tech.harmonysoft/configurario-client-jvm-common@1.0.2?classifier=sources
+- pkg:maven/tech.harmonysoft/configurario-client-jvm-common@1.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed@1.34.0
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed@1.34.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed@1.37.0
+- pkg:maven/dev.ikm.tinkar/reasoner-elk-snomed@1.37.0?classifier=sources

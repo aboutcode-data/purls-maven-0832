@@ -30,6 +30,8 @@
 - pkg:maven/com.artipie/files-adapter@v0.30.13?classifier=sources
 - pkg:maven/com.artipie/files-adapter@v0.30.14
 - pkg:maven/com.artipie/files-adapter@v0.30.14?classifier=sources
+- pkg:maven/com.artipie/files-adapter@v0.30.15
+- pkg:maven/com.artipie/files-adapter@v0.30.15?classifier=sources
 - pkg:maven/com.artipie/files-adapter@v1.0.0
 - pkg:maven/com.artipie/files-adapter@v1.0.0?classifier=sources
 - pkg:maven/com.artipie/files-adapter@v1.0.1
@@ -46,6 +48,16 @@
 - pkg:maven/com.artipie/files-adapter@v1.1.5?classifier=sources
 - pkg:maven/com.artipie/files-adapter@v1.17.10
 - pkg:maven/com.artipie/files-adapter@v1.17.10?classifier=sources
+- pkg:maven/com.artipie/files-adapter@v1.17.11
+- pkg:maven/com.artipie/files-adapter@v1.17.11?classifier=sources
+- pkg:maven/com.artipie/files-adapter@v1.17.12
+- pkg:maven/com.artipie/files-adapter@v1.17.12?classifier=sources
+- pkg:maven/com.artipie/files-adapter@v1.17.13
+- pkg:maven/com.artipie/files-adapter@v1.17.13?classifier=sources
+- pkg:maven/com.artipie/files-adapter@v1.17.14
+- pkg:maven/com.artipie/files-adapter@v1.17.14?classifier=sources
+- pkg:maven/com.artipie/files-adapter@v1.17.15
+- pkg:maven/com.artipie/files-adapter@v1.17.15?classifier=sources
 - pkg:maven/com.artipie/files-adapter@v1.17.2
 - pkg:maven/com.artipie/files-adapter@v1.17.2?classifier=sources
 - pkg:maven/com.artipie/files-adapter@v1.17.3

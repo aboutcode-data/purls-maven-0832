@@ -6,3 +6,9 @@
 - pkg:maven/com.ossuminc/riddl-language_3@0.37.1?classifier=sources
 - pkg:maven/com.ossuminc/riddl-language_3@0.39.0
 - pkg:maven/com.ossuminc/riddl-language_3@0.39.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-language_3@0.40.0
+- pkg:maven/com.ossuminc/riddl-language_3@0.40.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-language_3@0.41.0
+- pkg:maven/com.ossuminc/riddl-language_3@0.41.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-language_3@0.42.0
+- pkg:maven/com.ossuminc/riddl-language_3@0.42.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.scalameta/moped_2.13@0.1.11?classifier=sources
 - pkg:maven/org.scalameta/moped_2.13@0.1.9
 - pkg:maven/org.scalameta/moped_2.13@0.1.9?classifier=sources
+- pkg:maven/org.scalameta/moped_2.13@0.2.0
+- pkg:maven/org.scalameta/moped_2.13@0.2.0?classifier=sources

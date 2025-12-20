@@ -12,3 +12,5 @@
 - pkg:maven/io.holixon.axon.gateway/axon-gateway-jackson-module@1.1.2?classifier=sources
 - pkg:maven/io.holixon.axon.gateway/axon-gateway-jackson-module@2.0.0
 - pkg:maven/io.holixon.axon.gateway/axon-gateway-jackson-module@2.0.0?classifier=sources
+- pkg:maven/io.holixon.axon.gateway/axon-gateway-jackson-module@2.1.0
+- pkg:maven/io.holixon.axon.gateway/axon-gateway-jackson-module@2.1.0?classifier=sources

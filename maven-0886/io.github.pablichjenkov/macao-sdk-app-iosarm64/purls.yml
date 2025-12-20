@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pablichjenkov/macao-sdk-app-iosarm64@0.6.10-rc02?classifier=sources
+- pkg:maven/io.github.pablichjenkov/macao-sdk-app-iosarm64@0.6.10-rc1?classifier=sources

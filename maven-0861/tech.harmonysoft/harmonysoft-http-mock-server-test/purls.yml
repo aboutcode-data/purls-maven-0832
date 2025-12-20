@@ -20,3 +20,8 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@1.98.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@1.99.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@2.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@2.3.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@2.4.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@3.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@3.1.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@3.2.0?classifier=sources

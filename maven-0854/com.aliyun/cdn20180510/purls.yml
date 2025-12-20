@@ -84,3 +84,5 @@
 - pkg:maven/com.aliyun/cdn20180510@3.2.0?classifier=sources
 - pkg:maven/com.aliyun/cdn20180510@3.3.0
 - pkg:maven/com.aliyun/cdn20180510@3.3.0?classifier=sources
+- pkg:maven/com.aliyun/cdn20180510@3.4.0
+- pkg:maven/com.aliyun/cdn20180510@3.4.0?classifier=sources

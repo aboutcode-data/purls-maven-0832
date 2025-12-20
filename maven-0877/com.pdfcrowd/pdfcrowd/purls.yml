@@ -66,6 +66,8 @@
 - pkg:maven/com.pdfcrowd/pdfcrowd@5.17.0?classifier=sources
 - pkg:maven/com.pdfcrowd/pdfcrowd@5.18.0
 - pkg:maven/com.pdfcrowd/pdfcrowd@5.18.0?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@5.18.1
+- pkg:maven/com.pdfcrowd/pdfcrowd@5.18.1?classifier=sources
 - pkg:maven/com.pdfcrowd/pdfcrowd@5.2.0
 - pkg:maven/com.pdfcrowd/pdfcrowd@5.2.0?classifier=sources
 - pkg:maven/com.pdfcrowd/pdfcrowd@5.2.2

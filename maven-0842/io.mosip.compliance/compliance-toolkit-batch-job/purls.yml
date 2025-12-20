@@ -1,0 +1,2 @@
+- pkg:maven/io.mosip.compliance/compliance-toolkit-batch-job@1.4.0
+- pkg:maven/io.mosip.compliance/compliance-toolkit-batch-job@1.4.0?classifier=sources

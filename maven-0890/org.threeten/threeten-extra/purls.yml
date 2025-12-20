@@ -26,3 +26,5 @@
 - pkg:maven/org.threeten/threeten-extra@1.7.1?classifier=sources
 - pkg:maven/org.threeten/threeten-extra@1.7.2
 - pkg:maven/org.threeten/threeten-extra@1.7.2?classifier=sources
+- pkg:maven/org.threeten/threeten-extra@1.8.0
+- pkg:maven/org.threeten/threeten-extra@1.8.0?classifier=sources

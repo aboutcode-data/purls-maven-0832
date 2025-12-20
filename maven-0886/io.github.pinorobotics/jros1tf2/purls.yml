@@ -1,1 +1,2 @@
 - pkg:maven/io.github.pinorobotics/jros1tf2@1.0?classifier=sources
+- pkg:maven/io.github.pinorobotics/jros1tf2@2.0?classifier=sources

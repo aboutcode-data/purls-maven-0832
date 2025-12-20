@@ -66,6 +66,8 @@
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.34?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.35
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.35?classifier=sources
+- pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.36
+- pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.36?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.7
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.7?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_2.12@7.2.8

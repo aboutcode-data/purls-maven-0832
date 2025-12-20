@@ -1,1 +1,2 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-linuxarm64@6.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-linuxarm64@7.0.0?classifier=sources

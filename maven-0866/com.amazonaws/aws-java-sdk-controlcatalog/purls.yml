@@ -1,0 +1,8 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-controlcatalog@1.12.697
+- pkg:maven/com.amazonaws/aws-java-sdk-controlcatalog@1.12.697?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-controlcatalog@1.12.698
+- pkg:maven/com.amazonaws/aws-java-sdk-controlcatalog@1.12.698?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-controlcatalog@1.12.699
+- pkg:maven/com.amazonaws/aws-java-sdk-controlcatalog@1.12.699?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-controlcatalog@1.12.700
+- pkg:maven/com.amazonaws/aws-java-sdk-controlcatalog@1.12.700?classifier=sources

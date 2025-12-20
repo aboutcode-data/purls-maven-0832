@@ -13,3 +13,4 @@
 - pkg:maven/no.nordicsemi.android.common/permissions-nfc@1.9.2?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/permissions-nfc@1.9.3?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/permissions-nfc@1.9.4?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/permissions-nfc@1.9.5?classifier=sources

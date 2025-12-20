@@ -12,3 +12,5 @@
 - pkg:maven/org.pac4j/jersey225-pac4j@4.0.0?classifier=sources
 - pkg:maven/org.pac4j/jersey225-pac4j@5.0.0
 - pkg:maven/org.pac4j/jersey225-pac4j@5.0.0?classifier=sources
+- pkg:maven/org.pac4j/jersey225-pac4j@5.0.1
+- pkg:maven/org.pac4j/jersey225-pac4j@5.0.1?classifier=sources

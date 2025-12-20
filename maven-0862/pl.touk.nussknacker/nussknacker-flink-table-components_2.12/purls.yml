@@ -1,0 +1,2 @@
+- pkg:maven/pl.touk.nussknacker/nussknacker-flink-table-components_2.12@1.15.0-RC1
+- pkg:maven/pl.touk.nussknacker/nussknacker-flink-table-components_2.12@1.15.0-RC1?classifier=sources

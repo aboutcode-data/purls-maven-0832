@@ -1,6 +1,7 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-tomcat11x-embedded-test@1.10.10
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-tomcat11x-embedded-test@1.10.11
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-tomcat11x-embedded-test@1.10.12
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven3-tomcat11x-embedded-test@1.10.13
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-tomcat11x-embedded-test@1.10.6
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-tomcat11x-embedded-test@1.10.7
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-tomcat11x-embedded-test@1.10.8

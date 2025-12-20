@@ -10,3 +10,5 @@
 - pkg:maven/dev.jorel/commandapi-bukkit-test-impl@9.2.0?classifier=sources
 - pkg:maven/dev.jorel/commandapi-bukkit-test-impl@9.3.0
 - pkg:maven/dev.jorel/commandapi-bukkit-test-impl@9.3.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-bukkit-test-impl@9.4.0
+- pkg:maven/dev.jorel/commandapi-bukkit-test-impl@9.4.0?classifier=sources

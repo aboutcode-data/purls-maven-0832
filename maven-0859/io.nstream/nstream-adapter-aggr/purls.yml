@@ -5,3 +5,6 @@
 - pkg:maven/io.nstream/nstream-adapter-aggr@4.4.7?classifier=sources
 - pkg:maven/io.nstream/nstream-adapter-aggr@4.5.8?classifier=sources
 - pkg:maven/io.nstream/nstream-adapter-aggr@4.6.9?classifier=sources
+- pkg:maven/io.nstream/nstream-adapter-aggr@4.7.10?classifier=sources
+- pkg:maven/io.nstream/nstream-adapter-aggr@4.7.12?classifier=sources
+- pkg:maven/io.nstream/nstream-adapter-aggr@4.8.15?classifier=sources

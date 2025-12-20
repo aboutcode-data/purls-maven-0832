@@ -6,3 +6,7 @@
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.functions@1.0.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.functions@1.0.4
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.functions@1.0.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.functions@1.0.5
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.functions@1.0.5?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.functions@1.0.6
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.functions@1.0.6?classifier=sources

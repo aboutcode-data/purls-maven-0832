@@ -1,0 +1,2 @@
+- pkg:maven/pro.kirillorlov.jib/jib-advanced-layer-filter-extension-maven@1.0.0?classifier=sources
+- pkg:maven/pro.kirillorlov.jib/jib-advanced-layer-filter-extension-maven@1.0.1?classifier=sources

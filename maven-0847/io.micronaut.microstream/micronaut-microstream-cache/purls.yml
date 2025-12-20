@@ -19,3 +19,4 @@
 - pkg:maven/io.micronaut.microstream/micronaut-microstream-cache@2.2.0?classifier=sources
 - pkg:maven/io.micronaut.microstream/micronaut-microstream-cache@2.2.1?classifier=sources
 - pkg:maven/io.micronaut.microstream/micronaut-microstream-cache@2.3.0?classifier=sources
+- pkg:maven/io.micronaut.microstream/micronaut-microstream-cache@2.4.0?classifier=sources

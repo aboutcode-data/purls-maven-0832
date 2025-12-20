@@ -36,3 +36,7 @@
 - pkg:maven/org.scalacheck/scalacheck_2.12@1.16.0?classifier=sources
 - pkg:maven/org.scalacheck/scalacheck_2.12@1.17.0
 - pkg:maven/org.scalacheck/scalacheck_2.12@1.17.0?classifier=sources
+- pkg:maven/org.scalacheck/scalacheck_2.12@1.17.1
+- pkg:maven/org.scalacheck/scalacheck_2.12@1.17.1?classifier=sources
+- pkg:maven/org.scalacheck/scalacheck_2.12@1.18.0
+- pkg:maven/org.scalacheck/scalacheck_2.12@1.18.0?classifier=sources

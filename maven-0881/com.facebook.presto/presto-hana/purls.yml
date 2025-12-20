@@ -1,2 +1,3 @@
 - pkg:maven/com.facebook.presto/presto-hana@0.285.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hana@0.285?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hana@0.286?classifier=sources

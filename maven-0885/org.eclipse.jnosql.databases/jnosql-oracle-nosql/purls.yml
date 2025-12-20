@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.jnosql.databases/jnosql-oracle-nosql@1.1.0
 - pkg:maven/org.eclipse.jnosql.databases/jnosql-oracle-nosql@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.jnosql.databases/jnosql-oracle-nosql@1.1.1-RC1
+- pkg:maven/org.eclipse.jnosql.databases/jnosql-oracle-nosql@1.1.1-RC1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/io.gatling/gatling-sbt_2.12_1.0@3.9.0
+- pkg:maven/io.gatling/gatling-sbt_2.12_1.0@3.9.0?classifier=sources
 - pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.3.3
 - pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.3.3?classifier=sources
 - pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.4.0
@@ -12,3 +14,7 @@
 - pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.8.0?classifier=sources
 - pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.8.1
 - pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.8.1?classifier=sources
+- pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.8.2
+- pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.8.2?classifier=sources
+- pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.9.0
+- pkg:maven/io.gatling/gatling-sbt_2.12_1.0@4.9.0?classifier=sources

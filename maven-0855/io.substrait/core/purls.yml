@@ -22,7 +22,10 @@
 - pkg:maven/io.substrait/core@0.27.0?classifier=sources
 - pkg:maven/io.substrait/core@0.28.0?classifier=sources
 - pkg:maven/io.substrait/core@0.28.1?classifier=sources
+- pkg:maven/io.substrait/core@0.29.0?classifier=sources
+- pkg:maven/io.substrait/core@0.29.1?classifier=sources
 - pkg:maven/io.substrait/core@0.3.0?classifier=sources
+- pkg:maven/io.substrait/core@0.30.0?classifier=sources
 - pkg:maven/io.substrait/core@0.4.0?classifier=sources
 - pkg:maven/io.substrait/core@0.5.0?classifier=sources
 - pkg:maven/io.substrait/core@0.6.0?classifier=sources

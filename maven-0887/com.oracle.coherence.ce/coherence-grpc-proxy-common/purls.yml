@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.coherence.ce/coherence-grpc-proxy-common@24.03
+- pkg:maven/com.oracle.coherence.ce/coherence-grpc-proxy-common@24.03?classifier=sources

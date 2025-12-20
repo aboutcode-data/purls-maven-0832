@@ -42,6 +42,7 @@
 - pkg:maven/net.covers1624/Quack@0.4.1.49?classifier=sources
 - pkg:maven/net.covers1624/Quack@0.4.1.50?classifier=sources
 - pkg:maven/net.covers1624/Quack@0.4.10.100?classifier=sources
+- pkg:maven/net.covers1624/Quack@0.4.10.101?classifier=sources
 - pkg:maven/net.covers1624/Quack@0.4.10.78?classifier=sources
 - pkg:maven/net.covers1624/Quack@0.4.10.80?classifier=sources
 - pkg:maven/net.covers1624/Quack@0.4.10.81?classifier=sources

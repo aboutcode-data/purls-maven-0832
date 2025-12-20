@@ -1,0 +1,2 @@
+- pkg:maven/io.github.text2confl/text2confl-gem-kroki@0.16.5
+- pkg:maven/io.github.text2confl/text2confl-gem-kroki@0.16.5?classifier=sources

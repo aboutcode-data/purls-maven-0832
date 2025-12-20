@@ -2,3 +2,5 @@
 - pkg:maven/org.neo4j/neo4j-jdbc-full-bundle@6.0.0-M01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-full-bundle@6.0.0-M02
 - pkg:maven/org.neo4j/neo4j-jdbc-full-bundle@6.0.0-M02?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc-full-bundle@6.0.0-M03
+- pkg:maven/org.neo4j/neo4j-jdbc-full-bundle@6.0.0-M03?classifier=sources

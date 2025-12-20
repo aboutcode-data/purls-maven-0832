@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/node-fetch-h2@2.3.0
+- pkg:maven/org.webjars.npm/node-fetch-h2@2.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/node-fetch-h2@2.3.1-0
 - pkg:maven/org.webjars.npm/node-fetch-h2@2.3.1-0?classifier=sources

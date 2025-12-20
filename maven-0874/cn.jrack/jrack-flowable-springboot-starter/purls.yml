@@ -14,5 +14,9 @@
 - pkg:maven/cn.jrack/jrack-flowable-springboot-starter@1.0.45?classifier=sources
 - pkg:maven/cn.jrack/jrack-flowable-springboot-starter@1.0.46
 - pkg:maven/cn.jrack/jrack-flowable-springboot-starter@1.0.46?classifier=sources
+- pkg:maven/cn.jrack/jrack-flowable-springboot-starter@1.0.56
+- pkg:maven/cn.jrack/jrack-flowable-springboot-starter@1.0.56?classifier=sources
+- pkg:maven/cn.jrack/jrack-flowable-springboot-starter@1.0.57
+- pkg:maven/cn.jrack/jrack-flowable-springboot-starter@1.0.57?classifier=sources
 - pkg:maven/cn.jrack/jrack-flowable-springboot-starter@1.035
 - pkg:maven/cn.jrack/jrack-flowable-springboot-starter@1.035?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/io.alapierre.crypto/rsa-util@1.14?classifier=sources
 - pkg:maven/io.alapierre.crypto/rsa-util@1.15
 - pkg:maven/io.alapierre.crypto/rsa-util@1.15?classifier=sources
+- pkg:maven/io.alapierre.crypto/rsa-util@1.16
+- pkg:maven/io.alapierre.crypto/rsa-util@1.16?classifier=sources
 - pkg:maven/io.alapierre.crypto/rsa-util@1.5
 - pkg:maven/io.alapierre.crypto/rsa-util@1.5?classifier=sources
 - pkg:maven/io.alapierre.crypto/rsa-util@1.6

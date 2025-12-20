@@ -4,6 +4,14 @@
 - pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.7.7?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.7.8
 - pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.7.8?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.10
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.10?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.11
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.11?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.12
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.12?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.13
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.13?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.4
 - pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.4?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-spring-pekko_2.13@1.8.0-rc.5

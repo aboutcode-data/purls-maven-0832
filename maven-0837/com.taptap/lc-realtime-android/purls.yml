@@ -1,0 +1,2 @@
+- pkg:maven/com.taptap/lc-realtime-android@8.2.24
+- pkg:maven/com.taptap/lc-realtime-android@8.2.24?classifier=sources

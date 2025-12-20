@@ -6,3 +6,15 @@
 - pkg:maven/dev.vality/scrooge-proto@1.18-b9b2aa7?classifier=sources
 - pkg:maven/dev.vality/scrooge-proto@1.19-bf0f65a
 - pkg:maven/dev.vality/scrooge-proto@1.19-bf0f65a?classifier=sources
+- pkg:maven/dev.vality/scrooge-proto@1.20-9171884
+- pkg:maven/dev.vality/scrooge-proto@1.20-9171884?classifier=sources
+- pkg:maven/dev.vality/scrooge-proto@1.21-7edece1
+- pkg:maven/dev.vality/scrooge-proto@1.21-7edece1?classifier=sources
+- pkg:maven/dev.vality/scrooge-proto@1.22-bd704f5
+- pkg:maven/dev.vality/scrooge-proto@1.22-bd704f5?classifier=sources
+- pkg:maven/dev.vality/scrooge-proto@1.23-aa3bf23
+- pkg:maven/dev.vality/scrooge-proto@1.23-aa3bf23?classifier=sources
+- pkg:maven/dev.vality/scrooge-proto@1.24-d50650f
+- pkg:maven/dev.vality/scrooge-proto@1.24-d50650f?classifier=sources
+- pkg:maven/dev.vality/scrooge-proto@1.25-9ce7fc6
+- pkg:maven/dev.vality/scrooge-proto@1.25-9ce7fc6?classifier=sources

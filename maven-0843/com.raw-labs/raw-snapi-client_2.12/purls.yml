@@ -96,3 +96,13 @@
 - pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.28.39?classifier=sources
 - pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.28.40
 - pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.28.40?classifier=sources
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.28.41
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.28.41?classifier=sources
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.28.42
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.28.42?classifier=sources
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.28.43
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.28.43?classifier=sources
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.29.0
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.29.0?classifier=sources
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.29.1
+- pkg:maven/com.raw-labs/raw-snapi-client_2.12@0.29.1?classifier=sources

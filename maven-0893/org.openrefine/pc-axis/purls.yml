@@ -20,3 +20,7 @@
 - pkg:maven/org.openrefine/pc-axis@3.7.2?classifier=sources
 - pkg:maven/org.openrefine/pc-axis@3.8-beta1
 - pkg:maven/org.openrefine/pc-axis@3.8-beta1?classifier=sources
+- pkg:maven/org.openrefine/pc-axis@3.8-beta5
+- pkg:maven/org.openrefine/pc-axis@3.8-beta5?classifier=sources
+- pkg:maven/org.openrefine/pc-axis@3.8.0
+- pkg:maven/org.openrefine/pc-axis@3.8.0?classifier=sources

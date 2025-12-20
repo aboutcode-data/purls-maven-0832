@@ -210,3 +210,9 @@
 - pkg:maven/com.ibm.cloud/enterprise-billing-units@0.50.2?classifier=sources
 - pkg:maven/com.ibm.cloud/enterprise-billing-units@0.51.0
 - pkg:maven/com.ibm.cloud/enterprise-billing-units@0.51.0?classifier=sources
+- pkg:maven/com.ibm.cloud/enterprise-billing-units@0.52.0
+- pkg:maven/com.ibm.cloud/enterprise-billing-units@0.52.0?classifier=sources
+- pkg:maven/com.ibm.cloud/enterprise-billing-units@0.53.0
+- pkg:maven/com.ibm.cloud/enterprise-billing-units@0.53.0?classifier=sources
+- pkg:maven/com.ibm.cloud/enterprise-billing-units@0.53.1
+- pkg:maven/com.ibm.cloud/enterprise-billing-units@0.53.1?classifier=sources

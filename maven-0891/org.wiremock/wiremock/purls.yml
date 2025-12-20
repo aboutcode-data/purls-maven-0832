@@ -18,3 +18,5 @@
 - pkg:maven/org.wiremock/wiremock@3.5.0?classifier=sources
 - pkg:maven/org.wiremock/wiremock@3.5.1?classifier=sources
 - pkg:maven/org.wiremock/wiremock@3.5.2?classifier=sources
+- pkg:maven/org.wiremock/wiremock@3.5.3?classifier=sources
+- pkg:maven/org.wiremock/wiremock@3.5.4?classifier=sources

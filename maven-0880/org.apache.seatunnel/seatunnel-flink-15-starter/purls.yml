@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.seatunnel/seatunnel-flink-15-starter@2.3.3?classifier=sources
 - pkg:maven/org.apache.seatunnel/seatunnel-flink-15-starter@2.3.4
 - pkg:maven/org.apache.seatunnel/seatunnel-flink-15-starter@2.3.4?classifier=sources
+- pkg:maven/org.apache.seatunnel/seatunnel-flink-15-starter@2.3.5
+- pkg:maven/org.apache.seatunnel/seatunnel-flink-15-starter@2.3.5?classifier=sources

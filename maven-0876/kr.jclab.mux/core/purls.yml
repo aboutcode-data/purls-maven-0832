@@ -13,3 +13,4 @@
 - pkg:maven/kr.jclab.mux/core@0.0.2-rc8?classifier=sources
 - pkg:maven/kr.jclab.mux/core@0.0.2-rc9?classifier=sources
 - pkg:maven/kr.jclab.mux/core@0.0.2?classifier=sources
+- pkg:maven/kr.jclab.mux/core@0.1.0?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/com.cognitect.aws/kafka@847.2.1387.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kafka@857.2.1574.0
 - pkg:maven/com.cognitect.aws/kafka@857.2.1574.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kafka@868.2.1580.0
+- pkg:maven/com.cognitect.aws/kafka@868.2.1580.0?classifier=sources

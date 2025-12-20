@@ -1,0 +1,2 @@
+- pkg:maven/io.github.chenxiao0130/aws-java-sdk-kms@1.11.998?classifier=sources
+- pkg:maven/io.github.chenxiao0130/aws-java-sdk-kms@1.11.999?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.liftwizard/liftwizard-junit-extension-match-abstract@2.1.7
+- pkg:maven/io.liftwizard/liftwizard-junit-extension-match-abstract@2.1.7?classifier=sources

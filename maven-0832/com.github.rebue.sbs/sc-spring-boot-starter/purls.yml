@@ -2,3 +2,8 @@
 - pkg:maven/com.github.rebue.sbs/sc-spring-boot-starter@1.2.1
 - pkg:maven/com.github.rebue.sbs/sc-spring-boot-starter@1.2.3
 - pkg:maven/com.github.rebue.sbs/sc-spring-boot-starter@1.2.4
+- pkg:maven/com.github.rebue.sbs/sc-spring-boot-starter@3.0.15
+- pkg:maven/com.github.rebue.sbs/sc-spring-boot-starter@3.0.16
+- pkg:maven/com.github.rebue.sbs/sc-spring-boot-starter@3.0.17
+- pkg:maven/com.github.rebue.sbs/sc-spring-boot-starter@3.0.18
+- pkg:maven/com.github.rebue.sbs/sc-spring-boot-starter@3.0.19

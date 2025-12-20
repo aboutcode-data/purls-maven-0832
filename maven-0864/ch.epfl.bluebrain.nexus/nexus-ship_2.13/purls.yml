@@ -2,3 +2,5 @@
 - pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M6?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M7
 - pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M7?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M8
+- pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M8?classifier=sources

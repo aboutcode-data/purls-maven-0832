@@ -3,3 +3,4 @@
 - pkg:maven/com.adobe.marketing.mobile/assurance@1.0.2?type=aar
 - pkg:maven/com.adobe.marketing.mobile/assurance@1.0.3?type=aar
 - pkg:maven/com.adobe.marketing.mobile/assurance@1.0.4?type=aar
+- pkg:maven/com.adobe.marketing.mobile/assurance@3.0.0?classifier=sources

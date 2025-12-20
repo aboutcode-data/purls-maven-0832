@@ -2,3 +2,4 @@
 - pkg:maven/io.kestra.plugin/plugin-surrealdb@0.13.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-surrealdb@0.14.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-surrealdb@0.15.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-surrealdb@0.16.0?classifier=sources

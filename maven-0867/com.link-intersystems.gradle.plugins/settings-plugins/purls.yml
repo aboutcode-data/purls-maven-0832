@@ -1,0 +1,3 @@
+- pkg:maven/com.link-intersystems.gradle.plugins/settings-plugins@0.2.0?classifier=sources
+- pkg:maven/com.link-intersystems.gradle.plugins/settings-plugins@0.3.0?classifier=sources
+- pkg:maven/com.link-intersystems.gradle.plugins/settings-plugins@0.4.0?classifier=sources

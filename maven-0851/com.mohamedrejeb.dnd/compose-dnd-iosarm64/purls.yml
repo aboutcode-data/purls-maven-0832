@@ -1,1 +1,2 @@
 - pkg:maven/com.mohamedrejeb.dnd/compose-dnd-iosarm64@0.1.0?classifier=sources
+- pkg:maven/com.mohamedrejeb.dnd/compose-dnd-iosarm64@0.2.0?classifier=sources

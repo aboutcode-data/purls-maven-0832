@@ -1,0 +1,4 @@
+- pkg:maven/io.github.genie-cloud/spring-boot-starter-sql-genie-common@1.1.1
+- pkg:maven/io.github.genie-cloud/spring-boot-starter-sql-genie-common@1.1.1-jdk8
+- pkg:maven/io.github.genie-cloud/spring-boot-starter-sql-genie-common@1.1.1-jdk8?classifier=sources
+- pkg:maven/io.github.genie-cloud/spring-boot-starter-sql-genie-common@1.1.1?classifier=sources

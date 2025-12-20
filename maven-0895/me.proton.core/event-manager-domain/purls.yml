@@ -57,6 +57,8 @@
 - pkg:maven/me.proton.core/event-manager-domain@21.2.1?classifier=sources
 - pkg:maven/me.proton.core/event-manager-domain@22.0.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager-domain@22.1.0?classifier=sources
+- pkg:maven/me.proton.core/event-manager-domain@22.2.0?classifier=sources
+- pkg:maven/me.proton.core/event-manager-domain@23.0.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager-domain@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager-domain@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager-domain@4.1.0?classifier=sources

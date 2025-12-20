@@ -2,3 +2,5 @@
 - pkg:maven/com.zto.fire/fire-enhance-flink_1.12_2.11@2.3.3?classifier=sources
 - pkg:maven/com.zto.fire/fire-enhance-flink_1.12_2.11@2.3.4
 - pkg:maven/com.zto.fire/fire-enhance-flink_1.12_2.11@2.3.4?classifier=sources
+- pkg:maven/com.zto.fire/fire-enhance-flink_1.12_2.11@2.4.4
+- pkg:maven/com.zto.fire/fire-enhance-flink_1.12_2.11@2.4.4?classifier=sources

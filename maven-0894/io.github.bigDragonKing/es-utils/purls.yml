@@ -1,4 +1,6 @@
 - pkg:maven/io.github.bigDragonKing/es-utils@1.0
+- pkg:maven/io.github.bigDragonKing/es-utils@1.0-R
+- pkg:maven/io.github.bigDragonKing/es-utils@1.0-R?classifier=sources
 - pkg:maven/io.github.bigDragonKing/es-utils@1.0.1
 - pkg:maven/io.github.bigDragonKing/es-utils@1.0.1?classifier=sources
 - pkg:maven/io.github.bigDragonKing/es-utils@1.0?classifier=sources

@@ -64,6 +64,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@10.1.19?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@10.1.1?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@10.1.20?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-storeconfig@10.1.23?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@10.1.2?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@10.1.4?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@10.1.5?classifier=sources
@@ -80,6 +81,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@11.0.0-M16?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@11.0.0-M17?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@11.0.0-M18?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-storeconfig@11.0.0-M19?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@11.0.0-M1?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@11.0.0-M3?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@11.0.0-M4?classifier=sources
@@ -417,4 +419,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@9.0.85?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@9.0.86?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@9.0.87?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-storeconfig@9.0.88?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-storeconfig@9.0.8?classifier=sources
