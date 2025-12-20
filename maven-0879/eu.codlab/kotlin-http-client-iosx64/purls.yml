@@ -1,4 +1,11 @@
+- pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.10.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.11.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.11.1?classifier=sources
 - pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.3.1?classifier=sources
 - pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.4.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.5.1?classifier=sources
 - pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.6.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.7.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.8.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.8.2?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-iosx64@1.9.0?classifier=sources

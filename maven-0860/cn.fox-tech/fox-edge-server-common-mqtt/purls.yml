@@ -1,0 +1,2 @@
+- pkg:maven/cn.fox-tech/fox-edge-server-common-mqtt@1.0.6
+- pkg:maven/cn.fox-tech/fox-edge-server-common-mqtt@1.0.6?classifier=sources

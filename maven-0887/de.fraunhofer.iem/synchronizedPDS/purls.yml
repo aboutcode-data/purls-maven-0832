@@ -1,0 +1,2 @@
+- pkg:maven/de.fraunhofer.iem/synchronizedPDS@2.5.1
+- pkg:maven/de.fraunhofer.iem/synchronizedPDS@2.5.1?classifier=sources

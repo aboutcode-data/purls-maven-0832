@@ -21,6 +21,7 @@
 - pkg:maven/ru.tinkoff.kora/validation-common@0.14.0?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@0.14.10?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@0.14.11?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@0.14.12?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@0.14.1?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@0.14.3?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@0.14.4?classifier=sources
@@ -29,7 +30,13 @@
 - pkg:maven/ru.tinkoff.kora/validation-common@0.14.7?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@0.14.8?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@0.14.9?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC10?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC1?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC2?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC3?classifier=sources
 - pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC4?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC5?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC6?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC7?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC8?classifier=sources
+- pkg:maven/ru.tinkoff.kora/validation-common@1.0.0.RC9?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/io.github.softartdev/theme-material-iosarm64@0.5.7?classifier=sources
 - pkg:maven/io.github.softartdev/theme-material-iosarm64@0.5.8?classifier=sources
 - pkg:maven/io.github.softartdev/theme-material-iosarm64@0.5.9?classifier=sources
+- pkg:maven/io.github.softartdev/theme-material-iosarm64@0.6.0?classifier=sources

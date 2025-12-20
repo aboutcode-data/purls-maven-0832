@@ -159,4 +159,10 @@
 - pkg:maven/ru.r2cloud/jradio@1.93?classifier=sources
 - pkg:maven/ru.r2cloud/jradio@1.94
 - pkg:maven/ru.r2cloud/jradio@1.94?classifier=sources
+- pkg:maven/ru.r2cloud/jradio@1.95
+- pkg:maven/ru.r2cloud/jradio@1.95?classifier=sources
+- pkg:maven/ru.r2cloud/jradio@1.96
+- pkg:maven/ru.r2cloud/jradio@1.96?classifier=sources
+- pkg:maven/ru.r2cloud/jradio@1.97
+- pkg:maven/ru.r2cloud/jradio@1.97?classifier=sources
 - pkg:maven/ru.r2cloud/jradio@1.9?classifier=sources

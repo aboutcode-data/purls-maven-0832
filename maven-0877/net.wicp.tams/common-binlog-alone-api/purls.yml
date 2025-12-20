@@ -18,3 +18,5 @@
 - pkg:maven/net.wicp.tams/common-binlog-alone-api@3.6.23?classifier=sources
 - pkg:maven/net.wicp.tams/common-binlog-alone-api@6.0.0
 - pkg:maven/net.wicp.tams/common-binlog-alone-api@6.0.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-binlog-alone-api@6.0.1
+- pkg:maven/net.wicp.tams/common-binlog-alone-api@6.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.eulith/eulith-web3j@0.17.12
+- pkg:maven/com.eulith/eulith-web3j@0.17.12?classifier=sources
+- pkg:maven/com.eulith/eulith-web3j@0.17.13
+- pkg:maven/com.eulith/eulith-web3j@0.17.13?classifier=sources
+- pkg:maven/com.eulith/eulith-web3j@0.18.0
+- pkg:maven/com.eulith/eulith-web3j@0.18.0?classifier=sources

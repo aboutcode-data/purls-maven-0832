@@ -3,6 +3,8 @@
 - pkg:maven/org.opencastproject/opencast-plugin-manager@13.1
 - pkg:maven/org.opencastproject/opencast-plugin-manager@13.10
 - pkg:maven/org.opencastproject/opencast-plugin-manager@13.10?classifier=sources
+- pkg:maven/org.opencastproject/opencast-plugin-manager@13.12
+- pkg:maven/org.opencastproject/opencast-plugin-manager@13.12?classifier=sources
 - pkg:maven/org.opencastproject/opencast-plugin-manager@13.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-plugin-manager@13.2
 - pkg:maven/org.opencastproject/opencast-plugin-manager@13.2?classifier=sources
@@ -22,3 +24,5 @@
 - pkg:maven/org.opencastproject/opencast-plugin-manager@14.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-plugin-manager@14.3
 - pkg:maven/org.opencastproject/opencast-plugin-manager@14.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-plugin-manager@14.5
+- pkg:maven/org.opencastproject/opencast-plugin-manager@14.5?classifier=sources

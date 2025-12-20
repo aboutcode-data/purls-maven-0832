@@ -13,3 +13,4 @@
 - pkg:maven/us.ihmc/euclid-frame-shape@0.20.0-alpha?classifier=sources
 - pkg:maven/us.ihmc/euclid-frame-shape@0.20.0-beta?classifier=sources
 - pkg:maven/us.ihmc/euclid-frame-shape@0.20.0?classifier=sources
+- pkg:maven/us.ihmc/euclid-frame-shape@0.21.0?classifier=sources

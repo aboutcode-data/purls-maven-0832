@@ -48,6 +48,10 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.23.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.24.0
 - pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.24.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.25.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.25.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.26.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.26.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.3.0
 - pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-pgadapter@0.5.0

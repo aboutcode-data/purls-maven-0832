@@ -1,0 +1,2 @@
+- pkg:maven/com.divpundir.mavlink/serialization-linuxx64@1.2.0-alpha.2?classifier=sources
+- pkg:maven/com.divpundir.mavlink/serialization-linuxx64@1.2.0-alpha?classifier=sources

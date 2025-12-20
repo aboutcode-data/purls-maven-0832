@@ -1,0 +1,2 @@
+- pkg:maven/io.github.imagineDevit/giwt@0.1.1
+- pkg:maven/io.github.imagineDevit/giwt@0.1.1?classifier=sources

@@ -1220,3 +1220,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-external@7.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-external@8.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-external@8.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-external@9.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-external@9.0.0?classifier=sources

@@ -5,3 +5,6 @@
 - pkg:maven/pl.mareklangiewicz/kground-io@0.0.09?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kground-io@0.0.11?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kground-io@0.0.12?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kground-io@0.0.13?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kground-io@0.0.18?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kground-io@0.0.19?classifier=sources

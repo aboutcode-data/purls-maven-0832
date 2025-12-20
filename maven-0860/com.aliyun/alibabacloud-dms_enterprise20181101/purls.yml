@@ -46,3 +46,5 @@
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.6?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.7
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.7?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.8
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.8?classifier=sources

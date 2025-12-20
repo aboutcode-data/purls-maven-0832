@@ -1,4 +1,5 @@
 - pkg:maven/se.ansman.dagger.auto/retrofit@0.10.0?classifier=sources
+- pkg:maven/se.ansman.dagger.auto/retrofit@0.11.0?classifier=sources
 - pkg:maven/se.ansman.dagger.auto/retrofit@0.7.0?classifier=sources
 - pkg:maven/se.ansman.dagger.auto/retrofit@0.8.0?classifier=sources
 - pkg:maven/se.ansman.dagger.auto/retrofit@0.9.0?classifier=sources

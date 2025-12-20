@@ -41,6 +41,10 @@
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.13
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.14
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.15
+- pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.16
+- pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.17
+- pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.18
+- pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.19
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.2
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.3
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@1.9.4

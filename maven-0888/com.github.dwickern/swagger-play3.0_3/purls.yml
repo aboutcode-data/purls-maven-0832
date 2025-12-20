@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dwickern/swagger-play3.0_3@4.0.0
+- pkg:maven/com.github.dwickern/swagger-play3.0_3@4.0.0?classifier=sources

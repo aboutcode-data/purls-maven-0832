@@ -6,3 +6,4 @@
 - pkg:maven/io.github.quillraven.fleks/Fleks-js@2.2?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks-js@2.3?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks-js@2.4?classifier=sources
+- pkg:maven/io.github.quillraven.fleks/Fleks-js@2.5?classifier=sources

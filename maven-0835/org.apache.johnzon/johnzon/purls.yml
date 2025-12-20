@@ -53,3 +53,4 @@
 - pkg:maven/org.apache.johnzon/johnzon@1.2.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@1.2.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.johnzon/johnzon@1.2.9?classifier=source-release&type=zip
+- pkg:maven/org.apache.johnzon/johnzon@2.0.0?classifier=source-release&type=zip

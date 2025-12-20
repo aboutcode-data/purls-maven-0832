@@ -113,6 +113,7 @@
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@2.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@2.0.36
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@2.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.experiment.web@2.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.0
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.0?classifier=sources-commercial
@@ -325,6 +326,8 @@
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.75?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.76?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.78?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.experiment.web@3.0.8

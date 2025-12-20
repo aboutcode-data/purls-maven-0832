@@ -48,3 +48,5 @@
 - pkg:maven/io.antmedia.webrtc/StreamApp@2.6.3?type=war
 - pkg:maven/io.antmedia.webrtc/StreamApp@2.6.4?classifier=sources
 - pkg:maven/io.antmedia.webrtc/StreamApp@2.6.4?type=war
+- pkg:maven/io.antmedia.webrtc/StreamApp@2.7.0?classifier=sources
+- pkg:maven/io.antmedia.webrtc/StreamApp@2.7.0?type=war

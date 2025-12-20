@@ -7,6 +7,7 @@
 - pkg:maven/io.infinitic/infinitic-common@0.11.4?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.11.5?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.11.6?classifier=sources
+- pkg:maven/io.infinitic/infinitic-common@0.11.7?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.2.0?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.2.1?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.3.0?classifier=sources

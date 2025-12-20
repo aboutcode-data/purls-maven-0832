@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.5
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.5?classifier=sources

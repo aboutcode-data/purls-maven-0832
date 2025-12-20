@@ -12,3 +12,5 @@
 - pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.23.2?classifier=sources
 - pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.24.0
 - pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.24.0?classifier=sources
+- pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.25.0
+- pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.25.0?classifier=sources

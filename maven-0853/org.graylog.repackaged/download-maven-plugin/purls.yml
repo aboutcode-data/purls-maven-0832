@@ -1,0 +1,2 @@
+- pkg:maven/org.graylog.repackaged/download-maven-plugin@1.6.8.1
+- pkg:maven/org.graylog.repackaged/download-maven-plugin@1.6.8.1?classifier=sources

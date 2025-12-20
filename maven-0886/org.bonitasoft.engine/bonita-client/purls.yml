@@ -172,3 +172,4 @@
 - pkg:maven/org.bonitasoft.engine/bonita-client@7.9.5
 - pkg:maven/org.bonitasoft.engine/bonita-client@7.9.5?classifier=sources
 - pkg:maven/org.bonitasoft.engine/bonita-client@8.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.engine/bonita-client@9.0.0?classifier=sources

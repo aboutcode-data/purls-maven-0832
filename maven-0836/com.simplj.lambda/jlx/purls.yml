@@ -50,3 +50,7 @@
 - pkg:maven/com.simplj.lambda/jlx@1.6?classifier=sources
 - pkg:maven/com.simplj.lambda/jlx@1.7
 - pkg:maven/com.simplj.lambda/jlx@1.7?classifier=sources
+- pkg:maven/com.simplj.lambda/jlx@1.8
+- pkg:maven/com.simplj.lambda/jlx@1.8.1
+- pkg:maven/com.simplj.lambda/jlx@1.8.1?classifier=sources
+- pkg:maven/com.simplj.lambda/jlx@1.8?classifier=sources

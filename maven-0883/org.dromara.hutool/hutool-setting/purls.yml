@@ -6,5 +6,7 @@
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M6?classifier=sources
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M7
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M7?classifier=sources
+- pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M8
+- pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M8?classifier=sources
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0.M3
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0.M3?classifier=sources

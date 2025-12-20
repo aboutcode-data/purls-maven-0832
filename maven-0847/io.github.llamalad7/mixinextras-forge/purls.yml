@@ -5,3 +5,6 @@
 - pkg:maven/io.github.llamalad7/mixinextras-forge@0.2.0-rc.3?classifier=sources
 - pkg:maven/io.github.llamalad7/mixinextras-forge@0.2.0-rc.4?classifier=sources
 - pkg:maven/io.github.llamalad7/mixinextras-forge@0.2.0-rc.5?classifier=sources
+- pkg:maven/io.github.llamalad7/mixinextras-forge@0.2.0?classifier=sources
+- pkg:maven/io.github.llamalad7/mixinextras-forge@0.2.1-beta.1?classifier=sources
+- pkg:maven/io.github.llamalad7/mixinextras-forge@0.2.1-beta.2?classifier=sources

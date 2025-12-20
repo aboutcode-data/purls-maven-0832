@@ -38,3 +38,5 @@
 - pkg:maven/org.finos.vuu/toolbox@0.5.06?classifier=sources
 - pkg:maven/org.finos.vuu/toolbox@0.5.08
 - pkg:maven/org.finos.vuu/toolbox@0.5.08?classifier=sources
+- pkg:maven/org.finos.vuu/toolbox@0.9.35-beta
+- pkg:maven/org.finos.vuu/toolbox@0.9.35-beta?classifier=sources

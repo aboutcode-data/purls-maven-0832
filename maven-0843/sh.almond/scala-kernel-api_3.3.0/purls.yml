@@ -7,6 +7,7 @@
 - pkg:maven/sh.almond/scala-kernel-api_3.3.0@0.14.0-RC13
 - pkg:maven/sh.almond/scala-kernel-api_3.3.0@0.14.0-RC13?classifier=sources
 - pkg:maven/sh.almond/scala-kernel-api_3.3.0@0.14.0-RC14
+- pkg:maven/sh.almond/scala-kernel-api_3.3.0@0.14.0-RC14?classifier=sources
 - pkg:maven/sh.almond/scala-kernel-api_3.3.0@0.14.0-RC3
 - pkg:maven/sh.almond/scala-kernel-api_3.3.0@0.14.0-RC3?classifier=sources
 - pkg:maven/sh.almond/scala-kernel-api_3.3.0@0.14.0-RC4

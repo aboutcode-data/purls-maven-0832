@@ -31,9 +31,13 @@
 - pkg:maven/org.dromara/northstar-api@6.1.0.RC?classifier=sources
 - pkg:maven/org.dromara/northstar-api@6.1.1.Final
 - pkg:maven/org.dromara/northstar-api@6.1.1.Final?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.2.0.Final
+- pkg:maven/org.dromara/northstar-api@6.2.0.Final?classifier=sources
 - pkg:maven/org.dromara/northstar-api@6.2.0.RC
 - pkg:maven/org.dromara/northstar-api@6.2.0.RC3
 - pkg:maven/org.dromara/northstar-api@6.2.0.RC3?classifier=sources
 - pkg:maven/org.dromara/northstar-api@6.2.0.RC4
 - pkg:maven/org.dromara/northstar-api@6.2.0.RC4?classifier=sources
 - pkg:maven/org.dromara/northstar-api@6.2.0.RC?classifier=sources
+- pkg:maven/org.dromara/northstar-api@6.2.2.Final
+- pkg:maven/org.dromara/northstar-api@6.2.2.Final?classifier=sources

@@ -9,3 +9,9 @@
 - pkg:maven/me.proton.core/util-android-sentry@17.0.1?classifier=sources
 - pkg:maven/me.proton.core/util-android-sentry@17.0.2?classifier=sources
 - pkg:maven/me.proton.core/util-android-sentry@17.0.3?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@17.1.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@17.2.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@17.2.1?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@17.3.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@18.0.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@18.1.0?classifier=sources

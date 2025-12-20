@@ -797,6 +797,7 @@
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@4.0.76
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@4.0.76?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@4.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.settings.web@4.0.78?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@4.0.8
@@ -983,6 +984,7 @@
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@5.0.63?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@5.0.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@5.0.65?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.settings.web@5.0.66?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@5.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.analytics.settings.web@5.0.7

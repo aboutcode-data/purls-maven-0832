@@ -36,3 +36,5 @@
 - pkg:maven/com.amazonaws/athena-aws-cmdb@2023.38.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-aws-cmdb@2023.40.1
 - pkg:maven/com.amazonaws/athena-aws-cmdb@2023.40.1?classifier=sources
+- pkg:maven/com.amazonaws/athena-aws-cmdb@2023.42.1
+- pkg:maven/com.amazonaws/athena-aws-cmdb@2023.42.1?classifier=sources

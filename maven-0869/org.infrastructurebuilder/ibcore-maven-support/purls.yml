@@ -1,2 +1,6 @@
 - pkg:maven/org.infrastructurebuilder/ibcore-maven-support@0.20.0
 - pkg:maven/org.infrastructurebuilder/ibcore-maven-support@0.20.0?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibcore-maven-support@0.21.0
+- pkg:maven/org.infrastructurebuilder/ibcore-maven-support@0.21.0?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibcore-maven-support@0.21.1
+- pkg:maven/org.infrastructurebuilder/ibcore-maven-support@0.21.1?classifier=sources

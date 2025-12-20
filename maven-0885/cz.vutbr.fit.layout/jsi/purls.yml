@@ -1,0 +1,2 @@
+- pkg:maven/cz.vutbr.fit.layout/jsi@1.1.0.fitlayout
+- pkg:maven/cz.vutbr.fit.layout/jsi@1.1.0.fitlayout?classifier=sources

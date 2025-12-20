@@ -24,3 +24,5 @@
 - pkg:maven/io.kevinlee/extras-testing-tools-effectie_sjs1_3@0.42.0?classifier=sources
 - pkg:maven/io.kevinlee/extras-testing-tools-effectie_sjs1_3@0.43.0
 - pkg:maven/io.kevinlee/extras-testing-tools-effectie_sjs1_3@0.43.0?classifier=sources
+- pkg:maven/io.kevinlee/extras-testing-tools-effectie_sjs1_3@0.44.0
+- pkg:maven/io.kevinlee/extras-testing-tools-effectie_sjs1_3@0.44.0?classifier=sources

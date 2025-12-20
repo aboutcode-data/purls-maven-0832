@@ -1,0 +1,4 @@
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.0.0
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.0.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.0.1
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.0.1?classifier=sources

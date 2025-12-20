@@ -21,3 +21,8 @@
 - pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@5.1.1?classifier=sources
 - pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@6.0.0?classifier=sources
 - pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@6.0.2?classifier=sources
+- pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@6.0.3?classifier=sources
+- pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@6.1.0?classifier=sources
+- pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@6.2.0?classifier=sources
+- pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@6.2.1?classifier=sources
+- pkg:maven/io.eqoty.secretk/cosmwasm-std-types-jvm@6.2.2?classifier=sources

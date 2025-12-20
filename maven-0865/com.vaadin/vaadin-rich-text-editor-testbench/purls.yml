@@ -20,6 +20,8 @@
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@14.10.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@14.10.8
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@14.10.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@14.10.9
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@14.10.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@14.5.0
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@14.5.1
@@ -294,6 +296,8 @@
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@22.1.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@22.1.3
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@22.1.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@22.1.4
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@22.1.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.0.0
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.0.1
@@ -437,6 +441,10 @@
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.24?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.25
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.25?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.26
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.26?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.27
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.27?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.3
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@23.3.3?classifier=sources
@@ -491,6 +499,10 @@
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.11?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.12
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.12?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.13
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.13?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.14
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.14?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.2
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.2?classifier=sources
@@ -508,6 +520,12 @@
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.9
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.1.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.2.0
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.2.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.2.1
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.2.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.2.2
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@24.2.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-testbench@3.1.0

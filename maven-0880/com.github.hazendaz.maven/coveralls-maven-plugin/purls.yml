@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@4.5.0-M1?classifier=sources
+- pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@4.5.0-M2?classifier=sources

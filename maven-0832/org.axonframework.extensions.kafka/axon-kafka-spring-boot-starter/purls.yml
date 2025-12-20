@@ -8,3 +8,4 @@
 - pkg:maven/org.axonframework.extensions.kafka/axon-kafka-spring-boot-starter@4.6.0
 - pkg:maven/org.axonframework.extensions.kafka/axon-kafka-spring-boot-starter@4.7.0
 - pkg:maven/org.axonframework.extensions.kafka/axon-kafka-spring-boot-starter@4.8.0
+- pkg:maven/org.axonframework.extensions.kafka/axon-kafka-spring-boot-starter@4.9.0

@@ -34,3 +34,7 @@
 - pkg:maven/com.malliina/util-html_3@6.5.4?classifier=sources
 - pkg:maven/com.malliina/util-html_3@6.5.5
 - pkg:maven/com.malliina/util-html_3@6.5.5?classifier=sources
+- pkg:maven/com.malliina/util-html_3@6.5.6
+- pkg:maven/com.malliina/util-html_3@6.5.6?classifier=sources
+- pkg:maven/com.malliina/util-html_3@6.5.7
+- pkg:maven/com.malliina/util-html_3@6.5.7?classifier=sources

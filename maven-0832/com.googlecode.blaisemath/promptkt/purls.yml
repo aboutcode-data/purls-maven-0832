@@ -1,3 +1,11 @@
+- pkg:maven/com.googlecode.blaisemath/promptkt@0.1.10
+- pkg:maven/com.googlecode.blaisemath/promptkt@0.1.10?classifier=sources
+- pkg:maven/com.googlecode.blaisemath/promptkt@0.1.11
+- pkg:maven/com.googlecode.blaisemath/promptkt@0.1.11?classifier=sources
+- pkg:maven/com.googlecode.blaisemath/promptkt@0.1.12
+- pkg:maven/com.googlecode.blaisemath/promptkt@0.1.12?classifier=sources
+- pkg:maven/com.googlecode.blaisemath/promptkt@0.1.13
+- pkg:maven/com.googlecode.blaisemath/promptkt@0.1.13?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/promptkt@0.1.7
 - pkg:maven/com.googlecode.blaisemath/promptkt@0.1.7?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/promptkt@0.1.8

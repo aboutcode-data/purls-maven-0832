@@ -42,7 +42,13 @@
 - pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.44.4
 - pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.44.4?classifier=sources
 - pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.44?classifier=sources
+- pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.45
 - pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.45.1
 - pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.45.1?classifier=sources
 - pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.45.2
 - pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.45.2?classifier=sources
+- pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.45.3
+- pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.45.3?classifier=sources
+- pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.45?classifier=sources
+- pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.46.1
+- pkg:maven/org.dromara.jpom.plugins/ssh-jsch@2.10.46.1?classifier=sources

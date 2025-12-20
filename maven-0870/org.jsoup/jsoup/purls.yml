@@ -40,6 +40,8 @@
 - pkg:maven/org.jsoup/jsoup@1.15.4?classifier=sources
 - pkg:maven/org.jsoup/jsoup@1.16.1
 - pkg:maven/org.jsoup/jsoup@1.16.1?classifier=sources
+- pkg:maven/org.jsoup/jsoup@1.16.2
+- pkg:maven/org.jsoup/jsoup@1.16.2?classifier=sources
 - pkg:maven/org.jsoup/jsoup@1.2.1
 - pkg:maven/org.jsoup/jsoup@1.2.1?classifier=sources
 - pkg:maven/org.jsoup/jsoup@1.2.2

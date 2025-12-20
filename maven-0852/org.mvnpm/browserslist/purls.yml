@@ -1,4 +1,5 @@
 - pkg:maven/org.mvnpm/browserslist@4.21.10?classifier=sources
 - pkg:maven/org.mvnpm/browserslist@4.21.11?classifier=sources
+- pkg:maven/org.mvnpm/browserslist@4.21.9?classifier=sources
 - pkg:maven/org.mvnpm/browserslist@4.22.0?classifier=sources
 - pkg:maven/org.mvnpm/browserslist@4.22.1?classifier=sources

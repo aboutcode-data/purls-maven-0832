@@ -162,3 +162,16 @@
 - pkg:maven/com.pulumi/aws-native@0.79.1-alpha.1696556402%2Bf964000e?classifier=sources
 - pkg:maven/com.pulumi/aws-native@0.80.0?classifier=sources
 - pkg:maven/com.pulumi/aws-native@0.80.1-alpha.1697088327%2Bb4f6aece?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.80.1-alpha.1697473486%2B11d66a9f?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.80.1-alpha.1697473706%2B5822be42?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.81.0?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.81.1-alpha.1698259876%2B735c2760?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.82.0?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.82.1-alpha.1698709911%2B11b56a47?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.82.1?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.82.2-alpha.1698786251%2Be59e4c3f?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.83.0?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.83.1-alpha.1698988929%2Bd5d442e7?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.83.1-alpha.1699268385%2Bd501d497?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.84.0?classifier=sources
+- pkg:maven/com.pulumi/aws-native@0.84.1-alpha.1699420972%2B17d2527e?classifier=sources

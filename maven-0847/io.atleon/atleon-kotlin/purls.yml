@@ -26,3 +26,7 @@
 - pkg:maven/io.atleon/atleon-kotlin@0.21.0?classifier=sources
 - pkg:maven/io.atleon/atleon-kotlin@0.22.0
 - pkg:maven/io.atleon/atleon-kotlin@0.22.0?classifier=sources
+- pkg:maven/io.atleon/atleon-kotlin@0.23.0
+- pkg:maven/io.atleon/atleon-kotlin@0.23.0?classifier=sources
+- pkg:maven/io.atleon/atleon-kotlin@0.23.1
+- pkg:maven/io.atleon/atleon-kotlin@0.23.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.fork52.rx-codeforces-api-wrapper/rx-codeforces-api@1.0.0
+- pkg:maven/io.github.fork52.rx-codeforces-api-wrapper/rx-codeforces-api@1.0.0?classifier=sources
+- pkg:maven/io.github.fork52.rx-codeforces-api-wrapper/rx-codeforces-api@1.0.2
+- pkg:maven/io.github.fork52.rx-codeforces-api-wrapper/rx-codeforces-api@1.0.2?classifier=sources

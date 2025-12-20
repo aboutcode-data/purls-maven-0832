@@ -32,3 +32,5 @@
 - pkg:maven/dev.zio/zio-kafka-docs_2.12@2.4.3?classifier=sources
 - pkg:maven/dev.zio/zio-kafka-docs_2.12@2.5.0
 - pkg:maven/dev.zio/zio-kafka-docs_2.12@2.5.0?classifier=sources
+- pkg:maven/dev.zio/zio-kafka-docs_2.12@2.6.0
+- pkg:maven/dev.zio/zio-kafka-docs_2.12@2.6.0?classifier=sources

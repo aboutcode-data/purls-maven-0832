@@ -6,3 +6,5 @@
 - pkg:maven/com.47deg/github4s_sjs1_3@0.31.2?classifier=sources
 - pkg:maven/com.47deg/github4s_sjs1_3@0.32.0
 - pkg:maven/com.47deg/github4s_sjs1_3@0.32.0?classifier=sources
+- pkg:maven/com.47deg/github4s_sjs1_3@0.32.1
+- pkg:maven/com.47deg/github4s_sjs1_3@0.32.1?classifier=sources

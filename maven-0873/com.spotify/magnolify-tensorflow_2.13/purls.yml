@@ -54,3 +54,5 @@
 - pkg:maven/com.spotify/magnolify-tensorflow_2.13@0.6.2?classifier=sources
 - pkg:maven/com.spotify/magnolify-tensorflow_2.13@0.6.3
 - pkg:maven/com.spotify/magnolify-tensorflow_2.13@0.6.3?classifier=sources
+- pkg:maven/com.spotify/magnolify-tensorflow_2.13@0.6.4
+- pkg:maven/com.spotify/magnolify-tensorflow_2.13@0.6.4?classifier=sources

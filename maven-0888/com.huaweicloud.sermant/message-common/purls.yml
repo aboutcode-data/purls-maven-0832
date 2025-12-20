@@ -28,3 +28,5 @@
 - pkg:maven/com.huaweicloud.sermant/message-common@1.1.0?classifier=sources
 - pkg:maven/com.huaweicloud.sermant/message-common@1.2.0
 - pkg:maven/com.huaweicloud.sermant/message-common@1.2.0?classifier=sources
+- pkg:maven/com.huaweicloud.sermant/message-common@1.2.1
+- pkg:maven/com.huaweicloud.sermant/message-common@1.2.1?classifier=sources

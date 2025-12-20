@@ -56,6 +56,10 @@
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.11.1-2021.0.x?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.11.1-2022.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.11.1-2022.0.x?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.11.2-2021.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.11.2-2021.0.x?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.11.2-2022.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.11.2-2022.0.x?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.2.0
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.2.0-Edgware
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-common@1.2.0-Edgware?classifier=sources

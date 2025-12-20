@@ -10,9 +10,12 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@4.5.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.1.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.10.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.11.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.2.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.3.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.4.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.5.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.6.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.7.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-iosarm64@5.8.0?classifier=sources

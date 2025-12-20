@@ -1,0 +1,2 @@
+- pkg:maven/org.cxbox/cxbox-starter-quartz@3.0.5
+- pkg:maven/org.cxbox/cxbox-starter-quartz@3.0.5?classifier=sources

@@ -26,4 +26,5 @@
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.7
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.8
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@0.5.9
+- pkg:maven/com.cerner.bunsen/bunsen-assembly@0.6.0
 - pkg:maven/com.cerner.bunsen/bunsen-assembly@1.4.7

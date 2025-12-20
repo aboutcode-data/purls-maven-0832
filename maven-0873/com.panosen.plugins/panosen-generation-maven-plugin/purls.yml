@@ -14,3 +14,5 @@
 - pkg:maven/com.panosen.plugins/panosen-generation-maven-plugin@0.2.5?classifier=sources
 - pkg:maven/com.panosen.plugins/panosen-generation-maven-plugin@0.2.6
 - pkg:maven/com.panosen.plugins/panosen-generation-maven-plugin@0.2.6?classifier=sources
+- pkg:maven/com.panosen.plugins/panosen-generation-maven-plugin@0.2.8
+- pkg:maven/com.panosen.plugins/panosen-generation-maven-plugin@0.2.8?classifier=sources

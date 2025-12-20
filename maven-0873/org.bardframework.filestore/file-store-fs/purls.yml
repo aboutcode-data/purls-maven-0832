@@ -38,3 +38,5 @@
 - pkg:maven/org.bardframework.filestore/file-store-fs@2.4.3?classifier=sources
 - pkg:maven/org.bardframework.filestore/file-store-fs@2.5.23
 - pkg:maven/org.bardframework.filestore/file-store-fs@2.5.23?classifier=sources
+- pkg:maven/org.bardframework.filestore/file-store-fs@2.6.23
+- pkg:maven/org.bardframework.filestore/file-store-fs@2.6.23?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.litetex/crt-sh-client@1.0.0
+- pkg:maven/net.litetex/crt-sh-client@1.0.0?classifier=sources

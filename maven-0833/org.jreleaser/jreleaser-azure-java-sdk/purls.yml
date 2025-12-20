@@ -3,3 +3,4 @@
 - pkg:maven/org.jreleaser/jreleaser-azure-java-sdk@1.6.0?classifier=sources
 - pkg:maven/org.jreleaser/jreleaser-azure-java-sdk@1.7.0?classifier=sources
 - pkg:maven/org.jreleaser/jreleaser-azure-java-sdk@1.8.0?classifier=sources
+- pkg:maven/org.jreleaser/jreleaser-azure-java-sdk@1.9.0?classifier=sources

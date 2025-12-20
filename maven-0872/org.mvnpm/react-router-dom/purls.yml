@@ -1,3 +1,4 @@
 - pkg:maven/org.mvnpm/react-router-dom@6.15.0?classifier=sources
 - pkg:maven/org.mvnpm/react-router-dom@6.16.0?classifier=sources
+- pkg:maven/org.mvnpm/react-router-dom@6.19.0?classifier=sources
 - pkg:maven/org.mvnpm/react-router-dom@6.3.0?classifier=sources

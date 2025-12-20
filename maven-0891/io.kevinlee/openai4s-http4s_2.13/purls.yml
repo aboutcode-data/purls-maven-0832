@@ -8,3 +8,5 @@
 - pkg:maven/io.kevinlee/openai4s-http4s_2.13@0.1.0-alpha4?classifier=sources
 - pkg:maven/io.kevinlee/openai4s-http4s_2.13@0.1.0-alpha5
 - pkg:maven/io.kevinlee/openai4s-http4s_2.13@0.1.0-alpha5?classifier=sources
+- pkg:maven/io.kevinlee/openai4s-http4s_2.13@0.1.0-alpha6
+- pkg:maven/io.kevinlee/openai4s-http4s_2.13@0.1.0-alpha6?classifier=sources

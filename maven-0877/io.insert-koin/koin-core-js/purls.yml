@@ -22,3 +22,4 @@
 - pkg:maven/io.insert-koin/koin-core-js@3.4.2?classifier=sources
 - pkg:maven/io.insert-koin/koin-core-js@3.4.3?classifier=sources
 - pkg:maven/io.insert-koin/koin-core-js@3.5.0?classifier=sources
+- pkg:maven/io.insert-koin/koin-core-js@3.5.2-RC1?classifier=sources

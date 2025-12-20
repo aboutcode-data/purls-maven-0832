@@ -1,0 +1,3 @@
+- pkg:maven/com.hedera.hashgraph/hapi@0.43.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/hapi@0.43.2?classifier=sources
+- pkg:maven/com.hedera.hashgraph/hapi@0.43.3?classifier=sources

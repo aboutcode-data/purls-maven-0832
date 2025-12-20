@@ -1,2 +1,16 @@
 - pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.82
 - pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.82?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.83
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.83?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.84
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.84?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.85
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.85?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.86
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.86?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.87
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.87?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.88
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.88?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.89
+- pkg:maven/com.volcengine/volcengine-java-sdk-filenas@0.1.89?classifier=sources

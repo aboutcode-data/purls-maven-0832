@@ -1,0 +1,2 @@
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/fontconfig-ndk25-shared@2.14.2-beta-1?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/fontconfig-ndk25-shared@2.14.2-beta-2?classifier=sources

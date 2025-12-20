@@ -1,0 +1,2 @@
+- pkg:maven/com.google.appengine.demos/sample-unspecified-auto-ids@2.0.21?type=war
+- pkg:maven/com.google.appengine.demos/sample-unspecified-auto-ids@2.0.22?type=war

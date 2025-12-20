@@ -51,6 +51,8 @@
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.24?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.25
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.25?classifier=sources
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.26
+- pkg:maven/me.hekr.iotos.softgateway/example@3.5.26?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.2?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.3
 - pkg:maven/me.hekr.iotos.softgateway/example@3.5.3?classifier=sources

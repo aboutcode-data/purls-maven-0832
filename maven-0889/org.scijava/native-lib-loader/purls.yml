@@ -34,3 +34,5 @@
 - pkg:maven/org.scijava/native-lib-loader@2.3.6?classifier=sources
 - pkg:maven/org.scijava/native-lib-loader@2.4.0
 - pkg:maven/org.scijava/native-lib-loader@2.4.0?classifier=sources
+- pkg:maven/org.scijava/native-lib-loader@2.5.0
+- pkg:maven/org.scijava/native-lib-loader@2.5.0?classifier=sources

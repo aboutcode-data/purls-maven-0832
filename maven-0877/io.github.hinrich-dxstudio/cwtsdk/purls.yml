@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hinrich-dxstudio/cwtsdk@1.0
+- pkg:maven/io.github.hinrich-dxstudio/cwtsdk@1.0?classifier=sources

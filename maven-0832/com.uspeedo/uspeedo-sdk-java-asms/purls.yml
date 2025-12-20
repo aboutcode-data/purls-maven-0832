@@ -1,0 +1,12 @@
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.1.0-release
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.1.0-release?classifier=sources
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.1.1-release
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.1.1-release?classifier=sources
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.1.2-release
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.1.2-release?classifier=sources
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.2.1-release
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.2.1-release?classifier=sources
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.2.2-release
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.2.2-release?classifier=sources
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.2.3-release
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-asms@1.2.3-release?classifier=sources

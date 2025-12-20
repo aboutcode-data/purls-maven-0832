@@ -1,1 +1,2 @@
 - pkg:maven/org.bitlap/RoaringBitmap@0.9.27-bitlap?classifier=sources
+- pkg:maven/org.bitlap/RoaringBitmap@1.0.1.0?classifier=sources

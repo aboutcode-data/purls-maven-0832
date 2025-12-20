@@ -7,3 +7,5 @@
 - pkg:maven/com.factset.sdk/standarddatafeed@0.21.5?classifier=sources
 - pkg:maven/com.factset.sdk/standarddatafeed@0.21.6?classifier=sources
 - pkg:maven/com.factset.sdk/standarddatafeed@0.21.7?classifier=sources
+- pkg:maven/com.factset.sdk/standarddatafeed@0.21.8?classifier=sources
+- pkg:maven/com.factset.sdk/standarddatafeed@0.21.9?classifier=sources

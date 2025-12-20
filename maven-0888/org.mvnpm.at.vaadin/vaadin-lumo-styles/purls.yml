@@ -1,4 +1,5 @@
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@23.1.16?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@23.3.27?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@23.3.5?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@23.3.6?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@23.3.7?classifier=sources
@@ -15,3 +16,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@24.1.7?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@24.1.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@24.1.9?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@24.2.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@24.2.1?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@24.2.2?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vaadin-lumo-styles@24.2.3?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.timecho.iotdb/session-parent@1.1.1.1?classifier=sources
 - pkg:maven/com.timecho.iotdb/session-parent@1.2.1.1
 - pkg:maven/com.timecho.iotdb/session-parent@1.2.1.1?classifier=sources
+- pkg:maven/com.timecho.iotdb/session-parent@1.2.2.1
+- pkg:maven/com.timecho.iotdb/session-parent@1.2.2.1?classifier=sources

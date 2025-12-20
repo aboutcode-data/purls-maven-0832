@@ -33,6 +33,7 @@
 - pkg:maven/org.apache.jena/jena@3.9.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jena/jena@4.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jena/jena@4.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.jena/jena@4.10.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jena/jena@4.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jena/jena@4.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jena/jena@4.3.1?classifier=source-release&type=zip

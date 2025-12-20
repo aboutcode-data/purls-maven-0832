@@ -8,3 +8,4 @@
 - pkg:maven/org.opencrx/opencrx-core-models@5.2.0?classifier=sources
 - pkg:maven/org.opencrx/opencrx-core-models@5.2.1?classifier=sources
 - pkg:maven/org.opencrx/opencrx-core-models@5.2.2?classifier=sources
+- pkg:maven/org.opencrx/opencrx-core-models@5.3.0?classifier=sources

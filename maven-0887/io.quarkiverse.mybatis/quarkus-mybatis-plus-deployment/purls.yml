@@ -20,6 +20,8 @@
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@1.0.7?classifier=sources
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@1.0.8
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@1.0.8?classifier=sources
+- pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@1.0.9
+- pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@1.0.9?classifier=sources
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.0.0
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.0.0.CR1
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.0.0.CR1?classifier=sources
@@ -28,3 +30,5 @@
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.1.0
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.2.0
+- pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.2.0?classifier=sources

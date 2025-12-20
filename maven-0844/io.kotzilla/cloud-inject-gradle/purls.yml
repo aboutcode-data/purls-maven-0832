@@ -1,0 +1,2 @@
+- pkg:maven/io.kotzilla/cloud-inject-gradle@0.8.0-rc1?classifier=sources
+- pkg:maven/io.kotzilla/cloud-inject-gradle@0.8.0?classifier=sources

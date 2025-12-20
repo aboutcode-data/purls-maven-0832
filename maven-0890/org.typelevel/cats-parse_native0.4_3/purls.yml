@@ -4,3 +4,5 @@
 - pkg:maven/org.typelevel/cats-parse_native0.4_3@0.3.8?classifier=sources
 - pkg:maven/org.typelevel/cats-parse_native0.4_3@0.3.9
 - pkg:maven/org.typelevel/cats-parse_native0.4_3@0.3.9?classifier=sources
+- pkg:maven/org.typelevel/cats-parse_native0.4_3@1.0.0
+- pkg:maven/org.typelevel/cats-parse_native0.4_3@1.0.0?classifier=sources

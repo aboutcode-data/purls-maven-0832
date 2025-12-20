@@ -1,0 +1,3 @@
+- pkg:maven/io.hawt/camel-catalog-schema-generator-plugin@1.0.0
+- pkg:maven/io.hawt/camel-catalog-schema-generator-plugin@1.0.0?classifier=source-release&type=zip
+- pkg:maven/io.hawt/camel-catalog-schema-generator-plugin@1.0.0?classifier=sources

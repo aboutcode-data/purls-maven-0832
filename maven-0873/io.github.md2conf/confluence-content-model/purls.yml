@@ -24,3 +24,5 @@
 - pkg:maven/io.github.md2conf/confluence-content-model@0.2.2?classifier=sources
 - pkg:maven/io.github.md2conf/confluence-content-model@0.2.3
 - pkg:maven/io.github.md2conf/confluence-content-model@0.2.3?classifier=sources
+- pkg:maven/io.github.md2conf/confluence-content-model@0.2.4
+- pkg:maven/io.github.md2conf/confluence-content-model@0.2.4?classifier=sources

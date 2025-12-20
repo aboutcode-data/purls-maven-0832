@@ -42,6 +42,8 @@
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@5.0.7.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@5.0.8.Final
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@5.0.8.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/integration-tests-embedded@5.0.9.Final
+- pkg:maven/org.jboss.resteasy/integration-tests-embedded@5.0.9.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.0.0.Beta1?classifier=sources
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.0.0.Final
@@ -64,3 +66,4 @@
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.2.3.Final
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.2.4.Final
 - pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.2.5.Final
+- pkg:maven/org.jboss.resteasy/integration-tests-embedded@6.2.6.Final

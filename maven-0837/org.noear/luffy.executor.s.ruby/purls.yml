@@ -90,3 +90,5 @@
 - pkg:maven/org.noear/luffy.executor.s.ruby@1.6.7?classifier=sources
 - pkg:maven/org.noear/luffy.executor.s.ruby@1.6.8
 - pkg:maven/org.noear/luffy.executor.s.ruby@1.6.8?classifier=sources
+- pkg:maven/org.noear/luffy.executor.s.ruby@1.7.0
+- pkg:maven/org.noear/luffy.executor.s.ruby@1.7.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.edc/identity-hub-store-cosmos@0.2.1?classifier=sources
 - pkg:maven/org.eclipse.edc/identity-hub-store-cosmos@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.edc/identity-hub-store-cosmos@0.3.1?classifier=sources
+- pkg:maven/org.eclipse.edc/identity-hub-store-cosmos@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.edc/identity-hub-store-cosmos@0.4.1?classifier=sources
