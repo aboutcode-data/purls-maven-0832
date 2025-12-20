@@ -5,3 +5,4 @@
 - pkg:maven/org.omnifaces.arquillian/integration-tests@1.4
 - pkg:maven/org.omnifaces.arquillian/integration-tests@1.5
 - pkg:maven/org.omnifaces.arquillian/integration-tests@1.6
+- pkg:maven/org.omnifaces.arquillian/integration-tests@1.7

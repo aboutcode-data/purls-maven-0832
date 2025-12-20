@@ -1,3 +1,5 @@
+- pkg:maven/com.hubspot.immutables/hubspot-style-test@1.10.0
+- pkg:maven/com.hubspot.immutables/hubspot-style-test@1.10.0?classifier=sources
 - pkg:maven/com.hubspot.immutables/hubspot-style-test@1.6
 - pkg:maven/com.hubspot.immutables/hubspot-style-test@1.6?classifier=sources
 - pkg:maven/com.hubspot.immutables/hubspot-style-test@1.7

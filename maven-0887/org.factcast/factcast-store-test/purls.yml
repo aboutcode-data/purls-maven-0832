@@ -214,11 +214,17 @@
 - pkg:maven/org.factcast/factcast-store-test@0.7.9.1
 - pkg:maven/org.factcast/factcast-store-test@0.7.9.1?classifier=sources
 - pkg:maven/org.factcast/factcast-store-test@0.7.9?classifier=sources
+- pkg:maven/org.factcast/factcast-store-test@0.8.0
 - pkg:maven/org.factcast/factcast-store-test@0.8.0-M1
 - pkg:maven/org.factcast/factcast-store-test@0.8.0-M1?classifier=sources
 - pkg:maven/org.factcast/factcast-store-test@0.8.0-M2
 - pkg:maven/org.factcast/factcast-store-test@0.8.0-M2?classifier=sources
 - pkg:maven/org.factcast/factcast-store-test@0.8.0-M3
 - pkg:maven/org.factcast/factcast-store-test@0.8.0-M3?classifier=sources
+- pkg:maven/org.factcast/factcast-store-test@0.8.0?classifier=sources
+- pkg:maven/org.factcast/factcast-store-test@0.8.1
+- pkg:maven/org.factcast/factcast-store-test@0.8.1?classifier=sources
+- pkg:maven/org.factcast/factcast-store-test@0.8.2
+- pkg:maven/org.factcast/factcast-store-test@0.8.2?classifier=sources
 - pkg:maven/org.factcast/factcast-store-test@195ae24
 - pkg:maven/org.factcast/factcast-store-test@195ae24?classifier=sources

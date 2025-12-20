@@ -33,6 +33,9 @@
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@18.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@18.2.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@18.2.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps-jvm@18.2.2?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps-jvm@18.2.3?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps-jvm@19.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@2.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@2.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@2.0.2?classifier=sources
@@ -44,6 +47,8 @@
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@2.2.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@2.2.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@2.2.2?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps-jvm@20.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps-jvm@20.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@3.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@3.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-jvm@3.0.2?classifier=sources

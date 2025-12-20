@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.gravitino/catalog-lakehouse-hudi@0.7.0-incubating
+- pkg:maven/org.apache.gravitino/catalog-lakehouse-hudi@0.7.0-incubating?classifier=sources

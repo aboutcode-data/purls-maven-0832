@@ -9,3 +9,4 @@
 - pkg:maven/io.github.springwolf/springwolf-sns@1.5.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-sns@1.6.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-sns@1.7.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-sns@1.8.0?classifier=sources

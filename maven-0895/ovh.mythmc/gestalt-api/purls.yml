@@ -1,0 +1,2 @@
+- pkg:maven/ovh.mythmc/gestalt-api@0.1.7b?classifier=sources
+- pkg:maven/ovh.mythmc/gestalt-api@0.1.8?classifier=sources

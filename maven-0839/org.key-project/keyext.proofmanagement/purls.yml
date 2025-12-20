@@ -1,3 +1,4 @@
 - pkg:maven/org.key-project/keyext.proofmanagement@2.12.0?classifier=sources
 - pkg:maven/org.key-project/keyext.proofmanagement@2.12.1?classifier=sources
 - pkg:maven/org.key-project/keyext.proofmanagement@2.12.2?classifier=sources
+- pkg:maven/org.key-project/keyext.proofmanagement@2.12.3?classifier=sources

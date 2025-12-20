@@ -56,3 +56,4 @@
 - pkg:maven/io.micronaut.azure/micronaut-azure-function-http@5.6.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-function-http@5.7.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-function-http@5.7.1?classifier=sources
+- pkg:maven/io.micronaut.azure/micronaut-azure-function-http@5.8.0?classifier=sources

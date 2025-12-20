@@ -1,0 +1,2 @@
+- pkg:maven/io.github.swqxdba/bridge@0.0.7?classifier=sources
+- pkg:maven/io.github.swqxdba/bridge@0.0.8?classifier=sources

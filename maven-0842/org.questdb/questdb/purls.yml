@@ -186,3 +186,5 @@
 - pkg:maven/org.questdb/questdb@8.1.2?type=zip
 - pkg:maven/org.questdb/questdb@8.1.3?classifier=sources
 - pkg:maven/org.questdb/questdb@8.1.3?type=zip
+- pkg:maven/org.questdb/questdb@8.1.4?classifier=sources
+- pkg:maven/org.questdb/questdb@8.1.4?type=zip

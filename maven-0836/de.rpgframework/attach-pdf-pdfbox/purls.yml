@@ -2,3 +2,5 @@
 - pkg:maven/de.rpgframework/attach-pdf-pdfbox@5.1.4?classifier=sources
 - pkg:maven/de.rpgframework/attach-pdf-pdfbox@5.1.5
 - pkg:maven/de.rpgframework/attach-pdf-pdfbox@5.1.5?classifier=sources
+- pkg:maven/de.rpgframework/attach-pdf-pdfbox@5.2.0
+- pkg:maven/de.rpgframework/attach-pdf-pdfbox@5.2.0?classifier=sources

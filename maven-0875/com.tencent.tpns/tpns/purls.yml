@@ -91,3 +91,4 @@
 - pkg:maven/com.tencent.tpns/tpns@1.4.3.8-release?classifier=sources
 - pkg:maven/com.tencent.tpns/tpns@1.4.3.9-release?classifier=sources
 - pkg:maven/com.tencent.tpns/tpns@1.4.4.1-release?classifier=sources
+- pkg:maven/com.tencent.tpns/tpns@1.4.4.2-release?classifier=sources

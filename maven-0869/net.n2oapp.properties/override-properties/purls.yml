@@ -599,6 +599,8 @@
 - pkg:maven/net.n2oapp.properties/override-properties@7.27.22?classifier=sources
 - pkg:maven/net.n2oapp.properties/override-properties@7.27.23
 - pkg:maven/net.n2oapp.properties/override-properties@7.27.23?classifier=sources
+- pkg:maven/net.n2oapp.properties/override-properties@7.27.24
+- pkg:maven/net.n2oapp.properties/override-properties@7.27.24?classifier=sources
 - pkg:maven/net.n2oapp.properties/override-properties@7.27.2?classifier=sources
 - pkg:maven/net.n2oapp.properties/override-properties@7.27.3
 - pkg:maven/net.n2oapp.properties/override-properties@7.27.3?classifier=sources

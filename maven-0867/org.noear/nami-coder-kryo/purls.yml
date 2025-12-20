@@ -1,0 +1,10 @@
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3-M2
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3-M2?classifier=sources
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3-M3
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3-M3?classifier=sources
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3-M4
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3-M4?classifier=sources
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3-RC
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3-RC?classifier=sources
+- pkg:maven/org.noear/nami-coder-kryo@3.0.3?classifier=sources

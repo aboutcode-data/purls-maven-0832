@@ -336,6 +336,9 @@
 - pkg:maven/org.anyline/anyline-oss@8.7.2-20241011
 - pkg:maven/org.anyline/anyline-oss@8.7.2-20241012
 - pkg:maven/org.anyline/anyline-oss@8.7.2-20241016
+- pkg:maven/org.anyline/anyline-oss@8.7.2-20241022
+- pkg:maven/org.anyline/anyline-oss@8.7.2-20241025
+- pkg:maven/org.anyline/anyline-oss@8.7.2-20241107
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk11-20240820
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk11-20240826
@@ -345,6 +348,7 @@
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk11-20240912
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk11-20240919
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk11-20241015
+- pkg:maven/org.anyline/anyline-oss@8.7.2-jdk11-20241022
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk17-20240501
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk17-20240505
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk17-20240506
@@ -405,6 +409,7 @@
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk17-20240920
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk17-20240925
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk17-20241015
+- pkg:maven/org.anyline/anyline-oss@8.7.2-jdk17-20241022
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk21-20240501
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk21-20240505
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk21-20240506
@@ -466,3 +471,5 @@
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk21-20240925
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk21-20241015
 - pkg:maven/org.anyline/anyline-oss@8.7.2-jdk21-20241018
+- pkg:maven/org.anyline/anyline-oss@8.7.2-jdk21-20241022
+- pkg:maven/org.anyline/anyline-oss@8.7.2-jdk21-20241025

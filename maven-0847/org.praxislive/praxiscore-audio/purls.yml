@@ -14,7 +14,9 @@
 - pkg:maven/org.praxislive/praxiscore-audio@5.6.0?classifier=sources
 - pkg:maven/org.praxislive/praxiscore-audio@5.7.0
 - pkg:maven/org.praxislive/praxiscore-audio@5.7.0?classifier=sources
+- pkg:maven/org.praxislive/praxiscore-audio@6.0.0
 - pkg:maven/org.praxislive/praxiscore-audio@6.0.0-beta1
 - pkg:maven/org.praxislive/praxiscore-audio@6.0.0-beta1?classifier=sources
 - pkg:maven/org.praxislive/praxiscore-audio@6.0.0-beta2
 - pkg:maven/org.praxislive/praxiscore-audio@6.0.0-beta2?classifier=sources
+- pkg:maven/org.praxislive/praxiscore-audio@6.0.0?classifier=sources

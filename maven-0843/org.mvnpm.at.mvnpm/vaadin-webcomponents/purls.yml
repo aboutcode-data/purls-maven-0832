@@ -28,3 +28,4 @@
 - pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.4.7?classifier=sources
 - pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.4.8?classifier=sources
 - pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.4.9?classifier=sources
+- pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.5.3?classifier=sources

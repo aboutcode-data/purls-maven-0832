@@ -306,6 +306,8 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-support@4.24.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-support@4.25.0
 - pkg:maven/org.seleniumhq.selenium/selenium-support@4.25.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-support@4.26.0
+- pkg:maven/org.seleniumhq.selenium/selenium-support@4.26.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-support@4.3.0
 - pkg:maven/org.seleniumhq.selenium/selenium-support@4.3.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-support@4.4.0

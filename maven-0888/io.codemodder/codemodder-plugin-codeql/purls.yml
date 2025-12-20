@@ -60,6 +60,10 @@
 - pkg:maven/io.codemodder/codemodder-plugin-codeql@0.94.1?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-codeql@0.95.0?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-codeql@0.96.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-codeql@0.97.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-codeql@0.97.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-codeql@0.97.2?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-codeql@0.97.3?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-codeql@v0.72.2?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-codeql@v0.78.0?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-codeql@v0.87.0?classifier=sources

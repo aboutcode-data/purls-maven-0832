@@ -33,3 +33,6 @@
 - pkg:maven/com.dua3.utility/utility-samples-slf4j@13.1.1?classifier=sources
 - pkg:maven/com.dua3.utility/utility-samples-slf4j@13.1.2?classifier=sources
 - pkg:maven/com.dua3.utility/utility-samples-slf4j@13.1?classifier=sources
+- pkg:maven/com.dua3.utility/utility-samples-slf4j@14-beta-1?classifier=sources
+- pkg:maven/com.dua3.utility/utility-samples-slf4j@14-beta-2?classifier=sources
+- pkg:maven/com.dua3.utility/utility-samples-slf4j@14.0-BETA-1?classifier=sources

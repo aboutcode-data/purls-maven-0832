@@ -114,3 +114,5 @@
 - pkg:maven/org.apache.flink/flink-table-api-scala-bridge_2.12@1.9.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-table-api-scala-bridge_2.12@1.9.3
 - pkg:maven/org.apache.flink/flink-table-api-scala-bridge_2.12@1.9.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-table-api-scala-bridge_2.12@2.0-preview1
+- pkg:maven/org.apache.flink/flink-table-api-scala-bridge_2.12@2.0-preview1?classifier=sources

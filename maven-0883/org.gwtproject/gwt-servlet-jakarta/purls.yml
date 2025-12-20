@@ -1,2 +1,6 @@
 - pkg:maven/org.gwtproject/gwt-servlet-jakarta@2.11.0
 - pkg:maven/org.gwtproject/gwt-servlet-jakarta@2.11.0?classifier=sources
+- pkg:maven/org.gwtproject/gwt-servlet-jakarta@2.12.0
+- pkg:maven/org.gwtproject/gwt-servlet-jakarta@2.12.0?classifier=sources
+- pkg:maven/org.gwtproject/gwt-servlet-jakarta@2.12.1
+- pkg:maven/org.gwtproject/gwt-servlet-jakarta@2.12.1?classifier=sources

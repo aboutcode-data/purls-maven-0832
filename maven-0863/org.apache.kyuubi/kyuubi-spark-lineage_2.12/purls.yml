@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.kyuubi/kyuubi-spark-lineage_2.12@1.10.0
+- pkg:maven/org.apache.kyuubi/kyuubi-spark-lineage_2.12@1.10.0?classifier=sources
 - pkg:maven/org.apache.kyuubi/kyuubi-spark-lineage_2.12@1.7.0
 - pkg:maven/org.apache.kyuubi/kyuubi-spark-lineage_2.12@1.7.0?classifier=sources
 - pkg:maven/org.apache.kyuubi/kyuubi-spark-lineage_2.12@1.7.1

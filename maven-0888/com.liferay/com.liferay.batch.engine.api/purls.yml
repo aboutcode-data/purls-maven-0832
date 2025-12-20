@@ -407,6 +407,7 @@
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@24.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@25.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@26.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.batch.engine.api@26.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.engine.api@3.0.0?classifier=sources-commercial

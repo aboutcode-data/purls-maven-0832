@@ -49,6 +49,8 @@
 - pkg:maven/pro.chenggang/mybatis-r2dbc@2.0.0.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/mybatis-r2dbc@2.0.1.RELEASE
 - pkg:maven/pro.chenggang/mybatis-r2dbc@2.0.1.RELEASE?classifier=sources
+- pkg:maven/pro.chenggang/mybatis-r2dbc@2.0.2.RELEASE
+- pkg:maven/pro.chenggang/mybatis-r2dbc@2.0.2.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/mybatis-r2dbc@3.0.0.RELEASE
 - pkg:maven/pro.chenggang/mybatis-r2dbc@3.0.0.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/mybatis-r2dbc@3.0.1.RELEASE
@@ -59,3 +61,5 @@
 - pkg:maven/pro.chenggang/mybatis-r2dbc@3.0.3.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/mybatis-r2dbc@3.0.4.RELEASE
 - pkg:maven/pro.chenggang/mybatis-r2dbc@3.0.4.RELEASE?classifier=sources
+- pkg:maven/pro.chenggang/mybatis-r2dbc@3.0.5.RELEASE
+- pkg:maven/pro.chenggang/mybatis-r2dbc@3.0.5.RELEASE?classifier=sources

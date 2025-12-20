@@ -10,3 +10,5 @@
 - pkg:maven/com.solace.quarkus/quarkus-solace-client-deployment@1.1.3?classifier=sources
 - pkg:maven/com.solace.quarkus/quarkus-solace-client-deployment@2.0.0
 - pkg:maven/com.solace.quarkus/quarkus-solace-client-deployment@2.0.0?classifier=sources
+- pkg:maven/com.solace.quarkus/quarkus-solace-client-deployment@3.0.0
+- pkg:maven/com.solace.quarkus/quarkus-solace-client-deployment@3.0.0?classifier=sources

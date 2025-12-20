@@ -175,6 +175,8 @@
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.1
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.10
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.10?classifier=sources
+- pkg:maven/io.vertx/vertx-rx-java-gen@4.5.11
+- pkg:maven/io.vertx/vertx-rx-java-gen@4.5.11?classifier=sources
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.1?classifier=sources
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.2
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.2?classifier=sources
@@ -192,3 +194,5 @@
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.8?classifier=sources
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.9
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.9?classifier=sources
+- pkg:maven/io.vertx/vertx-rx-java-gen@5.0.0.CR1
+- pkg:maven/io.vertx/vertx-rx-java-gen@5.0.0.CR1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/gov.nasa.pds/pds3-product-tools@4.3.0?classifier=sources
 - pkg:maven/gov.nasa.pds/pds3-product-tools@4.4.0
 - pkg:maven/gov.nasa.pds/pds3-product-tools@4.4.0?classifier=sources
+- pkg:maven/gov.nasa.pds/pds3-product-tools@4.4.1
+- pkg:maven/gov.nasa.pds/pds3-product-tools@4.4.1?classifier=sources

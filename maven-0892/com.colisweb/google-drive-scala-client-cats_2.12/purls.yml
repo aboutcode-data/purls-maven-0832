@@ -60,3 +60,15 @@
 - pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.2?classifier=sources
 - pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.3-rc2
 - pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.3-rc2?classifier=sources
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.4
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.4?classifier=sources
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5-ALPHA
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5-ALPHA?classifier=sources
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5-BETA
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5-BETA?classifier=sources
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5-DELTA
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5-DELTA?classifier=sources
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5-GAMMA
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5-GAMMA?classifier=sources
+- pkg:maven/com.colisweb/google-drive-scala-client-cats_2.12@2.2.5?classifier=sources

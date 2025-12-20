@@ -11,3 +11,4 @@
 - pkg:maven/com.jashmore/aws-xray-extension-spring-boot@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/aws-xray-extension-spring-boot@5.1.0?classifier=sources
 - pkg:maven/com.jashmore/aws-xray-extension-spring-boot@6.0.0?classifier=sources
+- pkg:maven/com.jashmore/aws-xray-extension-spring-boot@7.0.0?classifier=sources

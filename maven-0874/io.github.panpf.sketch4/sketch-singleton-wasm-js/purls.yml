@@ -6,3 +6,6 @@
 - pkg:maven/io.github.panpf.sketch4/sketch-singleton-wasm-js@4.0.0-alpha06?classifier=sources
 - pkg:maven/io.github.panpf.sketch4/sketch-singleton-wasm-js@4.0.0-alpha07?classifier=sources
 - pkg:maven/io.github.panpf.sketch4/sketch-singleton-wasm-js@4.0.0-alpha08?classifier=sources
+- pkg:maven/io.github.panpf.sketch4/sketch-singleton-wasm-js@4.0.0-beta01?classifier=sources
+- pkg:maven/io.github.panpf.sketch4/sketch-singleton-wasm-js@4.0.0-beta02?classifier=sources
+- pkg:maven/io.github.panpf.sketch4/sketch-singleton-wasm-js@4.0.0-beta03?classifier=sources

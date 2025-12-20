@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.camel/camel-aws2-redshift@4.4.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-aws2-redshift@4.4.3
 - pkg:maven/org.apache.camel/camel-aws2-redshift@4.4.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-aws2-redshift@4.4.4
+- pkg:maven/org.apache.camel/camel-aws2-redshift@4.4.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-aws2-redshift@4.5.0
 - pkg:maven/org.apache.camel/camel-aws2-redshift@4.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-aws2-redshift@4.6.0
@@ -20,3 +22,5 @@
 - pkg:maven/org.apache.camel/camel-aws2-redshift@4.7.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-aws2-redshift@4.8.0
 - pkg:maven/org.apache.camel/camel-aws2-redshift@4.8.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-aws2-redshift@4.8.1
+- pkg:maven/org.apache.camel/camel-aws2-redshift@4.8.1?classifier=sources

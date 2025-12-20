@@ -1,1 +1,2 @@
 - pkg:maven/org.microg.gms/play-services-mlkit-barcode-scanning@0.3.2.240913?classifier=sources
+- pkg:maven/org.microg.gms/play-services-mlkit-barcode-scanning@0.3.4.240913?classifier=sources

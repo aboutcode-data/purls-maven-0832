@@ -10,6 +10,7 @@
 - pkg:maven/dev.nipafx.ginevra/ginevra@0.17.0?classifier=sources
 - pkg:maven/dev.nipafx.ginevra/ginevra@0.17.1?classifier=sources
 - pkg:maven/dev.nipafx.ginevra/ginevra@0.18.0?classifier=sources
+- pkg:maven/dev.nipafx.ginevra/ginevra@0.18.1?classifier=sources
 - pkg:maven/dev.nipafx.ginevra/ginevra@0.2.0?classifier=sources
 - pkg:maven/dev.nipafx.ginevra/ginevra@0.2.1?classifier=sources
 - pkg:maven/dev.nipafx.ginevra/ginevra@0.3.0?classifier=sources

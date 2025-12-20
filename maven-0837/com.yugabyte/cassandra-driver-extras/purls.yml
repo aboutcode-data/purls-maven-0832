@@ -28,6 +28,8 @@
 - pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-18?classifier=sources
 - pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-19
 - pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-19?classifier=sources
+- pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-20-test
+- pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-20-test?classifier=sources
 - pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-8
 - pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-8?classifier=sources
 - pkg:maven/com.yugabyte/cassandra-driver-extras@3.2.0-yb-9

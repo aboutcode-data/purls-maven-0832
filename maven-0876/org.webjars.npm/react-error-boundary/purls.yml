@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/react-error-boundary@1.2.5?classifier=sources
 - pkg:maven/org.webjars.npm/react-error-boundary@4.0.13
 - pkg:maven/org.webjars.npm/react-error-boundary@4.0.13?classifier=sources
+- pkg:maven/org.webjars.npm/react-error-boundary@4.1.2

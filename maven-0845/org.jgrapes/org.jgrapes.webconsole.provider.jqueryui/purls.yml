@@ -8,3 +8,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.jqueryui@0.2.3?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.jqueryui@0.3.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.jqueryui@0.4.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.jqueryui@0.5.0?classifier=sources

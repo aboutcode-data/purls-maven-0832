@@ -1,0 +1,2 @@
+- pkg:maven/io.qase/qase-junit5-reporter@4.0.0
+- pkg:maven/io.qase/qase-junit5-reporter@4.0.0?classifier=sources

@@ -19,6 +19,11 @@
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@18.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@18.2.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@18.2.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@18.2.2?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@18.2.3?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@19.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@20.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@20.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@7.0.2?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@7.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-linuxx64@7.1.1?classifier=sources

@@ -110,6 +110,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@42.7.2_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@42.7.2_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@42.7.2_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@42.7.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@42.7.4_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@42.7.4_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@42.7.4_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@9.2-1003-jdbc4_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@9.2-1003-jdbc4_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.postgresql@9.2-1003-jdbc4_1?classifier=src&type=tar.gz

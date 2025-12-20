@@ -11,3 +11,4 @@
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-watchossimulatorarm64@0.1.8?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-watchossimulatorarm64@0.2.0?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-watchossimulatorarm64@0.2.1?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-watchossimulatorarm64@0.2.2?classifier=sources

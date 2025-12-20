@@ -16,3 +16,4 @@
 - pkg:maven/net.lenni0451.mcstructs/data@2.5.1?classifier=sources
 - pkg:maven/net.lenni0451.mcstructs/data@2.5.2?classifier=sources
 - pkg:maven/net.lenni0451.mcstructs/data@2.5.3?classifier=sources
+- pkg:maven/net.lenni0451.mcstructs/data@2.5.4?classifier=sources

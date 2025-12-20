@@ -53,3 +53,4 @@
 - pkg:maven/io.micronaut.views/micronaut-views-freemarker@5.4.4?classifier=sources
 - pkg:maven/io.micronaut.views/micronaut-views-freemarker@5.5.0?classifier=sources
 - pkg:maven/io.micronaut.views/micronaut-views-freemarker@5.5.1?classifier=sources
+- pkg:maven/io.micronaut.views/micronaut-views-freemarker@5.6.0?classifier=sources

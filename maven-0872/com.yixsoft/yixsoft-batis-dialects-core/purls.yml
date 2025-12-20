@@ -49,3 +49,4 @@
 - pkg:maven/com.yixsoft/yixsoft-batis-dialects-core@2.0.3
 - pkg:maven/com.yixsoft/yixsoft-batis-dialects-core@2.0.3?classifier=sources
 - pkg:maven/com.yixsoft/yixsoft-batis-dialects-core@2.0.4?classifier=sources
+- pkg:maven/com.yixsoft/yixsoft-batis-dialects-core@2.0.5?classifier=sources

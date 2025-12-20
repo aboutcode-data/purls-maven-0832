@@ -7,6 +7,7 @@
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.11.0?classifier=sources
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.11.1?classifier=sources
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.11.2?classifier=sources
+- pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.12.0?classifier=sources
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.2.0?classifier=sources
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.3.0?classifier=sources
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.4.0?classifier=sources

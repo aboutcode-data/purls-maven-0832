@@ -20,3 +20,4 @@
 - pkg:maven/io.micronaut.jms/micronaut-jms-sqs@3.4.0?classifier=sources
 - pkg:maven/io.micronaut.jms/micronaut-jms-sqs@3.5.0?classifier=sources
 - pkg:maven/io.micronaut.jms/micronaut-jms-sqs@4.0.0?classifier=sources
+- pkg:maven/io.micronaut.jms/micronaut-jms-sqs@4.1.0?classifier=sources

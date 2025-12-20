@@ -22,6 +22,8 @@
 - pkg:maven/cn.fossc.polaris.framework/polaris-framework-module-dubbo@3.0.2?classifier=sources
 - pkg:maven/cn.fossc.polaris.framework/polaris-framework-module-dubbo@3.0.30?classifier=sources
 - pkg:maven/cn.fossc.polaris.framework/polaris-framework-module-dubbo@3.0.31?classifier=sources
+- pkg:maven/cn.fossc.polaris.framework/polaris-framework-module-dubbo@3.0.32?classifier=sources
+- pkg:maven/cn.fossc.polaris.framework/polaris-framework-module-dubbo@3.0.33?classifier=sources
 - pkg:maven/cn.fossc.polaris.framework/polaris-framework-module-dubbo@3.0.3?classifier=sources
 - pkg:maven/cn.fossc.polaris.framework/polaris-framework-module-dubbo@3.0.4?classifier=sources
 - pkg:maven/cn.fossc.polaris.framework/polaris-framework-module-dubbo@3.0.5?classifier=sources

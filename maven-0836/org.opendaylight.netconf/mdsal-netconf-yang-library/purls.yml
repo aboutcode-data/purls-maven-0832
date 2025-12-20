@@ -180,3 +180,4 @@
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@6.0.7?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@6.0.8
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@6.0.8?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-yang-library@6.0.9?classifier=sources

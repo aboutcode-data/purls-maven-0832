@@ -1,0 +1,2 @@
+- pkg:maven/io.kinoplan/utils-play2-filters-logging_2.12@0.0.44
+- pkg:maven/io.kinoplan/utils-play2-filters-logging_2.12@0.0.44?classifier=sources

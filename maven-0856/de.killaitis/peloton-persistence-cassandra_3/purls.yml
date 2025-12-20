@@ -1,0 +1,2 @@
+- pkg:maven/de.killaitis/peloton-persistence-cassandra_3@0.4.4
+- pkg:maven/de.killaitis/peloton-persistence-cassandra_3@0.4.4?classifier=sources

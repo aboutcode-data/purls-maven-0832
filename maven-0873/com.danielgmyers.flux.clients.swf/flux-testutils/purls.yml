@@ -2,3 +2,5 @@
 - pkg:maven/com.danielgmyers.flux.clients.swf/flux-testutils@2.0.7?classifier=sources
 - pkg:maven/com.danielgmyers.flux.clients.swf/flux-testutils@2.0.8
 - pkg:maven/com.danielgmyers.flux.clients.swf/flux-testutils@2.0.8?classifier=sources
+- pkg:maven/com.danielgmyers.flux.clients.swf/flux-testutils@2.0.9
+- pkg:maven/com.danielgmyers.flux.clients.swf/flux-testutils@2.0.9?classifier=sources

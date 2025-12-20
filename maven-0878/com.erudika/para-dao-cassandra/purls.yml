@@ -66,3 +66,5 @@
 - pkg:maven/com.erudika/para-dao-cassandra@1.39.0?classifier=sources
 - pkg:maven/com.erudika/para-dao-cassandra@1.40.0
 - pkg:maven/com.erudika/para-dao-cassandra@1.40.0?classifier=sources
+- pkg:maven/com.erudika/para-dao-cassandra@1.41.1
+- pkg:maven/com.erudika/para-dao-cassandra@1.41.1?classifier=sources

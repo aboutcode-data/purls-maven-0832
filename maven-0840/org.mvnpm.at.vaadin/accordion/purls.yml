@@ -50,3 +50,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/accordion@24.4.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/accordion@24.4.9?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/accordion@24.5.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/accordion@24.5.1?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/accordion@24.5.2?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/accordion@24.5.3?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/accordion@24.6.0-alpha7?classifier=sources

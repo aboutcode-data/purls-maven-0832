@@ -112,6 +112,8 @@
 - pkg:maven/com.spotify/scio-repl_2.12@0.14.7?classifier=sources
 - pkg:maven/com.spotify/scio-repl_2.12@0.14.8
 - pkg:maven/com.spotify/scio-repl_2.12@0.14.8?classifier=sources
+- pkg:maven/com.spotify/scio-repl_2.12@0.14.9
+- pkg:maven/com.spotify/scio-repl_2.12@0.14.9?classifier=sources
 - pkg:maven/com.spotify/scio-repl_2.12@0.4.0
 - pkg:maven/com.spotify/scio-repl_2.12@0.4.0-beta2
 - pkg:maven/com.spotify/scio-repl_2.12@0.4.0-beta2?classifier=sources

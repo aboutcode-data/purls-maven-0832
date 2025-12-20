@@ -1,0 +1,2 @@
+- pkg:maven/net.pwall.util/int-output-kotlin@1.0
+- pkg:maven/net.pwall.util/int-output-kotlin@1.0?classifier=sources

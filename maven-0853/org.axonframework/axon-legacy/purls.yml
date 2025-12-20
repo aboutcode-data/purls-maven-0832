@@ -73,6 +73,8 @@
 - pkg:maven/org.axonframework/axon-legacy@4.10.0?classifier=sources
 - pkg:maven/org.axonframework/axon-legacy@4.10.1
 - pkg:maven/org.axonframework/axon-legacy@4.10.1?classifier=sources
+- pkg:maven/org.axonframework/axon-legacy@4.10.2
+- pkg:maven/org.axonframework/axon-legacy@4.10.2?classifier=sources
 - pkg:maven/org.axonframework/axon-legacy@4.1?classifier=sources
 - pkg:maven/org.axonframework/axon-legacy@4.2
 - pkg:maven/org.axonframework/axon-legacy@4.2.1

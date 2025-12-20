@@ -1,0 +1,2 @@
+- pkg:maven/org.openprovenance.prov/service-metrics@2.2.1?classifier=sources
+- pkg:maven/org.openprovenance.prov/service-metrics@2.2.1?type=war

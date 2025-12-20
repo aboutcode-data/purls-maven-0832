@@ -164,6 +164,12 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-20241016?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-20241018
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-20241018?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-20241022
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-20241022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-20241025
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-20241025?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-20241107
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-20241107?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk11-20240819
@@ -182,6 +188,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk11-20240919?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk11-20241015
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk11-20241015?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk11-20241022
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk11-20241022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk17-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk17-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk17-20240505
@@ -308,6 +316,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk17-20240930?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk17-20241015
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk17-20241015?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk17-20241022
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk17-20241022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20240505
@@ -446,3 +456,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20241016?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20241018
 - pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20241018?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20241022
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20241022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20241025
+- pkg:maven/org.anyline/anyline-data-jdbc-postgis@8.7.2-jdk21-20241025?classifier=sources

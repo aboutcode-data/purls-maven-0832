@@ -202,3 +202,5 @@
 - pkg:maven/nl.vpro.media/media-tva@8.2.4?classifier=sources
 - pkg:maven/nl.vpro.media/media-tva@8.3.0
 - pkg:maven/nl.vpro.media/media-tva@8.3.0?classifier=sources
+- pkg:maven/nl.vpro.media/media-tva@8.3.1
+- pkg:maven/nl.vpro.media/media-tva@8.3.1?classifier=sources

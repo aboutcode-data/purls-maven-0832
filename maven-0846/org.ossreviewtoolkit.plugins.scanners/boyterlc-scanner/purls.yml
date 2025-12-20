@@ -49,7 +49,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@34.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@40.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/boyterlc-scanner@6.0.0?classifier=sources

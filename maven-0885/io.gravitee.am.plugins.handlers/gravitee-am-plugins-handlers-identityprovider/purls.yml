@@ -610,6 +610,8 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.1.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.1.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.1.20
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.1.20-hotfix.1
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.1.20-hotfix.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.1.20?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.1.21
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.1.21?classifier=sources
@@ -689,6 +691,10 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.22?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.23
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.23?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.24
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.24?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.25
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.25?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.2?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.3
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.2.3?classifier=sources
@@ -719,6 +725,8 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.3.14?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.3.15
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.3.15?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.3.17
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.3.17?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.3.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.3.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.3.2?classifier=sources
@@ -741,6 +749,8 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.0?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.1
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.10
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.10?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.2?classifier=sources
@@ -756,6 +766,8 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.7?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.8
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.8?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.9
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.4.9?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.0
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.0-alpha.1
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.0-alpha.1?classifier=sources
@@ -766,3 +778,11 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.0-alpha.4
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.0-alpha.4?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.0?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.1
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.1?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.2
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.5.2?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.6.0-alpha.1
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.6.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.6.0-alpha.2
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-identityprovider@4.6.0-alpha.2?classifier=sources

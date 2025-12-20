@@ -2,6 +2,7 @@
 - pkg:maven/org.webjars.npm/mui__base@5.0.0-alpha.112?classifier=sources
 - pkg:maven/org.webjars.npm/mui__base@5.0.0-alpha.98
 - pkg:maven/org.webjars.npm/mui__base@5.0.0-alpha.98?classifier=sources
+- pkg:maven/org.webjars.npm/mui__base@5.0.0-beta.11
 - pkg:maven/org.webjars.npm/mui__base@5.0.0-beta.15
 - pkg:maven/org.webjars.npm/mui__base@5.0.0-beta.15?classifier=sources
 - pkg:maven/org.webjars.npm/mui__base@5.0.0-beta.20

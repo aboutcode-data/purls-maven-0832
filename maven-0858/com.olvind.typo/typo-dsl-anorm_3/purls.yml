@@ -46,6 +46,10 @@
 - pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.25.0?classifier=sources
 - pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.26.0
 - pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.26.0?classifier=sources
+- pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.27.0
+- pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.27.0?classifier=sources
+- pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.28.0
+- pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.28.0?classifier=sources
 - pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.3.0
 - pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.3.0?classifier=sources
 - pkg:maven/com.olvind.typo/typo-dsl-anorm_3@0.3.1

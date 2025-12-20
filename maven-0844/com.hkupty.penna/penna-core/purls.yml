@@ -14,3 +14,4 @@
 - pkg:maven/com.hkupty.penna/penna-core@0.8.0-rc2?classifier=sources
 - pkg:maven/com.hkupty.penna/penna-core@0.8.0-rc3?classifier=sources
 - pkg:maven/com.hkupty.penna/penna-core@0.8.0?classifier=sources
+- pkg:maven/com.hkupty.penna/penna-core@0.8.1?classifier=sources

@@ -38,6 +38,7 @@
 - pkg:maven/com.ritense.valtimo/test-utils-common@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/test-utils-common@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/test-utils-common@12.3.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/test-utils-common@12.3.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/test-utils-common@12.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/test-utils-common@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/test-utils-common@9.11.0.RELEASE?classifier=sources

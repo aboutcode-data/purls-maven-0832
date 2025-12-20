@@ -16,3 +16,6 @@
 - pkg:maven/com.emergetools.snapshots/snapshots-annotations@1.1.4?classifier=sources
 - pkg:maven/com.emergetools.snapshots/snapshots-annotations@1.2.0?classifier=sources
 - pkg:maven/com.emergetools.snapshots/snapshots-annotations@1.3.0-beta01?classifier=sources
+- pkg:maven/com.emergetools.snapshots/snapshots-annotations@1.3.0-rc01?classifier=sources
+- pkg:maven/com.emergetools.snapshots/snapshots-annotations@1.3.0-rc02?classifier=sources
+- pkg:maven/com.emergetools.snapshots/snapshots-annotations@1.3.0-rc03?classifier=sources

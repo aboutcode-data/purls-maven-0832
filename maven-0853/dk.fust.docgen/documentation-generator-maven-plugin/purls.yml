@@ -1,0 +1,2 @@
+- pkg:maven/dk.fust.docgen/documentation-generator-maven-plugin@0.0.6?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-maven-plugin@0.0.8?classifier=sources

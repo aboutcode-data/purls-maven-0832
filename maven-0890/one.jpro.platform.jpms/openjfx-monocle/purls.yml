@@ -1,0 +1,2 @@
+- pkg:maven/one.jpro.platform.jpms/openjfx-monocle@17.0.10-jpms?classifier=sources
+- pkg:maven/one.jpro.platform.jpms/openjfx-monocle@21.0.2-jpms?classifier=sources

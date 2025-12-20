@@ -1,0 +1,4 @@
+- pkg:maven/de.naturzukunft/commons-rdf-vocabularies@0.1.14
+- pkg:maven/de.naturzukunft/commons-rdf-vocabularies@0.1.14?classifier=sources
+- pkg:maven/de.naturzukunft/commons-rdf-vocabularies@0.1.15
+- pkg:maven/de.naturzukunft/commons-rdf-vocabularies@0.1.15?classifier=sources

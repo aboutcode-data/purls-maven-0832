@@ -122,3 +122,5 @@
 - pkg:maven/com.aliyun/alibabacloud-arms20190808@7.0.7?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-arms20190808@7.0.8
 - pkg:maven/com.aliyun/alibabacloud-arms20190808@7.0.8?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-arms20190808@7.0.9
+- pkg:maven/com.aliyun/alibabacloud-arms20190808@7.0.9?classifier=sources

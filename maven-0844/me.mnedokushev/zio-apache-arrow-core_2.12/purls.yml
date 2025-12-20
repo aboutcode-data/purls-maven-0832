@@ -6,3 +6,5 @@
 - pkg:maven/me.mnedokushev/zio-apache-arrow-core_2.12@0.0.3?classifier=sources
 - pkg:maven/me.mnedokushev/zio-apache-arrow-core_2.12@0.1.0
 - pkg:maven/me.mnedokushev/zio-apache-arrow-core_2.12@0.1.0?classifier=sources
+- pkg:maven/me.mnedokushev/zio-apache-arrow-core_2.12@0.1.2
+- pkg:maven/me.mnedokushev/zio-apache-arrow-core_2.12@0.1.2?classifier=sources

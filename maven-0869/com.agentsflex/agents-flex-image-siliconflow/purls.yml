@@ -1,2 +1,10 @@
 - pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-beta.11
 - pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-beta.11?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-beta.12
+- pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-beta.12?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-beta.13
+- pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-beta.13?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-rc.0
+- pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-rc.0?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-rc.1
+- pkg:maven/com.agentsflex/agents-flex-image-siliconflow@1.0.0-rc.1?classifier=sources

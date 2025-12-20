@@ -130,3 +130,9 @@
 - pkg:maven/ai.platon.pulsar/pulsar-dom@1.9.9?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-dom@2.0.2
 - pkg:maven/ai.platon.pulsar/pulsar-dom@2.0.2?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-dom@2.0.3
+- pkg:maven/ai.platon.pulsar/pulsar-dom@2.0.3?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-dom@2.0.4
+- pkg:maven/ai.platon.pulsar/pulsar-dom@2.0.4?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-dom@2.0.5
+- pkg:maven/ai.platon.pulsar/pulsar-dom@2.0.5?classifier=sources

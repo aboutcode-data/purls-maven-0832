@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/billing@2.29.12
+- pkg:maven/software.amazon.awssdk/billing@2.29.12?classifier=sources

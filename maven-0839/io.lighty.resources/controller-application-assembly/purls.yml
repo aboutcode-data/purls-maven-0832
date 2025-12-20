@@ -130,6 +130,8 @@
 - pkg:maven/io.lighty.resources/controller-application-assembly@19.2.0?classifier=sources
 - pkg:maven/io.lighty.resources/controller-application-assembly@19.3.0
 - pkg:maven/io.lighty.resources/controller-application-assembly@19.3.0?classifier=sources
+- pkg:maven/io.lighty.resources/controller-application-assembly@19.4.0
+- pkg:maven/io.lighty.resources/controller-application-assembly@19.4.0?classifier=sources
 - pkg:maven/io.lighty.resources/controller-application-assembly@20.0.0
 - pkg:maven/io.lighty.resources/controller-application-assembly@20.0.0?classifier=sources
 - pkg:maven/io.lighty.resources/controller-application-assembly@20.1.0
@@ -138,6 +140,8 @@
 - pkg:maven/io.lighty.resources/controller-application-assembly@20.2.0?classifier=sources
 - pkg:maven/io.lighty.resources/controller-application-assembly@21.0.0
 - pkg:maven/io.lighty.resources/controller-application-assembly@21.0.0?classifier=sources
+- pkg:maven/io.lighty.resources/controller-application-assembly@21.1.0
+- pkg:maven/io.lighty.resources/controller-application-assembly@21.1.0?classifier=sources
 - pkg:maven/io.lighty.resources/controller-application-assembly@8.4.1
 - pkg:maven/io.lighty.resources/controller-application-assembly@8.4.1?classifier=sources
 - pkg:maven/io.lighty.resources/controller-application-assembly@8.4.2

@@ -12,3 +12,4 @@
 - pkg:maven/com.tidal.sdk/player@0.0.50?classifier=sources
 - pkg:maven/com.tidal.sdk/player@0.0.51?classifier=sources
 - pkg:maven/com.tidal.sdk/player@0.0.52?classifier=sources
+- pkg:maven/com.tidal.sdk/player@0.0.53?classifier=sources

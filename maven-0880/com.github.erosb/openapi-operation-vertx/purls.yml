@@ -1,0 +1,5 @@
+- pkg:maven/com.github.erosb/openapi-operation-vertx@2.0.0-RC1?classifier=sources
+- pkg:maven/com.github.erosb/openapi-operation-vertx@2.0.0-RC2?classifier=sources
+- pkg:maven/com.github.erosb/openapi-operation-vertx@2.0.0-RC3?classifier=sources
+- pkg:maven/com.github.erosb/openapi-operation-vertx@2.0.0-RC4?classifier=sources
+- pkg:maven/com.github.erosb/openapi-operation-vertx@2.0.0-RC5?classifier=sources
