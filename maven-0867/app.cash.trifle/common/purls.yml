@@ -1,1 +1,2 @@
+- pkg:maven/app.cash.trifle/common@0.2.10?classifier=sources
 - pkg:maven/app.cash.trifle/common@0.2.9?classifier=sources

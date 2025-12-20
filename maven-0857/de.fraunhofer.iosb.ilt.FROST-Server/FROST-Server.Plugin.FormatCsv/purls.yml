@@ -76,3 +76,5 @@
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Plugin.FormatCsv@2.2.3?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Plugin.FormatCsv@2.3.0
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Plugin.FormatCsv@2.3.0?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Plugin.FormatCsv@2.3.1
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Plugin.FormatCsv@2.3.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/io.s-healthstack/healthconnect@0.9b?classifier=sources
 - pkg:maven/io.s-healthstack/healthconnect@0.9c?classifier=sources
 - pkg:maven/io.s-healthstack/healthconnect@1.0?classifier=sources
+- pkg:maven/io.s-healthstack/healthconnect@1.1-snapshot?classifier=sources

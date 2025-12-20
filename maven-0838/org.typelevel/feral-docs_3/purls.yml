@@ -18,3 +18,5 @@
 - pkg:maven/org.typelevel/feral-docs_3@0.3.0-RC1?classifier=sources
 - pkg:maven/org.typelevel/feral-docs_3@0.3.0-RC2
 - pkg:maven/org.typelevel/feral-docs_3@0.3.0-RC2?classifier=sources
+- pkg:maven/org.typelevel/feral-docs_3@0.3.0-RC3
+- pkg:maven/org.typelevel/feral-docs_3@0.3.0-RC3?classifier=sources

@@ -46,3 +46,4 @@
 - pkg:maven/org.apache.tapestry/tapestry-ioc-jcache@5.8.2?classifier=sources
 - pkg:maven/org.apache.tapestry/tapestry-ioc-jcache@5.8.3?classifier=sources
 - pkg:maven/org.apache.tapestry/tapestry-ioc-jcache@5.8.4?classifier=sources
+- pkg:maven/org.apache.tapestry/tapestry-ioc-jcache@5.8.5?classifier=sources

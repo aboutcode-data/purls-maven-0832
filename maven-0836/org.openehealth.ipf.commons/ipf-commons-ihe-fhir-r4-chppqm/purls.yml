@@ -14,3 +14,5 @@
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-chppqm@4.8-m7?classifier=sources
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-chppqm@4.8-m8
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-chppqm@4.8-m8?classifier=sources
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-chppqm@4.8.0
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-chppqm@4.8.0?classifier=sources

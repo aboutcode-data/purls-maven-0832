@@ -11,3 +11,5 @@
 - pkg:maven/org.springdoc/springdoc-openapi-actuator-webmvc-tests@2.1.0
 - pkg:maven/org.springdoc/springdoc-openapi-actuator-webmvc-tests@2.2.0
 - pkg:maven/org.springdoc/springdoc-openapi-actuator-webmvc-tests@2.3.0
+- pkg:maven/org.springdoc/springdoc-openapi-actuator-webmvc-tests@2.4.0
+- pkg:maven/org.springdoc/springdoc-openapi-actuator-webmvc-tests@2.5.0

@@ -1,1 +1,2 @@
 - pkg:maven/com.buildkite.test-collector-android/test-data-uploader@0.1.0?classifier=sources
+- pkg:maven/com.buildkite.test-collector-android/test-data-uploader@0.2.0?classifier=sources

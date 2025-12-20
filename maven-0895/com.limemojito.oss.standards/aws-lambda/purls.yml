@@ -2,3 +2,13 @@
 - pkg:maven/com.limemojito.oss.standards/aws-lambda@13.0.0?classifier=sources
 - pkg:maven/com.limemojito.oss.standards/aws-lambda@13.0.4
 - pkg:maven/com.limemojito.oss.standards/aws-lambda@13.0.4?classifier=sources
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.0
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.0?classifier=sources
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.13
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.13?classifier=sources
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.15
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.15?classifier=sources
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.18
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.18?classifier=sources
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.19
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@14.0.19?classifier=sources

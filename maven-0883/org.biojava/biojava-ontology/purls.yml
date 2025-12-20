@@ -112,3 +112,5 @@
 - pkg:maven/org.biojava/biojava-ontology@7.0.2?classifier=sources
 - pkg:maven/org.biojava/biojava-ontology@7.1.0
 - pkg:maven/org.biojava/biojava-ontology@7.1.0?classifier=sources
+- pkg:maven/org.biojava/biojava-ontology@7.1.1
+- pkg:maven/org.biojava/biojava-ontology@7.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.sentrysoftware/metricshub-engine@0.9.01
+- pkg:maven/org.sentrysoftware/metricshub-engine@0.9.01?classifier=sources
+- pkg:maven/org.sentrysoftware/metricshub-engine@0.9.02
+- pkg:maven/org.sentrysoftware/metricshub-engine@0.9.02?classifier=sources

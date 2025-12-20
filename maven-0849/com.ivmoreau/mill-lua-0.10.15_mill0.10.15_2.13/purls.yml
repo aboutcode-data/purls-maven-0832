@@ -1,0 +1,2 @@
+- pkg:maven/com.ivmoreau/mill-lua-0.10.15_mill0.10.15_2.13@0.0.1
+- pkg:maven/com.ivmoreau/mill-lua-0.10.15_mill0.10.15_2.13@0.0.1?classifier=sources

@@ -41,3 +41,6 @@
 - pkg:maven/com.lacunasoftware.signer/signer-client@2.6.2-rc11?classifier=sources
 - pkg:maven/com.lacunasoftware.signer/signer-client@2.6.3?classifier=sources
 - pkg:maven/com.lacunasoftware.signer/signer-client@2.6.4?classifier=sources
+- pkg:maven/com.lacunasoftware.signer/signer-client@2.7.0.1?classifier=sources
+- pkg:maven/com.lacunasoftware.signer/signer-client@2.7.0?classifier=sources
+- pkg:maven/com.lacunasoftware.signer/signer-client@2.7.1?classifier=sources

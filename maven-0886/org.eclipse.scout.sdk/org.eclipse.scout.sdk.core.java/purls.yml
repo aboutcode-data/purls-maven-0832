@@ -30,3 +30,7 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.java@13.0.29?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.java@13.0.30
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.java@13.0.30?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.java@13.0.31
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.java@13.0.31?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.java@13.0.32
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.java@13.0.32?classifier=sources

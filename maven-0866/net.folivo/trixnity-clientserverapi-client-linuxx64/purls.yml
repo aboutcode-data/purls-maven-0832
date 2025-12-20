@@ -66,3 +66,7 @@
 - pkg:maven/net.folivo/trixnity-clientserverapi-client-linuxx64@4.2.3?classifier=sources
 - pkg:maven/net.folivo/trixnity-clientserverapi-client-linuxx64@4.2.4?classifier=sources
 - pkg:maven/net.folivo/trixnity-clientserverapi-client-linuxx64@4.2.5?classifier=sources
+- pkg:maven/net.folivo/trixnity-clientserverapi-client-linuxx64@4.2.6?classifier=sources
+- pkg:maven/net.folivo/trixnity-clientserverapi-client-linuxx64@4.2.7?classifier=sources
+- pkg:maven/net.folivo/trixnity-clientserverapi-client-linuxx64@4.3.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-clientserverapi-client-linuxx64@4.3.1?classifier=sources

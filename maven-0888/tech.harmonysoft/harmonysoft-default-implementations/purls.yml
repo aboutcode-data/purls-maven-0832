@@ -1,6 +1,7 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.100.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.102.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.103.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.105.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.13.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.14.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.15.0?classifier=sources
@@ -78,3 +79,4 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.97.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.98.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@1.99.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-default-implementations@2.0.0?classifier=sources

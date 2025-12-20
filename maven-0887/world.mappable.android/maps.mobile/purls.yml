@@ -12,3 +12,6 @@
 - pkg:maven/world.mappable.android/maps.mobile@1.0.5-lite?type=aar
 - pkg:maven/world.mappable.android/maps.mobile@1.1.0-full?type=aar
 - pkg:maven/world.mappable.android/maps.mobile@1.1.0-lite?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@1.2.1-full?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@1.2.1-lite?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@1.2.1-navikit?type=aar

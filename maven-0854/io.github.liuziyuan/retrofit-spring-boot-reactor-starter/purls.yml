@@ -1,0 +1,6 @@
+- pkg:maven/io.github.liuziyuan/retrofit-spring-boot-reactor-starter@1.0.0?classifier=sources
+- pkg:maven/io.github.liuziyuan/retrofit-spring-boot-reactor-starter@1.1.0?classifier=sources
+- pkg:maven/io.github.liuziyuan/retrofit-spring-boot-reactor-starter@1.1.1?classifier=sources
+- pkg:maven/io.github.liuziyuan/retrofit-spring-boot-reactor-starter@1.2.0-jdk17?classifier=sources
+- pkg:maven/io.github.liuziyuan/retrofit-spring-boot-reactor-starter@1.2.0?classifier=sources
+- pkg:maven/io.github.liuziyuan/retrofit-spring-boot-reactor-starter@1.2.1?classifier=sources

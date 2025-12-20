@@ -12,3 +12,5 @@
 - pkg:maven/org.falland.grpc.longlivedstreams/examples@3.1?classifier=sources
 - pkg:maven/org.falland.grpc.longlivedstreams/examples@3.2
 - pkg:maven/org.falland.grpc.longlivedstreams/examples@3.2?classifier=sources
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@4.0
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@4.0?classifier=sources

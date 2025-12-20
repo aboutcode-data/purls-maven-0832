@@ -10,3 +10,4 @@
 - pkg:maven/lv.ailab.morphology/webservices@2.2.7?classifier=sources
 - pkg:maven/lv.ailab.morphology/webservices@2.2.8
 - pkg:maven/lv.ailab.morphology/webservices@2.2.8?classifier=sources
+- pkg:maven/lv.ailab.morphology/webservices@2.5.2

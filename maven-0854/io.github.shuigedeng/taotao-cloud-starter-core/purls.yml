@@ -27,3 +27,4 @@
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-core@2023.3.01?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-core@2024.01?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-core@2024.02?classifier=sources
+- pkg:maven/io.github.shuigedeng/taotao-cloud-starter-core@2024.03?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.pinot/pinot-gcs@0.9.3?classifier=sources
 - pkg:maven/org.apache.pinot/pinot-gcs@1.0.0
 - pkg:maven/org.apache.pinot/pinot-gcs@1.0.0?classifier=sources
+- pkg:maven/org.apache.pinot/pinot-gcs@1.1.0
+- pkg:maven/org.apache.pinot/pinot-gcs@1.1.0?classifier=sources

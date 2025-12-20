@@ -19,3 +19,4 @@
 - pkg:maven/com.zegreatrob.tools/certifier-plugin@1.0.79?classifier=sources
 - pkg:maven/com.zegreatrob.tools/certifier-plugin@1.0.80?classifier=sources
 - pkg:maven/com.zegreatrob.tools/certifier-plugin@1.0.81?classifier=sources
+- pkg:maven/com.zegreatrob.tools/certifier-plugin@1.0.82?classifier=sources

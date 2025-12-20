@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.commons/commons-collections4@4.3?classifier=sources
 - pkg:maven/org.apache.commons/commons-collections4@4.4
 - pkg:maven/org.apache.commons/commons-collections4@4.4?classifier=sources
+- pkg:maven/org.apache.commons/commons-collections4@4.5.0-M1?classifier=sources

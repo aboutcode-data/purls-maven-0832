@@ -8,6 +8,8 @@
 - pkg:maven/org.aspectj/org.eclipse.jdt.core@1.9.21.1?classifier=sources
 - pkg:maven/org.aspectj/org.eclipse.jdt.core@1.9.21.RC1
 - pkg:maven/org.aspectj/org.eclipse.jdt.core@1.9.21.RC1?classifier=sources
+- pkg:maven/org.aspectj/org.eclipse.jdt.core@1.9.22
+- pkg:maven/org.aspectj/org.eclipse.jdt.core@1.9.22?classifier=sources
 - pkg:maven/org.aspectj/org.eclipse.jdt.core@1.9.7.M2
 - pkg:maven/org.aspectj/org.eclipse.jdt.core@1.9.7.M2?classifier=sources
 - pkg:maven/org.aspectj/org.eclipse.jdt.core@1.9.8.RC1

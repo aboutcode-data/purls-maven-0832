@@ -909,6 +909,8 @@
 - pkg:maven/com.lihaoyi/mill-contrib-playlib-worker-2.7_2.13@0.11.7
 - pkg:maven/com.lihaoyi/mill-contrib-playlib-worker-2.7_2.13@0.11.7-17-17dea9
 - pkg:maven/com.lihaoyi/mill-contrib-playlib-worker-2.7_2.13@0.11.7-17-17dea9?classifier=sources
+- pkg:maven/com.lihaoyi/mill-contrib-playlib-worker-2.7_2.13@0.11.7-29-f2e220
+- pkg:maven/com.lihaoyi/mill-contrib-playlib-worker-2.7_2.13@0.11.7-29-f2e220?classifier=sources
 - pkg:maven/com.lihaoyi/mill-contrib-playlib-worker-2.7_2.13@0.11.7?classifier=sources
 - pkg:maven/com.lihaoyi/mill-contrib-playlib-worker-2.7_2.13@0.9.10
 - pkg:maven/com.lihaoyi/mill-contrib-playlib-worker-2.7_2.13@0.9.10?classifier=sources

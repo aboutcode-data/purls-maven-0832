@@ -43,4 +43,7 @@
 - pkg:maven/com.buschmais.jqassistant.cli/test@2.0.7
 - pkg:maven/com.buschmais.jqassistant.cli/test@2.0.8
 - pkg:maven/com.buschmais.jqassistant.cli/test@2.0.9
+- pkg:maven/com.buschmais.jqassistant.cli/test@2.1.0
 - pkg:maven/com.buschmais.jqassistant.cli/test@2.1.0-M1
+- pkg:maven/com.buschmais.jqassistant.cli/test@2.1.0-RC1
+- pkg:maven/com.buschmais.jqassistant.cli/test@2.1.0-RC2

@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject.plus/sakai-plus-api@23.0
 - pkg:maven/org.sakaiproject.plus/sakai-plus-api@23.0?classifier=sources
+- pkg:maven/org.sakaiproject.plus/sakai-plus-api@23.1
+- pkg:maven/org.sakaiproject.plus/sakai-plus-api@23.1?classifier=sources

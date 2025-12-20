@@ -8,3 +8,5 @@
 - pkg:maven/ch.epfl.scala/example-scalafix-rule_2.12@2.0.0?classifier=sources
 - pkg:maven/ch.epfl.scala/example-scalafix-rule_2.12@3.0.0
 - pkg:maven/ch.epfl.scala/example-scalafix-rule_2.12@3.0.0?classifier=sources
+- pkg:maven/ch.epfl.scala/example-scalafix-rule_2.12@4.0.0
+- pkg:maven/ch.epfl.scala/example-scalafix-rule_2.12@4.0.0?classifier=sources

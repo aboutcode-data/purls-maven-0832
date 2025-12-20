@@ -2,3 +2,5 @@
 - pkg:maven/pro.fessional.wings/warlock-shadow@3.2.100?classifier=sources
 - pkg:maven/pro.fessional.wings/warlock-shadow@3.2.101
 - pkg:maven/pro.fessional.wings/warlock-shadow@3.2.101?classifier=sources
+- pkg:maven/pro.fessional.wings/warlock-shadow@3.2.110
+- pkg:maven/pro.fessional.wings/warlock-shadow@3.2.110?classifier=sources

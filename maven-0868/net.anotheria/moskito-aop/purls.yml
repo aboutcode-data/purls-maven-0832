@@ -152,3 +152,5 @@
 - pkg:maven/net.anotheria/moskito-aop@3.2.8?classifier=sources
 - pkg:maven/net.anotheria/moskito-aop@4.0.0
 - pkg:maven/net.anotheria/moskito-aop@4.0.0?classifier=sources
+- pkg:maven/net.anotheria/moskito-aop@4.0.1
+- pkg:maven/net.anotheria/moskito-aop@4.0.1?classifier=sources

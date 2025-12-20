@@ -32,6 +32,12 @@
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.11.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.11.3
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.11.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.11.4
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.11.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.11.5
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.11.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.11.6
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.11.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.5.0
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@14.5.1
@@ -298,6 +304,8 @@
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.2.1
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.2.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.2.2
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@22.2.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.0.0
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.0.1
@@ -472,6 +480,8 @@
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.9
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.3.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.4.0
+- pkg:maven/com.vaadin/vaadin-iron-list-testbench@23.4.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-testbench@3.1.0

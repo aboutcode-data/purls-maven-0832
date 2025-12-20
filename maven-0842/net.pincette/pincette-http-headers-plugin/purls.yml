@@ -1,0 +1,2 @@
+- pkg:maven/net.pincette/pincette-http-headers-plugin@1.0.0
+- pkg:maven/net.pincette/pincette-http-headers-plugin@1.0.0?classifier=sources

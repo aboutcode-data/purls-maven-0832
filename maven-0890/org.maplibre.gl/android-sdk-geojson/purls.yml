@@ -1,1 +1,4 @@
 - pkg:maven/org.maplibre.gl/android-sdk-geojson@5.9.0?classifier=sources
+- pkg:maven/org.maplibre.gl/android-sdk-geojson@5.9.1?classifier=sources
+- pkg:maven/org.maplibre.gl/android-sdk-geojson@6.0.0?classifier=sources
+- pkg:maven/org.maplibre.gl/android-sdk-geojson@unspecified?classifier=sources

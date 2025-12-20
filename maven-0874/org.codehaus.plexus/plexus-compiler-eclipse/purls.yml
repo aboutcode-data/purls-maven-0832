@@ -45,6 +45,8 @@
 - pkg:maven/org.codehaus.plexus/plexus-compiler-eclipse@2.14.1?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-eclipse@2.14.2
 - pkg:maven/org.codehaus.plexus/plexus-compiler-eclipse@2.14.2?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-compiler-eclipse@2.15.0
+- pkg:maven/org.codehaus.plexus/plexus-compiler-eclipse@2.15.0?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-eclipse@2.1?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-eclipse@2.2
 - pkg:maven/org.codehaus.plexus/plexus-compiler-eclipse@2.2?classifier=sources

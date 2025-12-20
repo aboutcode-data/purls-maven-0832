@@ -4,3 +4,5 @@
 - pkg:maven/it.cnr.si.alfresco/firma@2.25?classifier=sources
 - pkg:maven/it.cnr.si.alfresco/firma@3.0
 - pkg:maven/it.cnr.si.alfresco/firma@3.0?classifier=sources
+- pkg:maven/it.cnr.si.alfresco/firma@3.1
+- pkg:maven/it.cnr.si.alfresco/firma@3.1?classifier=sources

@@ -99,3 +99,4 @@
 - pkg:maven/tech.beshu.ror/audit_2.11@1.53.0?classifier=sources
 - pkg:maven/tech.beshu.ror/audit_2.11@1.54.0?classifier=sources
 - pkg:maven/tech.beshu.ror/audit_2.11@1.55.0?classifier=sources
+- pkg:maven/tech.beshu.ror/audit_2.11@1.56.0?classifier=sources

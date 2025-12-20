@@ -1,0 +1,2 @@
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-cloud-bindings@0.8.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-cloud-bindings@0.9.0?classifier=sources

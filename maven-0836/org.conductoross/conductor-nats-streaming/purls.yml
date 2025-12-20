@@ -1,2 +1,3 @@
 - pkg:maven/org.conductoross/conductor-nats-streaming@3.16.0?classifier=sources
 - pkg:maven/org.conductoross/conductor-nats-streaming@3.17.0?classifier=sources
+- pkg:maven/org.conductoross/conductor-nats-streaming@3.18.0?classifier=sources

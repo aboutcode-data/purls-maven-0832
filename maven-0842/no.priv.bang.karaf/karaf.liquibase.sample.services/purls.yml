@@ -8,3 +8,5 @@
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.24.0?classifier=sources
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.25.0
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.25.0?classifier=sources
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.27.0
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.27.0?classifier=sources

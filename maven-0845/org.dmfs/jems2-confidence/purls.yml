@@ -4,3 +4,4 @@
 - pkg:maven/org.dmfs/jems2-confidence@2.20.0?classifier=sources
 - pkg:maven/org.dmfs/jems2-confidence@2.21.0?classifier=sources
 - pkg:maven/org.dmfs/jems2-confidence@2.22.0?classifier=sources
+- pkg:maven/org.dmfs/jems2-confidence@2.23.1?classifier=sources

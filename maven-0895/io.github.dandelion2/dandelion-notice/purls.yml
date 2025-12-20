@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dandelion2/dandelion-notice@1.0.0?classifier=sources
+- pkg:maven/io.github.dandelion2/dandelion-notice@1.0.1?classifier=sources

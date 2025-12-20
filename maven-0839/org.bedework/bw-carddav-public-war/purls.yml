@@ -8,3 +8,4 @@
 - pkg:maven/org.bedework/bw-carddav-public-war@4.0.8?type=war
 - pkg:maven/org.bedework/bw-carddav-public-war@4.0.9?type=war
 - pkg:maven/org.bedework/bw-carddav-public-war@5.0.0?type=war
+- pkg:maven/org.bedework/bw-carddav-public-war@5.0.1?type=war

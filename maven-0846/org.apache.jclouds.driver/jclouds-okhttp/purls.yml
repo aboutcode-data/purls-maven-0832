@@ -43,3 +43,5 @@
 - pkg:maven/org.apache.jclouds.driver/jclouds-okhttp@2.4.0?classifier=sources
 - pkg:maven/org.apache.jclouds.driver/jclouds-okhttp@2.5.0
 - pkg:maven/org.apache.jclouds.driver/jclouds-okhttp@2.5.0?classifier=sources
+- pkg:maven/org.apache.jclouds.driver/jclouds-okhttp@2.6.0
+- pkg:maven/org.apache.jclouds.driver/jclouds-okhttp@2.6.0?classifier=sources

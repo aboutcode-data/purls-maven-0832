@@ -2,3 +2,5 @@
 - pkg:maven/io.github.kostaskougios/terminal21-code-generation_3@0.20?classifier=sources
 - pkg:maven/io.github.kostaskougios/terminal21-code-generation_3@0.21
 - pkg:maven/io.github.kostaskougios/terminal21-code-generation_3@0.21?classifier=sources
+- pkg:maven/io.github.kostaskougios/terminal21-code-generation_3@0.30
+- pkg:maven/io.github.kostaskougios/terminal21-code-generation_3@0.30?classifier=sources

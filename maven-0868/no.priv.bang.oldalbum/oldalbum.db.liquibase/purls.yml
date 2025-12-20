@@ -107,6 +107,12 @@
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.24?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.25
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.25?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.26
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.26?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.27
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.27?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.28
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.28?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.2?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.3
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@1.9.3?classifier=sources

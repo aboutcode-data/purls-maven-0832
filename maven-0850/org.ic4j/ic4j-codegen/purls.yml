@@ -6,3 +6,5 @@
 - pkg:maven/org.ic4j/ic4j-codegen@0.6.19-RC3?classifier=sources
 - pkg:maven/org.ic4j/ic4j-codegen@0.6.19-RC4
 - pkg:maven/org.ic4j/ic4j-codegen@0.6.19-RC4?classifier=sources
+- pkg:maven/org.ic4j/ic4j-codegen@0.6.19.7
+- pkg:maven/org.ic4j/ic4j-codegen@0.6.19.7?classifier=sources

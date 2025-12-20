@@ -166,6 +166,8 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-convenience@2.12.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-convenience@2.14.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-convenience@2.14.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-convenience@2.16.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-convenience@2.16.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-convenience@2.2.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-convenience@2.2.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-convenience@2.3.0

@@ -133,3 +133,5 @@
 - pkg:maven/com.liferay/com.liferay.document.library.test.util@4.0.9
 - pkg:maven/com.liferay/com.liferay.document.library.test.util@4.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.test.util@4.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.test.util@4.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.test.util@4.1.1?classifier=sources

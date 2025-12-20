@@ -42,3 +42,5 @@
 - pkg:maven/com.yixsoft/yixsoft-batis-dialects-core@1.0.8?classifier=sources
 - pkg:maven/com.yixsoft/yixsoft-batis-dialects-core@2.0.0
 - pkg:maven/com.yixsoft/yixsoft-batis-dialects-core@2.0.0?classifier=sources
+- pkg:maven/com.yixsoft/yixsoft-batis-dialects-core@2.0.1
+- pkg:maven/com.yixsoft/yixsoft-batis-dialects-core@2.0.1?classifier=sources

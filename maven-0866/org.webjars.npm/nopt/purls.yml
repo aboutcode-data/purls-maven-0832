@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.npm/nopt@5.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/nopt@6.0.0
 - pkg:maven/org.webjars.npm/nopt@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/nopt@7.2.0
+- pkg:maven/org.webjars.npm/nopt@7.2.0?classifier=sources

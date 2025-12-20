@@ -7,3 +7,4 @@
 - pkg:maven/com.liferay/org.outerj.daisy.diff@1.2.0-atlassian-hosted.LIFERAY-PATCHED-3
 - pkg:maven/com.liferay/org.outerj.daisy.diff@1.2.0-atlassian-hosted.LIFERAY-PATCHED-3?classifier=sources
 - pkg:maven/com.liferay/org.outerj.daisy.diff@1.2.0-atlassian-hosted.LIFERAY-PATCHED-3?classifier=sources-commercial
+- pkg:maven/com.liferay/org.outerj.daisy.diff@1.2.LIFERAY-PATCHED-1?classifier=sources

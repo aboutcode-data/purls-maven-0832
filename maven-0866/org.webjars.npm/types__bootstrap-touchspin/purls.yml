@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/types__bootstrap-touchspin@0.0.30?classifier=sources
 - pkg:maven/org.webjars.npm/types__bootstrap-touchspin@0.0.31
 - pkg:maven/org.webjars.npm/types__bootstrap-touchspin@0.0.31?classifier=sources
+- pkg:maven/org.webjars.npm/types__bootstrap-touchspin@0.0.33
+- pkg:maven/org.webjars.npm/types__bootstrap-touchspin@0.0.33?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ci-cmg.cruise-pack/cruise-pack-jaxb@0.1.0
+- pkg:maven/io.github.ci-cmg.cruise-pack/cruise-pack-jaxb@0.1.0?classifier=sources

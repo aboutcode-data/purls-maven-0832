@@ -1,0 +1,2 @@
+- pkg:maven/cn.adbyte.wxwork/qywx-spring-boot-autoconfigurator@4.4.1-springboot3
+- pkg:maven/cn.adbyte.wxwork/qywx-spring-boot-autoconfigurator@4.4.1-springboot3?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/com.netease.nimlib/ysfkit@0.0.2?type=aar
 - pkg:maven/com.netease.nimlib/ysfkit@10.2.0-beta?classifier=sources
 - pkg:maven/com.netease.nimlib/ysfkit@10.2.0-beta?type=aar
+- pkg:maven/com.netease.nimlib/ysfkit@10.2.1-beta?classifier=sources
+- pkg:maven/com.netease.nimlib/ysfkit@10.2.1-beta?type=aar
 - pkg:maven/com.netease.nimlib/ysfkit@7.6.0?classifier=sources
 - pkg:maven/com.netease.nimlib/ysfkit@7.6.0?type=aar
 - pkg:maven/com.netease.nimlib/ysfkit@7.6.1?classifier=sources
@@ -220,6 +222,8 @@
 - pkg:maven/com.netease.nimlib/ysfkit@8.9.124?type=aar
 - pkg:maven/com.netease.nimlib/ysfkit@8.9.125?classifier=sources
 - pkg:maven/com.netease.nimlib/ysfkit@8.9.125?type=aar
+- pkg:maven/com.netease.nimlib/ysfkit@8.9.12600?classifier=sources
+- pkg:maven/com.netease.nimlib/ysfkit@8.9.12600?type=aar
 - pkg:maven/com.netease.nimlib/ysfkit@8.9.126?classifier=sources
 - pkg:maven/com.netease.nimlib/ysfkit@8.9.126?type=aar
 - pkg:maven/com.netease.nimlib/ysfkit@9.0.0?classifier=sources

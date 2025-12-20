@@ -7,3 +7,4 @@
 - pkg:maven/com.interswitchng/smart-pos-emv-pax@2.1.7?classifier=sources
 - pkg:maven/com.interswitchng/smart-pos-emv-pax@2.1.8?classifier=sources
 - pkg:maven/com.interswitchng/smart-pos-emv-pax@2.1.9?classifier=sources
+- pkg:maven/com.interswitchng/smart-pos-emv-pax@2.2.1?classifier=sources

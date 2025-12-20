@@ -17,6 +17,8 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@12.1.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@12.2.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@12.2.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@12.2.2?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@12.3.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@6.2.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@6.2.0?type=aar
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@6.2.1?classifier=sources

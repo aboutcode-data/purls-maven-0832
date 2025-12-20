@@ -1,0 +1,2 @@
+- pkg:maven/com.jeliuc/turso-sdk-jvm@0.1.11
+- pkg:maven/com.jeliuc/turso-sdk-jvm@0.1.11?classifier=sources

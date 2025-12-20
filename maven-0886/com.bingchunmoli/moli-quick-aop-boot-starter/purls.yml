@@ -2,6 +2,8 @@
 - pkg:maven/com.bingchunmoli/moli-quick-aop-boot-starter@1.0.10-bate?classifier=sources
 - pkg:maven/com.bingchunmoli/moli-quick-aop-boot-starter@1.0.11-bate
 - pkg:maven/com.bingchunmoli/moli-quick-aop-boot-starter@1.0.11-bate?classifier=sources
+- pkg:maven/com.bingchunmoli/moli-quick-aop-boot-starter@1.0.12-bate
+- pkg:maven/com.bingchunmoli/moli-quick-aop-boot-starter@1.0.12-bate?classifier=sources
 - pkg:maven/com.bingchunmoli/moli-quick-aop-boot-starter@1.0.8-bate
 - pkg:maven/com.bingchunmoli/moli-quick-aop-boot-starter@1.0.8-bate?classifier=sources
 - pkg:maven/com.bingchunmoli/moli-quick-aop-boot-starter@1.0.9-bate

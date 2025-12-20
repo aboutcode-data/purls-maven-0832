@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.edc/data-plane-client-embedded@0.6.0?classifier=sources

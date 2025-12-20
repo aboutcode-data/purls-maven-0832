@@ -36,3 +36,5 @@
 - pkg:maven/io.quarkiverse.vault/quarkus-vault@3.4.1?classifier=sources
 - pkg:maven/io.quarkiverse.vault/quarkus-vault@3.5.0
 - pkg:maven/io.quarkiverse.vault/quarkus-vault@3.5.0?classifier=sources
+- pkg:maven/io.quarkiverse.vault/quarkus-vault@4.0.0-alpha.2
+- pkg:maven/io.quarkiverse.vault/quarkus-vault@4.0.0-alpha.2?classifier=sources

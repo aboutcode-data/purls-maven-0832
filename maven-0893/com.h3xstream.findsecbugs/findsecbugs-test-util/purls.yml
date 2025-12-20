@@ -2,3 +2,4 @@
 - pkg:maven/com.h3xstream.findsecbugs/findsecbugs-test-util@1.10.1
 - pkg:maven/com.h3xstream.findsecbugs/findsecbugs-test-util@1.11.0
 - pkg:maven/com.h3xstream.findsecbugs/findsecbugs-test-util@1.12.0
+- pkg:maven/com.h3xstream.findsecbugs/findsecbugs-test-util@1.13.0

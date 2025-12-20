@@ -896,3 +896,13 @@
 - pkg:maven/io.mangoo/mangooio-maven-archetype@8.3.0-RC1
 - pkg:maven/io.mangoo/mangooio-maven-archetype@8.3.0-RC1?classifier=sources
 - pkg:maven/io.mangoo/mangooio-maven-archetype@8.3.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta1
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta1?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta2
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta2?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta3
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta3?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta4
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta4?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta5
+- pkg:maven/io.mangoo/mangooio-maven-archetype@8.4.0-Beta5?classifier=sources

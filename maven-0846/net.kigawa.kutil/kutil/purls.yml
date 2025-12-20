@@ -7,3 +7,5 @@
 - pkg:maven/net.kigawa.kutil/kutil@2.2.2?classifier=sources
 - pkg:maven/net.kigawa.kutil/kutil@2.2?classifier=sources
 - pkg:maven/net.kigawa.kutil/kutil@3.0.0?classifier=sources
+- pkg:maven/net.kigawa.kutil/kutil@4.0.0?classifier=sources
+- pkg:maven/net.kigawa.kutil/kutil@4.0.2?classifier=sources

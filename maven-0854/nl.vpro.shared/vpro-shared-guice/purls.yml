@@ -188,3 +188,7 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-guice@4.2.1?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-guice@4.2.2
 - pkg:maven/nl.vpro.shared/vpro-shared-guice@4.2.2?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-guice@4.3.0
+- pkg:maven/nl.vpro.shared/vpro-shared-guice@4.3.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-guice@5.0.0
+- pkg:maven/nl.vpro.shared/vpro-shared-guice@5.0.0?classifier=sources

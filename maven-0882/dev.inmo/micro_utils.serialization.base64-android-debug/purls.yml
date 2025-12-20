@@ -116,6 +116,9 @@
 - pkg:maven/dev.inmo/micro_utils.serialization.base64-android-debug@0.20.34?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64-android-debug@0.20.35?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64-android-debug@0.20.36?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.base64-android-debug@0.20.37?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.base64-android-debug@0.20.38?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.base64-android-debug@0.20.39?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64-android-debug@0.20.3?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64-android-debug@0.20.4?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64-android-debug@0.20.6?classifier=sources

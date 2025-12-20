@@ -14,3 +14,5 @@
 - pkg:maven/io.inverno.mod/inverno-security-jose@1.6.2?classifier=sources
 - pkg:maven/io.inverno.mod/inverno-security-jose@1.7.0
 - pkg:maven/io.inverno.mod/inverno-security-jose@1.7.0?classifier=sources
+- pkg:maven/io.inverno.mod/inverno-security-jose@1.7.1
+- pkg:maven/io.inverno.mod/inverno-security-jose@1.7.1?classifier=sources

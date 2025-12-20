@@ -26,3 +26,5 @@
 - pkg:maven/org.hipparchus/hipparchus-ode@2.3?classifier=sources
 - pkg:maven/org.hipparchus/hipparchus-ode@3.0
 - pkg:maven/org.hipparchus/hipparchus-ode@3.0?classifier=sources
+- pkg:maven/org.hipparchus/hipparchus-ode@3.1
+- pkg:maven/org.hipparchus/hipparchus-ode@3.1?classifier=sources

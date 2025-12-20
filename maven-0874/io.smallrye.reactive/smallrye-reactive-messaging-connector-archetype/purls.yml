@@ -7,3 +7,6 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-connector-archetype@4.16.1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-connector-archetype@4.16.2?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-connector-archetype@4.17.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-connector-archetype@4.18.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-connector-archetype@4.19.0-M1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-connector-archetype@4.19.0-M2?classifier=sources

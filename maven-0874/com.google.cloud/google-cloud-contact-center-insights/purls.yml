@@ -96,6 +96,10 @@
 - pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.34.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.35.0
 - pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.35.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.36.0
+- pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.36.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.37.0
+- pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.37.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-contact-center-insights@2.5.0

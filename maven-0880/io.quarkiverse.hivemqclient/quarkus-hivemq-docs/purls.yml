@@ -1,1 +1,2 @@
 - pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-docs@2.1.0
+- pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-docs@2.2.0

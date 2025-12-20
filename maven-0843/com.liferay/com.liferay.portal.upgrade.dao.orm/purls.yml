@@ -1,3 +1,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.upgrade.dao.orm@1.0.7
 - pkg:maven/com.liferay/com.liferay.portal.upgrade.dao.orm@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.upgrade.dao.orm@1.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.upgrade.dao.orm@1.0.8?classifier=sources

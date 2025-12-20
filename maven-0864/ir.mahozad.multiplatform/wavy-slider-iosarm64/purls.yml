@@ -7,3 +7,5 @@
 - pkg:maven/ir.mahozad.multiplatform/wavy-slider-iosarm64@0.9.0?classifier=sources
 - pkg:maven/ir.mahozad.multiplatform/wavy-slider-iosarm64@1.0.0-rc?classifier=sources
 - pkg:maven/ir.mahozad.multiplatform/wavy-slider-iosarm64@1.0.0?classifier=sources
+- pkg:maven/ir.mahozad.multiplatform/wavy-slider-iosarm64@1.1.0?classifier=sources
+- pkg:maven/ir.mahozad.multiplatform/wavy-slider-iosarm64@1.2.0?classifier=sources

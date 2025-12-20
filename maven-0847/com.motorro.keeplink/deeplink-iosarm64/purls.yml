@@ -1,3 +1,4 @@
 - pkg:maven/com.motorro.keeplink/deeplink-iosarm64@2.0.0?classifier=sources
 - pkg:maven/com.motorro.keeplink/deeplink-iosarm64@2.0.3?classifier=sources
 - pkg:maven/com.motorro.keeplink/deeplink-iosarm64@2.0.4?classifier=sources
+- pkg:maven/com.motorro.keeplink/deeplink-iosarm64@2.1.0?classifier=sources

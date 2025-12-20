@@ -172,3 +172,5 @@
 - pkg:maven/pro.taskana/taskana-core@7.0.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-core@8.0.0
 - pkg:maven/pro.taskana/taskana-core@8.0.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-core@8.0.1
+- pkg:maven/pro.taskana/taskana-core@8.0.1?classifier=sources

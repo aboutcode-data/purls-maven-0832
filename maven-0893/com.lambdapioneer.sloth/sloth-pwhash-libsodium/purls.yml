@@ -1,3 +1,4 @@
 - pkg:maven/com.lambdapioneer.sloth/sloth-pwhash-libsodium@0.1.1?classifier=sources
 - pkg:maven/com.lambdapioneer.sloth/sloth-pwhash-libsodium@0.2.0?classifier=sources
 - pkg:maven/com.lambdapioneer.sloth/sloth-pwhash-libsodium@0.3.0?classifier=sources
+- pkg:maven/com.lambdapioneer.sloth/sloth-pwhash-libsodium@0.4.0-rc1?classifier=sources

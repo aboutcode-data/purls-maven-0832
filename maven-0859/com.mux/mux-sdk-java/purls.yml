@@ -1,5 +1,6 @@
 - pkg:maven/com.mux/mux-sdk-java@0.1.0-beta.1?classifier=sources
 - pkg:maven/com.mux/mux-sdk-java@0.1.0?classifier=sources
+- pkg:maven/com.mux/mux-sdk-java@0.10.0?classifier=sources
 - pkg:maven/com.mux/mux-sdk-java@0.2.0?classifier=sources
 - pkg:maven/com.mux/mux-sdk-java@0.2.1?classifier=sources
 - pkg:maven/com.mux/mux-sdk-java@0.2.2?classifier=sources

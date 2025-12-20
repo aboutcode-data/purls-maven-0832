@@ -8,3 +8,5 @@
 - pkg:maven/org.ekrich/sjavatime_sjs1_3@1.1.8?classifier=sources
 - pkg:maven/org.ekrich/sjavatime_sjs1_3@1.1.9
 - pkg:maven/org.ekrich/sjavatime_sjs1_3@1.1.9?classifier=sources
+- pkg:maven/org.ekrich/sjavatime_sjs1_3@1.2.0
+- pkg:maven/org.ekrich/sjavatime_sjs1_3@1.2.0?classifier=sources

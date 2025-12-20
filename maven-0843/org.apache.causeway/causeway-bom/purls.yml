@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.causeway/causeway-bom@2.0.0-RC2?classifier=source-release&type=zip
 - pkg:maven/org.apache.causeway/causeway-bom@2.0.0-RC3?classifier=source-release&type=zip
 - pkg:maven/org.apache.causeway/causeway-bom@2.0.0-RC4?classifier=source-release&type=zip
+- pkg:maven/org.apache.causeway/causeway-bom@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.causeway/causeway-bom@3.0.0?classifier=source-release&type=zip
