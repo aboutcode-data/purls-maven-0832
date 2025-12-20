@@ -15,6 +15,7 @@
 - pkg:maven/ai.ancf.lmos/arc-langchain4j-client@0.117.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-langchain4j-client@0.118.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-langchain4j-client@0.119.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-langchain4j-client@0.120.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-langchain4j-client@0.98.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-langchain4j-client@0.99.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-langchain4j-client@0.99.1?classifier=sources

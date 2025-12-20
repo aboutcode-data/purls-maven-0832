@@ -28,3 +28,6 @@
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-iossimulatorarm64@1.34.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-iossimulatorarm64@1.35.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-iossimulatorarm64@1.36.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-iossimulatorarm64@1.37.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-iossimulatorarm64@1.38.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-iossimulatorarm64@1.39.0?classifier=sources

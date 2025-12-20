@@ -1,0 +1,2 @@
+- pkg:maven/be.vlaanderen.informatievlaanderen.ldes.ldio/ldio-change-detection-filter@2.12.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.ldes.ldio/ldio-change-detection-filter@2.12.0?classifier=sources

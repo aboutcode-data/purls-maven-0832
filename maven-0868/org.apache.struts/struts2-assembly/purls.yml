@@ -86,3 +86,4 @@
 - pkg:maven/org.apache.struts/struts2-assembly@6.6.0?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@6.6.1?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@6.7.0?classifier=src&type=zip
+- pkg:maven/org.apache.struts/struts2-assembly@7.0.0?classifier=src&type=zip

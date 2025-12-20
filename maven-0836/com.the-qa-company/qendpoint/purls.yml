@@ -108,3 +108,7 @@
 - pkg:maven/com.the-qa-company/qendpoint@2.2.0?classifier=sources
 - pkg:maven/com.the-qa-company/qendpoint@2.3.0
 - pkg:maven/com.the-qa-company/qendpoint@2.3.0?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint@2.4.0
+- pkg:maven/com.the-qa-company/qendpoint@2.4.0?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint@2.4.1
+- pkg:maven/com.the-qa-company/qendpoint@2.4.1?classifier=sources

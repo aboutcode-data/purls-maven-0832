@@ -17,3 +17,5 @@
 - pkg:maven/com.xzwebx/HttpFilter@2.2.4-RELEASE?classifier=sources
 - pkg:maven/com.xzwebx/HttpFilter@2.2.5-RELEASE
 - pkg:maven/com.xzwebx/HttpFilter@2.2.5-RELEASE?classifier=sources
+- pkg:maven/com.xzwebx/HttpFilter@2.2.6-RELEASE
+- pkg:maven/com.xzwebx/HttpFilter@2.2.6-RELEASE?classifier=sources

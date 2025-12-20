@@ -48,4 +48,7 @@
 - pkg:maven/com.google.dagger/dagger-android-support-legacy@2.51.1?type=aar
 - pkg:maven/com.google.dagger/dagger-android-support-legacy@2.51?type=aar
 - pkg:maven/com.google.dagger/dagger-android-support-legacy@2.52?type=aar
+- pkg:maven/com.google.dagger/dagger-android-support-legacy@2.53.1?type=aar
 - pkg:maven/com.google.dagger/dagger-android-support-legacy@2.53?type=aar
+- pkg:maven/com.google.dagger/dagger-android-support-legacy@2.54?type=aar
+- pkg:maven/com.google.dagger/dagger-android-support-legacy@2.55?type=aar

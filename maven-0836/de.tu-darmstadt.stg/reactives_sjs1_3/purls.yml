@@ -4,3 +4,5 @@
 - pkg:maven/de.tu-darmstadt.stg/reactives_sjs1_3@0.36.0%2B245-7adfb1a4
 - pkg:maven/de.tu-darmstadt.stg/reactives_sjs1_3@0.36.0%2B245-7adfb1a4?classifier=sources
 - pkg:maven/de.tu-darmstadt.stg/reactives_sjs1_3@0.36.0?classifier=sources
+- pkg:maven/de.tu-darmstadt.stg/reactives_sjs1_3@0.37.0
+- pkg:maven/de.tu-darmstadt.stg/reactives_sjs1_3@0.37.0?classifier=sources

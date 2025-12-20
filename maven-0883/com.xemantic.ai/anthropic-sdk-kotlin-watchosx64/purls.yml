@@ -1,0 +1,2 @@
+- pkg:maven/com.xemantic.ai/anthropic-sdk-kotlin-watchosx64@0.12?classifier=sources
+- pkg:maven/com.xemantic.ai/anthropic-sdk-kotlin-watchosx64@0.13?classifier=sources

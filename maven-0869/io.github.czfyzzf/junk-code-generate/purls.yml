@@ -1,0 +1,2 @@
+- pkg:maven/io.github.czfyzzf/junk-code-generate@1.0.0?classifier=sources
+- pkg:maven/io.github.czfyzzf/junk-code-generate@1.0.1?classifier=sources

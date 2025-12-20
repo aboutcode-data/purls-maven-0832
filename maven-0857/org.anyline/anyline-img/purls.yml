@@ -632,3 +632,13 @@
 - pkg:maven/org.anyline/anyline-img@8.7.2-20241120?classifier=sources
 - pkg:maven/org.anyline/anyline-img@8.7.2-20241125
 - pkg:maven/org.anyline/anyline-img@8.7.2-20241125?classifier=sources
+- pkg:maven/org.anyline/anyline-img@8.7.2-20241231
+- pkg:maven/org.anyline/anyline-img@8.7.2-20241231?classifier=sources
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250101
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250101?classifier=sources
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250102
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250102?classifier=sources
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250107
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250107?classifier=sources
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250108
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250108?classifier=sources

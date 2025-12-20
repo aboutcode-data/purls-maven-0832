@@ -20,6 +20,8 @@
 - pkg:maven/com.heroku/webapp-runner-redis@10.1.31.0?classifier=sources
 - pkg:maven/com.heroku/webapp-runner-redis@10.1.33.0
 - pkg:maven/com.heroku/webapp-runner-redis@10.1.33.0?classifier=sources
+- pkg:maven/com.heroku/webapp-runner-redis@10.1.34.0
+- pkg:maven/com.heroku/webapp-runner-redis@10.1.34.0?classifier=sources
 - pkg:maven/com.heroku/webapp-runner-redis@8.5.50.0
 - pkg:maven/com.heroku/webapp-runner-redis@8.5.50.0?classifier=sources
 - pkg:maven/com.heroku/webapp-runner-redis@8.5.51.0
@@ -98,3 +100,5 @@
 - pkg:maven/com.heroku/webapp-runner-redis@9.0.96.0?classifier=sources
 - pkg:maven/com.heroku/webapp-runner-redis@9.0.97.0
 - pkg:maven/com.heroku/webapp-runner-redis@9.0.97.0?classifier=sources
+- pkg:maven/com.heroku/webapp-runner-redis@9.0.98.0
+- pkg:maven/com.heroku/webapp-runner-redis@9.0.98.0?classifier=sources

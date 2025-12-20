@@ -68,6 +68,7 @@
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.158?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.159?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.160?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.161?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.55?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.56?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink-system-tests@0.57?classifier=sources

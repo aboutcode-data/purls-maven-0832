@@ -1,0 +1,2 @@
+- pkg:maven/dk.fust.docgen/documentation-generator-excel@1.0.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-excel@1.1.0?classifier=sources

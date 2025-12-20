@@ -29,3 +29,4 @@
 - pkg:maven/com.leakyabstractions/result-assertj@0.9.4.0?classifier=sources
 - pkg:maven/com.leakyabstractions/result-assertj@0.9.5.0?classifier=sources
 - pkg:maven/com.leakyabstractions/result-assertj@1.0.0.0?classifier=sources
+- pkg:maven/com.leakyabstractions/result-assertj@1.0.1.0?classifier=sources

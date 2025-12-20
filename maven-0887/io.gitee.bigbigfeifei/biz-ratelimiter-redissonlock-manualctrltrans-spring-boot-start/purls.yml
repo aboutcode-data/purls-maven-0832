@@ -1,1 +1,2 @@
 - pkg:maven/io.gitee.bigbigfeifei/biz-ratelimiter-redissonlock-manualctrltrans-spring-boot-start@1.0?classifier=sources
+- pkg:maven/io.gitee.bigbigfeifei/biz-ratelimiter-redissonlock-manualctrltrans-spring-boot-start@2.0?classifier=sources

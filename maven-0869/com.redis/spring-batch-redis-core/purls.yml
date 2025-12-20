@@ -34,3 +34,4 @@
 - pkg:maven/com.redis/spring-batch-redis-core@4.5.1?classifier=sources
 - pkg:maven/com.redis/spring-batch-redis-core@4.5.2?classifier=sources
 - pkg:maven/com.redis/spring-batch-redis-core@4.5.3?classifier=sources
+- pkg:maven/com.redis/spring-batch-redis-core@4.5.4?classifier=sources

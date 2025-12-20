@@ -1,0 +1,2 @@
+- pkg:maven/io.github.oliviercailloux/jsand-containerized@0.0.1
+- pkg:maven/io.github.oliviercailloux/jsand-containerized@0.0.1?classifier=sources

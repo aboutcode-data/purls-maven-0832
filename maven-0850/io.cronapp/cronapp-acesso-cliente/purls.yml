@@ -282,6 +282,8 @@
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.1.0?classifier=sources
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.1
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.10
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.10?classifier=sources
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.1?classifier=sources
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.2
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.2?classifier=sources
@@ -295,4 +297,8 @@
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.6?classifier=sources
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.7
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.7?classifier=sources
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.8
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.8?classifier=sources
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.9
+- pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0-SP.9?classifier=sources
 - pkg:maven/io.cronapp/cronapp-acesso-cliente@3.2.0?classifier=sources

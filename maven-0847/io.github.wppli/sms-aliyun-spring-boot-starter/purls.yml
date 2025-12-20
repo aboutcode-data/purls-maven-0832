@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wppli/sms-aliyun-spring-boot-starter@1.1?classifier=sources
+- pkg:maven/io.github.wppli/sms-aliyun-spring-boot-starter@1.2?classifier=sources

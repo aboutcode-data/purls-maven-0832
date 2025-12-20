@@ -1,0 +1,2 @@
+- pkg:maven/org.keycloak.testframework/keycloak-test-framework-ui@26.1.0
+- pkg:maven/org.keycloak.testframework/keycloak-test-framework-ui@26.1.0?classifier=sources

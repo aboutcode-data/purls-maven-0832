@@ -8,3 +8,4 @@
 - pkg:maven/com.sobot.call/sobotcall_x@3.0.1?type=aar
 - pkg:maven/com.sobot.call/sobotcall_x@3.0.2?classifier=sources
 - pkg:maven/com.sobot.call/sobotcall_x@3.0.3?classifier=sources
+- pkg:maven/com.sobot.call/sobotcall_x@3.2.0?classifier=sources

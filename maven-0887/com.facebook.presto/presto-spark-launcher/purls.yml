@@ -200,3 +200,5 @@
 - pkg:maven/com.facebook.presto/presto-spark-launcher@0.288?classifier=sources
 - pkg:maven/com.facebook.presto/presto-spark-launcher@0.289
 - pkg:maven/com.facebook.presto/presto-spark-launcher@0.289?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.290
+- pkg:maven/com.facebook.presto/presto-spark-launcher@0.290?classifier=sources

@@ -57,6 +57,8 @@
 - pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-21?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-22?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-23?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-24?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-25?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-2?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-4?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-5?classifier=sources
@@ -64,3 +66,5 @@
 - pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-7?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-8?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@3.2-ALPHA-9?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@4.0-ALPHA-1?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/project-archetype@4.0-ALPHA-2?classifier=sources

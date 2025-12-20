@@ -21,3 +21,5 @@
 - pkg:maven/dev.ikm.tinkar/language-extensions@1.76.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/language-extensions@1.77.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/language-extensions@1.78.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/language-extensions@1.79.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/language-extensions@1.80.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023072701.Alpha?classifier=sources
 - pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023080801.Alpha
 - pkg:maven/com.gccloud/gcpaas-api@1.0.0.2023080801.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gcpaas-api@2.3.5.RELEASE
+- pkg:maven/com.gccloud/gcpaas-api@2.3.5.RELEASE?classifier=sources

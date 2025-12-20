@@ -4,3 +4,7 @@
 - pkg:maven/org.jitsi/jebml@2.4.4-3-g1299842?classifier=sources
 - pkg:maven/org.jitsi/jebml@2.4.4-4-g09e9281
 - pkg:maven/org.jitsi/jebml@2.4.4-4-g09e9281?classifier=sources
+- pkg:maven/org.jitsi/jebml@2.4.4-5-g5cec011
+- pkg:maven/org.jitsi/jebml@2.4.4-5-g5cec011?classifier=sources
+- pkg:maven/org.jitsi/jebml@2.4.4-6-gb310849
+- pkg:maven/org.jitsi/jebml@2.4.4-6-gb310849?classifier=sources

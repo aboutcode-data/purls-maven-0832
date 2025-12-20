@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mbenincasa/java-open-weather-map-client@0.6.0
+- pkg:maven/io.github.mbenincasa/java-open-weather-map-client@0.6.0?classifier=sources

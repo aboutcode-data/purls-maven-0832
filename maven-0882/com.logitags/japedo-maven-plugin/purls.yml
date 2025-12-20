@@ -13,3 +13,5 @@
 - pkg:maven/com.logitags/japedo-maven-plugin@1.3?classifier=sources
 - pkg:maven/com.logitags/japedo-maven-plugin@1.4
 - pkg:maven/com.logitags/japedo-maven-plugin@1.4?classifier=sources
+- pkg:maven/com.logitags/japedo-maven-plugin@1.5
+- pkg:maven/com.logitags/japedo-maven-plugin@1.5?classifier=sources

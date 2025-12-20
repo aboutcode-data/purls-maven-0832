@@ -79,3 +79,5 @@
 - pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint@4.2.9?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint@4.3.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint@4.3.1?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint@4.3.3?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.sonarlint/sonarlint@4.3.4?classifier=sources

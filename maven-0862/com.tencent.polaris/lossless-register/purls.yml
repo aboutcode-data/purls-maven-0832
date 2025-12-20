@@ -18,6 +18,7 @@
 - pkg:maven/com.tencent.polaris/lossless-register@1.15.8?classifier=sources
 - pkg:maven/com.tencent.polaris/lossless-register@1.15.9
 - pkg:maven/com.tencent.polaris/lossless-register@1.15.9?classifier=sources
+- pkg:maven/com.tencent.polaris/lossless-register@2.0.0.0
 - pkg:maven/com.tencent.polaris/lossless-register@2.0.0.0-RC1
 - pkg:maven/com.tencent.polaris/lossless-register@2.0.0.0-RC1?classifier=sources
 - pkg:maven/com.tencent.polaris/lossless-register@2.0.0.0-RC2
@@ -26,3 +27,4 @@
 - pkg:maven/com.tencent.polaris/lossless-register@2.0.0.0-RC3?classifier=sources
 - pkg:maven/com.tencent.polaris/lossless-register@2.0.0.0-RC5
 - pkg:maven/com.tencent.polaris/lossless-register@2.0.0.0-RC5?classifier=sources
+- pkg:maven/com.tencent.polaris/lossless-register@2.0.0.0?classifier=sources

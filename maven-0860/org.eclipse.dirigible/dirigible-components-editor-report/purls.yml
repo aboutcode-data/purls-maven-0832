@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-components-editor-report@10.6.39
+- pkg:maven/org.eclipse.dirigible/dirigible-components-editor-report@10.6.39?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-editor-report@10.6.41
+- pkg:maven/org.eclipse.dirigible/dirigible-components-editor-report@10.6.41?classifier=sources

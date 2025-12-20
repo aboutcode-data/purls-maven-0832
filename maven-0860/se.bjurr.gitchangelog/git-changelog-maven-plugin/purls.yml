@@ -182,3 +182,4 @@
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@2.0.1
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@2.1.0
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@2.2.0
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin@2.2.2

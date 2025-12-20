@@ -4370,6 +4370,8 @@
 - pkg:maven/org.wso2.identity.apps/authentication-portal@2.1.76?type=war
 - pkg:maven/org.wso2.identity.apps/authentication-portal@2.1.77?classifier=sources
 - pkg:maven/org.wso2.identity.apps/authentication-portal@2.1.77?type=war
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.10.0?classifier=sources
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.10.0?type=war
 - pkg:maven/org.wso2.identity.apps/authentication-portal@2.2.0?classifier=sources
 - pkg:maven/org.wso2.identity.apps/authentication-portal@2.2.0?type=war
 - pkg:maven/org.wso2.identity.apps/authentication-portal@2.2.1?classifier=sources
@@ -4410,3 +4412,15 @@
 - pkg:maven/org.wso2.identity.apps/authentication-portal@2.4.42?type=war
 - pkg:maven/org.wso2.identity.apps/authentication-portal@2.4.43?classifier=sources
 - pkg:maven/org.wso2.identity.apps/authentication-portal@2.4.43?type=war
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.8.12?classifier=sources
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.8.12?type=war
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.8.13?classifier=sources
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.8.13?type=war
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.8.14?classifier=sources
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.8.14?type=war
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.9.0?classifier=sources
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.9.0?type=war
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.9.1?classifier=sources
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.9.1?type=war
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.9.2?classifier=sources
+- pkg:maven/org.wso2.identity.apps/authentication-portal@2.9.2?type=war

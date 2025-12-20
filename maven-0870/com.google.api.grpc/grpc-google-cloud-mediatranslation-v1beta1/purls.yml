@@ -140,6 +140,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.6.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.60.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.60.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.61.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.61.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.62.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.62.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.7.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-mediatranslation-v1beta1@0.7.1

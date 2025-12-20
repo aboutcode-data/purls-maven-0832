@@ -1,2 +1,6 @@
 - pkg:maven/uk.org.devthings/scala-case-class-prettification-diff_3@1.0.0
 - pkg:maven/uk.org.devthings/scala-case-class-prettification-diff_3@1.0.0?classifier=sources
+- pkg:maven/uk.org.devthings/scala-case-class-prettification-diff_3@2.0.0
+- pkg:maven/uk.org.devthings/scala-case-class-prettification-diff_3@2.0.0?classifier=sources
+- pkg:maven/uk.org.devthings/scala-case-class-prettification-diff_3@2.0.1
+- pkg:maven/uk.org.devthings/scala-case-class-prettification-diff_3@2.0.1?classifier=sources

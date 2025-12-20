@@ -100,6 +100,8 @@
 - pkg:maven/me.proton.core/mail-settings-domain@29.3.2?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-domain@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-domain@30.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings-domain@30.1.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings-domain@30.2.0?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-domain@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-domain@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-domain@5.0.0?classifier=sources

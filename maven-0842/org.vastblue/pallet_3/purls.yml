@@ -6,6 +6,10 @@
 - pkg:maven/org.vastblue/pallet_3@0.10.11?classifier=sources
 - pkg:maven/org.vastblue/pallet_3@0.10.15
 - pkg:maven/org.vastblue/pallet_3@0.10.15?classifier=sources
+- pkg:maven/org.vastblue/pallet_3@0.10.18
+- pkg:maven/org.vastblue/pallet_3@0.10.18?classifier=sources
+- pkg:maven/org.vastblue/pallet_3@0.10.19
+- pkg:maven/org.vastblue/pallet_3@0.10.19?classifier=sources
 - pkg:maven/org.vastblue/pallet_3@0.10.4
 - pkg:maven/org.vastblue/pallet_3@0.10.4?classifier=sources
 - pkg:maven/org.vastblue/pallet_3@0.10.8

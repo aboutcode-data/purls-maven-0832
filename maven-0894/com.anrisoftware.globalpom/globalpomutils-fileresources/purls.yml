@@ -34,3 +34,5 @@
 - pkg:maven/com.anrisoftware.globalpom/globalpomutils-fileresources@4.6.3?classifier=sources
 - pkg:maven/com.anrisoftware.globalpom/globalpomutils-fileresources@4.7.0
 - pkg:maven/com.anrisoftware.globalpom/globalpomutils-fileresources@4.7.0?classifier=sources
+- pkg:maven/com.anrisoftware.globalpom/globalpomutils-fileresources@4.8.0
+- pkg:maven/com.anrisoftware.globalpom/globalpomutils-fileresources@4.8.0?classifier=sources

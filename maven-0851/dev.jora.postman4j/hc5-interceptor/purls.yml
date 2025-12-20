@@ -1,0 +1,2 @@
+- pkg:maven/dev.jora.postman4j/hc5-interceptor@0.0.2?classifier=sources
+- pkg:maven/dev.jora.postman4j/hc5-interceptor@0.0.3?classifier=sources

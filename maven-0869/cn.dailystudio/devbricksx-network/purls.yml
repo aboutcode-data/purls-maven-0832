@@ -17,3 +17,4 @@
 - pkg:maven/cn.dailystudio/devbricksx-network@1.9.3?classifier=sources
 - pkg:maven/cn.dailystudio/devbricksx-network@1.9.4?classifier=sources
 - pkg:maven/cn.dailystudio/devbricksx-network@1.9.5?classifier=sources
+- pkg:maven/cn.dailystudio/devbricksx-network@2.0.0?classifier=sources

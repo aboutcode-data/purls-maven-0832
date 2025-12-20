@@ -5,3 +5,4 @@
 - pkg:maven/io.jactl/jactl@1.4.0?classifier=sources
 - pkg:maven/io.jactl/jactl@2.0.0?classifier=sources
 - pkg:maven/io.jactl/jactl@2.1.0?classifier=sources
+- pkg:maven/io.jactl/jactl@2.2.0?classifier=sources

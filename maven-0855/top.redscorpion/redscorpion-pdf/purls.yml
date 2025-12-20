@@ -12,3 +12,4 @@
 - pkg:maven/top.redscorpion/redscorpion-pdf@0.2.8?classifier=sources
 - pkg:maven/top.redscorpion/redscorpion-pdf@0.2.9?classifier=sources
 - pkg:maven/top.redscorpion/redscorpion-pdf@0.3.0?classifier=sources
+- pkg:maven/top.redscorpion/redscorpion-pdf@0.3.1?classifier=sources

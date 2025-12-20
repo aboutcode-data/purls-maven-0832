@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.dataspacetck.build/tck-build-plugin@0.1.0?classifier=sources

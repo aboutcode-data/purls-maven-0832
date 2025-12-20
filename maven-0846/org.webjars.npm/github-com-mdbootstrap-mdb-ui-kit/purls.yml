@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/github-com-mdbootstrap-mdb-ui-kit@3.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-mdbootstrap-mdb-ui-kit@3.9.0
 - pkg:maven/org.webjars.npm/github-com-mdbootstrap-mdb-ui-kit@3.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-mdbootstrap-mdb-ui-kit@8.1.0

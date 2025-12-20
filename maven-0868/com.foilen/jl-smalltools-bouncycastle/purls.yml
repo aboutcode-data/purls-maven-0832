@@ -21,6 +21,7 @@
 - pkg:maven/com.foilen/jl-smalltools-bouncycastle@3.15.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-bouncycastle@3.16.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-bouncycastle@3.17.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-bouncycastle@3.18.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-bouncycastle@3.2.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-bouncycastle@3.3.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-bouncycastle@3.3.1?classifier=sources

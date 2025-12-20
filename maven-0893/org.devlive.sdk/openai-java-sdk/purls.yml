@@ -26,3 +26,5 @@
 - pkg:maven/org.devlive.sdk/openai-java-sdk@2024.01.2?classifier=sources
 - pkg:maven/org.devlive.sdk/openai-java-sdk@2024.01.3
 - pkg:maven/org.devlive.sdk/openai-java-sdk@2024.01.3?classifier=sources
+- pkg:maven/org.devlive.sdk/openai-java-sdk@2024.01.4
+- pkg:maven/org.devlive.sdk/openai-java-sdk@2024.01.4?classifier=sources

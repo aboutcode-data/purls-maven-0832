@@ -100,5 +100,7 @@
 - pkg:maven/ai.chronon/spark_embedded_2.12@0.0.84?classifier=sources
 - pkg:maven/ai.chronon/spark_embedded_2.12@0.0.85
 - pkg:maven/ai.chronon/spark_embedded_2.12@0.0.85?classifier=sources
+- pkg:maven/ai.chronon/spark_embedded_2.12@0.0.86
+- pkg:maven/ai.chronon/spark_embedded_2.12@0.0.86?classifier=sources
 - pkg:maven/ai.chronon/spark_embedded_2.12@chaining-0.0.46-dev
 - pkg:maven/ai.chronon/spark_embedded_2.12@chaining-0.0.46-dev?classifier=sources

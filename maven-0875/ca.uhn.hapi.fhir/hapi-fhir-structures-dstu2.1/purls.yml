@@ -210,3 +210,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu2.1@7.4.5?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu2.1@7.6.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu2.1@7.6.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu2.1@7.6.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu2.1@7.6.1?classifier=sources

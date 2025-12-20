@@ -32,3 +32,5 @@
 - pkg:maven/com.signalfx.public/signalfx-endpoint@1.0.46?classifier=sources
 - pkg:maven/com.signalfx.public/signalfx-endpoint@1.0.47
 - pkg:maven/com.signalfx.public/signalfx-endpoint@1.0.47?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-endpoint@1.0.48
+- pkg:maven/com.signalfx.public/signalfx-endpoint@1.0.48?classifier=sources

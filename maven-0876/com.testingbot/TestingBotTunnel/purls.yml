@@ -48,3 +48,5 @@
 - pkg:maven/com.testingbot/TestingBotTunnel@3.4?classifier=sources
 - pkg:maven/com.testingbot/TestingBotTunnel@3.5
 - pkg:maven/com.testingbot/TestingBotTunnel@3.5?classifier=sources
+- pkg:maven/com.testingbot/TestingBotTunnel@4.0
+- pkg:maven/com.testingbot/TestingBotTunnel@4.0?classifier=sources

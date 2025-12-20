@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pekko/pekko-persistence-r2dbc-migration_3@1.1.0-M1
+- pkg:maven/org.apache.pekko/pekko-persistence-r2dbc-migration_3@1.1.0-M1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.edurt.datacap/datacap-test-executor@2024.4.0
+- pkg:maven/io.edurt.datacap/datacap-test-executor@2024.4.1

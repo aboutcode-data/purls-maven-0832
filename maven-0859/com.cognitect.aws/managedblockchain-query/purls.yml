@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/managedblockchain-query@857.2.1574.0?classifier=sources
 - pkg:maven/com.cognitect.aws/managedblockchain-query@868.2.1584.0
 - pkg:maven/com.cognitect.aws/managedblockchain-query@868.2.1584.0?classifier=sources
+- pkg:maven/com.cognitect.aws/managedblockchain-query@871.2.29.35
+- pkg:maven/com.cognitect.aws/managedblockchain-query@871.2.29.35?classifier=sources

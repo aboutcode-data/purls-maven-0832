@@ -34,3 +34,5 @@
 - pkg:maven/org.odpi.egeria/simple-catalogs@4.3?classifier=sources
 - pkg:maven/org.odpi.egeria/simple-catalogs@5.0?classifier=sources
 - pkg:maven/org.odpi.egeria/simple-catalogs@5.1?classifier=sources
+- pkg:maven/org.odpi.egeria/simple-catalogs@5.2.1?classifier=sources
+- pkg:maven/org.odpi.egeria/simple-catalogs@5.2?classifier=sources

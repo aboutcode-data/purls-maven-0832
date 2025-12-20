@@ -108,3 +108,6 @@
 - pkg:maven/org.jboss.arquillian.test/arquillian-test-api@1.9.0.Final
 - pkg:maven/org.jboss.arquillian.test/arquillian-test-api@1.9.0.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.test/arquillian-test-api@1.9.1.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.test/arquillian-test-api@1.9.2.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.test/arquillian-test-api@1.9.3.Final
+- pkg:maven/org.jboss.arquillian.test/arquillian-test-api@1.9.3.Final?classifier=sources

@@ -131,6 +131,8 @@
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@21.0.0?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@21.1.0?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@21.2.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@21.2.1?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-plugin-plugin@21.2.2?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@3.0.2
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@3.0.2?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-plugin-plugin@3.0.3

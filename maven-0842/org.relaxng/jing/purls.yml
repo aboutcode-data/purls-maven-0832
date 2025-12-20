@@ -4,3 +4,9 @@
 - pkg:maven/org.relaxng/jing@20181222?classifier=sources
 - pkg:maven/org.relaxng/jing@20220510
 - pkg:maven/org.relaxng/jing@20220510?classifier=sources
+- pkg:maven/org.relaxng/jing@20241229
+- pkg:maven/org.relaxng/jing@20241229?classifier=sources
+- pkg:maven/org.relaxng/jing@20241230
+- pkg:maven/org.relaxng/jing@20241230?classifier=sources
+- pkg:maven/org.relaxng/jing@20241231
+- pkg:maven/org.relaxng/jing@20241231?classifier=sources

@@ -132,6 +132,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.53.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.54.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.54.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.55.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.55.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.56.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.56.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-orchestration-airflow-v1@1.7.0

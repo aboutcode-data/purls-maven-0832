@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/connector-jdbc-e2e-ddl@2.3.9
+- pkg:maven/org.apache.seatunnel/connector-jdbc-e2e-ddl@2.3.9?classifier=sources

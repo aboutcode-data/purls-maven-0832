@@ -1,1 +1,2 @@
 - pkg:maven/io.github.stream29/streamlin-jvm@2.4?classifier=sources
+- pkg:maven/io.github.stream29/streamlin-jvm@2.5.0?classifier=sources

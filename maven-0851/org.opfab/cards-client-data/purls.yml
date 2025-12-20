@@ -65,3 +65,4 @@
 - pkg:maven/org.opfab/cards-client-data@4.4.2.RELEASE?classifier=sources
 - pkg:maven/org.opfab/cards-client-data@4.4.3.RELEASE?classifier=sources
 - pkg:maven/org.opfab/cards-client-data@4.5.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/cards-client-data@4.6.0-RC.RELEASE?classifier=sources

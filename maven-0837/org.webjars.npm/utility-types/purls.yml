@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/utility-types@1.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/utility-types@3.10.0
 - pkg:maven/org.webjars.npm/utility-types@3.10.0?classifier=sources
+- pkg:maven/org.webjars.npm/utility-types@3.11.0

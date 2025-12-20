@@ -8,3 +8,6 @@
 - pkg:maven/io.github.darkokoa/datetime-wheel-picker-js@1.0.2-compose1.7.0-beta01?classifier=sources
 - pkg:maven/io.github.darkokoa/datetime-wheel-picker-js@1.0.2-compose1.7?classifier=sources
 - pkg:maven/io.github.darkokoa/datetime-wheel-picker-js@1.0.2?classifier=sources
+- pkg:maven/io.github.darkokoa/datetime-wheel-picker-js@1.0.3-compose1.7?classifier=sources
+- pkg:maven/io.github.darkokoa/datetime-wheel-picker-js@1.1.0-alpha01-compose1.6?classifier=sources
+- pkg:maven/io.github.darkokoa/datetime-wheel-picker-js@1.1.0-alpha01-compose1.7?classifier=sources

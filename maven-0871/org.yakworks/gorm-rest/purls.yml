@@ -45,3 +45,6 @@
 - pkg:maven/org.yakworks/gorm-rest@7.3.74?classifier=sources
 - pkg:maven/org.yakworks/gorm-rest@7.3.76?classifier=sources
 - pkg:maven/org.yakworks/gorm-rest@7.3.77?classifier=sources
+- pkg:maven/org.yakworks/gorm-rest@7.3.78.1?classifier=sources
+- pkg:maven/org.yakworks/gorm-rest@7.3.78?classifier=sources
+- pkg:maven/org.yakworks/gorm-rest@7.3.79?classifier=sources

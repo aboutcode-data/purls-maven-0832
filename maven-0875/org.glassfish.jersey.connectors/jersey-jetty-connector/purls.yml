@@ -122,6 +122,8 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@2.44?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@2.45
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@2.45?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@2.46
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@2.46?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@2.5
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@2.5.1
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@2.5.1?classifier=sources
@@ -159,6 +161,8 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.0.15?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.0.16
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.0.16?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.0.17
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.0.17?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.0.2
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.0.2?classifier=sources
@@ -189,6 +193,8 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.1.0-M8?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.1.0?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.1.1
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.1.10
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.1.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.1.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.1.2
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.1.2?classifier=sources
@@ -208,3 +214,5 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@3.1.9?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@4.0.0-M1
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@4.0.0-M1?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@4.0.0-M2
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-connector@4.0.0-M2?classifier=sources

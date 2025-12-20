@@ -1,1 +1,2 @@
 - pkg:maven/app.softwork/kotlinx-serialization-csv-androidnativex86@0.0.18?classifier=sources
+- pkg:maven/app.softwork/kotlinx-serialization-csv-androidnativex86@0.0.19?classifier=sources

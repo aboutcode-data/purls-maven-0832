@@ -29,6 +29,7 @@
 - pkg:maven/org.citygml4j/citygml4j@2.12.3?classifier=sources
 - pkg:maven/org.citygml4j/citygml4j@2.12.4?classifier=sources
 - pkg:maven/org.citygml4j/citygml4j@2.13.0?classifier=sources
+- pkg:maven/org.citygml4j/citygml4j@2.13.1?classifier=sources
 - pkg:maven/org.citygml4j/citygml4j@2.1?classifier=sources
 - pkg:maven/org.citygml4j/citygml4j@2.2
 - pkg:maven/org.citygml4j/citygml4j@2.2.1

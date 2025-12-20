@@ -1,0 +1,2 @@
+- pkg:maven/com.boltfortesla/tesla-fleet-sdk-kotlin@3.1.1?classifier=sources
+- pkg:maven/com.boltfortesla/tesla-fleet-sdk-kotlin@3.1.2?classifier=sources

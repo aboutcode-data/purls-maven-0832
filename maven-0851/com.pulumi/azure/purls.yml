@@ -302,6 +302,8 @@
 - pkg:maven/com.pulumi/azure@6.12.0-alpha.1732774124?classifier=sources
 - pkg:maven/com.pulumi/azure@6.12.0-alpha.1733131988?classifier=sources
 - pkg:maven/com.pulumi/azure@6.12.0?classifier=sources
+- pkg:maven/com.pulumi/azure@6.13.0?classifier=sources
+- pkg:maven/com.pulumi/azure@6.14.0?classifier=sources
 - pkg:maven/com.pulumi/azure@6.2.0?classifier=sources
 - pkg:maven/com.pulumi/azure@6.3.0-alpha.1727698059?classifier=sources
 - pkg:maven/com.pulumi/azure@6.3.0?classifier=sources

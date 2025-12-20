@@ -32,3 +32,4 @@
 - pkg:maven/org.mozilla/rhino@1.7R4?classifier=sources
 - pkg:maven/org.mozilla/rhino@1.7R5
 - pkg:maven/org.mozilla/rhino@1.7R5?classifier=sources
+- pkg:maven/org.mozilla/rhino@1.8.0?classifier=sources

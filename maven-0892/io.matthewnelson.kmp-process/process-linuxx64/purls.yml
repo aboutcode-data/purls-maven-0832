@@ -5,3 +5,5 @@
 - pkg:maven/io.matthewnelson.kmp-process/process-linuxx64@0.1.0-beta02?classifier=sources
 - pkg:maven/io.matthewnelson.kmp-process/process-linuxx64@0.1.0-rc01?classifier=sources
 - pkg:maven/io.matthewnelson.kmp-process/process-linuxx64@0.1.0?classifier=sources
+- pkg:maven/io.matthewnelson.kmp-process/process-linuxx64@0.1.1?classifier=sources
+- pkg:maven/io.matthewnelson.kmp-process/process-linuxx64@0.1.2?classifier=sources

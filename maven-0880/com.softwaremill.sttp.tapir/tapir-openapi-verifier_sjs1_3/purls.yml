@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-verifier_sjs1_3@1.11.11
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-verifier_sjs1_3@1.11.11?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-verifier_sjs1_3@1.11.12
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-verifier_sjs1_3@1.11.12?classifier=sources

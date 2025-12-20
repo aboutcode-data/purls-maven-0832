@@ -158,3 +158,5 @@
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.test.integration.service.stubs@7.0.0-beta6?classifier=sources
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.test.integration.service.stubs@7.1.0-m1
 - pkg:maven/org.wso2.is/org.wso2.carbon.identity.test.integration.service.stubs@7.1.0-m1?classifier=sources
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.test.integration.service.stubs@7.1.0-m7
+- pkg:maven/org.wso2.is/org.wso2.carbon.identity.test.integration.service.stubs@7.1.0-m7?classifier=sources

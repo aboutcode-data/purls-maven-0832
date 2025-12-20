@@ -414,6 +414,10 @@
 - pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.73.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.74.0
 - pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.74.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.75.0
+- pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.75.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.76.0
+- pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.76.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.8.0
 - pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.8.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewayiot@2.9.0

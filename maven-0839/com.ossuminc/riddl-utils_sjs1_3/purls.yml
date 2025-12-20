@@ -8,3 +8,7 @@
 - pkg:maven/com.ossuminc/riddl-utils_sjs1_3@0.55.0?classifier=sources
 - pkg:maven/com.ossuminc/riddl-utils_sjs1_3@0.56.0
 - pkg:maven/com.ossuminc/riddl-utils_sjs1_3@0.56.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-utils_sjs1_3@1.0.0-RC1
+- pkg:maven/com.ossuminc/riddl-utils_sjs1_3@1.0.0-RC1?classifier=sources
+- pkg:maven/com.ossuminc/riddl-utils_sjs1_3@1.0.0-RC2
+- pkg:maven/com.ossuminc/riddl-utils_sjs1_3@1.0.0-RC2?classifier=sources

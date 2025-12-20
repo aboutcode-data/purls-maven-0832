@@ -2,3 +2,5 @@
 - pkg:maven/com.gccloud/gc-starter-plugins-camel-gateway@1.0.0-beta
 - pkg:maven/com.gccloud/gc-starter-plugins-camel-gateway@1.0.0-beta?classifier=sources
 - pkg:maven/com.gccloud/gc-starter-plugins-camel-gateway@1.0.0?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-plugins-camel-gateway@2.3.5.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-camel-gateway@2.3.5.RELEASE?classifier=sources

@@ -53,6 +53,8 @@
 - pkg:maven/org.opencastproject/opencast-plugin-manager@15.11?classifier=sources
 - pkg:maven/org.opencastproject/opencast-plugin-manager@15.12
 - pkg:maven/org.opencastproject/opencast-plugin-manager@15.12?classifier=sources
+- pkg:maven/org.opencastproject/opencast-plugin-manager@15.13
+- pkg:maven/org.opencastproject/opencast-plugin-manager@15.13?classifier=sources
 - pkg:maven/org.opencastproject/opencast-plugin-manager@15.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-plugin-manager@15.2
 - pkg:maven/org.opencastproject/opencast-plugin-manager@15.2?classifier=sources

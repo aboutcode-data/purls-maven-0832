@@ -1,0 +1,5 @@
+- pkg:maven/io.camunda.optimize/optimize-schema-integrity-tests@8.7.0-alpha3-rc1
+- pkg:maven/io.camunda.optimize/optimize-schema-integrity-tests@8.7.0-alpha3-rc2
+- pkg:maven/io.camunda.optimize/optimize-schema-integrity-tests@8.7.0-alpha3-rc3
+- pkg:maven/io.camunda.optimize/optimize-schema-integrity-tests@8.7.0-alpha3-rc4
+- pkg:maven/io.camunda.optimize/optimize-schema-integrity-tests@8.7.0-alpha3-rc5

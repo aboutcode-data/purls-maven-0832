@@ -21,5 +21,6 @@
 - pkg:maven/com.xiaoetong.android.sdk/webcore@2.2.46?type=aar
 - pkg:maven/com.xiaoetong.android.sdk/webcore@2.2.4?type=aar
 - pkg:maven/com.xiaoetong.android.sdk/webcore@2.2.50?type=aar
+- pkg:maven/com.xiaoetong.android.sdk/webcore@2.2.58?type=aar
 - pkg:maven/com.xiaoetong.android.sdk/webcore@2.2.6?type=aar
 - pkg:maven/com.xiaoetong.android.sdk/webcore@2.2.8?type=aar

@@ -122,3 +122,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-extension-reactor@4.0.5?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-extension-reactor@4.0.6
 - pkg:maven/org.apache.cxf/cxf-rt-rs-extension-reactor@4.0.6?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-reactor@4.1.0
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-reactor@4.1.0?classifier=sources

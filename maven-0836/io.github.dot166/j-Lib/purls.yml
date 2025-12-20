@@ -19,3 +19,4 @@
 - pkg:maven/io.github.dot166/j-Lib@3.3.2?classifier=sources
 - pkg:maven/io.github.dot166/j-Lib@3.3.3?classifier=sources
 - pkg:maven/io.github.dot166/j-Lib@3.3.4?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@4.0.0?classifier=sources

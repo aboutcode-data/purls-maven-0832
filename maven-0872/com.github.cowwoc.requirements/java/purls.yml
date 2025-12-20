@@ -4,6 +4,16 @@
 - pkg:maven/com.github.cowwoc.requirements/java@10.1?classifier=sources
 - pkg:maven/com.github.cowwoc.requirements/java@10.2
 - pkg:maven/com.github.cowwoc.requirements/java@10.2?classifier=sources
+- pkg:maven/com.github.cowwoc.requirements/java@10.3
+- pkg:maven/com.github.cowwoc.requirements/java@10.3?classifier=sources
+- pkg:maven/com.github.cowwoc.requirements/java@10.4
+- pkg:maven/com.github.cowwoc.requirements/java@10.4?classifier=sources
+- pkg:maven/com.github.cowwoc.requirements/java@10.5
+- pkg:maven/com.github.cowwoc.requirements/java@10.5?classifier=sources
+- pkg:maven/com.github.cowwoc.requirements/java@10.6
+- pkg:maven/com.github.cowwoc.requirements/java@10.6?classifier=sources
+- pkg:maven/com.github.cowwoc.requirements/java@10.7
+- pkg:maven/com.github.cowwoc.requirements/java@10.7?classifier=sources
 - pkg:maven/com.github.cowwoc.requirements/java@6.0.0
 - pkg:maven/com.github.cowwoc.requirements/java@6.0.0?classifier=sources
 - pkg:maven/com.github.cowwoc.requirements/java@6.0.1

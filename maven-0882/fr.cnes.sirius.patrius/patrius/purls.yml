@@ -1,1 +1,3 @@
+- pkg:maven/fr.cnes.sirius.patrius/patrius@4.15
+- pkg:maven/fr.cnes.sirius.patrius/patrius@4.15?classifier=sources
 - pkg:maven/fr.cnes.sirius.patrius/patrius@4.8.1?classifier=sources

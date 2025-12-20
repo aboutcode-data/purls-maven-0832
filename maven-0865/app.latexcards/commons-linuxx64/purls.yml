@@ -3,3 +3,4 @@
 - pkg:maven/app.latexcards/commons-linuxx64@2.1.4?classifier=sources
 - pkg:maven/app.latexcards/commons-linuxx64@2.4.0?classifier=sources
 - pkg:maven/app.latexcards/commons-linuxx64@2.5.2?classifier=sources
+- pkg:maven/app.latexcards/commons-linuxx64@2.5.3?classifier=sources

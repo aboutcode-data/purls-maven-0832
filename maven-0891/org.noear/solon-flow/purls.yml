@@ -1,0 +1,4 @@
+- pkg:maven/org.noear/solon-flow@3.0.6
+- pkg:maven/org.noear/solon-flow@3.0.6-RC2
+- pkg:maven/org.noear/solon-flow@3.0.6-RC2?classifier=sources
+- pkg:maven/org.noear/solon-flow@3.0.6?classifier=sources

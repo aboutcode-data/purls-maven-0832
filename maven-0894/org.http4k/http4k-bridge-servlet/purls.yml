@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-bridge-servlet@5.45.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-bridge-servlet@5.45.1.0?classifier=sources

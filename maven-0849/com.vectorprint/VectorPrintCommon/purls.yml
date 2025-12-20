@@ -34,3 +34,5 @@
 - pkg:maven/com.vectorprint/VectorPrintCommon@7.1?classifier=sources
 - pkg:maven/com.vectorprint/VectorPrintCommon@7.2
 - pkg:maven/com.vectorprint/VectorPrintCommon@7.2?classifier=sources
+- pkg:maven/com.vectorprint/VectorPrintCommon@8.0
+- pkg:maven/com.vectorprint/VectorPrintCommon@8.0?classifier=sources

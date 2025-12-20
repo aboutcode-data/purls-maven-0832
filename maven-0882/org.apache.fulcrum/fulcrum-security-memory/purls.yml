@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.fulcrum/fulcrum-security-memory@2.1.0?classifier=sources
 - pkg:maven/org.apache.fulcrum/fulcrum-security-memory@3.0.0
 - pkg:maven/org.apache.fulcrum/fulcrum-security-memory@3.0.0?classifier=sources
+- pkg:maven/org.apache.fulcrum/fulcrum-security-memory@4.0.0
+- pkg:maven/org.apache.fulcrum/fulcrum-security-memory@4.0.0?classifier=sources

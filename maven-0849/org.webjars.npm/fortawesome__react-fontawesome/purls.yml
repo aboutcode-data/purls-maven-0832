@@ -12,3 +12,4 @@
 - pkg:maven/org.webjars.npm/fortawesome__react-fontawesome@0.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/fortawesome__react-fontawesome@0.1.8
 - pkg:maven/org.webjars.npm/fortawesome__react-fontawesome@0.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/fortawesome__react-fontawesome@0.2.2

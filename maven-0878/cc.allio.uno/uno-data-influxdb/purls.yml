@@ -1,0 +1,2 @@
+- pkg:maven/cc.allio.uno/uno-data-influxdb@1.1.9?classifier=sources
+- pkg:maven/cc.allio.uno/uno-data-influxdb@1.2.0?classifier=sources

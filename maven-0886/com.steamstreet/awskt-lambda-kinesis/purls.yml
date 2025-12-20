@@ -4,4 +4,6 @@
 - pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.22?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.24?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.25?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.26?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.27?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.1.1?classifier=sources

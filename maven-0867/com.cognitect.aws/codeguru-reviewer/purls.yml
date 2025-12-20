@@ -28,3 +28,5 @@
 - pkg:maven/com.cognitect.aws/codeguru-reviewer@825.2.1233.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codeguru-reviewer@847.2.1365.0
 - pkg:maven/com.cognitect.aws/codeguru-reviewer@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codeguru-reviewer@871.2.29.35
+- pkg:maven/com.cognitect.aws/codeguru-reviewer@871.2.29.35?classifier=sources

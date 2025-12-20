@@ -1,1 +1,2 @@
 - pkg:maven/com.codanbaru.kotlin/bsonmap@0.8.0?classifier=sources
+- pkg:maven/com.codanbaru.kotlin/bsonmap@0.9.0?classifier=sources

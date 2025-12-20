@@ -9,6 +9,7 @@
 - pkg:maven/org.webjars.npm/psl@1.1.33
 - pkg:maven/org.webjars.npm/psl@1.1.33?classifier=sources
 - pkg:maven/org.webjars.npm/psl@1.10.0
+- pkg:maven/org.webjars.npm/psl@1.15.0
 - pkg:maven/org.webjars.npm/psl@1.2.0
 - pkg:maven/org.webjars.npm/psl@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/psl@1.3.0

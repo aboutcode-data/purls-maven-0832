@@ -1,0 +1,2 @@
+- pkg:maven/me.matsumo/fankt-iossimulatorarm64@0.0.1?classifier=sources
+- pkg:maven/me.matsumo/fankt-iossimulatorarm64@0.0.2?classifier=sources
