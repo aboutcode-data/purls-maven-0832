@@ -1,0 +1,2 @@
+- pkg:maven/cn.jdevelops/jdevelops-sms-wechat@2.0.7
+- pkg:maven/cn.jdevelops/jdevelops-sms-wechat@2.0.7?classifier=sources

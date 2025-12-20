@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-knative-endpoint-consumer@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-knative-endpoint-consumer@3.5.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-knative-endpoint-consumer@3.6.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-knative-endpoint-consumer@3.7.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-knative-endpoint-consumer@3.8.0

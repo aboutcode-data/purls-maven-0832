@@ -1,5 +1,15 @@
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.100.0
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.100.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.101.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.101.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.102.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.102.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.103.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.103.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.104.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.104.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.105.0
+- pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.105.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.13.0
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.13.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-jira-maven-plugin@0.14.0

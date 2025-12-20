@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.graphiql/toolkit@0.8.4?classifier=sources
+- pkg:maven/org.mvnpm.at.graphiql/toolkit@0.9.1?classifier=sources

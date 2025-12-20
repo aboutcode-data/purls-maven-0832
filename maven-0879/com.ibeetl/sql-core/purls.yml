@@ -238,6 +238,8 @@
 - pkg:maven/com.ibeetl/sql-core@3.3.8-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-core@3.3.9-RELEASE
 - pkg:maven/com.ibeetl/sql-core@3.3.9-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-core@3.30.0-RELEASE
+- pkg:maven/com.ibeetl/sql-core@3.30.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-core@3.4.0-RELEASE
 - pkg:maven/com.ibeetl/sql-core@3.4.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-core@3.4.1-RELEASE

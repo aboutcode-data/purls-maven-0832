@@ -8,6 +8,7 @@
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.15-kotlin-2.0.0-Beta2?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.15?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.16?classifier=sources
+- pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.17-kotlin-2.0.0-Beta3?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.17?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.1?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.2?classifier=sources
@@ -20,3 +21,5 @@
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.7?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.8?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@0.1.9?classifier=sources
+- pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@1.0.0-BETA-1-kotlin-2.0.0-Beta4?classifier=sources
+- pkg:maven/com.rickclephas.kmp/nsexception-kt-sentry@1.0.0-BETA-1?classifier=sources

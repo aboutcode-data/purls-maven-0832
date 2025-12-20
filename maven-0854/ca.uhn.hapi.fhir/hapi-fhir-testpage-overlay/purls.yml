@@ -125,6 +125,10 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.10.1?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.10.2?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.10.2?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.10.3?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.10.3?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.10.4?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.10.4?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.2.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.2.0?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-testpage-overlay@6.2.1?classifier=sources

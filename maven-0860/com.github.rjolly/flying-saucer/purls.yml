@@ -14,3 +14,5 @@
 - pkg:maven/com.github.rjolly/flying-saucer@9.1.23?classifier=sources
 - pkg:maven/com.github.rjolly/flying-saucer@9.1.24
 - pkg:maven/com.github.rjolly/flying-saucer@9.1.24?classifier=sources
+- pkg:maven/com.github.rjolly/flying-saucer@9.1.25
+- pkg:maven/com.github.rjolly/flying-saucer@9.1.25?classifier=sources

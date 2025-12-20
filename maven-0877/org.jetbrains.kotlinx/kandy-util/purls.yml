@@ -21,7 +21,14 @@
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.5-dev-31?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.5-dev-32?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.5-dev-33?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.5.0-dev-35?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.5.0-rc-1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.5.0-rc-2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.5.0-rc-3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.6.0-dev-34?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.6.0-dev-39?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.6.0-dev-40?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.6.0-dev-41?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.6.0-dev-42?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.6.0-dev-43?classifier=sources

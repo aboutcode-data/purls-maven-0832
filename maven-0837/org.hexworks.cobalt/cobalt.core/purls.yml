@@ -3,3 +3,5 @@
 - pkg:maven/org.hexworks.cobalt/cobalt.core@2021.1.2-PREVIEW?classifier=sources
 - pkg:maven/org.hexworks.cobalt/cobalt.core@2022.1.0-RELEASE?classifier=sources
 - pkg:maven/org.hexworks.cobalt/cobalt.core@2023.0.0-RELEASE?classifier=sources
+- pkg:maven/org.hexworks.cobalt/cobalt.core@2024.0.0-RELEASE?classifier=sources
+- pkg:maven/org.hexworks.cobalt/cobalt.core@2024.1.0-RELEASE?classifier=sources

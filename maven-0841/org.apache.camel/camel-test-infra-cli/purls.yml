@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-test-infra-cli@4.4.0
+- pkg:maven/org.apache.camel/camel-test-infra-cli@4.4.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.quarkiverse.pact/quarkus-pact-docs@1.0.1.Final?classifier=sources
 - pkg:maven/io.quarkiverse.pact/quarkus-pact-docs@1.1.0
 - pkg:maven/io.quarkiverse.pact/quarkus-pact-docs@1.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.pact/quarkus-pact-docs@1.2.0
+- pkg:maven/io.quarkiverse.pact/quarkus-pact-docs@1.2.0?classifier=sources

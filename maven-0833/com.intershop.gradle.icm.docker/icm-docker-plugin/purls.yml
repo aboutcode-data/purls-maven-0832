@@ -44,3 +44,4 @@
 - pkg:maven/com.intershop.gradle.icm.docker/icm-docker-plugin@4.0.0?classifier=sources
 - pkg:maven/com.intershop.gradle.icm.docker/icm-docker-plugin@4.1.0?classifier=sources
 - pkg:maven/com.intershop.gradle.icm.docker/icm-docker-plugin@4.1.1?classifier=sources
+- pkg:maven/com.intershop.gradle.icm.docker/icm-docker-plugin@5.0.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.overcoded/wizard-for-vaadin@24.1.0?classifier=sources
 - pkg:maven/io.overcoded/wizard-for-vaadin@24.1.1
 - pkg:maven/io.overcoded/wizard-for-vaadin@24.1.1?classifier=sources
+- pkg:maven/io.overcoded/wizard-for-vaadin@24.3.0
+- pkg:maven/io.overcoded/wizard-for-vaadin@24.3.0?classifier=sources

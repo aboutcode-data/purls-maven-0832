@@ -4,3 +4,5 @@
 - pkg:maven/com.vertispan.tsdefs/jsinterop-ts-defs-processor@1.0.0-RC2?classifier=sources
 - pkg:maven/com.vertispan.tsdefs/jsinterop-ts-defs-processor@1.0.0-RC3
 - pkg:maven/com.vertispan.tsdefs/jsinterop-ts-defs-processor@1.0.0-RC3?classifier=sources
+- pkg:maven/com.vertispan.tsdefs/jsinterop-ts-defs-processor@1.0.0-RC4
+- pkg:maven/com.vertispan.tsdefs/jsinterop-ts-defs-processor@1.0.0-RC4?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.github.sunny-chung/httpclient5@5.2.1-inspect-patch3?classifier=sources
 - pkg:maven/io.github.sunny-chung/httpclient5@5.2.1-inspect-patch4
 - pkg:maven/io.github.sunny-chung/httpclient5@5.2.1-inspect-patch4?classifier=sources
+- pkg:maven/io.github.sunny-chung/httpclient5@5.2.1-inspect-patch5
+- pkg:maven/io.github.sunny-chung/httpclient5@5.2.1-inspect-patch5?classifier=sources

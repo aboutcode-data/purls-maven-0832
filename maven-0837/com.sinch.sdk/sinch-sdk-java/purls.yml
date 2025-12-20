@@ -2,3 +2,9 @@
 - pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.1-alpha?classifier=sources
 - pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.2-alpha
 - pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.2-alpha?classifier=sources
+- pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.3-alpha
+- pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.3-alpha?classifier=sources
+- pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.4-alpha
+- pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.4-alpha?classifier=sources
+- pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.5-alpha
+- pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.5-alpha?classifier=sources

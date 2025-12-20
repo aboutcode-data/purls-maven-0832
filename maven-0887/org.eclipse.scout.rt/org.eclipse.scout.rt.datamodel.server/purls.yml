@@ -78,3 +78,9 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@23.2.5?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@23.2.9
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@23.2.9?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@24.1.0-beta.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@24.1.0-beta.1?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@24.1.0-beta.4
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@24.1.0-beta.4?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@24.1.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.datamodel.server@24.1.1?classifier=sources

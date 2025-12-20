@@ -16,6 +16,8 @@
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@8.0.24?classifier=sources
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@8.0.25
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@8.0.25?classifier=sources
+- pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@8.0.26
+- pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@8.0.26?classifier=sources
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.10
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.10?classifier=sources
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.11
@@ -26,6 +28,8 @@
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.13?classifier=sources
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.14
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.14?classifier=sources
+- pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.15
+- pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.15?classifier=sources
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.6
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.6?classifier=sources
 - pkg:maven/org.ops4j.pax.web/keycloak-osgi-adapter@9.0.7

@@ -4,3 +4,5 @@
 - pkg:maven/cc.carm.plugin/mineredis-api@1.1.0?classifier=sources
 - pkg:maven/cc.carm.plugin/mineredis-api@1.1.1
 - pkg:maven/cc.carm.plugin/mineredis-api@1.1.1?classifier=sources
+- pkg:maven/cc.carm.plugin/mineredis-api@1.2.0
+- pkg:maven/cc.carm.plugin/mineredis-api@1.2.0?classifier=sources

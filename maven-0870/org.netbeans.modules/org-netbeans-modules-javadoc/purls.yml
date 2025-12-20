@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javadoc@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javadoc@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javadoc@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javadoc@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javadoc@RELEASE90?classifier=sources

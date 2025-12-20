@@ -78,3 +78,9 @@
 - pkg:maven/org.alluxio/alluxio-integration-jnifuse-native@306?classifier=sources
 - pkg:maven/org.alluxio/alluxio-integration-jnifuse-native@307
 - pkg:maven/org.alluxio/alluxio-integration-jnifuse-native@307?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-native@308
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-native@308?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-native@309
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-native@309?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-native@310
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-native@310?classifier=sources

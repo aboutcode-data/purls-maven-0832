@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-tooling@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-tooling@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-tooling@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-tooling@RELEASE210?classifier=sources

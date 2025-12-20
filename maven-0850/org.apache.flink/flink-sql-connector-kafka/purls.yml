@@ -32,3 +32,7 @@
 - pkg:maven/org.apache.flink/flink-sql-connector-kafka@3.0.2-1.17?classifier=sources
 - pkg:maven/org.apache.flink/flink-sql-connector-kafka@3.0.2-1.18
 - pkg:maven/org.apache.flink/flink-sql-connector-kafka@3.0.2-1.18?classifier=sources
+- pkg:maven/org.apache.flink/flink-sql-connector-kafka@3.1.0-1.17
+- pkg:maven/org.apache.flink/flink-sql-connector-kafka@3.1.0-1.17?classifier=sources
+- pkg:maven/org.apache.flink/flink-sql-connector-kafka@3.1.0-1.18
+- pkg:maven/org.apache.flink/flink-sql-connector-kafka@3.1.0-1.18?classifier=sources

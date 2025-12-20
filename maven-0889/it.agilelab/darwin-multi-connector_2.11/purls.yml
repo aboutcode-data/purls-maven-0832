@@ -1,0 +1,2 @@
+- pkg:maven/it.agilelab/darwin-multi-connector_2.11@1.2.2
+- pkg:maven/it.agilelab/darwin-multi-connector_2.11@1.2.2?classifier=sources

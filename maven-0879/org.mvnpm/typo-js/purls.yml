@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/typo-js@1.2.3?classifier=sources
+- pkg:maven/org.mvnpm/typo-js@1.2.4?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-5.2@2.1.0-alpha?classifier=sources

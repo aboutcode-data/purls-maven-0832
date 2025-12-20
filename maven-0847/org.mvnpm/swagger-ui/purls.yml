@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/swagger-ui@5.11.6?classifier=sources
 - pkg:maven/org.mvnpm/swagger-ui@5.9.1?classifier=sources

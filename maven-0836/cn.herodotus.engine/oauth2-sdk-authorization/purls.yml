@@ -280,6 +280,12 @@
 - pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.1.7.5?classifier=sources
 - pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.1.8.0
 - pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.1.8.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.1.8.1
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.1.8.1?classifier=sources
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.1.8.2
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.1.8.2?classifier=sources
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.1.8.3
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.1.8.3?classifier=sources
 - pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.0-RC1
 - pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.0-RC1?classifier=sources
 - pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.0-RC2
@@ -310,3 +316,7 @@
 - pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.1.7?classifier=sources
 - pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.2.0
 - pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.2.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.2.1
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.2.1?classifier=sources
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.2.2
+- pkg:maven/cn.herodotus.engine/oauth2-sdk-authorization@3.2.2.2?classifier=sources

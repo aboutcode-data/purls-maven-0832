@@ -39,3 +39,4 @@
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-utils@4.1.0?classifier=sources
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-utils@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-utils@4.3.0?classifier=sources
+- pkg:maven/org.apache.camel.kamelets/camel-kamelets-utils@4.4.0?classifier=sources

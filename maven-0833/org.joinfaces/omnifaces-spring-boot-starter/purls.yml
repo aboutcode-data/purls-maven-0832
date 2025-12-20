@@ -38,6 +38,8 @@
 - pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.1.6?classifier=sources
 - pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.1.7?classifier=sources
 - pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.1.8?classifier=sources
+- pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.1.9.1?classifier=sources
+- pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.1.9?classifier=sources
 - pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.2.0-m1?classifier=sources
 - pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.2.0-m2?classifier=sources
 - pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.2.0-m3?classifier=sources
@@ -46,3 +48,6 @@
 - pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.2.0?classifier=sources
 - pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.2.1?classifier=sources
 - pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.2.2?classifier=sources
+- pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.2.3.1?classifier=sources
+- pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.2.3?classifier=sources
+- pkg:maven/org.joinfaces/omnifaces-spring-boot-starter@5.3.0-m2?classifier=sources

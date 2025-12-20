@@ -1,0 +1,4 @@
+- pkg:maven/top.wu2020/wu-smart-acw-client-ui@1.2.1-JDK17
+- pkg:maven/top.wu2020/wu-smart-acw-client-ui@1.2.1-JDK17?classifier=sources
+- pkg:maven/top.wu2020/wu-smart-acw-client-ui@1.2.2-JDK17
+- pkg:maven/top.wu2020/wu-smart-acw-client-ui@1.2.2-JDK17?classifier=sources

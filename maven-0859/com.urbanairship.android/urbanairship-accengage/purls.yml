@@ -44,6 +44,7 @@
 - pkg:maven/com.urbanairship.android/urbanairship-accengage@16.10.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-accengage@16.11.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-accengage@16.11.1?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-accengage@16.11.2?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-accengage@16.2.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-accengage@16.3.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-accengage@16.3.1?classifier=sources

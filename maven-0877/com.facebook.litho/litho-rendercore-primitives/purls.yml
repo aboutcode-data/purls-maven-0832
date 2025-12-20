@@ -1,2 +1,3 @@
 - pkg:maven/com.facebook.litho/litho-rendercore-primitives@0.47.0?classifier=sources
 - pkg:maven/com.facebook.litho/litho-rendercore-primitives@0.48.0?classifier=sources
+- pkg:maven/com.facebook.litho/litho-rendercore-primitives@0.49.0?classifier=sources

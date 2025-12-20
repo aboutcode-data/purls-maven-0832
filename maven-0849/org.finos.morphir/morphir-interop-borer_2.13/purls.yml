@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.morphir/morphir-interop-borer_2.13@0.4.0-RC12
+- pkg:maven/org.finos.morphir/morphir-interop-borer_2.13@0.4.0-RC12?classifier=sources

@@ -30,3 +30,4 @@
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.8.2?classifier=sources
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.8.3?classifier=sources
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.8.4?classifier=sources
+- pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Libs-Ap@2.9.0?classifier=sources

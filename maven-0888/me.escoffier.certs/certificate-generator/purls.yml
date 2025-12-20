@@ -1,0 +1,10 @@
+- pkg:maven/me.escoffier.certs/certificate-generator@0.2.0
+- pkg:maven/me.escoffier.certs/certificate-generator@0.2.0?classifier=sources
+- pkg:maven/me.escoffier.certs/certificate-generator@0.3.0
+- pkg:maven/me.escoffier.certs/certificate-generator@0.3.0?classifier=sources
+- pkg:maven/me.escoffier.certs/certificate-generator@0.3.1
+- pkg:maven/me.escoffier.certs/certificate-generator@0.3.1?classifier=sources
+- pkg:maven/me.escoffier.certs/certificate-generator@0.4.0
+- pkg:maven/me.escoffier.certs/certificate-generator@0.4.0?classifier=sources
+- pkg:maven/me.escoffier.certs/certificate-generator@0.4.1
+- pkg:maven/me.escoffier.certs/certificate-generator@0.4.1?classifier=sources

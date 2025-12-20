@@ -1,3 +1,4 @@
 - pkg:maven/us.ihmc/ihmc-perception-slam-wrapper@0.14.0-230315?classifier=sources
 - pkg:maven/us.ihmc/ihmc-perception-slam-wrapper@0.14.0-231109?classifier=sources
 - pkg:maven/us.ihmc/ihmc-perception-slam-wrapper@0.14.0-231219?classifier=sources
+- pkg:maven/us.ihmc/ihmc-perception-slam-wrapper@0.14.0-240126?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.rpamis/rpamis-chain-processor@%24%7Brpamis-chain-plugin.version%7D
+- pkg:maven/com.rpamis/rpamis-chain-processor@%24%7Brpamis-chain-plugin.version%7D?classifier=sources

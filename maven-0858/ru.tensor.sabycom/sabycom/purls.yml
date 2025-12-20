@@ -1,1 +1,2 @@
 - pkg:maven/ru.tensor.sabycom/sabycom@23.7146.82?classifier=sources
+- pkg:maven/ru.tensor.sabycom/sabycom@24.1204.53?classifier=sources

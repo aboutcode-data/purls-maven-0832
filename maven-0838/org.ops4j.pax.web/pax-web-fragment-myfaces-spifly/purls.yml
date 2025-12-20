@@ -17,6 +17,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.23
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.24
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.25
+- pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.26
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.4
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@8.0.5
@@ -31,6 +32,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@9.0.12
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@9.0.13
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@9.0.14
+- pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@9.0.15
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@9.0.2
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@9.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-fragment-myfaces-spifly@9.0.4

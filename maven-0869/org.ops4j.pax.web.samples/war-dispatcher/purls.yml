@@ -24,6 +24,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@8.0.24?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@8.0.25?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@8.0.25?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@8.0.26?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@8.0.26?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.10?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.10?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.11?classifier=sources
@@ -34,6 +36,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.13?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.14?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.14?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.15?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.15?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-dispatcher@9.0.4?classifier=sources

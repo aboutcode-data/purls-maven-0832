@@ -1,2 +1,4 @@
 - pkg:maven/net.bzzt/sbt-reproducible-builds_2.12_1.0@0.31
 - pkg:maven/net.bzzt/sbt-reproducible-builds_2.12_1.0@0.31?classifier=sources
+- pkg:maven/net.bzzt/sbt-reproducible-builds_2.12_1.0@0.32
+- pkg:maven/net.bzzt/sbt-reproducible-builds_2.12_1.0@0.32?classifier=sources

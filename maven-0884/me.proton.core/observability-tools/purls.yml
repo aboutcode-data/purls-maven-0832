@@ -1,0 +1,3 @@
+- pkg:maven/me.proton.core/observability-tools@19.0.0?classifier=sources
+- pkg:maven/me.proton.core/observability-tools@19.1.0?classifier=sources
+- pkg:maven/me.proton.core/observability-tools@20.0.0?classifier=sources

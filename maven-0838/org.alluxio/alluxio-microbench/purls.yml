@@ -42,3 +42,9 @@
 - pkg:maven/org.alluxio/alluxio-microbench@306?classifier=sources
 - pkg:maven/org.alluxio/alluxio-microbench@307
 - pkg:maven/org.alluxio/alluxio-microbench@307?classifier=sources
+- pkg:maven/org.alluxio/alluxio-microbench@308
+- pkg:maven/org.alluxio/alluxio-microbench@308?classifier=sources
+- pkg:maven/org.alluxio/alluxio-microbench@309
+- pkg:maven/org.alluxio/alluxio-microbench@309?classifier=sources
+- pkg:maven/org.alluxio/alluxio-microbench@310
+- pkg:maven/org.alluxio/alluxio-microbench@310?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.edc/data-plane-control-api@0.5.0?classifier=sources
+- pkg:maven/org.eclipse.edc/data-plane-control-api@0.5.1?classifier=sources

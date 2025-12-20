@@ -15,3 +15,4 @@
 - pkg:maven/net.simonix.scripts/groovy-jmeter@0.19.0?classifier=sources
 - pkg:maven/net.simonix.scripts/groovy-jmeter@0.20.0?classifier=sources
 - pkg:maven/net.simonix.scripts/groovy-jmeter@0.21.0?classifier=sources
+- pkg:maven/net.simonix.scripts/groovy-jmeter@0.22.0?classifier=sources

@@ -1,12 +1,15 @@
+- pkg:maven/io.github.domstolene.esas/validering-jwks@01022024.b806df3
 - pkg:maven/io.github.domstolene.esas/validering-jwks@01032023.81fbd7b
 - pkg:maven/io.github.domstolene.esas/validering-jwks@01062023.7ac07e7
 - pkg:maven/io.github.domstolene.esas/validering-jwks@01122023.6bab310
+- pkg:maven/io.github.domstolene.esas/validering-jwks@02022024.5da310d
 - pkg:maven/io.github.domstolene.esas/validering-jwks@02082023.8c5451c
 - pkg:maven/io.github.domstolene.esas/validering-jwks@04052023.28db4c0
 - pkg:maven/io.github.domstolene.esas/validering-jwks@04092023.7d74078
 - pkg:maven/io.github.domstolene.esas/validering-jwks@04102023.ebf9459
 - pkg:maven/io.github.domstolene.esas/validering-jwks@04122023.c3c54aa
 - pkg:maven/io.github.domstolene.esas/validering-jwks@05122023.8beffb4
+- pkg:maven/io.github.domstolene.esas/validering-jwks@06022024.5248222
 - pkg:maven/io.github.domstolene.esas/validering-jwks@06032023.d39400b
 - pkg:maven/io.github.domstolene.esas/validering-jwks@06032023.ec0cff2
 - pkg:maven/io.github.domstolene.esas/validering-jwks@06092023.5c45f70
@@ -16,6 +19,7 @@
 - pkg:maven/io.github.domstolene.esas/validering-jwks@07112023.2804bfd
 - pkg:maven/io.github.domstolene.esas/validering-jwks@08012024.7dadcc4
 - pkg:maven/io.github.domstolene.esas/validering-jwks@08012024.83d8a36
+- pkg:maven/io.github.domstolene.esas/validering-jwks@08022024.a16ca4f
 - pkg:maven/io.github.domstolene.esas/validering-jwks@08082023.0308aa9
 - pkg:maven/io.github.domstolene.esas/validering-jwks@08082023.249ba47
 - pkg:maven/io.github.domstolene.esas/validering-jwks@08082023.d463fdd
@@ -31,8 +35,10 @@
 - pkg:maven/io.github.domstolene.esas/validering-jwks@10082023.366d334
 - pkg:maven/io.github.domstolene.esas/validering-jwks@10082023.eaebf9f
 - pkg:maven/io.github.domstolene.esas/validering-jwks@11082023.428b5d4
+- pkg:maven/io.github.domstolene.esas/validering-jwks@12022024.7cee216
 - pkg:maven/io.github.domstolene.esas/validering-jwks@12102023.c90582a
 - pkg:maven/io.github.domstolene.esas/validering-jwks@12122023.262f23b
+- pkg:maven/io.github.domstolene.esas/validering-jwks@13022024.dbaaf79
 - pkg:maven/io.github.domstolene.esas/validering-jwks@13032023.5388365
 - pkg:maven/io.github.domstolene.esas/validering-jwks@13032023.a54267c
 - pkg:maven/io.github.domstolene.esas/validering-jwks@13042023.0954234
@@ -43,6 +49,7 @@
 - pkg:maven/io.github.domstolene.esas/validering-jwks@13102023.a114aeb
 - pkg:maven/io.github.domstolene.esas/validering-jwks@13102023.b0aaa6b
 - pkg:maven/io.github.domstolene.esas/validering-jwks@14042023.f49c841
+- pkg:maven/io.github.domstolene.esas/validering-jwks@15022024.faf2540
 - pkg:maven/io.github.domstolene.esas/validering-jwks@15052023.b28468e
 - pkg:maven/io.github.domstolene.esas/validering-jwks@16012023.7c21726
 - pkg:maven/io.github.domstolene.esas/validering-jwks@16062023.1c0910c
@@ -86,6 +93,7 @@
 - pkg:maven/io.github.domstolene.esas/validering-jwks@28072023.166b0d9
 - pkg:maven/io.github.domstolene.esas/validering-jwks@28072023.fc5b237
 - pkg:maven/io.github.domstolene.esas/validering-jwks@28092023.e64de8d
+- pkg:maven/io.github.domstolene.esas/validering-jwks@29012024.c41ed69
 - pkg:maven/io.github.domstolene.esas/validering-jwks@29032023.186cabd
 - pkg:maven/io.github.domstolene.esas/validering-jwks@29052023.c4f37ae
 - pkg:maven/io.github.domstolene.esas/validering-jwks@29082023.7dd8a4e
@@ -95,3 +103,4 @@
 - pkg:maven/io.github.domstolene.esas/validering-jwks@30062023.be0ac3a
 - pkg:maven/io.github.domstolene.esas/validering-jwks@30112023.85a0f5d
 - pkg:maven/io.github.domstolene.esas/validering-jwks@30112023.d5aedab
+- pkg:maven/io.github.domstolene.esas/validering-jwks@31012024.5b86c13

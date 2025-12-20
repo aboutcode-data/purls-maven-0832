@@ -14,3 +14,5 @@
 - pkg:maven/com.dmetasoul/lakesoul-flink@2.4.1-flink-1.17?classifier=sources
 - pkg:maven/com.dmetasoul/lakesoul-flink@2.5.0-flink-1.17
 - pkg:maven/com.dmetasoul/lakesoul-flink@2.5.0-flink-1.17?classifier=sources
+- pkg:maven/com.dmetasoul/lakesoul-flink@2.5.1-flink-1.17
+- pkg:maven/com.dmetasoul/lakesoul-flink@2.5.1-flink-1.17?classifier=sources

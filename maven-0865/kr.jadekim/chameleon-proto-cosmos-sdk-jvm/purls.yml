@@ -5,3 +5,4 @@
 - pkg:maven/kr.jadekim/chameleon-proto-cosmos-sdk-jvm@0.46.9?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-cosmos-sdk-jvm@0.47.2?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-cosmos-sdk-jvm@0.47.3?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-cosmos-sdk-jvm@0.47.5?classifier=sources

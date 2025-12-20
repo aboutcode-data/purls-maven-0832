@@ -1,4 +1,6 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@1.100.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@1.102.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@1.103.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@1.80.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@1.82.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-mock-server-test@1.83.0?classifier=sources

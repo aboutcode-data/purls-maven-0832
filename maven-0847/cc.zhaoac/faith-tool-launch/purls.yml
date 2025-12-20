@@ -1,0 +1,2 @@
+- pkg:maven/cc.zhaoac/faith-tool-launch@1.1.0
+- pkg:maven/cc.zhaoac/faith-tool-launch@1.1.0?classifier=sources

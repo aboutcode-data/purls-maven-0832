@@ -168,3 +168,9 @@
 - pkg:maven/cool.scx/scx-config@2.5.8?classifier=sources
 - pkg:maven/cool.scx/scx-config@2.6.0
 - pkg:maven/cool.scx/scx-config@2.6.0?classifier=sources
+- pkg:maven/cool.scx/scx-config@2.7.0
+- pkg:maven/cool.scx/scx-config@2.7.0?classifier=sources
+- pkg:maven/cool.scx/scx-config@2.7.1
+- pkg:maven/cool.scx/scx-config@2.7.1?classifier=sources
+- pkg:maven/cool.scx/scx-config@2.7.2
+- pkg:maven/cool.scx/scx-config@2.7.2?classifier=sources

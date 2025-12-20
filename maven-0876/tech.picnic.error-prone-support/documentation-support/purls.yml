@@ -10,5 +10,7 @@
 - pkg:maven/tech.picnic.error-prone-support/documentation-support@0.13.0?classifier=sources
 - pkg:maven/tech.picnic.error-prone-support/documentation-support@0.14.0
 - pkg:maven/tech.picnic.error-prone-support/documentation-support@0.14.0?classifier=sources
+- pkg:maven/tech.picnic.error-prone-support/documentation-support@0.15.0
+- pkg:maven/tech.picnic.error-prone-support/documentation-support@0.15.0?classifier=sources
 - pkg:maven/tech.picnic.error-prone-support/documentation-support@0.9.0
 - pkg:maven/tech.picnic.error-prone-support/documentation-support@0.9.0?classifier=sources

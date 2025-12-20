@@ -1,2 +1,4 @@
 - pkg:maven/org.bigraphs.framework/bigraph-visualization@1.0.0
 - pkg:maven/org.bigraphs.framework/bigraph-visualization@1.0.0?classifier=sources
+- pkg:maven/org.bigraphs.framework/bigraph-visualization@1.1.0
+- pkg:maven/org.bigraphs.framework/bigraph-visualization@1.1.0?classifier=sources

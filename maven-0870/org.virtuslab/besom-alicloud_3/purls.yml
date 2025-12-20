@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-alicloud_3@3.49.0-core.0.2
+- pkg:maven/org.virtuslab/besom-alicloud_3@3.49.0-core.0.2?classifier=sources

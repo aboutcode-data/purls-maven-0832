@@ -28,3 +28,5 @@
 - pkg:maven/com.powsybl/powsybl-afs-security-analysis@5.0.2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-afs-security-analysis@5.1.0
 - pkg:maven/com.powsybl/powsybl-afs-security-analysis@5.1.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-security-analysis@6.0.0-RC2
+- pkg:maven/com.powsybl/powsybl-afs-security-analysis@6.0.0-RC2?classifier=sources

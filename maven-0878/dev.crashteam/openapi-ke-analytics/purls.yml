@@ -118,6 +118,14 @@
 - pkg:maven/dev.crashteam/openapi-ke-analytics@1.40-9e7543d-client?classifier=sources
 - pkg:maven/dev.crashteam/openapi-ke-analytics@1.40-9e7543d-server
 - pkg:maven/dev.crashteam/openapi-ke-analytics@1.40-9e7543d-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.41-d3f9892-client
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.41-d3f9892-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.41-d3f9892-server
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.41-d3f9892-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.42-730f14f-client
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.42-730f14f-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.42-730f14f-server
+- pkg:maven/dev.crashteam/openapi-ke-analytics@1.42-730f14f-server?classifier=sources
 - pkg:maven/dev.crashteam/openapi-ke-analytics@1.8-ce38a45-client
 - pkg:maven/dev.crashteam/openapi-ke-analytics@1.8-ce38a45-client?classifier=sources
 - pkg:maven/dev.crashteam/openapi-ke-analytics@1.8-ce38a45-server

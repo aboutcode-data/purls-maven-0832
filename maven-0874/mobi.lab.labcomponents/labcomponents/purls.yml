@@ -1,2 +1,4 @@
 - pkg:maven/mobi.lab.labcomponents/labcomponents@0.0.10?classifier=sources
+- pkg:maven/mobi.lab.labcomponents/labcomponents@0.0.11?classifier=sources
+- pkg:maven/mobi.lab.labcomponents/labcomponents@0.0.12?classifier=sources
 - pkg:maven/mobi.lab.labcomponents/labcomponents@0.0.9?classifier=sources

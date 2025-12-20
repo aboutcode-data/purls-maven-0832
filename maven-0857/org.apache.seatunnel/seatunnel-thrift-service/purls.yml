@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/seatunnel-thrift-service@2.3.4
+- pkg:maven/org.apache.seatunnel/seatunnel-thrift-service@2.3.4?classifier=sources

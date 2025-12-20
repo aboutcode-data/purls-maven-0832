@@ -291,4 +291,5 @@
 - pkg:maven/com.lihaoyi/ammonite-runtime_2.13.4@3.0.0-M0-59-cdeaa580?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-runtime_2.13.4@3.0.0-M0-60-89836cd8
 - pkg:maven/com.lihaoyi/ammonite-runtime_2.13.4@3.0.0-M0-60-89836cd8?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-runtime_2.13.4@3.0.0-M0-64-1010b536
 - pkg:maven/com.lihaoyi/ammonite-runtime_2.13.4@3.0.0-M0?classifier=sources

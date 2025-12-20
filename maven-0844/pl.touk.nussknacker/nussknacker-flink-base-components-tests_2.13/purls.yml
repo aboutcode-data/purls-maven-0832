@@ -6,3 +6,5 @@
 - pkg:maven/pl.touk.nussknacker/nussknacker-flink-base-components-tests_2.13@1.13.0-RC2
 - pkg:maven/pl.touk.nussknacker/nussknacker-flink-base-components-tests_2.13@1.13.0-RC2?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-flink-base-components-tests_2.13@1.13.0?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-flink-base-components-tests_2.13@1.14.0-RC1
+- pkg:maven/pl.touk.nussknacker/nussknacker-flink-base-components-tests_2.13@1.14.0-RC1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatestplus/testng-7-9_2.12@3.2.18.0
+- pkg:maven/org.scalatestplus/testng-7-9_2.12@3.2.18.0?classifier=sources

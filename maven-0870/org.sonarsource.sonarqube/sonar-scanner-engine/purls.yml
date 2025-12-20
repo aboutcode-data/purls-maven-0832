@@ -4,6 +4,9 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@10.2.0.77647?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@10.2.1.78527?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@10.3.0.82913?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@10.4.0.87240?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@10.4.0.87286?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@10.4.1.88267?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@5.5
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@5.5-RC1
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@5.5-RC1?classifier=sources
@@ -197,3 +200,4 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@9.9.1.69595?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@9.9.2.77730?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@9.9.3.79811?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@9.9.4.87374?classifier=sources

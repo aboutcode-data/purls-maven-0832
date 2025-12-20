@@ -49,3 +49,4 @@
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@6.3.2?classifier=sources
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@6.3.3?classifier=sources
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@6.3.4?classifier=sources
+- pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@6.3.5?classifier=sources

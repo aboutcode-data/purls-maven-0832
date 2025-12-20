@@ -1,2 +1,5 @@
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-json-pointer@0.90.0?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-json-pointer@0.91.0?classifier=sources
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-json-pointer@0.92.0?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-json-pointer@0.93.0?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-json-pointer@0.95.0?classifier=sources

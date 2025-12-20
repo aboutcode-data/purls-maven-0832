@@ -1,0 +1,2 @@
+- pkg:maven/com.sigpwned/awssdkv2-java11-async-client@2.23.7.0-b0
+- pkg:maven/com.sigpwned/awssdkv2-java11-async-client@2.23.7.0-b0?classifier=sources

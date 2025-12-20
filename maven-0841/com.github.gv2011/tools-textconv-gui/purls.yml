@@ -1,2 +1,4 @@
+- pkg:maven/com.github.gv2011/tools-textconv-gui@0.12
+- pkg:maven/com.github.gv2011/tools-textconv-gui@0.12?classifier=sources
 - pkg:maven/com.github.gv2011/tools-textconv-gui@0.8
 - pkg:maven/com.github.gv2011/tools-textconv-gui@0.8?classifier=sources

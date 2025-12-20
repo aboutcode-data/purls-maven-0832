@@ -446,6 +446,8 @@
 - pkg:maven/com.google.cloud/google-cloud-vision@3.31.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@3.32.0
 - pkg:maven/com.google.cloud/google-cloud-vision@3.32.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-vision@3.33.0
+- pkg:maven/com.google.cloud/google-cloud-vision@3.33.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@3.4.0
 - pkg:maven/com.google.cloud/google-cloud-vision@3.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vision@3.5.0

@@ -54,3 +54,5 @@
 - pkg:maven/com.aliyun/aliyun-java-auth@0.2.5-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-auth@0.2.6-beta
 - pkg:maven/com.aliyun/aliyun-java-auth@0.2.6-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-auth@0.2.7-beta
+- pkg:maven/com.aliyun/aliyun-java-auth@0.2.7-beta?classifier=sources

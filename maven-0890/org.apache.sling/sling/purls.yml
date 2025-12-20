@@ -33,5 +33,6 @@
 - pkg:maven/org.apache.sling/sling@50?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/sling@51?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/sling@52?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling@60?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/sling@8?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/sling@9?classifier=source-release&type=zip

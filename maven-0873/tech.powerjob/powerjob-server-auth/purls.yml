@@ -1,0 +1,4 @@
+- pkg:maven/tech.powerjob/powerjob-server-auth@5.0.0-beta
+- pkg:maven/tech.powerjob/powerjob-server-auth@5.0.0-beta2
+- pkg:maven/tech.powerjob/powerjob-server-auth@5.0.0-beta2?classifier=sources
+- pkg:maven/tech.powerjob/powerjob-server-auth@5.0.0-beta?classifier=sources

@@ -28,6 +28,8 @@
 - pkg:maven/de.team33.patterns/random-tarvos@1.16.0?classifier=sources
 - pkg:maven/de.team33.patterns/random-tarvos@1.17.0
 - pkg:maven/de.team33.patterns/random-tarvos@1.17.0?classifier=sources
+- pkg:maven/de.team33.patterns/random-tarvos@1.18.0
+- pkg:maven/de.team33.patterns/random-tarvos@1.18.0?classifier=sources
 - pkg:maven/de.team33.patterns/random-tarvos@1.5.0
 - pkg:maven/de.team33.patterns/random-tarvos@1.5.0?classifier=sources
 - pkg:maven/de.team33.patterns/random-tarvos@1.5.1

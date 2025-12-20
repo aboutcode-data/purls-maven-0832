@@ -4,3 +4,4 @@
 - pkg:maven/io.toolisticon.maven.archetypes/annotationprocessor-archetype@0.6.0?classifier=sources
 - pkg:maven/io.toolisticon.maven.archetypes/annotationprocessor-archetype@0.7.0?classifier=sources
 - pkg:maven/io.toolisticon.maven.archetypes/annotationprocessor-archetype@0.8.0?classifier=sources
+- pkg:maven/io.toolisticon.maven.archetypes/annotationprocessor-archetype@0.9.0?classifier=sources

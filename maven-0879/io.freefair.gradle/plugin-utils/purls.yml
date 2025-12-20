@@ -19,3 +19,4 @@
 - pkg:maven/io.freefair.gradle/plugin-utils@8.2.2?classifier=sources
 - pkg:maven/io.freefair.gradle/plugin-utils@8.3?classifier=sources
 - pkg:maven/io.freefair.gradle/plugin-utils@8.4?classifier=sources
+- pkg:maven/io.freefair.gradle/plugin-utils@8.6?classifier=sources

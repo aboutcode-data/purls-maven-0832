@@ -44,6 +44,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@3.7.4
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@3.7.5
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@3.7.6
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@3.7.7
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@4.1.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@4.1.1
@@ -67,4 +68,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@4.8.4
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@4.9.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@4.9.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@4.9.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@5.0.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@5.0.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-security-iap@5.0.2

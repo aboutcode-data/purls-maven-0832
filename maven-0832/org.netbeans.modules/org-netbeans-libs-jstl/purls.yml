@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jstl@RELEASE210?classifier=sources

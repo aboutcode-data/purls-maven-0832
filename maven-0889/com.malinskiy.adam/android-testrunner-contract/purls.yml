@@ -15,3 +15,4 @@
 - pkg:maven/com.malinskiy.adam/android-testrunner-contract@0.5.1?classifier=sources
 - pkg:maven/com.malinskiy.adam/android-testrunner-contract@0.5.2?classifier=sources
 - pkg:maven/com.malinskiy.adam/android-testrunner-contract@0.5.3?classifier=sources
+- pkg:maven/com.malinskiy.adam/android-testrunner-contract@0.5.4?classifier=sources

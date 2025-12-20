@@ -16,3 +16,6 @@
 - pkg:maven/io.teliver.sdk/TeliverSdk@4.0.8?type=aar
 - pkg:maven/io.teliver.sdk/TeliverSdk@4.0.9?classifier=sources
 - pkg:maven/io.teliver.sdk/TeliverSdk@4.0.9?type=aar
+- pkg:maven/io.teliver.sdk/TeliverSdk@5.0.1?classifier=sources
+- pkg:maven/io.teliver.sdk/TeliverSdk@5.0.2?classifier=sources
+- pkg:maven/io.teliver.sdk/TeliverSdk@5.0.3?classifier=sources

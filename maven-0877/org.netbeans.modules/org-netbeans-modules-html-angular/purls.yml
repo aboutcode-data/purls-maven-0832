@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE210?classifier=sources

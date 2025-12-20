@@ -4,6 +4,8 @@
 - pkg:maven/org.bytedeco/cpython-platform@3.10.8-1.5.8?classifier=sources
 - pkg:maven/org.bytedeco/cpython-platform@3.11.3-1.5.9
 - pkg:maven/org.bytedeco/cpython-platform@3.11.3-1.5.9?classifier=sources
+- pkg:maven/org.bytedeco/cpython-platform@3.12.1-1.5.10
+- pkg:maven/org.bytedeco/cpython-platform@3.12.1-1.5.10?classifier=sources
 - pkg:maven/org.bytedeco/cpython-platform@3.6-1.5
 - pkg:maven/org.bytedeco/cpython-platform@3.6-1.5?classifier=sources
 - pkg:maven/org.bytedeco/cpython-platform@3.7.3-1.5.1

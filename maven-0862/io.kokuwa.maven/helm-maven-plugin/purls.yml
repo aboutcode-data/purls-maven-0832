@@ -20,6 +20,8 @@
 - pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.12.0?classifier=sources
 - pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.13.0
 - pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.13.0?classifier=sources
+- pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.14.0
+- pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.14.0?classifier=sources
 - pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.2.0
 - pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.2.0?classifier=sources
 - pkg:maven/io.kokuwa.maven/helm-maven-plugin@6.3.0

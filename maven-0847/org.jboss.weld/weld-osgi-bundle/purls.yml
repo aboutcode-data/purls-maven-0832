@@ -410,3 +410,5 @@
 - pkg:maven/org.jboss.weld/weld-osgi-bundle@5.1.2.Final?classifier=sources
 - pkg:maven/org.jboss.weld/weld-osgi-bundle@6.0.0.Alpha1
 - pkg:maven/org.jboss.weld/weld-osgi-bundle@6.0.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.weld/weld-osgi-bundle@6.0.0.Beta1
+- pkg:maven/org.jboss.weld/weld-osgi-bundle@6.0.0.Beta1?classifier=sources

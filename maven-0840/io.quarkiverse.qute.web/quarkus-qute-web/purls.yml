@@ -4,3 +4,5 @@
 - pkg:maven/io.quarkiverse.qute.web/quarkus-qute-web@3.0.0.CR2
 - pkg:maven/io.quarkiverse.qute.web/quarkus-qute-web@3.0.0.CR2?classifier=sources
 - pkg:maven/io.quarkiverse.qute.web/quarkus-qute-web@3.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.qute.web/quarkus-qute-web@3.0.1
+- pkg:maven/io.quarkiverse.qute.web/quarkus-qute-web@3.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-scram-sink-kafka-connector@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-scram-sink-kafka-connector@4.0.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-scram-sink-kafka-connector@4.0.3
+- pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-scram-sink-kafka-connector@4.0.3?classifier=sources

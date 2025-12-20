@@ -10,3 +10,5 @@
 - pkg:maven/com.gitee.zcx7878/leisure.pay.wechat@1.1.2.5?classifier=sources
 - pkg:maven/com.gitee.zcx7878/leisure.pay.wechat@1.1.2.6
 - pkg:maven/com.gitee.zcx7878/leisure.pay.wechat@1.1.2.6?classifier=sources
+- pkg:maven/com.gitee.zcx7878/leisure.pay.wechat@1.1.2.7
+- pkg:maven/com.gitee.zcx7878/leisure.pay.wechat@1.1.2.7?classifier=sources

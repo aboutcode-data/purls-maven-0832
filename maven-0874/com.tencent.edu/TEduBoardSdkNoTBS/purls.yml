@@ -7,3 +7,4 @@
 - pkg:maven/com.tencent.edu/TEduBoardSdkNoTBS@2.9.2.255?classifier=sources
 - pkg:maven/com.tencent.edu/TEduBoardSdkNoTBS@2.9.3.258?classifier=sources
 - pkg:maven/com.tencent.edu/TEduBoardSdkNoTBS@2.9.4.259?classifier=sources
+- pkg:maven/com.tencent.edu/TEduBoardSdkNoTBS@2.9.5.261?classifier=sources

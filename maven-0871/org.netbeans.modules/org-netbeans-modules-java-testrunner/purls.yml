@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE90?classifier=sources

@@ -126,3 +126,5 @@
 - pkg:maven/com.helger.phase4/phase4-profile-peppol@2.7.2?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-profile-peppol@2.7.3
 - pkg:maven/com.helger.phase4/phase4-profile-peppol@2.7.3?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@2.7.4
+- pkg:maven/com.helger.phase4/phase4-profile-peppol@2.7.4?classifier=sources

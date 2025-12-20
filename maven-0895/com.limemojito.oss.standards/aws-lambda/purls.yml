@@ -1,0 +1,4 @@
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@13.0.0
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@13.0.0?classifier=sources
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@13.0.4
+- pkg:maven/com.limemojito.oss.standards/aws-lambda@13.0.4?classifier=sources

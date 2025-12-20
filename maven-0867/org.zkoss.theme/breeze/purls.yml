@@ -1,4 +1,5 @@
 - pkg:maven/org.zkoss.theme/breeze@10.0.0-Beta?classifier=sources
+- pkg:maven/org.zkoss.theme/breeze@10.0.0?classifier=sources
 - pkg:maven/org.zkoss.theme/breeze@5.0.10
 - pkg:maven/org.zkoss.theme/breeze@5.0.10?classifier=sources
 - pkg:maven/org.zkoss.theme/breeze@5.0.11

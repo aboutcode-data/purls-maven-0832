@@ -1,0 +1,2 @@
+- pkg:maven/name.nkonev.flink/flink-sql-connector-clickhouse@1.17.1-8?classifier=sources
+- pkg:maven/name.nkonev.flink/flink-sql-connector-clickhouse@1.17.1-9?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/org.apache.storm/storm-core@2.5.0?classifier=sources
 - pkg:maven/org.apache.storm/storm-core@2.6.0
 - pkg:maven/org.apache.storm/storm-core@2.6.0?classifier=sources
+- pkg:maven/org.apache.storm/storm-core@2.6.1
+- pkg:maven/org.apache.storm/storm-core@2.6.1?classifier=sources

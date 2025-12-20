@@ -94,6 +94,10 @@
 - pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.5.0?classifier=sources
 - pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.50.0
 - pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.50.0?classifier=sources
+- pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.51.0
+- pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.51.0?classifier=sources
+- pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.51.1
+- pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.51.1?classifier=sources
 - pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.6.0
 - pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.6.0?classifier=sources
 - pkg:maven/com.microsoft.java/com.microsoft.java.debug.core@0.7.0

@@ -24,3 +24,4 @@
 - pkg:maven/de.gesellix/docker-registry@2023-11-16T20-20-00?classifier=sources
 - pkg:maven/de.gesellix/docker-registry@2023-11-30T21-24-00?classifier=sources
 - pkg:maven/de.gesellix/docker-registry@2024-01-16T20-10-00?classifier=sources
+- pkg:maven/de.gesellix/docker-registry@2024-02-21T19-30-00?classifier=sources

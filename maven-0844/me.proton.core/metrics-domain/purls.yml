@@ -40,6 +40,9 @@
 - pkg:maven/me.proton.core/metrics-domain@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@18.4.1?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@18.4.2?classifier=sources
+- pkg:maven/me.proton.core/metrics-domain@19.0.0?classifier=sources
+- pkg:maven/me.proton.core/metrics-domain@19.1.0?classifier=sources
+- pkg:maven/me.proton.core/metrics-domain@20.0.0?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@7.1.11?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@7.1.1?classifier=sources

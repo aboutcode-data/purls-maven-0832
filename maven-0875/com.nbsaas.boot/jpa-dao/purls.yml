@@ -40,3 +40,5 @@
 - pkg:maven/com.nbsaas.boot/jpa-dao@1.1.5-2023?classifier=sources
 - pkg:maven/com.nbsaas.boot/jpa-dao@1.1.6-2023
 - pkg:maven/com.nbsaas.boot/jpa-dao@1.1.6-2023?classifier=sources
+- pkg:maven/com.nbsaas.boot/jpa-dao@1.1.7-2024
+- pkg:maven/com.nbsaas.boot/jpa-dao@1.1.7-2024?classifier=sources

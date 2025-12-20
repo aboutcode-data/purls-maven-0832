@@ -50,3 +50,5 @@
 - pkg:maven/com.artipie/files-adapter@v1.17.6?classifier=sources
 - pkg:maven/com.artipie/files-adapter@v1.17.7
 - pkg:maven/com.artipie/files-adapter@v1.17.7?classifier=sources
+- pkg:maven/com.artipie/files-adapter@v1.17.9
+- pkg:maven/com.artipie/files-adapter@v1.17.9?classifier=sources

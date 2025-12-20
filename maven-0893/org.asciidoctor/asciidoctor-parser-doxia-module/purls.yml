@@ -1,0 +1,2 @@
+- pkg:maven/org.asciidoctor/asciidoctor-parser-doxia-module@3.0.0
+- pkg:maven/org.asciidoctor/asciidoctor-parser-doxia-module@3.0.0?classifier=sources
