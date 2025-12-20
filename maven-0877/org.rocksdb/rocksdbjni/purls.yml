@@ -260,3 +260,5 @@
 - pkg:maven/org.rocksdb/rocksdbjni@9.3.1?classifier=sources
 - pkg:maven/org.rocksdb/rocksdbjni@9.4.0
 - pkg:maven/org.rocksdb/rocksdbjni@9.4.0?classifier=sources
+- pkg:maven/org.rocksdb/rocksdbjni@9.5.2
+- pkg:maven/org.rocksdb/rocksdbjni@9.5.2?classifier=sources

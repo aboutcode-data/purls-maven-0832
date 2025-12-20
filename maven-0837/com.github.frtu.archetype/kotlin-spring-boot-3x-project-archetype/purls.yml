@@ -1,0 +1,2 @@
+- pkg:maven/com.github.frtu.archetype/kotlin-spring-boot-3x-project-archetype@2.0.0
+- pkg:maven/com.github.frtu.archetype/kotlin-spring-boot-3x-project-archetype@2.0.0?classifier=sources

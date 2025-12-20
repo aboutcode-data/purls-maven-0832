@@ -58,3 +58,5 @@
 - pkg:maven/org.keycloak/keycloak-model-legacy-private@23.0.6?classifier=sources
 - pkg:maven/org.keycloak/keycloak-model-legacy-private@23.0.7
 - pkg:maven/org.keycloak/keycloak-model-legacy-private@23.0.7?classifier=sources
+- pkg:maven/org.keycloak/keycloak-model-legacy-private@25.0.3
+- pkg:maven/org.keycloak/keycloak-model-legacy-private@25.0.3?classifier=sources

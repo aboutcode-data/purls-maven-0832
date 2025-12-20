@@ -6,3 +6,4 @@
 - pkg:maven/au.com.integradev.samples/delphi-custom-rules-example@1.5.0?classifier=sources
 - pkg:maven/au.com.integradev.samples/delphi-custom-rules-example@1.6.0?classifier=sources
 - pkg:maven/au.com.integradev.samples/delphi-custom-rules-example@1.7.0?classifier=sources
+- pkg:maven/au.com.integradev.samples/delphi-custom-rules-example@1.8.0?classifier=sources

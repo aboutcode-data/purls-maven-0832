@@ -4,3 +4,5 @@
 - pkg:maven/com.mizhousoft.bmc/bmc-generic-service@1.6.0?classifier=sources
 - pkg:maven/com.mizhousoft.bmc/bmc-generic-service@1.7.0
 - pkg:maven/com.mizhousoft.bmc/bmc-generic-service@1.7.0?classifier=sources
+- pkg:maven/com.mizhousoft.bmc/bmc-generic-service@2.0.0
+- pkg:maven/com.mizhousoft.bmc/bmc-generic-service@2.0.0?classifier=sources

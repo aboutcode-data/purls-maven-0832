@@ -1,0 +1,7 @@
+- pkg:maven/io.airlift/secrets-spi@255
+- pkg:maven/io.airlift/secrets-spi@255?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@256?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@257?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@258?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@259?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@260?classifier=sources

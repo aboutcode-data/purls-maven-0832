@@ -134,3 +134,7 @@
 - pkg:maven/io.avaje/avaje-http-client-generator@2.6?classifier=sources
 - pkg:maven/io.avaje/avaje-http-client-generator@2.7
 - pkg:maven/io.avaje/avaje-http-client-generator@2.7?classifier=sources
+- pkg:maven/io.avaje/avaje-http-client-generator@2.8-RC1
+- pkg:maven/io.avaje/avaje-http-client-generator@2.8-RC1?classifier=sources
+- pkg:maven/io.avaje/avaje-http-client-generator@2.8-RC2
+- pkg:maven/io.avaje/avaje-http-client-generator@2.8-RC2?classifier=sources

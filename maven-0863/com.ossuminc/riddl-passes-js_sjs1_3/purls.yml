@@ -1,0 +1,4 @@
+- pkg:maven/com.ossuminc/riddl-passes-js_sjs1_3@0.48.0
+- pkg:maven/com.ossuminc/riddl-passes-js_sjs1_3@0.48.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-passes-js_sjs1_3@0.48.1
+- pkg:maven/com.ossuminc/riddl-passes-js_sjs1_3@0.48.1?classifier=sources

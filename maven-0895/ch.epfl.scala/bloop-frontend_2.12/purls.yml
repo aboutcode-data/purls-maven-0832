@@ -1068,6 +1068,10 @@
 - pkg:maven/ch.epfl.scala/bloop-frontend_2.12@121807cc?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-frontend_2.12@187b7ca0
 - pkg:maven/ch.epfl.scala/bloop-frontend_2.12@187b7ca0?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-frontend_2.12@2.0.0
+- pkg:maven/ch.epfl.scala/bloop-frontend_2.12@2.0.0-RC1
+- pkg:maven/ch.epfl.scala/bloop-frontend_2.12@2.0.0-RC1?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-frontend_2.12@2.0.0?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-frontend_2.12@211-e837f78e
 - pkg:maven/ch.epfl.scala/bloop-frontend_2.12@211-e837f78e?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-frontend_2.12@217-c2115241

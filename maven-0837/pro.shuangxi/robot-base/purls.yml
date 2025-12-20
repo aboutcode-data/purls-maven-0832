@@ -2,5 +2,11 @@
 - pkg:maven/pro.shuangxi/robot-base@1.0.0?classifier=sources
 - pkg:maven/pro.shuangxi/robot-base@1.0.1
 - pkg:maven/pro.shuangxi/robot-base@1.0.1?classifier=sources
+- pkg:maven/pro.shuangxi/robot-base@1.0.4
+- pkg:maven/pro.shuangxi/robot-base@1.0.4?classifier=sources
+- pkg:maven/pro.shuangxi/robot-base@1.0.5
+- pkg:maven/pro.shuangxi/robot-base@1.0.5?classifier=sources
+- pkg:maven/pro.shuangxi/robot-base@1.0.6
+- pkg:maven/pro.shuangxi/robot-base@1.0.6?classifier=sources
 - pkg:maven/pro.shuangxi/robot-base@1.2.0
 - pkg:maven/pro.shuangxi/robot-base@1.2.0?classifier=sources

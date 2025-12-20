@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0-alpha-8
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0-alpha-8?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.1
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.1?classifier=sources

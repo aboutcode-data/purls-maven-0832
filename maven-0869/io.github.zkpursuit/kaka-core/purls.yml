@@ -49,4 +49,6 @@
 - pkg:maven/io.github.zkpursuit/kaka-core@5.9.7?classifier=sources
 - pkg:maven/io.github.zkpursuit/kaka-core@5.9.8
 - pkg:maven/io.github.zkpursuit/kaka-core@5.9.8?classifier=sources
+- pkg:maven/io.github.zkpursuit/kaka-core@5.9.9
+- pkg:maven/io.github.zkpursuit/kaka-core@5.9.9?classifier=sources
 - pkg:maven/io.github.zkpursuit/kaka-core@5.9?classifier=sources

@@ -6,6 +6,12 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.1035?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.1059
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.1059?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.1060
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.1060?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.1064
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.1064?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.1066
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.1066?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.197
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.197?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-oceanus@3.1.198

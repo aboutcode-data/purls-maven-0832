@@ -24,6 +24,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.21?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.22
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.22?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.23
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.23?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.7
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.8
@@ -56,6 +58,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.21?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.22
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.22?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.23
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.23?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.7
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.8

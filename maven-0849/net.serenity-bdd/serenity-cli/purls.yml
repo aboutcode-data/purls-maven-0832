@@ -310,3 +310,5 @@
 - pkg:maven/net.serenity-bdd/serenity-cli@4.1.8?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cli@4.1.9
 - pkg:maven/net.serenity-bdd/serenity-cli@4.1.9?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cli@4.2.0
+- pkg:maven/net.serenity-bdd/serenity-cli@4.2.0?classifier=sources

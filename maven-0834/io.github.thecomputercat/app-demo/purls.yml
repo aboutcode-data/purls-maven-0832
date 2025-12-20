@@ -1,0 +1,2 @@
+- pkg:maven/io.github.thecomputercat/app-demo@1.0
+- pkg:maven/io.github.thecomputercat/app-demo@1.0?classifier=sources

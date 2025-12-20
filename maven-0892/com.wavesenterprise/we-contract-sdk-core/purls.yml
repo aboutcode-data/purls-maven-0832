@@ -7,3 +7,4 @@
 - pkg:maven/com.wavesenterprise/we-contract-sdk-core@1.3.2?classifier=sources
 - pkg:maven/com.wavesenterprise/we-contract-sdk-core@1.3.3?classifier=sources
 - pkg:maven/com.wavesenterprise/we-contract-sdk-core@1.3.4?classifier=sources
+- pkg:maven/com.wavesenterprise/we-contract-sdk-core@2.0.0?classifier=sources

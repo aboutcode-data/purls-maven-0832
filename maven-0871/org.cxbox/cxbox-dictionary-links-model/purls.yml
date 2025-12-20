@@ -8,3 +8,5 @@
 - pkg:maven/org.cxbox/cxbox-dictionary-links-model@4.0.0-M3?classifier=sources
 - pkg:maven/org.cxbox/cxbox-dictionary-links-model@4.0.0-M4
 - pkg:maven/org.cxbox/cxbox-dictionary-links-model@4.0.0-M4?classifier=sources
+- pkg:maven/org.cxbox/cxbox-dictionary-links-model@4.0.0-M5
+- pkg:maven/org.cxbox/cxbox-dictionary-links-model@4.0.0-M5?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/com.danrusu.pods4k.immutable-arrays/transformations-to-standard-collections@0.1.0?classifier=sources
+- pkg:maven/com.danrusu.pods4k.immutable-arrays/transformations-to-standard-collections@0.2.0?classifier=sources
+- pkg:maven/com.danrusu.pods4k.immutable-arrays/transformations-to-standard-collections@0.3.0?classifier=sources
+- pkg:maven/com.danrusu.pods4k.immutable-arrays/transformations-to-standard-collections@0.4.0?classifier=sources

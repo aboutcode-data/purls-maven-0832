@@ -1,0 +1,4 @@
+- pkg:maven/com.noumenadigital.platform/api-postprocessor@2024.1.9
+- pkg:maven/com.noumenadigital.platform/api-postprocessor@2024.1.9?classifier=sources
+- pkg:maven/com.noumenadigital.platform/api-postprocessor@2024.2.0
+- pkg:maven/com.noumenadigital.platform/api-postprocessor@2024.2.0?classifier=sources

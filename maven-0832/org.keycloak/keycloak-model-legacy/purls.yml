@@ -70,3 +70,5 @@
 - pkg:maven/org.keycloak/keycloak-model-legacy@24.0.4?classifier=sources
 - pkg:maven/org.keycloak/keycloak-model-legacy@24.0.5
 - pkg:maven/org.keycloak/keycloak-model-legacy@24.0.5?classifier=sources
+- pkg:maven/org.keycloak/keycloak-model-legacy@25.0.3
+- pkg:maven/org.keycloak/keycloak-model-legacy@25.0.3?classifier=sources

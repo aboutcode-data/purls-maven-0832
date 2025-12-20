@@ -1,1 +1,6 @@
 - pkg:maven/com.ritense.valtimo/openzaak-plugin-authentication@12.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak-plugin-authentication@12.0.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak-plugin-authentication@12.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak-plugin-authentication@12.1.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak-plugin-authentication@12.1.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak-plugin-authentication@12.2.0.RELEASE?classifier=sources

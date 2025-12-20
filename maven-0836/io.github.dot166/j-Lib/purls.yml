@@ -1,0 +1,5 @@
+- pkg:maven/io.github.dot166/j-Lib@3.2.10?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@3.2.6?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@3.2.7?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@3.2.8?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@3.2.9?classifier=sources

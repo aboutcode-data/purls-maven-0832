@@ -122,6 +122,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.lang@3.0.24?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.lang@3.0.25?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.lang@3.0.26?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.lang@3.0.27?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.lang@3.0.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.lang@3.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.lang@3.0.9?classifier=sources-commercial

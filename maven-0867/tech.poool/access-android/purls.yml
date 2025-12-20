@@ -1,0 +1,2 @@
+- pkg:maven/tech.poool/access-android@1.0.0?classifier=sources
+- pkg:maven/tech.poool/access-android@1.0.1?classifier=sources

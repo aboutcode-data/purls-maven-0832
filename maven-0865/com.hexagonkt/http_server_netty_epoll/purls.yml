@@ -92,3 +92,9 @@
 - pkg:maven/com.hexagonkt/http_server_netty_epoll@3.5.2?classifier=sources
 - pkg:maven/com.hexagonkt/http_server_netty_epoll@3.5.3?classifier=sources
 - pkg:maven/com.hexagonkt/http_server_netty_epoll@3.6.0?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_netty_epoll@3.6.1?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_netty_epoll@3.6.2?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_netty_epoll@3.6.3?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_netty_epoll@3.6.4?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_netty_epoll@3.6.5?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_netty_epoll@3.6.6?classifier=sources

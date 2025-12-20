@@ -146,6 +146,10 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.37.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.38.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.38.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.39.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.39.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.40.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.40.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.7.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.7.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@3.7.1
@@ -521,6 +525,8 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.12.10?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.12.11
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.12.11?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.12.12
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.12.12?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.12.1?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.12.2
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.12.2?classifier=sources
@@ -564,6 +570,8 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.20.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.21.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.21.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.22.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.22.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.3.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.3.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-zuul@6.3.1

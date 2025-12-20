@@ -66,3 +66,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-build-v2@3.47.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-build-v2@3.48.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-build-v2@3.48.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-build-v2@3.49.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-build-v2@3.49.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-build-v2@3.50.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-build-v2@3.50.0?classifier=sources

@@ -70,3 +70,5 @@
 - pkg:maven/io.rollout.rox/rox-java-server@5.0.8?classifier=sources
 - pkg:maven/io.rollout.rox/rox-java-server@5.0.9
 - pkg:maven/io.rollout.rox/rox-java-server@5.0.9?classifier=sources
+- pkg:maven/io.rollout.rox/rox-java-server@6.0.0
+- pkg:maven/io.rollout.rox/rox-java-server@6.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.kaizen-solutions/fs2-kafka-jsonschema_3@0.0.1
+- pkg:maven/io.kaizen-solutions/fs2-kafka-jsonschema_3@0.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/tech.kage.event/tech.kage.event@1.0.0?classifier=sources
+- pkg:maven/tech.kage.event/tech.kage.event@1.1.0?classifier=sources

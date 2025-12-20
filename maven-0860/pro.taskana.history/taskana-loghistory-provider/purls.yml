@@ -92,9 +92,13 @@
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@7.0.0?classifier=sources
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@7.1.0
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@7.1.0?classifier=sources
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@7.2.0
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@7.2.0?classifier=sources
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@8.0.0
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@8.0.0?classifier=sources
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@8.0.1
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@8.0.1?classifier=sources
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@8.1.0
 - pkg:maven/pro.taskana.history/taskana-loghistory-provider@8.1.0?classifier=sources
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@8.2.0
+- pkg:maven/pro.taskana.history/taskana-loghistory-provider@8.2.0?classifier=sources

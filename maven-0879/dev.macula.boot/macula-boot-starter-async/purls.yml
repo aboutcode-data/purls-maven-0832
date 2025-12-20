@@ -1,0 +1,2 @@
+- pkg:maven/dev.macula.boot/macula-boot-starter-async@5.0.12
+- pkg:maven/dev.macula.boot/macula-boot-starter-async@5.0.12?classifier=sources

@@ -66,6 +66,12 @@
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.22
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.23
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.24
+- pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.25
+- pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.26
+- pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.27
+- pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.28
+- pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.30
+- pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.31
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.5
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.6
 - pkg:maven/io.github.giovannilamarmora.utils/utils-code@1.0.7

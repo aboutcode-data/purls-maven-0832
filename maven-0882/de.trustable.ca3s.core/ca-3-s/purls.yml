@@ -114,3 +114,16 @@
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.6?classifier=sources
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7a
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7a?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7b
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7b?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7c?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7d
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7d?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7e
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7e?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7f
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7f?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7g
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7g?classifier=sources

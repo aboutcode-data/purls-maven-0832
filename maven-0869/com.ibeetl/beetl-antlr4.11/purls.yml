@@ -14,3 +14,4 @@
 - pkg:maven/com.ibeetl/beetl-antlr4.11@3.16.0.RELEASE
 - pkg:maven/com.ibeetl/beetl-antlr4.11@3.16.1.RELEASE
 - pkg:maven/com.ibeetl/beetl-antlr4.11@3.16.2.RELEASE
+- pkg:maven/com.ibeetl/beetl-antlr4.11@3.17.0.RELEASE

@@ -1,0 +1,2 @@
+- pkg:maven/com.taobao.arthas/arthas-grpc-web-proxy@4.0.0
+- pkg:maven/com.taobao.arthas/arthas-grpc-web-proxy@4.0.0?classifier=sources

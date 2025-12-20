@@ -1,0 +1,2 @@
+- pkg:maven/dev.mccue/flake@2024.08.19?classifier=sources
+- pkg:maven/dev.mccue/flake@2024.08.21?classifier=sources

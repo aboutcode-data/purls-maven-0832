@@ -110,3 +110,5 @@
 - pkg:maven/org.scodec/scodec-testkit_3@2.2.2?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_3@2.3.0
 - pkg:maven/org.scodec/scodec-testkit_3@2.3.0?classifier=sources
+- pkg:maven/org.scodec/scodec-testkit_3@2.3.1
+- pkg:maven/org.scodec/scodec-testkit_3@2.3.1?classifier=sources

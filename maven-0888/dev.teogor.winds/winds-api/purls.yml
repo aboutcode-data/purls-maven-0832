@@ -8,3 +8,4 @@
 - pkg:maven/dev.teogor.winds/winds-api@1.0.0-beta04?classifier=sources
 - pkg:maven/dev.teogor.winds/winds-api@1.0.0?classifier=sources
 - pkg:maven/dev.teogor.winds/winds-api@1.0.1?classifier=sources
+- pkg:maven/dev.teogor.winds/winds-api@1.0.2?classifier=sources

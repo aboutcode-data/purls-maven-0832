@@ -40,3 +40,5 @@
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-api@3.0.6?classifier=sources
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-api@3.0.7
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-api@3.0.7?classifier=sources
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-api@4.0.0
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-api@4.0.0?classifier=sources

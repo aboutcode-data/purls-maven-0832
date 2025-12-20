@@ -128,3 +128,5 @@
 - pkg:maven/org.openapitools/openapi-generator@7.6.0?classifier=sources
 - pkg:maven/org.openapitools/openapi-generator@7.7.0
 - pkg:maven/org.openapitools/openapi-generator@7.7.0?classifier=sources
+- pkg:maven/org.openapitools/openapi-generator@7.8.0
+- pkg:maven/org.openapitools/openapi-generator@7.8.0?classifier=sources

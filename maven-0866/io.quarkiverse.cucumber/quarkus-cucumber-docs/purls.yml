@@ -1,3 +1,4 @@
 - pkg:maven/io.quarkiverse.cucumber/quarkus-cucumber-docs@0.5.0
 - pkg:maven/io.quarkiverse.cucumber/quarkus-cucumber-docs@0.6.0
 - pkg:maven/io.quarkiverse.cucumber/quarkus-cucumber-docs@1.0.0
+- pkg:maven/io.quarkiverse.cucumber/quarkus-cucumber-docs@1.1.0

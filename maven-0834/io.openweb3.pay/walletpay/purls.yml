@@ -1,1 +1,2 @@
 - pkg:maven/io.openweb3.pay/walletpay@0.1.0?classifier=sources
+- pkg:maven/io.openweb3.pay/walletpay@0.1.1?classifier=sources

@@ -13,3 +13,7 @@
 - pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.1.7?classifier=sources
 - pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.1.8?classifier=sources
 - pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.1.9?classifier=sources
+- pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.6.7?classifier=sources
+- pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.6.8?classifier=sources
+- pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.7.0?classifier=sources
+- pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.7.1?classifier=sources

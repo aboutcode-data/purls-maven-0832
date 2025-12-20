@@ -3,3 +3,5 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-appnext@2.7.3.473.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-appnext@2.7.5.473.1?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-appnext@2.7.5.473.2?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-appnext@2.7.6.473.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-appnext@2.7.6.473.1?classifier=sources

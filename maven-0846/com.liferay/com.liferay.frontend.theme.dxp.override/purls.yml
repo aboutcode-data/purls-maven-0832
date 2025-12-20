@@ -146,6 +146,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@3.0.29
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@3.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@3.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@3.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@3.0.7
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@3.0.7?classifier=sources-commercial
@@ -297,9 +298,11 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.6
+- pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dxp.override@4.0.7

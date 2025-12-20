@@ -1,0 +1,1 @@
+- pkg:maven/io.spinnaker.gate/gate-integration@6.63.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/au.csiro.fhir/bulk-export@0.1.0-alpha
+- pkg:maven/au.csiro.fhir/bulk-export@0.1.0-alpha?classifier=sources
+- pkg:maven/au.csiro.fhir/bulk-export@1.0.0
+- pkg:maven/au.csiro.fhir/bulk-export@1.0.0?classifier=sources

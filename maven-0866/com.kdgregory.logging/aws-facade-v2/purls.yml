@@ -4,3 +4,4 @@
 - pkg:maven/com.kdgregory.logging/aws-facade-v2@3.1.1?classifier=sources
 - pkg:maven/com.kdgregory.logging/aws-facade-v2@3.1.2?classifier=sources
 - pkg:maven/com.kdgregory.logging/aws-facade-v2@3.2.0?classifier=sources
+- pkg:maven/com.kdgregory.logging/aws-facade-v2@3.2.1?classifier=sources

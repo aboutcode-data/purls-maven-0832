@@ -2,3 +2,4 @@
 - pkg:maven/org.sdk-fabric/airtable@0.3.0?classifier=sources
 - pkg:maven/org.sdk-fabric/airtable@0.3.1?classifier=sources
 - pkg:maven/org.sdk-fabric/airtable@0.4.0?classifier=sources
+- pkg:maven/org.sdk-fabric/airtable@0.4.1?classifier=sources

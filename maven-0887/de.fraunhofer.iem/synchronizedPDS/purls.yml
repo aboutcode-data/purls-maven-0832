@@ -1,4 +1,6 @@
 - pkg:maven/de.fraunhofer.iem/synchronizedPDS@2.5.1
 - pkg:maven/de.fraunhofer.iem/synchronizedPDS@2.5.1?classifier=sources
 - pkg:maven/de.fraunhofer.iem/synchronizedPDS@3.1.2
+- pkg:maven/de.fraunhofer.iem/synchronizedPDS@3.1.2-Sparse
+- pkg:maven/de.fraunhofer.iem/synchronizedPDS@3.1.2-Sparse?classifier=sources
 - pkg:maven/de.fraunhofer.iem/synchronizedPDS@3.1.2?classifier=sources

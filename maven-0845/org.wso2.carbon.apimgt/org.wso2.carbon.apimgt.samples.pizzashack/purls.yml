@@ -5304,6 +5304,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.pizzashack@9.29.17?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.pizzashack@9.29.18?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.pizzashack@9.29.18?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.pizzashack@9.29.193?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.pizzashack@9.29.193?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.pizzashack@9.29.19?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.pizzashack@9.29.19?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.pizzashack@9.29.20?classifier=sources

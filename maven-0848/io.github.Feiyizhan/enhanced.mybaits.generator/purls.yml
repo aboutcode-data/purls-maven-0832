@@ -14,3 +14,5 @@
 - pkg:maven/io.github.Feiyizhan/enhanced.mybaits.generator@1.1.2?classifier=sources
 - pkg:maven/io.github.Feiyizhan/enhanced.mybaits.generator@2.0.0
 - pkg:maven/io.github.Feiyizhan/enhanced.mybaits.generator@2.0.0?classifier=sources
+- pkg:maven/io.github.Feiyizhan/enhanced.mybaits.generator@3.0.1
+- pkg:maven/io.github.Feiyizhan/enhanced.mybaits.generator@3.0.1?classifier=sources

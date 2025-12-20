@@ -7,3 +7,6 @@
 - pkg:maven/com.tencent.timpush/xiaomi@7.9.5668?classifier=sources
 - pkg:maven/com.tencent.timpush/xiaomi@8.0.6896?classifier=sources
 - pkg:maven/com.tencent.timpush/xiaomi@8.0.6897?classifier=sources
+- pkg:maven/com.tencent.timpush/xiaomi@8.1.6103?classifier=sources
+- pkg:maven/com.tencent.timpush/xiaomi@8.1.6107?classifier=sources
+- pkg:maven/com.tencent.timpush/xiaomi@8.1.6902?classifier=sources

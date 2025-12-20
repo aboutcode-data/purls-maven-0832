@@ -7,3 +7,4 @@
 - pkg:maven/com.scalar-labs/scalardb-cluster-common@3.12.2?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-cluster-common@3.12.3?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-cluster-common@3.13.0?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-cluster-common@3.14.0-alpha.1?classifier=sources

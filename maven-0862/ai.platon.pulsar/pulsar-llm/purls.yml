@@ -1,0 +1,4 @@
+- pkg:maven/ai.platon.pulsar/pulsar-llm@1.13.1
+- pkg:maven/ai.platon.pulsar/pulsar-llm@1.13.1?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-llm@1.13.2
+- pkg:maven/ai.platon.pulsar/pulsar-llm@1.13.2?classifier=sources

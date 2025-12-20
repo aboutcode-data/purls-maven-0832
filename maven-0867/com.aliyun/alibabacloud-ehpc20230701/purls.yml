@@ -14,3 +14,5 @@
 - pkg:maven/com.aliyun/alibabacloud-ehpc20230701@3.0.0?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ehpc20230701@4.0.0
 - pkg:maven/com.aliyun/alibabacloud-ehpc20230701@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ehpc20230701@4.0.1
+- pkg:maven/com.aliyun/alibabacloud-ehpc20230701@4.0.1?classifier=sources

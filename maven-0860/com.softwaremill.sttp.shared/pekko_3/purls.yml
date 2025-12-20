@@ -6,3 +6,5 @@
 - pkg:maven/com.softwaremill.sttp.shared/pekko_3@1.3.18?classifier=sources
 - pkg:maven/com.softwaremill.sttp.shared/pekko_3@1.3.19
 - pkg:maven/com.softwaremill.sttp.shared/pekko_3@1.3.19?classifier=sources
+- pkg:maven/com.softwaremill.sttp.shared/pekko_3@1.3.20
+- pkg:maven/com.softwaremill.sttp.shared/pekko_3@1.3.20?classifier=sources

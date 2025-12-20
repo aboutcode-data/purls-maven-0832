@@ -4,3 +4,5 @@
 - pkg:maven/io.kroxylicious/kroxylicious-record-encryption@0.5.1?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-record-encryption@0.6.0
 - pkg:maven/io.kroxylicious/kroxylicious-record-encryption@0.6.0?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-record-encryption@0.7.0
+- pkg:maven/io.kroxylicious/kroxylicious-record-encryption@0.7.0?classifier=sources

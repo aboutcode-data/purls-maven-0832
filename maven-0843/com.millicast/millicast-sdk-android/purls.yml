@@ -22,7 +22,15 @@
 - pkg:maven/com.millicast/millicast-sdk-android@1.8.3?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android@1.8.4?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android@1.8.5?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android@1.8.7?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android@1.8.8?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android@1.8.9-beta.1?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android@1.8.9-beta.2?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android@2.0.0-beta.1?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android@2.0.0-beta.2?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android@2.0.0-beta.3?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android@2.0.0-beta.4?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android@2.0.0-beta.5?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android@2.0.0-beta.6?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android@2.0.0-beta.7?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android@2.0.0?classifier=sources

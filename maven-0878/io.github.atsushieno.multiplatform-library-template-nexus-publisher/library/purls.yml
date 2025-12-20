@@ -1,1 +1,2 @@
 - pkg:maven/io.github.atsushieno.multiplatform-library-template-nexus-publisher/library@0.0.1?classifier=sources
+- pkg:maven/io.github.atsushieno.multiplatform-library-template-nexus-publisher/library@0.0.2?classifier=sources

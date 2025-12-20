@@ -84,3 +84,5 @@
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@6.2.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@6.2.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@6.2.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@6.2.3?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-core@6.2.4?classifier=sources

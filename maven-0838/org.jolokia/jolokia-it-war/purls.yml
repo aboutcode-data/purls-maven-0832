@@ -80,3 +80,5 @@
 - pkg:maven/org.jolokia/jolokia-it-war@2.0.2?type=war
 - pkg:maven/org.jolokia/jolokia-it-war@2.0.3?classifier=sources
 - pkg:maven/org.jolokia/jolokia-it-war@2.0.3?type=war
+- pkg:maven/org.jolokia/jolokia-it-war@2.1.0?classifier=sources
+- pkg:maven/org.jolokia/jolokia-it-war@2.1.0?type=war

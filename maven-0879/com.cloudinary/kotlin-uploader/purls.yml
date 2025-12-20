@@ -1,5 +1,6 @@
 - pkg:maven/com.cloudinary/kotlin-uploader@0.0.1-alpha.1
 - pkg:maven/com.cloudinary/kotlin-uploader@0.0.1-alpha.1?classifier=sources
+- pkg:maven/com.cloudinary/kotlin-uploader@1.10.0?classifier=sources
 - pkg:maven/com.cloudinary/kotlin-uploader@1.4.0?classifier=sources
 - pkg:maven/com.cloudinary/kotlin-uploader@1.5.0?classifier=sources
 - pkg:maven/com.cloudinary/kotlin-uploader@1.5.1?classifier=sources

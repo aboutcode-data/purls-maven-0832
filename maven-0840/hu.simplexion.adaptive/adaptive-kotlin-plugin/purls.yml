@@ -1,1 +1,2 @@
 - pkg:maven/hu.simplexion.adaptive/adaptive-kotlin-plugin@2024.05.02?classifier=sources
+- pkg:maven/hu.simplexion.adaptive/adaptive-kotlin-plugin@2024.07.19?classifier=sources

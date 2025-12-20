@@ -126,7 +126,13 @@
 - pkg:maven/ai.chronon/spark_uber_2.12@0.0.75?classifier=sources
 - pkg:maven/ai.chronon/spark_uber_2.12@0.0.76
 - pkg:maven/ai.chronon/spark_uber_2.12@0.0.76?classifier=sources
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.77
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.77?classifier=sources
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.78
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.78?classifier=sources
 - pkg:maven/ai.chronon/spark_uber_2.12@0.0.8
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.80
+- pkg:maven/ai.chronon/spark_uber_2.12@0.0.80?classifier=sources
 - pkg:maven/ai.chronon/spark_uber_2.12@0.0.8?classifier=sources
 - pkg:maven/ai.chronon/spark_uber_2.12@13_publish-0.0.12
 - pkg:maven/ai.chronon/spark_uber_2.12@13_publish-0.0.12?classifier=sources

@@ -80,6 +80,8 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-metrics-query-services@2.39.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-metrics-query-services@2.39.1
 - pkg:maven/org.finos.legend.depot/legend-depot-metrics-query-services@2.39.1?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-metrics-query-services@2.40.0
+- pkg:maven/org.finos.legend.depot/legend-depot-metrics-query-services@2.40.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-metrics-query-services@2.6.0
 - pkg:maven/org.finos.legend.depot/legend-depot-metrics-query-services@2.6.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-metrics-query-services@2.6.1

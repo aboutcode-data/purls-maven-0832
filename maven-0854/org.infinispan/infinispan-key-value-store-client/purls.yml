@@ -266,5 +266,6 @@
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@15.0.4.Final
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@15.0.5.Final
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@15.0.6.Final
+- pkg:maven/org.infinispan/infinispan-key-value-store-client@15.0.7.Final
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@15.1.0.Dev01
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@15.1.0.Dev02

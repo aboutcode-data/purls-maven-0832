@@ -1,2 +1,5 @@
 - pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.18?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.19?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.21?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.22?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-kinesis@2.0.24?classifier=sources
