@@ -1,4 +1,5 @@
 - pkg:maven/org.bonitasoft.engine.data/bonita-business-data-client-resources@10.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.engine.data/bonita-business-data-client-resources@10.1.0?classifier=sources
 - pkg:maven/org.bonitasoft.engine.data/bonita-business-data-client-resources@7.15.0?classifier=sources
 - pkg:maven/org.bonitasoft.engine.data/bonita-business-data-client-resources@8.0.0?classifier=sources
 - pkg:maven/org.bonitasoft.engine.data/bonita-business-data-client-resources@9.0.0?classifier=sources

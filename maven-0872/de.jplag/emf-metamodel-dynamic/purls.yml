@@ -8,3 +8,5 @@
 - pkg:maven/de.jplag/emf-metamodel-dynamic@4.3.0?classifier=sources
 - pkg:maven/de.jplag/emf-metamodel-dynamic@5.0.0
 - pkg:maven/de.jplag/emf-metamodel-dynamic@5.0.0?classifier=sources
+- pkg:maven/de.jplag/emf-metamodel-dynamic@5.1.0
+- pkg:maven/de.jplag/emf-metamodel-dynamic@5.1.0?classifier=sources

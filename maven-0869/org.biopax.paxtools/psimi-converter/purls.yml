@@ -14,3 +14,5 @@
 - pkg:maven/org.biopax.paxtools/psimi-converter@5.2.2?classifier=sources
 - pkg:maven/org.biopax.paxtools/psimi-converter@5.3.0
 - pkg:maven/org.biopax.paxtools/psimi-converter@5.3.0?classifier=sources
+- pkg:maven/org.biopax.paxtools/psimi-converter@6.0.0
+- pkg:maven/org.biopax.paxtools/psimi-converter@6.0.0?classifier=sources

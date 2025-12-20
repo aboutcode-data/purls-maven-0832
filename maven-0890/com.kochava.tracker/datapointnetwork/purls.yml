@@ -9,3 +9,5 @@
 - pkg:maven/com.kochava.tracker/datapointnetwork@5.2.0?classifier=sources
 - pkg:maven/com.kochava.tracker/datapointnetwork@5.3.0?classifier=sources
 - pkg:maven/com.kochava.tracker/datapointnetwork@5.4.0?classifier=sources
+- pkg:maven/com.kochava.tracker/datapointnetwork@5.5.0?classifier=sources
+- pkg:maven/com.kochava.tracker/datapointnetwork@5.5.1?classifier=sources

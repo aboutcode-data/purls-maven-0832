@@ -4,6 +4,10 @@
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.11?classifier=sources
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.12
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.12?classifier=sources
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.13
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.13?classifier=sources
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.14
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.14?classifier=sources
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.5
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.5?classifier=sources
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-transporter@3.0.6

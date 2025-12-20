@@ -1,1 +1,2 @@
 - pkg:maven/com.ioki.sentry.proguard/sentry-proguard-gradle-plugin@2.2.0?classifier=sources
+- pkg:maven/com.ioki.sentry.proguard/sentry-proguard-gradle-plugin@2.3.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/ru.astrainteractive.klibs/mikro-locale-tvosarm64@1.8.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/mikro-locale-tvosarm64@1.8.1?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/mikro-locale-tvosarm64@1.8.2?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/mikro-locale-tvosarm64@1.8.4?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/mikro-locale-tvosarm64@unspecified?classifier=sources

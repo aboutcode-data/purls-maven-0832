@@ -60,3 +60,5 @@
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.58?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.59
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.59?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.60
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.60?classifier=sources

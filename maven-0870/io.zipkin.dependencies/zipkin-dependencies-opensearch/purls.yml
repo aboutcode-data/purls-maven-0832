@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies-opensearch@3.2.0
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies-opensearch@3.2.0?classifier=sources

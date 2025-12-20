@@ -1,0 +1,2 @@
+- pkg:maven/io.percy/percy-playwright-java@1.0.0-beta-0
+- pkg:maven/io.percy/percy-playwright-java@1.0.0-beta-0?classifier=sources

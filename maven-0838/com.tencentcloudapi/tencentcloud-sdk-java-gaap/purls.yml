@@ -10,6 +10,8 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-gaap@1.1.6?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-gaap@3.1.1001
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-gaap@3.1.1001?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-gaap@3.1.1042
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-gaap@3.1.1042?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-gaap@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-gaap@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-gaap@3.1.180

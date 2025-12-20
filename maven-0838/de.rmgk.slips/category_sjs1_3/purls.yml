@@ -2,3 +2,5 @@
 - pkg:maven/de.rmgk.slips/category_sjs1_3@0.4.6?classifier=sources
 - pkg:maven/de.rmgk.slips/category_sjs1_3@0.4.7
 - pkg:maven/de.rmgk.slips/category_sjs1_3@0.4.7?classifier=sources
+- pkg:maven/de.rmgk.slips/category_sjs1_3@0.9.0
+- pkg:maven/de.rmgk.slips/category_sjs1_3@0.9.0?classifier=sources

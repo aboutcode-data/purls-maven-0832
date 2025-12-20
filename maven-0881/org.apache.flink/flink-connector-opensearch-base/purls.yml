@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.flink/flink-connector-opensearch-base@1.2.0-1.18
+- pkg:maven/org.apache.flink/flink-connector-opensearch-base@1.2.0-1.18?classifier=sources
+- pkg:maven/org.apache.flink/flink-connector-opensearch-base@1.2.0-1.19
+- pkg:maven/org.apache.flink/flink-connector-opensearch-base@1.2.0-1.19?classifier=sources
+- pkg:maven/org.apache.flink/flink-connector-opensearch-base@2.0.0-1.18
+- pkg:maven/org.apache.flink/flink-connector-opensearch-base@2.0.0-1.18?classifier=sources
+- pkg:maven/org.apache.flink/flink-connector-opensearch-base@2.0.0-1.19
+- pkg:maven/org.apache.flink/flink-connector-opensearch-base@2.0.0-1.19?classifier=sources

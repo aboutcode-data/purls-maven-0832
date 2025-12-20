@@ -1,0 +1,2 @@
+- pkg:maven/com.codacy/kamon-http4s-0.23_3@0.1.0
+- pkg:maven/com.codacy/kamon-http4s-0.23_3@0.1.0?classifier=sources

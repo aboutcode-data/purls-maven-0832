@@ -1,0 +1,2 @@
+- pkg:maven/net.siisise/softlib-asn1.module@1.0.3
+- pkg:maven/net.siisise/softlib-asn1.module@1.0.3?classifier=sources

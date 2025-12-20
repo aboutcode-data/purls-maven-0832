@@ -11,3 +11,4 @@
 - pkg:maven/dev.galasa/dev.galasa.zosfile.rseapi.manager@0.21.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.zosfile.rseapi.manager@0.25.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.zosfile.rseapi.manager@0.31.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.zosfile.rseapi.manager@0.34.0?classifier=sources

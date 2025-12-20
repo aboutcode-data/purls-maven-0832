@@ -50,3 +50,5 @@
 - pkg:maven/io.prometheus.jmx/collector@0.9?classifier=sources
 - pkg:maven/io.prometheus.jmx/collector@1.0.0
 - pkg:maven/io.prometheus.jmx/collector@1.0.0?classifier=sources
+- pkg:maven/io.prometheus.jmx/collector@1.0.1
+- pkg:maven/io.prometheus.jmx/collector@1.0.1?classifier=sources

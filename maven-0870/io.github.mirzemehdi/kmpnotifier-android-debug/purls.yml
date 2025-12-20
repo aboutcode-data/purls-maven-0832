@@ -9,3 +9,4 @@
 - pkg:maven/io.github.mirzemehdi/kmpnotifier-android-debug@0.4.0?classifier=sources
 - pkg:maven/io.github.mirzemehdi/kmpnotifier-android-debug@0.5.0?classifier=sources
 - pkg:maven/io.github.mirzemehdi/kmpnotifier-android-debug@0.6.0?classifier=sources
+- pkg:maven/io.github.mirzemehdi/kmpnotifier-android-debug@1.0.0?classifier=sources

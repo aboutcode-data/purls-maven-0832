@@ -32,3 +32,5 @@
 - pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@0.5.3?classifier=sources
 - pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@0.6.0
 - pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@0.6.0?classifier=sources
+- pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@0.7.0
+- pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@0.7.0?classifier=sources

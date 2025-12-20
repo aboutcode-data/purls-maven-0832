@@ -20,3 +20,4 @@
 - pkg:maven/com.github.tonivade/zeromock-api@0.8.0?classifier=sources
 - pkg:maven/com.github.tonivade/zeromock-api@0.9.0
 - pkg:maven/com.github.tonivade/zeromock-api@0.9.0?classifier=sources
+- pkg:maven/com.github.tonivade/zeromock-api@1.0?classifier=sources

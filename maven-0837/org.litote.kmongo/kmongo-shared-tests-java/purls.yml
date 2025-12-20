@@ -92,3 +92,5 @@
 - pkg:maven/org.litote.kmongo/kmongo-shared-tests-java@4.8.0?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-shared-tests-java@4.9.0
 - pkg:maven/org.litote.kmongo/kmongo-shared-tests-java@4.9.0?classifier=sources
+- pkg:maven/org.litote.kmongo/kmongo-shared-tests-java@5.1.0
+- pkg:maven/org.litote.kmongo/kmongo-shared-tests-java@5.1.0?classifier=sources

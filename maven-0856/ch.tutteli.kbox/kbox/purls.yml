@@ -4,3 +4,5 @@
 - pkg:maven/ch.tutteli.kbox/kbox@0.16.0?classifier=sources
 - pkg:maven/ch.tutteli.kbox/kbox@1.0.0?classifier=sources
 - pkg:maven/ch.tutteli.kbox/kbox@1.1.0?classifier=sources
+- pkg:maven/ch.tutteli.kbox/kbox@1.2.0?classifier=sources
+- pkg:maven/ch.tutteli.kbox/kbox@2.0.0?classifier=sources

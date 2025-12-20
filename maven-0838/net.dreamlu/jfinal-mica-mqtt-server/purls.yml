@@ -50,3 +50,5 @@
 - pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.2.8?classifier=sources
 - pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.2.9
 - pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.2.9?classifier=sources
+- pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.3.0
+- pkg:maven/net.dreamlu/jfinal-mica-mqtt-server@2.3.0?classifier=sources

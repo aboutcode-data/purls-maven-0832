@@ -76,3 +76,17 @@
 - pkg:maven/dev.vality/fistful-proto@1.168-6600be9?classifier=sources
 - pkg:maven/dev.vality/fistful-proto@1.169-0238425
 - pkg:maven/dev.vality/fistful-proto@1.169-0238425?classifier=sources
+- pkg:maven/dev.vality/fistful-proto@1.170-3aa8dfd
+- pkg:maven/dev.vality/fistful-proto@1.170-3aa8dfd?classifier=sources
+- pkg:maven/dev.vality/fistful-proto@1.171-9aa5d03
+- pkg:maven/dev.vality/fistful-proto@1.171-9aa5d03?classifier=sources
+- pkg:maven/dev.vality/fistful-proto@1.172-300d48b
+- pkg:maven/dev.vality/fistful-proto@1.172-300d48b?classifier=sources
+- pkg:maven/dev.vality/fistful-proto@1.173-1c28618
+- pkg:maven/dev.vality/fistful-proto@1.173-1c28618?classifier=sources
+- pkg:maven/dev.vality/fistful-proto@1.174-027b913
+- pkg:maven/dev.vality/fistful-proto@1.174-027b913?classifier=sources
+- pkg:maven/dev.vality/fistful-proto@1.175-986b789
+- pkg:maven/dev.vality/fistful-proto@1.175-986b789?classifier=sources
+- pkg:maven/dev.vality/fistful-proto@1.176-d18b463
+- pkg:maven/dev.vality/fistful-proto@1.176-d18b463?classifier=sources

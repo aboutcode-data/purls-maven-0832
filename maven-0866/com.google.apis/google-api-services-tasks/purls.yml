@@ -122,6 +122,8 @@
 - pkg:maven/com.google.apis/google-api-services-tasks@v1-rev20240324-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tasks@v1-rev20240423-2.0.0
 - pkg:maven/com.google.apis/google-api-services-tasks@v1-rev20240423-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tasks@v1-rev20240526-2.0.0
+- pkg:maven/com.google.apis/google-api-services-tasks@v1-rev20240526-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tasks@v1-rev23-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-tasks@v1-rev23-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tasks@v1-rev23-1.15.0-rc

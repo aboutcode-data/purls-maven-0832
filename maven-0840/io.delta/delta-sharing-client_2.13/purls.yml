@@ -10,3 +10,5 @@
 - pkg:maven/io.delta/delta-sharing-client_2.13@1.0.4?classifier=sources
 - pkg:maven/io.delta/delta-sharing-client_2.13@1.0.5
 - pkg:maven/io.delta/delta-sharing-client_2.13@1.0.5?classifier=sources
+- pkg:maven/io.delta/delta-sharing-client_2.13@1.1.0
+- pkg:maven/io.delta/delta-sharing-client_2.13@1.1.0?classifier=sources

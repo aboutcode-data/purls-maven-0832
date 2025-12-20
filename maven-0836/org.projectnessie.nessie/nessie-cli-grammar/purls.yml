@@ -1,3 +1,6 @@
 - pkg:maven/org.projectnessie.nessie/nessie-cli-grammar@0.83.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-cli-grammar@0.83.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-cli-grammar@0.83.2?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-cli-grammar@0.90.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-cli-grammar@0.90.2?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-cli-grammar@0.90.4?classifier=sources

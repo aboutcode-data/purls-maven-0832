@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-persistence@RELEASE90?classifier=sources

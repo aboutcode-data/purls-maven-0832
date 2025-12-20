@@ -29,6 +29,8 @@
 - pkg:maven/org.ossreviewtoolkit/evaluator@22.5.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@22.6.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@22.7.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/evaluator@22.8.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/evaluator@23.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@5.0.0?classifier=sources

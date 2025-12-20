@@ -1,2 +1,4 @@
 - pkg:maven/io.github.irgaly.kfswatch/kfswatch-js@0.9.0?classifier=sources
 - pkg:maven/io.github.irgaly.kfswatch/kfswatch-js@1.0.0?classifier=sources
+- pkg:maven/io.github.irgaly.kfswatch/kfswatch-js@1.1.0?classifier=sources
+- pkg:maven/io.github.irgaly.kfswatch/kfswatch-js@1.2.0?classifier=sources

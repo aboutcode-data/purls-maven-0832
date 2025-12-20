@@ -68,6 +68,10 @@
 - pkg:maven/travel.wink/booking@29.59.0?classifier=sources
 - pkg:maven/travel.wink/booking@29.61.2
 - pkg:maven/travel.wink/booking@29.61.2?classifier=sources
+- pkg:maven/travel.wink/booking@29.62.0
+- pkg:maven/travel.wink/booking@29.62.0?classifier=sources
+- pkg:maven/travel.wink/booking@29.62.1
+- pkg:maven/travel.wink/booking@29.62.1?classifier=sources
 - pkg:maven/travel.wink/booking@29.7.0
 - pkg:maven/travel.wink/booking@29.7.0?classifier=sources
 - pkg:maven/travel.wink/booking@29.8.0

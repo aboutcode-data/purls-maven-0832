@@ -222,3 +222,5 @@
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa@3.4.3?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa@3.5.0
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa@3.5.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa@3.5.1
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-xsuaa@3.5.1?classifier=sources

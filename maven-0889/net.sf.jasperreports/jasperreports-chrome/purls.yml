@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jasperreports/jasperreports-chrome@7.0.0
+- pkg:maven/net.sf.jasperreports/jasperreports-chrome@7.0.0?classifier=sources

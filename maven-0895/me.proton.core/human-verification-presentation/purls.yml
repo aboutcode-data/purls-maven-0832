@@ -92,6 +92,10 @@
 - pkg:maven/me.proton.core/human-verification-presentation@23.1.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification-presentation@23.2.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification-presentation@24.0.0?classifier=sources
+- pkg:maven/me.proton.core/human-verification-presentation@24.0.1?classifier=sources
+- pkg:maven/me.proton.core/human-verification-presentation@24.0.2?classifier=sources
+- pkg:maven/me.proton.core/human-verification-presentation@24.1.0?classifier=sources
+- pkg:maven/me.proton.core/human-verification-presentation@25.0.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification-presentation@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification-presentation@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification-presentation@4.1.0?classifier=sources

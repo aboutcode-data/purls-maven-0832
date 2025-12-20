@@ -1,1 +1,5 @@
 - pkg:maven/com.suisung.shopsuite/core@1.0.1?classifier=sources
+- pkg:maven/com.suisung.shopsuite/core@1.0.27901?classifier=sources
+- pkg:maven/com.suisung.shopsuite/core@1.0.27902?classifier=sources
+- pkg:maven/com.suisung.shopsuite/core@1.0.279?classifier=sources
+- pkg:maven/com.suisung.shopsuite/core@1.0.2?classifier=sources

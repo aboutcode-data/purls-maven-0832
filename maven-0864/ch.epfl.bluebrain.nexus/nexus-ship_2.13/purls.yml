@@ -2,6 +2,10 @@
 - pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M10?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M11
 - pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M11?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M12
+- pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M12?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M13
+- pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M13?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M6
 - pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M6?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/nexus-ship_2.13@1.10.0-M7

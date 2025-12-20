@@ -108,3 +108,5 @@
 - pkg:maven/io.github.solf/extra2@4.8.0?classifier=sources
 - pkg:maven/io.github.solf/extra2@5.0.0
 - pkg:maven/io.github.solf/extra2@5.0.0?classifier=sources
+- pkg:maven/io.github.solf/extra2@5.1.0
+- pkg:maven/io.github.solf/extra2@5.1.0?classifier=sources

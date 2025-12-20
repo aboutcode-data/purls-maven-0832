@@ -60,3 +60,4 @@
 - pkg:maven/ru.tinkoff.kora/common@1.0.9?classifier=sources
 - pkg:maven/ru.tinkoff.kora/common@1.1.0?classifier=sources
 - pkg:maven/ru.tinkoff.kora/common@1.1.1?classifier=sources
+- pkg:maven/ru.tinkoff.kora/common@1.1.2?classifier=sources

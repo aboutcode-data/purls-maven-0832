@@ -42,3 +42,5 @@
 - pkg:maven/net.dreamlu/mica-net-http@0.1.8?classifier=sources
 - pkg:maven/net.dreamlu/mica-net-http@0.1.9
 - pkg:maven/net.dreamlu/mica-net-http@0.1.9?classifier=sources
+- pkg:maven/net.dreamlu/mica-net-http@1.0.0
+- pkg:maven/net.dreamlu/mica-net-http@1.0.0?classifier=sources

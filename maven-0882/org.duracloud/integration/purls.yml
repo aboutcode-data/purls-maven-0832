@@ -57,3 +57,4 @@
 - pkg:maven/org.duracloud/integration@7.1.2
 - pkg:maven/org.duracloud/integration@7.1.4
 - pkg:maven/org.duracloud/integration@8.0.0
+- pkg:maven/org.duracloud/integration@8.1.0

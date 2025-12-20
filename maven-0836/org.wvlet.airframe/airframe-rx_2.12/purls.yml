@@ -300,3 +300,5 @@
 - pkg:maven/org.wvlet.airframe/airframe-rx_2.12@24.5.1?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-rx_2.12@24.5.2
 - pkg:maven/org.wvlet.airframe/airframe-rx_2.12@24.5.2?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-rx_2.12@24.6.0
+- pkg:maven/org.wvlet.airframe/airframe-rx_2.12@24.6.0?classifier=sources

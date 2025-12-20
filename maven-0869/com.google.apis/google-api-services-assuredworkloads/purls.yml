@@ -126,6 +126,12 @@
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20240422-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20240510-2.0.0
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20240510-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20240523-2.0.0
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20240523-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20240530-2.0.0
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20240530-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20240617-2.0.0
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1-rev20240617-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20200914-1.30.10
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20200914-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20200924-1.30.10
@@ -164,3 +170,9 @@
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20240422-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20240510-2.0.0
 - pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20240510-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20240523-2.0.0
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20240523-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20240530-2.0.0
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20240530-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20240617-2.0.0
+- pkg:maven/com.google.apis/google-api-services-assuredworkloads@v1beta1-rev20240617-2.0.0?classifier=sources

@@ -40,6 +40,8 @@
 - pkg:maven/com.aliyun/aliyun-gateway-pop@0.2.0-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-gateway-pop@0.2.1-beta
 - pkg:maven/com.aliyun/aliyun-gateway-pop@0.2.1-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-gateway-pop@0.2.10-beta
+- pkg:maven/com.aliyun/aliyun-gateway-pop@0.2.10-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-gateway-pop@0.2.2-beta
 - pkg:maven/com.aliyun/aliyun-gateway-pop@0.2.2-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-gateway-pop@0.2.3-beta

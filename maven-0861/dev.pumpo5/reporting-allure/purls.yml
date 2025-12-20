@@ -1,0 +1,6 @@
+- pkg:maven/dev.pumpo5/reporting-allure@0.8.39
+- pkg:maven/dev.pumpo5/reporting-allure@0.8.39?classifier=sources
+- pkg:maven/dev.pumpo5/reporting-allure@0.8.40
+- pkg:maven/dev.pumpo5/reporting-allure@0.8.40-SNAPSHOT-KAFKA-HEADER
+- pkg:maven/dev.pumpo5/reporting-allure@0.8.40-SNAPSHOT-KAFKA-HEADER?classifier=sources
+- pkg:maven/dev.pumpo5/reporting-allure@0.8.40?classifier=sources

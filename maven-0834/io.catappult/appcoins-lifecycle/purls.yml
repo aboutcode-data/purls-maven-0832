@@ -1,3 +1,4 @@
 - pkg:maven/io.catappult/appcoins-lifecycle@0.6.7.0?classifier=sources
 - pkg:maven/io.catappult/appcoins-lifecycle@0.6.7.2?classifier=sources
 - pkg:maven/io.catappult/appcoins-lifecycle@0.7.3.0?classifier=sources
+- pkg:maven/io.catappult/appcoins-lifecycle@0.7.4.0?classifier=sources

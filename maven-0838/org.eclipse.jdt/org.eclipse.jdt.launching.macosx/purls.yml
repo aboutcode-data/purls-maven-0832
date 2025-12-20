@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.macosx@3.6.100?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.macosx@3.6.200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.macosx@3.6.200?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.macosx@3.6.300
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.macosx@3.6.300?classifier=sources

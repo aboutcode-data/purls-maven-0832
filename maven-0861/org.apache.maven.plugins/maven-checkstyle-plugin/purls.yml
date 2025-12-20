@@ -86,3 +86,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@3.3.1
 - pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@3.3.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@3.3.1?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@3.4.0
+- pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@3.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-checkstyle-plugin@3.4.0?classifier=sources

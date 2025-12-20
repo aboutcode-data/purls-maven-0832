@@ -1227,12 +1227,14 @@
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.196?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.197?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.198?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.199?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.2
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.20
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.200?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.21

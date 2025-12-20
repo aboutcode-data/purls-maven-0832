@@ -1,0 +1,2 @@
+- pkg:maven/com.antgroup.tugraph/geaflow-store-cstore@0.5.0
+- pkg:maven/com.antgroup.tugraph/geaflow-store-cstore@0.5.0?classifier=sources

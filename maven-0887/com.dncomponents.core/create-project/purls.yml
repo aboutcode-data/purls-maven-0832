@@ -10,3 +10,4 @@
 - pkg:maven/com.dncomponents.core/create-project@2.5.1?classifier=sources
 - pkg:maven/com.dncomponents.core/create-project@2.5.2?classifier=sources
 - pkg:maven/com.dncomponents.core/create-project@3.0.0-alpha-1?classifier=sources
+- pkg:maven/com.dncomponents.core/create-project@3.0.0-alpha-2?classifier=sources

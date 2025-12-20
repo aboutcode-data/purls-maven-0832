@@ -1,3 +1,4 @@
 - pkg:maven/gov.nih.ncats/structure-indexer@0.0.13
 - pkg:maven/gov.nih.ncats/structure-indexer@0.0.13?classifier=sources
 - pkg:maven/gov.nih.ncats/structure-indexer@0.0.15?classifier=sources
+- pkg:maven/gov.nih.ncats/structure-indexer@0.0.16?classifier=sources

@@ -48,6 +48,7 @@
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@17102023.c1096fe
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@18102023.84f0299
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@19092023.1cc0f0f
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@20062024.78f779c
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@20122023.35f1ccf
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@21112023.261c569
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@22012024.35a6312
@@ -65,9 +66,11 @@
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@28072023.fc5b237
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@28092023.e64de8d
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@29012024.c41ed69
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@29052024.70b5a6a
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@29082023.7dd8a4e
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@29082023.b2627a2
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@29112023.5d51bfa
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@30052024.4e5ae30
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@30112023.85a0f5d
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@30112023.d5aedab
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@31012024.5b86c13

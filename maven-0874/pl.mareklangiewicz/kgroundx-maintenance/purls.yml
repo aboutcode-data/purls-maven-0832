@@ -36,3 +36,4 @@
 - pkg:maven/pl.mareklangiewicz/kgroundx-maintenance@0.0.55?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kgroundx-maintenance@0.0.56?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kgroundx-maintenance@0.0.57?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kgroundx-maintenance@0.0.58?classifier=sources

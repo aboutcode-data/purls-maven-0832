@@ -38,5 +38,7 @@
 - pkg:maven/com.gu/pan-domain-auth-play_2-8_2.12@3.0.3?classifier=sources
 - pkg:maven/com.gu/pan-domain-auth-play_2-8_2.12@3.1.0
 - pkg:maven/com.gu/pan-domain-auth-play_2-8_2.12@3.1.0?classifier=sources
+- pkg:maven/com.gu/pan-domain-auth-play_2-8_2.12@4.0.0
 - pkg:maven/com.gu/pan-domain-auth-play_2-8_2.12@4.0.0-PREVIEW.antest-auto-release.2024-04-17T0901.b30caa15
 - pkg:maven/com.gu/pan-domain-auth-play_2-8_2.12@4.0.0-PREVIEW.antest-auto-release.2024-04-17T0901.b30caa15?classifier=sources
+- pkg:maven/com.gu/pan-domain-auth-play_2-8_2.12@4.0.0?classifier=sources

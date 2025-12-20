@@ -1,3 +1,5 @@
+- pkg:maven/im.dart.boot/dart-open-wx@1.0.0.0-JDK1.8
+- pkg:maven/im.dart.boot/dart-open-wx@1.0.0.0-JDK1.8?classifier=sources
 - pkg:maven/im.dart.boot/dart-open-wx@1.0.0.3
 - pkg:maven/im.dart.boot/dart-open-wx@1.0.0.3?classifier=sources
 - pkg:maven/im.dart.boot/dart-open-wx@1.0.0.5

@@ -13,3 +13,7 @@
 - pkg:maven/com.xzwebx/HttpFilter@2.1.9-RELEASE?classifier=sources
 - pkg:maven/com.xzwebx/HttpFilter@2.2.3-RELEASE
 - pkg:maven/com.xzwebx/HttpFilter@2.2.3-RELEASE?classifier=sources
+- pkg:maven/com.xzwebx/HttpFilter@2.2.4-RELEASE
+- pkg:maven/com.xzwebx/HttpFilter@2.2.4-RELEASE?classifier=sources
+- pkg:maven/com.xzwebx/HttpFilter@2.2.5-RELEASE
+- pkg:maven/com.xzwebx/HttpFilter@2.2.5-RELEASE?classifier=sources

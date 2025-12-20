@@ -140,6 +140,10 @@
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@12.6.0.jre8?classifier=sources
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@12.6.1.jre11?classifier=sources
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@12.6.1.jre8?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@12.6.2.jre11?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@12.6.2.jre8?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@12.6.3.jre11?classifier=sources
+- pkg:maven/com.microsoft.sqlserver/mssql-jdbc@12.6.3.jre8?classifier=sources
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@12.7.0.jre11-preview?classifier=sources
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@12.7.0.jre8-preview?classifier=sources
 - pkg:maven/com.microsoft.sqlserver/mssql-jdbc@6.1.0.jre7

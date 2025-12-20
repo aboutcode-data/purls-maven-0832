@@ -3,3 +3,4 @@
 - pkg:maven/dev.assemblage/fcm-client@3.0.0?classifier=sources
 - pkg:maven/dev.assemblage/fcm-client@4.0.0?classifier=sources
 - pkg:maven/dev.assemblage/fcm-client@5.0.0?classifier=sources
+- pkg:maven/dev.assemblage/fcm-client@5.1.0?classifier=sources

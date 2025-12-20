@@ -13,3 +13,4 @@
 - pkg:maven/com.ensody.reactivestate/reactivestate-compose-watchosx64@5.5.7?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-compose-watchosx64@5.6.0?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-compose-watchosx64@5.7.0?classifier=sources
+- pkg:maven/com.ensody.reactivestate/reactivestate-compose-watchosx64@5.8.1?classifier=sources

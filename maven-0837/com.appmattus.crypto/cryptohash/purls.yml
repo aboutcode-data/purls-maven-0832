@@ -8,3 +8,4 @@
 - pkg:maven/com.appmattus.crypto/cryptohash@0.7.0?classifier=sources
 - pkg:maven/com.appmattus.crypto/cryptohash@0.8.0?classifier=sources
 - pkg:maven/com.appmattus.crypto/cryptohash@0.9.0?classifier=sources
+- pkg:maven/com.appmattus.crypto/cryptohash@1.0.2?classifier=sources

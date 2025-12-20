@@ -7,3 +7,4 @@
 - pkg:maven/io.github.koalaplot/koalaplot-core-iosx64@0.5.3?classifier=sources
 - pkg:maven/io.github.koalaplot/koalaplot-core-iosx64@0.5.4?classifier=sources
 - pkg:maven/io.github.koalaplot/koalaplot-core-iosx64@0.6.0?classifier=sources
+- pkg:maven/io.github.koalaplot/koalaplot-core-iosx64@0.6.1?classifier=sources

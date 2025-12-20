@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-web@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-web@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-web@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-projectimport-eclipse-web@RELEASE220?classifier=sources

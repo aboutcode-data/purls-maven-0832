@@ -1,0 +1,2 @@
+- pkg:maven/cn.dev8/http-client-starter@1.4
+- pkg:maven/cn.dev8/http-client-starter@1.4?classifier=sources

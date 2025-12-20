@@ -27,6 +27,9 @@
 - pkg:maven/community.flock.wirespec.compiler/lib@0.8.8?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/lib@0.8.9?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/lib@0.9.10?classifier=sources
+- pkg:maven/community.flock.wirespec.compiler/lib@0.9.15?classifier=sources
+- pkg:maven/community.flock.wirespec.compiler/lib@0.9.18?classifier=sources
+- pkg:maven/community.flock.wirespec.compiler/lib@0.9.19?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/lib@0.9.1?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/lib@0.9.2?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/lib@0.9.3?classifier=sources

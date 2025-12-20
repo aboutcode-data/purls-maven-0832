@@ -1,0 +1,2 @@
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-products-v1beta@0.1.0
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-products-v1beta@0.1.0?classifier=sources
