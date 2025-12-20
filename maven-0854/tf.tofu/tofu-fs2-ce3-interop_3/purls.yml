@@ -1,0 +1,6 @@
+- pkg:maven/tf.tofu/tofu-fs2-ce3-interop_3@0.13.0
+- pkg:maven/tf.tofu/tofu-fs2-ce3-interop_3@0.13.0?classifier=sources
+- pkg:maven/tf.tofu/tofu-fs2-ce3-interop_3@0.13.1
+- pkg:maven/tf.tofu/tofu-fs2-ce3-interop_3@0.13.1?classifier=sources
+- pkg:maven/tf.tofu/tofu-fs2-ce3-interop_3@0.13.2
+- pkg:maven/tf.tofu/tofu-fs2-ce3-interop_3@0.13.2?classifier=sources

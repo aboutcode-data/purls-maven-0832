@@ -14,3 +14,5 @@
 - pkg:maven/com.io7m.jbssio/com.io7m.jbssio.vanilla@1.1.1?classifier=sources
 - pkg:maven/com.io7m.jbssio/com.io7m.jbssio.vanilla@2.0.0
 - pkg:maven/com.io7m.jbssio/com.io7m.jbssio.vanilla@2.0.0?classifier=sources
+- pkg:maven/com.io7m.jbssio/com.io7m.jbssio.vanilla@2.1.0
+- pkg:maven/com.io7m.jbssio/com.io7m.jbssio.vanilla@2.1.0?classifier=sources

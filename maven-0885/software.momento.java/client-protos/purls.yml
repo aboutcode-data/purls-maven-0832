@@ -20,6 +20,9 @@
 - pkg:maven/software.momento.java/client-protos@0.109.0?classifier=sources
 - pkg:maven/software.momento.java/client-protos@0.110.0?classifier=sources
 - pkg:maven/software.momento.java/client-protos@0.110.1?classifier=sources
+- pkg:maven/software.momento.java/client-protos@0.110.2?classifier=sources
+- pkg:maven/software.momento.java/client-protos@0.111.0?classifier=sources
+- pkg:maven/software.momento.java/client-protos@0.111.1?classifier=sources
 - pkg:maven/software.momento.java/client-protos@0.54.0?classifier=sources
 - pkg:maven/software.momento.java/client-protos@0.54.1?classifier=sources
 - pkg:maven/software.momento.java/client-protos@0.54.2?classifier=sources

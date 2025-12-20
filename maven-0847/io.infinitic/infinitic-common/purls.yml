@@ -14,6 +14,7 @@
 - pkg:maven/io.infinitic/infinitic-common@0.12.3?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.13.0?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.13.1?classifier=sources
+- pkg:maven/io.infinitic/infinitic-common@0.13.2?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.2.0?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.2.1?classifier=sources
 - pkg:maven/io.infinitic/infinitic-common@0.3.0?classifier=sources

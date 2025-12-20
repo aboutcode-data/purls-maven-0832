@@ -1,0 +1,2 @@
+- pkg:maven/org.scijava/scijava-ops-opencv@1.0.0
+- pkg:maven/org.scijava/scijava-ops-opencv@1.0.0?classifier=sources

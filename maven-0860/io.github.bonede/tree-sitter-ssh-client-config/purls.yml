@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-ssh-client-config@2023.12.21?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-ssh-client-config@2024.5.9?classifier=sources

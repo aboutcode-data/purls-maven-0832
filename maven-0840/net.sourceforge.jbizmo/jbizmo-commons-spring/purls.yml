@@ -22,3 +22,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@7.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@8.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@8.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@9.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-spring@9.0.0?classifier=sources

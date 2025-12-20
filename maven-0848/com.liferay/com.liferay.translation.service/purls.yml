@@ -294,6 +294,8 @@
 - pkg:maven/com.liferay/com.liferay.translation.service@2.0.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.service@2.0.63?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.service@2.0.64?classifier=sources
+- pkg:maven/com.liferay/com.liferay.translation.service@2.0.65?classifier=sources
+- pkg:maven/com.liferay/com.liferay.translation.service@2.0.66?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.service@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.service@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.translation.service@2.0.7

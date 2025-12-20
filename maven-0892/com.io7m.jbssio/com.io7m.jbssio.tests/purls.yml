@@ -6,3 +6,5 @@
 - pkg:maven/com.io7m.jbssio/com.io7m.jbssio.tests@1.1.0
 - pkg:maven/com.io7m.jbssio/com.io7m.jbssio.tests@1.1.1
 - pkg:maven/com.io7m.jbssio/com.io7m.jbssio.tests@2.0.0
+- pkg:maven/com.io7m.jbssio/com.io7m.jbssio.tests@2.1.0
+- pkg:maven/com.io7m.jbssio/com.io7m.jbssio.tests@2.1.0?classifier=sources

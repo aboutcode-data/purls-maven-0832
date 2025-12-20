@@ -10,3 +10,7 @@
 - pkg:maven/com.github.bbottema/java-socks-proxy-server@2.0.0?classifier=sources
 - pkg:maven/com.github.bbottema/java-socks-proxy-server@3.0.0
 - pkg:maven/com.github.bbottema/java-socks-proxy-server@3.0.0?classifier=sources
+- pkg:maven/com.github.bbottema/java-socks-proxy-server@4.0.0
+- pkg:maven/com.github.bbottema/java-socks-proxy-server@4.0.0?classifier=sources
+- pkg:maven/com.github.bbottema/java-socks-proxy-server@4.1.0
+- pkg:maven/com.github.bbottema/java-socks-proxy-server@4.1.0?classifier=sources

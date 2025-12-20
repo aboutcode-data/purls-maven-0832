@@ -25,3 +25,4 @@
 - pkg:maven/com.snap.camerakit/camerakit@1.27.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit@1.28.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit@1.29.0?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit@1.30.0?classifier=sources

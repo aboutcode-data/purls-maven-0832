@@ -1,0 +1,2 @@
+- pkg:maven/com.trulioo/docv-capture@2.9.3-beta.1?classifier=sources
+- pkg:maven/com.trulioo/docv-capture@2.9.3-beta.2?classifier=sources

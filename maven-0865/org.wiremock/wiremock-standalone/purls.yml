@@ -20,3 +20,4 @@
 - pkg:maven/org.wiremock/wiremock-standalone@3.5.2?classifier=sources
 - pkg:maven/org.wiremock/wiremock-standalone@3.5.3?classifier=sources
 - pkg:maven/org.wiremock/wiremock-standalone@3.5.4?classifier=sources
+- pkg:maven/org.wiremock/wiremock-standalone@3.6.0?classifier=sources

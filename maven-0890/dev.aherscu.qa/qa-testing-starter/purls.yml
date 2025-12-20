@@ -1,0 +1,2 @@
+- pkg:maven/dev.aherscu.qa/qa-testing-starter@1.0.4
+- pkg:maven/dev.aherscu.qa/qa-testing-starter@1.0.4?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/edu.gemini/crystal_3@0.37.2?classifier=sources
 - pkg:maven/edu.gemini/crystal_3@0.37.3
 - pkg:maven/edu.gemini/crystal_3@0.37.3?classifier=sources
+- pkg:maven/edu.gemini/crystal_3@0.38.0
+- pkg:maven/edu.gemini/crystal_3@0.38.0?classifier=sources

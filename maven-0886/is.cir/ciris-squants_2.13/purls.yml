@@ -54,3 +54,5 @@
 - pkg:maven/is.cir/ciris-squants_2.13@3.4.0?classifier=sources
 - pkg:maven/is.cir/ciris-squants_2.13@3.5.0
 - pkg:maven/is.cir/ciris-squants_2.13@3.5.0?classifier=sources
+- pkg:maven/is.cir/ciris-squants_2.13@3.6.0
+- pkg:maven/is.cir/ciris-squants_2.13@3.6.0?classifier=sources

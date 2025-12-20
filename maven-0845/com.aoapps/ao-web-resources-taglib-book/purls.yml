@@ -1,2 +1,4 @@
 - pkg:maven/com.aoapps/ao-web-resources-taglib-book@0.4.0
 - pkg:maven/com.aoapps/ao-web-resources-taglib-book@0.4.0?classifier=sources
+- pkg:maven/com.aoapps/ao-web-resources-taglib-book@0.6.0
+- pkg:maven/com.aoapps/ao-web-resources-taglib-book@0.6.0?classifier=sources

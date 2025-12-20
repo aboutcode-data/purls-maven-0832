@@ -1,5 +1,6 @@
 - pkg:maven/org.opentorah/opentorah-util@0.10.10?classifier=sources
 - pkg:maven/org.opentorah/opentorah-util@0.10.11?classifier=sources
+- pkg:maven/org.opentorah/opentorah-util@0.10.12?classifier=sources
 - pkg:maven/org.opentorah/opentorah-util@0.10.2?classifier=sources
 - pkg:maven/org.opentorah/opentorah-util@0.10.3?classifier=sources
 - pkg:maven/org.opentorah/opentorah-util@0.10.4?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/io.github.rvenky125/kmp-device-info-iosarm64@0.0.13-alpha?classifier=sources
 - pkg:maven/io.github.rvenky125/kmp-device-info-iosarm64@0.0.14-alpha?classifier=sources
 - pkg:maven/io.github.rvenky125/kmp-device-info-iosarm64@0.0.15-alpha?classifier=sources
+- pkg:maven/io.github.rvenky125/kmp-device-info-iosarm64@0.0.16-alpha?classifier=sources
+- pkg:maven/io.github.rvenky125/kmp-device-info-iosarm64@0.0.17-alpha?classifier=sources

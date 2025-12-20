@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.protege/webprotege-initial-revision-history-service@1.0.0
+- pkg:maven/edu.stanford.protege/webprotege-initial-revision-history-service@1.0.0?classifier=sources

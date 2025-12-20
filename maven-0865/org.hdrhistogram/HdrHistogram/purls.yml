@@ -48,3 +48,4 @@
 - pkg:maven/org.hdrhistogram/HdrHistogram@2.1.8?classifier=sources
 - pkg:maven/org.hdrhistogram/HdrHistogram@2.1.9
 - pkg:maven/org.hdrhistogram/HdrHistogram@2.1.9?classifier=sources
+- pkg:maven/org.hdrhistogram/HdrHistogram@2.2.1?classifier=sources

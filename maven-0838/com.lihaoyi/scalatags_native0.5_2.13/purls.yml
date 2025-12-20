@@ -1,0 +1,2 @@
+- pkg:maven/com.lihaoyi/scalatags_native0.5_2.13@0.13.1
+- pkg:maven/com.lihaoyi/scalatags_native0.5_2.13@0.13.1?classifier=sources

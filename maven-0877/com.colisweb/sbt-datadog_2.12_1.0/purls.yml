@@ -1,0 +1,4 @@
+- pkg:maven/com.colisweb/sbt-datadog_2.12_1.0@2.2.2
+- pkg:maven/com.colisweb/sbt-datadog_2.12_1.0@2.2.2?classifier=sources
+- pkg:maven/com.colisweb/sbt-datadog_2.12_1.0@3.0.0-alpha
+- pkg:maven/com.colisweb/sbt-datadog_2.12_1.0@3.0.0-alpha?classifier=sources

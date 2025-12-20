@@ -39,7 +39,12 @@
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.27?type=aar
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.27_letsgo?type=aar
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.28?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.29?type=aar
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.2?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.30.1_automotive?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.30.2_automotive?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.30?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.30_automotive?type=aar
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.3?type=aar
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.4?type=aar
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.5?type=aar
@@ -48,3 +53,8 @@
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.8?type=aar
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.57.9?type=aar
 - pkg:maven/com.tencent.qqmini/extra_union_ad@1.69.0.1_letsgo?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.69.0.2_letsgo?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.70.1.1_support?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.70.1?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.70.1_mp?type=aar
+- pkg:maven/com.tencent.qqmini/extra_union_ad@1.70.1_support?type=aar

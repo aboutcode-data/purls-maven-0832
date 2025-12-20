@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-log4j2-spring-starter-2.4@1.2.0
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-log4j2-spring-starter-2.4@1.2.0?classifier=sources

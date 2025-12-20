@@ -14,3 +14,5 @@
 - pkg:maven/com.github.linyuzai/concept-connection-loadbalance-autoconfigure@2.3.2?classifier=sources
 - pkg:maven/com.github.linyuzai/concept-connection-loadbalance-autoconfigure@2.3.3?classifier=sources
 - pkg:maven/com.github.linyuzai/concept-connection-loadbalance-autoconfigure@2.4.0?classifier=sources
+- pkg:maven/com.github.linyuzai/concept-connection-loadbalance-autoconfigure@2.5.0?classifier=sources
+- pkg:maven/com.github.linyuzai/concept-connection-loadbalance-autoconfigure@2.6.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.http4k/http4k-template-pug4j@5.17.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-pug4j@5.18.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-pug4j@5.18.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-pug4j@5.19.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-pug4j@5.20.0.0?classifier=sources

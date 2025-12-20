@@ -12,3 +12,5 @@
 - pkg:maven/io.github.cdklabs/cdk-verified-permissions@0.0.1-alpha.4?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-verified-permissions@0.0.1-alpha.7
 - pkg:maven/io.github.cdklabs/cdk-verified-permissions@0.0.1-alpha.7?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-verified-permissions@0.0.1-alpha.8
+- pkg:maven/io.github.cdklabs/cdk-verified-permissions@0.0.1-alpha.8?classifier=sources

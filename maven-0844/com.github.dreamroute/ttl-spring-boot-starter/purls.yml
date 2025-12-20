@@ -10,3 +10,5 @@
 - pkg:maven/com.github.dreamroute/ttl-spring-boot-starter@1.6-RELEASE?classifier=sources
 - pkg:maven/com.github.dreamroute/ttl-spring-boot-starter@1.7-RELEASE
 - pkg:maven/com.github.dreamroute/ttl-spring-boot-starter@1.7-RELEASE?classifier=sources
+- pkg:maven/com.github.dreamroute/ttl-spring-boot-starter@1.7.1-RELEASE
+- pkg:maven/com.github.dreamroute/ttl-spring-boot-starter@1.7.1-RELEASE?classifier=sources

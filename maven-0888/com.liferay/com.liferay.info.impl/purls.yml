@@ -287,6 +287,7 @@
 - pkg:maven/com.liferay/com.liferay.info.impl@5.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.info.impl@5.0.61?classifier=sources
 - pkg:maven/com.liferay/com.liferay.info.impl@5.0.62?classifier=sources
+- pkg:maven/com.liferay/com.liferay.info.impl@5.0.63?classifier=sources
 - pkg:maven/com.liferay/com.liferay.info.impl@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.info.impl@5.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.info.impl@5.0.7

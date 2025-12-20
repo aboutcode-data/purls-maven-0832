@@ -28,3 +28,5 @@
 - pkg:maven/com.acxiom/metalus-kafka_2.12-spark_3.1@1.9.6?classifier=sources
 - pkg:maven/com.acxiom/metalus-kafka_2.12-spark_3.1@1.9.7
 - pkg:maven/com.acxiom/metalus-kafka_2.12-spark_3.1@1.9.7?classifier=sources
+- pkg:maven/com.acxiom/metalus-kafka_2.12-spark_3.1@1.9.8
+- pkg:maven/com.acxiom/metalus-kafka_2.12-spark_3.1@1.9.8?classifier=sources

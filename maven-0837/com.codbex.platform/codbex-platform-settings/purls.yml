@@ -1,0 +1,2 @@
+- pkg:maven/com.codbex.platform/codbex-platform-settings@1.0.0
+- pkg:maven/com.codbex.platform/codbex-platform-settings@1.0.0?classifier=sources

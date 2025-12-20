@@ -1,6 +1,8 @@
 - pkg:maven/io.goodforgod/testcontainers-extensions-postgres@0.1.0?classifier=sources
 - pkg:maven/io.goodforgod/testcontainers-extensions-postgres@0.10.0?classifier=sources
 - pkg:maven/io.goodforgod/testcontainers-extensions-postgres@0.10.1?classifier=sources
+- pkg:maven/io.goodforgod/testcontainers-extensions-postgres@0.10.2?classifier=sources
+- pkg:maven/io.goodforgod/testcontainers-extensions-postgres@0.11.0?classifier=sources
 - pkg:maven/io.goodforgod/testcontainers-extensions-postgres@0.2.0?classifier=sources
 - pkg:maven/io.goodforgod/testcontainers-extensions-postgres@0.3.0?classifier=sources
 - pkg:maven/io.goodforgod/testcontainers-extensions-postgres@0.4.0?classifier=sources

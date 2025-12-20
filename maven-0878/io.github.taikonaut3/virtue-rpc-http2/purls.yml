@@ -1,0 +1,2 @@
+- pkg:maven/io.github.taikonaut3/virtue-rpc-http2@0.0.10-alpha?classifier=sources
+- pkg:maven/io.github.taikonaut3/virtue-rpc-http2@0.0.9-alpha?classifier=sources

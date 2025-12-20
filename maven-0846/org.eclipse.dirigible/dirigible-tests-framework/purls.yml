@@ -43,3 +43,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@10.3.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@10.4.0
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@10.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@10.4.1
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@10.4.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@10.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@10.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@10.5.1
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@10.5.1?classifier=sources

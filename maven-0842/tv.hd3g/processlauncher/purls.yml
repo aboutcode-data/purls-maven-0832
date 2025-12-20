@@ -50,6 +50,16 @@
 - pkg:maven/tv.hd3g/processlauncher@15.0.1?classifier=sources
 - pkg:maven/tv.hd3g/processlauncher@15.0.2
 - pkg:maven/tv.hd3g/processlauncher@15.0.2?classifier=sources
+- pkg:maven/tv.hd3g/processlauncher@16.0.0
+- pkg:maven/tv.hd3g/processlauncher@16.0.0?classifier=sources
+- pkg:maven/tv.hd3g/processlauncher@16.1.0
+- pkg:maven/tv.hd3g/processlauncher@16.1.0?classifier=sources
+- pkg:maven/tv.hd3g/processlauncher@16.2.0
+- pkg:maven/tv.hd3g/processlauncher@16.2.0?classifier=sources
+- pkg:maven/tv.hd3g/processlauncher@16.2.1
+- pkg:maven/tv.hd3g/processlauncher@16.2.1?classifier=sources
+- pkg:maven/tv.hd3g/processlauncher@16.3.0
+- pkg:maven/tv.hd3g/processlauncher@16.3.0?classifier=sources
 - pkg:maven/tv.hd3g/processlauncher@2.0.0
 - pkg:maven/tv.hd3g/processlauncher@2.0.0?classifier=sources
 - pkg:maven/tv.hd3g/processlauncher@2.1.0

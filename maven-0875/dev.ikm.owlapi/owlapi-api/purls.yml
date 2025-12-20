@@ -1,0 +1,2 @@
+- pkg:maven/dev.ikm.owlapi/owlapi-api@4.7.0
+- pkg:maven/dev.ikm.owlapi/owlapi-api@4.7.0?classifier=sources

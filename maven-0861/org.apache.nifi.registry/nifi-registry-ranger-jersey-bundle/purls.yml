@@ -50,6 +50,8 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.24.0?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.25.0
 - pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.25.0?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.26.0
+- pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@1.26.0?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@2.0.0-M1
 - pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@2.0.0-M1?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-ranger-jersey-bundle@2.0.0-M2

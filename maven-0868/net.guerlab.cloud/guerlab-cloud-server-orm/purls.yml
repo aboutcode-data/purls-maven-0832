@@ -74,6 +74,8 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-orm@2024.6.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-orm@2024.7.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-orm@2024.7.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-server-orm@2024.7.1
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-server-orm@2024.7.1?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-orm@21.10.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-orm@21.10.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-server-orm@21.11.0

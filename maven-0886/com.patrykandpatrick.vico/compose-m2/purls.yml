@@ -22,6 +22,7 @@
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@1.14.0-alpha.3?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@1.14.0-beta.1?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@1.14.0?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@1.15.0-alpha.1?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@1.6.2?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@1.6.3?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@1.6.4?classifier=sources
@@ -41,7 +42,13 @@
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.12?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.13?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.14?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.15?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.16?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.17?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.18?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.19?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.1?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.20?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.2?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.3?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.4?classifier=sources

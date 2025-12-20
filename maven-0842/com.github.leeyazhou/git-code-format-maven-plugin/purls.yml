@@ -1,0 +1,4 @@
+- pkg:maven/com.github.leeyazhou/git-code-format-maven-plugin@2.7
+- pkg:maven/com.github.leeyazhou/git-code-format-maven-plugin@2.7.1
+- pkg:maven/com.github.leeyazhou/git-code-format-maven-plugin@2.7.1?classifier=sources
+- pkg:maven/com.github.leeyazhou/git-code-format-maven-plugin@2.7?classifier=sources

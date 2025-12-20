@@ -1,3 +1,5 @@
 - pkg:maven/io.camunda.connector/connectors-e2e-test-rabbitmq@8.5.0
 - pkg:maven/io.camunda.connector/connectors-e2e-test-rabbitmq@8.5.0-alpha2
 - pkg:maven/io.camunda.connector/connectors-e2e-test-rabbitmq@8.5.1
+- pkg:maven/io.camunda.connector/connectors-e2e-test-rabbitmq@8.5.2
+- pkg:maven/io.camunda.connector/connectors-e2e-test-rabbitmq@8.6.0-alpha1

@@ -24,3 +24,4 @@
 - pkg:maven/dev.inmo/micro_utils.resources@0.20.46?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.resources@0.20.47?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.resources@0.20.48?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.resources@0.20.50?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/load-generator-source@3.2.1?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/load-generator-source@4.0.0
 - pkg:maven/org.springframework.cloud.stream.app/load-generator-source@4.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/load-generator-source@5.0.0
+- pkg:maven/org.springframework.cloud.stream.app/load-generator-source@5.0.0?classifier=sources

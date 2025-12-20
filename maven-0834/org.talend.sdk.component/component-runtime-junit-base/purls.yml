@@ -308,6 +308,8 @@
 - pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.64.2?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.64.3
 - pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.64.3?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.64.4
+- pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.64.4?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.65.0M1
 - pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.65.0M1?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-junit-base@1.65.0M2

@@ -12,3 +12,5 @@
 - pkg:maven/com.guizmaii/zio-uuid_2.13@0.3.0?classifier=sources
 - pkg:maven/com.guizmaii/zio-uuid_2.13@1.0.0
 - pkg:maven/com.guizmaii/zio-uuid_2.13@1.0.0?classifier=sources
+- pkg:maven/com.guizmaii/zio-uuid_2.13@1.0.1
+- pkg:maven/com.guizmaii/zio-uuid_2.13@1.0.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/mui__base@5.0.0-beta.15?classifier=sources
 - pkg:maven/org.webjars.npm/mui__base@5.0.0-beta.20
 - pkg:maven/org.webjars.npm/mui__base@5.0.0-beta.20?classifier=sources
+- pkg:maven/org.webjars.npm/mui__base@5.0.0-beta.40
+- pkg:maven/org.webjars.npm/mui__base@5.0.0-beta.48

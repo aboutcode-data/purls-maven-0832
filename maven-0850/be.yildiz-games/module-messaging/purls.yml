@@ -16,3 +16,5 @@
 - pkg:maven/be.yildiz-games/module-messaging@2.0.3?classifier=sources
 - pkg:maven/be.yildiz-games/module-messaging@2.0.4
 - pkg:maven/be.yildiz-games/module-messaging@2.0.4?classifier=sources
+- pkg:maven/be.yildiz-games/module-messaging@3.0.0
+- pkg:maven/be.yildiz-games/module-messaging@3.0.0?classifier=sources

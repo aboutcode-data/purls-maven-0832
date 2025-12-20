@@ -52,3 +52,8 @@
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-tests@0.79.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-tests@0.80.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-tests@0.81.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-tests@0.81.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-tests@0.82.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-tests@0.83.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-tests@0.83.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-tests@0.83.2?classifier=sources

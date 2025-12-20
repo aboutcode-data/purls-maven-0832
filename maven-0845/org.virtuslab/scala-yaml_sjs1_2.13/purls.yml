@@ -6,3 +6,5 @@
 - pkg:maven/org.virtuslab/scala-yaml_sjs1_2.13@0.0.7?classifier=sources
 - pkg:maven/org.virtuslab/scala-yaml_sjs1_2.13@0.0.8
 - pkg:maven/org.virtuslab/scala-yaml_sjs1_2.13@0.0.8?classifier=sources
+- pkg:maven/org.virtuslab/scala-yaml_sjs1_2.13@0.1.0
+- pkg:maven/org.virtuslab/scala-yaml_sjs1_2.13@0.1.0?classifier=sources

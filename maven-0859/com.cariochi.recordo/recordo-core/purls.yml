@@ -27,6 +27,8 @@
 - pkg:maven/com.cariochi.recordo/recordo-core@1.2.20?classifier=sources
 - pkg:maven/com.cariochi.recordo/recordo-core@1.2.21
 - pkg:maven/com.cariochi.recordo/recordo-core@1.2.21?classifier=sources
+- pkg:maven/com.cariochi.recordo/recordo-core@1.2.22
+- pkg:maven/com.cariochi.recordo/recordo-core@1.2.22?classifier=sources
 - pkg:maven/com.cariochi.recordo/recordo-core@1.2.2?classifier=sources
 - pkg:maven/com.cariochi.recordo/recordo-core@1.2.3
 - pkg:maven/com.cariochi.recordo/recordo-core@1.2.3?classifier=sources
@@ -42,3 +44,5 @@
 - pkg:maven/com.cariochi.recordo/recordo-core@1.2.8?classifier=sources
 - pkg:maven/com.cariochi.recordo/recordo-core@1.2.9
 - pkg:maven/com.cariochi.recordo/recordo-core@1.2.9?classifier=sources
+- pkg:maven/com.cariochi.recordo/recordo-core@2.0.0
+- pkg:maven/com.cariochi.recordo/recordo-core@2.0.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/se.laz.casual/casual-test@3.2.39?classifier=sources
+- pkg:maven/se.laz.casual/casual-test@3.2.40?classifier=sources
+- pkg:maven/se.laz.casual/casual-test@3.2.41?classifier=sources

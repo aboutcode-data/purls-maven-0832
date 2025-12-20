@@ -74,7 +74,11 @@
 - pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@6.3.2?classifier=sources
 - pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@7.0.0
 - pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@7.0.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@7.1.0
+- pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@7.1.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@8.0.0
 - pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@8.0.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@8.0.1
 - pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@8.0.1?classifier=sources
+- pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@8.1.0
+- pkg:maven/pro.taskana/taskana-spi-routing-dmn-router@8.1.0?classifier=sources

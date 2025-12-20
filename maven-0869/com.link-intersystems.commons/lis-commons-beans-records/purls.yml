@@ -1,0 +1,2 @@
+- pkg:maven/com.link-intersystems.commons/lis-commons-beans-records@1.9.7
+- pkg:maven/com.link-intersystems.commons/lis-commons-beans-records@1.9.7?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.10?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.11?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.12?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.13?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.14?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.15?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.16?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.17?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.18?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.7?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.8?classifier=source-release&type=zip
+- pkg:maven/io.asgardeo.java.saml.sdk/java-saml-sdk@0.1.9?classifier=source-release&type=zip

@@ -120,3 +120,5 @@
 - pkg:maven/com.github.dreamroute/mybatis-pro-auto-configuration@1.7.7?classifier=sources
 - pkg:maven/com.github.dreamroute/mybatis-pro-auto-configuration@1.7.8
 - pkg:maven/com.github.dreamroute/mybatis-pro-auto-configuration@1.7.8?classifier=sources
+- pkg:maven/com.github.dreamroute/mybatis-pro-auto-configuration@1.7.9
+- pkg:maven/com.github.dreamroute/mybatis-pro-auto-configuration@1.7.9?classifier=sources

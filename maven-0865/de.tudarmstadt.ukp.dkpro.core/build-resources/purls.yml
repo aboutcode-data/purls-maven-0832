@@ -2,3 +2,5 @@
 - pkg:maven/de.tudarmstadt.ukp.dkpro.core/build-resources@1?classifier=sources
 - pkg:maven/de.tudarmstadt.ukp.dkpro.core/build-resources@2
 - pkg:maven/de.tudarmstadt.ukp.dkpro.core/build-resources@2?classifier=sources
+- pkg:maven/de.tudarmstadt.ukp.dkpro.core/build-resources@3
+- pkg:maven/de.tudarmstadt.ukp.dkpro.core/build-resources@3?classifier=sources

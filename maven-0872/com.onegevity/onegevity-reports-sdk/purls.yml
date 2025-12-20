@@ -8,3 +8,5 @@
 - pkg:maven/com.onegevity/onegevity-reports-sdk@1.2.0?classifier=sources
 - pkg:maven/com.onegevity/onegevity-reports-sdk@2.0.0
 - pkg:maven/com.onegevity/onegevity-reports-sdk@2.0.0?classifier=sources
+- pkg:maven/com.onegevity/onegevity-reports-sdk@2.0.2
+- pkg:maven/com.onegevity/onegevity-reports-sdk@2.0.2?classifier=sources

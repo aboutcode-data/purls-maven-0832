@@ -1,4 +1,5 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-commons@10.1.0.77731?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-commons@10.2.0.78029?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-commons@8.0.0.41925?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-commons@8.0.1.42120?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-commons@8.0.2.42487?classifier=sources

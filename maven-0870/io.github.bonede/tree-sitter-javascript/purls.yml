@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-javascript@0.20.1?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-javascript@0.21.2?classifier=sources

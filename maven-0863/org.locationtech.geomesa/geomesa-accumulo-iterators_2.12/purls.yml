@@ -1,0 +1,2 @@
+- pkg:maven/org.locationtech.geomesa/geomesa-accumulo-iterators_2.12@5.0.0
+- pkg:maven/org.locationtech.geomesa/geomesa-accumulo-iterators_2.12@5.0.0?classifier=sources

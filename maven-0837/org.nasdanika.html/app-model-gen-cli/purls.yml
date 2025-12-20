@@ -1,0 +1,2 @@
+- pkg:maven/org.nasdanika.html/app-model-gen-cli@2024.5.0
+- pkg:maven/org.nasdanika.html/app-model-gen-cli@2024.5.0?classifier=sources

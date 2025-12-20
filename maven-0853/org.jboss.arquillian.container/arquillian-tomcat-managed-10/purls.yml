@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-managed-10@1.2.1.Final
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-managed-10@1.2.1.Final?classifier=sources

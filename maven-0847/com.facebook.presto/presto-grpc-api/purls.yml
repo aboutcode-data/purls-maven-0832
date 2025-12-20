@@ -52,3 +52,5 @@
 - pkg:maven/com.facebook.presto/presto-grpc-api@0.285?classifier=sources
 - pkg:maven/com.facebook.presto/presto-grpc-api@0.286
 - pkg:maven/com.facebook.presto/presto-grpc-api@0.286?classifier=sources
+- pkg:maven/com.facebook.presto/presto-grpc-api@0.287
+- pkg:maven/com.facebook.presto/presto-grpc-api@0.287?classifier=sources

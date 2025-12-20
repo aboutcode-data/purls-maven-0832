@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zhaohaoh/redismq-server@0.3.6
+- pkg:maven/io.github.zhaohaoh/redismq-server@0.3.6?classifier=sources

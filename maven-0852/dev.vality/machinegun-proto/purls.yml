@@ -42,3 +42,5 @@
 - pkg:maven/dev.vality/machinegun-proto@1.41-96f7f11?classifier=sources
 - pkg:maven/dev.vality/machinegun-proto@1.42-f32e92d
 - pkg:maven/dev.vality/machinegun-proto@1.42-f32e92d?classifier=sources
+- pkg:maven/dev.vality/machinegun-proto@1.43-3decc8f
+- pkg:maven/dev.vality/machinegun-proto@1.43-3decc8f?classifier=sources

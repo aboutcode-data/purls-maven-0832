@@ -24,6 +24,7 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@6.0.11?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@6.0.12?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@6.0.13?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@6.0.14?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@6.0.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@6.0.2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@6.0.3?type=war
@@ -38,6 +39,7 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@7.0.11?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@7.0.12?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@7.0.13?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@7.0.14?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@7.0.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@7.0.2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@7.0.3?type=war
@@ -50,3 +52,5 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@8.0.0.beta1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@8.0.0.beta2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@8.0.0.beta3?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@8.0.0?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-examples-jquery@8.0.1?type=war

@@ -17,4 +17,5 @@
 - pkg:maven/io.codemodder/codemodder-plugin-sonar@0.73.2?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-sonar@0.74.1?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-sonar@0.75.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.76.0?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-sonar@v0.72.2?classifier=sources

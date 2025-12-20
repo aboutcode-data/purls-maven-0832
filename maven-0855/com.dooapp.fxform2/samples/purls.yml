@@ -1,3 +1,5 @@
+- pkg:maven/com.dooapp.fxform2/samples@11.0.0
+- pkg:maven/com.dooapp.fxform2/samples@11.0.0?classifier=sources
 - pkg:maven/com.dooapp.fxform2/samples@8.0.10
 - pkg:maven/com.dooapp.fxform2/samples@8.0.10?classifier=sources
 - pkg:maven/com.dooapp.fxform2/samples@8.0.11

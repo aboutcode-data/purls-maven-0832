@@ -9,3 +9,4 @@
 - pkg:maven/eu.vendeli/ktgram-utils-mingwx64@5.3.0?classifier=sources
 - pkg:maven/eu.vendeli/ktgram-utils-mingwx64@5.3.1?classifier=sources
 - pkg:maven/eu.vendeli/ktgram-utils-mingwx64@5.3.2?classifier=sources
+- pkg:maven/eu.vendeli/ktgram-utils-mingwx64@5.4.0?classifier=sources

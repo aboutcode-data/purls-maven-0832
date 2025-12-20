@@ -100,3 +100,7 @@
 - pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.28.0?classifier=sources
 - pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.29.0
 - pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.29.0?classifier=sources
+- pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.30.0
+- pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.30.0?classifier=sources
+- pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.31.0
+- pkg:maven/org.redisson/redisson-quarkus-16-integration-tests@3.31.0?classifier=sources

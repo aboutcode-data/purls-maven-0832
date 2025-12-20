@@ -1,0 +1,2 @@
+- pkg:maven/com.azavea.geotrellis/geotrellis-azure_2.12@4.6.0
+- pkg:maven/com.azavea.geotrellis/geotrellis-azure_2.12@4.6.0?classifier=sources

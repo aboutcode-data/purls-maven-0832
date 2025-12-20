@@ -1,0 +1,4 @@
+- pkg:maven/bg.codexio.springframework.data.jpa.requery/requery-core@1.0.0
+- pkg:maven/bg.codexio.springframework.data.jpa.requery/requery-core@1.0.0?classifier=sources
+- pkg:maven/bg.codexio.springframework.data.jpa.requery/requery-core@1.0.3
+- pkg:maven/bg.codexio.springframework.data.jpa.requery/requery-core@1.0.3?classifier=sources

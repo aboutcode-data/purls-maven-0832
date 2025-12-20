@@ -42,3 +42,6 @@
 - pkg:maven/com.urbanairship.android/urbanairship-layout@17.7.2?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-layout@17.7.3?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-layout@17.7.4?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-layout@17.8.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-layout@17.8.1?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-layout@18.0.0-alpha?classifier=sources

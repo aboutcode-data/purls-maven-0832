@@ -4,3 +4,5 @@
 - pkg:maven/org.wso2.maven/wso2-esb-messageprocessor-plugin@5.2.50?classifier=sources
 - pkg:maven/org.wso2.maven/wso2-esb-messageprocessor-plugin@5.2.51
 - pkg:maven/org.wso2.maven/wso2-esb-messageprocessor-plugin@5.2.51?classifier=sources
+- pkg:maven/org.wso2.maven/wso2-esb-messageprocessor-plugin@5.2.52
+- pkg:maven/org.wso2.maven/wso2-esb-messageprocessor-plugin@5.2.52?classifier=sources

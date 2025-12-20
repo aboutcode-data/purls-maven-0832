@@ -12,3 +12,6 @@
 - pkg:maven/org.orbit-mvi/orbit-compose@7.0.0?classifier=sources
 - pkg:maven/org.orbit-mvi/orbit-compose@7.0.1?classifier=sources
 - pkg:maven/org.orbit-mvi/orbit-compose@7.1.0?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-compose@7.1.1?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-compose@7.2.0?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-compose@8.0.0?classifier=sources

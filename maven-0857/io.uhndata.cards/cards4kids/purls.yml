@@ -1,2 +1,4 @@
 - pkg:maven/io.uhndata.cards/cards4kids@0.9.23.1?classifier=sources
 - pkg:maven/io.uhndata.cards/cards4kids@0.9.23?classifier=sources
+- pkg:maven/io.uhndata.cards/cards4kids@0.9.24.1?classifier=sources
+- pkg:maven/io.uhndata.cards/cards4kids@0.9.24?classifier=sources

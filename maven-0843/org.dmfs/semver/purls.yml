@@ -4,3 +4,5 @@
 - pkg:maven/org.dmfs/semver@0.1.0?classifier=sources
 - pkg:maven/org.dmfs/semver@0.2.0?classifier=sources
 - pkg:maven/org.dmfs/semver@0.2.1?classifier=sources
+- pkg:maven/org.dmfs/semver@0.2.2?classifier=sources
+- pkg:maven/org.dmfs/semver@1.0.0?classifier=sources

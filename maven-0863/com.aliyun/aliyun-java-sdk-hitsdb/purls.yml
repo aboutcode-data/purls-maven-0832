@@ -58,3 +58,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@3.1.14?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@3.1.15
 - pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@3.1.15?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@3.1.16
+- pkg:maven/com.aliyun/aliyun-java-sdk-hitsdb@3.1.16?classifier=sources

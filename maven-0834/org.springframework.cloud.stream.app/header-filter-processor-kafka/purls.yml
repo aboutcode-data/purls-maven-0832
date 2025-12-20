@@ -1,2 +1,4 @@
 - pkg:maven/org.springframework.cloud.stream.app/header-filter-processor-kafka@4.0.0
 - pkg:maven/org.springframework.cloud.stream.app/header-filter-processor-kafka@4.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/header-filter-processor-kafka@5.0.0
+- pkg:maven/org.springframework.cloud.stream.app/header-filter-processor-kafka@5.0.0?classifier=sources

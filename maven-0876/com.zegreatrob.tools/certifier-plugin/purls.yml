@@ -27,3 +27,5 @@
 - pkg:maven/com.zegreatrob.tools/certifier-plugin@1.0.87?classifier=sources
 - pkg:maven/com.zegreatrob.tools/certifier-plugin@1.0.88?classifier=sources
 - pkg:maven/com.zegreatrob.tools/certifier-plugin@1.0.89?classifier=sources
+- pkg:maven/com.zegreatrob.tools/certifier-plugin@1.0.90?classifier=sources
+- pkg:maven/com.zegreatrob.tools/certifier-plugin@1.0.91?classifier=sources

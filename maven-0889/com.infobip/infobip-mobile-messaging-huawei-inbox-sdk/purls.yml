@@ -17,3 +17,5 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-inbox-sdk@6.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-inbox-sdk@6.1.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-inbox-sdk@6.2.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-inbox-sdk@6.3.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-inbox-sdk@6.4.0?classifier=sources

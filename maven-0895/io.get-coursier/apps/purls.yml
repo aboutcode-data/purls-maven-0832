@@ -159,6 +159,8 @@
 - pkg:maven/io.get-coursier/apps@1.0.47?classifier=sources
 - pkg:maven/io.get-coursier/apps@1.0.48
 - pkg:maven/io.get-coursier/apps@1.0.48?classifier=sources
+- pkg:maven/io.get-coursier/apps@1.0.49
+- pkg:maven/io.get-coursier/apps@1.0.49?classifier=sources
 - pkg:maven/io.get-coursier/apps@1.0.4?classifier=sources
 - pkg:maven/io.get-coursier/apps@1.0.5
 - pkg:maven/io.get-coursier/apps@1.0.5?classifier=sources

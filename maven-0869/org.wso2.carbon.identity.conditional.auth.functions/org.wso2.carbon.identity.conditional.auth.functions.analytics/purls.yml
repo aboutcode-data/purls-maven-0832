@@ -146,5 +146,7 @@
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.analytics@1.2.45?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.analytics@1.2.46
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.analytics@1.2.46?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.analytics@1.2.47
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.analytics@1.2.47?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.analytics@1.2.8
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.analytics@1.2.8?classifier=sources

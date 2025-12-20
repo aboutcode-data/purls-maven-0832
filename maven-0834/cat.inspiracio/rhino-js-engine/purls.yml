@@ -1,4 +1,6 @@
 - pkg:maven/cat.inspiracio/rhino-js-engine@1.7.10
 - pkg:maven/cat.inspiracio/rhino-js-engine@1.7.10?classifier=sources
+- pkg:maven/cat.inspiracio/rhino-js-engine@1.7.14
+- pkg:maven/cat.inspiracio/rhino-js-engine@1.7.14?classifier=sources
 - pkg:maven/cat.inspiracio/rhino-js-engine@1.7.7.1
 - pkg:maven/cat.inspiracio/rhino-js-engine@1.7.7.1?classifier=sources

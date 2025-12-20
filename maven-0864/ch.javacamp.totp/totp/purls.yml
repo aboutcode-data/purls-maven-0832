@@ -1,0 +1,2 @@
+- pkg:maven/ch.javacamp.totp/totp@1.8.0
+- pkg:maven/ch.javacamp.totp/totp@1.8.0?classifier=sources

@@ -29,3 +29,4 @@
 - pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.0-test7
 - pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.0-test8
 - pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.1
+- pkg:maven/com.thesamet.scalapb.zio-grpc/protoc-gen-zio@0.6.2
