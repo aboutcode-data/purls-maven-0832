@@ -12,6 +12,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.walkthrough.sample.web@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.walkthrough.sample.web@1.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.walkthrough.sample.web@1.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.walkthrough.sample.web@1.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.walkthrough.sample.web@1.0.9
 - pkg:maven/com.liferay/com.liferay.frontend.js.walkthrough.sample.web@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.walkthrough.sample.web@1.0.9?classifier=sources-commercial

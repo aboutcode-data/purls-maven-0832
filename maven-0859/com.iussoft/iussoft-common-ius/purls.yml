@@ -91,4 +91,8 @@
 - pkg:maven/com.iussoft/iussoft-common-ius@3.3.23090701?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-ius@3.3.23090709
 - pkg:maven/com.iussoft/iussoft-common-ius@3.3.23090709?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.23090801
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.23090801?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.23090802
+- pkg:maven/com.iussoft/iussoft-common-ius@3.3.23090802?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-ius@3.3.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.tpolecat/skunk-postgis_sjs1_2.12@0.6.3
+- pkg:maven/org.tpolecat/skunk-postgis_sjs1_2.12@0.6.3?classifier=sources

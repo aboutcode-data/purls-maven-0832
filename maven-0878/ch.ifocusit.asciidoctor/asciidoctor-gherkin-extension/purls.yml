@@ -1,0 +1,4 @@
+- pkg:maven/ch.ifocusit.asciidoctor/asciidoctor-gherkin-extension@1.0
+- pkg:maven/ch.ifocusit.asciidoctor/asciidoctor-gherkin-extension@1.0?classifier=sources
+- pkg:maven/ch.ifocusit.asciidoctor/asciidoctor-gherkin-extension@1.1
+- pkg:maven/ch.ifocusit.asciidoctor/asciidoctor-gherkin-extension@1.1?classifier=sources

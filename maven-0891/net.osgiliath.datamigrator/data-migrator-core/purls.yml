@@ -1,0 +1,12 @@
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.16
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.16?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.17
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.17?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.20
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.20?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.21
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.21?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.22
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.22?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.23
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.23?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.4.2?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.5.0
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.5.0?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.5.23
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.5.23?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.6.0
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.6.0?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.6.1
@@ -95,6 +97,14 @@
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.2
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.20
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.20?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.21
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.21?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.22
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.22?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.23
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.23?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.24
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.24?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.2?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.3
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend@1.9.3?classifier=sources

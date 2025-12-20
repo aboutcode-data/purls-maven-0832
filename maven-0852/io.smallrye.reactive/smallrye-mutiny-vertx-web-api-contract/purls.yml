@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-contract@3.8.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-contract@3.8.0?classifier=sources

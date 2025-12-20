@@ -1,0 +1,2 @@
+- pkg:maven/za.co.absa.fa-db/doobie_2.12@0.3.0
+- pkg:maven/za.co.absa.fa-db/doobie_2.12@0.3.0?classifier=sources

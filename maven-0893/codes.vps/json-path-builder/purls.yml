@@ -1,0 +1,2 @@
+- pkg:maven/codes.vps/json-path-builder@0.1
+- pkg:maven/codes.vps/json-path-builder@0.1?classifier=sources

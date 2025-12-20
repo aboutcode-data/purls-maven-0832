@@ -30,6 +30,8 @@
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.17-pre4?classifier=sources
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.17?classifier=sources
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre1
+- pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre10
+- pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre10?classifier=sources
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre1?classifier=sources
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre2
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre2?classifier=sources
@@ -39,6 +41,10 @@
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre6?classifier=sources
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre7
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre7?classifier=sources
+- pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre8
+- pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre8?classifier=sources
+- pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre9
+- pkg:maven/cloud.prefab/log4j-two-listener@0.3.18-pre9?classifier=sources
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.1?classifier=sources
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.2
 - pkg:maven/cloud.prefab/log4j-two-listener@0.3.2?classifier=sources

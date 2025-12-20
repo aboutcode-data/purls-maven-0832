@@ -9,3 +9,4 @@
 - pkg:maven/org.eclipse.edc/IdentityHub-version-catalog-1@0.3.1?classifier=sources
 - pkg:maven/org.eclipse.edc/IdentityHub-version-catalog-1@0.4.0?classifier=sources
 - pkg:maven/org.eclipse.edc/IdentityHub-version-catalog-1@0.4.1?classifier=sources
+- pkg:maven/org.eclipse.edc/IdentityHub-version-catalog-1@0.5.0?classifier=sources

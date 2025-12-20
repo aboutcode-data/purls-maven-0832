@@ -1,1 +1,2 @@
 - pkg:maven/com.memority.api.archetypes/memority-tenant-bootstrap-archetype@1.0.0?classifier=sources
+- pkg:maven/com.memority.api.archetypes/memority-tenant-bootstrap-archetype@1.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.sprtool/sprtool-record-event@1.0.0?classifier=sources
 - pkg:maven/net.sf.sprtool/sprtool-record-event@1.1.0
 - pkg:maven/net.sf.sprtool/sprtool-record-event@1.1.0?classifier=sources
+- pkg:maven/net.sf.sprtool/sprtool-record-event@1.2.0
+- pkg:maven/net.sf.sprtool/sprtool-record-event@1.2.0?classifier=sources

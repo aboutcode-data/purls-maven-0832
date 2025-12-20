@@ -30,3 +30,5 @@
 - pkg:maven/wtf.metio.memoization/memoization-jdk@2023.8.8?classifier=sources
 - pkg:maven/wtf.metio.memoization/memoization-jdk@2023.9.12
 - pkg:maven/wtf.metio.memoization/memoization-jdk@2023.9.12?classifier=sources
+- pkg:maven/wtf.metio.memoization/memoization-jdk@2024.1.8
+- pkg:maven/wtf.metio.memoization/memoization-jdk@2024.1.8?classifier=sources

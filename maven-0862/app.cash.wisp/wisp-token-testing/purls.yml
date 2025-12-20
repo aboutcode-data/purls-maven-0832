@@ -142,3 +142,6 @@
 - pkg:maven/app.cash.wisp/wisp-token-testing@2023.12.13.192542-1616070?classifier=sources
 - pkg:maven/app.cash.wisp/wisp-token-testing@2023.12.14.183024-0873023?classifier=sources
 - pkg:maven/app.cash.wisp/wisp-token-testing@2023.12.14.222754-29dc0a1?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-token-testing@2023.12.15.211820-b7abf54?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-token-testing@2024.01.02.200402-e2004ff?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-token-testing@2024.01.03.221827-0ebadb0?classifier=sources

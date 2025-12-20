@@ -56,3 +56,4 @@
 - pkg:maven/com.gitee.fubluesky.kernel/security-sdk-jackson@1.7.0?classifier=sources
 - pkg:maven/com.gitee.fubluesky.kernel/security-sdk-jackson@1.7.1
 - pkg:maven/com.gitee.fubluesky.kernel/security-sdk-jackson@1.7.1?classifier=sources
+- pkg:maven/com.gitee.fubluesky.kernel/security-sdk-jackson@2.0.0-M1?classifier=sources

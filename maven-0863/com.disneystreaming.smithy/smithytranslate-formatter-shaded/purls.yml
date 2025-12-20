@@ -1,0 +1,2 @@
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-formatter-shaded@0.4.0
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-formatter-shaded@0.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/deep-extend@0.5.1?classifier=sources
+- pkg:maven/org.mvnpm/deep-extend@0.6.0?classifier=sources

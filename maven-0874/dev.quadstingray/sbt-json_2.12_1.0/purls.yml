@@ -1,0 +1,4 @@
+- pkg:maven/dev.quadstingray/sbt-json_2.12_1.0@0.7.0
+- pkg:maven/dev.quadstingray/sbt-json_2.12_1.0@0.7.0?classifier=sources
+- pkg:maven/dev.quadstingray/sbt-json_2.12_1.0@0.7.1
+- pkg:maven/dev.quadstingray/sbt-json_2.12_1.0@0.7.1?classifier=sources

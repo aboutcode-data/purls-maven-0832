@@ -1,3 +1,8 @@
 - pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@0.0.1?classifier=sources
 - pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@0.2.0?classifier=sources
 - pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@0.3.0?classifier=sources
+- pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@0.4.0?classifier=sources
+- pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@0.5.0?classifier=sources
+- pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@0.6.0?classifier=sources
+- pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@0.7.0?classifier=sources
+- pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@0.8.0?classifier=sources

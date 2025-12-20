@@ -99,3 +99,9 @@
 - pkg:maven/com.adobe.aem.commons/assetshare.core@3.5.0?classifier=sources
 - pkg:maven/com.adobe.aem.commons/assetshare.core@3.6.0
 - pkg:maven/com.adobe.aem.commons/assetshare.core@3.6.0?classifier=sources
+- pkg:maven/com.adobe.aem.commons/assetshare.core@3.7.0
+- pkg:maven/com.adobe.aem.commons/assetshare.core@3.7.0?classifier=sources
+- pkg:maven/com.adobe.aem.commons/assetshare.core@3.7.2
+- pkg:maven/com.adobe.aem.commons/assetshare.core@3.7.2?classifier=sources
+- pkg:maven/com.adobe.aem.commons/assetshare.core@3.8.0
+- pkg:maven/com.adobe.aem.commons/assetshare.core@3.8.0?classifier=sources

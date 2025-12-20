@@ -38,3 +38,5 @@
 - pkg:maven/com.deque.html.axe-core/selenium@4.7.0?classifier=sources
 - pkg:maven/com.deque.html.axe-core/selenium@4.8.0
 - pkg:maven/com.deque.html.axe-core/selenium@4.8.0?classifier=sources
+- pkg:maven/com.deque.html.axe-core/selenium@4.8.1
+- pkg:maven/com.deque.html.axe-core/selenium@4.8.1?classifier=sources

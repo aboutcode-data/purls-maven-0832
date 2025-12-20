@@ -10,3 +10,7 @@
 - pkg:maven/com.github.hypfvieh/dbus-java-transport-jnr-unixsocket@4.3.0?classifier=sources
 - pkg:maven/com.github.hypfvieh/dbus-java-transport-jnr-unixsocket@4.3.1
 - pkg:maven/com.github.hypfvieh/dbus-java-transport-jnr-unixsocket@4.3.1?classifier=sources
+- pkg:maven/com.github.hypfvieh/dbus-java-transport-jnr-unixsocket@4.3.2
+- pkg:maven/com.github.hypfvieh/dbus-java-transport-jnr-unixsocket@4.3.2?classifier=sources
+- pkg:maven/com.github.hypfvieh/dbus-java-transport-jnr-unixsocket@5.0.0
+- pkg:maven/com.github.hypfvieh/dbus-java-transport-jnr-unixsocket@5.0.0?classifier=sources

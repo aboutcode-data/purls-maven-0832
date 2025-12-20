@@ -1,2 +1,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-persistence@2.11.1
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-persistence@2.11.1?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-persistence@2.11.2
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-persistence@2.11.2?classifier=sources

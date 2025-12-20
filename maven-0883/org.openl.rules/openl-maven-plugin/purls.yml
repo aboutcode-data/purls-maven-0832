@@ -229,6 +229,8 @@
 - pkg:maven/org.openl.rules/openl-maven-plugin@5.25.14?classifier=sources
 - pkg:maven/org.openl.rules/openl-maven-plugin@5.25.15
 - pkg:maven/org.openl.rules/openl-maven-plugin@5.25.15?classifier=sources
+- pkg:maven/org.openl.rules/openl-maven-plugin@5.25.16
+- pkg:maven/org.openl.rules/openl-maven-plugin@5.25.16?classifier=sources
 - pkg:maven/org.openl.rules/openl-maven-plugin@5.25.1?classifier=sources
 - pkg:maven/org.openl.rules/openl-maven-plugin@5.25.2
 - pkg:maven/org.openl.rules/openl-maven-plugin@5.25.2?classifier=sources

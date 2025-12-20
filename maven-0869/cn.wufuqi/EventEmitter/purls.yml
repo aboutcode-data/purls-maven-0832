@@ -4,3 +4,5 @@
 - pkg:maven/cn.wufuqi/EventEmitter@1.0.2?type=aar
 - pkg:maven/cn.wufuqi/EventEmitter@1.0.3?classifier=sources
 - pkg:maven/cn.wufuqi/EventEmitter@1.0.3?type=aar
+- pkg:maven/cn.wufuqi/EventEmitter@1.0.4?classifier=sources
+- pkg:maven/cn.wufuqi/EventEmitter@1.0.4?type=aar

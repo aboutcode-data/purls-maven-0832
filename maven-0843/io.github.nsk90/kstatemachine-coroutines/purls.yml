@@ -4,3 +4,4 @@
 - pkg:maven/io.github.nsk90/kstatemachine-coroutines@0.22.1?classifier=sources
 - pkg:maven/io.github.nsk90/kstatemachine-coroutines@0.23.0?classifier=sources
 - pkg:maven/io.github.nsk90/kstatemachine-coroutines@0.24.0?classifier=sources
+- pkg:maven/io.github.nsk90/kstatemachine-coroutines@0.24.1?classifier=sources

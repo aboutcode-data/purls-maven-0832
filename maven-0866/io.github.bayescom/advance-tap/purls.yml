@@ -1,2 +1,4 @@
 - pkg:maven/io.github.bayescom/advance-tap@4.3.1_3.16.3.20?type=aar
 - pkg:maven/io.github.bayescom/advance-tap@4.3.1_3.16.3.20_core?type=aar
+- pkg:maven/io.github.bayescom/advance-tap@4.3.2_3.16.3.20?type=aar
+- pkg:maven/io.github.bayescom/advance-tap@4.3.2_3.16.3.20_core?type=aar

@@ -32,3 +32,5 @@
 - pkg:maven/org.jsmpp/jsmpp-examples@2.3.9?classifier=sources
 - pkg:maven/org.jsmpp/jsmpp-examples@3.0.0
 - pkg:maven/org.jsmpp/jsmpp-examples@3.0.0?classifier=sources
+- pkg:maven/org.jsmpp/jsmpp-examples@3.0.1
+- pkg:maven/org.jsmpp/jsmpp-examples@3.0.1?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.128.0-rc2?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.128.0-rc3?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.128.0-rc4?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.128.0-rc5?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.128.0-rc6?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.128.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.129.0-rc1?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.129.0?classifier=sources
@@ -40,3 +42,6 @@
 - pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.134.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.135.0-rc1?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.135.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.136.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.136.0-rc2?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-clientutil@2.2.18-1.137.0-rc2?classifier=sources

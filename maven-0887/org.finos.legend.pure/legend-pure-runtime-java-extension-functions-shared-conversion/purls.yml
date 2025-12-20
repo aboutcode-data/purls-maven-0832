@@ -70,5 +70,7 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-functions-shared-conversion@4.9.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-functions-shared-conversion@5.0.0
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-functions-shared-conversion@5.0.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-functions-shared-conversion@5.0.1
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-functions-shared-conversion@5.0.1?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-functions-shared-conversion@legend-pure-4.5.8
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-functions-shared-conversion@legend-pure-4.5.8?classifier=sources

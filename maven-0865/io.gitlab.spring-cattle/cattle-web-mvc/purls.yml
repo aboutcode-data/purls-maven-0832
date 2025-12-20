@@ -1,0 +1,4 @@
+- pkg:maven/io.gitlab.spring-cattle/cattle-web-mvc@1.0.0-M6
+- pkg:maven/io.gitlab.spring-cattle/cattle-web-mvc@1.0.0-M6?classifier=sources
+- pkg:maven/io.gitlab.spring-cattle/cattle-web-mvc@1.0.0-R1
+- pkg:maven/io.gitlab.spring-cattle/cattle-web-mvc@1.0.0-R1?classifier=sources

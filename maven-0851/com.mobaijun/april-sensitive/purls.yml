@@ -1,2 +1,4 @@
 - pkg:maven/com.mobaijun/april-sensitive@1.0.0
 - pkg:maven/com.mobaijun/april-sensitive@1.0.0?classifier=sources
+- pkg:maven/com.mobaijun/april-sensitive@2.0.0
+- pkg:maven/com.mobaijun/april-sensitive@2.0.0?classifier=sources

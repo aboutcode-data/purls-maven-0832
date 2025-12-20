@@ -60,6 +60,14 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.15.1?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.16.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.16.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.17.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.17.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.17.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.17.1?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.18.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.18.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.18.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.18.1?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.5.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.5.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.5.1
@@ -106,3 +114,5 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.9.4?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.9.5
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@5.9.5?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@6.0.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-streams@6.0.0?classifier=sources

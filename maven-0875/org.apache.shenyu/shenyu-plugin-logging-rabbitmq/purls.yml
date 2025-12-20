@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shenyu/shenyu-plugin-logging-rabbitmq@2.6.1
+- pkg:maven/org.apache.shenyu/shenyu-plugin-logging-rabbitmq@2.6.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.houbb/common-segment-test@0.1.0
+- pkg:maven/com.github.houbb/common-segment-test@0.1.0?classifier=sources

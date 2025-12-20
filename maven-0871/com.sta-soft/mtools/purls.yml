@@ -1,5 +1,7 @@
 - pkg:maven/com.sta-soft/mtools@1.10
 - pkg:maven/com.sta-soft/mtools@1.10?classifier=sources
+- pkg:maven/com.sta-soft/mtools@1.11
+- pkg:maven/com.sta-soft/mtools@1.11?classifier=sources
 - pkg:maven/com.sta-soft/mtools@1.3
 - pkg:maven/com.sta-soft/mtools@1.3?classifier=sources
 - pkg:maven/com.sta-soft/mtools@1.4

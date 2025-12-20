@@ -15,3 +15,4 @@
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@2.0.0.CR2
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@2.1.0
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@2.2.0
+- pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-docs@2.2.1

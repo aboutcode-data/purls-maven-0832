@@ -42,3 +42,7 @@
 - pkg:maven/dev.guardrail/guardrail-core_2.13@0.75.2?classifier=sources
 - pkg:maven/dev.guardrail/guardrail-core_2.13@0.75.3
 - pkg:maven/dev.guardrail/guardrail-core_2.13@0.75.3?classifier=sources
+- pkg:maven/dev.guardrail/guardrail-core_2.13@0.75.4
+- pkg:maven/dev.guardrail/guardrail-core_2.13@0.75.4?classifier=sources
+- pkg:maven/dev.guardrail/guardrail-core_2.13@1.0.0-M1
+- pkg:maven/dev.guardrail/guardrail-core_2.13@1.0.0-M1?classifier=sources

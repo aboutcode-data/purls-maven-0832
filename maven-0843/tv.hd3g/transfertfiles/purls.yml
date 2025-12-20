@@ -108,6 +108,8 @@
 - pkg:maven/tv.hd3g/transfertfiles@18.0.1?classifier=sources
 - pkg:maven/tv.hd3g/transfertfiles@18.0.2
 - pkg:maven/tv.hd3g/transfertfiles@18.0.2?classifier=sources
+- pkg:maven/tv.hd3g/transfertfiles@19.0.0
+- pkg:maven/tv.hd3g/transfertfiles@19.0.0?classifier=sources
 - pkg:maven/tv.hd3g/transfertfiles@9.0.0
 - pkg:maven/tv.hd3g/transfertfiles@9.0.0?classifier=sources
 - pkg:maven/tv.hd3g/transfertfiles@9.0.1

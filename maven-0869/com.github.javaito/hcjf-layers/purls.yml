@@ -1,0 +1,2 @@
+- pkg:maven/com.github.javaito/hcjf-layers@0.0.1-beta
+- pkg:maven/com.github.javaito/hcjf-layers@0.0.1-beta?classifier=sources

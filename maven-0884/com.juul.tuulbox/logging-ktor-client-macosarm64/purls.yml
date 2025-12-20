@@ -6,3 +6,4 @@
 - pkg:maven/com.juul.tuulbox/logging-ktor-client-macosarm64@6.4.1?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging-ktor-client-macosarm64@6.5.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging-ktor-client-macosarm64@7.0.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/logging-ktor-client-macosarm64@7.0.1?classifier=sources

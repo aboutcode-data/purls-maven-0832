@@ -50,3 +50,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-arrow-pure@4.36.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-arrow-pure@4.37.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-arrow-pure@4.37.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-arrow-pure@4.37.1
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-arrow-pure@4.37.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-arrow-pure@4.37.2
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-arrow-pure@4.37.2?classifier=sources

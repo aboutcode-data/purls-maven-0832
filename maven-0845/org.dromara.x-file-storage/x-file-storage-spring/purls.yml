@@ -1,2 +1,4 @@
 - pkg:maven/org.dromara.x-file-storage/x-file-storage-spring@2.0.0
 - pkg:maven/org.dromara.x-file-storage/x-file-storage-spring@2.0.0?classifier=sources
+- pkg:maven/org.dromara.x-file-storage/x-file-storage-spring@2.1.0
+- pkg:maven/org.dromara.x-file-storage/x-file-storage-spring@2.1.0?classifier=sources

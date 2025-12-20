@@ -28,3 +28,5 @@
 - pkg:maven/dev.khbd.interp4j/interp4j-processor@1.0.0_jre11?classifier=sources
 - pkg:maven/dev.khbd.interp4j/interp4j-processor@1.0.0_jre17
 - pkg:maven/dev.khbd.interp4j/interp4j-processor@1.0.0_jre17?classifier=sources
+- pkg:maven/dev.khbd.interp4j/interp4j-processor@1.0.0_jre21
+- pkg:maven/dev.khbd.interp4j/interp4j-processor@1.0.0_jre21?classifier=sources

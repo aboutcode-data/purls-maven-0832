@@ -47,6 +47,7 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-trafficmanager@2.31.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-trafficmanager@2.32.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-trafficmanager@2.33.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-trafficmanager@2.34.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-trafficmanager@2.4.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-trafficmanager@2.4.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-trafficmanager@2.5.0

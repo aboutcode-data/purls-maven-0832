@@ -3,6 +3,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cargo-package-manager@1.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cargo-package-manager@10.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cargo-package-manager@11.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cargo-package-manager@12.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cargo-package-manager@13.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cargo-package-manager@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cargo-package-manager@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cargo-package-manager@4.0.0?classifier=sources

@@ -210,3 +210,7 @@
 - pkg:maven/systems.manifold/manifold-props-rt@2023.1.8?classifier=sources
 - pkg:maven/systems.manifold/manifold-props-rt@2023.1.9
 - pkg:maven/systems.manifold/manifold-props-rt@2023.1.9?classifier=sources
+- pkg:maven/systems.manifold/manifold-props-rt@2024.1.0
+- pkg:maven/systems.manifold/manifold-props-rt@2024.1.0?classifier=sources
+- pkg:maven/systems.manifold/manifold-props-rt@2024.1.1
+- pkg:maven/systems.manifold/manifold-props-rt@2024.1.1?classifier=sources

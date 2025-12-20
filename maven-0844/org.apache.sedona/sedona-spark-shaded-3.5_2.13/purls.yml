@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sedona/sedona-spark-shaded-3.5_2.13@1.5.1
+- pkg:maven/org.apache.sedona/sedona-spark-shaded-3.5_2.13@1.5.1?classifier=sources

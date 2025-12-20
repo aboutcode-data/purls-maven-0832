@@ -20,3 +20,5 @@
 - pkg:maven/io.laserdisc/pure-kinesis-tagless_3@6.0.5?classifier=sources
 - pkg:maven/io.laserdisc/pure-kinesis-tagless_3@6.1.0
 - pkg:maven/io.laserdisc/pure-kinesis-tagless_3@6.1.0?classifier=sources
+- pkg:maven/io.laserdisc/pure-kinesis-tagless_3@6.1.1
+- pkg:maven/io.laserdisc/pure-kinesis-tagless_3@6.1.1?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/org.elasticsearch.plugin/x-pack-template-resources@8.11.2?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-template-resources@8.11.3
 - pkg:maven/org.elasticsearch.plugin/x-pack-template-resources@8.11.3?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-template-resources@8.11.4
+- pkg:maven/org.elasticsearch.plugin/x-pack-template-resources@8.11.4?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-template-resources@8.12.0
+- pkg:maven/org.elasticsearch.plugin/x-pack-template-resources@8.12.0?classifier=sources

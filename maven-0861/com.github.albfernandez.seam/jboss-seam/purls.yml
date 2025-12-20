@@ -2,4 +2,6 @@
 - pkg:maven/com.github.albfernandez.seam/jboss-seam@2.3.25.ayg?classifier=sources
 - pkg:maven/com.github.albfernandez.seam/jboss-seam@2.3.26.ayg?classifier=sources
 - pkg:maven/com.github.albfernandez.seam/jboss-seam@2.3.27.ayg?classifier=sources
+- pkg:maven/com.github.albfernandez.seam/jboss-seam@2.3.28.ayg?classifier=sources
+- pkg:maven/com.github.albfernandez.seam/jboss-seam@2.3.29.ayg?classifier=sources
 - pkg:maven/com.github.albfernandez.seam/jboss-seam@3.2.26.ayg?classifier=sources

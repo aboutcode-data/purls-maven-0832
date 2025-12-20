@@ -8,3 +8,5 @@
 - pkg:maven/nl.basjes.maven.release/conventional-commits-version-policy@1.0.3?classifier=sources
 - pkg:maven/nl.basjes.maven.release/conventional-commits-version-policy@1.0.4
 - pkg:maven/nl.basjes.maven.release/conventional-commits-version-policy@1.0.4?classifier=sources
+- pkg:maven/nl.basjes.maven.release/conventional-commits-version-policy@1.0.5
+- pkg:maven/nl.basjes.maven.release/conventional-commits-version-policy@1.0.5?classifier=sources

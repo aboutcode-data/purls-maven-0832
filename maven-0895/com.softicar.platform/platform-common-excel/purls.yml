@@ -94,3 +94,4 @@
 - pkg:maven/com.softicar.platform/platform-common-excel@48.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-excel@49.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-excel@49.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-excel@49.2.0?classifier=sources

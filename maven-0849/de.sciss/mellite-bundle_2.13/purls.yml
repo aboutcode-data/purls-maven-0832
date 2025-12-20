@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/mellite-bundle_2.13@3.13.11
+- pkg:maven/de.sciss/mellite-bundle_2.13@3.13.11?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.nablarch.integration/nablarch-micrometer-adaptor@1.1.0?classifier=sources
 - pkg:maven/com.nablarch.integration/nablarch-micrometer-adaptor@1.2.0
 - pkg:maven/com.nablarch.integration/nablarch-micrometer-adaptor@1.2.0?classifier=sources
+- pkg:maven/com.nablarch.integration/nablarch-micrometer-adaptor@2.0.0
+- pkg:maven/com.nablarch.integration/nablarch-micrometer-adaptor@2.0.0?classifier=sources

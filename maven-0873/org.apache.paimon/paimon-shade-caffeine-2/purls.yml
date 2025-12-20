@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.paimon/paimon-shade-caffeine-2@2.9.3-0.4.0-incubating
+- pkg:maven/org.apache.paimon/paimon-shade-caffeine-2@2.9.3-0.6.0-incubating

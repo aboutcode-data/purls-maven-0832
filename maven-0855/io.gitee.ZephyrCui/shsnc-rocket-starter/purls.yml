@@ -4,6 +4,10 @@
 - pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.11?classifier=sources
 - pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.12
 - pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.12?classifier=sources
+- pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.14
+- pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.14?classifier=sources
+- pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.15
+- pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.15?classifier=sources
 - pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.2
 - pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.2?classifier=sources
 - pkg:maven/io.gitee.ZephyrCui/shsnc-rocket-starter@0.0.4

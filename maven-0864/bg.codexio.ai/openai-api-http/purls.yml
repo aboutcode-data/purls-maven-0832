@@ -1,0 +1,6 @@
+- pkg:maven/bg.codexio.ai/openai-api-http@0.8.0.BETA
+- pkg:maven/bg.codexio.ai/openai-api-http@0.8.0.BETA-JDK11
+- pkg:maven/bg.codexio.ai/openai-api-http@0.8.0.BETA-JDK11?classifier=sources
+- pkg:maven/bg.codexio.ai/openai-api-http@0.8.0.BETA-JDK17
+- pkg:maven/bg.codexio.ai/openai-api-http@0.8.0.BETA-JDK17?classifier=sources
+- pkg:maven/bg.codexio.ai/openai-api-http@0.8.0.BETA?classifier=sources

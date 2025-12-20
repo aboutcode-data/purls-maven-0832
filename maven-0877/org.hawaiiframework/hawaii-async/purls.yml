@@ -62,3 +62,6 @@
 - pkg:maven/org.hawaiiframework/hawaii-async@6.0.0.M4?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-async@6.0.0.M5?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-async@6.0.0.M6?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-async@6.0.0.M7?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-async@6.0.0.M8?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-async@6.0.0.M9?classifier=sources

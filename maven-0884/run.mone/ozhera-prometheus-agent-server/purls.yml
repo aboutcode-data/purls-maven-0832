@@ -1,0 +1,2 @@
+- pkg:maven/run.mone/ozhera-prometheus-agent-server@1.0.0-jdk21
+- pkg:maven/run.mone/ozhera-prometheus-agent-server@1.0.0-jdk21?classifier=sources

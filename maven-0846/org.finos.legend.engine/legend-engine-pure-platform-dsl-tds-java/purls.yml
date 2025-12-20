@@ -1,2 +1,6 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-tds-java@4.37.0
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-tds-java@4.37.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-tds-java@4.37.1
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-tds-java@4.37.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-tds-java@4.37.2
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-tds-java@4.37.2?classifier=sources

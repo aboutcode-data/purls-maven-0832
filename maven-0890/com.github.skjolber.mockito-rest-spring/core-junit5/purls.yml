@@ -1,2 +1,8 @@
 - pkg:maven/com.github.skjolber.mockito-rest-spring/core-junit5@1.0.3
 - pkg:maven/com.github.skjolber.mockito-rest-spring/core-junit5@1.0.3?classifier=sources
+- pkg:maven/com.github.skjolber.mockito-rest-spring/core-junit5@1.1.0
+- pkg:maven/com.github.skjolber.mockito-rest-spring/core-junit5@1.1.0?classifier=sources
+- pkg:maven/com.github.skjolber.mockito-rest-spring/core-junit5@2.0.0
+- pkg:maven/com.github.skjolber.mockito-rest-spring/core-junit5@2.0.0?classifier=sources
+- pkg:maven/com.github.skjolber.mockito-rest-spring/core-junit5@2.0.1
+- pkg:maven/com.github.skjolber.mockito-rest-spring/core-junit5@2.0.1?classifier=sources

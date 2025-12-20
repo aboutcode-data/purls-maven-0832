@@ -71,6 +71,10 @@
 - pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.1
 - pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.10
 - pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.10?classifier=sources
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.11
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.11?classifier=sources
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.12
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.12?classifier=sources
 - pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.1?classifier=sources
 - pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.2
 - pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.2?classifier=sources
@@ -88,3 +92,9 @@
 - pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.8?classifier=sources
 - pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.9
 - pkg:maven/com.gammarer/aws-secure-log-bucket@1.1.9?classifier=sources
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.2.0
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.2.0?classifier=sources
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.2.1
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.2.1?classifier=sources
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.2.2
+- pkg:maven/com.gammarer/aws-secure-log-bucket@1.2.2?classifier=sources

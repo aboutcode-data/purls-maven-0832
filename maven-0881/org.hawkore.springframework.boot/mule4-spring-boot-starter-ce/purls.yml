@@ -3,3 +3,4 @@
 - pkg:maven/org.hawkore.springframework.boot/mule4-spring-boot-starter-ce@2.0.0
 - pkg:maven/org.hawkore.springframework.boot/mule4-spring-boot-starter-ce@2.0.1
 - pkg:maven/org.hawkore.springframework.boot/mule4-spring-boot-starter-ce@2.0.2
+- pkg:maven/org.hawkore.springframework.boot/mule4-spring-boot-starter-ce@3.0.0

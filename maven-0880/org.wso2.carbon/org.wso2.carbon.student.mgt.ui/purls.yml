@@ -99,4 +99,6 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.0-m3
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.1
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.1-m1
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.22
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.22?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui@4.9.3

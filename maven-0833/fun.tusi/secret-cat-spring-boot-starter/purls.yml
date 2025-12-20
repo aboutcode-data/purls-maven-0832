@@ -14,3 +14,7 @@
 - pkg:maven/fun.tusi/secret-cat-spring-boot-starter@1.0.4-sb2?classifier=sources
 - pkg:maven/fun.tusi/secret-cat-spring-boot-starter@1.0.4-sb3
 - pkg:maven/fun.tusi/secret-cat-spring-boot-starter@1.0.4-sb3?classifier=sources
+- pkg:maven/fun.tusi/secret-cat-spring-boot-starter@1.0.5-sb2
+- pkg:maven/fun.tusi/secret-cat-spring-boot-starter@1.0.5-sb2?classifier=sources
+- pkg:maven/fun.tusi/secret-cat-spring-boot-starter@1.0.5-sb3
+- pkg:maven/fun.tusi/secret-cat-spring-boot-starter@1.0.5-sb3?classifier=sources

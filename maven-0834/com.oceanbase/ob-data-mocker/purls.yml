@@ -1,1 +1,4 @@
 - pkg:maven/com.oceanbase/ob-data-mocker@0.1.4?classifier=sources
+- pkg:maven/com.oceanbase/ob-data-mocker@0.2.0?classifier=sources
+- pkg:maven/com.oceanbase/ob-data-mocker@0.2.1?classifier=sources
+- pkg:maven/com.oceanbase/ob-data-mocker@0.2.2?classifier=sources

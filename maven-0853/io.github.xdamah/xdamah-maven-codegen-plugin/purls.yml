@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xdamah/xdamah-maven-codegen-plugin@1.0.0
+- pkg:maven/io.github.xdamah/xdamah-maven-codegen-plugin@1.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.sourceforge.github.components.cloud/spring-gateway@1.0.0
+- pkg:maven/io.sourceforge.github.components.cloud/spring-gateway@1.1.1

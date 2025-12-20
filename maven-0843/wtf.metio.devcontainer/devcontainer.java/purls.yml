@@ -28,3 +28,5 @@
 - pkg:maven/wtf.metio.devcontainer/devcontainer.java@2023.5.12?classifier=sources
 - pkg:maven/wtf.metio.devcontainer/devcontainer.java@2023.9.15
 - pkg:maven/wtf.metio.devcontainer/devcontainer.java@2023.9.15?classifier=sources
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2024.1.12
+- pkg:maven/wtf.metio.devcontainer/devcontainer.java@2024.1.12?classifier=sources

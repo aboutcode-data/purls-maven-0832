@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.sikadai/sika-sharding-sphere-plus-demo@4.0.0
+- pkg:maven/io.gitee.sikadai/sika-sharding-sphere-plus-demo@4.0.0?classifier=sources
+- pkg:maven/io.gitee.sikadai/sika-sharding-sphere-plus-demo@4.0.1
+- pkg:maven/io.gitee.sikadai/sika-sharding-sphere-plus-demo@4.0.1?classifier=sources

@@ -4,3 +4,11 @@
 - pkg:maven/org.falland.grpc.longlivedstreams/examples@1.1?classifier=sources
 - pkg:maven/org.falland.grpc.longlivedstreams/examples@1.8
 - pkg:maven/org.falland.grpc.longlivedstreams/examples@1.8?classifier=sources
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@2.0
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@2.0?classifier=sources
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@3.0
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@3.0?classifier=sources
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@3.1
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@3.1?classifier=sources
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@3.2
+- pkg:maven/org.falland.grpc.longlivedstreams/examples@3.2?classifier=sources

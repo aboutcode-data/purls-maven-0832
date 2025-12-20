@@ -77,3 +77,5 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-docs@1.64?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-docs@1.65
 - pkg:maven/org.testingisdocumenting.znai/znai-docs@1.65?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-docs@1.66
+- pkg:maven/org.testingisdocumenting.znai/znai-docs@1.66?classifier=sources

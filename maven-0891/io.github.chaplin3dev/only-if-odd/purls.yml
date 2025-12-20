@@ -1,0 +1,2 @@
+- pkg:maven/io.github.chaplin3dev/only-if-odd@1.0.0
+- pkg:maven/io.github.chaplin3dev/only-if-odd@1.0.0?classifier=sources

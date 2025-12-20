@@ -81,3 +81,5 @@
 - pkg:maven/io.trino/trino-server-rpm@432?classifier=sources
 - pkg:maven/io.trino/trino-server-rpm@433?classifier=sources
 - pkg:maven/io.trino/trino-server-rpm@434?classifier=sources
+- pkg:maven/io.trino/trino-server-rpm@435?classifier=sources
+- pkg:maven/io.trino/trino-server-rpm@436?classifier=sources

@@ -23,4 +23,9 @@
 - pkg:maven/com.vaadin/vaadin-prod-bundle@24.2.5
 - pkg:maven/com.vaadin/vaadin-prod-bundle@24.2.6
 - pkg:maven/com.vaadin/vaadin-prod-bundle@24.2.7
+- pkg:maven/com.vaadin/vaadin-prod-bundle@24.2.8
+- pkg:maven/com.vaadin/vaadin-prod-bundle@24.2.9
 - pkg:maven/com.vaadin/vaadin-prod-bundle@24.3.0
+- pkg:maven/com.vaadin/vaadin-prod-bundle@24.3.1
+- pkg:maven/com.vaadin/vaadin-prod-bundle@24.3.2
+- pkg:maven/com.vaadin/vaadin-prod-bundle@24.3.3

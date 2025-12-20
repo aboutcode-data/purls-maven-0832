@@ -1,5 +1,15 @@
 - pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.1.0
 - pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.1.0?classifier=sources
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.10.0
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.10.0?classifier=sources
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.11.0
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.11.0?classifier=sources
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.12.0
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.12.0?classifier=sources
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.14.0
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.14.0?classifier=sources
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.15.0
+- pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.15.0?classifier=sources
 - pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.2.0
 - pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.2.0?classifier=sources
 - pkg:maven/io.github.cameronward301.communication_scheduler.workflows/communication_workflow@0.3.0

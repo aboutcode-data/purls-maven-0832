@@ -27,3 +27,7 @@
 - pkg:maven/com.facebook.flipper/flipper-jetpack-compose-plugin@0.237.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-jetpack-compose-plugin@0.238.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-jetpack-compose-plugin@0.240.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-jetpack-compose-plugin@0.242.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-jetpack-compose-plugin@0.243.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-jetpack-compose-plugin@0.244.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-jetpack-compose-plugin@0.245.0?classifier=sources

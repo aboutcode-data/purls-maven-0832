@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.pdfbox/quarkus-pdfbox-deployment@1.0.0.Alpha1
+- pkg:maven/io.quarkiverse.pdfbox/quarkus-pdfbox-deployment@1.0.0.Alpha1?classifier=sources

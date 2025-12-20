@@ -28,6 +28,8 @@
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.23?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.24
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.24?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.25
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.25?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.3
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.3?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.4
@@ -40,3 +42,5 @@
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.8?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.9
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.9?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.1.0
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.1.0?classifier=sources

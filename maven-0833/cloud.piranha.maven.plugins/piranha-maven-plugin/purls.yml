@@ -30,3 +30,5 @@
 - pkg:maven/cloud.piranha.maven.plugins/piranha-maven-plugin@23.8.0?classifier=sources
 - pkg:maven/cloud.piranha.maven.plugins/piranha-maven-plugin@23.9.0
 - pkg:maven/cloud.piranha.maven.plugins/piranha-maven-plugin@23.9.0?classifier=sources
+- pkg:maven/cloud.piranha.maven.plugins/piranha-maven-plugin@24.1.0
+- pkg:maven/cloud.piranha.maven.plugins/piranha-maven-plugin@24.1.0?classifier=sources

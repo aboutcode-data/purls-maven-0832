@@ -12,3 +12,5 @@
 - pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-repository@3.1.5.RELEASE?classifier=sources
 - pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-repository@3.1.7.RELEASE
 - pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-repository@3.1.7.RELEASE?classifier=sources
+- pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-repository@4.0.5
+- pkg:maven/com.chinagoods.framework.thinkcloud/think-cloud-starter-repository@4.0.5?classifier=sources

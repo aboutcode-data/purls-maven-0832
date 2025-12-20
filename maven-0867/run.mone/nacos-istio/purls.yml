@@ -1,0 +1,2 @@
+- pkg:maven/run.mone/nacos-istio@1.2.1-mone-v3
+- pkg:maven/run.mone/nacos-istio@1.2.1-mone-v3?classifier=sources

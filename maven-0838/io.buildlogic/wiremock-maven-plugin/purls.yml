@@ -1,0 +1,2 @@
+- pkg:maven/io.buildlogic/wiremock-maven-plugin@8.0.0
+- pkg:maven/io.buildlogic/wiremock-maven-plugin@8.0.0?classifier=sources

@@ -123,6 +123,10 @@
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.16?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.17
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.17?classifier=sources
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.18
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.18?classifier=sources
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.19
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.19?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.1?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.2
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.17.2?classifier=sources
@@ -143,6 +147,8 @@
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.0
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.0?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.1
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.10
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.10?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.1?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.2
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.2?classifier=sources
@@ -158,7 +164,13 @@
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.7?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.8
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.8?classifier=sources
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.9
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.18.9?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.19.0
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.19.0?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.19.1
 - pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.19.1?classifier=sources
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.19.2
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.19.2?classifier=sources
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.19.3
+- pkg:maven/org.jooq/jooq-meta-extensions-hibernate@3.19.3?classifier=sources

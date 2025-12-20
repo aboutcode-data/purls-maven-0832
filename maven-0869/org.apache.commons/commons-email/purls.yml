@@ -24,3 +24,4 @@
 - pkg:maven/org.apache.commons/commons-email@1.4?classifier=sources
 - pkg:maven/org.apache.commons/commons-email@1.5
 - pkg:maven/org.apache.commons/commons-email@1.5?classifier=sources
+- pkg:maven/org.apache.commons/commons-email@1.6.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.github.krraghavan/mongodb-aggregate-query-support-test@0.8.8?classifier=sources
 - pkg:maven/com.github.krraghavan/mongodb-aggregate-query-support-test@0.8.9
 - pkg:maven/com.github.krraghavan/mongodb-aggregate-query-support-test@0.8.9?classifier=sources
+- pkg:maven/com.github.krraghavan/mongodb-aggregate-query-support-test@0.9.0
+- pkg:maven/com.github.krraghavan/mongodb-aggregate-query-support-test@0.9.0?classifier=sources

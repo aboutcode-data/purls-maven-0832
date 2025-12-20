@@ -1,1 +1,2 @@
 - pkg:maven/io.kestra.plugin/plugin-sqlmesh@0.13.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-sqlmesh@0.14.0?classifier=sources

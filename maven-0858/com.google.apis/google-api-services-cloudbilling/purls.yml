@@ -224,6 +224,12 @@
 - pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev20231025-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev20231115-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev20231115-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev20231215-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev20231215-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev20240112-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev20240112-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev20240119-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev20240119-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbilling@v1-rev21-1.21.0
@@ -452,3 +458,5 @@
 - pkg:maven/com.google.apis/google-api-services-cloudbilling@v1beta-rev20230825-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbilling@v1beta-rev20231115-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudbilling@v1beta-rev20231115-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbilling@v1beta-rev20231215-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudbilling@v1beta-rev20231215-2.0.0?classifier=sources

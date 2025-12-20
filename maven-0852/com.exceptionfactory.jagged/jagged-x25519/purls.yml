@@ -1,3 +1,5 @@
 - pkg:maven/com.exceptionfactory.jagged/jagged-x25519@0.1.0?classifier=sources
 - pkg:maven/com.exceptionfactory.jagged/jagged-x25519@0.1.1?classifier=sources
 - pkg:maven/com.exceptionfactory.jagged/jagged-x25519@0.2.0?classifier=sources
+- pkg:maven/com.exceptionfactory.jagged/jagged-x25519@0.3.0?classifier=sources
+- pkg:maven/com.exceptionfactory.jagged/jagged-x25519@0.3.1?classifier=sources

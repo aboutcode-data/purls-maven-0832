@@ -2,6 +2,8 @@
 - pkg:maven/org.eclipse.californium/cf-plugtest-client@1.0.0-M2?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-plugtest-client@1.0.0-M3
 - pkg:maven/org.eclipse.californium/cf-plugtest-client@1.0.0-M3?classifier=sources
+- pkg:maven/org.eclipse.californium/cf-plugtest-client@3.10.0
+- pkg:maven/org.eclipse.californium/cf-plugtest-client@3.10.0?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-plugtest-client@3.5.0
 - pkg:maven/org.eclipse.californium/cf-plugtest-client@3.5.0?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-plugtest-client@3.6.0

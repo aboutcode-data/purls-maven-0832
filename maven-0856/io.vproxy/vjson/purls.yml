@@ -13,3 +13,5 @@
 - pkg:maven/io.vproxy/vjson@1.5.3-jdk9?classifier=sources
 - pkg:maven/io.vproxy/vjson@1.5.3?classifier=sources
 - pkg:maven/io.vproxy/vjson@1.5.4-jdk9?classifier=sources
+- pkg:maven/io.vproxy/vjson@1.5.5-jdk9?classifier=sources
+- pkg:maven/io.vproxy/vjson@1.5.5?classifier=sources

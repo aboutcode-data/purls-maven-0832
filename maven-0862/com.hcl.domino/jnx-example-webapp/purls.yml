@@ -56,3 +56,5 @@
 - pkg:maven/com.hcl.domino/jnx-example-webapp@1.31.0?type=war
 - pkg:maven/com.hcl.domino/jnx-example-webapp@1.32.0?classifier=sources
 - pkg:maven/com.hcl.domino/jnx-example-webapp@1.32.0?type=war
+- pkg:maven/com.hcl.domino/jnx-example-webapp@1.33.0?classifier=sources
+- pkg:maven/com.hcl.domino/jnx-example-webapp@1.33.0?type=war

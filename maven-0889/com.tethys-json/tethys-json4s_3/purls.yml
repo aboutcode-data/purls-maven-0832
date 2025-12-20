@@ -1,2 +1,4 @@
 - pkg:maven/com.tethys-json/tethys-json4s_3@0.28.0
 - pkg:maven/com.tethys-json/tethys-json4s_3@0.28.0?classifier=sources
+- pkg:maven/com.tethys-json/tethys-json4s_3@0.28.1
+- pkg:maven/com.tethys-json/tethys-json4s_3@0.28.1?classifier=sources

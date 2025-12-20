@@ -19,6 +19,7 @@
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@5.1.0-2
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@5.1.0-2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@5.10.0?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-jdbi3@5.10.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@5.2.0-1
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@5.2.0-1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@5.3.0-1
@@ -45,9 +46,11 @@
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@6.1.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@6.1.2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@6.2.0?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-jdbi3@6.2.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@7.0.0-rc.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@7.0.0-rc.2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@7.0.0?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@7.0.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@7.0.2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi3@7.1.0?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-jdbi3@7.1.1?classifier=sources

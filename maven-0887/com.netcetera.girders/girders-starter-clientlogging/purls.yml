@@ -14,3 +14,4 @@
 - pkg:maven/com.netcetera.girders/girders-starter-clientlogging@6.2.0
 - pkg:maven/com.netcetera.girders/girders-starter-clientlogging@6.2.1
 - pkg:maven/com.netcetera.girders/girders-starter-clientlogging@6.2.2
+- pkg:maven/com.netcetera.girders/girders-starter-clientlogging@6.3.0

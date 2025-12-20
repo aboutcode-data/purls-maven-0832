@@ -20,3 +20,9 @@
 - pkg:maven/io.github.kalin-rudnicki/harness-http-server_3@2.2.1?classifier=sources
 - pkg:maven/io.github.kalin-rudnicki/harness-http-server_3@2.2.2
 - pkg:maven/io.github.kalin-rudnicki/harness-http-server_3@2.2.2?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/harness-http-server_3@3.1.10
+- pkg:maven/io.github.kalin-rudnicki/harness-http-server_3@3.1.10?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/harness-http-server_3@3.1.11
+- pkg:maven/io.github.kalin-rudnicki/harness-http-server_3@3.1.11?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/harness-http-server_3@3.1.9
+- pkg:maven/io.github.kalin-rudnicki/harness-http-server_3@3.1.9?classifier=sources

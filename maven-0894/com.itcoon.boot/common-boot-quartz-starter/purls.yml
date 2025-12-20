@@ -1,2 +1,4 @@
 - pkg:maven/com.itcoon.boot/common-boot-quartz-starter@0.0.8
 - pkg:maven/com.itcoon.boot/common-boot-quartz-starter@0.0.8?classifier=sources
+- pkg:maven/com.itcoon.boot/common-boot-quartz-starter@1.1.0
+- pkg:maven/com.itcoon.boot/common-boot-quartz-starter@1.1.0?classifier=sources

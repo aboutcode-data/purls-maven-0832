@@ -48,3 +48,5 @@
 - pkg:maven/org.shredzone.commons/commons-suncalc@3.6?classifier=sources
 - pkg:maven/org.shredzone.commons/commons-suncalc@3.7
 - pkg:maven/org.shredzone.commons/commons-suncalc@3.7?classifier=sources
+- pkg:maven/org.shredzone.commons/commons-suncalc@3.8
+- pkg:maven/org.shredzone.commons/commons-suncalc@3.8?classifier=sources

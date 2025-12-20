@@ -30,3 +30,6 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@4.2.3?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@4.2.4?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@4.3.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@5.0.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@6.0.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@6.1.0?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.codehaus.mojo.natives/maven-native@1.0-M1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.natives/maven-native@1.0-alpha-11?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.natives/maven-native@1.0-alpha-4?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.natives/maven-native@1.0-alpha-5?classifier=source-release&type=zip

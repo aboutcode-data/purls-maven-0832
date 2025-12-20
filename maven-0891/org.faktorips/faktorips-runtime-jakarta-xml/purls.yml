@@ -34,3 +34,5 @@
 - pkg:maven/org.faktorips/faktorips-runtime-jakarta-xml@24.1.0.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-jakarta-xml@24.1.1.release
 - pkg:maven/org.faktorips/faktorips-runtime-jakarta-xml@24.1.1.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-jakarta-xml@24.1.2.release
+- pkg:maven/org.faktorips/faktorips-runtime-jakarta-xml@24.1.2.release?classifier=sources

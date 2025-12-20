@@ -117,6 +117,7 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@5.13.0.202109080827-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@5.13.1.202206130422-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@5.13.2.202306221912-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@5.13.3.202401111512-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@5.2.0.201812061821-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@5.2.1.201812262042-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@5.2.2.201904231744-r?classifier=sources

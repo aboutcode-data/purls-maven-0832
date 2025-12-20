@@ -2,3 +2,5 @@
 - pkg:maven/com.inrupt.rdf/inrupt-rdf-wrapping-jena@0.4.0?classifier=sources
 - pkg:maven/com.inrupt.rdf/inrupt-rdf-wrapping-jena@1.0.0
 - pkg:maven/com.inrupt.rdf/inrupt-rdf-wrapping-jena@1.0.0?classifier=sources
+- pkg:maven/com.inrupt.rdf/inrupt-rdf-wrapping-jena@1.1.0
+- pkg:maven/com.inrupt.rdf/inrupt-rdf-wrapping-jena@1.1.0?classifier=sources

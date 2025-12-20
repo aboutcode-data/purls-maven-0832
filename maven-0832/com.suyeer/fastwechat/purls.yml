@@ -116,3 +116,7 @@
 - pkg:maven/com.suyeer/fastwechat@5.0.4?classifier=sources
 - pkg:maven/com.suyeer/fastwechat@5.0.5
 - pkg:maven/com.suyeer/fastwechat@5.0.5?classifier=sources
+- pkg:maven/com.suyeer/fastwechat@6.0.0
+- pkg:maven/com.suyeer/fastwechat@6.0.0?classifier=sources
+- pkg:maven/com.suyeer/fastwechat@6.0.1
+- pkg:maven/com.suyeer/fastwechat@6.0.1?classifier=sources

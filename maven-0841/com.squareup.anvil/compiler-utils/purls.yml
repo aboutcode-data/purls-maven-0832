@@ -34,3 +34,5 @@
 - pkg:maven/com.squareup.anvil/compiler-utils@2.4.7?classifier=sources
 - pkg:maven/com.squareup.anvil/compiler-utils@2.4.8-1-8?classifier=sources
 - pkg:maven/com.squareup.anvil/compiler-utils@2.4.8?classifier=sources
+- pkg:maven/com.squareup.anvil/compiler-utils@2.4.9-1-8?classifier=sources
+- pkg:maven/com.squareup.anvil/compiler-utils@2.4.9?classifier=sources

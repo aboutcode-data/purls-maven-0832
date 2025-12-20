@@ -16,8 +16,18 @@
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.18.0?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.18.1?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.18.2?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.19.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.19.1?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.2.1?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.2.3?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.20.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.21.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.23.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.24.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.25.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.25.1?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.25.2?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.28.0?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.3.0-RC1?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.3.0-RC2?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.3.0-RC3?classifier=sources
@@ -33,3 +43,5 @@
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.7.4?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.7.5?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.9.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@3.0.0-alpha01?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@3.0.0-alpha02?classifier=sources

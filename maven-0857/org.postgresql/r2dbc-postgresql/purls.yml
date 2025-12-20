@@ -22,3 +22,5 @@
 - pkg:maven/org.postgresql/r2dbc-postgresql@1.0.2.RELEASE?classifier=sources
 - pkg:maven/org.postgresql/r2dbc-postgresql@1.0.3.RELEASE
 - pkg:maven/org.postgresql/r2dbc-postgresql@1.0.3.RELEASE?classifier=sources
+- pkg:maven/org.postgresql/r2dbc-postgresql@1.0.4.RELEASE
+- pkg:maven/org.postgresql/r2dbc-postgresql@1.0.4.RELEASE?classifier=sources
