@@ -12,3 +12,6 @@
 - pkg:maven/club.psychose/ibo@2.0.3?classifier=sources
 - pkg:maven/club.psychose/ibo@2.1.0?classifier=sources
 - pkg:maven/club.psychose/ibo@2.1.1?classifier=sources
+- pkg:maven/club.psychose/ibo@2.2.0-maven-fix?classifier=sources
+- pkg:maven/club.psychose/ibo@2.2.0?classifier=sources
+- pkg:maven/club.psychose/ibo@2.3.0?classifier=sources

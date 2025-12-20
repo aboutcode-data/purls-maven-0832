@@ -32,3 +32,4 @@
 - pkg:maven/io.micronaut/micronaut-http-client-tck@4.1.8?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-tck@4.1.9?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-tck@4.2.0?classifier=sources
+- pkg:maven/io.micronaut/micronaut-http-client-tck@4.2.1?classifier=sources

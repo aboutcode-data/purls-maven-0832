@@ -1,2 +1,6 @@
 - pkg:maven/top.jiaojinxin/jln-oss@0.1.7
 - pkg:maven/top.jiaojinxin/jln-oss@0.1.7?classifier=sources
+- pkg:maven/top.jiaojinxin/jln-oss@2.7.18.0
+- pkg:maven/top.jiaojinxin/jln-oss@2.7.18.0?classifier=sources
+- pkg:maven/top.jiaojinxin/jln-oss@3.1.6.0
+- pkg:maven/top.jiaojinxin/jln-oss@3.1.6.0?classifier=sources

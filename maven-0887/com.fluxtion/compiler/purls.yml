@@ -251,6 +251,10 @@
 - pkg:maven/com.fluxtion/compiler@9.1.10?classifier=sources
 - pkg:maven/com.fluxtion/compiler@9.1.11
 - pkg:maven/com.fluxtion/compiler@9.1.11?classifier=sources
+- pkg:maven/com.fluxtion/compiler@9.1.12
+- pkg:maven/com.fluxtion/compiler@9.1.12?classifier=sources
+- pkg:maven/com.fluxtion/compiler@9.1.13
+- pkg:maven/com.fluxtion/compiler@9.1.13?classifier=sources
 - pkg:maven/com.fluxtion/compiler@9.1.1?classifier=sources
 - pkg:maven/com.fluxtion/compiler@9.1.2
 - pkg:maven/com.fluxtion/compiler@9.1.2?classifier=sources

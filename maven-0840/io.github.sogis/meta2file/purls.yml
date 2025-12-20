@@ -1,5 +1,6 @@
 - pkg:maven/io.github.sogis/meta2file@1.0.100?classifier=sources
 - pkg:maven/io.github.sogis/meta2file@1.0.101?classifier=sources
+- pkg:maven/io.github.sogis/meta2file@1.0.103?classifier=sources
 - pkg:maven/io.github.sogis/meta2file@1.0.62?classifier=sources
 - pkg:maven/io.github.sogis/meta2file@1.0.63?classifier=sources
 - pkg:maven/io.github.sogis/meta2file@1.0.64?classifier=sources

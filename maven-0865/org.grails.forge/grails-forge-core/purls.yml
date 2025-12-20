@@ -1,3 +1,4 @@
 - pkg:maven/org.grails.forge/grails-forge-core@6.0.0-M2?classifier=sources
 - pkg:maven/org.grails.forge/grails-forge-core@6.0.0?classifier=sources
 - pkg:maven/org.grails.forge/grails-forge-core@6.1.0?classifier=sources
+- pkg:maven/org.grails.forge/grails-forge-core@6.1.1?classifier=sources

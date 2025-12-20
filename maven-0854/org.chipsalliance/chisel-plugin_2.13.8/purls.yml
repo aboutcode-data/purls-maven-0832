@@ -16,3 +16,5 @@
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.8@6.0.0-M2?classifier=sources
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.8@6.0.0-M3
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.8@6.0.0-M3?classifier=sources
+- pkg:maven/org.chipsalliance/chisel-plugin_2.13.8@6.0.0-RC1
+- pkg:maven/org.chipsalliance/chisel-plugin_2.13.8@6.0.0-RC1?classifier=sources

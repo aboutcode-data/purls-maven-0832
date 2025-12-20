@@ -1,0 +1,2 @@
+- pkg:maven/org.frankframework/frankframework-console-webapp@8.0.0?classifier=sources
+- pkg:maven/org.frankframework/frankframework-console-webapp@8.0.0?type=war

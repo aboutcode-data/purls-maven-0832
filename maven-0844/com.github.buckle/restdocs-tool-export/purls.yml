@@ -3,3 +3,4 @@
 - pkg:maven/com.github.buckle/restdocs-tool-export@0.0.2-RELEASE
 - pkg:maven/com.github.buckle/restdocs-tool-export@0.0.2-RELEASE?classifier=sources
 - pkg:maven/com.github.buckle/restdocs-tool-export@0.0.3-RELEASE?classifier=sources
+- pkg:maven/com.github.buckle/restdocs-tool-export@0.0.4-RELEASE?classifier=sources

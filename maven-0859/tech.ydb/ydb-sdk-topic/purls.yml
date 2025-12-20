@@ -16,3 +16,5 @@
 - pkg:maven/tech.ydb/ydb-sdk-topic@2.1.7?classifier=sources
 - pkg:maven/tech.ydb/ydb-sdk-topic@2.1.8
 - pkg:maven/tech.ydb/ydb-sdk-topic@2.1.8?classifier=sources
+- pkg:maven/tech.ydb/ydb-sdk-topic@2.1.9
+- pkg:maven/tech.ydb/ydb-sdk-topic@2.1.9?classifier=sources

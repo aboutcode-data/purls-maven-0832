@@ -17,3 +17,4 @@
 - pkg:maven/io.seata/seata-compressor-all@1.7.0-native-rc2
 - pkg:maven/io.seata/seata-compressor-all@1.7.1
 - pkg:maven/io.seata/seata-compressor-all@1.8.0
+- pkg:maven/io.seata/seata-compressor-all@2.0.0

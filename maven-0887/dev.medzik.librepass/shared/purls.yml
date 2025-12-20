@@ -10,3 +10,7 @@
 - pkg:maven/dev.medzik.librepass/shared@0.1.0?classifier=sources
 - pkg:maven/dev.medzik.librepass/shared@1.0.0
 - pkg:maven/dev.medzik.librepass/shared@1.0.0?classifier=sources
+- pkg:maven/dev.medzik.librepass/shared@1.1.0
+- pkg:maven/dev.medzik.librepass/shared@1.1.0?classifier=sources
+- pkg:maven/dev.medzik.librepass/shared@1.2.0
+- pkg:maven/dev.medzik.librepass/shared@1.2.0?classifier=sources

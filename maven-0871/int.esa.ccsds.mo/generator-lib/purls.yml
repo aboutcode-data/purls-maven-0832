@@ -1,2 +1,4 @@
+- pkg:maven/int.esa.ccsds.mo/generator-lib@10.0
+- pkg:maven/int.esa.ccsds.mo/generator-lib@10.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/generator-lib@9.0
 - pkg:maven/int.esa.ccsds.mo/generator-lib@9.0?classifier=sources

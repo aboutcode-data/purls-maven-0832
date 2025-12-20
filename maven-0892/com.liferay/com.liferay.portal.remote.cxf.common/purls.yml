@@ -136,6 +136,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@3.0.42
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@3.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@3.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@3.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@3.0.5
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@3.0.5?classifier=sources
@@ -219,6 +220,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@4.0.3
+- pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@4.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@4.0.4
@@ -324,6 +326,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@5.0.34
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@5.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@5.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@5.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@5.0.4
@@ -414,6 +417,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@6.0.3
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@6.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@6.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.cxf.common@6.0.4

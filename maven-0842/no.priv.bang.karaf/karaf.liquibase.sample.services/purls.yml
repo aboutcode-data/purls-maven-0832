@@ -1,2 +1,10 @@
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.23.0
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.23.0?classifier=sources
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.23.1
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.23.1?classifier=sources
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.23.2
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.23.2?classifier=sources
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.24.0
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.24.0?classifier=sources
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.25.0
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.services@4.25.0?classifier=sources

@@ -94,3 +94,9 @@
 - pkg:maven/net.optionfactory.spring/upstream@8.1?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@8.2
 - pkg:maven/net.optionfactory.spring/upstream@8.2?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@8.3
+- pkg:maven/net.optionfactory.spring/upstream@8.3?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@9.0
+- pkg:maven/net.optionfactory.spring/upstream@9.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@9.1
+- pkg:maven/net.optionfactory.spring/upstream@9.1?classifier=sources

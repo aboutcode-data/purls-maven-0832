@@ -1,3 +1,9 @@
 - pkg:maven/org.languagetool/portuguese-pos-dict@0.1
 - pkg:maven/org.languagetool/portuguese-pos-dict@0.2
 - pkg:maven/org.languagetool/portuguese-pos-dict@0.3
+- pkg:maven/org.languagetool/portuguese-pos-dict@0.4
+- pkg:maven/org.languagetool/portuguese-pos-dict@0.5
+- pkg:maven/org.languagetool/portuguese-pos-dict@0.6
+- pkg:maven/org.languagetool/portuguese-pos-dict@0.7
+- pkg:maven/org.languagetool/portuguese-pos-dict@0.8
+- pkg:maven/org.languagetool/portuguese-pos-dict@0.9

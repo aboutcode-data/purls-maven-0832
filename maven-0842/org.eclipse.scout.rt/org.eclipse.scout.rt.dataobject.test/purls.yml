@@ -168,6 +168,8 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@23.2.11?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@23.2.13
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@23.2.13?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@23.2.15
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@23.2.15?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@23.2.2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@23.2.2?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataobject.test@23.2.4

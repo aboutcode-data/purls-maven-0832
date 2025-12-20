@@ -32,3 +32,5 @@
 - pkg:maven/io.seata/seata-sqlparser-druid@1.7.1?classifier=sources
 - pkg:maven/io.seata/seata-sqlparser-druid@1.8.0
 - pkg:maven/io.seata/seata-sqlparser-druid@1.8.0?classifier=sources
+- pkg:maven/io.seata/seata-sqlparser-druid@2.0.0
+- pkg:maven/io.seata/seata-sqlparser-druid@2.0.0?classifier=sources

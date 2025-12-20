@@ -12,6 +12,10 @@
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.15.0?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.16.0?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.16.1?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.17.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.18.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.18.1?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/orm@2.18.2?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.2.1?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.2.3?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/orm@2.3.0-RC1?classifier=sources

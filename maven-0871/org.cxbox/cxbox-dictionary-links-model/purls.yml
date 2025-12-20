@@ -1,2 +1,4 @@
 - pkg:maven/org.cxbox/cxbox-dictionary-links-model@3.0.5
 - pkg:maven/org.cxbox/cxbox-dictionary-links-model@3.0.5?classifier=sources
+- pkg:maven/org.cxbox/cxbox-dictionary-links-model@4.0.0-M1
+- pkg:maven/org.cxbox/cxbox-dictionary-links-model@4.0.0-M1?classifier=sources

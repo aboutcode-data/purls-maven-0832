@@ -1,0 +1,2 @@
+- pkg:maven/io.7mind.izumi/json-sick_3@0.1.6
+- pkg:maven/io.7mind.izumi/json-sick_3@0.1.6?classifier=sources

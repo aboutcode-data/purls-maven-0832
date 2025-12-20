@@ -6,3 +6,7 @@
 - pkg:maven/tech.ydb.jdbc/ydb-jdbc-driver-shaded@2.0.2?classifier=sources
 - pkg:maven/tech.ydb.jdbc/ydb-jdbc-driver-shaded@2.0.3
 - pkg:maven/tech.ydb.jdbc/ydb-jdbc-driver-shaded@2.0.3?classifier=sources
+- pkg:maven/tech.ydb.jdbc/ydb-jdbc-driver-shaded@2.0.4
+- pkg:maven/tech.ydb.jdbc/ydb-jdbc-driver-shaded@2.0.4?classifier=sources
+- pkg:maven/tech.ydb.jdbc/ydb-jdbc-driver-shaded@2.0.5
+- pkg:maven/tech.ydb.jdbc/ydb-jdbc-driver-shaded@2.0.5?classifier=sources

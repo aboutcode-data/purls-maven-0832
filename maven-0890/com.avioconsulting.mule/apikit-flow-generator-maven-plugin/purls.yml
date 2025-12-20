@@ -5,3 +5,4 @@
 - pkg:maven/com.avioconsulting.mule/apikit-flow-generator-maven-plugin@1.0.2
 - pkg:maven/com.avioconsulting.mule/apikit-flow-generator-maven-plugin@1.0.2?classifier=sources
 - pkg:maven/com.avioconsulting.mule/apikit-flow-generator-maven-plugin@1.0.4?classifier=sources
+- pkg:maven/com.avioconsulting.mule/apikit-flow-generator-maven-plugin@1.0.5?classifier=sources

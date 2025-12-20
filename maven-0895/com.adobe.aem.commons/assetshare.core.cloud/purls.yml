@@ -42,3 +42,5 @@
 - pkg:maven/com.adobe.aem.commons/assetshare.core.cloud@3.4.2?classifier=sources
 - pkg:maven/com.adobe.aem.commons/assetshare.core.cloud@3.5.0
 - pkg:maven/com.adobe.aem.commons/assetshare.core.cloud@3.5.0?classifier=sources
+- pkg:maven/com.adobe.aem.commons/assetshare.core.cloud@3.6.0
+- pkg:maven/com.adobe.aem.commons/assetshare.core.cloud@3.6.0?classifier=sources

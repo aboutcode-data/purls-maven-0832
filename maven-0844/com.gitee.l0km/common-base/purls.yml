@@ -346,3 +346,5 @@
 - pkg:maven/com.gitee.l0km/common-base@2.8.4?classifier=sources
 - pkg:maven/com.gitee.l0km/common-base@2.8.5
 - pkg:maven/com.gitee.l0km/common-base@2.8.5?classifier=sources
+- pkg:maven/com.gitee.l0km/common-base@2.8.6
+- pkg:maven/com.gitee.l0km/common-base@2.8.6?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.yomahub/liteflow-script-aviator@2.11.2?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-aviator@2.11.3
 - pkg:maven/com.yomahub/liteflow-script-aviator@2.11.3?classifier=sources
+- pkg:maven/com.yomahub/liteflow-script-aviator@2.11.4-BETA1
+- pkg:maven/com.yomahub/liteflow-script-aviator@2.11.4-BETA1?classifier=sources

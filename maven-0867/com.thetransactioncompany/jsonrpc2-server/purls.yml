@@ -7,3 +7,4 @@
 - pkg:maven/com.thetransactioncompany/jsonrpc2-server@1.11?classifier=sources
 - pkg:maven/com.thetransactioncompany/jsonrpc2-server@1.9.2
 - pkg:maven/com.thetransactioncompany/jsonrpc2-server@1.9.2?classifier=sources
+- pkg:maven/com.thetransactioncompany/jsonrpc2-server@2.0?classifier=sources

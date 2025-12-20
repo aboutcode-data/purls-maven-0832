@@ -15,3 +15,4 @@
 - pkg:maven/com.koivusolutions.vfc/vfc-nifi-processor@1.9.1?classifier=sources
 - pkg:maven/com.koivusolutions.vfc/vfc-nifi-processor@1.9.2?classifier=sources
 - pkg:maven/com.koivusolutions.vfc/vfc-nifi-processor@1.9.3?classifier=sources
+- pkg:maven/com.koivusolutions.vfc/vfc-nifi-processor@2.0.0?classifier=sources

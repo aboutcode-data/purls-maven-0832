@@ -1,0 +1,2 @@
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.69.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-sonar@0.69.2?classifier=sources

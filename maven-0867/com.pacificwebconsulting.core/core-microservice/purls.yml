@@ -229,3 +229,5 @@
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@3.0.1?classifier=sources
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@3.0.2
 - pkg:maven/com.pacificwebconsulting.core/core-microservice@3.0.2?classifier=sources
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@3.0.3
+- pkg:maven/com.pacificwebconsulting.core/core-microservice@3.0.3?classifier=sources

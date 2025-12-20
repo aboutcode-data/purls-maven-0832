@@ -8,3 +8,5 @@
 - pkg:maven/com.madgag.play-git-hub/testkit_2.13@5.8?classifier=sources
 - pkg:maven/com.madgag.play-git-hub/testkit_2.13@5.9
 - pkg:maven/com.madgag.play-git-hub/testkit_2.13@5.9?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@6.0
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@6.0?classifier=sources

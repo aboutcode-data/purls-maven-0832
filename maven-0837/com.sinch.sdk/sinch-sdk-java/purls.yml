@@ -1,0 +1,2 @@
+- pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.1-alpha
+- pkg:maven/com.sinch.sdk/sinch-sdk-java@0.0.1-alpha?classifier=sources

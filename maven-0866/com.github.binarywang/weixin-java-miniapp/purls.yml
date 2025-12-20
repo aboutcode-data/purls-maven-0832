@@ -386,3 +386,7 @@
 - pkg:maven/com.github.binarywang/weixin-java-miniapp@4.5.5.B?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-miniapp@4.5.6.B
 - pkg:maven/com.github.binarywang/weixin-java-miniapp@4.5.6.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-miniapp@4.5.7.B
+- pkg:maven/com.github.binarywang/weixin-java-miniapp@4.5.7.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-miniapp@4.5.8.B
+- pkg:maven/com.github.binarywang/weixin-java-miniapp@4.5.8.B?classifier=sources

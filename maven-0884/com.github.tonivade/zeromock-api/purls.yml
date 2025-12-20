@@ -11,6 +11,7 @@
 - pkg:maven/com.github.tonivade/zeromock-api@0.15.0?classifier=sources
 - pkg:maven/com.github.tonivade/zeromock-api@0.16.0?classifier=sources
 - pkg:maven/com.github.tonivade/zeromock-api@0.17.0?classifier=sources
+- pkg:maven/com.github.tonivade/zeromock-api@0.18.0?classifier=sources
 - pkg:maven/com.github.tonivade/zeromock-api@0.6.0
 - pkg:maven/com.github.tonivade/zeromock-api@0.6.0?classifier=sources
 - pkg:maven/com.github.tonivade/zeromock-api@0.7.0

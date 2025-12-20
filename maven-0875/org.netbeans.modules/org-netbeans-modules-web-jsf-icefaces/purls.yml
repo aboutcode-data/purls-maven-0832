@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE200?classifier=sources

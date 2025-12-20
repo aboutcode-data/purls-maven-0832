@@ -68,6 +68,7 @@
 - pkg:maven/org.apache.struts/struts2-assembly@2.5.30?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@2.5.31?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@2.5.32?classifier=src&type=zip
+- pkg:maven/org.apache.struts/struts2-assembly@2.5.33?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@2.5.5?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@2.5.8?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@2.5?classifier=src&type=zip
@@ -79,4 +80,5 @@
 - pkg:maven/org.apache.struts/struts2-assembly@6.1.2?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@6.2.0?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@6.3.0.1?classifier=src&type=zip
+- pkg:maven/org.apache.struts/struts2-assembly@6.3.0.2?classifier=src&type=zip
 - pkg:maven/org.apache.struts/struts2-assembly@6.3.0?classifier=src&type=zip

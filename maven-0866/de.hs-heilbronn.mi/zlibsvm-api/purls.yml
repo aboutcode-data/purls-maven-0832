@@ -30,3 +30,5 @@
 - pkg:maven/de.hs-heilbronn.mi/zlibsvm-api@2.0.9
 - pkg:maven/de.hs-heilbronn.mi/zlibsvm-api@2.0.9?classifier=sources
 - pkg:maven/de.hs-heilbronn.mi/zlibsvm-api@2.0?classifier=sources
+- pkg:maven/de.hs-heilbronn.mi/zlibsvm-api@2.1.0
+- pkg:maven/de.hs-heilbronn.mi/zlibsvm-api@2.1.0?classifier=sources

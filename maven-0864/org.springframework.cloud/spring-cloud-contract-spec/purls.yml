@@ -83,8 +83,10 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@3.1.6
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@3.1.7
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@3.1.8
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@3.1.9
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@4.0.1
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@4.0.2
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@4.0.3
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@4.0.4
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-spec@4.1.0

@@ -1,2 +1,4 @@
 - pkg:maven/edu.uiuc.ncsa.qdl/language@1.5.3
 - pkg:maven/edu.uiuc.ncsa.qdl/language@1.5.3?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.qdl/language@1.5.4.2
+- pkg:maven/edu.uiuc.ncsa.qdl/language@1.5.4.2?classifier=sources

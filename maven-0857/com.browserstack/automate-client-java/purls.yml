@@ -2,6 +2,8 @@
 - pkg:maven/com.browserstack/automate-client-java@0.10?classifier=sources
 - pkg:maven/com.browserstack/automate-client-java@0.12
 - pkg:maven/com.browserstack/automate-client-java@0.12?classifier=sources
+- pkg:maven/com.browserstack/automate-client-java@0.14
+- pkg:maven/com.browserstack/automate-client-java@0.14?classifier=sources
 - pkg:maven/com.browserstack/automate-client-java@0.2
 - pkg:maven/com.browserstack/automate-client-java@0.2?classifier=sources
 - pkg:maven/com.browserstack/automate-client-java@0.3

@@ -38,3 +38,5 @@
 - pkg:maven/it.ozimov/spring-boot-freemarker-email@0.6.2?classifier=sources
 - pkg:maven/it.ozimov/spring-boot-freemarker-email@0.6.3
 - pkg:maven/it.ozimov/spring-boot-freemarker-email@0.6.3?classifier=sources
+- pkg:maven/it.ozimov/spring-boot-freemarker-email@1.0.0
+- pkg:maven/it.ozimov/spring-boot-freemarker-email@1.0.0?classifier=sources

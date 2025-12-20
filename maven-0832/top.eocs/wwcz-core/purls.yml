@@ -13,3 +13,4 @@
 - pkg:maven/top.eocs/wwcz-core@2.1?classifier=sources
 - pkg:maven/top.eocs/wwcz-core@2.2?classifier=sources
 - pkg:maven/top.eocs/wwcz-core@2.3?classifier=sources
+- pkg:maven/top.eocs/wwcz-core@2.4?classifier=sources

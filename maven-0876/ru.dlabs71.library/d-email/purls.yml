@@ -1,0 +1,2 @@
+- pkg:maven/ru.dlabs71.library/d-email@0.0.1
+- pkg:maven/ru.dlabs71.library/d-email@0.0.1?classifier=sources

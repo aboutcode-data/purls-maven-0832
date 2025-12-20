@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/frameless-cats-spark34_2.13@0.16.0
+- pkg:maven/org.typelevel/frameless-cats-spark34_2.13@0.16.0?classifier=sources

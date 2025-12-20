@@ -120,6 +120,8 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.10.2?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.11.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.11.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.12.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.12.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.2.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.2.0.RC1
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-gcp-pubsub@4.2.0.RC1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.github.padaiyal.libs/filesystem@2023.02.06?classifier=sources
 - pkg:maven/io.github.padaiyal.libs/filesystem@2023.02.07
 - pkg:maven/io.github.padaiyal.libs/filesystem@2023.02.07?classifier=sources
+- pkg:maven/io.github.padaiyal.libs/filesystem@2023.12.11
+- pkg:maven/io.github.padaiyal.libs/filesystem@2023.12.11?classifier=sources

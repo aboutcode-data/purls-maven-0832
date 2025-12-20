@@ -1,0 +1,2 @@
+- pkg:maven/com.apollographql.apollo3/apollo-compose-support-incubating@4.0.0-beta.3?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-compose-support-incubating@4.0.0-beta.4?classifier=sources

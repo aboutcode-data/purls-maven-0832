@@ -20,3 +20,5 @@
 - pkg:maven/io.github.hagay3/skuber-examples_3@3.2?classifier=sources
 - pkg:maven/io.github.hagay3/skuber-examples_3@4.0.0
 - pkg:maven/io.github.hagay3/skuber-examples_3@4.0.0?classifier=sources
+- pkg:maven/io.github.hagay3/skuber-examples_3@4.0.1
+- pkg:maven/io.github.hagay3/skuber-examples_3@4.0.1?classifier=sources

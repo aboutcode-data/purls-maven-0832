@@ -4,3 +4,7 @@
 - pkg:maven/io.gatling/gatling-build-plugin_2.12_1.0@5.2.2?classifier=sources
 - pkg:maven/io.gatling/gatling-build-plugin_2.12_1.0@5.3.0
 - pkg:maven/io.gatling/gatling-build-plugin_2.12_1.0@5.3.0?classifier=sources
+- pkg:maven/io.gatling/gatling-build-plugin_2.12_1.0@6.0.0
+- pkg:maven/io.gatling/gatling-build-plugin_2.12_1.0@6.0.0?classifier=sources
+- pkg:maven/io.gatling/gatling-build-plugin_2.12_1.0@6.0.1
+- pkg:maven/io.gatling/gatling-build-plugin_2.12_1.0@6.0.1?classifier=sources

@@ -159,6 +159,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.147
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.147?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.148?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.149?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@1.0.15
@@ -669,6 +670,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@2.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@2.0.17
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@2.0.170?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@2.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@2.0.18
@@ -1204,6 +1206,8 @@
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.182?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.183?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.184?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.185?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.186?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.19

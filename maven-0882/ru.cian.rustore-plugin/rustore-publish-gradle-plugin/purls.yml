@@ -1,0 +1,2 @@
+- pkg:maven/ru.cian.rustore-plugin/rustore-publish-gradle-plugin@0.3.0?classifier=sources
+- pkg:maven/ru.cian.rustore-plugin/rustore-publish-gradle-plugin@0.3.1?classifier=sources

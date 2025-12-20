@@ -133,3 +133,5 @@
 - pkg:maven/org.apache.pdfbox/fontbox@3.0.0-beta1
 - pkg:maven/org.apache.pdfbox/fontbox@3.0.0-beta1?classifier=sources
 - pkg:maven/org.apache.pdfbox/fontbox@3.0.0?classifier=sources
+- pkg:maven/org.apache.pdfbox/fontbox@3.0.1
+- pkg:maven/org.apache.pdfbox/fontbox@3.0.1?classifier=sources

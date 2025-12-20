@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-config-owb@5.7.2?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-config-owb@5.8.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-config-owb@5.8.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-config-owb@5.9.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-config-owb@5.9.0?classifier=sources

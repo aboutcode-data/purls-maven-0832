@@ -60,5 +60,9 @@
 - pkg:maven/ai.chronon/spark_uber_2.13@0.0.58?classifier=sources
 - pkg:maven/ai.chronon/spark_uber_2.13@0.0.59
 - pkg:maven/ai.chronon/spark_uber_2.13@0.0.59?classifier=sources
+- pkg:maven/ai.chronon/spark_uber_2.13@0.0.60
+- pkg:maven/ai.chronon/spark_uber_2.13@0.0.60?classifier=sources
+- pkg:maven/ai.chronon/spark_uber_2.13@0.0.61
+- pkg:maven/ai.chronon/spark_uber_2.13@0.0.61?classifier=sources
 - pkg:maven/ai.chronon/spark_uber_2.13@chaining-0.0.46-dev
 - pkg:maven/ai.chronon/spark_uber_2.13@chaining-0.0.46-dev?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.5.1
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.5.2
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.5.3
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.6.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.7.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.7.1
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.7.2

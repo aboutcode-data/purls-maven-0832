@@ -48,3 +48,5 @@
 - pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@2.0.0?classifier=sources
 - pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@2.1.0
 - pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@2.1.0?classifier=sources
+- pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@2.2.0
+- pkg:maven/se.jguru.shared.messaging.test.jms/jguru-shared-messaging-jms-test@2.2.0?classifier=sources

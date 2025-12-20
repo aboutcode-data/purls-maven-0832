@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-source-base@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-source-base@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-source-base@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-source-base@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-source-base@RELEASE90?classifier=sources

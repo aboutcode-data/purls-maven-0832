@@ -1,3 +1,5 @@
 - pkg:maven/org.grails.plugins/grails-redis@3.0.0?classifier=sources
 - pkg:maven/org.grails.plugins/grails-redis@3.0.1?classifier=sources
 - pkg:maven/org.grails.plugins/grails-redis@3.1.0?classifier=sources
+- pkg:maven/org.grails.plugins/grails-redis@4.0.0?classifier=sources
+- pkg:maven/org.grails.plugins/grails-redis@4.0.1?classifier=sources

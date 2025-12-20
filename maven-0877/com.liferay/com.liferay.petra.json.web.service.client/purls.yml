@@ -115,6 +115,7 @@
 - pkg:maven/com.liferay/com.liferay.petra.json.web.service.client@12.0.20
 - pkg:maven/com.liferay/com.liferay.petra.json.web.service.client@12.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.json.web.service.client@12.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.json.web.service.client@12.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.json.web.service.client@12.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.json.web.service.client@12.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.json.web.service.client@12.0.3

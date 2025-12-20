@@ -1,3 +1,4 @@
+- pkg:maven/com.contentgrid.spring/contentgrid-spring-boot-actuators@0.10.0?classifier=sources
 - pkg:maven/com.contentgrid.spring/contentgrid-spring-boot-actuators@0.2.0?classifier=sources
 - pkg:maven/com.contentgrid.spring/contentgrid-spring-boot-actuators@0.3.0?classifier=sources
 - pkg:maven/com.contentgrid.spring/contentgrid-spring-boot-actuators@0.3.1?classifier=sources

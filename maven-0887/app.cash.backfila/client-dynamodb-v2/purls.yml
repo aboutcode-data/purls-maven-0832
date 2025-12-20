@@ -33,3 +33,16 @@
 - pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.09.164101-0241a0b?classifier=sources
 - pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.13.112622-ad0d20f?classifier=sources
 - pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.13.173239-74d2a09?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.15.104652-52bcbe1?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.15.110435-1b57c10?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.20.120917-f526a2d?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.22.144956-0827422?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.23.131530-d3126ad?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.23.165646-4fd9d3c?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.23.215940-38491d6?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.11.24.141218-0357917?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.12.01.210510-f61f157?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.12.04.031719-bf5f9ab?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.12.06.203214-df72a38?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.12.11.202114-32fc827?classifier=sources
+- pkg:maven/app.cash.backfila/client-dynamodb-v2@2023.12.12.224805-b616a84?classifier=sources

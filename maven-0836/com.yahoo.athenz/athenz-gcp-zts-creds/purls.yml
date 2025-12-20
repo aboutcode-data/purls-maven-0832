@@ -32,3 +32,7 @@
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.45?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.46
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.46?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.47
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.47?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.48
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.48?classifier=sources

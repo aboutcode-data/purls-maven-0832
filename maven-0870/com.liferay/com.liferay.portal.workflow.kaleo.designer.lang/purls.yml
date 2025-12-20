@@ -148,6 +148,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@2.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@2.0.33
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@2.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@2.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@2.0.4
@@ -227,6 +228,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@3.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@3.0.29
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@3.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@3.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@3.0.5
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@3.0.5?classifier=sources-commercial
@@ -337,6 +339,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@4.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@4.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@4.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@4.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.lang@4.0.5

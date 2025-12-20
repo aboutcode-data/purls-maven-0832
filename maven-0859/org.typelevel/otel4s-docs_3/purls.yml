@@ -6,3 +6,5 @@
 - pkg:maven/org.typelevel/otel4s-docs_3@0.3.0-RC2
 - pkg:maven/org.typelevel/otel4s-docs_3@0.3.0-RC2?classifier=sources
 - pkg:maven/org.typelevel/otel4s-docs_3@0.3.0?classifier=sources
+- pkg:maven/org.typelevel/otel4s-docs_3@0.4.0
+- pkg:maven/org.typelevel/otel4s-docs_3@0.4.0?classifier=sources

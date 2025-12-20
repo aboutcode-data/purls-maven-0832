@@ -80,3 +80,4 @@
 - pkg:maven/io.trino/trino-docs@431?classifier=sources
 - pkg:maven/io.trino/trino-docs@432?classifier=sources
 - pkg:maven/io.trino/trino-docs@433?classifier=sources
+- pkg:maven/io.trino/trino-docs@434?classifier=sources

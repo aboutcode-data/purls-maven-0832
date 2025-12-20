@@ -12,3 +12,4 @@
 - pkg:maven/com.jauntsdn.rsocket/rsocket-rpc-idl@1.4.0?classifier=sources
 - pkg:maven/com.jauntsdn.rsocket/rsocket-rpc-idl@1.5.0?classifier=sources
 - pkg:maven/com.jauntsdn.rsocket/rsocket-rpc-idl@1.5.1?classifier=sources
+- pkg:maven/com.jauntsdn.rsocket/rsocket-rpc-idl@1.5.2?classifier=sources

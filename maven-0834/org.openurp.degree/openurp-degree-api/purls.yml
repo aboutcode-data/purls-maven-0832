@@ -50,3 +50,7 @@
 - pkg:maven/org.openurp.degree/openurp-degree-api@0.34.3?classifier=sources
 - pkg:maven/org.openurp.degree/openurp-degree-api@0.34.4
 - pkg:maven/org.openurp.degree/openurp-degree-api@0.34.4?classifier=sources
+- pkg:maven/org.openurp.degree/openurp-degree-api@0.34.5
+- pkg:maven/org.openurp.degree/openurp-degree-api@0.34.5?classifier=sources
+- pkg:maven/org.openurp.degree/openurp-degree-api@0.35.0
+- pkg:maven/org.openurp.degree/openurp-degree-api@0.35.0?classifier=sources

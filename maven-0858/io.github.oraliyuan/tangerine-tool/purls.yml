@@ -1,0 +1,2 @@
+- pkg:maven/io.github.oraliyuan/tangerine-tool@0.0.1
+- pkg:maven/io.github.oraliyuan/tangerine-tool@0.0.1?classifier=sources

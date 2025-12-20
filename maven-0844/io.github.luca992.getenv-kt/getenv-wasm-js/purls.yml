@@ -1,0 +1,1 @@
+- pkg:maven/io.github.luca992.getenv-kt/getenv-wasm-js@0.3.0?classifier=sources

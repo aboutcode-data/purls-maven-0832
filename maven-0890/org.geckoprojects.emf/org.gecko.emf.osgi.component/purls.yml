@@ -24,3 +24,5 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.component@4.6.2?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.component@5.0.0
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.component@5.0.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.component@6.0.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.component@6.0.0?classifier=sources

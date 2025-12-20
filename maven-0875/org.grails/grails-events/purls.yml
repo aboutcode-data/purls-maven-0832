@@ -1,3 +1,4 @@
 - pkg:maven/org.grails/grails-events@3.3.2
 - pkg:maven/org.grails/grails-events@3.3.2?classifier=sources
 - pkg:maven/org.grails/grails-events@5.0.0?classifier=sources
+- pkg:maven/org.grails/grails-events@5.0.2?classifier=sources

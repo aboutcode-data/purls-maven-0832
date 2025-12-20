@@ -12,3 +12,7 @@
 - pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-alpha6?classifier=sources
 - pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-alpha7
 - pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-alpha7?classifier=sources
+- pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-beta0
+- pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-beta0?classifier=sources
+- pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-beta1
+- pkg:maven/co.topl/brambl-sdk_2.13@2.0.0-beta1?classifier=sources

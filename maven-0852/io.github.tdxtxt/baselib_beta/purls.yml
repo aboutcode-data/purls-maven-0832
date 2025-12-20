@@ -44,6 +44,7 @@
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.46-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.47-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.48-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib_beta@0.0.49-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.5-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.5-release?type=aar
 - pkg:maven/io.github.tdxtxt/baselib_beta@0.0.6-release?classifier=sources

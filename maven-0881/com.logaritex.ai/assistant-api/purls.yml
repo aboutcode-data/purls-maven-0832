@@ -1,0 +1,2 @@
+- pkg:maven/com.logaritex.ai/assistant-api@0.3.0
+- pkg:maven/com.logaritex.ai/assistant-api@0.3.0?classifier=sources

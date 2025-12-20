@@ -54,3 +54,6 @@
 - pkg:maven/software.momento.java/client-protos@0.94.1?classifier=sources
 - pkg:maven/software.momento.java/client-protos@0.95.0?classifier=sources
 - pkg:maven/software.momento.java/client-protos@0.96.0?classifier=sources
+- pkg:maven/software.momento.java/client-protos@0.97.1?classifier=sources
+- pkg:maven/software.momento.java/client-protos@0.98.0?classifier=sources
+- pkg:maven/software.momento.java/client-protos@0.98.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.jqassistant.plugin/jqassistant-c4-plugin@2.0.0
 - pkg:maven/org.jqassistant.plugin/jqassistant-c4-plugin@2.0.0?classifier=sources
+- pkg:maven/org.jqassistant.plugin/jqassistant-c4-plugin@2.1.0-M1
+- pkg:maven/org.jqassistant.plugin/jqassistant-c4-plugin@2.1.0-M1?classifier=sources
+- pkg:maven/org.jqassistant.plugin/jqassistant-c4-plugin@2.1.0-M2
+- pkg:maven/org.jqassistant.plugin/jqassistant-c4-plugin@2.1.0-M2?classifier=sources

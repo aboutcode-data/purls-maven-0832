@@ -12,3 +12,6 @@
 - pkg:maven/team.razz.eva/eva-serialization@0.3.7?classifier=sources
 - pkg:maven/team.razz.eva/eva-serialization@0.4.0?classifier=sources
 - pkg:maven/team.razz.eva/eva-serialization@0.4.1?classifier=sources
+- pkg:maven/team.razz.eva/eva-serialization@0.5.0?classifier=sources
+- pkg:maven/team.razz.eva/eva-serialization@0.5.1?classifier=sources
+- pkg:maven/team.razz.eva/eva-serialization@0.5.2?classifier=sources

@@ -148,6 +148,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.3.5?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.30.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.30.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.31.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.31.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.32.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.32.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.4.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-translate-v3@2.5.0

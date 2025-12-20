@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.external/el-impl@RELEASE170
 - pkg:maven/org.netbeans.external/el-impl@RELEASE180
 - pkg:maven/org.netbeans.external/el-impl@RELEASE190
+- pkg:maven/org.netbeans.external/el-impl@RELEASE200

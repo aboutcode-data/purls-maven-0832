@@ -46,6 +46,8 @@
 - pkg:maven/org.infinispan/infinispan-osgi@10.1.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-osgi@10.1.8.Final
 - pkg:maven/org.infinispan/infinispan-osgi@10.1.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-osgi@10.1.9.Final
+- pkg:maven/org.infinispan/infinispan-osgi@10.1.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-osgi@11.0.0.Alpha
 - pkg:maven/org.infinispan/infinispan-osgi@11.0.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-osgi@11.0.0.Alpha1?classifier=sources

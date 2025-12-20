@@ -1,1 +1,3 @@
 - pkg:maven/io.gitee.srccode.context-inject/plugin@2.0.0?classifier=sources
+- pkg:maven/io.gitee.srccode.context-inject/plugin@8.0.0?classifier=sources
+- pkg:maven/io.gitee.srccode.context-inject/plugin@8.1.0?classifier=sources

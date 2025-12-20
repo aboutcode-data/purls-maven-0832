@@ -323,8 +323,16 @@
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.4.27?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.4.28
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.4.28?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.4.29
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.4.29?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.4.2?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.4.3
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.4.30
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.4.30?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.4.31
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.4.31?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.4.32
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.4.32?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.4.3?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.4.6
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.4.6?classifier=sources

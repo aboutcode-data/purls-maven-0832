@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm.at.stdlib/number-float64-base-from-words@0.0.6?classifier=sources
 - pkg:maven/org.mvnpm.at.stdlib/number-float64-base-from-words@0.1.1?classifier=sources

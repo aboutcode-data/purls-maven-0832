@@ -1,0 +1,2 @@
+- pkg:maven/org.frankframework/frankframework-example@8.0.0?classifier=sources
+- pkg:maven/org.frankframework/frankframework-example@8.0.0?type=war

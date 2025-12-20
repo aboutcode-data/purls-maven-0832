@@ -55,3 +55,5 @@
 - pkg:maven/org.http4k/http4k-connect-kafka-rest-fake@5.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-kafka-rest-fake@5.5.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-kafka-rest-fake@5.5.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-kafka-rest-fake@5.6.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-kafka-rest-fake@5.6.2.0?classifier=sources

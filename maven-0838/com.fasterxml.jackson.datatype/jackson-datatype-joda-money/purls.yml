@@ -41,3 +41,4 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda-money@2.15.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda-money@2.15.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda-money@2.16.0-rc1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda-money@2.16.0?classifier=sources

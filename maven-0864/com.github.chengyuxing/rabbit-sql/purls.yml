@@ -444,3 +444,15 @@
 - pkg:maven/com.github.chengyuxing/rabbit-sql@7.7.9?classifier=sources
 - pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.0
 - pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.0?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.1
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.1?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.2
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.2?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.3
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.3?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.4
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.4?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.5
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.5?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.6
+- pkg:maven/com.github.chengyuxing/rabbit-sql@7.8.6?classifier=sources

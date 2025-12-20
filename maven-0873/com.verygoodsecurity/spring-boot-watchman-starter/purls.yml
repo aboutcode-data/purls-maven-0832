@@ -30,3 +30,5 @@
 - pkg:maven/com.verygoodsecurity/spring-boot-watchman-starter@0.0.8?classifier=sources
 - pkg:maven/com.verygoodsecurity/spring-boot-watchman-starter@0.1.4
 - pkg:maven/com.verygoodsecurity/spring-boot-watchman-starter@0.1.4?classifier=sources
+- pkg:maven/com.verygoodsecurity/spring-boot-watchman-starter@0.1.5
+- pkg:maven/com.verygoodsecurity/spring-boot-watchman-starter@0.1.5?classifier=sources

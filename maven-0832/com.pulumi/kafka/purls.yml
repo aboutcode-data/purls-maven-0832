@@ -59,3 +59,14 @@
 - pkg:maven/com.pulumi/kafka@3.6.0-alpha.1699335446%2Ba3cec133?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.6.0-alpha.1699508528%2B7ef7707a?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.6.0-alpha.1699648818%2B7c156ab8?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1700080496%2B652130cd?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1700113117%2Bb4a94c29?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1700199494%2Bd432482c?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1700544959%2B4db1a6fe?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1700613771%2Bd421747f?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1701790706%2B9eca412a?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1701841170%2B3b9eca2d?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1702349054%2Bf89dbeca?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1702359367%2B4071a94f?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1702359589%2B855a5f69?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.6.0-alpha.1702445830%2Bdfa74486?classifier=sources

@@ -301,6 +301,7 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.web@1.4.18
 - pkg:maven/com.liferay/com.liferay.message.boards.web@1.4.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@1.4.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.web@1.4.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@1.4.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@1.4.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@1.4.2
@@ -358,6 +359,7 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.107?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.108
 - pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.108?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.109?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@2.0.11
@@ -658,6 +660,7 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.1
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.10
+- pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.100?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@3.0.11
@@ -1200,6 +1203,7 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.web@4.0.83?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@4.0.84?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@4.0.85?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.web@4.0.86?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.web@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.web@4.0.9

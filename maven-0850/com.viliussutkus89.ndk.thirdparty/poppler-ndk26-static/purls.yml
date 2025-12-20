@@ -1,8 +1,12 @@
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@0.81.0-beta-1?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@0.81.0-beta-2?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@0.81.0-beta-3?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@0.89.0-beta-1?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@0.89.0-beta-2?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@0.89.0-beta-3?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@21.02.0-beta-1?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@21.02.0-beta-2?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@21.02.0-beta-3?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@23.10.0-beta-1?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@23.10.0-beta-2?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/poppler-ndk26-static@23.10.0-beta-3?classifier=sources

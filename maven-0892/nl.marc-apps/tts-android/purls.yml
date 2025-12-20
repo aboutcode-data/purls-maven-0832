@@ -18,3 +18,7 @@
 - pkg:maven/nl.marc-apps/tts-android@2.0.0?classifier=sources
 - pkg:maven/nl.marc-apps/tts-android@2.1.0?classifier=sources
 - pkg:maven/nl.marc-apps/tts-android@2.2.0?classifier=sources
+- pkg:maven/nl.marc-apps/tts-android@2.3.0-wasm0?classifier=sources
+- pkg:maven/nl.marc-apps/tts-android@2.3.0?classifier=sources
+- pkg:maven/nl.marc-apps/tts-android@2.3.1-wasm0?classifier=sources
+- pkg:maven/nl.marc-apps/tts-android@2.3.1?classifier=sources

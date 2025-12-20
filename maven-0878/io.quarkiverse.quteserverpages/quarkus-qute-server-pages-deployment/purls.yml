@@ -14,3 +14,5 @@
 - pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@2.0.1.Final?classifier=sources
 - pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@2.1.0.Final
 - pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@2.1.0.Final?classifier=sources
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@2.1.1.Final
+- pkg:maven/io.quarkiverse.quteserverpages/quarkus-qute-server-pages-deployment@2.1.1.Final?classifier=sources

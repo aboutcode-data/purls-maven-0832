@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rvesse/airline-jpms-debug@3.0.0
+- pkg:maven/com.github.rvesse/airline-jpms-debug@3.0.0?classifier=sources

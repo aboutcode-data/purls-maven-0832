@@ -4,3 +4,5 @@
 - pkg:maven/net.postgis.tools/test-utils@2.5.1?classifier=sources
 - pkg:maven/net.postgis.tools/test-utils@2021.1.0
 - pkg:maven/net.postgis.tools/test-utils@2021.1.0?classifier=sources
+- pkg:maven/net.postgis.tools/test-utils@2023.1.0
+- pkg:maven/net.postgis.tools/test-utils@2023.1.0?classifier=sources

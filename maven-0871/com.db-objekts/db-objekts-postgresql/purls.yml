@@ -12,3 +12,5 @@
 - pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.5-alpha?classifier=sources
 - pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.6-alpha
 - pkg:maven/com.db-objekts/db-objekts-postgresql@0.4.6-alpha?classifier=sources
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.5.0-beta
+- pkg:maven/com.db-objekts/db-objekts-postgresql@0.5.0-beta?classifier=sources

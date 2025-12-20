@@ -1,1 +1,2 @@
 - pkg:maven/com.alemira/alemira-proctor@0.0.4?classifier=sources
+- pkg:maven/com.alemira/alemira-proctor@0.0.5?classifier=sources

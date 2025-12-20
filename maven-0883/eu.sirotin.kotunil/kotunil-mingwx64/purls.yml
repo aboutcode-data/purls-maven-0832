@@ -1,3 +1,4 @@
 - pkg:maven/eu.sirotin.kotunil/kotunil-mingwx64@4.0.0?classifier=sources
 - pkg:maven/eu.sirotin.kotunil/kotunil-mingwx64@4.0.1?classifier=sources
 - pkg:maven/eu.sirotin.kotunil/kotunil-mingwx64@4.1.1?classifier=sources
+- pkg:maven/eu.sirotin.kotunil/kotunil-mingwx64@4.2.1?classifier=sources

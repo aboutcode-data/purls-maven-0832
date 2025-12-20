@@ -18,3 +18,5 @@
 - pkg:maven/com.kuflow/kuflow-temporal-activity-uivision@2.5.0?classifier=sources
 - pkg:maven/com.kuflow/kuflow-temporal-activity-uivision@2.6.0
 - pkg:maven/com.kuflow/kuflow-temporal-activity-uivision@2.6.0?classifier=sources
+- pkg:maven/com.kuflow/kuflow-temporal-activity-uivision@2.6.1
+- pkg:maven/com.kuflow/kuflow-temporal-activity-uivision@2.6.1?classifier=sources

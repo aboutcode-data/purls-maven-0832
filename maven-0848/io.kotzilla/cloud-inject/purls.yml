@@ -1,2 +1,5 @@
 - pkg:maven/io.kotzilla/cloud-inject@0.8.0-rc1?classifier=sources
 - pkg:maven/io.kotzilla/cloud-inject@0.8.0?classifier=sources
+- pkg:maven/io.kotzilla/cloud-inject@0.8.1?classifier=sources
+- pkg:maven/io.kotzilla/cloud-inject@0.9.0?classifier=sources
+- pkg:maven/io.kotzilla/cloud-inject@0.9.1?classifier=sources

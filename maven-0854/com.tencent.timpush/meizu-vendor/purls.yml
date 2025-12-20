@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.timpush/meizu-vendor@4.2.3?classifier=sources
+- pkg:maven/com.tencent.timpush/meizu-vendor@4.3.0?classifier=sources

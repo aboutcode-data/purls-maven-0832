@@ -1,0 +1,4 @@
+- pkg:maven/io.github.tiendung717/chipmango-room-converters@0.1.7?classifier=sources
+- pkg:maven/io.github.tiendung717/chipmango-room-converters@0.1.8?classifier=sources
+- pkg:maven/io.github.tiendung717/chipmango-room-converters@0.1.9?classifier=sources
+- pkg:maven/io.github.tiendung717/chipmango-room-converters@0.2.0?classifier=sources
