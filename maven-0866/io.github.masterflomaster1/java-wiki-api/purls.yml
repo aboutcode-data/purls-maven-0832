@@ -1,1 +1,2 @@
+- pkg:maven/io.github.masterflomaster1/java-wiki-api@0.11.0?classifier=sources
 - pkg:maven/io.github.masterflomaster1/java-wiki-api@0.8.1?classifier=sources

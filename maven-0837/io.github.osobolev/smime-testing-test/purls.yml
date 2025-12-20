@@ -4,4 +4,6 @@
 - pkg:maven/io.github.osobolev/smime-testing-test@1.4?classifier=sources
 - pkg:maven/io.github.osobolev/smime-testing-test@1.5.1?classifier=sources
 - pkg:maven/io.github.osobolev/smime-testing-test@1.5.2?classifier=sources
+- pkg:maven/io.github.osobolev/smime-testing-test@1.5.3?classifier=sources
+- pkg:maven/io.github.osobolev/smime-testing-test@1.5.4?classifier=sources
 - pkg:maven/io.github.osobolev/smime-testing-test@1.5?classifier=sources

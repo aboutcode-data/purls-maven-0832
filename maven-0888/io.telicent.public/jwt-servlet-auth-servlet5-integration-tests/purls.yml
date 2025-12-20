@@ -12,3 +12,11 @@
 - pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.16.0?classifier=sources
 - pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.0
 - pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.0?classifier=sources
+- pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.1
+- pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.1?classifier=sources
+- pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.2
+- pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.2?classifier=sources
+- pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.3
+- pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.3?classifier=sources
+- pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.4
+- pkg:maven/io.telicent.public/jwt-servlet-auth-servlet5-integration-tests@0.17.4?classifier=sources

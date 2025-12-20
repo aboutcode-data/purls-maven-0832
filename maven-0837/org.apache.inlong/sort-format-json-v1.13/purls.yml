@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.inlong/sort-format-json-v1.13@1.13.0?classifier=sources
 - pkg:maven/org.apache.inlong/sort-format-json-v1.13@1.9.0
 - pkg:maven/org.apache.inlong/sort-format-json-v1.13@1.9.0?classifier=sources
+- pkg:maven/org.apache.inlong/sort-format-json-v1.13@2.0.0
+- pkg:maven/org.apache.inlong/sort-format-json-v1.13@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hiwepy/cos@6.0.x.20241003.RELEASE
+- pkg:maven/com.github.hiwepy/cos@6.0.x.20241003.RELEASE?classifier=sources

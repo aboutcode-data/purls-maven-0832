@@ -1,0 +1,2 @@
+- pkg:maven/codes.rafael.feed/feed-client-filesystem@1.5
+- pkg:maven/codes.rafael.feed/feed-client-filesystem@1.5?classifier=sources

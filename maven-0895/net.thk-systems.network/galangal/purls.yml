@@ -24,3 +24,5 @@
 - pkg:maven/net.thk-systems.network/galangal@1.4.3?classifier=sources
 - pkg:maven/net.thk-systems.network/galangal@1.4.4
 - pkg:maven/net.thk-systems.network/galangal@1.4.4?classifier=sources
+- pkg:maven/net.thk-systems.network/galangal@1.4.5
+- pkg:maven/net.thk-systems.network/galangal@1.4.5?classifier=sources

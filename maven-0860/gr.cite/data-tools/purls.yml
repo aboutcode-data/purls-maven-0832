@@ -2,3 +2,5 @@
 - pkg:maven/gr.cite/data-tools@1.0.0?classifier=sources
 - pkg:maven/gr.cite/data-tools@2.1.0
 - pkg:maven/gr.cite/data-tools@2.1.0?classifier=sources
+- pkg:maven/gr.cite/data-tools@2.1.5
+- pkg:maven/gr.cite/data-tools@2.1.5?classifier=sources

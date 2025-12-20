@@ -9,3 +9,4 @@
 - pkg:maven/io.openapiprocessor/openapi-parser@2024.1?classifier=sources
 - pkg:maven/io.openapiprocessor/openapi-parser@2024.2?classifier=sources
 - pkg:maven/io.openapiprocessor/openapi-parser@2024.3?classifier=sources
+- pkg:maven/io.openapiprocessor/openapi-parser@2024.4?classifier=sources

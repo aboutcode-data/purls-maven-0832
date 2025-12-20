@@ -1,4 +1,6 @@
 - pkg:maven/com.lihaoyi/ammonite-interp-api_3.4.2@3.0.0
+- pkg:maven/com.lihaoyi/ammonite-interp-api_3.4.2@3.0.0-2-6342755f
+- pkg:maven/com.lihaoyi/ammonite-interp-api_3.4.2@3.0.0-2-6342755f?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp-api_3.4.2@3.0.0-M2-10-f6e2c001
 - pkg:maven/com.lihaoyi/ammonite-interp-api_3.4.2@3.0.0-M2-10-f6e2c001?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp-api_3.4.2@3.0.0-M2-11-713b6963

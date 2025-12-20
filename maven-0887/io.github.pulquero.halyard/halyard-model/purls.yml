@@ -6,3 +6,5 @@
 - pkg:maven/io.github.pulquero.halyard/halyard-model@4.9.3?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-model@5.0
 - pkg:maven/io.github.pulquero.halyard/halyard-model@5.0?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-model@5.1
+- pkg:maven/io.github.pulquero.halyard/halyard-model@5.1?classifier=sources

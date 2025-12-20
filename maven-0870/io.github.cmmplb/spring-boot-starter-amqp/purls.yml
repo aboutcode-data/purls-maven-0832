@@ -1,0 +1,3 @@
+- pkg:maven/io.github.cmmplb/spring-boot-starter-amqp@1.0.0?classifier=sources
+- pkg:maven/io.github.cmmplb/spring-boot-starter-amqp@2.5.15.0?classifier=sources
+- pkg:maven/io.github.cmmplb/spring-boot-starter-amqp@2.5.15.2?classifier=sources

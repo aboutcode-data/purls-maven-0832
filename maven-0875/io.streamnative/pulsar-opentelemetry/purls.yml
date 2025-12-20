@@ -26,7 +26,17 @@
 - pkg:maven/io.streamnative/pulsar-opentelemetry@3.3.1.5?classifier=sources
 - pkg:maven/io.streamnative/pulsar-opentelemetry@3.3.1.6
 - pkg:maven/io.streamnative/pulsar-opentelemetry@3.3.1.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-opentelemetry@3.3.1.7
+- pkg:maven/io.streamnative/pulsar-opentelemetry@3.3.1.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-opentelemetry@3.3.1.8
+- pkg:maven/io.streamnative/pulsar-opentelemetry@3.3.1.8?classifier=sources
+- pkg:maven/io.streamnative/pulsar-opentelemetry@3.3.1.9
+- pkg:maven/io.streamnative/pulsar-opentelemetry@3.3.1.9?classifier=sources
 - pkg:maven/io.streamnative/pulsar-opentelemetry@3.4.0-SNAPSHOT.ursa0815
 - pkg:maven/io.streamnative/pulsar-opentelemetry@3.4.0-SNAPSHOT.ursa0815?classifier=sources
 - pkg:maven/io.streamnative/pulsar-opentelemetry@4.0.0-SNAPSHOT.ursa
 - pkg:maven/io.streamnative/pulsar-opentelemetry@4.0.0-SNAPSHOT.ursa?classifier=sources
+- pkg:maven/io.streamnative/pulsar-opentelemetry@4.0.0.0
+- pkg:maven/io.streamnative/pulsar-opentelemetry@4.0.0.0?classifier=sources
+- pkg:maven/io.streamnative/pulsar-opentelemetry@4.0.0.1
+- pkg:maven/io.streamnative/pulsar-opentelemetry@4.0.0.1?classifier=sources

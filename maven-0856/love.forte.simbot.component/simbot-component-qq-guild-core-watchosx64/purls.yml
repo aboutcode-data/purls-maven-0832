@@ -19,3 +19,4 @@
 - pkg:maven/love.forte.simbot.component/simbot-component-qq-guild-core-watchosx64@4.0.0-dev8?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-qq-guild-core-watchosx64@4.0.0?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-qq-guild-core-watchosx64@4.0.1?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-qq-guild-core-watchosx64@4.0.2?classifier=sources

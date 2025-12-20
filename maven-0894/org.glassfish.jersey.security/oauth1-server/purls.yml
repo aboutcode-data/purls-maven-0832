@@ -167,6 +167,8 @@
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@3.0.14?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@3.0.15
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@3.0.15?classifier=sources
+- pkg:maven/org.glassfish.jersey.security/oauth1-server@3.0.16
+- pkg:maven/org.glassfish.jersey.security/oauth1-server@3.0.16?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@3.0.2
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@3.0.2?classifier=sources
@@ -212,5 +214,7 @@
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@3.1.7?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@3.1.8
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@3.1.8?classifier=sources
+- pkg:maven/org.glassfish.jersey.security/oauth1-server@3.1.9
+- pkg:maven/org.glassfish.jersey.security/oauth1-server@3.1.9?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@4.0.0-M1
 - pkg:maven/org.glassfish.jersey.security/oauth1-server@4.0.0-M1?classifier=sources

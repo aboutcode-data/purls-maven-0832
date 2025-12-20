@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.microprofile.lra/helidon-microprofile-lra-testing@4.1.2
+- pkg:maven/io.helidon.microprofile.lra/helidon-microprofile-lra-testing@4.1.2?classifier=sources

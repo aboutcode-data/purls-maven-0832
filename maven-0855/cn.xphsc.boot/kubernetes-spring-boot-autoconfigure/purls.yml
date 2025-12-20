@@ -1,0 +1,2 @@
+- pkg:maven/cn.xphsc.boot/kubernetes-spring-boot-autoconfigure@1.0.5
+- pkg:maven/cn.xphsc.boot/kubernetes-spring-boot-autoconfigure@1.0.5?classifier=sources

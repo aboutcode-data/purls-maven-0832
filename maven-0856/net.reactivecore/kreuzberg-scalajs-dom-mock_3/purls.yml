@@ -1,0 +1,4 @@
+- pkg:maven/net.reactivecore/kreuzberg-scalajs-dom-mock_3@0.10.1
+- pkg:maven/net.reactivecore/kreuzberg-scalajs-dom-mock_3@0.10.1?classifier=sources
+- pkg:maven/net.reactivecore/kreuzberg-scalajs-dom-mock_3@0.10.2
+- pkg:maven/net.reactivecore/kreuzberg-scalajs-dom-mock_3@0.10.2?classifier=sources

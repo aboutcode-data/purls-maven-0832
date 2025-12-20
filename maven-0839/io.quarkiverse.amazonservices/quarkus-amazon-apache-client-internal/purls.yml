@@ -52,3 +52,5 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.8.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.9.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@2.9.1
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@3.0.0.alpha1
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apache-client-internal@3.0.0.alpha1?classifier=sources

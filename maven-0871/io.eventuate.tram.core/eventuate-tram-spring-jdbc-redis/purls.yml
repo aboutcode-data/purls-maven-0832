@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.tram.core/eventuate-tram-spring-jdbc-redis@0.35.0.RELEASE?classifier=sources

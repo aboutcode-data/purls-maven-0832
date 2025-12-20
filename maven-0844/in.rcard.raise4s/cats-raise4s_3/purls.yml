@@ -4,3 +4,5 @@
 - pkg:maven/in.rcard.raise4s/cats-raise4s_3@0.0.8?classifier=sources
 - pkg:maven/in.rcard.raise4s/cats-raise4s_3@0.1.0
 - pkg:maven/in.rcard.raise4s/cats-raise4s_3@0.1.0?classifier=sources
+- pkg:maven/in.rcard.raise4s/cats-raise4s_3@0.2.0
+- pkg:maven/in.rcard.raise4s/cats-raise4s_3@0.2.0?classifier=sources

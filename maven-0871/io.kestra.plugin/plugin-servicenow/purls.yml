@@ -9,6 +9,7 @@
 - pkg:maven/io.kestra.plugin/plugin-servicenow@0.17.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-servicenow@0.17.1?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-servicenow@0.18.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-servicenow@0.19.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-servicenow@0.5.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-servicenow@0.6.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-servicenow@0.6.1?classifier=sources

@@ -145,3 +145,4 @@
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer@34.1.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer@34.1.3?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer@34.1.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer@34.1.5?classifier=sources

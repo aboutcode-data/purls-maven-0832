@@ -14,3 +14,5 @@
 - pkg:maven/dev.pumpo5/reporting-allure@0.8.44?classifier=sources
 - pkg:maven/dev.pumpo5/reporting-allure@0.8.45
 - pkg:maven/dev.pumpo5/reporting-allure@0.8.45?classifier=sources
+- pkg:maven/dev.pumpo5/reporting-allure@0.8.46
+- pkg:maven/dev.pumpo5/reporting-allure@0.8.46?classifier=sources

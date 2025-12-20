@@ -1195,6 +1195,16 @@
 - pkg:maven/org.noear/beetlsql-solon-plugin@2.9.2-M1
 - pkg:maven/org.noear/beetlsql-solon-plugin@2.9.3
 - pkg:maven/org.noear/beetlsql-solon-plugin@2.9.4
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.0
 - pkg:maven/org.noear/beetlsql-solon-plugin@3.0.0-M1
 - pkg:maven/org.noear/beetlsql-solon-plugin@3.0.0-M3
 - pkg:maven/org.noear/beetlsql-solon-plugin@3.0.0-M4
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.0-RC
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.0-RC2
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.0-RC3
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.1
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.1-M2
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.1-M3
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.2-M5
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.2-M6
+- pkg:maven/org.noear/beetlsql-solon-plugin@3.0.2-RC

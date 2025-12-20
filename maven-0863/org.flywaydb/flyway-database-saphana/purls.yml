@@ -32,8 +32,16 @@
 - pkg:maven/org.flywaydb/flyway-database-saphana@10.17.3?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-saphana@10.18.0
 - pkg:maven/org.flywaydb/flyway-database-saphana@10.18.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.18.1
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.18.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.18.2
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.18.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.19.0
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.19.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-saphana@10.2.0
 - pkg:maven/org.flywaydb/flyway-database-saphana@10.2.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.20.0
+- pkg:maven/org.flywaydb/flyway-database-saphana@10.20.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-saphana@10.3.0
 - pkg:maven/org.flywaydb/flyway-database-saphana@10.3.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-saphana@10.4.0

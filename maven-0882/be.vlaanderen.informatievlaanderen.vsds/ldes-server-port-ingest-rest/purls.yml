@@ -8,3 +8,7 @@
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-ingest-rest@2.3.0?classifier=sources
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-ingest-rest@3.0.0
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-ingest-rest@3.0.0?classifier=sources
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-ingest-rest@3.3.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-ingest-rest@3.3.0?classifier=sources
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-ingest-rest@3.4.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-ingest-rest@3.4.0?classifier=sources

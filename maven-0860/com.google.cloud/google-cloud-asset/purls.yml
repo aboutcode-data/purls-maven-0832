@@ -306,6 +306,10 @@
 - pkg:maven/com.google.cloud/google-cloud-asset@3.52.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-asset@3.53.0
 - pkg:maven/com.google.cloud/google-cloud-asset@3.53.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-asset@3.55.0
+- pkg:maven/com.google.cloud/google-cloud-asset@3.55.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-asset@3.56.0
+- pkg:maven/com.google.cloud/google-cloud-asset@3.56.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-asset@3.6.0
 - pkg:maven/com.google.cloud/google-cloud-asset@3.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-asset@3.7.0

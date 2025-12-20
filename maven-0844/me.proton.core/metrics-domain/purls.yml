@@ -75,6 +75,10 @@
 - pkg:maven/me.proton.core/metrics-domain@27.1.0?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@27.2.0?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@27.2.1?classifier=sources
+- pkg:maven/me.proton.core/metrics-domain@27.2.2?classifier=sources
+- pkg:maven/me.proton.core/metrics-domain@27.2.3?classifier=sources
+- pkg:maven/me.proton.core/metrics-domain@28.0.0?classifier=sources
+- pkg:maven/me.proton.core/metrics-domain@28.1.0?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@7.1.11?classifier=sources
 - pkg:maven/me.proton.core/metrics-domain@7.1.1?classifier=sources

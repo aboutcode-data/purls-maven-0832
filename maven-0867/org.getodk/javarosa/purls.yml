@@ -44,12 +44,16 @@
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-19abad5?classifier=sources
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-30ef2a9
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-30ef2a9?classifier=sources
+- pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-3efbb35
+- pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-3efbb35?classifier=sources
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-41029da
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-41029da?classifier=sources
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-632cc44
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-632cc44?classifier=sources
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-6889836
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-6889836?classifier=sources
+- pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-6ce1352
+- pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-6ce1352?classifier=sources
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-8a22ede
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-8a22ede?classifier=sources
 - pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-8b6e745

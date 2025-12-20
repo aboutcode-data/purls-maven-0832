@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acs_user@1.3.3
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acs_user@1.3.3?classifier=sources

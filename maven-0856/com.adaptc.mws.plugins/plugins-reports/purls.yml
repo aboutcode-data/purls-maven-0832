@@ -20,3 +20,5 @@
 - pkg:maven/com.adaptc.mws.plugins/plugins-reports@1.5?classifier=sources
 - pkg:maven/com.adaptc.mws.plugins/plugins-reports@1.6
 - pkg:maven/com.adaptc.mws.plugins/plugins-reports@1.6?classifier=sources
+- pkg:maven/com.adaptc.mws.plugins/plugins-reports@1.7-1701809693
+- pkg:maven/com.adaptc.mws.plugins/plugins-reports@1.7-1701809693?classifier=sources

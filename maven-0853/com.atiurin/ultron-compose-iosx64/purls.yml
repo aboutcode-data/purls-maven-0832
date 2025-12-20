@@ -6,3 +6,4 @@
 - pkg:maven/com.atiurin/ultron-compose-iosx64@2.5.0-alpha13?classifier=sources
 - pkg:maven/com.atiurin/ultron-compose-iosx64@2.5.0-alpha14?classifier=sources
 - pkg:maven/com.atiurin/ultron-compose-iosx64@2.5.0-alpha15?classifier=sources
+- pkg:maven/com.atiurin/ultron-compose-iosx64@2.5.0-alpha16?classifier=sources

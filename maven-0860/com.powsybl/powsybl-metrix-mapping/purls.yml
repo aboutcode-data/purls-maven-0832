@@ -26,3 +26,5 @@
 - pkg:maven/com.powsybl/powsybl-metrix-mapping@2.2.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-metrix-mapping@2.3.0
 - pkg:maven/com.powsybl/powsybl-metrix-mapping@2.3.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-metrix-mapping@2.4.0
+- pkg:maven/com.powsybl/powsybl-metrix-mapping@2.4.0?classifier=sources

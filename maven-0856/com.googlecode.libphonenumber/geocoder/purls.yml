@@ -320,6 +320,8 @@
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.24
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.240
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.240?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/geocoder@2.241
+- pkg:maven/com.googlecode.libphonenumber/geocoder@2.241?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.24?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.25
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.25?classifier=sources

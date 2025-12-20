@@ -1,0 +1,4 @@
+- pkg:maven/io.github.tangllty/jkorm-spring@1.0.0-beta8?classifier=sources
+- pkg:maven/io.github.tangllty/jkorm-spring@1.0.0-beta9?classifier=sources
+- pkg:maven/io.github.tangllty/jkorm-spring@1.0.0?classifier=sources
+- pkg:maven/io.github.tangllty/jkorm-spring@1.0.1?classifier=sources

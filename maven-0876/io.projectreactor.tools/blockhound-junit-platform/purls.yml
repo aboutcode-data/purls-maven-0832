@@ -2,6 +2,7 @@
 - pkg:maven/io.projectreactor.tools/blockhound-junit-platform@1.0.0.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.tools/blockhound-junit-platform@1.0.1.RELEASE
 - pkg:maven/io.projectreactor.tools/blockhound-junit-platform@1.0.1.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.tools/blockhound-junit-platform@1.0.10.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.tools/blockhound-junit-platform@1.0.2.RELEASE
 - pkg:maven/io.projectreactor.tools/blockhound-junit-platform@1.0.2.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.tools/blockhound-junit-platform@1.0.3.RELEASE

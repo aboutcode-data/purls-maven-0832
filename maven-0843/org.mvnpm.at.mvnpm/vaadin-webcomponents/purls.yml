@@ -20,6 +20,7 @@
 - pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.3.7?classifier=sources
 - pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.3.8?classifier=sources
 - pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.4.0?classifier=sources
+- pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.4.10?classifier=sources
 - pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.4.2?classifier=sources
 - pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.4.4?classifier=sources
 - pkg:maven/org.mvnpm.at.mvnpm/vaadin-webcomponents@24.4.5?classifier=sources

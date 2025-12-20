@@ -2,3 +2,5 @@
 - pkg:maven/gr.cite/queue-inbox@1.0.0?classifier=sources
 - pkg:maven/gr.cite/queue-inbox@2.1.0
 - pkg:maven/gr.cite/queue-inbox@2.1.0?classifier=sources
+- pkg:maven/gr.cite/queue-inbox@2.1.2
+- pkg:maven/gr.cite/queue-inbox@2.1.2?classifier=sources

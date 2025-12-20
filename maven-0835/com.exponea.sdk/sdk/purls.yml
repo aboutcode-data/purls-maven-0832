@@ -136,3 +136,5 @@
 - pkg:maven/com.exponea.sdk/sdk@3.7.1?classifier=sources
 - pkg:maven/com.exponea.sdk/sdk@3.8.0?classifier=sources
 - pkg:maven/com.exponea.sdk/sdk@3.9.0?classifier=sources
+- pkg:maven/com.exponea.sdk/sdk@4.0.0?classifier=sources
+- pkg:maven/com.exponea.sdk/sdk@4.0.1?classifier=sources

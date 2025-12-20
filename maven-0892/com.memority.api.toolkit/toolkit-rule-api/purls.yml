@@ -34,3 +34,5 @@
 - pkg:maven/com.memority.api.toolkit/toolkit-rule-api@3.40.0?classifier=sources
 - pkg:maven/com.memority.api.toolkit/toolkit-rule-api@3.41.0
 - pkg:maven/com.memority.api.toolkit/toolkit-rule-api@3.41.0?classifier=sources
+- pkg:maven/com.memority.api.toolkit/toolkit-rule-api@3.41.2
+- pkg:maven/com.memority.api.toolkit/toolkit-rule-api@3.41.2?classifier=sources

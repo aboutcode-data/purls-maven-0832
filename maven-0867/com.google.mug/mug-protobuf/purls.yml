@@ -22,3 +22,5 @@
 - pkg:maven/com.google.mug/mug-protobuf@7.2?classifier=sources
 - pkg:maven/com.google.mug/mug-protobuf@8.0
 - pkg:maven/com.google.mug/mug-protobuf@8.0?classifier=sources
+- pkg:maven/com.google.mug/mug-protobuf@8.1
+- pkg:maven/com.google.mug/mug-protobuf@8.1?classifier=sources

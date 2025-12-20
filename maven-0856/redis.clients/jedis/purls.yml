@@ -230,6 +230,7 @@
 - pkg:maven/redis.clients/jedis@5.1.4?classifier=sources
 - pkg:maven/redis.clients/jedis@5.1.5
 - pkg:maven/redis.clients/jedis@5.1.5?classifier=sources
+- pkg:maven/redis.clients/jedis@5.2.0
 - pkg:maven/redis.clients/jedis@5.2.0-alpha2
 - pkg:maven/redis.clients/jedis@5.2.0-alpha2?classifier=sources
 - pkg:maven/redis.clients/jedis@5.2.0-alpha3
@@ -244,5 +245,6 @@
 - pkg:maven/redis.clients/jedis@5.2.0-beta4?classifier=sources
 - pkg:maven/redis.clients/jedis@5.2.0-beta5
 - pkg:maven/redis.clients/jedis@5.2.0-beta5?classifier=sources
+- pkg:maven/redis.clients/jedis@5.2.0?classifier=sources
 - pkg:maven/redis.clients/jedis@jedis-3.6.2
 - pkg:maven/redis.clients/jedis@jedis-3.6.2?classifier=sources

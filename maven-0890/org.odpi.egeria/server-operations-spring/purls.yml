@@ -1,1 +1,2 @@
 - pkg:maven/org.odpi.egeria/server-operations-spring@5.0?classifier=sources
+- pkg:maven/org.odpi.egeria/server-operations-spring@5.1?classifier=sources

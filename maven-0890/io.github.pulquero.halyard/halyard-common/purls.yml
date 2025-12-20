@@ -42,3 +42,5 @@
 - pkg:maven/io.github.pulquero.halyard/halyard-common@4.9?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-common@5.0
 - pkg:maven/io.github.pulquero.halyard/halyard-common@5.0?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-common@5.1
+- pkg:maven/io.github.pulquero.halyard/halyard-common@5.1?classifier=sources

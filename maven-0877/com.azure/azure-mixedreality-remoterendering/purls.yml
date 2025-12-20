@@ -32,6 +32,7 @@
 - pkg:maven/com.azure/azure-mixedreality-remoterendering@1.1.30?classifier=sources
 - pkg:maven/com.azure/azure-mixedreality-remoterendering@1.1.31?classifier=sources
 - pkg:maven/com.azure/azure-mixedreality-remoterendering@1.1.32?classifier=sources
+- pkg:maven/com.azure/azure-mixedreality-remoterendering@1.1.33?classifier=sources
 - pkg:maven/com.azure/azure-mixedreality-remoterendering@1.1.3?classifier=sources
 - pkg:maven/com.azure/azure-mixedreality-remoterendering@1.1.4
 - pkg:maven/com.azure/azure-mixedreality-remoterendering@1.1.4?classifier=sources

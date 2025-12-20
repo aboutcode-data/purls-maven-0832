@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.laurel/com.io7m.laurel.gui@0.99.0
+- pkg:maven/com.io7m.laurel/com.io7m.laurel.gui@0.99.0?classifier=sources

@@ -2,6 +2,7 @@
 - pkg:maven/org.mvnpm/bootstrap@4.5.2?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap@4.6.0?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap@4.6.2?classifier=sources
+- pkg:maven/org.mvnpm/bootstrap@5.0.2?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap@5.2.1?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap@5.2.2?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap@5.2.3?classifier=sources

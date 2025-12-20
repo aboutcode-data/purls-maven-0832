@@ -17,3 +17,4 @@
 - pkg:maven/com.memority.api.citadel/citadel-bum-schema@3.39.0
 - pkg:maven/com.memority.api.citadel/citadel-bum-schema@3.40.0
 - pkg:maven/com.memority.api.citadel/citadel-bum-schema@3.41.0
+- pkg:maven/com.memority.api.citadel/citadel-bum-schema@3.41.2

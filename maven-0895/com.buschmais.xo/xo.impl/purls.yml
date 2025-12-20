@@ -70,3 +70,5 @@
 - pkg:maven/com.buschmais.xo/xo.impl@2.2.8?classifier=sources
 - pkg:maven/com.buschmais.xo/xo.impl@2.2.9
 - pkg:maven/com.buschmais.xo/xo.impl@2.2.9?classifier=sources
+- pkg:maven/com.buschmais.xo/xo.impl@2.3.0
+- pkg:maven/com.buschmais.xo/xo.impl@2.3.0?classifier=sources

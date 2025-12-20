@@ -1,0 +1,2 @@
+- pkg:maven/org.nasdanika.core/groovy@2024.10.0
+- pkg:maven/org.nasdanika.core/groovy@2024.10.0?classifier=sources

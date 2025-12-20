@@ -1,3 +1,4 @@
+- pkg:maven/com.affixapi/api@1.1.100?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.40?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.42?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.43?classifier=sources
@@ -42,3 +43,5 @@
 - pkg:maven/com.affixapi/api@1.1.89?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.90?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.92?classifier=sources
+- pkg:maven/com.affixapi/api@1.1.93?classifier=sources
+- pkg:maven/com.affixapi/api@1.1.99?classifier=sources

@@ -59,4 +59,5 @@
 - pkg:maven/live.100ms/video-view@2.9.65?classifier=sources
 - pkg:maven/live.100ms/video-view@2.9.66?classifier=sources
 - pkg:maven/live.100ms/video-view@2.9.67?classifier=sources
+- pkg:maven/live.100ms/video-view@2.9.68?classifier=sources
 - pkg:maven/live.100ms/video-view@release-v2?classifier=sources

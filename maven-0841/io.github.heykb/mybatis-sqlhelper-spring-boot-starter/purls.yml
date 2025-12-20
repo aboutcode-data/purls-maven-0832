@@ -1,3 +1,4 @@
 - pkg:maven/io.github.heykb/mybatis-sqlhelper-spring-boot-starter@1.0.0
 - pkg:maven/io.github.heykb/mybatis-sqlhelper-spring-boot-starter@3.0.0
 - pkg:maven/io.github.heykb/mybatis-sqlhelper-spring-boot-starter@3.0.0.SR1
+- pkg:maven/io.github.heykb/mybatis-sqlhelper-spring-boot-starter@3.0.0.SR2

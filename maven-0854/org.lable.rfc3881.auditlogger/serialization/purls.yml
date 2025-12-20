@@ -34,3 +34,5 @@
 - pkg:maven/org.lable.rfc3881.auditlogger/serialization@2.7?classifier=sources
 - pkg:maven/org.lable.rfc3881.auditlogger/serialization@2.8
 - pkg:maven/org.lable.rfc3881.auditlogger/serialization@2.8?classifier=sources
+- pkg:maven/org.lable.rfc3881.auditlogger/serialization@2.9
+- pkg:maven/org.lable.rfc3881.auditlogger/serialization@2.9?classifier=sources

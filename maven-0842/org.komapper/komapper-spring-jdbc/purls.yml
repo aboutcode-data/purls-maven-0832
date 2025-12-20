@@ -36,3 +36,4 @@
 - pkg:maven/org.komapper/komapper-spring-jdbc@2.2.1?classifier=sources
 - pkg:maven/org.komapper/komapper-spring-jdbc@2.2.2?classifier=sources
 - pkg:maven/org.komapper/komapper-spring-jdbc@3.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-spring-jdbc@3.1.0?classifier=sources

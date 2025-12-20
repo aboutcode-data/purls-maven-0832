@@ -1,3 +1,4 @@
 - pkg:maven/io.github.jeddict/jeddict@6.1.0?classifier=sources
 - pkg:maven/io.github.jeddict/jeddict@6.2.0?classifier=sources
 - pkg:maven/io.github.jeddict/jeddict@6.3.1?classifier=sources
+- pkg:maven/io.github.jeddict/jeddict@6.4.0?classifier=sources

@@ -100,3 +100,7 @@
 - pkg:maven/com.pdfcrowd/pdfcrowd@6.0.1?classifier=sources
 - pkg:maven/com.pdfcrowd/pdfcrowd@6.1.0
 - pkg:maven/com.pdfcrowd/pdfcrowd@6.1.0?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@6.2.0
+- pkg:maven/com.pdfcrowd/pdfcrowd@6.2.0?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@6.2.1
+- pkg:maven/com.pdfcrowd/pdfcrowd@6.2.1?classifier=sources

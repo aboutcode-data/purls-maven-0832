@@ -1,0 +1,3 @@
+- pkg:maven/org.jetbrains/annotations-androidNativeX64@25.0.0?classifier=sources
+- pkg:maven/org.jetbrains/annotations-androidNativeX64@26.0.0?classifier=sources
+- pkg:maven/org.jetbrains/annotations-androidNativeX64@26.0.1?classifier=sources

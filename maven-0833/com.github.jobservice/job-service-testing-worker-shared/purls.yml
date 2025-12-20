@@ -6,3 +6,5 @@
 - pkg:maven/com.github.jobservice/job-service-testing-worker-shared@7.0.2-1?classifier=sources
 - pkg:maven/com.github.jobservice/job-service-testing-worker-shared@7.1.0-426
 - pkg:maven/com.github.jobservice/job-service-testing-worker-shared@7.1.0-426?classifier=sources
+- pkg:maven/com.github.jobservice/job-service-testing-worker-shared@7.2.0-490
+- pkg:maven/com.github.jobservice/job-service-testing-worker-shared@7.2.0-490?classifier=sources

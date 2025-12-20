@@ -1,2 +1,4 @@
 - pkg:maven/de.kaiserpfalz-edv.rpg/kp-rpg-core@1.2.2?classifier=sources
 - pkg:maven/de.kaiserpfalz-edv.rpg/kp-rpg-core@1.2.3?classifier=sources
+- pkg:maven/de.kaiserpfalz-edv.rpg/kp-rpg-core@1.2.4?classifier=sources
+- pkg:maven/de.kaiserpfalz-edv.rpg/kp-rpg-core@1.2.5?classifier=sources

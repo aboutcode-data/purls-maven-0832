@@ -1,5 +1,6 @@
 - pkg:maven/io.microservices.tools.canvas/microservice-canvas-extractor-spring-mvc@0.10.0.RELEASE?classifier=sources
 - pkg:maven/io.microservices.tools.canvas/microservice-canvas-extractor-spring-mvc@0.11.0.RELEASE?classifier=sources
+- pkg:maven/io.microservices.tools.canvas/microservice-canvas-extractor-spring-mvc@0.12.0.RELEASE?classifier=sources
 - pkg:maven/io.microservices.tools.canvas/microservice-canvas-extractor-spring-mvc@0.7.0.RELEASE?classifier=sources
 - pkg:maven/io.microservices.tools.canvas/microservice-canvas-extractor-spring-mvc@0.7.0.TEST.RELEASE?classifier=sources
 - pkg:maven/io.microservices.tools.canvas/microservice-canvas-extractor-spring-mvc@0.8.0.RELEASE?classifier=sources

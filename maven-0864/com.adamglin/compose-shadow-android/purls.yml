@@ -1,1 +1,4 @@
 - pkg:maven/com.adamglin/compose-shadow-android@0.0.1?classifier=sources
+- pkg:maven/com.adamglin/compose-shadow-android@0.0.2-beta05?classifier=sources
+- pkg:maven/com.adamglin/compose-shadow-android@1.0.0?classifier=sources
+- pkg:maven/com.adamglin/compose-shadow-android@1.1.0-beta01?classifier=sources

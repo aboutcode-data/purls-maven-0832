@@ -128,3 +128,6 @@
 - pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@24.7.1?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@24.8.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@24.9.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@24.9.1?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@24.9.2?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-codegen_2.12@24.9.3?classifier=sources

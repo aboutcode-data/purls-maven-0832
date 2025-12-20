@@ -8,3 +8,4 @@
 - pkg:maven/org.ramani-maps/ramani-maplibre@0.5.0?classifier=sources
 - pkg:maven/org.ramani-maps/ramani-maplibre@0.5.1?classifier=sources
 - pkg:maven/org.ramani-maps/ramani-maplibre@0.6.0?classifier=sources
+- pkg:maven/org.ramani-maps/ramani-maplibre@0.6.1?classifier=sources

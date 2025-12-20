@@ -26,6 +26,10 @@
 - pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.13.2?classifier=sources
 - pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.13.3
 - pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.13.3?classifier=sources
+- pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.14.0
+- pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.14.0?classifier=sources
+- pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.15.0
+- pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.15.0?classifier=sources
 - pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.4.0
 - pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.4.0-java8
 - pkg:maven/io.github.jbwheatley/pact4s-play-json_3@0.4.0-java8?classifier=sources

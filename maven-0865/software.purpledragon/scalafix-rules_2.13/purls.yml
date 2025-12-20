@@ -1,2 +1,6 @@
 - pkg:maven/software.purpledragon/scalafix-rules_2.13@1.0.0
 - pkg:maven/software.purpledragon/scalafix-rules_2.13@1.0.0?classifier=sources
+- pkg:maven/software.purpledragon/scalafix-rules_2.13@1.1.0
+- pkg:maven/software.purpledragon/scalafix-rules_2.13@1.1.0?classifier=sources
+- pkg:maven/software.purpledragon/scalafix-rules_2.13@1.2.0
+- pkg:maven/software.purpledragon/scalafix-rules_2.13@1.2.0?classifier=sources

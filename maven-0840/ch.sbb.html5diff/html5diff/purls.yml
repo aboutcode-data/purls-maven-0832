@@ -1,0 +1,2 @@
+- pkg:maven/ch.sbb.html5diff/html5diff@1.4.4
+- pkg:maven/ch.sbb.html5diff/html5diff@1.4.4?classifier=sources

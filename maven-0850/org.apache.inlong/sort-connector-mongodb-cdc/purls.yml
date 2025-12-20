@@ -19,3 +19,5 @@
 - pkg:maven/org.apache.inlong/sort-connector-mongodb-cdc@1.7.0?classifier=sources
 - pkg:maven/org.apache.inlong/sort-connector-mongodb-cdc@1.9.0
 - pkg:maven/org.apache.inlong/sort-connector-mongodb-cdc@1.9.0?classifier=sources
+- pkg:maven/org.apache.inlong/sort-connector-mongodb-cdc@2.0.0
+- pkg:maven/org.apache.inlong/sort-connector-mongodb-cdc@2.0.0?classifier=sources

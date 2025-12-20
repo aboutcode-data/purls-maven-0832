@@ -24,3 +24,5 @@
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.3
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.4
+- pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.4?classifier=sources

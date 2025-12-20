@@ -1,0 +1,2 @@
+- pkg:maven/org.kompars.ktor-plugins/base-layout-jvm@0.3.0?classifier=sources
+- pkg:maven/org.kompars.ktor-plugins/base-layout-jvm@0.4.0?classifier=sources

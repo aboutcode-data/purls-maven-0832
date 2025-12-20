@@ -1,0 +1,2 @@
+- pkg:maven/ai.ancf.lmos/lmos-router-vector@0.1.0
+- pkg:maven/ai.ancf.lmos/lmos-router-vector@0.1.0?classifier=sources

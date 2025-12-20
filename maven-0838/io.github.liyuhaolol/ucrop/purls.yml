@@ -1,0 +1,4 @@
+- pkg:maven/io.github.liyuhaolol/ucrop@v3.11.3?classifier=sources
+- pkg:maven/io.github.liyuhaolol/ucrop@v3.11.3?type=aar
+- pkg:maven/io.github.liyuhaolol/ucrop@v3.11.4?classifier=sources
+- pkg:maven/io.github.liyuhaolol/ucrop@v3.11.4?type=aar

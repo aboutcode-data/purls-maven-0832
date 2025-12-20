@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-graph/graph-core_3@2.0.2
+- pkg:maven/org.scala-graph/graph-core_3@2.0.2?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/net.avianlabs.solana/solana-kotlin-mingwx64@0.1.8?classifier=sources
 - pkg:maven/net.avianlabs.solana/solana-kotlin-mingwx64@0.1.9?classifier=sources
 - pkg:maven/net.avianlabs.solana/solana-kotlin-mingwx64@0.2.0?classifier=sources
+- pkg:maven/net.avianlabs.solana/solana-kotlin-mingwx64@0.2.1?classifier=sources

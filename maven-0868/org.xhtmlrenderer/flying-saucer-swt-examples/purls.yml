@@ -42,3 +42,5 @@
 - pkg:maven/org.xhtmlrenderer/flying-saucer-swt-examples@9.9.3?classifier=sources
 - pkg:maven/org.xhtmlrenderer/flying-saucer-swt-examples@9.9.4
 - pkg:maven/org.xhtmlrenderer/flying-saucer-swt-examples@9.9.4?classifier=sources
+- pkg:maven/org.xhtmlrenderer/flying-saucer-swt-examples@9.9.5
+- pkg:maven/org.xhtmlrenderer/flying-saucer-swt-examples@9.9.5?classifier=sources

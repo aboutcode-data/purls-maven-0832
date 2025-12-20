@@ -1,3 +1,5 @@
+- pkg:maven/com.googlecode.maven-download-plugin/download-maven-plugin@1.10.0
+- pkg:maven/com.googlecode.maven-download-plugin/download-maven-plugin@1.10.0?classifier=sources
 - pkg:maven/com.googlecode.maven-download-plugin/download-maven-plugin@1.2.0
 - pkg:maven/com.googlecode.maven-download-plugin/download-maven-plugin@1.2.0?classifier=sources
 - pkg:maven/com.googlecode.maven-download-plugin/download-maven-plugin@1.2.1

@@ -120,3 +120,5 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.8.9?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.9.3
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.9.3?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.9.4
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/org.wso2.carbon.identity.application.authenticator.samlsso@5.9.4?classifier=sources

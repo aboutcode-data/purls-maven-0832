@@ -1,0 +1,3 @@
+- pkg:maven/tz.co.asoft/nation-currencies-js@2.0.18?classifier=sources
+- pkg:maven/tz.co.asoft/nation-currencies-js@3.0.13?classifier=sources
+- pkg:maven/tz.co.asoft/nation-currencies-js@3.0.14?classifier=sources

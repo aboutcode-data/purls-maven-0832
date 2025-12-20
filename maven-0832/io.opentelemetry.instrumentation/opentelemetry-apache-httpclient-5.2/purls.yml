@@ -6,3 +6,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-5.2@2.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-5.2@2.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-5.2@2.8.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-5.2@2.9.0-alpha?classifier=sources

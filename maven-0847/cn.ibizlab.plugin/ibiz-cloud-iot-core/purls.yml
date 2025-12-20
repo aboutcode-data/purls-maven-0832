@@ -15,3 +15,5 @@
 - pkg:maven/cn.ibizlab.plugin/ibiz-cloud-iot-core@8.1.0.545.2
 - pkg:maven/cn.ibizlab.plugin/ibiz-cloud-iot-core@8.1.0.549
 - pkg:maven/cn.ibizlab.plugin/ibiz-cloud-iot-core@8.1.0.557
+- pkg:maven/cn.ibizlab.plugin/ibiz-cloud-iot-core@8.1.0.559
+- pkg:maven/cn.ibizlab.plugin/ibiz-cloud-iot-core@8.1.0.563

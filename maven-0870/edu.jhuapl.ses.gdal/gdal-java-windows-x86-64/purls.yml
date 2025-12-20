@@ -1,0 +1,2 @@
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.0
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.45.0?classifier=sources
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.46.0
 - pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.46.0?classifier=sources
+- pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.47.0
+- pkg:maven/net.sf.okapi.lib/okapi-lib-xliff2@1.47.0?classifier=sources

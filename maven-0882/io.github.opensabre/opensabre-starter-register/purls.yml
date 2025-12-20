@@ -6,3 +6,5 @@
 - pkg:maven/io.github.opensabre/opensabre-starter-register@0.0.7?classifier=sources
 - pkg:maven/io.github.opensabre/opensabre-starter-register@0.0.9
 - pkg:maven/io.github.opensabre/opensabre-starter-register@0.0.9?classifier=sources
+- pkg:maven/io.github.opensabre/opensabre-starter-register@0.1.0
+- pkg:maven/io.github.opensabre/opensabre-starter-register@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jitsi/jicoco-metrics-jetty@1.1-142-gfed0320
+- pkg:maven/org.jitsi/jicoco-metrics-jetty@1.1-142-gfed0320?classifier=sources

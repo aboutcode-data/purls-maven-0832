@@ -68,3 +68,4 @@
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@2.1.0
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@2.1.1
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@2.1.2
+- pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@2.1.3

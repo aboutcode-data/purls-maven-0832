@@ -4,3 +4,5 @@
 - pkg:maven/pl.iterators/http4s-stir-testkit_3@0.2?classifier=sources
 - pkg:maven/pl.iterators/http4s-stir-testkit_3@0.3
 - pkg:maven/pl.iterators/http4s-stir-testkit_3@0.3?classifier=sources
+- pkg:maven/pl.iterators/http4s-stir-testkit_3@0.4.0
+- pkg:maven/pl.iterators/http4s-stir-testkit_3@0.4.0?classifier=sources

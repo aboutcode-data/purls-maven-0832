@@ -1,3 +1,5 @@
+- pkg:maven/org.nasdanika.models.source/model@2024.10.0
+- pkg:maven/org.nasdanika.models.source/model@2024.10.0?classifier=sources
 - pkg:maven/org.nasdanika.models.source/model@2024.4.0
 - pkg:maven/org.nasdanika.models.source/model@2024.4.0?classifier=sources
 - pkg:maven/org.nasdanika.models.source/model@2024.5.0

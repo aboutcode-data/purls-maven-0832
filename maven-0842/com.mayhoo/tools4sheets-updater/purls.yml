@@ -1,0 +1,2 @@
+- pkg:maven/com.mayhoo/tools4sheets-updater@4.1.3
+- pkg:maven/com.mayhoo/tools4sheets-updater@4.1.3?classifier=sources
