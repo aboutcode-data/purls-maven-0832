@@ -280,6 +280,8 @@
 - pkg:maven/org.craftercms/crafter-profile-admin-console@4.1.5?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@4.1.6?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-admin-console@4.1.6?type=war
+- pkg:maven/org.craftercms/crafter-profile-admin-console@4.1.7?type=war
+- pkg:maven/org.craftercms/crafter-profile-admin-console@4.1.8?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@v2.4.1-RC2?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@v2.4.1-RC3?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@v2.4.2?type=war

@@ -5,3 +5,6 @@
 - pkg:maven/com.virtusize.android/virtusize@2.5.1?classifier=sources
 - pkg:maven/com.virtusize.android/virtusize@2.5.4?classifier=sources
 - pkg:maven/com.virtusize.android/virtusize@2.5.5?classifier=sources
+- pkg:maven/com.virtusize.android/virtusize@2.6.0?classifier=sources
+- pkg:maven/com.virtusize.android/virtusize@2.6.1?classifier=sources
+- pkg:maven/com.virtusize.android/virtusize@2.6.2?classifier=sources

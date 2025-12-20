@@ -20,3 +20,5 @@
 - pkg:maven/io.github.rediscala/rediscala_2.13@1.15.0-akka?classifier=sources
 - pkg:maven/io.github.rediscala/rediscala_2.13@1.15.0-pekko
 - pkg:maven/io.github.rediscala/rediscala_2.13@1.15.0-pekko?classifier=sources
+- pkg:maven/io.github.rediscala/rediscala_2.13@1.16.0
+- pkg:maven/io.github.rediscala/rediscala_2.13@1.16.0?classifier=sources

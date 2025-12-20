@@ -10,6 +10,8 @@
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@23.3.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@23.3.1
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@23.3.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-classic-components-testbench@23.3.2
+- pkg:maven/com.vaadin/vaadin-classic-components-testbench@23.3.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.0.0
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.1.0
@@ -20,3 +22,5 @@
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.2
 - pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.3
+- pkg:maven/com.vaadin/vaadin-classic-components-testbench@24.2.3?classifier=sources

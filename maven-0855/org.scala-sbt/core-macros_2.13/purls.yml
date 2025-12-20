@@ -8,6 +8,8 @@
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.10.0?classifier=sources
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.10.1
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.10.1?classifier=sources
+- pkg:maven/org.scala-sbt/core-macros_2.13@1.10.2
+- pkg:maven/org.scala-sbt/core-macros_2.13@1.10.2?classifier=sources
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.4.0
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.4.0-RC2
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.4.0-RC2?classifier=sources

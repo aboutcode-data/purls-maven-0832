@@ -1,2 +1,6 @@
+- pkg:maven/tools.dynamia/dynamia-tools-starter@5.2.0
 - pkg:maven/tools.dynamia/dynamia-tools-starter@5.2.0-beta
 - pkg:maven/tools.dynamia/dynamia-tools-starter@5.2.0-beta?classifier=sources
+- pkg:maven/tools.dynamia/dynamia-tools-starter@5.2.0?classifier=sources
+- pkg:maven/tools.dynamia/dynamia-tools-starter@5.2.1
+- pkg:maven/tools.dynamia/dynamia-tools-starter@5.2.1?classifier=sources

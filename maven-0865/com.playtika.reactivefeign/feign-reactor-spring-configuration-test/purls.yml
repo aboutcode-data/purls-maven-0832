@@ -59,3 +59,8 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-test@4.0.0
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-test@4.0.2
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-test@4.0.3
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-test@4.1.0
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-test@4.1.1
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-test@4.1.2
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-test@4.2.0
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-test@4.2.1

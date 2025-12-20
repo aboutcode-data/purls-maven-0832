@@ -1,0 +1,2 @@
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@1.0.0-25.0
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@1.0.0-25.0?classifier=sources

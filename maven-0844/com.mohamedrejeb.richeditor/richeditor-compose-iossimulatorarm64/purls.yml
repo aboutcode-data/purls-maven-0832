@@ -15,3 +15,4 @@
 - pkg:maven/com.mohamedrejeb.richeditor/richeditor-compose-iossimulatorarm64@1.0.0-rc05-k2?classifier=sources
 - pkg:maven/com.mohamedrejeb.richeditor/richeditor-compose-iossimulatorarm64@1.0.0-rc05?classifier=sources
 - pkg:maven/com.mohamedrejeb.richeditor/richeditor-compose-iossimulatorarm64@1.0.0-rc06?classifier=sources
+- pkg:maven/com.mohamedrejeb.richeditor/richeditor-compose-iossimulatorarm64@1.0.0-rc07?classifier=sources

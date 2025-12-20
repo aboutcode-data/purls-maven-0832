@@ -1,0 +1,2 @@
+- pkg:maven/org.tpolecat/doobie-mysql_2.12@1.0.0-RC6
+- pkg:maven/org.tpolecat/doobie-mysql_2.12@1.0.0-RC6?classifier=sources

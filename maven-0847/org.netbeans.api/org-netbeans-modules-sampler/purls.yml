@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-sampler@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-sampler@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-sampler@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-sampler@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-sampler@RELEASE90?classifier=sources

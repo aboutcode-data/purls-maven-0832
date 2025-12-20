@@ -2,3 +2,4 @@
 - pkg:maven/org.sonarsource.slang/slang-api@1.0.0.928?classifier=sources
 - pkg:maven/org.sonarsource.slang/slang-api@1.15.1.6141?classifier=sources
 - pkg:maven/org.sonarsource.slang/slang-api@1.15.2.6150?classifier=sources
+- pkg:maven/org.sonarsource.slang/slang-api@1.16.0.6230?classifier=sources

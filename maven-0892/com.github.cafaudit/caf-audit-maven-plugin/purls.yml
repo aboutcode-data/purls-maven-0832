@@ -19,3 +19,4 @@
 - pkg:maven/com.github.cafaudit/caf-audit-maven-plugin@4.0.0-1115?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-maven-plugin@4.0.1-1154?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-maven-plugin@4.1.0-1195?classifier=sources
+- pkg:maven/com.github.cafaudit/caf-audit-maven-plugin@4.2.0-1223?classifier=sources

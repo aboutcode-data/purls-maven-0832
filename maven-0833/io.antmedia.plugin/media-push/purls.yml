@@ -1,4 +1,10 @@
 - pkg:maven/io.antmedia.plugin/media-push@2.10.0
 - pkg:maven/io.antmedia.plugin/media-push@2.10.0?classifier=sources
+- pkg:maven/io.antmedia.plugin/media-push@2.11.1
+- pkg:maven/io.antmedia.plugin/media-push@2.11.1?classifier=sources
+- pkg:maven/io.antmedia.plugin/media-push@2.11.2
+- pkg:maven/io.antmedia.plugin/media-push@2.11.2?classifier=sources
+- pkg:maven/io.antmedia.plugin/media-push@2.11.3
+- pkg:maven/io.antmedia.plugin/media-push@2.11.3?classifier=sources
 - pkg:maven/io.antmedia.plugin/media-push@2.9.0
 - pkg:maven/io.antmedia.plugin/media-push@2.9.0?classifier=sources

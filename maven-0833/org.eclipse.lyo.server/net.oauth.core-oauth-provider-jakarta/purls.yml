@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.lyo.server/net.oauth.core-oauth-provider-jakarta@6.0.0.CR
+- pkg:maven/org.eclipse.lyo.server/net.oauth.core-oauth-provider-jakarta@6.0.0.CR?classifier=sources

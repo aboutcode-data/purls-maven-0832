@@ -22,3 +22,5 @@
 - pkg:maven/com.datastax.oss/pulsar-jms-admin-api@5.0.2-alpha?classifier=sources
 - pkg:maven/com.datastax.oss/pulsar-jms-admin-api@5.0.4
 - pkg:maven/com.datastax.oss/pulsar-jms-admin-api@5.0.4?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-admin-api@5.0.5
+- pkg:maven/com.datastax.oss/pulsar-jms-admin-api@5.0.5?classifier=sources

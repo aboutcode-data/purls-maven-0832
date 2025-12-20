@@ -76,5 +76,7 @@
 - pkg:maven/com.scalar-labs/scalardl-java-client-sdk@3.7.3?classifier=sources
 - pkg:maven/com.scalar-labs/scalardl-java-client-sdk@3.8.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardl-java-client-sdk@3.8.1?classifier=sources
+- pkg:maven/com.scalar-labs/scalardl-java-client-sdk@3.8.2?classifier=sources
 - pkg:maven/com.scalar-labs/scalardl-java-client-sdk@3.9.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardl-java-client-sdk@3.9.1?classifier=sources
+- pkg:maven/com.scalar-labs/scalardl-java-client-sdk@3.9.2?classifier=sources

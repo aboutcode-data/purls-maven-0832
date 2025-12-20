@@ -1,0 +1,4 @@
+- pkg:maven/org.ops4j.pax.web.samples/war-filters@8.0.28?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-filters@8.0.28?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.17?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.17?type=war

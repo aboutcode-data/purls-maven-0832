@@ -10,6 +10,8 @@
 - pkg:maven/net.java.dev.jna/jna-jpms@5.13.0?classifier=sources
 - pkg:maven/net.java.dev.jna/jna-jpms@5.14.0
 - pkg:maven/net.java.dev.jna/jna-jpms@5.14.0?classifier=sources
+- pkg:maven/net.java.dev.jna/jna-jpms@5.15.0
+- pkg:maven/net.java.dev.jna/jna-jpms@5.15.0?classifier=sources
 - pkg:maven/net.java.dev.jna/jna-jpms@5.8.0
 - pkg:maven/net.java.dev.jna/jna-jpms@5.8.0?classifier=sources
 - pkg:maven/net.java.dev.jna/jna-jpms@5.9.0

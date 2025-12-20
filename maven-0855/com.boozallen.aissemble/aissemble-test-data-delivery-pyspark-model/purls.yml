@@ -5,3 +5,4 @@
 - pkg:maven/com.boozallen.aissemble/aissemble-test-data-delivery-pyspark-model@1.8.0-rc6?classifier=sources
 - pkg:maven/com.boozallen.aissemble/aissemble-test-data-delivery-pyspark-model@1.8.0-rc8?classifier=sources
 - pkg:maven/com.boozallen.aissemble/aissemble-test-data-delivery-pyspark-model@1.8.0?classifier=sources
+- pkg:maven/com.boozallen.aissemble/aissemble-test-data-delivery-pyspark-model@1.8.1-rc2?classifier=sources

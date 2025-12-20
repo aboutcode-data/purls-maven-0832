@@ -2034,6 +2034,8 @@
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev20240730-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev20240809-2.0.0
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev20240809-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20240914-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v2-rev20240914-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v2-rev203-1.19.1
@@ -4024,6 +4026,10 @@
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20240730-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20240809-2.0.0
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20240809-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20240903-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20240903-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20240914-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20240914-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev21-1.19.1

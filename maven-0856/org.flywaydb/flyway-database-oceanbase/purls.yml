@@ -6,6 +6,8 @@
 - pkg:maven/org.flywaydb/flyway-database-oceanbase@10.15.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-oceanbase@10.16.0
 - pkg:maven/org.flywaydb/flyway-database-oceanbase@10.16.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-oceanbase@10.16.1
+- pkg:maven/org.flywaydb/flyway-database-oceanbase@10.16.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-oceanbase@10.7.2
 - pkg:maven/org.flywaydb/flyway-database-oceanbase@10.7.2?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-oceanbase@10.8.0

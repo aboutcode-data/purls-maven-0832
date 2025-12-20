@@ -1,3 +1,4 @@
 - pkg:maven/org.sonarsource.scanner.lib/sonar-scanner-java-library@3.0.0.168?classifier=sources
 - pkg:maven/org.sonarsource.scanner.lib/sonar-scanner-java-library@3.0.1.175?classifier=sources
 - pkg:maven/org.sonarsource.scanner.lib/sonar-scanner-java-library@3.0.2.187?classifier=sources
+- pkg:maven/org.sonarsource.scanner.lib/sonar-scanner-java-library@3.1.0.234?classifier=sources

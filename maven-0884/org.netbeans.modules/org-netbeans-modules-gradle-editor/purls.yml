@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-editor@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-editor@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-editor@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-editor@RELEASE230?classifier=sources

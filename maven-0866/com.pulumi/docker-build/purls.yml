@@ -34,3 +34,4 @@
 - pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1723578854?classifier=sources
 - pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1723582330?classifier=sources
 - pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1723666644?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1725985579?classifier=sources

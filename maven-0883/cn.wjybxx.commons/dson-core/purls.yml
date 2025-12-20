@@ -1,2 +1,4 @@
 - pkg:maven/cn.wjybxx.commons/dson-core@1.1.0
 - pkg:maven/cn.wjybxx.commons/dson-core@1.1.0?classifier=sources
+- pkg:maven/cn.wjybxx.commons/dson-core@1.1.1
+- pkg:maven/cn.wjybxx.commons/dson-core@1.1.1?classifier=sources

@@ -46,3 +46,4 @@
 - pkg:maven/io.helidon/helidon-docs@4.0.8?classifier=sources
 - pkg:maven/io.helidon/helidon-docs@4.0.9?classifier=sources
 - pkg:maven/io.helidon/helidon-docs@4.1.0?classifier=sources
+- pkg:maven/io.helidon/helidon-docs@4.1.1?classifier=sources

@@ -168,8 +168,12 @@
 - pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.17.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.18.0
 - pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.18.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.19.0
+- pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.19.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.2.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.20.0
+- pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.20.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.3.0
 - pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.3.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-cloudflare@11.4.0

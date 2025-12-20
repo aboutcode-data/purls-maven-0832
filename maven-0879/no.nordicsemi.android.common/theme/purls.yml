@@ -71,3 +71,4 @@
 - pkg:maven/no.nordicsemi.android.common/theme@1.9.4?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/theme@1.9.5?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/theme@2.0.0?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/theme@2.1.0?classifier=sources

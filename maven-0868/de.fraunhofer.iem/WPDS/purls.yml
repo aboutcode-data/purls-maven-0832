@@ -4,3 +4,7 @@
 - pkg:maven/de.fraunhofer.iem/WPDS@3.1.2-Sparse
 - pkg:maven/de.fraunhofer.iem/WPDS@3.1.2-Sparse?classifier=sources
 - pkg:maven/de.fraunhofer.iem/WPDS@3.1.2?classifier=sources
+- pkg:maven/de.fraunhofer.iem/WPDS@3.2.0
+- pkg:maven/de.fraunhofer.iem/WPDS@3.2.0?classifier=sources
+- pkg:maven/de.fraunhofer.iem/WPDS@3.2.1
+- pkg:maven/de.fraunhofer.iem/WPDS@3.2.1?classifier=sources

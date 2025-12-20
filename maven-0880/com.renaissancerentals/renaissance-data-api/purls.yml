@@ -12,6 +12,8 @@
 - pkg:maven/com.renaissancerentals/renaissance-data-api@1.1.15.RELEASE?classifier=sources
 - pkg:maven/com.renaissancerentals/renaissance-data-api@1.1.16.RELEASE?classifier=sources
 - pkg:maven/com.renaissancerentals/renaissance-data-api@1.1.17.RELEASE?classifier=sources
+- pkg:maven/com.renaissancerentals/renaissance-data-api@1.1.18.RELEASE?classifier=sources
+- pkg:maven/com.renaissancerentals/renaissance-data-api@1.1.19.RELEASE?classifier=sources
 - pkg:maven/com.renaissancerentals/renaissance-data-api@1.1.2.RELEASE?classifier=sources
 - pkg:maven/com.renaissancerentals/renaissance-data-api@1.1.5.RELEASE?classifier=sources
 - pkg:maven/com.renaissancerentals/renaissance-data-api@1.1.7.RELEASE?classifier=sources

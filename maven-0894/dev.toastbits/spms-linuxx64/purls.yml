@@ -5,3 +5,4 @@
 - pkg:maven/dev.toastbits/spms-linuxx64@0.4.0-alpha3?classifier=sources
 - pkg:maven/dev.toastbits/spms-linuxx64@0.4.0-alpha4?classifier=sources
 - pkg:maven/dev.toastbits/spms-linuxx64@0.4.0-beta2?classifier=sources
+- pkg:maven/dev.toastbits/spms-linuxx64@0.4.1?classifier=sources

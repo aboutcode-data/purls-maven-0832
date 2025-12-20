@@ -6,3 +6,5 @@
 - pkg:maven/cn.zhxu/data-fastjson2-jsonb@1.5.2?classifier=sources
 - pkg:maven/cn.zhxu/data-fastjson2-jsonb@1.5.3
 - pkg:maven/cn.zhxu/data-fastjson2-jsonb@1.5.3?classifier=sources
+- pkg:maven/cn.zhxu/data-fastjson2-jsonb@1.6.0
+- pkg:maven/cn.zhxu/data-fastjson2-jsonb@1.6.0?classifier=sources

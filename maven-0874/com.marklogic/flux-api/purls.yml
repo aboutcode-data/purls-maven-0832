@@ -1,1 +1,2 @@
 - pkg:maven/com.marklogic/flux-api@1.0.0.ea1?classifier=sources
+- pkg:maven/com.marklogic/flux-api@1.0.0?classifier=sources

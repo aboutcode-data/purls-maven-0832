@@ -68,3 +68,4 @@
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.7?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.8?classifier=sources
 - pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-alpha.9?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/compose-m2@2.0.0-beta.1?classifier=sources

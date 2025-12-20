@@ -33,3 +33,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-tvosarm64@7.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-tvosarm64@7.1.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-tvosarm64@7.2.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-tvosarm64@7.3.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.morphir/morphir-cli_3@0.0.0-57-84b9a9
+- pkg:maven/org.finos.morphir/morphir-cli_3@0.0.0-57-84b9a9?classifier=sources
+- pkg:maven/org.finos.morphir/morphir-cli_3@0.0.0-58-ae23ac
+- pkg:maven/org.finos.morphir/morphir-cli_3@0.0.0-58-ae23ac?classifier=sources

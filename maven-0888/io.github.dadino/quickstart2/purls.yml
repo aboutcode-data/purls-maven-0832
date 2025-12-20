@@ -3,3 +3,4 @@
 - pkg:maven/io.github.dadino/quickstart2@1.1.6?classifier=sources
 - pkg:maven/io.github.dadino/quickstart2@1.1.7?classifier=sources
 - pkg:maven/io.github.dadino/quickstart2@1.2.0?classifier=sources
+- pkg:maven/io.github.dadino/quickstart2@1.2.2?classifier=sources

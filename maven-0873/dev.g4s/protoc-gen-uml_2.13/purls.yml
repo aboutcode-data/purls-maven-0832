@@ -2,5 +2,7 @@
 - pkg:maven/dev.g4s/protoc-gen-uml_2.13@1.0.0?classifier=sources
 - pkg:maven/dev.g4s/protoc-gen-uml_2.13@1.1.0
 - pkg:maven/dev.g4s/protoc-gen-uml_2.13@1.1.0?classifier=sources
+- pkg:maven/dev.g4s/protoc-gen-uml_2.13@1.2.0
+- pkg:maven/dev.g4s/protoc-gen-uml_2.13@1.2.0?classifier=sources
 - pkg:maven/dev.g4s/protoc-gen-uml_2.13@v1.1.0
 - pkg:maven/dev.g4s/protoc-gen-uml_2.13@v1.1.0?classifier=sources

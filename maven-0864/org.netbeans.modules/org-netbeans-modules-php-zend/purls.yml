@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-zend@RELEASE230?classifier=sources

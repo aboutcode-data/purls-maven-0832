@@ -11,3 +11,4 @@
 - pkg:maven/dev.programadorthi.routing/sessions@0.0.20?classifier=sources
 - pkg:maven/dev.programadorthi.routing/sessions@0.0.21?classifier=sources
 - pkg:maven/dev.programadorthi.routing/sessions@0.0.8?classifier=sources
+- pkg:maven/dev.programadorthi.routing/sessions@2.0.0-alpha01?classifier=sources

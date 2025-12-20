@@ -5,3 +5,11 @@
 - pkg:maven/io.airlift/secrets-spi@258?classifier=sources
 - pkg:maven/io.airlift/secrets-spi@259?classifier=sources
 - pkg:maven/io.airlift/secrets-spi@260?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@261?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@262?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@263?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@264?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@265?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@266?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@267?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@268?classifier=sources

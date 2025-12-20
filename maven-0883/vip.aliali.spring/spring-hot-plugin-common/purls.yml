@@ -1,0 +1,2 @@
+- pkg:maven/vip.aliali.spring/spring-hot-plugin-common@1.1.1?classifier=sources
+- pkg:maven/vip.aliali.spring/spring-hot-plugin-common@1.1?classifier=sources

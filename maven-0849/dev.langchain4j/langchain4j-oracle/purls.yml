@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-oracle@0.34.0
+- pkg:maven/dev.langchain4j/langchain4j-oracle@0.34.0?classifier=sources

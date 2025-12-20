@@ -1,2 +1,4 @@
 - pkg:maven/io.github.crac.io.agroal/agroal-pool@1.18.CRAC.0
 - pkg:maven/io.github.crac.io.agroal/agroal-pool@1.18.CRAC.0?classifier=sources
+- pkg:maven/io.github.crac.io.agroal/agroal-pool@2.1.CRAC.0
+- pkg:maven/io.github.crac.io.agroal/agroal-pool@2.1.CRAC.0?classifier=sources

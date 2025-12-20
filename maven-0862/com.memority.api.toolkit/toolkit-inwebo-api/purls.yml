@@ -32,3 +32,5 @@
 - pkg:maven/com.memority.api.toolkit/toolkit-inwebo-api@3.39.0?classifier=sources
 - pkg:maven/com.memority.api.toolkit/toolkit-inwebo-api@3.40.0
 - pkg:maven/com.memority.api.toolkit/toolkit-inwebo-api@3.40.0?classifier=sources
+- pkg:maven/com.memority.api.toolkit/toolkit-inwebo-api@3.41.0
+- pkg:maven/com.memority.api.toolkit/toolkit-inwebo-api@3.41.0?classifier=sources

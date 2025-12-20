@@ -2,6 +2,8 @@
 - pkg:maven/org.telegram/telegrambots-springboot-longpolling-starter@7.0.0-rc0
 - pkg:maven/org.telegram/telegrambots-springboot-longpolling-starter@7.0.0-rc0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-springboot-longpolling-starter@7.0.0?classifier=sources
+- pkg:maven/org.telegram/telegrambots-springboot-longpolling-starter@7.10.0
+- pkg:maven/org.telegram/telegrambots-springboot-longpolling-starter@7.10.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-springboot-longpolling-starter@7.2.0
 - pkg:maven/org.telegram/telegrambots-springboot-longpolling-starter@7.2.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-springboot-longpolling-starter@7.2.1

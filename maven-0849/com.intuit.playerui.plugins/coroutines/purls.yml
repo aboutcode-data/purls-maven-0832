@@ -34,6 +34,7 @@
 - pkg:maven/com.intuit.playerui.plugins/coroutines@0.8.0-next.9
 - pkg:maven/com.intuit.playerui.plugins/coroutines@0.8.0-next.9?classifier=sources
 - pkg:maven/com.intuit.playerui.plugins/coroutines@0.8.0?classifier=sources
+- pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0
 - pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0-next.0
 - pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0-next.0?classifier=sources
 - pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0-next.1
@@ -48,3 +49,10 @@
 - pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0-next.5?classifier=sources
 - pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0-next.6
 - pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0-next.6?classifier=sources
+- pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0-next.7
+- pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0-next.7?classifier=sources
+- pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.0?classifier=sources
+- pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.1-next.0
+- pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.1-next.0?classifier=sources
+- pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.1-next.1
+- pkg:maven/com.intuit.playerui.plugins/coroutines@0.9.1-next.1?classifier=sources

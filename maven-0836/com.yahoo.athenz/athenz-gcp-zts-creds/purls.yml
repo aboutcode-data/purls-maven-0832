@@ -70,3 +70,5 @@
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.63?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.64
 - pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.64?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.65
+- pkg:maven/com.yahoo.athenz/athenz-gcp-zts-creds@1.11.65?classifier=sources

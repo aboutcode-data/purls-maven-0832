@@ -1,0 +1,2 @@
+- pkg:maven/io.github.payone-gmbh/pcp-client-android-sdk@0.0.1?classifier=sources
+- pkg:maven/io.github.payone-gmbh/pcp-client-android-sdk@1.0.0?classifier=sources

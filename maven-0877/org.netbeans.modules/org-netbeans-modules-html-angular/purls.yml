@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE230?classifier=sources

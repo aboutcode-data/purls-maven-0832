@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.win32.win32.aarch64@3.126.0
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.win32.win32.aarch64@3.126.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.win32.win32.aarch64@3.127.0
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.win32.win32.aarch64@3.127.0?classifier=sources

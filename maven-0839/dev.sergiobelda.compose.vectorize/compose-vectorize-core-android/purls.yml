@@ -1,3 +1,4 @@
 - pkg:maven/dev.sergiobelda.compose.vectorize/compose-vectorize-core-android@0.7.0?classifier=sources
 - pkg:maven/dev.sergiobelda.compose.vectorize/compose-vectorize-core-android@1.0.0-beta01?classifier=sources
 - pkg:maven/dev.sergiobelda.compose.vectorize/compose-vectorize-core-android@1.0.0?classifier=sources
+- pkg:maven/dev.sergiobelda.compose.vectorize/compose-vectorize-core-android@1.0.1?classifier=sources

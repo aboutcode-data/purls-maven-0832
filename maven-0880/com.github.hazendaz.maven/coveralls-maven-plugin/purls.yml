@@ -2,3 +2,4 @@
 - pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@4.5.0-M2?classifier=sources
 - pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@4.5.0-M3?classifier=sources
 - pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@4.5.0-M4?classifier=sources
+- pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@4.5.0-M5?classifier=sources

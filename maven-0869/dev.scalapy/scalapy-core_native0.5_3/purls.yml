@@ -1,0 +1,4 @@
+- pkg:maven/dev.scalapy/scalapy-core_native0.5_3@0.5.3%2B12-9ad3dbcd
+- pkg:maven/dev.scalapy/scalapy-core_native0.5_3@0.5.3%2B12-9ad3dbcd?classifier=sources
+- pkg:maven/dev.scalapy/scalapy-core_native0.5_3@0.5.3%2B13-f5cdaccb
+- pkg:maven/dev.scalapy/scalapy-core_native0.5_3@0.5.3%2B13-f5cdaccb?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.handy-messaging-framework/hmf4j-types-simplemessage@1.0.0?classifier=sources
+- pkg:maven/io.github.handy-messaging-framework/hmf4j-types-simplemessage@1.1.0?classifier=sources

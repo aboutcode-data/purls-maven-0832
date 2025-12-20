@@ -25,3 +25,5 @@
 - pkg:maven/de.gematik.refv/valmodule-base@2.3.0
 - pkg:maven/de.gematik.refv/valmodule-base@2.4.0
 - pkg:maven/de.gematik.refv/valmodule-base@2.5.0
+- pkg:maven/de.gematik.refv/valmodule-base@2.5.1
+- pkg:maven/de.gematik.refv/valmodule-base@2.6.0

@@ -32,3 +32,5 @@
 - pkg:maven/chat.dim/UDP@0.3.7?classifier=sources
 - pkg:maven/chat.dim/UDP@0.3.8
 - pkg:maven/chat.dim/UDP@0.3.8?classifier=sources
+- pkg:maven/chat.dim/UDP@1.0.0
+- pkg:maven/chat.dim/UDP@1.0.0?classifier=sources

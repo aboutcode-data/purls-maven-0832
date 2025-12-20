@@ -40,3 +40,5 @@
 - pkg:maven/com.github.cafdataprocessing/worker-document-interface@6.0.0-1308?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-document-interface@6.1.0-1459
 - pkg:maven/com.github.cafdataprocessing/worker-document-interface@6.1.0-1459?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@6.1.1-1480
+- pkg:maven/com.github.cafdataprocessing/worker-document-interface@6.1.1-1480?classifier=sources

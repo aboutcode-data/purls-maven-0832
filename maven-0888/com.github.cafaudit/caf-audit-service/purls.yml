@@ -36,3 +36,5 @@
 - pkg:maven/com.github.cafaudit/caf-audit-service@4.0.1-1154?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-service@4.1.0-1195
 - pkg:maven/com.github.cafaudit/caf-audit-service@4.1.0-1195?classifier=sources
+- pkg:maven/com.github.cafaudit/caf-audit-service@4.2.0-1223
+- pkg:maven/com.github.cafaudit/caf-audit-service@4.2.0-1223?classifier=sources

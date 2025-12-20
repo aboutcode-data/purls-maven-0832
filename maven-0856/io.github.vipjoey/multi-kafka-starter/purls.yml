@@ -1,2 +1,4 @@
 - pkg:maven/io.github.vipjoey/multi-kafka-starter@2.2
 - pkg:maven/io.github.vipjoey/multi-kafka-starter@2.2?classifier=sources
+- pkg:maven/io.github.vipjoey/multi-kafka-starter@3.0
+- pkg:maven/io.github.vipjoey/multi-kafka-starter@3.0?classifier=sources

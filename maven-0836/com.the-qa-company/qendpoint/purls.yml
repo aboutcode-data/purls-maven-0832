@@ -94,3 +94,7 @@
 - pkg:maven/com.the-qa-company/qendpoint@1.8.0?classifier=sources
 - pkg:maven/com.the-qa-company/qendpoint@1.9.0
 - pkg:maven/com.the-qa-company/qendpoint@1.9.0?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint@2.0.0
+- pkg:maven/com.the-qa-company/qendpoint@2.0.0?classifier=sources
+- pkg:maven/com.the-qa-company/qendpoint@2.0.1
+- pkg:maven/com.the-qa-company/qendpoint@2.0.1?classifier=sources

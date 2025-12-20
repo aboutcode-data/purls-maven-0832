@@ -1,0 +1,2 @@
+- pkg:maven/com.helger.vefa/validator-tester@2.3.1
+- pkg:maven/com.helger.vefa/validator-tester@2.3.1?classifier=sources

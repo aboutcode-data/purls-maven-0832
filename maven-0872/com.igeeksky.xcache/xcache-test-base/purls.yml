@@ -1,0 +1,2 @@
+- pkg:maven/com.igeeksky.xcache/xcache-test-base@0.9.10?classifier=sources
+- pkg:maven/com.igeeksky.xcache/xcache-test-base@0.9.9?classifier=sources

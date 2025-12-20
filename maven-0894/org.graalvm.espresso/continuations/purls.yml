@@ -1,0 +1,2 @@
+- pkg:maven/org.graalvm.espresso/continuations@24.1.0
+- pkg:maven/org.graalvm.espresso/continuations@24.1.0?classifier=sources

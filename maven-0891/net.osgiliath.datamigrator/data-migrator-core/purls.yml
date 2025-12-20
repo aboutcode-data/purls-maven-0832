@@ -50,3 +50,9 @@
 - pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.75?classifier=sources
 - pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.76
 - pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.76?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.77
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.77?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.78
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.78?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.79
+- pkg:maven/net.osgiliath.datamigrator/data-migrator-core@1.79?classifier=sources

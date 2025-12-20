@@ -1,3 +1,5 @@
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.100.0
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.100.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.42.0
 - pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.42.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.42.1
@@ -160,3 +162,11 @@
 - pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.95.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.96.0
 - pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.96.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.97.0
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.97.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.98.0
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.98.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.99.0
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.99.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.99.1
+- pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3@0.99.1?classifier=sources

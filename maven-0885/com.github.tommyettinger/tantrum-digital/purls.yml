@@ -4,3 +4,4 @@
 - pkg:maven/com.github.tommyettinger/tantrum-digital@0.4.8.2?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-digital@0.4.8.3?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-digital@0.5.0.3?classifier=sources
+- pkg:maven/com.github.tommyettinger/tantrum-digital@0.5.1.4?classifier=sources

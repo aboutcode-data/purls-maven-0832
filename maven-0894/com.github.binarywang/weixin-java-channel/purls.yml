@@ -24,3 +24,7 @@
 - pkg:maven/com.github.binarywang/weixin-java-channel@4.6.2.B?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-channel@4.6.3.B
 - pkg:maven/com.github.binarywang/weixin-java-channel@4.6.3.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-channel@4.6.4.B
+- pkg:maven/com.github.binarywang/weixin-java-channel@4.6.4.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-channel@4.6.5.B
+- pkg:maven/com.github.binarywang/weixin-java-channel@4.6.5.B?classifier=sources

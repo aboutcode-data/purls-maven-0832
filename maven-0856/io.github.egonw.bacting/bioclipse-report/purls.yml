@@ -44,3 +44,7 @@
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.0.9?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.1.0
 - pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.1.0?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.1.1
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.1.1?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.1.2
+- pkg:maven/io.github.egonw.bacting/bioclipse-report@2.8.1.2?classifier=sources

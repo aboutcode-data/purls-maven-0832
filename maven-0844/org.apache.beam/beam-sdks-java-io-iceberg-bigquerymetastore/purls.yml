@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.beam/beam-sdks-java-io-iceberg-bigquerymetastore@2.59.0?classifier=sources

@@ -295,3 +295,10 @@
 - pkg:maven/org.webjars.npm/vue@3.4.7?classifier=sources
 - pkg:maven/org.webjars.npm/vue@3.4.8
 - pkg:maven/org.webjars.npm/vue@3.4.8?classifier=sources
+- pkg:maven/org.webjars.npm/vue@3.5.0
+- pkg:maven/org.webjars.npm/vue@3.5.1
+- pkg:maven/org.webjars.npm/vue@3.5.2
+- pkg:maven/org.webjars.npm/vue@3.5.3
+- pkg:maven/org.webjars.npm/vue@3.5.4
+- pkg:maven/org.webjars.npm/vue@3.5.5
+- pkg:maven/org.webjars.npm/vue@3.5.6

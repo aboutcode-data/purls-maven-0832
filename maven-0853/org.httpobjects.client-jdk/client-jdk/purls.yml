@@ -1,0 +1,2 @@
+- pkg:maven/org.httpobjects.client-jdk/client-jdk@1.0.0.pre3?classifier=sources
+- pkg:maven/org.httpobjects.client-jdk/client-jdk@1.0.0.pre4?classifier=sources

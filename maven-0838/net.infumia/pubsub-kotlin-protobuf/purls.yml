@@ -9,3 +9,4 @@
 - pkg:maven/net.infumia/pubsub-kotlin-protobuf@0.3.4?classifier=sources
 - pkg:maven/net.infumia/pubsub-kotlin-protobuf@0.3.5?classifier=sources
 - pkg:maven/net.infumia/pubsub-kotlin-protobuf@0.3.6?classifier=sources
+- pkg:maven/net.infumia/pubsub-kotlin-protobuf@0.3.7?classifier=sources

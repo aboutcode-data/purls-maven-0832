@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-macosx@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-macosx@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-macosx@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-macosx@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-macosx@RELEASE90?classifier=sources

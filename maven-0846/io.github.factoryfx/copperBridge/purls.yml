@@ -116,3 +116,4 @@
 - pkg:maven/io.github.factoryfx/copperBridge@3.1.5?classifier=sources
 - pkg:maven/io.github.factoryfx/copperBridge@3.1.6?classifier=sources
 - pkg:maven/io.github.factoryfx/copperBridge@3.2.0?classifier=sources
+- pkg:maven/io.github.factoryfx/copperBridge@3.2.1?classifier=sources

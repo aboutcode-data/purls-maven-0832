@@ -7,3 +7,4 @@
 - pkg:maven/io.javalin/javalin-osgi@4.6.7
 - pkg:maven/io.javalin/javalin-osgi@4.6.8
 - pkg:maven/io.javalin/javalin-osgi@6.2.0
+- pkg:maven/io.javalin/javalin-osgi@6.3.0

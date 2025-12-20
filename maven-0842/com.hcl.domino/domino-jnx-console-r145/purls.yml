@@ -1,2 +1,6 @@
 - pkg:maven/com.hcl.domino/domino-jnx-console-r145@1.42.0
 - pkg:maven/com.hcl.domino/domino-jnx-console-r145@1.42.0?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-console-r145@1.42.1
+- pkg:maven/com.hcl.domino/domino-jnx-console-r145@1.42.1?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-console-r145@1.42.2
+- pkg:maven/com.hcl.domino/domino-jnx-console-r145@1.42.2?classifier=sources

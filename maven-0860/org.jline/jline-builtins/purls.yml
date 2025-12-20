@@ -56,6 +56,7 @@
 - pkg:maven/org.jline/jline-builtins@3.26.2?classifier=sources
 - pkg:maven/org.jline/jline-builtins@3.26.3
 - pkg:maven/org.jline/jline-builtins@3.26.3?classifier=sources
+- pkg:maven/org.jline/jline-builtins@3.27.0?classifier=sources
 - pkg:maven/org.jline/jline-builtins@3.3.0
 - pkg:maven/org.jline/jline-builtins@3.3.0?classifier=sources
 - pkg:maven/org.jline/jline-builtins@3.3.1

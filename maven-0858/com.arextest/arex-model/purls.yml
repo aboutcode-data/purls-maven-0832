@@ -213,8 +213,14 @@
 - pkg:maven/com.arextest/arex-model@1.2.26?classifier=sources
 - pkg:maven/com.arextest/arex-model@1.2.27
 - pkg:maven/com.arextest/arex-model@1.2.27?classifier=sources
+- pkg:maven/com.arextest/arex-model@1.2.28
+- pkg:maven/com.arextest/arex-model@1.2.28?classifier=sources
+- pkg:maven/com.arextest/arex-model@1.2.29
+- pkg:maven/com.arextest/arex-model@1.2.29?classifier=sources
 - pkg:maven/com.arextest/arex-model@1.2.2?classifier=sources
 - pkg:maven/com.arextest/arex-model@1.2.3
+- pkg:maven/com.arextest/arex-model@1.2.30
+- pkg:maven/com.arextest/arex-model@1.2.30?classifier=sources
 - pkg:maven/com.arextest/arex-model@1.2.3?classifier=sources
 - pkg:maven/com.arextest/arex-model@1.2.4
 - pkg:maven/com.arextest/arex-model@1.2.4?classifier=sources

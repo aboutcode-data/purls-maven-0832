@@ -22,3 +22,5 @@
 - pkg:maven/es.iti.wakamiti/azure-wakamiti-plugin@1.7.0?classifier=sources
 - pkg:maven/es.iti.wakamiti/azure-wakamiti-plugin@1.8.0
 - pkg:maven/es.iti.wakamiti/azure-wakamiti-plugin@1.8.0?classifier=sources
+- pkg:maven/es.iti.wakamiti/azure-wakamiti-plugin@1.9.0
+- pkg:maven/es.iti.wakamiti/azure-wakamiti-plugin@1.9.0?classifier=sources

@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-htmlui@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-htmlui@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-htmlui@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-htmlui@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-htmlui@RELEASE90?classifier=sources

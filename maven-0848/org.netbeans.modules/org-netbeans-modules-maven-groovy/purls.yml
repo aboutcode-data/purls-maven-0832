@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-groovy@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-groovy@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-groovy@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-groovy@RELEASE230?classifier=sources

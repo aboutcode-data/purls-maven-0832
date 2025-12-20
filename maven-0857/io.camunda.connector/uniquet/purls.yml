@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.connector/uniquet@8.6.0-alpha5
+- pkg:maven/io.camunda.connector/uniquet@8.6.0-alpha5?classifier=sources

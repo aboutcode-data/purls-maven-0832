@@ -15,3 +15,5 @@
 - pkg:maven/io.insert-koin/koin-core-coroutines-linuxx64@3.6.0-wasm-alpha1?classifier=sources
 - pkg:maven/io.insert-koin/koin-core-coroutines-linuxx64@3.6.0-wasm-alpha2?classifier=sources
 - pkg:maven/io.insert-koin/koin-core-coroutines-linuxx64@4.0.0-RC1?classifier=sources
+- pkg:maven/io.insert-koin/koin-core-coroutines-linuxx64@4.0.0-RC2?classifier=sources
+- pkg:maven/io.insert-koin/koin-core-coroutines-linuxx64@4.0.0?classifier=sources

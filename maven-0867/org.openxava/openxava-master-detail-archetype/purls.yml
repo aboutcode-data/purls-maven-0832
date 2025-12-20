@@ -1,2 +1,3 @@
 - pkg:maven/org.openxava/openxava-master-detail-archetype@7.3.2?classifier=sources
 - pkg:maven/org.openxava/openxava-master-detail-archetype@7.3.3?classifier=sources
+- pkg:maven/org.openxava/openxava-master-detail-archetype@7.4?classifier=sources

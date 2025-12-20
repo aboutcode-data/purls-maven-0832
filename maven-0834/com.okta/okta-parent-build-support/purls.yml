@@ -29,6 +29,7 @@
 - pkg:maven/com.okta/okta-parent-build-support@31
 - pkg:maven/com.okta/okta-parent-build-support@32
 - pkg:maven/com.okta/okta-parent-build-support@33
+- pkg:maven/com.okta/okta-parent-build-support@34
 - pkg:maven/com.okta/okta-parent-build-support@4
 - pkg:maven/com.okta/okta-parent-build-support@5
 - pkg:maven/com.okta/okta-parent-build-support@6

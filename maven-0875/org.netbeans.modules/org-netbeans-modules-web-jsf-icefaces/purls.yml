@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-icefaces@RELEASE230?classifier=sources

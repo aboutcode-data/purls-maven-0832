@@ -8,6 +8,7 @@
 - pkg:maven/com.river-kt/connector-rdbms@1.0.0-alpha12?classifier=sources
 - pkg:maven/com.river-kt/connector-rdbms@1.0.0-alpha13?classifier=sources
 - pkg:maven/com.river-kt/connector-rdbms@1.0.0-alpha17?classifier=sources
+- pkg:maven/com.river-kt/connector-rdbms@1.0.0-alpha18?classifier=sources
 - pkg:maven/com.river-kt/connector-rdbms@1.0.0-alpha1?classifier=sources
 - pkg:maven/com.river-kt/connector-rdbms@1.0.0-alpha2?classifier=sources
 - pkg:maven/com.river-kt/connector-rdbms@1.0.0-alpha3?classifier=sources

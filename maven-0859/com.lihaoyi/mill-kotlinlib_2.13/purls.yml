@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/mill-kotlinlib_2.13@0.12.0-RC2
+- pkg:maven/com.lihaoyi/mill-kotlinlib_2.13@0.12.0-RC2-17-07e173
+- pkg:maven/com.lihaoyi/mill-kotlinlib_2.13@0.12.0-RC2-17-07e173?classifier=sources
+- pkg:maven/com.lihaoyi/mill-kotlinlib_2.13@0.12.0-RC2?classifier=sources

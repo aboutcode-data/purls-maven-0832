@@ -194,3 +194,5 @@
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.3?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.4
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.4?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-api@6.6
+- pkg:maven/com.github.gekoh.yagen/yagen-api@6.6?classifier=sources

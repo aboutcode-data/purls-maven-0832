@@ -101,3 +101,7 @@
 - pkg:maven/io.trino/trino-docs@452?classifier=sources
 - pkg:maven/io.trino/trino-docs@453?classifier=sources
 - pkg:maven/io.trino/trino-docs@454?classifier=sources
+- pkg:maven/io.trino/trino-docs@455?classifier=sources
+- pkg:maven/io.trino/trino-docs@456?classifier=sources
+- pkg:maven/io.trino/trino-docs@457?classifier=sources
+- pkg:maven/io.trino/trino-docs@458?classifier=sources
