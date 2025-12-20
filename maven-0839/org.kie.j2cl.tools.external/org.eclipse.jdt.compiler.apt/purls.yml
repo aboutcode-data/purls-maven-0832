@@ -1,1 +1,2 @@
 - pkg:maven/org.kie.j2cl.tools.external/org.eclipse.jdt.compiler.apt@v20240622-2?classifier=sources
+- pkg:maven/org.kie.j2cl.tools.external/org.eclipse.jdt.compiler.apt@v20241110-1?classifier=sources

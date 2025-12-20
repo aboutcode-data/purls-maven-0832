@@ -62,3 +62,7 @@
 - pkg:maven/io.vertx/vertx-grpc-server@4.5.9?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-server@5.0.0.CR1
 - pkg:maven/io.vertx/vertx-grpc-server@5.0.0.CR1?classifier=sources
+- pkg:maven/io.vertx/vertx-grpc-server@5.0.0.CR2
+- pkg:maven/io.vertx/vertx-grpc-server@5.0.0.CR2?classifier=sources
+- pkg:maven/io.vertx/vertx-grpc-server@5.0.0.CR3
+- pkg:maven/io.vertx/vertx-grpc-server@5.0.0.CR3?classifier=sources

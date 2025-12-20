@@ -1,0 +1,1 @@
+- pkg:maven/org.hibernate.orm/hibernate-scan-jandex@7.0.0.Beta3?classifier=sources

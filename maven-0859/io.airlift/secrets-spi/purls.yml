@@ -29,3 +29,11 @@
 - pkg:maven/io.airlift/secrets-spi@282?classifier=sources
 - pkg:maven/io.airlift/secrets-spi@283?classifier=sources
 - pkg:maven/io.airlift/secrets-spi@284?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@285?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@286?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@287?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@288?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@289?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@290?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@291?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@292?classifier=sources

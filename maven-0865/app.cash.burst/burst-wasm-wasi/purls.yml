@@ -7,3 +7,4 @@
 - pkg:maven/app.cash.burst/burst-wasm-wasi@0.7.0?classifier=sources
 - pkg:maven/app.cash.burst/burst-wasm-wasi@2.0.0?classifier=sources
 - pkg:maven/app.cash.burst/burst-wasm-wasi@2.1.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-wasm-wasi@2.2.0?classifier=sources

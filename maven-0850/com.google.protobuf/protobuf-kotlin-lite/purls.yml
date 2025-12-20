@@ -184,7 +184,13 @@
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.28.2?classifier=sources
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.28.3
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.28.3?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.0
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.0-RC1
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.0-RC1?classifier=sources
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.0-RC2
 - pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.0-RC2?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.0-RC3
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.0-RC3?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.0?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.1
+- pkg:maven/com.google.protobuf/protobuf-kotlin-lite@4.29.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/no.entur.logging.cloud/micrometer-azure@3.0.0?classifier=sources
+- pkg:maven/no.entur.logging.cloud/micrometer-azure@3.0.1?classifier=sources

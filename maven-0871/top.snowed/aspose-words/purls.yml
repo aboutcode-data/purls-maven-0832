@@ -1,0 +1,2 @@
+- pkg:maven/top.snowed/aspose-words@1.0.0?classifier=sources
+- pkg:maven/top.snowed/aspose-words@2.0.0?classifier=sources

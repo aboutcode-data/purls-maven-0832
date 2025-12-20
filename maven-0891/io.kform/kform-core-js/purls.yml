@@ -78,6 +78,12 @@
 - pkg:maven/io.kform/kform-core-js@0.24.5?classifier=sources
 - pkg:maven/io.kform/kform-core-js@0.24.6?classifier=sources
 - pkg:maven/io.kform/kform-core-js@0.24.7?classifier=sources
+- pkg:maven/io.kform/kform-core-js@0.25.0?classifier=sources
+- pkg:maven/io.kform/kform-core-js@0.25.1-RC.1?classifier=sources
+- pkg:maven/io.kform/kform-core-js@0.25.1?classifier=sources
+- pkg:maven/io.kform/kform-core-js@0.25.2?classifier=sources
+- pkg:maven/io.kform/kform-core-js@0.25.3?classifier=sources
+- pkg:maven/io.kform/kform-core-js@0.25.4?classifier=sources
 - pkg:maven/io.kform/kform-core-js@0.3.0?classifier=sources
 - pkg:maven/io.kform/kform-core-js@0.4.0?classifier=sources
 - pkg:maven/io.kform/kform-core-js@0.4.1?classifier=sources

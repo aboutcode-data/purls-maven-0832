@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-webmvc@RELEASE240?classifier=sources

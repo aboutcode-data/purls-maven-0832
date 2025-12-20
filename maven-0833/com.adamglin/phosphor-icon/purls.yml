@@ -1,2 +1,3 @@
 - pkg:maven/com.adamglin/phosphor-icon@0.0.1?classifier=sources
 - pkg:maven/com.adamglin/phosphor-icon@0.0.3?classifier=sources
+- pkg:maven/com.adamglin/phosphor-icon@1.0.0?classifier=sources

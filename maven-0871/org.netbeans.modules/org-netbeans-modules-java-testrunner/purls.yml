@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-testrunner@RELEASE90?classifier=sources

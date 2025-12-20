@@ -32,3 +32,7 @@
 - pkg:maven/dev.schlaubi.lavakord/jda-java@7.0.3?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/jda-java@7.1.0?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/jda-java@8.0.1?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/jda-java@8.1.0?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/jda-java@9.0.0?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/jda-java@9.0.1?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/jda-java@9.1.0?classifier=sources

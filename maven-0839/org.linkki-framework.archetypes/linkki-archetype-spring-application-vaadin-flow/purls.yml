@@ -16,3 +16,4 @@
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.5.5?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.6.0?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.6.1?classifier=sources
+- pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.6.2?classifier=sources

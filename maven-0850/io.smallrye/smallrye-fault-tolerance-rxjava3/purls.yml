@@ -52,3 +52,6 @@
 - pkg:maven/io.smallrye/smallrye-fault-tolerance-rxjava3@6.6.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-fault-tolerance-rxjava3@6.6.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-fault-tolerance-rxjava3@6.6.2?classifier=sources
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-rxjava3@6.6.3?classifier=sources
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-rxjava3@6.7.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-rxjava3@6.7.1?classifier=sources

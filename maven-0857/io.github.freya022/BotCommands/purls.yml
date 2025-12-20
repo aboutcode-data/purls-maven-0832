@@ -69,6 +69,8 @@
 - pkg:maven/io.github.freya022/BotCommands@3.0.0-alpha.2
 - pkg:maven/io.github.freya022/BotCommands@3.0.0-alpha.20
 - pkg:maven/io.github.freya022/BotCommands@3.0.0-alpha.20?classifier=sources
+- pkg:maven/io.github.freya022/BotCommands@3.0.0-alpha.21
+- pkg:maven/io.github.freya022/BotCommands@3.0.0-alpha.21?classifier=sources
 - pkg:maven/io.github.freya022/BotCommands@3.0.0-alpha.2?classifier=sources
 - pkg:maven/io.github.freya022/BotCommands@3.0.0-alpha.3
 - pkg:maven/io.github.freya022/BotCommands@3.0.0-alpha.3?classifier=sources

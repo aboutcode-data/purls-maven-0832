@@ -1,1 +1,2 @@
 - pkg:maven/de.governikus.panstar.sdk/panstar-soap-sdk@4.0.2?classifier=sources
+- pkg:maven/de.governikus.panstar.sdk/panstar-soap-sdk@4.0.3?classifier=sources

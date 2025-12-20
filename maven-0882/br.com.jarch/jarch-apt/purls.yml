@@ -144,3 +144,5 @@
 - pkg:maven/br.com.jarch/jarch-apt@24.7.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-apt@24.8.0
 - pkg:maven/br.com.jarch/jarch-apt@24.8.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-apt@24.9.0
+- pkg:maven/br.com.jarch/jarch-apt@24.9.0?classifier=sources

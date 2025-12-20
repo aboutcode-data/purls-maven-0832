@@ -95,6 +95,8 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@12.2.0
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@12.2.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@12.20.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@12.21.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@12.22.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@12.3.0
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@12.3.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@12.4.0
@@ -121,6 +123,8 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@13.14.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@13.15.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@13.16.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@13.17.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@13.18.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@13.2.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@13.3.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@13.4.0?classifier=sources
@@ -136,6 +140,8 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@14.11.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@14.12.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@14.13.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@14.14.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@14.15.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@14.2.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@14.3.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@14.4.0?classifier=sources
@@ -146,6 +152,7 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@14.9.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.0.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.1.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.10.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.2.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.3.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.4.0?classifier=sources
@@ -154,3 +161,4 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.6.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.7.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.8.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386-alpine-lite@15.9.0?classifier=sources

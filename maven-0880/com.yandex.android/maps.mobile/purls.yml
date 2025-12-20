@@ -75,3 +75,12 @@
 - pkg:maven/com.yandex.android/maps.mobile@4.8.3-beta-full-flutter?type=aar
 - pkg:maven/com.yandex.android/maps.mobile@4.8.3-beta-lite-flutter?type=aar
 - pkg:maven/com.yandex.android/maps.mobile@4.8.3-beta-navikit-flutter?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.9.0-beta-full-flutter?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.9.0-beta-lite-flutter?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.9.0-beta-navikit-flutter?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.9.0-full-flutter?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.9.0-full?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.9.0-lite-flutter?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.9.0-lite?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.9.0-navikit-flutter?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.9.0-navikit?type=aar

@@ -1,2 +1,3 @@
 - pkg:maven/io.yumemi.tart/tart-message-iosx64@1.0.0-alpha01?classifier=sources
 - pkg:maven/io.yumemi.tart/tart-message-iosx64@1.0.0-beta02?classifier=sources
+- pkg:maven/io.yumemi.tart/tart-message-iosx64@1.0.0-rc01?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/pl.smsapi/smsapi-lib@3.0.0-RC16?classifier=sources
 - pkg:maven/pl.smsapi/smsapi-lib@3.0.0-RC17?classifier=sources
 - pkg:maven/pl.smsapi/smsapi-lib@3.0.0?classifier=sources
+- pkg:maven/pl.smsapi/smsapi-lib@3.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/software.visionary/sized-lispy@2024.11.17?classifier=sources
+- pkg:maven/software.visionary/sized-lispy@2024.11.30?classifier=sources

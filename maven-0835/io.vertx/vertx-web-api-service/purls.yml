@@ -198,3 +198,7 @@
 - pkg:maven/io.vertx/vertx-web-api-service@4.5.9?classifier=sources
 - pkg:maven/io.vertx/vertx-web-api-service@5.0.0.CR1
 - pkg:maven/io.vertx/vertx-web-api-service@5.0.0.CR1?classifier=sources
+- pkg:maven/io.vertx/vertx-web-api-service@5.0.0.CR2
+- pkg:maven/io.vertx/vertx-web-api-service@5.0.0.CR2?classifier=sources
+- pkg:maven/io.vertx/vertx-web-api-service@5.0.0.CR3
+- pkg:maven/io.vertx/vertx-web-api-service@5.0.0.CR3?classifier=sources

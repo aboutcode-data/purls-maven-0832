@@ -67,4 +67,6 @@
 - pkg:maven/org.komapper/komapper-template@2.2.2?classifier=sources
 - pkg:maven/org.komapper/komapper-template@3.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-template@3.1.0?classifier=sources
+- pkg:maven/org.komapper/komapper-template@4.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-template@5.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-template@v0.4.0?classifier=sources

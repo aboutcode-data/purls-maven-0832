@@ -10,3 +10,5 @@
 - pkg:maven/ru.cwcode.tkach.refreshmenu/RefreshMenu@1.4.1?classifier=sources
 - pkg:maven/ru.cwcode.tkach.refreshmenu/RefreshMenu@1.5.0
 - pkg:maven/ru.cwcode.tkach.refreshmenu/RefreshMenu@1.5.0?classifier=sources
+- pkg:maven/ru.cwcode.tkach.refreshmenu/RefreshMenu@1.5.1
+- pkg:maven/ru.cwcode.tkach.refreshmenu/RefreshMenu@1.5.1?classifier=sources

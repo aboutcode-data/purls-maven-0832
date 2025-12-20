@@ -14,3 +14,5 @@
 - pkg:maven/io.toolisticon.kotlin.avro.lib/avro-compiler@1.12.2.0?classifier=sources
 - pkg:maven/io.toolisticon.kotlin.avro.lib/avro-compiler@1.12.3.0
 - pkg:maven/io.toolisticon.kotlin.avro.lib/avro-compiler@1.12.3.0?classifier=sources
+- pkg:maven/io.toolisticon.kotlin.avro.lib/avro-compiler@1.12.4.0
+- pkg:maven/io.toolisticon.kotlin.avro.lib/avro-compiler@1.12.4.0?classifier=sources

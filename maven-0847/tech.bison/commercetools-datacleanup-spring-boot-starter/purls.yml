@@ -1,1 +1,2 @@
 - pkg:maven/tech.bison/commercetools-datacleanup-spring-boot-starter@0.6.0?classifier=sources
+- pkg:maven/tech.bison/commercetools-datacleanup-spring-boot-starter@0.7.0?classifier=sources

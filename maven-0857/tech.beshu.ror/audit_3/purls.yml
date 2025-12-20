@@ -2,3 +2,4 @@
 - pkg:maven/tech.beshu.ror/audit_3@1.59.0?classifier=sources
 - pkg:maven/tech.beshu.ror/audit_3@1.60.0?classifier=sources
 - pkg:maven/tech.beshu.ror/audit_3@1.61.0?classifier=sources
+- pkg:maven/tech.beshu.ror/audit_3@1.61.1?classifier=sources

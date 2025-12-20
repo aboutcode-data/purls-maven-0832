@@ -16,3 +16,5 @@
 - pkg:maven/com.isoops/SLib@1.2.1-RELEASE?classifier=sources
 - pkg:maven/com.isoops/SLib@1.2.2-RELEASE
 - pkg:maven/com.isoops/SLib@1.2.2-RELEASE?classifier=sources
+- pkg:maven/com.isoops/SLib@1.2.4?classifier=sources
+- pkg:maven/com.isoops/SLib@1.2.5?classifier=sources

@@ -41,3 +41,5 @@
 - pkg:maven/org.komapper/komapper-quarkus-jdbc@2.2.2?classifier=sources
 - pkg:maven/org.komapper/komapper-quarkus-jdbc@3.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-quarkus-jdbc@3.1.0?classifier=sources
+- pkg:maven/org.komapper/komapper-quarkus-jdbc@4.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-quarkus-jdbc@5.0.0?classifier=sources

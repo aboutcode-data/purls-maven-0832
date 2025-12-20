@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-indent-support@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-indent-support@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-indent-support@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-indent-support@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-indent-support@RELEASE90?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/io.github.shuigedeng/taotao-cloud-demo@2024.09?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-demo@2024.10?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-demo@2024.11?classifier=sources
+- pkg:maven/io.github.shuigedeng/taotao-cloud-demo@2024.12?classifier=sources

@@ -92,6 +92,8 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@2.19.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@2.2.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@2.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@2.20.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@2.20.1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@2.3.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@2.3.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@2.3.1
@@ -140,3 +142,6 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@3.0.0.alpha1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@3.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@3.0.1?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@3.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@3.1.1?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-integration-tests@3.2.0?classifier=sources

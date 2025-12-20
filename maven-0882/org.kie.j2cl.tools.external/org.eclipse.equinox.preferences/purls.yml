@@ -1,1 +1,2 @@
 - pkg:maven/org.kie.j2cl.tools.external/org.eclipse.equinox.preferences@v20240622-2?classifier=sources
+- pkg:maven/org.kie.j2cl.tools.external/org.eclipse.equinox.preferences@v20241110-1?classifier=sources

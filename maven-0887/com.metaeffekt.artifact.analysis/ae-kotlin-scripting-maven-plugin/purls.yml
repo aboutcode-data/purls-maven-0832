@@ -1,0 +1,6 @@
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.127.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.127.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.128.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.128.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.129.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.129.0?classifier=sources

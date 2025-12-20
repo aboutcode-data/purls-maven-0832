@@ -1,0 +1,2 @@
+- pkg:maven/com.apialerts/idevice-jvm@0.0.1?classifier=sources
+- pkg:maven/com.apialerts/idevice-jvm@1.0.0?classifier=sources

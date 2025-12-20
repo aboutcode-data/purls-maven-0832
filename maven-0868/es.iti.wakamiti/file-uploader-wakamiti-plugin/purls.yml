@@ -22,3 +22,5 @@
 - pkg:maven/es.iti.wakamiti/file-uploader-wakamiti-plugin@2.7.1?classifier=sources
 - pkg:maven/es.iti.wakamiti/file-uploader-wakamiti-plugin@2.8.0
 - pkg:maven/es.iti.wakamiti/file-uploader-wakamiti-plugin@2.8.0?classifier=sources
+- pkg:maven/es.iti.wakamiti/file-uploader-wakamiti-plugin@2.9.0
+- pkg:maven/es.iti.wakamiti/file-uploader-wakamiti-plugin@2.9.0?classifier=sources

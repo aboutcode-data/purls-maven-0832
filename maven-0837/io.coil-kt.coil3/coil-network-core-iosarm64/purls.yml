@@ -12,3 +12,4 @@
 - pkg:maven/io.coil-kt.coil3/coil-network-core-iosarm64@3.0.1?classifier=sources
 - pkg:maven/io.coil-kt.coil3/coil-network-core-iosarm64@3.0.2?classifier=sources
 - pkg:maven/io.coil-kt.coil3/coil-network-core-iosarm64@3.0.3?classifier=sources
+- pkg:maven/io.coil-kt.coil3/coil-network-core-iosarm64@3.0.4?classifier=sources

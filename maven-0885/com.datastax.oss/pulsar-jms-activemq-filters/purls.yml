@@ -54,3 +54,9 @@
 - pkg:maven/com.datastax.oss/pulsar-jms-activemq-filters@5.0.4?classifier=sources
 - pkg:maven/com.datastax.oss/pulsar-jms-activemq-filters@5.0.5
 - pkg:maven/com.datastax.oss/pulsar-jms-activemq-filters@5.0.5?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-activemq-filters@6.0.1
+- pkg:maven/com.datastax.oss/pulsar-jms-activemq-filters@6.0.1?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-activemq-filters@7.0.0
+- pkg:maven/com.datastax.oss/pulsar-jms-activemq-filters@7.0.0?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-activemq-filters@7.0.1
+- pkg:maven/com.datastax.oss/pulsar-jms-activemq-filters@7.0.1?classifier=sources

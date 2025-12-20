@@ -34,3 +34,5 @@
 - pkg:maven/org.virtuslab.ash/codec-registration-checker-compiler-plugin_2.13@0.7.3?classifier=sources
 - pkg:maven/org.virtuslab.ash/codec-registration-checker-compiler-plugin_2.13@0.8.0
 - pkg:maven/org.virtuslab.ash/codec-registration-checker-compiler-plugin_2.13@0.8.0?classifier=sources
+- pkg:maven/org.virtuslab.ash/codec-registration-checker-compiler-plugin_2.13@0.9.0
+- pkg:maven/org.virtuslab.ash/codec-registration-checker-compiler-plugin_2.13@0.9.0?classifier=sources

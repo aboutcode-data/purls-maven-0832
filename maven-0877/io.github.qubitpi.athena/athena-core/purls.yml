@@ -13,6 +13,8 @@
 - pkg:maven/io.github.qubitpi.athena/athena-core@1.0.55?classifier=sources
 - pkg:maven/io.github.qubitpi.athena/athena-core@1.0.56?classifier=sources
 - pkg:maven/io.github.qubitpi.athena/athena-core@1.0.57?classifier=sources
+- pkg:maven/io.github.qubitpi.athena/athena-core@1.0.58?classifier=sources
+- pkg:maven/io.github.qubitpi.athena/athena-core@1.0.59?classifier=sources
 - pkg:maven/io.github.qubitpi.athena/athena-core@1.0.5?classifier=sources
 - pkg:maven/io.github.qubitpi.athena/athena-core@1.0.6?classifier=sources
 - pkg:maven/io.github.qubitpi.athena/athena-core@1.0.7?classifier=sources

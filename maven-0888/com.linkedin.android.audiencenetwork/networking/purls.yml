@@ -1,3 +1,5 @@
 - pkg:maven/com.linkedin.android.audiencenetwork/networking@0.0.1?classifier=sources
 - pkg:maven/com.linkedin.android.audiencenetwork/networking@0.0.2?classifier=sources
 - pkg:maven/com.linkedin.android.audiencenetwork/networking@0.0.4?classifier=sources
+- pkg:maven/com.linkedin.android.audiencenetwork/networking@0.0.5?classifier=sources
+- pkg:maven/com.linkedin.android.audiencenetwork/networking@0.0.6?classifier=sources

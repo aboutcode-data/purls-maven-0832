@@ -684,6 +684,12 @@
 - pkg:maven/it.cnr.si.sigla/sigla-web@6.6.10?type=war
 - pkg:maven/it.cnr.si.sigla/sigla-web@6.6.11?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-web@6.6.11?type=war
+- pkg:maven/it.cnr.si.sigla/sigla-web@6.6.17?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-web@6.6.17?type=war
+- pkg:maven/it.cnr.si.sigla/sigla-web@6.6.18?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-web@6.6.18?type=war
+- pkg:maven/it.cnr.si.sigla/sigla-web@6.6.19?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-web@6.6.19?type=war
 - pkg:maven/it.cnr.si.sigla/sigla-web@6.6.1?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-web@6.6.1?type=war
 - pkg:maven/it.cnr.si.sigla/sigla-web@6.6.2?classifier=sources

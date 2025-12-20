@@ -10,3 +10,11 @@
 - pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.4?classifier=sources
 - pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.5
 - pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.5?classifier=sources
+- pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.7.0
+- pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.7.0?classifier=sources
+- pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.8.0
+- pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.8.0?classifier=sources
+- pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.9.0
+- pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.9.0?classifier=sources
+- pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.9.1
+- pkg:maven/io.github.wf4java/WF-TelegramClientApi@1.9.1?classifier=sources

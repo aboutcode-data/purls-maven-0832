@@ -16,3 +16,4 @@
 - pkg:maven/no.entur.logging.cloud/request-response-spring-boot-starter-gcp-grpc-test@2.0.8?classifier=sources
 - pkg:maven/no.entur.logging.cloud/request-response-spring-boot-starter-gcp-grpc-test@2.0.9?classifier=sources
 - pkg:maven/no.entur.logging.cloud/request-response-spring-boot-starter-gcp-grpc-test@3.0.0?classifier=sources
+- pkg:maven/no.entur.logging.cloud/request-response-spring-boot-starter-gcp-grpc-test@3.0.1?classifier=sources

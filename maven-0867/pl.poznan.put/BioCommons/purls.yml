@@ -21,6 +21,7 @@
 - pkg:maven/pl.poznan.put/BioCommons@3.1.1
 - pkg:maven/pl.poznan.put/BioCommons@3.1.10
 - pkg:maven/pl.poznan.put/BioCommons@3.1.10?classifier=sources
+- pkg:maven/pl.poznan.put/BioCommons@3.1.11?classifier=sources
 - pkg:maven/pl.poznan.put/BioCommons@3.1.1?classifier=sources
 - pkg:maven/pl.poznan.put/BioCommons@3.1.2
 - pkg:maven/pl.poznan.put/BioCommons@3.1.2?classifier=sources
@@ -38,3 +39,4 @@
 - pkg:maven/pl.poznan.put/BioCommons@3.1.8?classifier=sources
 - pkg:maven/pl.poznan.put/BioCommons@3.1.9
 - pkg:maven/pl.poznan.put/BioCommons@3.1.9?classifier=sources
+- pkg:maven/pl.poznan.put/BioCommons@3.2.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.jetbrains.lets-plot/platf-skia-jvm@1.0.4?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/platf-skia-jvm@2.0.0-alpha1?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/platf-skia-jvm@2.0.0?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/platf-skia-jvm@2.1.0-alpha1?classifier=sources

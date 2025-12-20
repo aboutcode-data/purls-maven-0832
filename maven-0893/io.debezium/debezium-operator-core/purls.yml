@@ -42,6 +42,8 @@
 - pkg:maven/io.debezium/debezium-operator-core@2.7.2.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-operator-core@2.7.3.Final
 - pkg:maven/io.debezium/debezium-operator-core@2.7.3.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-operator-core@2.7.4.Final
+- pkg:maven/io.debezium/debezium-operator-core@2.7.4.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-operator-core@3.0.0.Alpha1
 - pkg:maven/io.debezium/debezium-operator-core@3.0.0.Alpha1?classifier=sources
 - pkg:maven/io.debezium/debezium-operator-core@3.0.0.Alpha2
@@ -58,3 +60,7 @@
 - pkg:maven/io.debezium/debezium-operator-core@3.0.1.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-operator-core@3.0.2.Final
 - pkg:maven/io.debezium/debezium-operator-core@3.0.2.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-operator-core@3.0.3.Final
+- pkg:maven/io.debezium/debezium-operator-core@3.0.3.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-operator-core@3.0.4.Final
+- pkg:maven/io.debezium/debezium-operator-core@3.0.4.Final?classifier=sources

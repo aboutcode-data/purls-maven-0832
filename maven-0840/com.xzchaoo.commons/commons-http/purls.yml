@@ -4,6 +4,12 @@
 - pkg:maven/com.xzchaoo.commons/commons-http@1.10.1?classifier=sources
 - pkg:maven/com.xzchaoo.commons/commons-http@1.11.0
 - pkg:maven/com.xzchaoo.commons/commons-http@1.11.0?classifier=sources
+- pkg:maven/com.xzchaoo.commons/commons-http@1.11.1
+- pkg:maven/com.xzchaoo.commons/commons-http@1.11.1?classifier=sources
+- pkg:maven/com.xzchaoo.commons/commons-http@1.12.0
+- pkg:maven/com.xzchaoo.commons/commons-http@1.12.0?classifier=sources
+- pkg:maven/com.xzchaoo.commons/commons-http@1.12.1
+- pkg:maven/com.xzchaoo.commons/commons-http@1.12.1?classifier=sources
 - pkg:maven/com.xzchaoo.commons/commons-http@1.6.0
 - pkg:maven/com.xzchaoo.commons/commons-http@1.6.0?classifier=sources
 - pkg:maven/com.xzchaoo.commons/commons-http@1.7.0

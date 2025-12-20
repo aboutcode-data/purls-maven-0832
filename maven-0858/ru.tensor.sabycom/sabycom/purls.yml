@@ -8,3 +8,4 @@
 - pkg:maven/ru.tensor.sabycom/sabycom@24.4111.31?classifier=sources
 - pkg:maven/ru.tensor.sabycom/sabycom@24.4141.60?classifier=sources
 - pkg:maven/ru.tensor.sabycom/sabycom@24.5218.46?classifier=sources
+- pkg:maven/ru.tensor.sabycom/sabycom@24.6204.41?classifier=sources

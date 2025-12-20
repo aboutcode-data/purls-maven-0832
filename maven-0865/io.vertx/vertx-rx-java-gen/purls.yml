@@ -196,3 +196,5 @@
 - pkg:maven/io.vertx/vertx-rx-java-gen@4.5.9?classifier=sources
 - pkg:maven/io.vertx/vertx-rx-java-gen@5.0.0.CR1
 - pkg:maven/io.vertx/vertx-rx-java-gen@5.0.0.CR1?classifier=sources
+- pkg:maven/io.vertx/vertx-rx-java-gen@5.0.0.CR2
+- pkg:maven/io.vertx/vertx-rx-java-gen@5.0.0.CR2?classifier=sources

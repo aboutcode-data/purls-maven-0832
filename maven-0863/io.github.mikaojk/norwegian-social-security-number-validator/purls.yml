@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mikaojk/norwegian-social-security-number-validator@2.0.12?classifier=sources
+- pkg:maven/io.github.mikaojk/norwegian-social-security-number-validator@2.0.26?classifier=sources

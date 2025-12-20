@@ -11,4 +11,6 @@
 - pkg:maven/io.github.astrapi69/silly-io@3.2?classifier=sources
 - pkg:maven/io.github.astrapi69/silly-io@3.3?classifier=sources
 - pkg:maven/io.github.astrapi69/silly-io@3.4?classifier=sources
+- pkg:maven/io.github.astrapi69/silly-io@3.5?classifier=sources
+- pkg:maven/io.github.astrapi69/silly-io@3.6?classifier=sources
 - pkg:maven/io.github.astrapi69/silly-io@3?classifier=sources

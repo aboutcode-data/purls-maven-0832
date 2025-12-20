@@ -6,3 +6,5 @@
 - pkg:maven/com.github.cafapi.logging/caf-logging-logback-access-converters@2.0.0-238?classifier=sources
 - pkg:maven/com.github.cafapi.logging/caf-logging-logback-access-converters@2.1.0-374
 - pkg:maven/com.github.cafapi.logging/caf-logging-logback-access-converters@2.1.0-374?classifier=sources
+- pkg:maven/com.github.cafapi.logging/caf-logging-logback-access-converters@3.0.0-407
+- pkg:maven/com.github.cafapi.logging/caf-logging-logback-access-converters@3.0.0-407?classifier=sources

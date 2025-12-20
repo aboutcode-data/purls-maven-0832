@@ -1,2 +1,4 @@
+- pkg:maven/com.github.sbt/flyway-sbt_sbt2.0.0-M2_3@10.21.0
+- pkg:maven/com.github.sbt/flyway-sbt_sbt2.0.0-M2_3@10.21.0?classifier=sources
 - pkg:maven/com.github.sbt/flyway-sbt_sbt2.0.0-M2_3@9.22.0
 - pkg:maven/com.github.sbt/flyway-sbt_sbt2.0.0-M2_3@9.22.0?classifier=sources

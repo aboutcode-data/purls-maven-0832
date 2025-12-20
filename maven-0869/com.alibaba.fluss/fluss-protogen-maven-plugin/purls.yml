@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.fluss/fluss-protogen-maven-plugin@0.5.0
+- pkg:maven/com.alibaba.fluss/fluss-protogen-maven-plugin@0.5.0?classifier=sources

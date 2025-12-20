@@ -8,6 +8,7 @@
 - pkg:maven/org.onebusaway/onebusaway-sdk-java-client-okhttp@0.1.0-alpha.20?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-sdk-java-client-okhttp@0.1.0-alpha.21?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-sdk-java-client-okhttp@0.1.0-alpha.22?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-sdk-java-client-okhttp@0.1.0-alpha.23?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-sdk-java-client-okhttp@0.1.0-alpha.2?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-sdk-java-client-okhttp@0.1.0-alpha.4?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-sdk-java-client-okhttp@0.1.0-alpha.5?classifier=sources

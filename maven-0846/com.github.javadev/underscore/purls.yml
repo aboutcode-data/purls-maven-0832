@@ -10,6 +10,7 @@
 - pkg:maven/com.github.javadev/underscore@1.105?classifier=sources
 - pkg:maven/com.github.javadev/underscore@1.106?classifier=sources
 - pkg:maven/com.github.javadev/underscore@1.107?classifier=sources
+- pkg:maven/com.github.javadev/underscore@1.108?classifier=sources
 - pkg:maven/com.github.javadev/underscore@1.10?classifier=sources
 - pkg:maven/com.github.javadev/underscore@1.11
 - pkg:maven/com.github.javadev/underscore@1.11?classifier=sources

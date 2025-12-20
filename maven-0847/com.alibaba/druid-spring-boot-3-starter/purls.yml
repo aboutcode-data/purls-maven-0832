@@ -10,3 +10,5 @@
 - pkg:maven/com.alibaba/druid-spring-boot-3-starter@1.2.22?classifier=sources
 - pkg:maven/com.alibaba/druid-spring-boot-3-starter@1.2.23
 - pkg:maven/com.alibaba/druid-spring-boot-3-starter@1.2.23?classifier=sources
+- pkg:maven/com.alibaba/druid-spring-boot-3-starter@1.2.24
+- pkg:maven/com.alibaba/druid-spring-boot-3-starter@1.2.24?classifier=sources

@@ -1,1 +1,5 @@
 - pkg:maven/io.gitee.h8778/accurate-bridge-weixin@1.5.7?classifier=sources
+- pkg:maven/io.gitee.h8778/accurate-bridge-weixin@1.6.3?classifier=sources
+- pkg:maven/io.gitee.h8778/accurate-bridge-weixin@1.6.4?classifier=sources
+- pkg:maven/io.gitee.h8778/accurate-bridge-weixin@1.6.5.1?classifier=sources
+- pkg:maven/io.gitee.h8778/accurate-bridge-weixin@1.6.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.herrrta.ktorceful/ktorceful-auth@0.2?classifier=sources
+- pkg:maven/dev.herrrta.ktorceful/ktorceful-auth@0.3?classifier=sources

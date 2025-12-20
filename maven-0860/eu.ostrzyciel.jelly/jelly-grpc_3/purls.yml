@@ -88,3 +88,5 @@
 - pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@2.2.2?classifier=sources
 - pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@2.3.0
 - pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@2.3.0?classifier=sources
+- pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@2.3.1
+- pkg:maven/eu.ostrzyciel.jelly/jelly-grpc_3@2.3.1?classifier=sources

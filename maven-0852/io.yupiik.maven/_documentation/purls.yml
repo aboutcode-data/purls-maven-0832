@@ -25,3 +25,4 @@
 - pkg:maven/io.yupiik.maven/_documentation@1.2.3
 - pkg:maven/io.yupiik.maven/_documentation@1.2.3?classifier=sources
 - pkg:maven/io.yupiik.maven/_documentation@1.2.4?classifier=sources
+- pkg:maven/io.yupiik.maven/_documentation@1.2.5?classifier=sources

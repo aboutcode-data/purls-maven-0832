@@ -8,6 +8,8 @@
 - pkg:maven/com.careem.mockingbird/mockingbird-processor@2.16.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-processor@2.17.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-processor@2.18.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-processor@2.19.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-processor@2.20.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-processor@2.7.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-processor@2.8.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-processor@2.8.1?classifier=sources

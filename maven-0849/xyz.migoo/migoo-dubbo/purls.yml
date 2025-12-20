@@ -2,3 +2,5 @@
 - pkg:maven/xyz.migoo/migoo-dubbo@1.0.0?classifier=sources
 - pkg:maven/xyz.migoo/migoo-dubbo@5.0.0
 - pkg:maven/xyz.migoo/migoo-dubbo@5.0.0?classifier=sources
+- pkg:maven/xyz.migoo/migoo-dubbo@5.0.1
+- pkg:maven/xyz.migoo/migoo-dubbo@5.0.1?classifier=sources

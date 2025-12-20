@@ -39,3 +39,9 @@
 - pkg:maven/world.mappable.android/maps.mobile@4.8.1-full?type=aar
 - pkg:maven/world.mappable.android/maps.mobile@4.8.1-lite?type=aar
 - pkg:maven/world.mappable.android/maps.mobile@4.8.1-navikit?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@4.9.0-beta-full-flutter?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@4.9.0-beta-lite-flutter?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@4.9.0-beta-navikit-flutter?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@4.9.0-full?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@4.9.0-lite?type=aar
+- pkg:maven/world.mappable.android/maps.mobile@4.9.0-navikit?type=aar

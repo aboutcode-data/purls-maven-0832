@@ -1,0 +1,2 @@
+- pkg:maven/com.nutanix.api/opsmgmt-java-client@4.0.1
+- pkg:maven/com.nutanix.api/opsmgmt-java-client@4.0.1?classifier=sources

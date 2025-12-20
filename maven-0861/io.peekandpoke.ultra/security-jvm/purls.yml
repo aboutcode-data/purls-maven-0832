@@ -140,3 +140,4 @@
 - pkg:maven/io.peekandpoke.ultra/security-jvm@0.76.7?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/security-jvm@0.76.8?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/security-jvm@0.76.9?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/security-jvm@0.77.0?classifier=sources

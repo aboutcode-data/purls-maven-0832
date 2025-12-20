@@ -1,0 +1,8 @@
+- pkg:maven/com.darkrockstudios/SymSpellKt-android@2.1.0?classifier=sources
+- pkg:maven/com.darkrockstudios/SymSpellKt-android@2.1.1?classifier=sources
+- pkg:maven/com.darkrockstudios/SymSpellKt-android@3.0.0?classifier=sources
+- pkg:maven/com.darkrockstudios/SymSpellKt-android@3.0.4?classifier=sources
+- pkg:maven/com.darkrockstudios/SymSpellKt-android@3.0.7?classifier=sources
+- pkg:maven/com.darkrockstudios/SymSpellKt-android@3.0.8?classifier=sources
+- pkg:maven/com.darkrockstudios/SymSpellKt-android@3.0.9?classifier=sources
+- pkg:maven/com.darkrockstudios/SymSpellKt-android@3.1.0?classifier=sources

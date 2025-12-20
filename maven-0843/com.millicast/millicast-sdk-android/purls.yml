@@ -36,3 +36,4 @@
 - pkg:maven/com.millicast/millicast-sdk-android@2.0.0-beta.6?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android@2.0.0-beta.7?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android@2.0.0?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android@2.1.0-beta.1?classifier=sources

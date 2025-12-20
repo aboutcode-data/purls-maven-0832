@@ -2,4 +2,5 @@
 - pkg:maven/name.dmaus.schxslt/schxslt2@1.1.1?classifier=sources
 - pkg:maven/name.dmaus.schxslt/schxslt2@1.1?classifier=sources
 - pkg:maven/name.dmaus.schxslt/schxslt2@1.2.1?classifier=sources
+- pkg:maven/name.dmaus.schxslt/schxslt2@1.2.2?classifier=sources
 - pkg:maven/name.dmaus.schxslt/schxslt2@1.2?classifier=sources

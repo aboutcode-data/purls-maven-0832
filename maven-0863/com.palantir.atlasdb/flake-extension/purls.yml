@@ -238,6 +238,9 @@
 - pkg:maven/com.palantir.atlasdb/flake-extension@0.1188.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/flake-extension@0.1189.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/flake-extension@0.1190.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/flake-extension@0.1191.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/flake-extension@0.1192.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/flake-extension@0.1193.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/flake-extension@0.973.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/flake-extension@0.974.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/flake-extension@0.975.0?classifier=sources

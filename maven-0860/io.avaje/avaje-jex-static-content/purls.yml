@@ -1,0 +1,4 @@
+- pkg:maven/io.avaje/avaje-jex-static-content@3.0-RC10
+- pkg:maven/io.avaje/avaje-jex-static-content@3.0-RC10?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-static-content@3.0-RC9
+- pkg:maven/io.avaje/avaje-jex-static-content@3.0-RC9?classifier=sources

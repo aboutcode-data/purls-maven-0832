@@ -1,2 +1,6 @@
 - pkg:maven/com.ruimo/scoins_2.11@1.29
 - pkg:maven/com.ruimo/scoins_2.11@1.29?classifier=sources
+- pkg:maven/com.ruimo/scoins_2.11@1.30
+- pkg:maven/com.ruimo/scoins_2.11@1.30?classifier=sources
+- pkg:maven/com.ruimo/scoins_2.11@1.31
+- pkg:maven/com.ruimo/scoins_2.11@1.31?classifier=sources

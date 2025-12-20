@@ -14,6 +14,7 @@
 - pkg:maven/org.webjars.npm/ant-design__icons@4.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/ant-design__icons@4.7.0
 - pkg:maven/org.webjars.npm/ant-design__icons@4.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/ant-design__icons@4.8.3
 - pkg:maven/org.webjars.npm/ant-design__icons@5.0.1
 - pkg:maven/org.webjars.npm/ant-design__icons@5.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/ant-design__icons@5.1.4

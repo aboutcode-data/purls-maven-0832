@@ -205,6 +205,7 @@
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@24.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@25.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@25.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.api@26.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.api@3.0.0?classifier=sources-commercial

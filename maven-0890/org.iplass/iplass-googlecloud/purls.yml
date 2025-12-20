@@ -1,4 +1,6 @@
 - pkg:maven/org.iplass/iplass-googlecloud@3.2.23?classifier=sources
 - pkg:maven/org.iplass/iplass-googlecloud@3.2.24?classifier=sources
+- pkg:maven/org.iplass/iplass-googlecloud@3.2.25?classifier=sources
 - pkg:maven/org.iplass/iplass-googlecloud@4.0.0?classifier=sources
 - pkg:maven/org.iplass/iplass-googlecloud@4.0.1?classifier=sources
+- pkg:maven/org.iplass/iplass-googlecloud@4.0.2?classifier=sources

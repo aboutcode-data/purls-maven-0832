@@ -1,0 +1,2 @@
+- pkg:maven/com.yhyzgn.http.jdk8/pigeon-spring@2.0.0?classifier=sources
+- pkg:maven/com.yhyzgn.http.jdk8/pigeon-spring@2.0.1?classifier=sources

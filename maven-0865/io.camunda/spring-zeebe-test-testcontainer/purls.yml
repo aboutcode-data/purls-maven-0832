@@ -101,6 +101,10 @@
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.1-rc1?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.10
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.10?classifier=sources
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.11
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.11-rc1
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.11-rc1?classifier=sources
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.11?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.1?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.2-rc1
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.3.2-rc1?classifier=sources
@@ -187,6 +191,10 @@
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.13?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.14
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.14?classifier=sources
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.15
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.15-rc1
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.15-rc1?classifier=sources
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.15?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.1?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.2
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.4.2-rc1
@@ -229,6 +237,12 @@
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.13?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.14
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.14?classifier=sources
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.15
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.15-rc1
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.15-rc1?classifier=sources
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.15-rc2
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.15-rc2?classifier=sources
+- pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.15?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.1?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.2
 - pkg:maven/io.camunda/spring-zeebe-test-testcontainer@8.5.2?classifier=sources

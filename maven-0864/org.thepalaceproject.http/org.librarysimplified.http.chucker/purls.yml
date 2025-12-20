@@ -5,3 +5,4 @@
 - pkg:maven/org.thepalaceproject.http/org.librarysimplified.http.chucker@1.4.0?classifier=sources
 - pkg:maven/org.thepalaceproject.http/org.librarysimplified.http.chucker@1.5.0?classifier=sources
 - pkg:maven/org.thepalaceproject.http/org.librarysimplified.http.chucker@1.6.0?classifier=sources
+- pkg:maven/org.thepalaceproject.http/org.librarysimplified.http.chucker@1.7.0?classifier=sources

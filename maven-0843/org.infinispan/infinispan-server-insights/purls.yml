@@ -16,6 +16,8 @@
 - pkg:maven/org.infinispan/infinispan-server-insights@14.0.31.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-insights@14.0.32.Final
 - pkg:maven/org.infinispan/infinispan-server-insights@14.0.32.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-insights@14.0.33.Final
+- pkg:maven/org.infinispan/infinispan-server-insights@14.0.33.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-insights@15.0.0.CR1
 - pkg:maven/org.infinispan/infinispan-server-insights@15.0.0.CR1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-insights@15.0.0.Dev08
@@ -56,3 +58,5 @@
 - pkg:maven/org.infinispan/infinispan-server-insights@15.1.0.Dev03?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-insights@15.1.0.Dev04
 - pkg:maven/org.infinispan/infinispan-server-insights@15.1.0.Dev04?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-insights@15.1.0.Dev05
+- pkg:maven/org.infinispan/infinispan-server-insights@15.1.0.Dev05?classifier=sources

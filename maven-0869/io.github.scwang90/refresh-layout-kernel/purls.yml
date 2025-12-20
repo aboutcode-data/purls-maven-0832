@@ -12,3 +12,5 @@
 - pkg:maven/io.github.scwang90/refresh-layout-kernel@2.0.9?type=aar
 - pkg:maven/io.github.scwang90/refresh-layout-kernel@2.1.0?classifier=sources
 - pkg:maven/io.github.scwang90/refresh-layout-kernel@2.1.0?type=aar
+- pkg:maven/io.github.scwang90/refresh-layout-kernel@2.1.1?classifier=sources
+- pkg:maven/io.github.scwang90/refresh-layout-kernel@3.0.0-alpha?classifier=sources

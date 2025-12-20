@@ -71,3 +71,5 @@
 - pkg:maven/com.buschmais.jqassistant.cli/test@2.5.0-RC1
 - pkg:maven/com.buschmais.jqassistant.cli/test@2.5.0-RC2
 - pkg:maven/com.buschmais.jqassistant.cli/test@2.5.0-RC3
+- pkg:maven/com.buschmais.jqassistant.cli/test@2.6.0-M1
+- pkg:maven/com.buschmais.jqassistant.cli/test@2.6.0-M2

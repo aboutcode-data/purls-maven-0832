@@ -244,6 +244,7 @@
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.30.Final
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.31.Final
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.32.Final
+- pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.33.Final
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.4.Final
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.5.Final
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@14.0.6.Final
@@ -277,3 +278,4 @@
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@15.1.0.Dev02
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@15.1.0.Dev03
 - pkg:maven/org.infinispan/infinispan-key-value-store-client@15.1.0.Dev04
+- pkg:maven/org.infinispan/infinispan-key-value-store-client@15.1.0.Dev05

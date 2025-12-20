@@ -188,6 +188,8 @@
 - pkg:maven/com.google.apis/google-api-services-texttospeech@v1-rev20241008-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-texttospeech@v1-rev20241026-2.0.0
 - pkg:maven/com.google.apis/google-api-services-texttospeech@v1-rev20241026-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-texttospeech@v1-rev20241116-2.0.0
+- pkg:maven/com.google.apis/google-api-services-texttospeech@v1-rev20241116-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-texttospeech@v1-rev27-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-texttospeech@v1-rev27-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-texttospeech@v1-rev27-1.22.0

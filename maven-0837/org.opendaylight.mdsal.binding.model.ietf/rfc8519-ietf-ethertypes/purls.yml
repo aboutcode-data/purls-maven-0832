@@ -85,6 +85,7 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519-ietf-ethertypes@14.0.3
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519-ietf-ethertypes@14.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519-ietf-ethertypes@14.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519-ietf-ethertypes@14.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519-ietf-ethertypes@2.0.0
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519-ietf-ethertypes@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519-ietf-ethertypes@2.0.1

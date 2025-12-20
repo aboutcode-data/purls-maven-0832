@@ -1,0 +1,2 @@
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-idp-apple@6.17
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-idp-apple@6.17?classifier=sources

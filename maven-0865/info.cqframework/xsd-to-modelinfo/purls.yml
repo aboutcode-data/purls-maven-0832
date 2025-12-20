@@ -11,6 +11,8 @@
 - pkg:maven/info.cqframework/xsd-to-modelinfo@3.16.0?classifier=sources
 - pkg:maven/info.cqframework/xsd-to-modelinfo@3.17.0?classifier=sources
 - pkg:maven/info.cqframework/xsd-to-modelinfo@3.18.0?classifier=sources
+- pkg:maven/info.cqframework/xsd-to-modelinfo@3.19.0?classifier=sources
+- pkg:maven/info.cqframework/xsd-to-modelinfo@3.19.1?classifier=sources
 - pkg:maven/info.cqframework/xsd-to-modelinfo@3.2.0?classifier=sources
 - pkg:maven/info.cqframework/xsd-to-modelinfo@3.3.0?classifier=sources
 - pkg:maven/info.cqframework/xsd-to-modelinfo@3.3.1?classifier=sources

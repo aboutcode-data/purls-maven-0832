@@ -1,1 +1,2 @@
 - pkg:maven/no.entur.logging.cloud/request-response-spring-boot-autoconfigure-grpc@3.0.0?classifier=sources
+- pkg:maven/no.entur.logging.cloud/request-response-spring-boot-autoconfigure-grpc@3.0.1?classifier=sources
