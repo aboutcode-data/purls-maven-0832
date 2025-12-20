@@ -6,3 +6,7 @@
 - pkg:maven/es.blackleg.java.testcontainers/embedded-asterisk@0.2.0?classifier=sources
 - pkg:maven/es.blackleg.java.testcontainers/embedded-asterisk@1.0.0
 - pkg:maven/es.blackleg.java.testcontainers/embedded-asterisk@1.0.0?classifier=sources
+- pkg:maven/es.blackleg.java.testcontainers/embedded-asterisk@1.0.1
+- pkg:maven/es.blackleg.java.testcontainers/embedded-asterisk@1.0.1?classifier=sources
+- pkg:maven/es.blackleg.java.testcontainers/embedded-asterisk@1.1.0
+- pkg:maven/es.blackleg.java.testcontainers/embedded-asterisk@1.1.0?classifier=sources

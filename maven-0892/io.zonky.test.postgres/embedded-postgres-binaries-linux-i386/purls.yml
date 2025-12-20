@@ -132,6 +132,7 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386@15.2.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386@15.3.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386@15.4.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386@16.0.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386@9.3.23
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386@9.3.23?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-i386@9.3.24

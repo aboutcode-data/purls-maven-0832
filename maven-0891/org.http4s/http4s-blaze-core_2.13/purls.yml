@@ -287,6 +287,8 @@
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M37?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M38
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M38?classifier=sources
+- pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M39
+- pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M39?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M3?classifier=sources
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M4
 - pkg:maven/org.http4s/http4s-blaze-core_2.13@1.0.0-M4?classifier=sources

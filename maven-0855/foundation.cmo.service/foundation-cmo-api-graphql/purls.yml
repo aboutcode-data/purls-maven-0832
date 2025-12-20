@@ -1,0 +1,2 @@
+- pkg:maven/foundation.cmo.service/foundation-cmo-api-graphql@1.0.3
+- pkg:maven/foundation.cmo.service/foundation-cmo-api-graphql@1.0.3?classifier=sources

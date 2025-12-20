@@ -178,6 +178,7 @@
 - pkg:maven/com.liferay/com.liferay.data.cleanup@2.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.cleanup@2.0.37
 - pkg:maven/com.liferay/com.liferay.data.cleanup@2.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.cleanup@2.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.cleanup@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.cleanup@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.cleanup@2.0.4

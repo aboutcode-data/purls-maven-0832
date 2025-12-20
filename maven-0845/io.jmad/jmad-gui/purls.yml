@@ -22,3 +22,5 @@
 - pkg:maven/io.jmad/jmad-gui@0.13.3?classifier=sources
 - pkg:maven/io.jmad/jmad-gui@0.13.4
 - pkg:maven/io.jmad/jmad-gui@0.13.4?classifier=sources
+- pkg:maven/io.jmad/jmad-gui@0.13.6
+- pkg:maven/io.jmad/jmad-gui@0.13.6?classifier=sources

@@ -34,3 +34,4 @@
 - pkg:maven/org.apache.camel.kafkaconnector/itests-azure-storage-blob@3.20.3?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/itests-azure-storage-blob@3.20.6?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/itests-azure-storage-blob@3.21.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/itests-azure-storage-blob@4.0.0?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/dev.aherscu.qa/qa-testrail-reporter@0.0.30?classifier=sources
 - pkg:maven/dev.aherscu.qa/qa-testrail-reporter@0.0.31
 - pkg:maven/dev.aherscu.qa/qa-testrail-reporter@0.0.31?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-testrail-reporter@0.0.32
+- pkg:maven/dev.aherscu.qa/qa-testrail-reporter@0.0.32?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-testrail-reporter@0.0.33
+- pkg:maven/dev.aherscu.qa/qa-testrail-reporter@0.0.33?classifier=sources

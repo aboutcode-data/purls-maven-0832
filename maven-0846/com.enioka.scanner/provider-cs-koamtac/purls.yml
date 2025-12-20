@@ -1,3 +1,12 @@
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.10?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.11?classifier=sources
 - pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.1?classifier=sources
 - pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.2?classifier=sources
 - pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.3?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.4?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.5?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.6?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.7?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.8?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.3.9?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.4.0?classifier=sources

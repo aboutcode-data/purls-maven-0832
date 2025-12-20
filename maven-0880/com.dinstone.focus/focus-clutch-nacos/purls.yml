@@ -4,3 +4,5 @@
 - pkg:maven/com.dinstone.focus/focus-clutch-nacos@0.9.8?classifier=sources
 - pkg:maven/com.dinstone.focus/focus-clutch-nacos@0.9.9
 - pkg:maven/com.dinstone.focus/focus-clutch-nacos@0.9.9?classifier=sources
+- pkg:maven/com.dinstone.focus/focus-clutch-nacos@1.0.0
+- pkg:maven/com.dinstone.focus/focus-clutch-nacos@1.0.0?classifier=sources

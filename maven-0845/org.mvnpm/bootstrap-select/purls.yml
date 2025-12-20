@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/bootstrap-select@1.12.2?classifier=sources
+- pkg:maven/org.mvnpm/bootstrap-select@1.13.18?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/br.usp.each.saeg/jaguar2-junit4@0.0.1
+- pkg:maven/br.usp.each.saeg/jaguar2-junit4@0.0.1?classifier=sources

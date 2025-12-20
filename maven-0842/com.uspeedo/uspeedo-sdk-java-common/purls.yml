@@ -1,0 +1,2 @@
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-common@1.0.1-release
+- pkg:maven/com.uspeedo/uspeedo-sdk-java-common@1.0.1-release?classifier=sources

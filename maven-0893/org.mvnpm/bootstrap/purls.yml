@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/bootstrap@3.4.1?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap@4.6.2?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap@5.2.3?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap@5.3.1?classifier=sources
+- pkg:maven/org.mvnpm/bootstrap@5.3.2?classifier=sources

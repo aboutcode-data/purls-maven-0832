@@ -12,6 +12,7 @@
 - pkg:maven/io.americanexpress.synapse/sample-client-weather@0.3.22
 - pkg:maven/io.americanexpress.synapse/sample-client-weather@0.3.23
 - pkg:maven/io.americanexpress.synapse/sample-client-weather@0.3.24
+- pkg:maven/io.americanexpress.synapse/sample-client-weather@0.3.26
 - pkg:maven/io.americanexpress.synapse/sample-client-weather@0.3.6
 - pkg:maven/io.americanexpress.synapse/sample-client-weather@0.3.7
 - pkg:maven/io.americanexpress.synapse/sample-client-weather@0.3.8

@@ -37,3 +37,5 @@
 - pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.8.3?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.9.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.9.0-b02?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.9.0?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-tvosx64@10.9.1?classifier=sources

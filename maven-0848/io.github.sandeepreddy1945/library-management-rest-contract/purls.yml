@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sandeepreddy1945/library-management-rest-contract@1.0
+- pkg:maven/io.github.sandeepreddy1945/library-management-rest-contract@1.0?classifier=sources

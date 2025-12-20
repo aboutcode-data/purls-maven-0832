@@ -12,3 +12,4 @@
 - pkg:maven/cz.xtf/http-client@0.29
 - pkg:maven/cz.xtf/http-client@0.29?classifier=sources
 - pkg:maven/cz.xtf/http-client@0.30?classifier=sources
+- pkg:maven/cz.xtf/http-client@0.31?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/io.kotest/kotest-framework-multiplatform-plugin-legacy-native@5.6.2?classifier=sources
 - pkg:maven/io.kotest/kotest-framework-multiplatform-plugin-legacy-native@5.7.0?classifier=sources
 - pkg:maven/io.kotest/kotest-framework-multiplatform-plugin-legacy-native@5.7.1?classifier=sources
+- pkg:maven/io.kotest/kotest-framework-multiplatform-plugin-legacy-native@5.7.2?classifier=sources

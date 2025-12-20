@@ -1,0 +1,2 @@
+- pkg:maven/com.rover12421.gradle.plugins.dependencyToMavenLocal/plugin@8.0.1?classifier=sources
+- pkg:maven/com.rover12421.gradle.plugins.dependencyToMavenLocal/plugin@8.0.2?classifier=sources

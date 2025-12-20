@@ -4,6 +4,7 @@
 - pkg:maven/org.matrix.rustcomponents/crypto-android@0.3.10?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/crypto-android@0.3.13?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/crypto-android@0.3.14?classifier=sources
+- pkg:maven/org.matrix.rustcomponents/crypto-android@0.3.15?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/crypto-android@0.3.1?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/crypto-android@0.3.2?classifier=sources
 - pkg:maven/org.matrix.rustcomponents/crypto-android@0.3.4?classifier=sources

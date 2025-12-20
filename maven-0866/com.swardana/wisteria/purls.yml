@@ -1,2 +1,4 @@
 - pkg:maven/com.swardana/wisteria@1.0.0-alpha.20230829
 - pkg:maven/com.swardana/wisteria@1.0.0-alpha.20230829?classifier=sources
+- pkg:maven/com.swardana/wisteria@1.0.0-alpha.20230927
+- pkg:maven/com.swardana/wisteria@1.0.0-alpha.20230927?classifier=sources

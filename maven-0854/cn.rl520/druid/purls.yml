@@ -1,0 +1,2 @@
+- pkg:maven/cn.rl520/druid@1.0
+- pkg:maven/cn.rl520/druid@1.0?classifier=sources

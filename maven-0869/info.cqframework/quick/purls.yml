@@ -73,3 +73,5 @@
 - pkg:maven/info.cqframework/quick@2.8.0?classifier=sources
 - pkg:maven/info.cqframework/quick@2.9.0?classifier=sources
 - pkg:maven/info.cqframework/quick@3.0.0?classifier=sources
+- pkg:maven/info.cqframework/quick@3.1.0?classifier=sources
+- pkg:maven/info.cqframework/quick@3.2.0?classifier=sources

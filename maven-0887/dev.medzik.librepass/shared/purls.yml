@@ -4,3 +4,5 @@
 - pkg:maven/dev.medzik.librepass/shared@0.1.0-SNAPSHOT-08?classifier=sources
 - pkg:maven/dev.medzik.librepass/shared@0.1.0-SNAPSHOT-09
 - pkg:maven/dev.medzik.librepass/shared@0.1.0-SNAPSHOT-09?classifier=sources
+- pkg:maven/dev.medzik.librepass/shared@0.1.0-SNAPSHOT-10
+- pkg:maven/dev.medzik.librepass/shared@0.1.0-SNAPSHOT-10?classifier=sources

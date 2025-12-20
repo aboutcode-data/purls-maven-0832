@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.simpay-artefactory.common/ms-common-client@1.0.1
+- pkg:maven/io.gitlab.simpay-artefactory.common/ms-common-client@1.0.1?classifier=sources

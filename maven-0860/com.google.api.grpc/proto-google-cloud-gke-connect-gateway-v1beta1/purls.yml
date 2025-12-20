@@ -36,6 +36,12 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.23.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.24.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.24.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.25.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.25.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.28.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.28.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.29.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.29.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.3.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gke-connect-gateway-v1beta1@0.3.1

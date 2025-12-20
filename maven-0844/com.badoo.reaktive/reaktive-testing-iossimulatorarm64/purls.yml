@@ -3,3 +3,4 @@
 - pkg:maven/com.badoo.reaktive/reaktive-testing-iossimulatorarm64@1.2.3?classifier=sources
 - pkg:maven/com.badoo.reaktive/reaktive-testing-iossimulatorarm64@1.3.0?classifier=sources
 - pkg:maven/com.badoo.reaktive/reaktive-testing-iossimulatorarm64@2.0.0-alpha01?classifier=sources
+- pkg:maven/com.badoo.reaktive/reaktive-testing-iossimulatorarm64@2.0.0-beta01?classifier=sources

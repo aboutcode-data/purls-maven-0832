@@ -2,3 +2,5 @@
 - pkg:maven/dev.blanke.webpush/webpush-cli@6.0.0?classifier=sources
 - pkg:maven/dev.blanke.webpush/webpush-cli@6.1.0
 - pkg:maven/dev.blanke.webpush/webpush-cli@6.1.0?classifier=sources
+- pkg:maven/dev.blanke.webpush/webpush-cli@6.1.1
+- pkg:maven/dev.blanke.webpush/webpush-cli@6.1.1?classifier=sources

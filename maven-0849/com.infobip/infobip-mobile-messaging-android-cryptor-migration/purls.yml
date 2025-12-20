@@ -1,3 +1,4 @@
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@10.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@6.2.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@6.2.0?type=aar
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@6.2.1?classifier=sources
@@ -50,6 +51,7 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@7.6.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@7.6.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@7.6.2?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@7.6.3?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@8.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@8.1.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@8.1.1?classifier=sources
@@ -67,4 +69,9 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@8.4.2?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@8.5.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@8.5.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@8.5.2?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@8.5.3?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@8.5.4?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@9.0.0-rc?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@9.0.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-cryptor-migration@9.0.1?classifier=sources

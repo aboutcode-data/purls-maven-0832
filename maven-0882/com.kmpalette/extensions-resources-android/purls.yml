@@ -1,0 +1,5 @@
+- pkg:maven/com.kmpalette/extensions-resources-android@1.0.0?classifier=sources
+- pkg:maven/com.kmpalette/extensions-resources-android@1.0.1?classifier=sources
+- pkg:maven/com.kmpalette/extensions-resources-android@2.0.0?classifier=sources
+- pkg:maven/com.kmpalette/extensions-resources-android@2.0.1?classifier=sources
+- pkg:maven/com.kmpalette/extensions-resources-android@2.0.2?classifier=sources

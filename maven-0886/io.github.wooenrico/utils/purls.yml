@@ -10,3 +10,7 @@
 - pkg:maven/io.github.wooenrico/utils@0.0.4.RC2
 - pkg:maven/io.github.wooenrico/utils@0.0.4.RC2?classifier=sources
 - pkg:maven/io.github.wooenrico/utils@0.0.4?classifier=sources
+- pkg:maven/io.github.wooenrico/utils@0.0.6
+- pkg:maven/io.github.wooenrico/utils@0.0.6?classifier=sources
+- pkg:maven/io.github.wooenrico/utils@0.0.7
+- pkg:maven/io.github.wooenrico/utils@0.0.7?classifier=sources

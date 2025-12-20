@@ -742,6 +742,7 @@
 - pkg:maven/com.liferay/com.liferay.journal.service@4.0.151?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.service@4.0.152
 - pkg:maven/com.liferay/com.liferay.journal.service@4.0.152?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@4.0.153?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@4.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@4.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.service@4.0.16
@@ -1161,6 +1162,7 @@
 - pkg:maven/com.liferay/com.liferay.journal.service@5.0.14
 - pkg:maven/com.liferay/com.liferay.journal.service@5.0.140
 - pkg:maven/com.liferay/com.liferay.journal.service@5.0.140?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@5.0.141?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@5.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.service@5.0.15
@@ -1516,6 +1518,7 @@
 - pkg:maven/com.liferay/com.liferay.journal.service@6.0.12
 - pkg:maven/com.liferay/com.liferay.journal.service@6.0.120?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@6.0.121?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@6.0.122?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@6.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@6.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.service@6.0.13
@@ -1905,6 +1908,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.service@7.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.service@7.0.13
 - pkg:maven/com.liferay/com.liferay.journal.service@7.0.130?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@7.0.131?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@7.0.132?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.service@7.0.133?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@7.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.service@7.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.service@7.0.14

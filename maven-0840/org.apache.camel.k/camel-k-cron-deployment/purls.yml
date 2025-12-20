@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.camel.k/camel-k-cron-deployment@1.9.1?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-cron-deployment@2.16.0
 - pkg:maven/org.apache.camel.k/camel-k-cron-deployment@2.16.0?classifier=sources
+- pkg:maven/org.apache.camel.k/camel-k-cron-deployment@3.2.0
+- pkg:maven/org.apache.camel.k/camel-k-cron-deployment@3.2.0?classifier=sources

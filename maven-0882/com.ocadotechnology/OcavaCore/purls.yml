@@ -52,5 +52,9 @@
 - pkg:maven/com.ocadotechnology/OcavaCore@13.5.36?classifier=sources
 - pkg:maven/com.ocadotechnology/OcavaCore@13.6.44
 - pkg:maven/com.ocadotechnology/OcavaCore@13.6.44?classifier=sources
+- pkg:maven/com.ocadotechnology/OcavaCore@13.7.109
+- pkg:maven/com.ocadotechnology/OcavaCore@13.7.109?classifier=sources
+- pkg:maven/com.ocadotechnology/OcavaCore@13.7.189
+- pkg:maven/com.ocadotechnology/OcavaCore@13.7.189?classifier=sources
 - pkg:maven/com.ocadotechnology/OcavaCore@13.7.21
 - pkg:maven/com.ocadotechnology/OcavaCore@13.7.21?classifier=sources

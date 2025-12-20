@@ -22,3 +22,4 @@
 - pkg:maven/commons-dbutils/commons-dbutils@1.7
 - pkg:maven/commons-dbutils/commons-dbutils@1.7?classifier=sources
 - pkg:maven/commons-dbutils/commons-dbutils@1.8.0?classifier=sources
+- pkg:maven/commons-dbutils/commons-dbutils@1.8.1?classifier=sources

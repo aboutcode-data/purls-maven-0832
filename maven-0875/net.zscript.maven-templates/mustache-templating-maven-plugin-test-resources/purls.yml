@@ -1,0 +1,2 @@
+- pkg:maven/net.zscript.maven-templates/mustache-templating-maven-plugin-test-resources@0.0.1
+- pkg:maven/net.zscript.maven-templates/mustache-templating-maven-plugin-test-resources@0.0.1?classifier=sources

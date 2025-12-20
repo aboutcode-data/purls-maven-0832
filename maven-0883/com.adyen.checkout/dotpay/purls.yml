@@ -10,6 +10,8 @@
 - pkg:maven/com.adyen.checkout/dotpay@4.12.1?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.13.0?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.13.1?classifier=sources
+- pkg:maven/com.adyen.checkout/dotpay@4.13.2?classifier=sources
+- pkg:maven/com.adyen.checkout/dotpay@4.13.3?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.2.0?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.3.0?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@4.4.0?classifier=sources
@@ -23,3 +25,4 @@
 - pkg:maven/com.adyen.checkout/dotpay@4.9.1?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@5.0.0-alpha01?classifier=sources
 - pkg:maven/com.adyen.checkout/dotpay@5.0.0-alpha02?classifier=sources
+- pkg:maven/com.adyen.checkout/dotpay@5.0.0-beta01?classifier=sources

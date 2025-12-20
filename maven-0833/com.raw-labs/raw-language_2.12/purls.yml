@@ -1,0 +1,8 @@
+- pkg:maven/com.raw-labs/raw-language_2.12@0.24.28
+- pkg:maven/com.raw-labs/raw-language_2.12@0.24.28?classifier=sources
+- pkg:maven/com.raw-labs/raw-language_2.12@0.24.29
+- pkg:maven/com.raw-labs/raw-language_2.12@0.24.29?classifier=sources
+- pkg:maven/com.raw-labs/raw-language_2.12@0.24.30
+- pkg:maven/com.raw-labs/raw-language_2.12@0.24.30?classifier=sources
+- pkg:maven/com.raw-labs/raw-language_2.12@0.24.31
+- pkg:maven/com.raw-labs/raw-language_2.12@0.24.31?classifier=sources

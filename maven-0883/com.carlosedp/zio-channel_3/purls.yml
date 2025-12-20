@@ -8,3 +8,5 @@
 - pkg:maven/com.carlosedp/zio-channel_3@0.3.0?classifier=sources
 - pkg:maven/com.carlosedp/zio-channel_3@0.5.4
 - pkg:maven/com.carlosedp/zio-channel_3@0.5.4?classifier=sources
+- pkg:maven/com.carlosedp/zio-channel_3@0.5.5
+- pkg:maven/com.carlosedp/zio-channel_3@0.5.5?classifier=sources

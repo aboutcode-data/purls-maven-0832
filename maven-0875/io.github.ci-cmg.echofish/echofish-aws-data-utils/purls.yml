@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ci-cmg.echofish/echofish-aws-data-utils@1.0.0
+- pkg:maven/io.github.ci-cmg.echofish/echofish-aws-data-utils@1.0.0?classifier=sources

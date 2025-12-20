@@ -69,6 +69,7 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.19.12?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.19.13?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.19.16?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.19.17?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.19.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.19.3?classifier=sources
@@ -82,6 +83,7 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.20.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.20.0?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.20.10?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.20.11?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.20.1?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.20.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.20.3?classifier=sources
@@ -99,4 +101,9 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.21.1?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.21.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.21.4?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.21.6?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@3.21.8?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@4.0.0?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@4.0.2?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@4.1.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-pro@4.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.15?classifier=sources
 - pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.16
 - pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.16?classifier=sources
+- pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.17
+- pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.17?classifier=sources

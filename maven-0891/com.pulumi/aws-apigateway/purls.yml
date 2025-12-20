@@ -1,2 +1,4 @@
 - pkg:maven/com.pulumi/aws-apigateway@0.0.8?classifier=sources
 - pkg:maven/com.pulumi/aws-apigateway@1.0.1?classifier=sources
+- pkg:maven/com.pulumi/aws-apigateway@1.1.0-alpha.3?classifier=sources
+- pkg:maven/com.pulumi/aws-apigateway@2.0.0-alpha.1?classifier=sources

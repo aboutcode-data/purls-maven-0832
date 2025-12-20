@@ -262,6 +262,12 @@
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.213?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.214
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.214?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/geocoder@2.215
+- pkg:maven/com.googlecode.libphonenumber/geocoder@2.215?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/geocoder@2.216
+- pkg:maven/com.googlecode.libphonenumber/geocoder@2.216?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/geocoder@2.217
+- pkg:maven/com.googlecode.libphonenumber/geocoder@2.217?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.21?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.22
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.22?classifier=sources

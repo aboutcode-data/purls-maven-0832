@@ -1,0 +1,6 @@
+- pkg:maven/top.lingkang/hibernate-solon-plugin@1.0.0
+- pkg:maven/top.lingkang/hibernate-solon-plugin@1.0.0?classifier=sources
+- pkg:maven/top.lingkang/hibernate-solon-plugin@1.0.1
+- pkg:maven/top.lingkang/hibernate-solon-plugin@1.0.1?classifier=sources
+- pkg:maven/top.lingkang/hibernate-solon-plugin@2.0.0
+- pkg:maven/top.lingkang/hibernate-solon-plugin@2.0.0?classifier=sources

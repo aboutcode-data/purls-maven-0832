@@ -20,3 +20,4 @@
 - pkg:maven/app.moviebase/tmdb-api-iosarm64@0.6.4?classifier=sources
 - pkg:maven/app.moviebase/tmdb-api-iosarm64@0.6.5?classifier=sources
 - pkg:maven/app.moviebase/tmdb-api-iosarm64@1.1.0?classifier=sources
+- pkg:maven/app.moviebase/tmdb-api-iosarm64@1.2.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.ckeditor@4.20.1.0-jakarta
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.ckeditor@4.20.1.0-jakarta?classifier=sources
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.ckeditor@4.20.1.0?classifier=sources
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.ckeditor@4.21.0.0-jakarta
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.ckeditor@4.21.0.0-jakarta?classifier=sources

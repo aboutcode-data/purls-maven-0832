@@ -58,6 +58,10 @@
 - pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.16.0?classifier=sources
 - pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.17.0
 - pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.17.0?classifier=sources
+- pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.17.1
+- pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.17.1?classifier=sources
+- pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.18.0
+- pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.18.0?classifier=sources
 - pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.2.0
 - pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.2.0?classifier=sources
 - pkg:maven/com.pragmatickm/pragmatickm-parent-book@1.2.1

@@ -3,3 +3,5 @@
 - pkg:maven/com.facebook.fresco/memory-type-native@2.5.0?classifier=sources
 - pkg:maven/com.facebook.fresco/memory-type-native@2.6.0?classifier=sources
 - pkg:maven/com.facebook.fresco/memory-type-native@3.0.0?classifier=sources
+- pkg:maven/com.facebook.fresco/memory-type-native@3.1.0?classifier=sources
+- pkg:maven/com.facebook.fresco/memory-type-native@3.1.1?classifier=sources

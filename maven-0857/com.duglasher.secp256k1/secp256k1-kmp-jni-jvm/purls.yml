@@ -1,1 +1,2 @@
 - pkg:maven/com.duglasher.secp256k1/secp256k1-kmp-jni-jvm@0.10.2?classifier=sources
+- pkg:maven/com.duglasher.secp256k1/secp256k1-kmp-jni-jvm@0.11.0?classifier=sources

@@ -19,3 +19,4 @@
 - pkg:maven/io.restx/restx-server-testing@0.35.1
 - pkg:maven/io.restx/restx-server-testing@1.0.0-rc1
 - pkg:maven/io.restx/restx-server-testing@1.0.0-rc2
+- pkg:maven/io.restx/restx-server-testing@1.0.0-rc3

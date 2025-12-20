@@ -28,3 +28,4 @@
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.9-ib
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.9-ib?classifier=source-release&type=zip
 - pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.0.9-ib?classifier=sources
+- pkg:maven/org.infrastructurebuilder.maven/properties-maven-plugin@1.2.1.0-ib

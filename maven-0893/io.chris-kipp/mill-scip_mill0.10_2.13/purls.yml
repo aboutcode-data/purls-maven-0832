@@ -20,5 +20,9 @@
 - pkg:maven/io.chris-kipp/mill-scip_mill0.10_2.13@0.3.4?classifier=sources
 - pkg:maven/io.chris-kipp/mill-scip_mill0.10_2.13@0.3.5
 - pkg:maven/io.chris-kipp/mill-scip_mill0.10_2.13@0.3.5?classifier=sources
+- pkg:maven/io.chris-kipp/mill-scip_mill0.10_2.13@0.3.6
+- pkg:maven/io.chris-kipp/mill-scip_mill0.10_2.13@0.3.6?classifier=sources
+- pkg:maven/io.chris-kipp/mill-scip_mill0.10_2.13@0.3.7
+- pkg:maven/io.chris-kipp/mill-scip_mill0.10_2.13@0.3.7?classifier=sources
 - pkg:maven/io.chris-kipp/mill-scip_mill0.10_2.13@v0.1.1
 - pkg:maven/io.chris-kipp/mill-scip_mill0.10_2.13@v0.1.1?classifier=sources

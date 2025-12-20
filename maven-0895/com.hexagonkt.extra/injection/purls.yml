@@ -8,3 +8,6 @@
 - pkg:maven/com.hexagonkt.extra/injection@3.0.0-B9?classifier=sources
 - pkg:maven/com.hexagonkt.extra/injection@3.0.0?classifier=sources
 - pkg:maven/com.hexagonkt.extra/injection@3.0.4?classifier=sources
+- pkg:maven/com.hexagonkt.extra/injection@3.1.0?classifier=sources
+- pkg:maven/com.hexagonkt.extra/injection@3.2.0?classifier=sources
+- pkg:maven/com.hexagonkt.extra/injection@3.3.0?classifier=sources

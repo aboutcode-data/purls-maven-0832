@@ -25,4 +25,6 @@
 - pkg:maven/com.github.luoshu-open/luoshu-spring@0.3
 - pkg:maven/com.github.luoshu-open/luoshu-spring@0.31
 - pkg:maven/com.github.luoshu-open/luoshu-spring@0.31?classifier=sources
+- pkg:maven/com.github.luoshu-open/luoshu-spring@0.32
+- pkg:maven/com.github.luoshu-open/luoshu-spring@0.32?classifier=sources
 - pkg:maven/com.github.luoshu-open/luoshu-spring@0.3?classifier=sources

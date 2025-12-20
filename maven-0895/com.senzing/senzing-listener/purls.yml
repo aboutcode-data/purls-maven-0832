@@ -8,3 +8,7 @@
 - pkg:maven/com.senzing/senzing-listener@0.1.0?classifier=sources
 - pkg:maven/com.senzing/senzing-listener@0.3.1
 - pkg:maven/com.senzing/senzing-listener@0.3.1?classifier=sources
+- pkg:maven/com.senzing/senzing-listener@0.5.0
+- pkg:maven/com.senzing/senzing-listener@0.5.0?classifier=sources
+- pkg:maven/com.senzing/senzing-listener@0.5.2
+- pkg:maven/com.senzing/senzing-listener@0.5.2?classifier=sources

@@ -184,3 +184,7 @@
 - pkg:maven/org.fugerit.java/fj-doc-mod-itext@0.5.0-rc.001?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-mod-itext@1.0.0-sa.1
 - pkg:maven/org.fugerit.java/fj-doc-mod-itext@1.0.0-sa.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-mod-itext@1.0.0-sa.2
+- pkg:maven/org.fugerit.java/fj-doc-mod-itext@1.0.0-sa.2?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-mod-itext@1.1.0-sa.1
+- pkg:maven/org.fugerit.java/fj-doc-mod-itext@1.1.0-sa.1?classifier=sources

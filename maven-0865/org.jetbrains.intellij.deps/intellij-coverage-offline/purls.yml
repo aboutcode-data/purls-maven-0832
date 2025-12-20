@@ -30,3 +30,5 @@
 - pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-offline@1.0.734?classifier=sources
 - pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-offline@1.0.735?classifier=sources
 - pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-offline@1.0.736?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-offline@1.0.737?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-offline@1.0.738?classifier=sources

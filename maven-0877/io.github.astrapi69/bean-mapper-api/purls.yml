@@ -2,4 +2,5 @@
 - pkg:maven/io.github.astrapi69/bean-mapper-api@1.2?classifier=sources
 - pkg:maven/io.github.astrapi69/bean-mapper-api@2.1?classifier=sources
 - pkg:maven/io.github.astrapi69/bean-mapper-api@2.2?classifier=sources
+- pkg:maven/io.github.astrapi69/bean-mapper-api@2.3?classifier=sources
 - pkg:maven/io.github.astrapi69/bean-mapper-api@2?classifier=sources

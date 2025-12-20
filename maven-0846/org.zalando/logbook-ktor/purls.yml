@@ -11,3 +11,4 @@
 - pkg:maven/org.zalando/logbook-ktor@3.2.0
 - pkg:maven/org.zalando/logbook-ktor@3.3.0
 - pkg:maven/org.zalando/logbook-ktor@3.4.0
+- pkg:maven/org.zalando/logbook-ktor@3.5.0

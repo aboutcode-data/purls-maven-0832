@@ -70,3 +70,7 @@
 - pkg:maven/io.trino/trino-clickhouse@423?classifier=sources
 - pkg:maven/io.trino/trino-clickhouse@424?classifier=sources
 - pkg:maven/io.trino/trino-clickhouse@425?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@426?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@427?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@428?classifier=sources
+- pkg:maven/io.trino/trino-clickhouse@429?classifier=sources

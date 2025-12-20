@@ -1,0 +1,2 @@
+- pkg:maven/com.plutolib.plugins/network-interceptor-ktor@2.1.7?classifier=sources
+- pkg:maven/com.plutolib.plugins/network-interceptor-ktor@2.1.8?classifier=sources

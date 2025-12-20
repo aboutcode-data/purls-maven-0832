@@ -480,6 +480,7 @@
 - pkg:maven/com.liferay/com.liferay.server.admin.web@2.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@2.0.75
 - pkg:maven/com.liferay/com.liferay.server.admin.web@2.0.75?classifier=sources
+- pkg:maven/com.liferay/com.liferay.server.admin.web@2.0.76?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.server.admin.web@2.0.8
@@ -712,6 +713,7 @@
 - pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.76?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.77
 - pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.78?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.server.admin.web@3.0.8
@@ -1096,9 +1098,13 @@
 - pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.65
 - pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.66?classifier=sources
+- pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.67?classifier=sources
+- pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.68?classifier=sources
+- pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.69?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.7
+- pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.server.admin.web@5.0.8

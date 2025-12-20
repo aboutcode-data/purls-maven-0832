@@ -64,3 +64,5 @@
 - pkg:maven/org.dellroad/dellroad-stuff-main@2.5.8?classifier=sources
 - pkg:maven/org.dellroad/dellroad-stuff-main@2.5.9
 - pkg:maven/org.dellroad/dellroad-stuff-main@2.5.9?classifier=sources
+- pkg:maven/org.dellroad/dellroad-stuff-main@3.0.0
+- pkg:maven/org.dellroad/dellroad-stuff-main@3.0.0?classifier=sources

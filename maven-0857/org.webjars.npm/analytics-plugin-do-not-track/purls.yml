@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/analytics-plugin-do-not-track@0.1.5
+- pkg:maven/org.webjars.npm/analytics-plugin-do-not-track@0.1.5?classifier=sources

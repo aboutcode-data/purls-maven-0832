@@ -6,6 +6,10 @@
 - pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.12?classifier=sources
 - pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.13
 - pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.13?classifier=sources
+- pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.14
+- pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.14?classifier=sources
+- pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.15
+- pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.15?classifier=sources
 - pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.4
 - pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.4?classifier=sources
 - pkg:maven/com.safety-data/cloakroom-test-util-scala_2.13@0.5.5

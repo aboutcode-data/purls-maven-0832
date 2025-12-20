@@ -25,6 +25,12 @@
 - pkg:maven/me.proton.core/mail-settings@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/mail-settings@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/mail-settings@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings@17.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings@17.0.1?classifier=sources
+- pkg:maven/me.proton.core/mail-settings@17.0.2?classifier=sources
+- pkg:maven/me.proton.core/mail-settings@17.0.3?classifier=sources
 - pkg:maven/me.proton.core/mail-settings@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/mail-settings@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/mail-settings@3.0.0?classifier=sources

@@ -123,3 +123,4 @@
 - pkg:maven/com.exponea.sdk/sdk@3.6.1?classifier=sources
 - pkg:maven/com.exponea.sdk/sdk@3.7.0-realm?classifier=sources
 - pkg:maven/com.exponea.sdk/sdk@3.7.0?classifier=sources
+- pkg:maven/com.exponea.sdk/sdk@3.7.1?classifier=sources

@@ -124,6 +124,7 @@
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.14.1-alpha3?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.14.1?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.14.2-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.14.2?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.15.0-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.15.0-alpha2?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.15.0-beta1?classifier=sources
@@ -139,6 +140,7 @@
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.16.2?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.16.3-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.16.3-alpha2?classifier=sources
+- pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.16.3?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.17.0-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.2.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.2.1?classifier=sources
@@ -187,3 +189,5 @@
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.9.0-rc1?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.9.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@4.9.1-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@5.0.0-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/com.didiglobal.booster.gradle.plugin@5.0.0-alpha2?classifier=sources

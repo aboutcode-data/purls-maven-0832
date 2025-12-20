@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.spark/spark-common-utils_2.13@3.5.0
+- pkg:maven/org.apache.spark/spark-common-utils_2.13@3.5.0?classifier=sources

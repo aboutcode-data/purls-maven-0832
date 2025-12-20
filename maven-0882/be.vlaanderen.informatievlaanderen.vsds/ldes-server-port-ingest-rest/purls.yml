@@ -1,0 +1,2 @@
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-ingest-rest@2.0.2
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-port-ingest-rest@2.0.2?classifier=sources

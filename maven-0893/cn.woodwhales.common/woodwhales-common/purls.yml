@@ -50,3 +50,5 @@
 - pkg:maven/cn.woodwhales.common/woodwhales-common@3.7.9?classifier=sources
 - pkg:maven/cn.woodwhales.common/woodwhales-common@3.8.0
 - pkg:maven/cn.woodwhales.common/woodwhales-common@3.8.0?classifier=sources
+- pkg:maven/cn.woodwhales.common/woodwhales-common@3.8.1
+- pkg:maven/cn.woodwhales.common/woodwhales-common@3.8.1?classifier=sources

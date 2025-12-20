@@ -14,3 +14,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.5-dev-24?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.5-dev-25?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.5-dev-26?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-util@0.4.5-dev-27?classifier=sources

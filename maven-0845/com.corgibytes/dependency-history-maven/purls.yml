@@ -34,6 +34,11 @@
 - pkg:maven/com.corgibytes/dependency-history-maven@2.0.40?classifier=sources
 - pkg:maven/com.corgibytes/dependency-history-maven@2.0.41?classifier=sources
 - pkg:maven/com.corgibytes/dependency-history-maven@2.0.42?classifier=sources
+- pkg:maven/com.corgibytes/dependency-history-maven@2.0.43?classifier=sources
+- pkg:maven/com.corgibytes/dependency-history-maven@2.0.44?classifier=sources
+- pkg:maven/com.corgibytes/dependency-history-maven@2.0.45?classifier=sources
+- pkg:maven/com.corgibytes/dependency-history-maven@2.0.46?classifier=sources
+- pkg:maven/com.corgibytes/dependency-history-maven@2.0.47?classifier=sources
 - pkg:maven/com.corgibytes/dependency-history-maven@2.0.4?classifier=sources
 - pkg:maven/com.corgibytes/dependency-history-maven@2.0.6?classifier=sources
 - pkg:maven/com.corgibytes/dependency-history-maven@2.0.7?classifier=sources
