@@ -72,3 +72,5 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@8.0.2?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@8.0.3
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@8.0.3?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@8.1.0
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-rest@8.1.0?classifier=sources

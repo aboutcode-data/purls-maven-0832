@@ -2,3 +2,7 @@
 - pkg:maven/pl.instah.auron/app-sdk-jvm@1.0.3A?classifier=sources
 - pkg:maven/pl.instah.auron/app-sdk-jvm@1.0.4A?classifier=sources
 - pkg:maven/pl.instah.auron/app-sdk-jvm@1.0.5A?classifier=sources
+- pkg:maven/pl.instah.auron/app-sdk-jvm@1.0.6A?classifier=sources
+- pkg:maven/pl.instah.auron/app-sdk-jvm@1.0.7A?classifier=sources
+- pkg:maven/pl.instah.auron/app-sdk-jvm@1.0.8A?classifier=sources
+- pkg:maven/pl.instah.auron/app-sdk-jvm@1.0.9A?classifier=sources

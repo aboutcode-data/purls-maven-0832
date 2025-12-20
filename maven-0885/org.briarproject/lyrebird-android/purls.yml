@@ -1,3 +1,4 @@
 - pkg:maven/org.briarproject/lyrebird-android@0.5.0-1?classifier=sources
 - pkg:maven/org.briarproject/lyrebird-android@0.5.0-2?classifier=sources
+- pkg:maven/org.briarproject/lyrebird-android@0.5.0-3?classifier=sources
 - pkg:maven/org.briarproject/lyrebird-android@0.5.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/io.continual/continualIamExamples@0.3.22?classifier=sources
 - pkg:maven/io.continual/continualIamExamples@0.3.23
 - pkg:maven/io.continual/continualIamExamples@0.3.23?classifier=sources
+- pkg:maven/io.continual/continualIamExamples@0.3.24
+- pkg:maven/io.continual/continualIamExamples@0.3.24?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.schemarise.alfa.generators.importers/alfa-gen-imp-jsonschema@3.4.1?classifier=sources
+- pkg:maven/com.schemarise.alfa.generators.importers/alfa-gen-imp-jsonschema@3.4.3?classifier=sources

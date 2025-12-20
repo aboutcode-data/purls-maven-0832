@@ -1,4 +1,6 @@
 - pkg:maven/org.apache.flink/flink-statebackend-forst@1.20.0
 - pkg:maven/org.apache.flink/flink-statebackend-forst@1.20.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-statebackend-forst@1.20.1
+- pkg:maven/org.apache.flink/flink-statebackend-forst@1.20.1?classifier=sources
 - pkg:maven/org.apache.flink/flink-statebackend-forst@2.0-preview1
 - pkg:maven/org.apache.flink/flink-statebackend-forst@2.0-preview1?classifier=sources

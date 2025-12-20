@@ -10,6 +10,7 @@
 - pkg:maven/io.kestra.plugin/plugin-soda@0.18.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-soda@0.19.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-soda@0.20.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-soda@0.21.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-soda@0.5.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-soda@0.6.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-soda@0.8.0?classifier=sources

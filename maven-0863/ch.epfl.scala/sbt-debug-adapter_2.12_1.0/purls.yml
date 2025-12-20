@@ -16,3 +16,5 @@
 - pkg:maven/ch.epfl.scala/sbt-debug-adapter_2.12_1.0@4.2.0?classifier=sources
 - pkg:maven/ch.epfl.scala/sbt-debug-adapter_2.12_1.0@4.2.1
 - pkg:maven/ch.epfl.scala/sbt-debug-adapter_2.12_1.0@4.2.1?classifier=sources
+- pkg:maven/ch.epfl.scala/sbt-debug-adapter_2.12_1.0@4.2.2
+- pkg:maven/ch.epfl.scala/sbt-debug-adapter_2.12_1.0@4.2.2?classifier=sources

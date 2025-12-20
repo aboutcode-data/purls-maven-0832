@@ -17,3 +17,4 @@
 - pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@5.1.0?classifier=sources
 - pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@5.2.0?classifier=sources
 - pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@5.3.0?classifier=sources
+- pkg:maven/org.proyecto-adalid.meta/meta-jee2-archetype@6.0.0?classifier=sources

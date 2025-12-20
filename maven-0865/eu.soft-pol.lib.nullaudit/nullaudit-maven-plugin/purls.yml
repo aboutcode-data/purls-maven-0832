@@ -1,0 +1,2 @@
+- pkg:maven/eu.soft-pol.lib.nullaudit/nullaudit-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/eu.soft-pol.lib.nullaudit/nullaudit-maven-plugin@0.2.0?classifier=sources

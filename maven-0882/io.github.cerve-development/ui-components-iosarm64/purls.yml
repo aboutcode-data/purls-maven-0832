@@ -58,4 +58,6 @@
 - pkg:maven/io.github.cerve-development/ui-components-iosarm64@0.9.96?classifier=sources
 - pkg:maven/io.github.cerve-development/ui-components-iosarm64@0.9.97?classifier=sources
 - pkg:maven/io.github.cerve-development/ui-components-iosarm64@0.9.98?classifier=sources
+- pkg:maven/io.github.cerve-development/ui-components-iosarm64@0.9.991?classifier=sources
+- pkg:maven/io.github.cerve-development/ui-components-iosarm64@0.9.99?classifier=sources
 - pkg:maven/io.github.cerve-development/ui-components-iosarm64@0.9.9?classifier=sources

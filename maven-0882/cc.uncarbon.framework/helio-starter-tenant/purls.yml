@@ -28,3 +28,5 @@
 - pkg:maven/cc.uncarbon.framework/helio-starter-tenant@2.2.0?classifier=sources
 - pkg:maven/cc.uncarbon.framework/helio-starter-tenant@2.3.0
 - pkg:maven/cc.uncarbon.framework/helio-starter-tenant@2.3.0?classifier=sources
+- pkg:maven/cc.uncarbon.framework/helio-starter-tenant@2.3.1
+- pkg:maven/cc.uncarbon.framework/helio-starter-tenant@2.3.1?classifier=sources

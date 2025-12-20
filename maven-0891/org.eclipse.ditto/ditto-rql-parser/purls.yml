@@ -113,6 +113,10 @@
 - pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.0
 - pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.0?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.1
+- pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.10
+- pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.10?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.11
+- pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.11?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.1?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.2
 - pkg:maven/org.eclipse.ditto/ditto-rql-parser@3.6.2?classifier=sources

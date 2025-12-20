@@ -1,0 +1,2 @@
+- pkg:maven/org.qubership/qubership-inventory-tool-core@3.0.0?classifier=sources
+- pkg:maven/org.qubership/qubership-inventory-tool-core@3.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.governance.rest.api@9.31.32?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.governance.rest.api@9.31.32?type=war

@@ -62,6 +62,10 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.130?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.131
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.131?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.132
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.132?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.133
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.133?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.59
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.59?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartspipeline@3.1.60

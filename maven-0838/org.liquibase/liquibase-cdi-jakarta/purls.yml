@@ -30,3 +30,7 @@
 - pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.29.2?classifier=sources
 - pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.30.0
 - pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.30.0?classifier=sources
+- pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.31.0
+- pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.31.0?classifier=sources
+- pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.31.1
+- pkg:maven/org.liquibase/liquibase-cdi-jakarta@4.31.1?classifier=sources

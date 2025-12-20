@@ -2,3 +2,4 @@
 - pkg:maven/org.opensearch.client/spring-data-opensearch-testcontainers@1.5.3?classifier=sources
 - pkg:maven/org.opensearch.client/spring-data-opensearch-testcontainers@1.5.4?classifier=sources
 - pkg:maven/org.opensearch.client/spring-data-opensearch-testcontainers@1.6.0?classifier=sources
+- pkg:maven/org.opensearch.client/spring-data-opensearch-testcontainers@1.6.1?classifier=sources

@@ -1,0 +1,11 @@
+- pkg:maven/org.appliedenergistics/guideme@2.3.0?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@2.3.1?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@2.4.0?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@2.5.0?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@2.5.1?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@2.6.0?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@20.1.0?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@20.1.1?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@20.1.2?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@21.1.0?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@21.1.1?classifier=sources

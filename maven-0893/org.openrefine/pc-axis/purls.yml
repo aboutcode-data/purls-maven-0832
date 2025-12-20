@@ -38,3 +38,7 @@
 - pkg:maven/org.openrefine/pc-axis@3.8.6?classifier=sources
 - pkg:maven/org.openrefine/pc-axis@3.8.7
 - pkg:maven/org.openrefine/pc-axis@3.8.7?classifier=sources
+- pkg:maven/org.openrefine/pc-axis@3.9-beta1
+- pkg:maven/org.openrefine/pc-axis@3.9-beta1?classifier=sources
+- pkg:maven/org.openrefine/pc-axis@3.9.0
+- pkg:maven/org.openrefine/pc-axis@3.9.0?classifier=sources

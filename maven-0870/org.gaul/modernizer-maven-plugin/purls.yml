@@ -41,3 +41,5 @@
 - pkg:maven/org.gaul/modernizer-maven-plugin@2.9.0?classifier=sources
 - pkg:maven/org.gaul/modernizer-maven-plugin@3.0.0
 - pkg:maven/org.gaul/modernizer-maven-plugin@3.0.0?classifier=sources
+- pkg:maven/org.gaul/modernizer-maven-plugin@3.1.0
+- pkg:maven/org.gaul/modernizer-maven-plugin@3.1.0?classifier=sources

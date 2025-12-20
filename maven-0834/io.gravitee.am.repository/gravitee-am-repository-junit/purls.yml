@@ -16,9 +16,13 @@
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.5.5?classifier=sources
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.5.6
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.5.6?classifier=sources
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.5.7
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.5.7?classifier=sources
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.6.0
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.6.0-alpha.1
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.6.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.6.0-alpha.2
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.6.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.6.0-alpha.3
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.6.0-alpha.3?classifier=sources
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-junit@4.6.0?classifier=sources

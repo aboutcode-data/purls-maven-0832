@@ -6,3 +6,5 @@
 - pkg:maven/org.teamapps/teamapps-configuration-management@0.3?classifier=sources
 - pkg:maven/org.teamapps/teamapps-configuration-management@0.4
 - pkg:maven/org.teamapps/teamapps-configuration-management@0.4?classifier=sources
+- pkg:maven/org.teamapps/teamapps-configuration-management@0.5
+- pkg:maven/org.teamapps/teamapps-configuration-management@0.5?classifier=sources

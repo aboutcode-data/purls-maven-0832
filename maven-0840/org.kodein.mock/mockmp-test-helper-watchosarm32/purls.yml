@@ -20,3 +20,4 @@
 - pkg:maven/org.kodein.mock/mockmp-test-helper-watchosarm32@1.8.1?classifier=sources
 - pkg:maven/org.kodein.mock/mockmp-test-helper-watchosarm32@1.9.0?classifier=sources
 - pkg:maven/org.kodein.mock/mockmp-test-helper-watchosarm32@2.0.0?classifier=sources
+- pkg:maven/org.kodein.mock/mockmp-test-helper-watchosarm32@2.0.1?classifier=sources

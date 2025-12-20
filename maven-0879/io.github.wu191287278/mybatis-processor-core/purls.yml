@@ -38,6 +38,8 @@
 - pkg:maven/io.github.wu191287278/mybatis-processor-core@2.4.3?classifier=sources
 - pkg:maven/io.github.wu191287278/mybatis-processor-core@2.4.4
 - pkg:maven/io.github.wu191287278/mybatis-processor-core@2.4.4?classifier=sources
+- pkg:maven/io.github.wu191287278/mybatis-processor-core@2.4.5
+- pkg:maven/io.github.wu191287278/mybatis-processor-core@2.4.5?classifier=sources
 - pkg:maven/io.github.wu191287278/mybatis-processor-core@3.0.0
 - pkg:maven/io.github.wu191287278/mybatis-processor-core@3.0.0?classifier=sources
 - pkg:maven/io.github.wu191287278/mybatis-processor-core@3.0.1

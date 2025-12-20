@@ -13,3 +13,5 @@
 - pkg:maven/org.apache.ranger/ranger-knox-plugin-shim@2.3.0
 - pkg:maven/org.apache.ranger/ranger-knox-plugin-shim@2.4.0
 - pkg:maven/org.apache.ranger/ranger-knox-plugin-shim@2.5.0
+- pkg:maven/org.apache.ranger/ranger-knox-plugin-shim@2.6.0
+- pkg:maven/org.apache.ranger/ranger-knox-plugin-shim@2.6.0?classifier=sources

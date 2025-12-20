@@ -4,3 +4,5 @@
 - pkg:maven/net.gfxmonk/foperator-backend-kubernetes-client_3@2.1.0?classifier=sources
 - pkg:maven/net.gfxmonk/foperator-backend-kubernetes-client_3@2.2.0
 - pkg:maven/net.gfxmonk/foperator-backend-kubernetes-client_3@2.2.0?classifier=sources
+- pkg:maven/net.gfxmonk/foperator-backend-kubernetes-client_3@2.3.0
+- pkg:maven/net.gfxmonk/foperator-backend-kubernetes-client_3@2.3.0?classifier=sources

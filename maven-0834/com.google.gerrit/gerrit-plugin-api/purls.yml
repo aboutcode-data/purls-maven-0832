@@ -394,6 +394,8 @@
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.10.2?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.10.3
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.10.3?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-plugin-api@3.10.4
+- pkg:maven/com.google.gerrit/gerrit-plugin-api@3.10.4?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.11.0
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.11.0-rc0
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.11.0-rc0?classifier=sources
@@ -408,6 +410,8 @@
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.11.0-rc5
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.11.0-rc5?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.11.0?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-plugin-api@3.11.1
+- pkg:maven/com.google.gerrit/gerrit-plugin-api@3.11.1?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.2.0
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.2.0-rc0
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.2.0-rc0?classifier=sources
@@ -670,3 +674,5 @@
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.9.7?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.9.8
 - pkg:maven/com.google.gerrit/gerrit-plugin-api@3.9.8?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-plugin-api@3.9.9
+- pkg:maven/com.google.gerrit/gerrit-plugin-api@3.9.9?classifier=sources

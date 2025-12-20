@@ -33,6 +33,8 @@
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.3.20?classifier=sources
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.3.21
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.3.21?classifier=sources
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.3.22
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.3.22?classifier=sources
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.3.2?classifier=sources
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.3.3
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.3.3?classifier=sources

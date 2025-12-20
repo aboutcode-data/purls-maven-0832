@@ -78,3 +78,7 @@
 - pkg:maven/ly.count.android/sdk-native@24.7.4?classifier=sources
 - pkg:maven/ly.count.android/sdk-native@24.7.8-RC1?classifier=sources
 - pkg:maven/ly.count.android/sdk-native@24.7.8?classifier=sources
+- pkg:maven/ly.count.android/sdk-native@24.7.9-RC1?classifier=sources
+- pkg:maven/ly.count.android/sdk-native@25.1.0-RC1?classifier=sources
+- pkg:maven/ly.count.android/sdk-native@25.1.0?classifier=sources
+- pkg:maven/ly.count.android/sdk-native@25.1.1?classifier=sources

@@ -208,3 +208,5 @@
 - pkg:maven/com.powsybl/powsybl-loadflow-results-completion@6.6.0-RC1
 - pkg:maven/com.powsybl/powsybl-loadflow-results-completion@6.6.0-RC1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-loadflow-results-completion@6.6.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-loadflow-results-completion@6.6.1
+- pkg:maven/com.powsybl/powsybl-loadflow-results-completion@6.6.1?classifier=sources

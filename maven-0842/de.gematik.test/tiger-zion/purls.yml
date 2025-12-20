@@ -66,3 +66,5 @@
 - pkg:maven/de.gematik.test/tiger-zion@3.4.7?classifier=sources
 - pkg:maven/de.gematik.test/tiger-zion@3.5.0
 - pkg:maven/de.gematik.test/tiger-zion@3.5.0?classifier=sources
+- pkg:maven/de.gematik.test/tiger-zion@3.6.0
+- pkg:maven/de.gematik.test/tiger-zion@3.6.0?classifier=sources

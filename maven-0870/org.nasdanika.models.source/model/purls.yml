@@ -18,3 +18,5 @@
 - pkg:maven/org.nasdanika.models.source/model@2024.7.1?classifier=sources
 - pkg:maven/org.nasdanika.models.source/model@2024.8.0
 - pkg:maven/org.nasdanika.models.source/model@2024.8.0?classifier=sources
+- pkg:maven/org.nasdanika.models.source/model@2025.1.0
+- pkg:maven/org.nasdanika.models.source/model@2025.1.0?classifier=sources

@@ -51,6 +51,8 @@
 - pkg:maven/io.avaje/avaje-jex-mustache@3.0-RC12?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-mustache@3.0-RC13
 - pkg:maven/io.avaje/avaje-jex-mustache@3.0-RC13?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-mustache@3.0-RC14
+- pkg:maven/io.avaje/avaje-jex-mustache@3.0-RC14?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-mustache@3.0-RC1?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-mustache@3.0-RC2
 - pkg:maven/io.avaje/avaje-jex-mustache@3.0-RC2?classifier=sources

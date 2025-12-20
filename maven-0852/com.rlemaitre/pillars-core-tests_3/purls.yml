@@ -1,0 +1,2 @@
+- pkg:maven/com.rlemaitre/pillars-core-tests_3@0.4.4
+- pkg:maven/com.rlemaitre/pillars-core-tests_3@0.4.4?classifier=sources

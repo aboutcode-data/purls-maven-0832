@@ -17,3 +17,5 @@
 - pkg:maven/org.apache.beam/beam-examples-java-cdap-salesforce@2.59.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java-cdap-salesforce@2.60.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java-cdap-salesforce@2.61.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-java-cdap-salesforce@2.62.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-java-cdap-salesforce@2.63.0?classifier=sources

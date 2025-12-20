@@ -2,3 +2,5 @@
 - pkg:maven/io.opentelemetry.android/instrumentation-network@0.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.android/instrumentation-network@0.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.android/instrumentation-network@0.8.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.android/instrumentation-network@0.9.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.android/instrumentation-network@0.9.1-alpha?classifier=sources

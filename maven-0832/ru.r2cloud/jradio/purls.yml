@@ -10,6 +10,8 @@
 - pkg:maven/ru.r2cloud/jradio@1.103?classifier=sources
 - pkg:maven/ru.r2cloud/jradio@1.104
 - pkg:maven/ru.r2cloud/jradio@1.104?classifier=sources
+- pkg:maven/ru.r2cloud/jradio@1.105
+- pkg:maven/ru.r2cloud/jradio@1.105?classifier=sources
 - pkg:maven/ru.r2cloud/jradio@1.10?classifier=sources
 - pkg:maven/ru.r2cloud/jradio@1.11
 - pkg:maven/ru.r2cloud/jradio@1.11?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.sparky983.komponent/komponent-js@0.1.0?classifier=sources
+- pkg:maven/me.sparky983.komponent/komponent-js@test?classifier=sources

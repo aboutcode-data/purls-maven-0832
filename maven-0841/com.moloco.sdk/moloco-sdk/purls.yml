@@ -7,3 +7,4 @@
 - pkg:maven/com.moloco.sdk/moloco-sdk@3.3.0?classifier=sources
 - pkg:maven/com.moloco.sdk/moloco-sdk@3.4.0?classifier=sources
 - pkg:maven/com.moloco.sdk/moloco-sdk@3.5.0?classifier=sources
+- pkg:maven/com.moloco.sdk/moloco-sdk@3.6.0?classifier=sources

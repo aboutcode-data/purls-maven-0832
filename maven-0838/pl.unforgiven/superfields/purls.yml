@@ -26,3 +26,5 @@
 - pkg:maven/pl.unforgiven/superfields@0.19.2?classifier=sources
 - pkg:maven/pl.unforgiven/superfields@0.19.3
 - pkg:maven/pl.unforgiven/superfields@0.19.3?classifier=sources
+- pkg:maven/pl.unforgiven/superfields@0.19.4
+- pkg:maven/pl.unforgiven/superfields@0.19.4?classifier=sources

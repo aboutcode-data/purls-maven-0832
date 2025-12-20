@@ -5,7 +5,12 @@
 - pkg:maven/com.optimetriks.unio.compose/buttons@18?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/buttons@22?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/buttons@24?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/buttons@34?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/buttons@36?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/buttons@40?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/buttons@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/buttons@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/buttons@68?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/buttons@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/buttons@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/buttons@8?classifier=sources

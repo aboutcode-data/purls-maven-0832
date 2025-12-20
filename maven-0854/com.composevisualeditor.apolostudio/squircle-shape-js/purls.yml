@@ -7,6 +7,8 @@
 - pkg:maven/com.composevisualeditor.apolostudio/squircle-shape-js@1.8.0%2Bdev1981?classifier=sources
 - pkg:maven/com.composevisualeditor.apolostudio/squircle-shape-js@1.8.0%2Bdev1987?classifier=sources
 - pkg:maven/com.composevisualeditor.apolostudio/squircle-shape-js@1.8.0-alpha01?classifier=sources
+- pkg:maven/com.composevisualeditor.apolostudio/squircle-shape-js@1.8.0-alpha02?classifier=sources
 - pkg:maven/com.composevisualeditor.apolostudio/squircle-shape-js@1.8.0-dev1920?classifier=sources
 - pkg:maven/com.composevisualeditor.apolostudio/squircle-shape-js@1.8.0-dev1989?classifier=sources
 - pkg:maven/com.composevisualeditor.apolostudio/squircle-shape-js@1.8.0-dev1991?classifier=sources
+- pkg:maven/com.composevisualeditor.apolostudio/squircle-shape-js@1.8.0-dev2004?classifier=sources

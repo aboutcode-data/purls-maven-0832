@@ -341,6 +341,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.10.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.10.3
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.10.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.10.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.10.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.2.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.2.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.2.0-rc-1?classifier=sources
@@ -387,3 +391,9 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.9.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.9.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-job-api@16.9.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@17.0.0
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@17.0.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@17.0.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@17.0.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@17.1.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-job-api@17.1.0-rc-1?classifier=sources

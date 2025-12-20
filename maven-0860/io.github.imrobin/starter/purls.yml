@@ -6,3 +6,5 @@
 - pkg:maven/io.github.imrobin/starter@3.0.2?classifier=sources
 - pkg:maven/io.github.imrobin/starter@3.0.3
 - pkg:maven/io.github.imrobin/starter@3.0.3?classifier=sources
+- pkg:maven/io.github.imrobin/starter@3.0.5
+- pkg:maven/io.github.imrobin/starter@3.0.5?classifier=sources

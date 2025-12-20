@@ -32,6 +32,10 @@
 - pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.115.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.116.Final
 - pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.116.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.117.Final
+- pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.117.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.118.Final
+- pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.118.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.13.Final
 - pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.13.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.1.14.Final
@@ -220,3 +224,7 @@
 - pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.2.0.Beta1?classifier=sources
 - pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.2.0.RC1
 - pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.2.0.RC1?classifier=sources
+- pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.2.0.RC2
+- pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.2.0.RC2?classifier=sources
+- pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.2.0.RC3
+- pkg:maven/io.netty/netty-transport-native-unix-common-tests@4.2.0.RC3?classifier=sources

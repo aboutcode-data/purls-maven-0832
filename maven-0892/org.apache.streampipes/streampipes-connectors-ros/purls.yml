@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.streampipes/streampipes-connectors-ros@0.97.0
+- pkg:maven/org.apache.streampipes/streampipes-connectors-ros@0.97.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/terser-webpack-plugin@5.3.10?classifier=sources
+- pkg:maven/org.mvnpm/terser-webpack-plugin@5.3.11?classifier=sources

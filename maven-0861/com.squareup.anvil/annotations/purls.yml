@@ -71,3 +71,4 @@
 - pkg:maven/com.squareup.anvil/annotations@2.5.0-beta10?classifier=sources
 - pkg:maven/com.squareup.anvil/annotations@2.5.0-beta11?classifier=sources
 - pkg:maven/com.squareup.anvil/annotations@2.5.0?classifier=sources
+- pkg:maven/com.squareup.anvil/annotations@2.5.1?classifier=sources

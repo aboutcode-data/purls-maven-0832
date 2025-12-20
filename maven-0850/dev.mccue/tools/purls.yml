@@ -17,3 +17,5 @@
 - pkg:maven/dev.mccue/tools@2024.08.28?classifier=sources
 - pkg:maven/dev.mccue/tools@2024.08.30?classifier=sources
 - pkg:maven/dev.mccue/tools@2024.09.03?classifier=sources
+- pkg:maven/dev.mccue/tools@2025.01.20?classifier=sources
+- pkg:maven/dev.mccue/tools@2025.01.21?classifier=sources

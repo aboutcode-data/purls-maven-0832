@@ -8,6 +8,7 @@
 - pkg:maven/org.webjars.npm/material__touch-target@13.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__touch-target@14.0.0
 - pkg:maven/org.webjars.npm/material__touch-target@14.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__touch-target@15.0.0-canary.fff4066c6.0
 - pkg:maven/org.webjars.npm/material__touch-target@4.0.0
 - pkg:maven/org.webjars.npm/material__touch-target@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__touch-target@6.0.0

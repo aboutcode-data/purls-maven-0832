@@ -84,4 +84,6 @@
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/identity-conditional-auth-functions@1.2.63?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/identity-conditional-auth-functions@1.2.64?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/identity-conditional-auth-functions@1.2.71?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/identity-conditional-auth-functions@1.2.72?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/identity-conditional-auth-functions@1.2.73?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/identity-conditional-auth-functions@1.2.8?classifier=source-release&type=zip

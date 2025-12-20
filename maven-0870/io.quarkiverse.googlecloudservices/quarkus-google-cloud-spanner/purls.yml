@@ -53,6 +53,7 @@
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-spanner@2.12.1
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-spanner@2.12.1?classifier=sources
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-spanner@2.13.0?classifier=sources
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-spanner@2.14.0?classifier=sources
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-spanner@2.2.0
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-spanner@2.2.0?classifier=sources
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-spanner@2.3.0

@@ -4,4 +4,6 @@
 - pkg:maven/se.signatureservice.support/signservice-transactionsigning@2403.2?classifier=sources
 - pkg:maven/se.signatureservice.support/signservice-transactionsigning@2403.3?classifier=sources
 - pkg:maven/se.signatureservice.support/signservice-transactionsigning@2408.1?classifier=sources
+- pkg:maven/se.signatureservice.support/signservice-transactionsigning@2501.2?classifier=sources
+- pkg:maven/se.signatureservice.support/signservice-transactionsigning@2502.1?classifier=sources
 - pkg:maven/se.signatureservice.support/signservice-transactionsigning@v2402.1?classifier=sources

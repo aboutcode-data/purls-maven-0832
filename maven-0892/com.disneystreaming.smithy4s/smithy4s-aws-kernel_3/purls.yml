@@ -389,6 +389,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-kernel_3@0.18.27?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-kernel_3@0.18.28
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-kernel_3@0.18.28?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-kernel_3@0.18.29
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-kernel_3@0.18.29?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-kernel_3@0.18.2?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-kernel_3@0.18.3
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-kernel_3@0.18.3?classifier=sources

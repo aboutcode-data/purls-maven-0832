@@ -1,5 +1,7 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@14.1.2-0-0
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@14.1.2-0-0?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@14.1.2-0-1
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@14.1.2-0-1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@21.12
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@21.12.1
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@21.12.1?classifier=sources
@@ -20,6 +22,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@22.06.1
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@22.06.10
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@22.06.10?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@22.06.11
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@22.06.11?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@22.06.1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@22.06.2
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@22.06.2?classifier=sources
@@ -55,4 +59,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@24.03.1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@24.03?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@24.09
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@24.09.1
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@24.09.1?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@24.09.2
+- pkg:maven/com.oracle.coherence.ce/coherence-concurrent@24.09.2?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-concurrent@24.09?classifier=sources

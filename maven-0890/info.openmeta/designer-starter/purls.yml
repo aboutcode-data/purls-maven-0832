@@ -4,6 +4,9 @@
 - pkg:maven/info.openmeta/designer-starter@0.8.12?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.13?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.14?classifier=sources
+- pkg:maven/info.openmeta/designer-starter@0.8.15?classifier=sources
+- pkg:maven/info.openmeta/designer-starter@0.8.16?classifier=sources
+- pkg:maven/info.openmeta/designer-starter@0.8.17?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.1?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.4?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.5?classifier=sources

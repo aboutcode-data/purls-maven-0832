@@ -1,0 +1,2 @@
+- pkg:maven/nl.gn0s1s/sbt-banner_2.12_1.0@0.0.1
+- pkg:maven/nl.gn0s1s/sbt-banner_2.12_1.0@0.0.1?classifier=sources

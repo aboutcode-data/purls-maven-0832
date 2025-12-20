@@ -890,6 +890,10 @@
 - pkg:maven/ch.epfl.scala/bloop-config_2.12@2.1.0?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-config_2.12@2.2.0
 - pkg:maven/ch.epfl.scala/bloop-config_2.12@2.2.0?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-config_2.12@2.3.0
+- pkg:maven/ch.epfl.scala/bloop-config_2.12@2.3.0?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-config_2.12@2.3.1
+- pkg:maven/ch.epfl.scala/bloop-config_2.12@2.3.1?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-config_2.12@211-e837f78e
 - pkg:maven/ch.epfl.scala/bloop-config_2.12@211-e837f78e?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-config_2.12@217-c2115241

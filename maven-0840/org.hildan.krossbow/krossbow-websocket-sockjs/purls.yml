@@ -54,3 +54,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs@8.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs@8.1.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs@8.2.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs@9.0.0?classifier=sources

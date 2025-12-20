@@ -14,3 +14,5 @@
 - pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.21?classifier=sources
 - pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.22
 - pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.22?classifier=sources
+- pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.23
+- pkg:maven/software.amazon.glue/schema-registry-serde-msk-iam@1.1.23?classifier=sources

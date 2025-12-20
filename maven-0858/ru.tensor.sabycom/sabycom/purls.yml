@@ -9,3 +9,4 @@
 - pkg:maven/ru.tensor.sabycom/sabycom@24.4141.60?classifier=sources
 - pkg:maven/ru.tensor.sabycom/sabycom@24.5218.46?classifier=sources
 - pkg:maven/ru.tensor.sabycom/sabycom@24.6204.41?classifier=sources
+- pkg:maven/ru.tensor.sabycom/sabycom@24.6241.76?classifier=sources

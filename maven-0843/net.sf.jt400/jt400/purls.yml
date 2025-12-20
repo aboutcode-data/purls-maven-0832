@@ -33,6 +33,8 @@
 - pkg:maven/net.sf.jt400/jt400@20.0.7?classifier=sources
 - pkg:maven/net.sf.jt400/jt400@20.0.8
 - pkg:maven/net.sf.jt400/jt400@20.0.8?classifier=sources
+- pkg:maven/net.sf.jt400/jt400@21.0.0
+- pkg:maven/net.sf.jt400/jt400@21.0.0?classifier=sources
 - pkg:maven/net.sf.jt400/jt400@6.1
 - pkg:maven/net.sf.jt400/jt400@6.2
 - pkg:maven/net.sf.jt400/jt400@6.3

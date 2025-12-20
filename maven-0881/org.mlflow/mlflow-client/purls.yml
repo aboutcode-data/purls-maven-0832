@@ -166,6 +166,12 @@
 - pkg:maven/org.mlflow/mlflow-client@2.2.1?classifier=sources
 - pkg:maven/org.mlflow/mlflow-client@2.2.2
 - pkg:maven/org.mlflow/mlflow-client@2.2.2?classifier=sources
+- pkg:maven/org.mlflow/mlflow-client@2.20.0
+- pkg:maven/org.mlflow/mlflow-client@2.20.0?classifier=sources
+- pkg:maven/org.mlflow/mlflow-client@2.20.1
+- pkg:maven/org.mlflow/mlflow-client@2.20.1?classifier=sources
+- pkg:maven/org.mlflow/mlflow-client@2.20.2
+- pkg:maven/org.mlflow/mlflow-client@2.20.2?classifier=sources
 - pkg:maven/org.mlflow/mlflow-client@2.3.0
 - pkg:maven/org.mlflow/mlflow-client@2.3.0?classifier=sources
 - pkg:maven/org.mlflow/mlflow-client@2.3.1

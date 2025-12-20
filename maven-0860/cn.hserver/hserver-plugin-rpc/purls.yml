@@ -64,3 +64,7 @@
 - pkg:maven/cn.hserver/hserver-plugin-rpc@3.6.M4?classifier=sources
 - pkg:maven/cn.hserver/hserver-plugin-rpc@3.6.M6
 - pkg:maven/cn.hserver/hserver-plugin-rpc@3.6.M6?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-rpc@3.6.M8
+- pkg:maven/cn.hserver/hserver-plugin-rpc@3.6.M8?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-rpc@3.6.M9
+- pkg:maven/cn.hserver/hserver-plugin-rpc@3.6.M9?classifier=sources

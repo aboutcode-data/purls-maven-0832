@@ -140,3 +140,5 @@
 - pkg:maven/de.gematik.test/tiger-testenv-mgr@3.4.7?classifier=sources
 - pkg:maven/de.gematik.test/tiger-testenv-mgr@3.5.0
 - pkg:maven/de.gematik.test/tiger-testenv-mgr@3.5.0?classifier=sources
+- pkg:maven/de.gematik.test/tiger-testenv-mgr@3.6.0
+- pkg:maven/de.gematik.test/tiger-testenv-mgr@3.6.0?classifier=sources

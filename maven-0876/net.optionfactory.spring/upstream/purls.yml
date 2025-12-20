@@ -95,6 +95,12 @@
 - pkg:maven/net.optionfactory.spring/upstream@21.0
 - pkg:maven/net.optionfactory.spring/upstream@21.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@21.1
+- pkg:maven/net.optionfactory.spring/upstream@21.10
+- pkg:maven/net.optionfactory.spring/upstream@21.10?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@21.11
+- pkg:maven/net.optionfactory.spring/upstream@21.11?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@21.12
+- pkg:maven/net.optionfactory.spring/upstream@21.12?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@21.1?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@21.2
 - pkg:maven/net.optionfactory.spring/upstream@21.2?classifier=sources
@@ -102,6 +108,14 @@
 - pkg:maven/net.optionfactory.spring/upstream@21.4?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@21.5
 - pkg:maven/net.optionfactory.spring/upstream@21.5?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@21.6
+- pkg:maven/net.optionfactory.spring/upstream@21.6?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@21.7
+- pkg:maven/net.optionfactory.spring/upstream@21.7?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@21.8
+- pkg:maven/net.optionfactory.spring/upstream@21.8?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@21.9
+- pkg:maven/net.optionfactory.spring/upstream@21.9?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@3.0
 - pkg:maven/net.optionfactory.spring/upstream@3.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@4.0

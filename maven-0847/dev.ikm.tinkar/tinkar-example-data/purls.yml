@@ -1,0 +1,4 @@
+- pkg:maven/dev.ikm.tinkar/tinkar-example-data@1.4.0
+- pkg:maven/dev.ikm.tinkar/tinkar-example-data@1.4.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/tinkar-example-data@1.5.0
+- pkg:maven/dev.ikm.tinkar/tinkar-example-data@1.5.0?classifier=sources

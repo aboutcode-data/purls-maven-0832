@@ -44,6 +44,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@6.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@6.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@6.11.0
@@ -180,6 +182,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@8.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@8.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@8.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jasperreports@8.17.0
+- pkg:maven/org.wicketstuff/wicketstuff-jasperreports@8.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@8.3.0
@@ -236,6 +240,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@9.19.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@9.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jasperreports@9.20.0
+- pkg:maven/org.wicketstuff/wicketstuff-jasperreports@9.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@9.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@9.4.0

@@ -1,7 +1,16 @@
 - pkg:maven/com.openai/openai-java-core@0.10.0?classifier=sources
 - pkg:maven/com.openai/openai-java-core@0.11.0?classifier=sources
+- pkg:maven/com.openai/openai-java-core@0.11.10?classifier=sources
 - pkg:maven/com.openai/openai-java-core@0.11.1?classifier=sources
 - pkg:maven/com.openai/openai-java-core@0.11.2?classifier=sources
+- pkg:maven/com.openai/openai-java-core@0.11.3?classifier=sources
+- pkg:maven/com.openai/openai-java-core@0.11.5?classifier=sources
+- pkg:maven/com.openai/openai-java-core@0.11.6?classifier=sources
+- pkg:maven/com.openai/openai-java-core@0.11.7?classifier=sources
+- pkg:maven/com.openai/openai-java-core@0.11.8?classifier=sources
+- pkg:maven/com.openai/openai-java-core@0.11.9?classifier=sources
+- pkg:maven/com.openai/openai-java-core@0.12.0?classifier=sources
+- pkg:maven/com.openai/openai-java-core@0.13.0?classifier=sources
 - pkg:maven/com.openai/openai-java-core@0.7.1?classifier=sources
 - pkg:maven/com.openai/openai-java-core@0.7.2?classifier=sources
 - pkg:maven/com.openai/openai-java-core@0.7.3?classifier=sources

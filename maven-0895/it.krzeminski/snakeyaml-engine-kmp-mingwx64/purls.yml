@@ -9,3 +9,4 @@
 - pkg:maven/it.krzeminski/snakeyaml-engine-kmp-mingwx64@3.0.2?classifier=sources
 - pkg:maven/it.krzeminski/snakeyaml-engine-kmp-mingwx64@3.0.3?classifier=sources
 - pkg:maven/it.krzeminski/snakeyaml-engine-kmp-mingwx64@3.1.0?classifier=sources
+- pkg:maven/it.krzeminski/snakeyaml-engine-kmp-mingwx64@3.1.1?classifier=sources

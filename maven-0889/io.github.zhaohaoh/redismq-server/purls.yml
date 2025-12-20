@@ -25,4 +25,6 @@
 - pkg:maven/io.github.zhaohaoh/redismq-server@0.5.0-beta3?classifier=sources
 - pkg:maven/io.github.zhaohaoh/redismq-server@0.5.0-beta4
 - pkg:maven/io.github.zhaohaoh/redismq-server@0.5.0-beta4?classifier=sources
+- pkg:maven/io.github.zhaohaoh/redismq-server@0.5.0-beta5
+- pkg:maven/io.github.zhaohaoh/redismq-server@0.5.0-beta5?classifier=sources
 - pkg:maven/io.github.zhaohaoh/redismq-server@0.5.0-beta?classifier=sources

@@ -94,3 +94,5 @@
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@3.0.3?classifier=sources
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@3.0.4
 - pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@3.0.4?classifier=sources
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@4.0.0
+- pkg:maven/org.apache.wss4j/wss4j-ws-security-stax@4.0.0?classifier=sources

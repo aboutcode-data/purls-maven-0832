@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/ag-charts-types@10.2.0?classifier=sources
+- pkg:maven/org.mvnpm/ag-charts-types@11.1.0?classifier=sources

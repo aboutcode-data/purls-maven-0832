@@ -216,3 +216,7 @@
 - pkg:maven/org.redisson/redisson-hibernate-53@3.42.0?classifier=sources
 - pkg:maven/org.redisson/redisson-hibernate-53@3.43.0
 - pkg:maven/org.redisson/redisson-hibernate-53@3.43.0?classifier=sources
+- pkg:maven/org.redisson/redisson-hibernate-53@3.44.0
+- pkg:maven/org.redisson/redisson-hibernate-53@3.44.0?classifier=sources
+- pkg:maven/org.redisson/redisson-hibernate-53@3.45.0
+- pkg:maven/org.redisson/redisson-hibernate-53@3.45.0?classifier=sources

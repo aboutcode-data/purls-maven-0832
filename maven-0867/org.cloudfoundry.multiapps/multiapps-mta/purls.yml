@@ -56,6 +56,8 @@
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-mta@2.26.0?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-mta@2.27.0
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-mta@2.27.0?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-mta@2.28.0
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-mta@2.28.0?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-mta@2.3.0
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-mta@2.3.0?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-mta@2.3.1

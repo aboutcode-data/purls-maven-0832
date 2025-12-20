@@ -18,6 +18,7 @@
 - pkg:maven/com.powersync/connector-supabase-iosarm64@1.0.0-BETA13?classifier=sources
 - pkg:maven/com.powersync/connector-supabase-iosarm64@1.0.0-BETA14?classifier=sources
 - pkg:maven/com.powersync/connector-supabase-iosarm64@1.0.0-BETA15?classifier=sources
+- pkg:maven/com.powersync/connector-supabase-iosarm64@1.0.0-BETA16?classifier=sources
 - pkg:maven/com.powersync/connector-supabase-iosarm64@1.0.0-BETA1?classifier=sources
 - pkg:maven/com.powersync/connector-supabase-iosarm64@1.0.0-BETA2?classifier=sources
 - pkg:maven/com.powersync/connector-supabase-iosarm64@1.0.0-BETA3?classifier=sources

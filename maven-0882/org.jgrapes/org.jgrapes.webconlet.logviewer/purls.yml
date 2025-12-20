@@ -1,3 +1,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.logviewer@0.2.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.logviewer@1.0.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.logviewer@1.1.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.logviewer@1.1.1?classifier=sources
