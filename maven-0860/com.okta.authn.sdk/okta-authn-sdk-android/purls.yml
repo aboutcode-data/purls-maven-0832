@@ -10,3 +10,4 @@
 - pkg:maven/com.okta.authn.sdk/okta-authn-sdk-android@2.0.7
 - pkg:maven/com.okta.authn.sdk/okta-authn-sdk-android@2.0.8
 - pkg:maven/com.okta.authn.sdk/okta-authn-sdk-android@2.0.9
+- pkg:maven/com.okta.authn.sdk/okta-authn-sdk-android@3.0.0

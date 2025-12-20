@@ -12,3 +12,10 @@
 - pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@1.0.7?classifier=sources
 - pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@1.0.8?classifier=sources
 - pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@1.0.9?classifier=sources
+- pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@2.0.0-alpha01?classifier=sources
+- pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@2.0.0-alpha02?classifier=sources
+- pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@2.0.0-alpha03?classifier=sources
+- pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@2.0.0-lts?classifier=sources
+- pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@2.0.1-lts?classifier=sources
+- pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@2.0.2-lts?classifier=sources
+- pkg:maven/cn.lalaki.repack/cn.lalaki.repack.gradle.plugin@3.0.0-LTS?classifier=sources

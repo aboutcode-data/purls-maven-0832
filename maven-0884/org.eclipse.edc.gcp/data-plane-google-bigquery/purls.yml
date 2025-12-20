@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.edc.gcp/data-plane-google-bigquery@0.8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lyxnx/util-macosx64@1.3.2?classifier=sources
+- pkg:maven/io.github.lyxnx/util-macosx64@1.4.0?classifier=sources

@@ -6,5 +6,7 @@
 - pkg:maven/dev.cheleb/sbt-plantuml_2.12_1.0@0.0.12?classifier=sources
 - pkg:maven/dev.cheleb/sbt-plantuml_2.12_1.0@0.0.13
 - pkg:maven/dev.cheleb/sbt-plantuml_2.12_1.0@0.0.13?classifier=sources
+- pkg:maven/dev.cheleb/sbt-plantuml_2.12_1.0@0.0.15
+- pkg:maven/dev.cheleb/sbt-plantuml_2.12_1.0@0.0.15?classifier=sources
 - pkg:maven/dev.cheleb/sbt-plantuml_2.12_1.0@0.0.9
 - pkg:maven/dev.cheleb/sbt-plantuml_2.12_1.0@0.0.9?classifier=sources

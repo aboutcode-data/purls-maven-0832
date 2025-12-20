@@ -34,3 +34,5 @@
 - pkg:maven/com.github.cornerman/sloth_sjs1_2.13@0.7.4?classifier=sources
 - pkg:maven/com.github.cornerman/sloth_sjs1_2.13@0.7.5
 - pkg:maven/com.github.cornerman/sloth_sjs1_2.13@0.7.5?classifier=sources
+- pkg:maven/com.github.cornerman/sloth_sjs1_2.13@0.8.0
+- pkg:maven/com.github.cornerman/sloth_sjs1_2.13@0.8.0?classifier=sources

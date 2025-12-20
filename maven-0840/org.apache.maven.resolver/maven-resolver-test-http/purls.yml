@@ -1,3 +1,4 @@
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0-alpha-10
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0-alpha-10?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0-alpha-11
@@ -10,3 +11,4 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0-alpha-7?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0-alpha-8
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0-alpha-8?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-http@2.0.0?classifier=sources

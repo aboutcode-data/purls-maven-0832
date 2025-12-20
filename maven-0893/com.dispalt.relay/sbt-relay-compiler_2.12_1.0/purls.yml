@@ -2,3 +2,5 @@
 - pkg:maven/com.dispalt.relay/sbt-relay-compiler_2.12_1.0@0.40.1?classifier=sources
 - pkg:maven/com.dispalt.relay/sbt-relay-compiler_2.12_1.0@0.40.2
 - pkg:maven/com.dispalt.relay/sbt-relay-compiler_2.12_1.0@0.40.2?classifier=sources
+- pkg:maven/com.dispalt.relay/sbt-relay-compiler_2.12_1.0@0.41.0
+- pkg:maven/com.dispalt.relay/sbt-relay-compiler_2.12_1.0@0.41.0?classifier=sources

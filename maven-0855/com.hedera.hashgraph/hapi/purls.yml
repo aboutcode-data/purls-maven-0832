@@ -15,3 +15,6 @@
 - pkg:maven/com.hedera.hashgraph/hapi@0.47.2?classifier=sources
 - pkg:maven/com.hedera.hashgraph/hapi@0.47.3?classifier=sources
 - pkg:maven/com.hedera.hashgraph/hapi@0.48.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/hapi@0.51.3?classifier=sources
+- pkg:maven/com.hedera.hashgraph/hapi@0.51.4?classifier=sources
+- pkg:maven/com.hedera.hashgraph/hapi@0.51.5?classifier=sources

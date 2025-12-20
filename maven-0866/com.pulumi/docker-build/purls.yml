@@ -16,3 +16,12 @@
 - pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1717166482?classifier=sources
 - pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1718373318?classifier=sources
 - pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1718739808?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1719350244?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1719357078?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1719425222?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1719430374?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1719505950?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1719522445?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1720714675?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1720714762?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.1.0-alpha.1720827659?classifier=sources

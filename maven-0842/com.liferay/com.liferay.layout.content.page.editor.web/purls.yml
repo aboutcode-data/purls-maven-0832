@@ -1235,6 +1235,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.2
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.20
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.200?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.201?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.web@3.0.21

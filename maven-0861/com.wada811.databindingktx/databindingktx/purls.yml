@@ -1,1 +1,2 @@
 - pkg:maven/com.wada811.databindingktx/databindingktx@7.0.0?classifier=sources
+- pkg:maven/com.wada811.databindingktx/databindingktx@8.0.0?classifier=sources

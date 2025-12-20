@@ -120,3 +120,5 @@
 - pkg:maven/com.aliyun/vpc20160428@7.8.7?classifier=sources
 - pkg:maven/com.aliyun/vpc20160428@7.8.8
 - pkg:maven/com.aliyun/vpc20160428@7.8.8?classifier=sources
+- pkg:maven/com.aliyun/vpc20160428@7.9.0
+- pkg:maven/com.aliyun/vpc20160428@7.9.0?classifier=sources

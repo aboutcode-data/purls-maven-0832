@@ -2580,6 +2580,10 @@
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.0.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.1.0
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.10.0
+- pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.10.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.10.1
+- pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.10.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.3.0
@@ -2606,6 +2610,8 @@
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.8.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.9.0
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.9.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.9.1
+- pkg:maven/com.hashicorp/cdktf-provider-newrelic@12.9.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-newrelic@2.0.1

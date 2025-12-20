@@ -21,6 +21,8 @@
 - pkg:maven/com.truvity/sdk@0.26.1-RC3?classifier=sources
 - pkg:maven/com.truvity/sdk@0.26.1-RC4?classifier=sources
 - pkg:maven/com.truvity/sdk@0.27.1-RC1?classifier=sources
+- pkg:maven/com.truvity/sdk@0.27.15-RC1?classifier=sources
+- pkg:maven/com.truvity/sdk@0.27.16-RC1?classifier=sources
 - pkg:maven/com.truvity/sdk@0.27.2-RC1?classifier=sources
 - pkg:maven/com.truvity/sdk@0.27.3-RC1?classifier=sources
 - pkg:maven/com.truvity/sdk@0.27.9-RC1?classifier=sources

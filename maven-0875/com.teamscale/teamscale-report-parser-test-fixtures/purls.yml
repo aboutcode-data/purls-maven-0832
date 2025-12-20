@@ -139,6 +139,9 @@
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.6.11?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.6.12?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.6.13?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.6.14?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.6.15?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.6.16?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.6.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.6.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.6.3?classifier=sources
@@ -152,6 +155,7 @@
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.0-rc2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.0-rc3?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.10?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.3?classifier=sources
@@ -159,8 +163,15 @@
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.5?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.6?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.7?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.8?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.7.9?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.8.0-rc1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.8.0-rc2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.8.0-rc3?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.8.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.8.1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.8.2?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.8.3?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.8.4?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.9.0-rc1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-report-parser-test-fixtures@9.9.0-rc2?classifier=sources

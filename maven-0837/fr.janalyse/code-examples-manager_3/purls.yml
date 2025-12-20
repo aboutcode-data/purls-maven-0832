@@ -42,3 +42,5 @@
 - pkg:maven/fr.janalyse/code-examples-manager_3@2.4.3?classifier=sources
 - pkg:maven/fr.janalyse/code-examples-manager_3@2.4.4
 - pkg:maven/fr.janalyse/code-examples-manager_3@2.4.4?classifier=sources
+- pkg:maven/fr.janalyse/code-examples-manager_3@2.4.5
+- pkg:maven/fr.janalyse/code-examples-manager_3@2.4.5?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/com.vaadin/vaadin-testbench-core-junit5@9.3.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-testbench-core-junit5@9.3.1
 - pkg:maven/com.vaadin/vaadin-testbench-core-junit5@9.3.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-testbench-core-junit5@9.3.2
+- pkg:maven/com.vaadin/vaadin-testbench-core-junit5@9.3.2?classifier=sources

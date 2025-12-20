@@ -770,7 +770,15 @@
 - pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.357.16?classifier=sources
 - pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.358.34?classifier=sources
 - pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.360.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.362.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.363.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.364.5?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.365.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.367.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.368.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.369.8?classifier=sources
 - pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.37.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.371.16?classifier=sources
 - pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.39.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.4.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/orchestrator-restapi@8.40.27?classifier=sources

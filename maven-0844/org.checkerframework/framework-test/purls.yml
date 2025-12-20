@@ -84,6 +84,8 @@
 - pkg:maven/org.checkerframework/framework-test@3.42.0?classifier=sources
 - pkg:maven/org.checkerframework/framework-test@3.43.0?classifier=sources
 - pkg:maven/org.checkerframework/framework-test@3.44.0?classifier=sources
+- pkg:maven/org.checkerframework/framework-test@3.45.0?classifier=sources
+- pkg:maven/org.checkerframework/framework-test@3.46.0?classifier=sources
 - pkg:maven/org.checkerframework/framework-test@3.5.0
 - pkg:maven/org.checkerframework/framework-test@3.5.0?classifier=sources
 - pkg:maven/org.checkerframework/framework-test@3.6.0

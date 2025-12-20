@@ -1,0 +1,4 @@
+- pkg:maven/com.atiurin/ultron-compose-wasm-js@2.5.0-alpha07?classifier=sources
+- pkg:maven/com.atiurin/ultron-compose-wasm-js@2.5.0-alpha08?classifier=sources
+- pkg:maven/com.atiurin/ultron-compose-wasm-js@2.5.0-alpha09?classifier=sources
+- pkg:maven/com.atiurin/ultron-compose-wasm-js@2.5.0-alpha10?classifier=sources

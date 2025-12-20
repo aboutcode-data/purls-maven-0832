@@ -20,3 +20,5 @@
 - pkg:maven/ru.quipy/tiny-mongo-event-store@2.7.0?classifier=sources
 - pkg:maven/ru.quipy/tiny-mongo-event-store@2.7.1
 - pkg:maven/ru.quipy/tiny-mongo-event-store@2.7.1?classifier=sources
+- pkg:maven/ru.quipy/tiny-mongo-event-store@2.7.3
+- pkg:maven/ru.quipy/tiny-mongo-event-store@2.7.3?classifier=sources

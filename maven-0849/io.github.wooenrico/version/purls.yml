@@ -36,3 +36,5 @@
 - pkg:maven/io.github.wooenrico/version@1.0.3?classifier=sources
 - pkg:maven/io.github.wooenrico/version@1.0.4.RC1
 - pkg:maven/io.github.wooenrico/version@1.0.4.RC1?classifier=sources
+- pkg:maven/io.github.wooenrico/version@1.0.4.RC2
+- pkg:maven/io.github.wooenrico/version@1.0.4.RC2?classifier=sources

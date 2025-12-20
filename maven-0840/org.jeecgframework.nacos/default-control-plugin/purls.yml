@@ -1,0 +1,2 @@
+- pkg:maven/org.jeecgframework.nacos/default-control-plugin@2.3.2
+- pkg:maven/org.jeecgframework.nacos/default-control-plugin@2.3.2?classifier=sources

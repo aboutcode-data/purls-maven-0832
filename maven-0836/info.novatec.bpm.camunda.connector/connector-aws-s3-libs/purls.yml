@@ -1,0 +1,2 @@
+- pkg:maven/info.novatec.bpm.camunda.connector/connector-aws-s3-libs@1.6.0
+- pkg:maven/info.novatec.bpm.camunda.connector/connector-aws-s3-libs@1.6.0?classifier=sources

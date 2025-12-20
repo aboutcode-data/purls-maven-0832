@@ -1,3 +1,5 @@
 - pkg:maven/dev.kord.cache/cache-map-mingwx64@0.5.0?classifier=sources
 - pkg:maven/dev.kord.cache/cache-map-mingwx64@0.5.1?classifier=sources
+- pkg:maven/dev.kord.cache/cache-map-mingwx64@0.5.3?classifier=sources
+- pkg:maven/dev.kord.cache/cache-map-mingwx64@0.5.4?classifier=sources
 - pkg:maven/dev.kord.cache/cache-map-mingwx64@unspecified?classifier=sources

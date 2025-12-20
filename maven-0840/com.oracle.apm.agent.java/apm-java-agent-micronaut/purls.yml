@@ -10,6 +10,8 @@
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.12.1.3?classifier=sources
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.13.0.387
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.13.0.387?classifier=sources
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.14.0.455
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.14.0.455?classifier=sources
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.7.2976
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.7.2976?classifier=sources
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-micronaut@1.8.3326

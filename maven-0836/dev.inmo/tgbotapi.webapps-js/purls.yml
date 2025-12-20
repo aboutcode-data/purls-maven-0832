@@ -24,6 +24,9 @@
 - pkg:maven/dev.inmo/tgbotapi.webapps-js@13.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-js@14.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-js@14.0.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps-js@14.1.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps-js@15.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps-js@15.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-js@2.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-js@2.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps-js@2.0.2?classifier=sources

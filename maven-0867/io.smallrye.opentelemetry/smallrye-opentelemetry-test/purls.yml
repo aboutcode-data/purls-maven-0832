@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-test@2.7.0
+- pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-test@2.7.0?classifier=sources

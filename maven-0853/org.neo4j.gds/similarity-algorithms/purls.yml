@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.gds/similarity-algorithms@2.7.0?classifier=sources
+- pkg:maven/org.neo4j.gds/similarity-algorithms@2.8.0?classifier=sources

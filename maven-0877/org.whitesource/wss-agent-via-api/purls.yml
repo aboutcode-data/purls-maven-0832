@@ -265,4 +265,6 @@
 - pkg:maven/org.whitesource/wss-agent-via-api@2.9.9.89?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-via-api@2.9.9.90
 - pkg:maven/org.whitesource/wss-agent-via-api@2.9.9.90?classifier=sources
+- pkg:maven/org.whitesource/wss-agent-via-api@2.9.9.97
+- pkg:maven/org.whitesource/wss-agent-via-api@2.9.9.97?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-via-api@2.9.9?classifier=sources

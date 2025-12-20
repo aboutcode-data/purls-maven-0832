@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/select2@4.0.12?classifier=sources
+- pkg:maven/org.mvnpm/select2@4.0.13?classifier=sources

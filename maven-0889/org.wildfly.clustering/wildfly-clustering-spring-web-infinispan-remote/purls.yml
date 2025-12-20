@@ -4,3 +4,5 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-infinispan-remote@11.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-infinispan-remote@12.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-infinispan-remote@12.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-infinispan-remote@13.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-infinispan-remote@13.0.0.Final?classifier=sources

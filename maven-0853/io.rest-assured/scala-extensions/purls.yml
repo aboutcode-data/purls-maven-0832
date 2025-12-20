@@ -1,0 +1,2 @@
+- pkg:maven/io.rest-assured/scala-extensions@5.5.0
+- pkg:maven/io.rest-assured/scala-extensions@5.5.0?classifier=sources

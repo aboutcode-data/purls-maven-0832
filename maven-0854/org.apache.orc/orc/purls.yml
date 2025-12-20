@@ -68,5 +68,6 @@
 - pkg:maven/org.apache.orc/orc@1.9.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@1.9.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@1.9.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.orc/orc@1.9.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.orc/orc@2.0.1?classifier=source-release&type=zip

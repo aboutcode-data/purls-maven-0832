@@ -287,3 +287,7 @@
 - pkg:maven/com.google.protobuf/protobuf-java-util@4.27.0?classifier=sources
 - pkg:maven/com.google.protobuf/protobuf-java-util@4.27.1
 - pkg:maven/com.google.protobuf/protobuf-java-util@4.27.1?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-java-util@4.27.2
+- pkg:maven/com.google.protobuf/protobuf-java-util@4.27.2?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-java-util@4.28.0-RC1
+- pkg:maven/com.google.protobuf/protobuf-java-util@4.28.0-RC1?classifier=sources

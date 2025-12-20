@@ -34,3 +34,9 @@
 - pkg:maven/org.getodk/javarosa@4.3.1?classifier=sources
 - pkg:maven/org.getodk/javarosa@4.3.2
 - pkg:maven/org.getodk/javarosa@4.3.2?classifier=sources
+- pkg:maven/org.getodk/javarosa@4.4.0
+- pkg:maven/org.getodk/javarosa@4.4.0?classifier=sources
+- pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-0c2e073
+- pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-0c2e073?classifier=sources
+- pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-632cc44
+- pkg:maven/org.getodk/javarosa@5.0.0-SNAPSHOT-632cc44?classifier=sources

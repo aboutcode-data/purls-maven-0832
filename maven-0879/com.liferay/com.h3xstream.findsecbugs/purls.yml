@@ -4,6 +4,7 @@
 - pkg:maven/com.liferay/com.h3xstream.findsecbugs@1.10.1.LIFERAY-PATCHED-2
 - pkg:maven/com.liferay/com.h3xstream.findsecbugs@1.10.1.LIFERAY-PATCHED-2?classifier=sources
 - pkg:maven/com.liferay/com.h3xstream.findsecbugs@1.10.1.LIFERAY-PATCHED-2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.h3xstream.findsecbugs@1.13.0.LIFERAY-PATCHED-1?classifier=sources
 - pkg:maven/com.liferay/com.h3xstream.findsecbugs@1.5.0.LIFERAY-PATCHED-1
 - pkg:maven/com.liferay/com.h3xstream.findsecbugs@1.5.0.LIFERAY-PATCHED-1?classifier=sources
 - pkg:maven/com.liferay/com.h3xstream.findsecbugs@1.5.0.LIFERAY-PATCHED-2

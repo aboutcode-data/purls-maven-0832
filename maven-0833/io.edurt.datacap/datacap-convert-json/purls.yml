@@ -1,0 +1,2 @@
+- pkg:maven/io.edurt.datacap/datacap-convert-json@2024.03.7
+- pkg:maven/io.edurt.datacap/datacap-convert-json@2024.03.7?classifier=sources

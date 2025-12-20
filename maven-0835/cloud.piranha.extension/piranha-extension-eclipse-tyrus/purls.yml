@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha.extension/piranha-extension-eclipse-tyrus@24.7.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-eclipse-tyrus@24.7.0?classifier=sources

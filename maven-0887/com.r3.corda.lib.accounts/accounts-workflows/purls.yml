@@ -1,0 +1,2 @@
+- pkg:maven/com.r3.corda.lib.accounts/accounts-workflows@1.1
+- pkg:maven/com.r3.corda.lib.accounts/accounts-workflows@1.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/io.cloudevents/cloudevents-xml@3.0.0
 - pkg:maven/io.cloudevents/cloudevents-xml@3.0.0?classifier=sources
+- pkg:maven/io.cloudevents/cloudevents-xml@4.0.0
+- pkg:maven/io.cloudevents/cloudevents-xml@4.0.0?classifier=sources
+- pkg:maven/io.cloudevents/cloudevents-xml@4.0.1
+- pkg:maven/io.cloudevents/cloudevents-xml@4.0.1?classifier=sources

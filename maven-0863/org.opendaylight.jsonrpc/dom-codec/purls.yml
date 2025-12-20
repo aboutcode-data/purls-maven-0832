@@ -26,3 +26,4 @@
 - pkg:maven/org.opendaylight.jsonrpc/dom-codec@1.15.2?classifier=sources
 - pkg:maven/org.opendaylight.jsonrpc/dom-codec@1.15.3?classifier=sources
 - pkg:maven/org.opendaylight.jsonrpc/dom-codec@1.16.0?classifier=sources
+- pkg:maven/org.opendaylight.jsonrpc/dom-codec@1.16.1?classifier=sources

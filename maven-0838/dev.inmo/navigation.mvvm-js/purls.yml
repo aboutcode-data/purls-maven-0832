@@ -17,3 +17,5 @@
 - pkg:maven/dev.inmo/navigation.mvvm-js@0.3.9?classifier=sources
 - pkg:maven/dev.inmo/navigation.mvvm-js@0.4.0?classifier=sources
 - pkg:maven/dev.inmo/navigation.mvvm-js@0.4.1?classifier=sources
+- pkg:maven/dev.inmo/navigation.mvvm-js@0.5.0?classifier=sources
+- pkg:maven/dev.inmo/navigation.mvvm-js@0.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.arkitik.radix/radix-starter-exposed@v2.2.0
+- pkg:maven/io.arkitik.radix/radix-starter-exposed@v2.2.0?classifier=sources

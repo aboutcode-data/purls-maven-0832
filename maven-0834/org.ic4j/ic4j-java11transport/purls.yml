@@ -32,3 +32,5 @@
 - pkg:maven/org.ic4j/ic4j-java11transport@0.6.8?classifier=sources
 - pkg:maven/org.ic4j/ic4j-java11transport@0.7.0
 - pkg:maven/org.ic4j/ic4j-java11transport@0.7.0?classifier=sources
+- pkg:maven/org.ic4j/ic4j-java11transport@0.7.1
+- pkg:maven/org.ic4j/ic4j-java11transport@0.7.1?classifier=sources

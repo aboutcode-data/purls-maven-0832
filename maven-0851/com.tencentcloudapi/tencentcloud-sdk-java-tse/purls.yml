@@ -16,6 +16,8 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tse@3.1.1042?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tse@3.1.1043
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tse@3.1.1043?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tse@3.1.1057
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tse@3.1.1057?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tse@3.1.240
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tse@3.1.240?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tse@3.1.241

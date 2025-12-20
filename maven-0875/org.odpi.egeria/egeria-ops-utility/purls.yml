@@ -1,1 +1,2 @@
 - pkg:maven/org.odpi.egeria/egeria-ops-utility@4.3?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-ops-utility@5.0?classifier=sources

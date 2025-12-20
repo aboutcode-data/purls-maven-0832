@@ -120,6 +120,8 @@
 - pkg:maven/org.apache.activemq/activemq-amqp@5.18.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-amqp@5.18.4
 - pkg:maven/org.apache.activemq/activemq-amqp@5.18.4?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-amqp@5.18.5
+- pkg:maven/org.apache.activemq/activemq-amqp@5.18.5?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-amqp@5.8.0
 - pkg:maven/org.apache.activemq/activemq-amqp@5.8.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-amqp@5.9.0

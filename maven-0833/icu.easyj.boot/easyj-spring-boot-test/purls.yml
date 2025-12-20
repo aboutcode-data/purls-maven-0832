@@ -129,3 +129,5 @@
 - pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.7.6?classifier=sources
 - pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.7.7
 - pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.7.7?classifier=sources
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.7.8
+- pkg:maven/icu.easyj.boot/easyj-spring-boot-test@0.7.8?classifier=sources

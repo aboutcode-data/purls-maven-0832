@@ -80,5 +80,7 @@
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-service@1.40.1?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-service@1.40.3
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-service@1.40.3?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-service@1.41.0
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-service@1.41.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-service@1.6.0
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-service@1.6.0?classifier=sources

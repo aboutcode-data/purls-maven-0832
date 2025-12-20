@@ -9,3 +9,4 @@
 - pkg:maven/ru.quipy/tiny-event-sourcing@2.6.3?classifier=sources
 - pkg:maven/ru.quipy/tiny-event-sourcing@2.7.0?classifier=sources
 - pkg:maven/ru.quipy/tiny-event-sourcing@2.7.1?classifier=sources
+- pkg:maven/ru.quipy/tiny-event-sourcing@2.7.3?classifier=sources

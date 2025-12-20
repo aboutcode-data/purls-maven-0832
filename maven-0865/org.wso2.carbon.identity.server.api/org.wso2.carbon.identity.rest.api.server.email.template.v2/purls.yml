@@ -30,3 +30,5 @@
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.email.template.v2@1.2.199?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.email.template.v2@1.2.200
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.email.template.v2@1.2.200?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.email.template.v2@1.2.206
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.email.template.v2@1.2.206?classifier=sources

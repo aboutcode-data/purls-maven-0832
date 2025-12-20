@@ -19,3 +19,4 @@
 - pkg:maven/io.github.llamalad7/mixinextras-forge@0.3.6?classifier=sources
 - pkg:maven/io.github.llamalad7/mixinextras-forge@0.4.0-beta.1?classifier=sources
 - pkg:maven/io.github.llamalad7/mixinextras-forge@0.4.0-beta.2?classifier=sources
+- pkg:maven/io.github.llamalad7/mixinextras-forge@0.4.0?classifier=sources

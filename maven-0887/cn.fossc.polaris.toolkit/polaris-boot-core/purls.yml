@@ -1,0 +1,5 @@
+- pkg:maven/cn.fossc.polaris.toolkit/polaris-boot-core@3.2.0?classifier=sources
+- pkg:maven/cn.fossc.polaris.toolkit/polaris-boot-core@3.2.1?classifier=sources
+- pkg:maven/cn.fossc.polaris.toolkit/polaris-boot-core@3.2.2?classifier=sources
+- pkg:maven/cn.fossc.polaris.toolkit/polaris-boot-core@3.2.3?classifier=sources
+- pkg:maven/cn.fossc.polaris.toolkit/polaris-boot-core@3.2.4?classifier=sources

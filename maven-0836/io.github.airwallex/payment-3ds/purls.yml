@@ -13,3 +13,4 @@
 - pkg:maven/io.github.airwallex/payment-3ds@4.4.6?classifier=sources
 - pkg:maven/io.github.airwallex/payment-3ds@4.4.7?classifier=sources
 - pkg:maven/io.github.airwallex/payment-3ds@4.5.0?classifier=sources
+- pkg:maven/io.github.airwallex/payment-3ds@5.0.0?classifier=sources

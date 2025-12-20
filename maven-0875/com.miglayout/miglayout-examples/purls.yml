@@ -4,6 +4,7 @@
 - pkg:maven/com.miglayout/miglayout-examples@11.1?classifier=sources
 - pkg:maven/com.miglayout/miglayout-examples@11.2?classifier=sources
 - pkg:maven/com.miglayout/miglayout-examples@11.3?classifier=sources
+- pkg:maven/com.miglayout/miglayout-examples@11.4?classifier=sources
 - pkg:maven/com.miglayout/miglayout-examples@4.1
 - pkg:maven/com.miglayout/miglayout-examples@4.1?classifier=sources
 - pkg:maven/com.miglayout/miglayout-examples@4.2

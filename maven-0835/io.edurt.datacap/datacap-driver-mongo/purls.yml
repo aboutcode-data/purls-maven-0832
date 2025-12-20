@@ -15,3 +15,4 @@
 - pkg:maven/io.edurt.datacap/datacap-driver-mongo@2024.03.4
 - pkg:maven/io.edurt.datacap/datacap-driver-mongo@2024.03.5
 - pkg:maven/io.edurt.datacap/datacap-driver-mongo@2024.03.6
+- pkg:maven/io.edurt.datacap/datacap-driver-mongo@2024.03.7

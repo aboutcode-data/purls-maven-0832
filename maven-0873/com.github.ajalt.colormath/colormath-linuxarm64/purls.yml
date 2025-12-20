@@ -2,3 +2,4 @@
 - pkg:maven/com.github.ajalt.colormath/colormath-linuxarm64@3.3.3?classifier=sources
 - pkg:maven/com.github.ajalt.colormath/colormath-linuxarm64@3.4.0?classifier=sources
 - pkg:maven/com.github.ajalt.colormath/colormath-linuxarm64@3.5.0?classifier=sources
+- pkg:maven/com.github.ajalt.colormath/colormath-linuxarm64@3.6.0?classifier=sources

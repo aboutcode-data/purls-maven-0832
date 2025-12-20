@@ -40,3 +40,5 @@
 - pkg:maven/com.github.simy4.coregex/coregex-scalacheck_2.13@1.0.7?classifier=sources
 - pkg:maven/com.github.simy4.coregex/coregex-scalacheck_2.13@1.0.8
 - pkg:maven/com.github.simy4.coregex/coregex-scalacheck_2.13@1.0.8?classifier=sources
+- pkg:maven/com.github.simy4.coregex/coregex-scalacheck_2.13@1.0.9
+- pkg:maven/com.github.simy4.coregex/coregex-scalacheck_2.13@1.0.9?classifier=sources

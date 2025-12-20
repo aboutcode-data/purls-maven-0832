@@ -10,3 +10,8 @@
 - pkg:maven/dev.testify/testify-fullscreen@3.0.0-preview03?classifier=sources
 - pkg:maven/dev.testify/testify-fullscreen@3.0.0-preview04?classifier=sources
 - pkg:maven/dev.testify/testify-fullscreen@3.0.0?classifier=sources
+- pkg:maven/dev.testify/testify-fullscreen@3.0.1-alpha01?classifier=sources
+- pkg:maven/dev.testify/testify-fullscreen@3.0.1-alpha02?classifier=sources
+- pkg:maven/dev.testify/testify-fullscreen@3.0.1-alpha03?classifier=sources
+- pkg:maven/dev.testify/testify-fullscreen@3.0.1-alpha04?classifier=sources
+- pkg:maven/dev.testify/testify-fullscreen@3.1.0?classifier=sources

@@ -380,6 +380,8 @@
 - pkg:maven/us.fatehi/schemacrawler@16.21.3?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler@16.21.4
 - pkg:maven/us.fatehi/schemacrawler@16.21.4?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler@16.22.1
+- pkg:maven/us.fatehi/schemacrawler@16.22.1?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler@16.3.0
 - pkg:maven/us.fatehi/schemacrawler@16.3.0?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler@16.3.1

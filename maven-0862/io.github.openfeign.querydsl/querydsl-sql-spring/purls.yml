@@ -8,6 +8,8 @@
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@5.2?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@5.3
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@5.3?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@5.4
+- pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@5.4?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@6.0
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@6.0.0.M1
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@6.0.0.M1?classifier=sources
@@ -34,3 +36,5 @@
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@6.3?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@6.4
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@6.4?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@6.5
+- pkg:maven/io.github.openfeign.querydsl/querydsl-sql-spring@6.5?classifier=sources

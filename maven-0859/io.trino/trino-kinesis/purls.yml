@@ -97,3 +97,5 @@
 - pkg:maven/io.trino/trino-kinesis@448?classifier=sources
 - pkg:maven/io.trino/trino-kinesis@449?classifier=sources
 - pkg:maven/io.trino/trino-kinesis@450?classifier=sources
+- pkg:maven/io.trino/trino-kinesis@451?classifier=sources
+- pkg:maven/io.trino/trino-kinesis@452?classifier=sources

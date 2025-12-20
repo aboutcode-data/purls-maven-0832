@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/bootstrap5-toggle@5.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap5-toggle@5.0.6
 - pkg:maven/org.webjars.npm/bootstrap5-toggle@5.0.6?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap5-toggle@5.1.1

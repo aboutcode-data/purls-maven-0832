@@ -52,6 +52,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@2.66.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@2.72.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@2.72.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@2.73.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@2.73.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.1.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.1.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.10.0
@@ -180,6 +182,12 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.43.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.43.2
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.43.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.44.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.44.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.44.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.44.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.44.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.44.2?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.5.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidocument@3.6.0

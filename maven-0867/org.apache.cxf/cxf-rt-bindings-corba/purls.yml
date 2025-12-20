@@ -364,6 +364,8 @@
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.5.7?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.5.8
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.5.8?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.5.9
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.5.9?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.6.0
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.6.0?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.6.1
@@ -372,6 +374,8 @@
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.6.2?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.6.3
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.6.3?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.6.4
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@3.6.4?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@4.0.0
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@4.0.0?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@4.0.1
@@ -382,3 +386,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@4.0.3?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@4.0.4
 - pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@4.0.4?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@4.0.5
+- pkg:maven/org.apache.cxf/cxf-rt-bindings-corba@4.0.5?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.odpi.egeria/egeria-infrastructure-integration-connector@4.3?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-infrastructure-integration-connector@5.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/next@14.1.2?classifier=sources
+- pkg:maven/org.mvnpm/next@14.2.5?classifier=sources

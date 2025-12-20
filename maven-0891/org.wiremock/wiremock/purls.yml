@@ -21,3 +21,7 @@
 - pkg:maven/org.wiremock/wiremock@3.5.3?classifier=sources
 - pkg:maven/org.wiremock/wiremock@3.5.4?classifier=sources
 - pkg:maven/org.wiremock/wiremock@3.6.0?classifier=sources
+- pkg:maven/org.wiremock/wiremock@3.7.0?classifier=sources
+- pkg:maven/org.wiremock/wiremock@3.8.0?classifier=sources
+- pkg:maven/org.wiremock/wiremock@3.9.0?classifier=sources
+- pkg:maven/org.wiremock/wiremock@3.9.1?classifier=sources

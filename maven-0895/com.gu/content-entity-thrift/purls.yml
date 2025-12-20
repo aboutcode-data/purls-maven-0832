@@ -24,3 +24,4 @@
 - pkg:maven/com.gu/content-entity-thrift@3.0.0-PREVIEW.dbmanual-bump-version-sbt.2024-03-21T1528.e92e09a4
 - pkg:maven/com.gu/content-entity-thrift@3.0.2
 - pkg:maven/com.gu/content-entity-thrift@3.0.3
+- pkg:maven/com.gu/content-entity-thrift@4.0.0

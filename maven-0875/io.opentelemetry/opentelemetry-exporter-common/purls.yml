@@ -25,3 +25,4 @@
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-common@1.37.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-common@1.38.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-common@1.39.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-common@1.40.0?classifier=sources

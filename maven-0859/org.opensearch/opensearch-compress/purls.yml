@@ -4,3 +4,4 @@
 - pkg:maven/org.opensearch/opensearch-compress@2.12.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-compress@2.13.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-compress@2.14.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-compress@2.15.0?classifier=sources

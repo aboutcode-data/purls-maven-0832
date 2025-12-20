@@ -1,1 +1,2 @@
 - pkg:maven/io.github.opensabe-tech/rocketmq-spring-boot-starter@2.2.4?classifier=sources
+- pkg:maven/io.github.opensabe-tech/rocketmq-spring-boot-starter@2.2.5?classifier=sources

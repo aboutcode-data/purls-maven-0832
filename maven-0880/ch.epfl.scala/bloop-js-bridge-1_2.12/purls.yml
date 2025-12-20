@@ -660,3 +660,5 @@
 - pkg:maven/ch.epfl.scala/bloop-js-bridge-1_2.12@1.5.8?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-js-bridge-1_2.12@1.5.9
 - pkg:maven/ch.epfl.scala/bloop-js-bridge-1_2.12@1.5.9?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-js-bridge-1_2.12@1.6.0
+- pkg:maven/ch.epfl.scala/bloop-js-bridge-1_2.12@1.6.0?classifier=sources

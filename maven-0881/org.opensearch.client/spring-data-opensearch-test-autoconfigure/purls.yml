@@ -7,3 +7,4 @@
 - pkg:maven/org.opensearch.client/spring-data-opensearch-test-autoconfigure@1.3.0?classifier=sources
 - pkg:maven/org.opensearch.client/spring-data-opensearch-test-autoconfigure@1.4.0?classifier=sources
 - pkg:maven/org.opensearch.client/spring-data-opensearch-test-autoconfigure@1.5.0?classifier=sources
+- pkg:maven/org.opensearch.client/spring-data-opensearch-test-autoconfigure@1.5.1?classifier=sources

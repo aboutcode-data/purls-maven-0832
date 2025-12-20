@@ -16,3 +16,5 @@
 - pkg:maven/com.scayle.adminapi/AdminAPI@1.18.0?classifier=sources
 - pkg:maven/com.scayle.adminapi/AdminAPI@1.19.0
 - pkg:maven/com.scayle.adminapi/AdminAPI@1.19.0?classifier=sources
+- pkg:maven/com.scayle.adminapi/AdminAPI@1.20.0
+- pkg:maven/com.scayle.adminapi/AdminAPI@1.20.0?classifier=sources

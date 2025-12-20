@@ -193,6 +193,10 @@
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-16-6e0efb?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-17-bc4e04
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-17-bc4e04?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-18-76091f
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-18-76091f?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-19-5aaaad
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-19-5aaaad?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-2-0cf3f9
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-2-0cf3f9?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_mill0.9_2.13@0.5.0-3-3c1ecf

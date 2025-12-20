@@ -50,3 +50,5 @@
 - pkg:maven/com.malliina/util-html_3@6.6.4?classifier=sources
 - pkg:maven/com.malliina/util-html_3@6.7.0
 - pkg:maven/com.malliina/util-html_3@6.7.0?classifier=sources
+- pkg:maven/com.malliina/util-html_3@6.8.0
+- pkg:maven/com.malliina/util-html_3@6.8.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.vitrivr/cottontaildb-core@0.16.6?classifier=sources
+- pkg:maven/org.vitrivr/cottontaildb-core@0.16.7?classifier=sources
