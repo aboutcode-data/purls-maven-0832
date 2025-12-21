@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@2.3.0?classifier=sources
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@2.4.0.javax?classifier=sources
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@2.4.0?classifier=sources
+- pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@2.5.0.javax?classifier=sources
+- pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server@2.5.0?classifier=sources

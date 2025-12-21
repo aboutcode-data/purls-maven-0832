@@ -9,3 +9,4 @@
 - pkg:maven/org.codelibs.fess/fess-webapp-multimodal@14.19.0
 - pkg:maven/org.codelibs.fess/fess-webapp-multimodal@14.19.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-webapp-multimodal@15.0.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-webapp-multimodal@15.2.0?classifier=sources

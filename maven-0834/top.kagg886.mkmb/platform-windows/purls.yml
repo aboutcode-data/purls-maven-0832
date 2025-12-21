@@ -1,2 +1,3 @@
 - pkg:maven/top.kagg886.mkmb/platform-windows@1.0.0?classifier=sources
 - pkg:maven/top.kagg886.mkmb/platform-windows@1.1.0?classifier=sources
+- pkg:maven/top.kagg886.mkmb/platform-windows@1.2.0?classifier=sources

@@ -190,6 +190,8 @@
 - pkg:maven/fun.fengwk.convention4j/convention4j-api@1.1.81?classifier=sources
 - pkg:maven/fun.fengwk.convention4j/convention4j-api@1.1.82?classifier=sources
 - pkg:maven/fun.fengwk.convention4j/convention4j-api@1.1.83?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-api@1.1.84?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-api@1.1.85?classifier=sources
 - pkg:maven/fun.fengwk.convention4j/convention4j-api@1.1.8?classifier=sources
 - pkg:maven/fun.fengwk.convention4j/convention4j-api@1.1.9
 - pkg:maven/fun.fengwk.convention4j/convention4j-api@1.1.9?classifier=sources

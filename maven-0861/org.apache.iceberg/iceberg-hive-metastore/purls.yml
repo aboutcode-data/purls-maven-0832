@@ -15,6 +15,7 @@
 - pkg:maven/org.apache.iceberg/iceberg-hive-metastore@0.14.1?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-hive-metastore@1.0.0?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-hive-metastore@1.1.0?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-hive-metastore@1.10.0?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-hive-metastore@1.2.0?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-hive-metastore@1.2.1?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-hive-metastore@1.3.0?classifier=sources

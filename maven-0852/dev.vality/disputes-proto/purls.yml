@@ -52,3 +52,4 @@
 - pkg:maven/dev.vality/disputes-proto@1.52-f050541?classifier=sources
 - pkg:maven/dev.vality/disputes-proto@1.53-1510d50?classifier=sources
 - pkg:maven/dev.vality/disputes-proto@1.54-22d183e?classifier=sources
+- pkg:maven/dev.vality/disputes-proto@1.55-d6da106?classifier=sources

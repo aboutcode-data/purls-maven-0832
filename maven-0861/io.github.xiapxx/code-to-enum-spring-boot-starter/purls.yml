@@ -9,3 +9,4 @@
 - pkg:maven/io.github.xiapxx/code-to-enum-spring-boot-starter@2.1.6?classifier=sources
 - pkg:maven/io.github.xiapxx/code-to-enum-spring-boot-starter@2.1.7?classifier=sources
 - pkg:maven/io.github.xiapxx/code-to-enum-spring-boot-starter@2.1.8?classifier=sources
+- pkg:maven/io.github.xiapxx/code-to-enum-spring-boot-starter@2.1.9?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/datatables.net-bs4@2.2.2
 - pkg:maven/org.webjars.npm/datatables.net-bs4@2.3.1
 - pkg:maven/org.webjars.npm/datatables.net-bs4@2.3.2
+- pkg:maven/org.webjars.npm/datatables.net-bs4@2.3.3
+- pkg:maven/org.webjars.npm/datatables.net-bs4@2.3.4

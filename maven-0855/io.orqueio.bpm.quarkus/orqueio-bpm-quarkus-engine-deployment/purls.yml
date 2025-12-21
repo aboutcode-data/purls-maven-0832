@@ -1,0 +1,1 @@
+- pkg:maven/io.orqueio.bpm.quarkus/orqueio-bpm-quarkus-engine-deployment@0.24.0-alpha?classifier=sources

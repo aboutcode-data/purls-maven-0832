@@ -122,6 +122,10 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.12.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.13.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.14.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.15.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.16.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.17.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.18.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.2.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-mapping@12.3.0?classifier=sources

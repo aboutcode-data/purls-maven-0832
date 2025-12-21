@@ -1,1 +1,2 @@
 - pkg:maven/io.github.thibaultbee.streampack/streampack-rtmp@3.0.0-RC3?classifier=sources
+- pkg:maven/io.github.thibaultbee.streampack/streampack-rtmp@3.0.0?classifier=sources

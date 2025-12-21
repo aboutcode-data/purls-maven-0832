@@ -1,6 +1,7 @@
 - pkg:maven/com.aliyun/alibabacloud-amqp_open20191212@1.0.0
 - pkg:maven/com.aliyun/alibabacloud-amqp_open20191212@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-amqp_open20191212@1.0.1
+- pkg:maven/com.aliyun/alibabacloud-amqp_open20191212@1.0.10?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-amqp_open20191212@1.0.1?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-amqp_open20191212@1.0.2
 - pkg:maven/com.aliyun/alibabacloud-amqp_open20191212@1.0.2?classifier=sources

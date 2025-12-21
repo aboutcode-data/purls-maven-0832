@@ -5,3 +5,4 @@
 - pkg:maven/com.ip2location/ip2location-kafka@1.1.0
 - pkg:maven/com.ip2location/ip2location-kafka@1.1.0?classifier=sources
 - pkg:maven/com.ip2location/ip2location-kafka@1.1.1?classifier=sources
+- pkg:maven/com.ip2location/ip2location-kafka@1.2.0?classifier=sources

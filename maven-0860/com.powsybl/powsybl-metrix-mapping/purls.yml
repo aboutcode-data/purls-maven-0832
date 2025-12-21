@@ -40,3 +40,4 @@
 - pkg:maven/com.powsybl/powsybl-metrix-mapping@2.6.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-metrix-mapping@2.7.0
 - pkg:maven/com.powsybl/powsybl-metrix-mapping@2.7.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-metrix-mapping@2.8.1?classifier=sources

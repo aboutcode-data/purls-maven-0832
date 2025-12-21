@@ -81,6 +81,7 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-gradle-plugin@0.28.0-beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-gradle-plugin@0.28.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-gradle-plugin@0.29.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-gradle-plugin@0.30.0-beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-gradle-plugin@0.8
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-gradle-plugin@0.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-gradle-plugin@0.9

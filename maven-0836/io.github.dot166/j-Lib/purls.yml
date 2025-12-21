@@ -1,3 +1,4 @@
+- pkg:maven/io.github.dot166/j-Lib@100?classifier=sources
 - pkg:maven/io.github.dot166/j-Lib@1?classifier=sources
 - pkg:maven/io.github.dot166/j-Lib@3.2.10?classifier=sources
 - pkg:maven/io.github.dot166/j-Lib@3.2.11?classifier=sources
@@ -88,3 +89,8 @@
 - pkg:maven/io.github.dot166/j-Lib@92?classifier=sources
 - pkg:maven/io.github.dot166/j-Lib@93?classifier=sources
 - pkg:maven/io.github.dot166/j-Lib@94?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@95?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@96?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@97?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@98?classifier=sources
+- pkg:maven/io.github.dot166/j-Lib@99?classifier=sources

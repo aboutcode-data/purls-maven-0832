@@ -112,3 +112,4 @@
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@3.2.9
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@3.2.9?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@4.0.0?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-peppol-legacy@4.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.jam4s/jam4s-codec-core_3@0.0.2
+- pkg:maven/org.jam4s/jam4s-codec-core_3@0.0.2?classifier=sources
+- pkg:maven/org.jam4s/jam4s-codec-core_3@0.0.3
+- pkg:maven/org.jam4s/jam4s-codec-core_3@0.0.3?classifier=sources

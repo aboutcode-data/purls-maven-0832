@@ -1602,7 +1602,10 @@
 - pkg:maven/io.streamnative/pulsar-functions-utils@4.0.6.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-functions-utils@4.0.6.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-functions-utils@4.0.6.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-functions-utils@4.0.6.4?classifier=sources
+- pkg:maven/io.streamnative/pulsar-functions-utils@4.0.6.5?classifier=sources
 - pkg:maven/io.streamnative/pulsar-functions-utils@4.1.0.0?classifier=sources
+- pkg:maven/io.streamnative/pulsar-functions-utils@4.1.0.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-functions-utils@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-functions-utils@master-rc-daily?classifier=sources
 - pkg:maven/io.streamnative/pulsar-functions-utils@v2.8.0-rc-202106091140

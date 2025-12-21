@@ -64,3 +64,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.16.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.16.800
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.16.800?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.16.900
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt@0.16.900?classifier=sources

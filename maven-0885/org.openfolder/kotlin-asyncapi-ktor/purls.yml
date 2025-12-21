@@ -1,3 +1,4 @@
 - pkg:maven/org.openfolder/kotlin-asyncapi-ktor@3.0.4?classifier=sources
 - pkg:maven/org.openfolder/kotlin-asyncapi-ktor@3.1.0?classifier=sources
 - pkg:maven/org.openfolder/kotlin-asyncapi-ktor@3.1.1?classifier=sources
+- pkg:maven/org.openfolder/kotlin-asyncapi-ktor@3.1.2?classifier=sources

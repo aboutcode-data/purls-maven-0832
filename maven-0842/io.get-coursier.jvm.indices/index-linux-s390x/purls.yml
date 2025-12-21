@@ -20,6 +20,10 @@
 - pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-116-9b244a?classifier=sources
 - pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-117-e4d801
 - pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-117-e4d801?classifier=sources
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-118-97e87c
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-118-97e87c?classifier=sources
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-119-b4c7a5
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-119-b4c7a5?classifier=sources
 - pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-41-7a9754
 - pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-41-7a9754?classifier=sources
 - pkg:maven/io.get-coursier.jvm.indices/index-linux-s390x@0.0.4-44-885bdf

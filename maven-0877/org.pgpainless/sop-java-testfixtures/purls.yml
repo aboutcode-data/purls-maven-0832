@@ -1,3 +1,4 @@
 - pkg:maven/org.pgpainless/sop-java-testfixtures@10.1.0?classifier=sources
 - pkg:maven/org.pgpainless/sop-java-testfixtures@10.1.1?classifier=sources
 - pkg:maven/org.pgpainless/sop-java-testfixtures@14.0.0?classifier=sources
+- pkg:maven/org.pgpainless/sop-java-testfixtures@14.0.1?classifier=sources

@@ -39,3 +39,4 @@
 - pkg:maven/org.into-cps.maestro.plugins/jacobianstepbuilder@4.0.0
 - pkg:maven/org.into-cps.maestro.plugins/jacobianstepbuilder@4.0.0?classifier=sources
 - pkg:maven/org.into-cps.maestro.plugins/jacobianstepbuilder@4.0.1?classifier=sources
+- pkg:maven/org.into-cps.maestro.plugins/jacobianstepbuilder@4.0.2?classifier=sources

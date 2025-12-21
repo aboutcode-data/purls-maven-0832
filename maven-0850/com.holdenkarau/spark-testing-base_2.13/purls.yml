@@ -26,6 +26,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.0_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.0_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.0_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.0_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.0_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.1_1.3.0
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.1_1.3.0?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.1_1.3.4
@@ -54,6 +56,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.1_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.1_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.1_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.1_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.1_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.2_1.3.0
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.2_1.3.0?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.2_1.3.4
@@ -82,6 +86,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.2_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.2_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.2_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.2_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.2_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.3_1.4.2
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.3_1.4.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.3_1.4.3
@@ -104,6 +110,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.3_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.3_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.3_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.3_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.3_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.4_1.4.2
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.4_1.4.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.4_1.4.3
@@ -126,6 +134,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.4_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.4_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.4_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.4_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.2.4_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.0_1.3.0
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.0_1.3.0?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.0_1.3.4
@@ -154,6 +164,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.0_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.0_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.0_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.0_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.0_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.1_1.3.0
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.1_1.3.0?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.1_1.3.4
@@ -182,6 +194,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.1_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.1_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.1_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.1_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.1_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.2_1.4.2
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.2_1.4.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.2_1.4.3
@@ -204,6 +218,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.2_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.2_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.2_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.2_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.3.2_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.0_1.4.2
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.0_1.4.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.0_1.4.3
@@ -226,6 +242,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.0_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.0_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.0_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.0_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.0_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.1_1.4.4
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.1_1.4.4?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.1_1.4.5
@@ -244,6 +262,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.1_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.1_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.1_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.1_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.1_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.2_1.5.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.2_1.5.1?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.2_1.5.2
@@ -252,6 +272,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.2_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.2_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.2_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.2_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.4.2_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.0_1.4.4
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.0_1.4.4?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.0_1.4.5
@@ -270,6 +292,8 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.0_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.0_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.0_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.0_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.0_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.1_1.5.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.1_1.5.1?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.1_1.5.2
@@ -278,9 +302,21 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.1_1.5.3?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.1_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.1_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.1_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.1_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.2_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.2_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.2_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.2_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.3_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.3_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.3_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.3_2.1.2?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.4_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.4_2.1.2?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.6_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@3.5.6_2.1.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@4.0.0-preview2_2.0.1
 - pkg:maven/com.holdenkarau/spark-testing-base_2.13@4.0.0-preview2_2.0.1?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@4.0.0_2.1.2
+- pkg:maven/com.holdenkarau/spark-testing-base_2.13@4.0.0_2.1.2?classifier=sources

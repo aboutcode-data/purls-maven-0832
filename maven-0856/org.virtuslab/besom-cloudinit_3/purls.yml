@@ -4,5 +4,9 @@
 - pkg:maven/org.virtuslab/besom-cloudinit_3@1.4.0-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-cloudinit_3@1.4.1-core.0.3
 - pkg:maven/org.virtuslab/besom-cloudinit_3@1.4.1-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-cloudinit_3@1.4.1-core.0.5
+- pkg:maven/org.virtuslab/besom-cloudinit_3@1.4.1-core.0.5?classifier=sources
 - pkg:maven/org.virtuslab/besom-cloudinit_3@1.4.11-core.0.4
 - pkg:maven/org.virtuslab/besom-cloudinit_3@1.4.11-core.0.4?classifier=sources
+- pkg:maven/org.virtuslab/besom-cloudinit_3@1.4.13-core.0.5
+- pkg:maven/org.virtuslab/besom-cloudinit_3@1.4.13-core.0.5?classifier=sources

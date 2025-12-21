@@ -24,3 +24,5 @@
 - pkg:maven/hr.ngs.templater/templater_2.13@8.0.0
 - pkg:maven/hr.ngs.templater/templater_2.13@8.1.0
 - pkg:maven/hr.ngs.templater/templater_2.13@8.2.0
+- pkg:maven/hr.ngs.templater/templater_2.13@8.3.0
+- pkg:maven/hr.ngs.templater/templater_2.13@8.3.0?classifier=sources

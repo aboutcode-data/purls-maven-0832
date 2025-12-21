@@ -20,3 +20,5 @@
 - pkg:maven/io.laserdisc/laserdisc-circe_2.13@0.7.3?classifier=sources
 - pkg:maven/io.laserdisc/laserdisc-circe_2.13@0.7.4
 - pkg:maven/io.laserdisc/laserdisc-circe_2.13@0.7.4?classifier=sources
+- pkg:maven/io.laserdisc/laserdisc-circe_2.13@0.7.5
+- pkg:maven/io.laserdisc/laserdisc-circe_2.13@0.7.5?classifier=sources

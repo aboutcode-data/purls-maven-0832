@@ -3,3 +3,4 @@
 - pkg:maven/io.github.jmseb3/capturable@1.1.0?classifier=sources
 - pkg:maven/io.github.jmseb3/capturable@1.1.1?classifier=sources
 - pkg:maven/io.github.jmseb3/capturable@2.0.0-beta01?classifier=sources
+- pkg:maven/io.github.jmseb3/capturable@2.0.0?classifier=sources

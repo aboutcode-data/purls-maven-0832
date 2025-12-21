@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/caller-callsite@2.0.0
 - pkg:maven/org.mvnpm/caller-callsite@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/caller-callsite@5.0.0?classifier=sources
+- pkg:maven/org.mvnpm/caller-callsite@6.0.0
+- pkg:maven/org.mvnpm/caller-callsite@6.0.0?classifier=sources

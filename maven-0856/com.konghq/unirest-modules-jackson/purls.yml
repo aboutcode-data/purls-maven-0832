@@ -16,3 +16,4 @@
 - pkg:maven/com.konghq/unirest-modules-jackson@4.4.7
 - pkg:maven/com.konghq/unirest-modules-jackson@4.4.7?classifier=sources
 - pkg:maven/com.konghq/unirest-modules-jackson@4.5.0?classifier=sources
+- pkg:maven/com.konghq/unirest-modules-jackson@4.5.1?classifier=sources

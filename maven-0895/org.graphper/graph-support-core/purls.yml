@@ -2,3 +2,4 @@
 - pkg:maven/org.graphper/graph-support-core@1.5.0?classifier=sources
 - pkg:maven/org.graphper/graph-support-core@1.5.1
 - pkg:maven/org.graphper/graph-support-core@1.5.1?classifier=sources
+- pkg:maven/org.graphper/graph-support-core@1.5.2?classifier=sources

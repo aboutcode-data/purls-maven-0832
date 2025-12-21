@@ -14,6 +14,8 @@
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-alpha.1?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-alpha.20?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-alpha.21?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-alpha.22?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-alpha.26?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-alpha.2?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-alpha.3?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-alpha.4?classifier=sources
@@ -24,4 +26,7 @@
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-alpha.9?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-rc.1?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-rc.2?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6-rc.3?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.6?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.7-rc.4?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.7?classifier=sources

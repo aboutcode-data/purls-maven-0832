@@ -185,3 +185,4 @@
 - pkg:maven/com.pulumi/tailscale@0.20.0?classifier=sources
 - pkg:maven/com.pulumi/tailscale@0.21.0?classifier=sources
 - pkg:maven/com.pulumi/tailscale@0.21.1?classifier=sources
+- pkg:maven/com.pulumi/tailscale@0.22.0?classifier=sources

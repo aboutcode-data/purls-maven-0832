@@ -1,0 +1,4 @@
+- pkg:maven/run.vexa.reactor/shore-web@2.6.1?classifier=sources
+- pkg:maven/run.vexa.reactor/shore-web@2.7.0?classifier=sources
+- pkg:maven/run.vexa.reactor/shore-web@2.7.1?classifier=sources
+- pkg:maven/run.vexa.reactor/shore-web@3.0.0?classifier=sources

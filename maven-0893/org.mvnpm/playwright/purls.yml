@@ -11,3 +11,5 @@
 - pkg:maven/org.mvnpm/playwright@1.54.2?classifier=sources
 - pkg:maven/org.mvnpm/playwright@1.55.0
 - pkg:maven/org.mvnpm/playwright@1.55.0?classifier=sources
+- pkg:maven/org.mvnpm/playwright@1.55.1
+- pkg:maven/org.mvnpm/playwright@1.55.1?classifier=sources

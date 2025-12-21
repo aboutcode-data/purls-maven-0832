@@ -11,6 +11,7 @@
 - pkg:maven/com.pulumi/docker-build@0.0.1-testwindows.signing?classifier=sources
 - pkg:maven/com.pulumi/docker-build@0.0.10?classifier=sources
 - pkg:maven/com.pulumi/docker-build@0.0.12?classifier=sources
+- pkg:maven/com.pulumi/docker-build@0.0.13?classifier=sources
 - pkg:maven/com.pulumi/docker-build@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/docker-build@0.0.2?classifier=sources
 - pkg:maven/com.pulumi/docker-build@0.0.3?classifier=sources

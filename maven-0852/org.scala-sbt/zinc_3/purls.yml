@@ -10,6 +10,8 @@
 - pkg:maven/org.scala-sbt/zinc_3@2.0.0-M6?classifier=sources
 - pkg:maven/org.scala-sbt/zinc_3@2.0.0-M7
 - pkg:maven/org.scala-sbt/zinc_3@2.0.0-M7?classifier=sources
+- pkg:maven/org.scala-sbt/zinc_3@2.0.0-M8
+- pkg:maven/org.scala-sbt/zinc_3@2.0.0-M8?classifier=sources
 - pkg:maven/org.scala-sbt/zinc_3@2.0.0-alpha1
 - pkg:maven/org.scala-sbt/zinc_3@2.0.0-alpha10
 - pkg:maven/org.scala-sbt/zinc_3@2.0.0-alpha10?classifier=sources

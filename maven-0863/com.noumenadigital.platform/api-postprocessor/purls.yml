@@ -47,3 +47,4 @@
 - pkg:maven/com.noumenadigital.platform/api-postprocessor@2025.1.8
 - pkg:maven/com.noumenadigital.platform/api-postprocessor@2025.1.8?classifier=sources
 - pkg:maven/com.noumenadigital.platform/api-postprocessor@2025.1.9?classifier=sources
+- pkg:maven/com.noumenadigital.platform/api-postprocessor@2025.2.0?classifier=sources

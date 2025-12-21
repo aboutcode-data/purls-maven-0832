@@ -28,3 +28,6 @@
 - pkg:maven/com.kylecorry.andromeda/sound@15.3.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/sound@16.0.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/sound@16.0.1?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/sound@16.0.2?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/sound@16.1.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/sound@17.0.0?classifier=sources

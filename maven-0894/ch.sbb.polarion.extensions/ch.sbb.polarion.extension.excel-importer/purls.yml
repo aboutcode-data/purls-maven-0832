@@ -30,3 +30,4 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.excel-importer@4.0.0?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.excel-importer@4.0.1?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.excel-importer@4.1.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.excel-importer@4.1.1?classifier=sources

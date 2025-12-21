@@ -1,0 +1,2 @@
+- pkg:maven/org.graalvm.wasm/wasm-isolate-linux-amd64@25.0.0
+- pkg:maven/org.graalvm.wasm/wasm-isolate-linux-amd64@25.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.amazonaws/athena-redshift@2025.34.3?classifier=sources
+- pkg:maven/com.amazonaws/athena-redshift@2025.37.1?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons-business-suite@1.21.2
+- pkg:maven/org.webjars.npm/ui5__webcomponents-icons-business-suite@2.14.0
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons-business-suite@2.3.0
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons-business-suite@2.6.3
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons-business-suite@2.7.3

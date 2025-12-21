@@ -22,3 +22,5 @@
 - pkg:maven/com.scaleoutsoftware/invocationgrid@2.0.8?classifier=sources
 - pkg:maven/com.scaleoutsoftware/invocationgrid@2.0.9
 - pkg:maven/com.scaleoutsoftware/invocationgrid@2.0.9?classifier=sources
+- pkg:maven/com.scaleoutsoftware/invocationgrid@3.0.0
+- pkg:maven/com.scaleoutsoftware/invocationgrid@3.0.0?classifier=sources

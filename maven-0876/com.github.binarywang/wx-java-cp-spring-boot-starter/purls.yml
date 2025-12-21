@@ -164,6 +164,10 @@
 - pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@4.7.7-20250808.174733?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@4.7.7-20250808.181851?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@4.7.7-20250808.182223?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@4.7.7-20250831.214433?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@4.7.7-20250904.091338?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@4.7.7-20250904.091948?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@4.7.7-20250915.094526?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@4.7.7.B?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@tmp-build-20250512.032409
 - pkg:maven/com.github.binarywang/wx-java-cp-spring-boot-starter@tmp-build-20250512.032409?classifier=sources

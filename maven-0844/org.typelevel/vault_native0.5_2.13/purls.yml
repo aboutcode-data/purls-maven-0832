@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/vault_native0.5_2.13@3.7.0-RC1
+- pkg:maven/org.typelevel/vault_native0.5_2.13@3.7.0-RC1?classifier=sources

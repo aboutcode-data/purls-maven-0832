@@ -158,3 +158,4 @@
 - pkg:maven/com.github.mizool/mizool-core@6.7?classifier=sources
 - pkg:maven/com.github.mizool/mizool-core@6.8?classifier=sources
 - pkg:maven/com.github.mizool/mizool-core@7.0?classifier=sources
+- pkg:maven/com.github.mizool/mizool-core@8.0?classifier=sources

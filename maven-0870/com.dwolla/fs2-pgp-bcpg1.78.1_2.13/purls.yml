@@ -1,2 +1,4 @@
 - pkg:maven/com.dwolla/fs2-pgp-bcpg1.78.1_2.13@0.4.7
 - pkg:maven/com.dwolla/fs2-pgp-bcpg1.78.1_2.13@0.4.7?classifier=sources
+- pkg:maven/com.dwolla/fs2-pgp-bcpg1.78.1_2.13@0.4.8
+- pkg:maven/com.dwolla/fs2-pgp-bcpg1.78.1_2.13@0.4.8?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.graalvm.ruby/ruby-annotations@24.2.1?classifier=sources
 - pkg:maven/org.graalvm.ruby/ruby-annotations@24.2.2
 - pkg:maven/org.graalvm.ruby/ruby-annotations@24.2.2?classifier=sources
+- pkg:maven/org.graalvm.ruby/ruby-annotations@25.0.0
+- pkg:maven/org.graalvm.ruby/ruby-annotations@25.0.0?classifier=sources

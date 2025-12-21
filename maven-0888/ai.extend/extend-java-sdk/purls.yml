@@ -1,1 +1,2 @@
 - pkg:maven/ai.extend/extend-java-sdk@0.0.1-beta?classifier=sources
+- pkg:maven/ai.extend/extend-java-sdk@0.0.2-beta?classifier=sources

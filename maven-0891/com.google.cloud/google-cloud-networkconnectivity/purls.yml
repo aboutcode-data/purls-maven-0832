@@ -170,6 +170,8 @@
 - pkg:maven/com.google.cloud/google-cloud-networkconnectivity@1.71.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-networkconnectivity@1.72.0
 - pkg:maven/com.google.cloud/google-cloud-networkconnectivity@1.72.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-networkconnectivity@1.73.0
+- pkg:maven/com.google.cloud/google-cloud-networkconnectivity@1.73.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-networkconnectivity@1.8.0
 - pkg:maven/com.google.cloud/google-cloud-networkconnectivity@1.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-networkconnectivity@1.9.0

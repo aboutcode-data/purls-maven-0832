@@ -33,6 +33,8 @@
 - pkg:maven/com.lihaoyi/mill-main-init-sbt-models_2.12@0.12.14-24-a219fe?classifier=sources
 - pkg:maven/com.lihaoyi/mill-main-init-sbt-models_2.12@0.12.14?classifier=sources
 - pkg:maven/com.lihaoyi/mill-main-init-sbt-models_2.12@0.12.15
+- pkg:maven/com.lihaoyi/mill-main-init-sbt-models_2.12@0.12.15-2-561986
+- pkg:maven/com.lihaoyi/mill-main-init-sbt-models_2.12@0.12.15-2-561986?classifier=sources
 - pkg:maven/com.lihaoyi/mill-main-init-sbt-models_2.12@0.12.15?classifier=sources
 - pkg:maven/com.lihaoyi/mill-main-init-sbt-models_2.12@0.12.8-20-113706
 - pkg:maven/com.lihaoyi/mill-main-init-sbt-models_2.12@0.12.8-20-113706?classifier=sources

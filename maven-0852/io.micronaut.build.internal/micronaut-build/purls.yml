@@ -124,3 +124,4 @@
 - pkg:maven/io.micronaut.build.internal/micronaut-build@7.6.2?classifier=sources
 - pkg:maven/io.micronaut.build.internal/micronaut-build@7.6.3?classifier=sources
 - pkg:maven/io.micronaut.build.internal/micronaut-build@7.6.4?classifier=sources
+- pkg:maven/io.micronaut.build.internal/micronaut-build@8.0.0-M1?classifier=sources

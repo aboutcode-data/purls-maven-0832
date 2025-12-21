@@ -5,3 +5,4 @@
 - pkg:maven/com.oviva.telematik/epa4all-phr-client@0.0.8?classifier=sources
 - pkg:maven/com.oviva.telematik/epa4all-phr-client@1.0.0?classifier=sources
 - pkg:maven/com.oviva.telematik/epa4all-phr-client@1.0.2?classifier=sources
+- pkg:maven/com.oviva.telematik/epa4all-phr-client@1.0.3?classifier=sources

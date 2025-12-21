@@ -1,0 +1,3 @@
+- pkg:maven/io.github.kverify/kverify-named-value-jvm@2.0.0-rc-2a15?classifier=sources
+- pkg:maven/io.github.kverify/kverify-named-value-jvm@2.0.0-rc-2a17?classifier=sources
+- pkg:maven/io.github.kverify/kverify-named-value-jvm@2.0.0-rc-2a18?classifier=sources

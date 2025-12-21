@@ -135,6 +135,17 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.8.7-3.13.12?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.8.8-3.13.12?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.8.9-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.0-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.10-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.11-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.2-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.3-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.4-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.5-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.6-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.7-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.8-3.13.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@2025.9.9-3.13.12?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@3.0.0-beta.13-pre.359?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@3.0.0-beta.13-pre.360?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual@3.0.0-beta.13-pre.361?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/io.github.agora-apaas/AgoraEduUIKit@2.8.101?classifier=sources
 - pkg:maven/io.github.agora-apaas/AgoraEduUIKit@2.8.11.103?classifier=sources
 - pkg:maven/io.github.agora-apaas/AgoraEduUIKit@2.8.112?classifier=sources
+- pkg:maven/io.github.agora-apaas/AgoraEduUIKit@2.8.113?classifier=sources

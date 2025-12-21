@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.sedona/sedona-spark-shaded-3.5_2.13@1.7.1?classifier=sources
 - pkg:maven/org.apache.sedona/sedona-spark-shaded-3.5_2.13@1.7.2
 - pkg:maven/org.apache.sedona/sedona-spark-shaded-3.5_2.13@1.7.2?classifier=sources
+- pkg:maven/org.apache.sedona/sedona-spark-shaded-3.5_2.13@1.8.0
+- pkg:maven/org.apache.sedona/sedona-spark-shaded-3.5_2.13@1.8.0?classifier=sources

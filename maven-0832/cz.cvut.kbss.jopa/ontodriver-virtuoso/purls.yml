@@ -7,3 +7,4 @@
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-virtuoso@2.4.4?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-virtuoso@2.5.0?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-virtuoso@2.5.1?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-virtuoso@2.6.0?classifier=sources

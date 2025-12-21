@@ -2,4 +2,8 @@
 - pkg:maven/org.mvnpm/swagger-ui@5.13.0?classifier=sources
 - pkg:maven/org.mvnpm/swagger-ui@5.17.7?classifier=sources
 - pkg:maven/org.mvnpm/swagger-ui@5.18.2?classifier=sources
+- pkg:maven/org.mvnpm/swagger-ui@5.28.1
+- pkg:maven/org.mvnpm/swagger-ui@5.28.1?classifier=sources
+- pkg:maven/org.mvnpm/swagger-ui@5.29.0
+- pkg:maven/org.mvnpm/swagger-ui@5.29.0?classifier=sources
 - pkg:maven/org.mvnpm/swagger-ui@5.9.1?classifier=sources

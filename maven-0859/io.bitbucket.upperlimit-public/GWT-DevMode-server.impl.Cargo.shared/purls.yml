@@ -8,3 +8,5 @@
 - pkg:maven/io.bitbucket.upperlimit-public/GWT-DevMode-server.impl.Cargo.shared@0.0.20?classifier=sources
 - pkg:maven/io.bitbucket.upperlimit-public/GWT-DevMode-server.impl.Cargo.shared@0.0.21?classifier=sources
 - pkg:maven/io.bitbucket.upperlimit-public/GWT-DevMode-server.impl.Cargo.shared@0.0.24?classifier=sources
+- pkg:maven/io.bitbucket.upperlimit-public/GWT-DevMode-server.impl.Cargo.shared@0.0.26?classifier=sources
+- pkg:maven/io.bitbucket.upperlimit-public/GWT-DevMode-server.impl.Cargo.shared@0.0.27?classifier=sources

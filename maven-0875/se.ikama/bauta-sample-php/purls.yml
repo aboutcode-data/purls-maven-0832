@@ -67,6 +67,7 @@
 - pkg:maven/se.ikama/bauta-sample-php@2.0.14?classifier=sources
 - pkg:maven/se.ikama/bauta-sample-php@2.0.15
 - pkg:maven/se.ikama/bauta-sample-php@2.0.15?classifier=sources
+- pkg:maven/se.ikama/bauta-sample-php@2.0.19?classifier=sources
 - pkg:maven/se.ikama/bauta-sample-php@2.0.1?classifier=sources
 - pkg:maven/se.ikama/bauta-sample-php@2.0.3
 - pkg:maven/se.ikama/bauta-sample-php@2.0.3?classifier=sources

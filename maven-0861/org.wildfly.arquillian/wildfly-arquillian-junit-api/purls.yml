@@ -20,3 +20,4 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-junit-api@5.1.0.Beta8?classifier=sources
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-junit-api@5.1.0.Beta9
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-junit-api@5.1.0.Beta9?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-junit-api@5.1.0.Final?classifier=sources

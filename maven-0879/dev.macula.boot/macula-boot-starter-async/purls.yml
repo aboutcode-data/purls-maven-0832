@@ -10,3 +10,4 @@
 - pkg:maven/dev.macula.boot/macula-boot-starter-async@5.0.16?classifier=sources
 - pkg:maven/dev.macula.boot/macula-boot-starter-async@5.0.17
 - pkg:maven/dev.macula.boot/macula-boot-starter-async@5.0.17?classifier=sources
+- pkg:maven/dev.macula.boot/macula-boot-starter-async@5.0.18?classifier=sources

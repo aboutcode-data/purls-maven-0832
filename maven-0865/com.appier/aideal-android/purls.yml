@@ -1,3 +1,4 @@
+- pkg:maven/com.appier/aideal-android@0.7.26-test?classifier=sources
 - pkg:maven/com.appier/aideal-android@3.0.0?classifier=sources
 - pkg:maven/com.appier/aideal-android@3.5.0?classifier=sources
 - pkg:maven/com.appier/aideal-android@3.6.1?classifier=sources
