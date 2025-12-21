@@ -1,1 +1,2 @@
 - pkg:maven/io.github.khoben.woff2-android/typeface@0.0.1?classifier=sources
+- pkg:maven/io.github.khoben.woff2-android/typeface@0.0.2?classifier=sources

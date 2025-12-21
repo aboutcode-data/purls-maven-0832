@@ -2,3 +2,4 @@
 - pkg:maven/com.garmin.connectiq/ciq-companion-app-sdk@2.0.2?classifier=sources
 - pkg:maven/com.garmin.connectiq/ciq-companion-app-sdk@2.0.3?classifier=sources
 - pkg:maven/com.garmin.connectiq/ciq-companion-app-sdk@2.2.0?classifier=sources
+- pkg:maven/com.garmin.connectiq/ciq-companion-app-sdk@2.3.0?classifier=sources

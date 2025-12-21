@@ -65,6 +65,8 @@
 - pkg:maven/io.get-coursier/interface-scala-2.12-shaded@1.0.28?classifier=sources
 - pkg:maven/io.get-coursier/interface-scala-2.12-shaded@1.0.29-M1
 - pkg:maven/io.get-coursier/interface-scala-2.12-shaded@1.0.29-M1?classifier=sources
+- pkg:maven/io.get-coursier/interface-scala-2.12-shaded@1.0.29-M2
+- pkg:maven/io.get-coursier/interface-scala-2.12-shaded@1.0.29-M2?classifier=sources
 - pkg:maven/io.get-coursier/interface-scala-2.12-shaded@1.0.2?classifier=sources
 - pkg:maven/io.get-coursier/interface-scala-2.12-shaded@1.0.3
 - pkg:maven/io.get-coursier/interface-scala-2.12-shaded@1.0.3?classifier=sources

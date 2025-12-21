@@ -18,3 +18,4 @@
 - pkg:maven/com.hsbc.cranker/cranker-connector@1.2.6?classifier=sources
 - pkg:maven/com.hsbc.cranker/cranker-connector@1.3.2
 - pkg:maven/com.hsbc.cranker/cranker-connector@1.3.2?classifier=sources
+- pkg:maven/com.hsbc.cranker/cranker-connector@1.3.4?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/io.github.lcomment/korest-docs-mockmvc@0.1.0?classifier=sources
 - pkg:maven/io.github.lcomment/korest-docs-mockmvc@1.0.0?classifier=sources
 - pkg:maven/io.github.lcomment/korest-docs-mockmvc@1.0.1?classifier=sources
+- pkg:maven/io.github.lcomment/korest-docs-mockmvc@1.0.2?classifier=sources

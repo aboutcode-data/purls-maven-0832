@@ -42,6 +42,8 @@
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-6d0507?classifier=sources
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-6d8aa6
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-6d8aa6?classifier=sources
+- pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-73053b
+- pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-73053b?classifier=sources
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-79df7a
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-79df7a?classifier=sources
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-7f5414
@@ -60,6 +62,8 @@
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-963a39?classifier=sources
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-9843cc
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-9843cc?classifier=sources
+- pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-9993e5
+- pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-9993e5?classifier=sources
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-9b9450
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-9b9450?classifier=sources
 - pkg:maven/io.github.edin-dal/scair-transformations_3@0.0.0-1-a9b09a

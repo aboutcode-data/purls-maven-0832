@@ -1,0 +1,2 @@
+- pkg:maven/com.paydock/mobile-sdk@0.0.1?classifier=sources
+- pkg:maven/com.paydock/mobile-sdk@5.0.0?classifier=sources

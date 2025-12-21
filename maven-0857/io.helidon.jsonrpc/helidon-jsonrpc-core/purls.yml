@@ -1,2 +1,4 @@
 - pkg:maven/io.helidon.jsonrpc/helidon-jsonrpc-core@4.3.0-M1
 - pkg:maven/io.helidon.jsonrpc/helidon-jsonrpc-core@4.3.0-M1?classifier=sources
+- pkg:maven/io.helidon.jsonrpc/helidon-jsonrpc-core@4.3.0-M2
+- pkg:maven/io.helidon.jsonrpc/helidon-jsonrpc-core@4.3.0-M2?classifier=sources

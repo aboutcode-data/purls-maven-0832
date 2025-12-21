@@ -161,3 +161,13 @@
 - pkg:maven/org.mvnpm/svelte@5.37.3?classifier=sources
 - pkg:maven/org.mvnpm/svelte@5.38.0
 - pkg:maven/org.mvnpm/svelte@5.38.0?classifier=sources
+- pkg:maven/org.mvnpm/svelte@5.38.1
+- pkg:maven/org.mvnpm/svelte@5.38.1?classifier=sources
+- pkg:maven/org.mvnpm/svelte@5.38.2
+- pkg:maven/org.mvnpm/svelte@5.38.2?classifier=sources
+- pkg:maven/org.mvnpm/svelte@5.38.3
+- pkg:maven/org.mvnpm/svelte@5.38.3?classifier=sources
+- pkg:maven/org.mvnpm/svelte@5.38.5
+- pkg:maven/org.mvnpm/svelte@5.38.5?classifier=sources
+- pkg:maven/org.mvnpm/svelte@5.38.6
+- pkg:maven/org.mvnpm/svelte@5.38.6?classifier=sources

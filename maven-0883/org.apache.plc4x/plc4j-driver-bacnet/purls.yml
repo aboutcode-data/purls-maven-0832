@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.plc4x/plc4j-driver-bacnet@0.11.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4j-driver-bacnet@0.12.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4j-driver-bacnet@0.13.0?classifier=sources
+- pkg:maven/org.apache.plc4x/plc4j-driver-bacnet@0.13.1?classifier=sources

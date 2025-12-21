@@ -25,6 +25,7 @@
 - pkg:maven/org.chenile/jpa-utils@2.0.31?classifier=sources
 - pkg:maven/org.chenile/jpa-utils@2.0.34?classifier=sources
 - pkg:maven/org.chenile/jpa-utils@2.0.35?classifier=sources
+- pkg:maven/org.chenile/jpa-utils@2.0.37?classifier=sources
 - pkg:maven/org.chenile/jpa-utils@2.0.3?classifier=sources
 - pkg:maven/org.chenile/jpa-utils@2.0.4?classifier=sources
 - pkg:maven/org.chenile/jpa-utils@2.0.5?classifier=sources

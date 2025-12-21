@@ -4,3 +4,4 @@
 - pkg:maven/com.io7m.dixmont/com.io7m.dixmont.colors@1.0.0?classifier=sources
 - pkg:maven/com.io7m.dixmont/com.io7m.dixmont.colors@2.0.0
 - pkg:maven/com.io7m.dixmont/com.io7m.dixmont.colors@2.0.0?classifier=sources
+- pkg:maven/com.io7m.dixmont/com.io7m.dixmont.colors@2.1.0?classifier=sources

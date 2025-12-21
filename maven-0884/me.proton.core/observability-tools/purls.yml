@@ -69,3 +69,7 @@
 - pkg:maven/me.proton.core/observability-tools@33.0.2?classifier=sources
 - pkg:maven/me.proton.core/observability-tools@34.0.0?classifier=sources
 - pkg:maven/me.proton.core/observability-tools@34.0.1?classifier=sources
+- pkg:maven/me.proton.core/observability-tools@34.1.0?classifier=sources
+- pkg:maven/me.proton.core/observability-tools@34.2.0?classifier=sources
+- pkg:maven/me.proton.core/observability-tools@34.2.1?classifier=sources
+- pkg:maven/me.proton.core/observability-tools@34.3.0?classifier=sources

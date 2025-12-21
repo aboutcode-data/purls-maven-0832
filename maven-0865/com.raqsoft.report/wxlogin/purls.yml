@@ -1,0 +1,4 @@
+- pkg:maven/com.raqsoft.report/wxlogin@20250801
+- pkg:maven/com.raqsoft.report/wxlogin@20250801?classifier=sources
+- pkg:maven/com.raqsoft.report/wxlogin@20250815
+- pkg:maven/com.raqsoft.report/wxlogin@20250815?classifier=sources

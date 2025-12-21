@@ -153,6 +153,7 @@
 - pkg:maven/com.walmartlabs.concord.server.plugins.noderoster/concord-noderoster-plugin-db@2.3.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins.noderoster/concord-noderoster-plugin-db@2.30.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins.noderoster/concord-noderoster-plugin-db@2.31.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server.plugins.noderoster/concord-noderoster-plugin-db@2.32.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins.noderoster/concord-noderoster-plugin-db@2.4.0
 - pkg:maven/com.walmartlabs.concord.server.plugins.noderoster/concord-noderoster-plugin-db@2.4.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins.noderoster/concord-noderoster-plugin-db@2.5.0

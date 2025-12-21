@@ -6,3 +6,5 @@
 - pkg:maven/io.github.liyuhaolol/ucrop@v3.11.5?type=aar
 - pkg:maven/io.github.liyuhaolol/ucrop@v3.11.6?classifier=sources
 - pkg:maven/io.github.liyuhaolol/ucrop@v3.11.6?type=aar
+- pkg:maven/io.github.liyuhaolol/ucrop@v3.11.7?classifier=sources
+- pkg:maven/io.github.liyuhaolol/ucrop@v3.11.7?type=aar

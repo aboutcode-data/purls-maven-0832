@@ -11,3 +11,5 @@
 - pkg:maven/com.google.android.horologist/horologist-audio-ui-model@0.7.8-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-audio-ui-model@0.7.9-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-audio-ui-model@0.8.0-alpha?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-audio-ui-model@0.8.1-alpha?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-audio-ui-model@0.8.2-alpha?classifier=sources

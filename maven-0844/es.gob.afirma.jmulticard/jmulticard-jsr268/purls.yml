@@ -8,3 +8,4 @@
 - pkg:maven/es.gob.afirma.jmulticard/jmulticard-jsr268@1.7?classifier=sources
 - pkg:maven/es.gob.afirma.jmulticard/jmulticard-jsr268@1.8
 - pkg:maven/es.gob.afirma.jmulticard/jmulticard-jsr268@1.8?classifier=sources
+- pkg:maven/es.gob.afirma.jmulticard/jmulticard-jsr268@2.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.voltdb/volt-stream-plugin-beats-api@1.4.0
 - pkg:maven/org.voltdb/volt-stream-plugin-beats-api@1.4.0?classifier=sources
+- pkg:maven/org.voltdb/volt-stream-plugin-beats-api@1.5.0
+- pkg:maven/org.voltdb/volt-stream-plugin-beats-api@1.5.0?classifier=sources

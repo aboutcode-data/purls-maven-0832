@@ -1,1 +1,2 @@
 - pkg:maven/tw.teddysoft.ezddd-gateway/ez-outbox@0.0.2?classifier=sources
+- pkg:maven/tw.teddysoft.ezddd-gateway/ez-outbox@1.0.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.yandex.varioqub/proto@0.5.0?classifier=sources
 - pkg:maven/com.yandex.varioqub/proto@0.6.0?classifier=sources
 - pkg:maven/com.yandex.varioqub/proto@0.7.0?classifier=sources
+- pkg:maven/com.yandex.varioqub/proto@0.8.0?classifier=sources

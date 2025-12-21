@@ -35,3 +35,5 @@
 - pkg:maven/org.jetbrains.compose.annotation-internal/annotation-mingwx64@1.9.0-alpha02?classifier=sources
 - pkg:maven/org.jetbrains.compose.annotation-internal/annotation-mingwx64@1.9.0-alpha03?classifier=sources
 - pkg:maven/org.jetbrains.compose.annotation-internal/annotation-mingwx64@1.9.0-beta01?classifier=sources
+- pkg:maven/org.jetbrains.compose.annotation-internal/annotation-mingwx64@1.9.0-beta03?classifier=sources
+- pkg:maven/org.jetbrains.compose.annotation-internal/annotation-mingwx64@1.9.0-rc01?classifier=sources

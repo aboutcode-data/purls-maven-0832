@@ -32,3 +32,4 @@
 - pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.32?classifier=sources
 - pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.33?classifier=sources
 - pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.34?classifier=sources
+- pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.35?classifier=sources

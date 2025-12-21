@@ -1,1 +1,2 @@
 - pkg:maven/io.agora.rtc/full-video-av1-codec-dec@4.6.0.TEST?type=aar
+- pkg:maven/io.agora.rtc/full-video-av1-codec-dec@4.6.0?type=aar

@@ -23,3 +23,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-hints@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-hints@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-hints@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-hints@RELEASE270?classifier=sources

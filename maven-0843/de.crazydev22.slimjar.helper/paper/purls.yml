@@ -1,1 +1,2 @@
 - pkg:maven/de.crazydev22.slimjar.helper/paper@2.1.8?classifier=sources
+- pkg:maven/de.crazydev22.slimjar.helper/paper@2.1.9?classifier=sources

@@ -72,6 +72,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-hashicorp-vault@3.24.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-hashicorp-vault@3.25.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-hashicorp-vault@3.25.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-hashicorp-vault@3.26.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-hashicorp-vault@3.26.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-hashicorp-vault@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-hashicorp-vault@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-hashicorp-vault@3.5.0

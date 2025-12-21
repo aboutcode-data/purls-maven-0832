@@ -1,1 +1,2 @@
 - pkg:maven/dev.weisz/boba-ansi@2025.5.4-alpha?classifier=sources
+- pkg:maven/dev.weisz/boba-ansi@2025.8.14-alpha?classifier=sources

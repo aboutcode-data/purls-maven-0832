@@ -1,6 +1,9 @@
 - pkg:maven/pro.shushi.pamirs.core/pamirs-trigger-annotation@6.2.10?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-trigger-annotation@6.2.11?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-trigger-annotation@6.2.12?classifier=sources
+- pkg:maven/pro.shushi.pamirs.core/pamirs-trigger-annotation@6.2.13?classifier=sources
+- pkg:maven/pro.shushi.pamirs.core/pamirs-trigger-annotation@6.2.14?classifier=sources
+- pkg:maven/pro.shushi.pamirs.core/pamirs-trigger-annotation@6.2.15?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-trigger-annotation@6.2.6?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-trigger-annotation@6.2.7?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-trigger-annotation@6.2.8?classifier=sources

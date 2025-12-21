@@ -74,3 +74,7 @@
 - pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.8?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.9?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.14.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.14.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.15.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.15.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.16.0?classifier=sources

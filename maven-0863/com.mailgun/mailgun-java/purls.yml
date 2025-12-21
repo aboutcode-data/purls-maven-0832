@@ -34,3 +34,4 @@
 - pkg:maven/com.mailgun/mailgun-java@1.1.6?classifier=sources
 - pkg:maven/com.mailgun/mailgun-java@2.0.0
 - pkg:maven/com.mailgun/mailgun-java@2.0.0?classifier=sources
+- pkg:maven/com.mailgun/mailgun-java@2.1.0?classifier=sources

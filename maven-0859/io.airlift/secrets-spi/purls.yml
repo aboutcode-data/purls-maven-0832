@@ -87,3 +87,13 @@
 - pkg:maven/io.airlift/secrets-spi@340?classifier=sources
 - pkg:maven/io.airlift/secrets-spi@341?classifier=sources
 - pkg:maven/io.airlift/secrets-spi@342?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@343?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@344?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@345?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@346?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@347?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@348?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@349?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@350?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@351?classifier=sources
+- pkg:maven/io.airlift/secrets-spi@352?classifier=sources

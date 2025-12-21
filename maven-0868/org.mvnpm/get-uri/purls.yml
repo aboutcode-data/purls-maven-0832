@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/get-uri@6.0.5
+- pkg:maven/org.mvnpm/get-uri@6.0.5?classifier=sources

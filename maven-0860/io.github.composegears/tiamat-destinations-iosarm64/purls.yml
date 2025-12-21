@@ -1,3 +1,6 @@
 - pkg:maven/io.github.composegears/tiamat-destinations-iosarm64@1.5.0?classifier=sources
 - pkg:maven/io.github.composegears/tiamat-destinations-iosarm64@1.5.1?classifier=sources
+- pkg:maven/io.github.composegears/tiamat-destinations-iosarm64@1.5.2?classifier=sources
 - pkg:maven/io.github.composegears/tiamat-destinations-iosarm64@2.0.0-alpha01?classifier=sources
+- pkg:maven/io.github.composegears/tiamat-destinations-iosarm64@2.0.0-alpha02?classifier=sources
+- pkg:maven/io.github.composegears/tiamat-destinations-iosarm64@2.0.0-alpha03?classifier=sources

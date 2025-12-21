@@ -1,2 +1,6 @@
 - pkg:maven/in.paybio.sdk/paybiosdk@1.0.0?classifier=sources
 - pkg:maven/in.paybio.sdk/paybiosdk@1.0.0?type=aar
+- pkg:maven/in.paybio.sdk/paybiosdk@1.0.1?classifier=sources
+- pkg:maven/in.paybio.sdk/paybiosdk@1.0.1?type=aar
+- pkg:maven/in.paybio.sdk/paybiosdk@1.0.2?classifier=sources
+- pkg:maven/in.paybio.sdk/paybiosdk@1.0.2?type=aar

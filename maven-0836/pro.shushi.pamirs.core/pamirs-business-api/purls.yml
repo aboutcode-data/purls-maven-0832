@@ -2,6 +2,9 @@
 - pkg:maven/pro.shushi.pamirs.core/pamirs-business-api@6.2.10?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-business-api@6.2.11?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-business-api@6.2.12?classifier=sources
+- pkg:maven/pro.shushi.pamirs.core/pamirs-business-api@6.2.13?classifier=sources
+- pkg:maven/pro.shushi.pamirs.core/pamirs-business-api@6.2.14?classifier=sources
+- pkg:maven/pro.shushi.pamirs.core/pamirs-business-api@6.2.15?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-business-api@6.2.1?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-business-api@6.2.2?classifier=sources
 - pkg:maven/pro.shushi.pamirs.core/pamirs-business-api@6.2.3?classifier=sources

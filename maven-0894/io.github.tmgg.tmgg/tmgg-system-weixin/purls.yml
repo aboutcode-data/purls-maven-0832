@@ -1,0 +1,3 @@
+- pkg:maven/io.github.tmgg.tmgg/tmgg-system-weixin@1.1.28?classifier=sources
+- pkg:maven/io.github.tmgg.tmgg/tmgg-system-weixin@1.1.29?classifier=sources
+- pkg:maven/io.github.tmgg.tmgg/tmgg-system-weixin@1.1.30?classifier=sources

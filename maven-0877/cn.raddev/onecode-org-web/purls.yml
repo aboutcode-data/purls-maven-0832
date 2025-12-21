@@ -16,3 +16,5 @@
 - pkg:maven/cn.raddev/onecode-org-web@2.0?classifier=sources
 - pkg:maven/cn.raddev/onecode-org-web@2.1
 - pkg:maven/cn.raddev/onecode-org-web@2.1?classifier=sources
+- pkg:maven/cn.raddev/onecode-org-web@3.0.1
+- pkg:maven/cn.raddev/onecode-org-web@3.0.1?classifier=sources

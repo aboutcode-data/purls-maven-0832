@@ -146,6 +146,7 @@
 - pkg:maven/io.lighty.core/lighty-controller@21.1.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-controller@21.2.0
 - pkg:maven/io.lighty.core/lighty-controller@21.2.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-controller@22.0.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-controller@8.4.1
 - pkg:maven/io.lighty.core/lighty-controller@8.4.1?classifier=sources
 - pkg:maven/io.lighty.core/lighty-controller@8.4.2

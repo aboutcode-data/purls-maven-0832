@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.softonline/id-generator-spring-boot-autoconfigure@1.0.1?classifier=sources
+- pkg:maven/io.gitee.softonline/id-generator-spring-boot-autoconfigure@1.0.2?classifier=sources

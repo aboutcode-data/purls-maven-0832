@@ -278,6 +278,7 @@
 - pkg:maven/org.infinispan/infinispan-component-annotations@14.0.33.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-component-annotations@14.0.34.Final
 - pkg:maven/org.infinispan/infinispan-component-annotations@14.0.34.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-component-annotations@14.0.35.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-component-annotations@14.0.4.Final
 - pkg:maven/org.infinispan/infinispan-component-annotations@14.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-component-annotations@14.0.5.Final
@@ -330,6 +331,7 @@
 - pkg:maven/org.infinispan/infinispan-component-annotations@15.0.16.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-component-annotations@15.0.17.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-component-annotations@15.0.18.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-component-annotations@15.0.19.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-component-annotations@15.0.2.Final
 - pkg:maven/org.infinispan/infinispan-component-annotations@15.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-component-annotations@15.0.3.Final
@@ -388,3 +390,4 @@
 - pkg:maven/org.infinispan/infinispan-component-annotations@15.2.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-component-annotations@16.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-component-annotations@16.0.0.Dev02?classifier=sources
+- pkg:maven/org.infinispan/infinispan-component-annotations@16.0.0.Dev03?classifier=sources

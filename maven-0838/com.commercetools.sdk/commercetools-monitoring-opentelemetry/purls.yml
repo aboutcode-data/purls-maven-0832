@@ -50,3 +50,5 @@
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@18.3.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@19.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@19.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@19.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-monitoring-opentelemetry@19.3.0?classifier=sources

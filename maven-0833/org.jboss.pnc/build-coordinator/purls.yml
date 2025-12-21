@@ -153,3 +153,6 @@
 - pkg:maven/org.jboss.pnc/build-coordinator@3.2.4?classifier=sources
 - pkg:maven/org.jboss.pnc/build-coordinator@3.2.5?classifier=sources
 - pkg:maven/org.jboss.pnc/build-coordinator@3.2.6?classifier=sources
+- pkg:maven/org.jboss.pnc/build-coordinator@3.2.7?classifier=sources
+- pkg:maven/org.jboss.pnc/build-coordinator@3.2.8?classifier=sources
+- pkg:maven/org.jboss.pnc/build-coordinator@3.2.9?classifier=sources

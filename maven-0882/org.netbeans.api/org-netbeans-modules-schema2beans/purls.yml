@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-schema2beans@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-schema2beans@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-schema2beans@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-schema2beans@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-schema2beans@RELEASE90?classifier=sources

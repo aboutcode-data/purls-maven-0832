@@ -30,3 +30,4 @@
 - pkg:maven/com.cognitect.aws/kinesis-video-archived-media@857.2.1574.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kinesis-video-archived-media@871.2.29.35
 - pkg:maven/com.cognitect.aws/kinesis-video-archived-media@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/kinesis-video-archived-media@871.2.32.30?classifier=sources

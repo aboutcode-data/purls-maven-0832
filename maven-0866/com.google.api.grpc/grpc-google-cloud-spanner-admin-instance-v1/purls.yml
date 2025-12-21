@@ -661,3 +661,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.97.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.98.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.98.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.98.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-admin-instance-v1@6.98.1?classifier=sources

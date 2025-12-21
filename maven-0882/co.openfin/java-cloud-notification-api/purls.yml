@@ -2,3 +2,5 @@
 - pkg:maven/co.openfin/java-cloud-notification-api@0.0.3?classifier=sources
 - pkg:maven/co.openfin/java-cloud-notification-api@0.0.4?classifier=sources
 - pkg:maven/co.openfin/java-cloud-notification-api@7.1.0?classifier=sources
+- pkg:maven/co.openfin/java-cloud-notification-api@8.1.0?classifier=sources
+- pkg:maven/co.openfin/java-cloud-notification-api@8.1.1?classifier=sources

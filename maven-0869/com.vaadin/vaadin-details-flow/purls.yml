@@ -75,6 +75,8 @@
 - pkg:maven/com.vaadin/vaadin-details-flow@14.12.8
 - pkg:maven/com.vaadin/vaadin-details-flow@14.12.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@14.13.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@14.13.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@14.13.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@14.5.0
 - pkg:maven/com.vaadin/vaadin-details-flow@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@14.5.1
@@ -567,6 +569,9 @@
 - pkg:maven/com.vaadin/vaadin-details-flow@23.5.9
 - pkg:maven/com.vaadin/vaadin-details-flow@23.5.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@23.6.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@23.6.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@23.6.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@23.6.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@24.0.0
 - pkg:maven/com.vaadin/vaadin-details-flow@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@24.0.1
@@ -805,6 +810,7 @@
 - pkg:maven/com.vaadin/vaadin-details-flow@24.7.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@24.7.11?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@24.7.12?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@24.7.13?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@24.7.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@24.7.2
 - pkg:maven/com.vaadin/vaadin-details-flow@24.7.2?classifier=sources
@@ -823,6 +829,10 @@
 - pkg:maven/com.vaadin/vaadin-details-flow@24.8.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@24.8.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@24.8.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@24.8.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@24.8.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@24.9.0-beta1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-details-flow@24.9.0-beta2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@3.0.0
 - pkg:maven/com.vaadin/vaadin-details-flow@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-details-flow@3.1.0

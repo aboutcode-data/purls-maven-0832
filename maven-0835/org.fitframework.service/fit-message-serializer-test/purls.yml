@@ -4,3 +4,5 @@
 - pkg:maven/org.fitframework.service/fit-message-serializer-test@3.5.0-M4?classifier=sources
 - pkg:maven/org.fitframework.service/fit-message-serializer-test@3.5.0-M5?classifier=sources
 - pkg:maven/org.fitframework.service/fit-message-serializer-test@3.5.0-M6?classifier=sources
+- pkg:maven/org.fitframework.service/fit-message-serializer-test@3.5.0?classifier=sources
+- pkg:maven/org.fitframework.service/fit-message-serializer-test@3.5.1?classifier=sources

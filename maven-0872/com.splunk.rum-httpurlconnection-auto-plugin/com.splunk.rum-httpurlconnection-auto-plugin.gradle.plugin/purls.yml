@@ -1,1 +1,2 @@
 - pkg:maven/com.splunk.rum-httpurlconnection-auto-plugin/com.splunk.rum-httpurlconnection-auto-plugin.gradle.plugin@2.0.0-alpha.1?classifier=sources
+- pkg:maven/com.splunk.rum-httpurlconnection-auto-plugin/com.splunk.rum-httpurlconnection-auto-plugin.gradle.plugin@2.0.0?classifier=sources

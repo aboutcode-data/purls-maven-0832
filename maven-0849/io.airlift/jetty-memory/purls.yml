@@ -32,3 +32,8 @@
 - pkg:maven/io.airlift/jetty-memory@340?classifier=sources
 - pkg:maven/io.airlift/jetty-memory@341?classifier=sources
 - pkg:maven/io.airlift/jetty-memory@342?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@343?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@344?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@345?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@346?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@347?classifier=sources

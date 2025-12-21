@@ -1,0 +1,2 @@
+- pkg:maven/no.solibo.oss/solibo-kartverket@1.0.0-master?classifier=sources
+- pkg:maven/no.solibo.oss/solibo-kartverket@1.0.0?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/com.github.stephengold/jolt-jni-Linux_ARM32hf@1.0.0?classifier=sources
 - pkg:maven/com.github.stephengold/jolt-jni-Linux_ARM32hf@2.0.1?classifier=sources
 - pkg:maven/com.github.stephengold/jolt-jni-Linux_ARM32hf@2.1.0?classifier=sources
+- pkg:maven/com.github.stephengold/jolt-jni-Linux_ARM32hf@2.2.0?classifier=sources

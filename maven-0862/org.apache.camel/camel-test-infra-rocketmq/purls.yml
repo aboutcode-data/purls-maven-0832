@@ -36,6 +36,8 @@
 - pkg:maven/org.apache.camel/camel-test-infra-rocketmq@4.12.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-rocketmq@4.13.0
 - pkg:maven/org.apache.camel/camel-test-infra-rocketmq@4.13.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-rocketmq@4.14.0
+- pkg:maven/org.apache.camel/camel-test-infra-rocketmq@4.14.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-rocketmq@4.2.0
 - pkg:maven/org.apache.camel/camel-test-infra-rocketmq@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-rocketmq@4.3.0

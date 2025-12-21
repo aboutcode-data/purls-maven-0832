@@ -10,6 +10,9 @@
 - pkg:maven/io.getstream/stream-chat-android-previewdata@6.18.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-previewdata@6.19.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-previewdata@6.20.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-previewdata@6.21.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-previewdata@6.22.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-previewdata@6.22.1?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-previewdata@6.5.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-previewdata@6.5.1?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-previewdata@6.5.2?classifier=sources

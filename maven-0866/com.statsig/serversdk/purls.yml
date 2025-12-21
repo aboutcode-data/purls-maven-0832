@@ -88,3 +88,4 @@
 - pkg:maven/com.statsig/serversdk@2.0.8?classifier=sources
 - pkg:maven/com.statsig/serversdk@2.2.0?classifier=sources
 - pkg:maven/com.statsig/serversdk@2.2.1?classifier=sources
+- pkg:maven/com.statsig/serversdk@2.2.2?classifier=sources

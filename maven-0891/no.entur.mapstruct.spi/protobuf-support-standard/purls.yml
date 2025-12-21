@@ -56,3 +56,4 @@
 - pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.47?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.48.0?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.49.0?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support-standard@1.50.0?classifier=sources

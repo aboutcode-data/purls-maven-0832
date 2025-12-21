@@ -1,2 +1,4 @@
 - pkg:maven/tech.carpentum/sbt-s3-resolver_2.12_1.0@1.0
 - pkg:maven/tech.carpentum/sbt-s3-resolver_2.12_1.0@1.0?classifier=sources
+- pkg:maven/tech.carpentum/sbt-s3-resolver_2.12_1.0@1.1
+- pkg:maven/tech.carpentum/sbt-s3-resolver_2.12_1.0@1.1?classifier=sources

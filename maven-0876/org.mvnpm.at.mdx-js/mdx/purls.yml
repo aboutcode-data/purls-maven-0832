@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm.at.mdx-js/mdx@3.1.0?classifier=sources
+- pkg:maven/org.mvnpm.at.mdx-js/mdx@3.1.1
+- pkg:maven/org.mvnpm.at.mdx-js/mdx@3.1.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/top.redscorpion.boot/redscorpion-boot-limiter@0.2.5?classifier=sources
 - pkg:maven/top.redscorpion.boot/redscorpion-boot-limiter@0.2.6?classifier=sources
 - pkg:maven/top.redscorpion.boot/redscorpion-boot-limiter@0.2.7?classifier=sources
+- pkg:maven/top.redscorpion.boot/redscorpion-boot-limiter@0.2.8
+- pkg:maven/top.redscorpion.boot/redscorpion-boot-limiter@0.2.8?classifier=sources

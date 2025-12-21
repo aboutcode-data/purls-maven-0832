@@ -34,3 +34,5 @@
 - pkg:maven/dev.inmo/micro_utils.common.compose-linuxarm64@0.26.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.common.compose-linuxarm64@0.26.1?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.common.compose-linuxarm64@0.26.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.common.compose-linuxarm64@0.26.3?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.common.compose-linuxarm64@0.26.4?classifier=sources

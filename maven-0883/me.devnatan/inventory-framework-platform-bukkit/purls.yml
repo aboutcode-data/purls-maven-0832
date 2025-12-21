@@ -28,3 +28,4 @@
 - pkg:maven/me.devnatan/inventory-framework-platform-bukkit@3.4.1?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-platform-bukkit@3.5.0?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-platform-bukkit@3.5.1?classifier=sources
+- pkg:maven/me.devnatan/inventory-framework-platform-bukkit@3.5.2?classifier=sources

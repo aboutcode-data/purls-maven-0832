@@ -1,0 +1,2 @@
+- pkg:maven/io.github.plasmon-scala/mtags-interfaces@1.6.1
+- pkg:maven/io.github.plasmon-scala/mtags-interfaces@1.6.1?classifier=sources

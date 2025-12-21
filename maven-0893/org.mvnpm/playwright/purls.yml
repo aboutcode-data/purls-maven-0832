@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm/playwright@1.51.1?classifier=sources
+- pkg:maven/org.mvnpm/playwright@1.52.0
+- pkg:maven/org.mvnpm/playwright@1.52.0?classifier=sources
 - pkg:maven/org.mvnpm/playwright@1.53.1
 - pkg:maven/org.mvnpm/playwright@1.53.1?classifier=sources
 - pkg:maven/org.mvnpm/playwright@1.53.2
@@ -7,3 +9,5 @@
 - pkg:maven/org.mvnpm/playwright@1.54.1?classifier=sources
 - pkg:maven/org.mvnpm/playwright@1.54.2
 - pkg:maven/org.mvnpm/playwright@1.54.2?classifier=sources
+- pkg:maven/org.mvnpm/playwright@1.55.0
+- pkg:maven/org.mvnpm/playwright@1.55.0?classifier=sources

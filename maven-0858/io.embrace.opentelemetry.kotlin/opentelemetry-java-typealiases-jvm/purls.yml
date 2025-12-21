@@ -8,3 +8,6 @@
 - pkg:maven/io.embrace.opentelemetry.kotlin/opentelemetry-java-typealiases-jvm@0.2.4?classifier=sources
 - pkg:maven/io.embrace.opentelemetry.kotlin/opentelemetry-java-typealiases-jvm@0.2.5?classifier=sources
 - pkg:maven/io.embrace.opentelemetry.kotlin/opentelemetry-java-typealiases-jvm@0.3.0?classifier=sources
+- pkg:maven/io.embrace.opentelemetry.kotlin/opentelemetry-java-typealiases-jvm@0.3.1?classifier=sources
+- pkg:maven/io.embrace.opentelemetry.kotlin/opentelemetry-java-typealiases-jvm@0.4.0?classifier=sources
+- pkg:maven/io.embrace.opentelemetry.kotlin/opentelemetry-java-typealiases-jvm@0.4.1?classifier=sources

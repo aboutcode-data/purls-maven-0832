@@ -13,3 +13,5 @@
 - pkg:maven/com.mineplex.studio.server/mineplex-api@1.21.4-R0.1-SNAPSHOT-313?classifier=sources
 - pkg:maven/com.mineplex.studio.server/mineplex-api@1.21.4-R0.1-SNAPSHOT-314?classifier=sources
 - pkg:maven/com.mineplex.studio.server/mineplex-api@1.21.4-R0.1-SNAPSHOT-315?classifier=sources
+- pkg:maven/com.mineplex.studio.server/mineplex-api@1.21.8-R0.1-323?classifier=sources
+- pkg:maven/com.mineplex.studio.server/mineplex-api@1.21.8-R0.1-325?classifier=sources

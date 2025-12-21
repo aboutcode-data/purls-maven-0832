@@ -26,6 +26,7 @@
 - pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.8.1-alpha.12?classifier=sources
 - pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.8.1-alpha.13?classifier=sources
 - pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.8.1-alpha.14?classifier=sources
+- pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.8.1-alpha.15?classifier=sources
 - pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.8.1-alpha.2?classifier=sources
 - pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.8.1-alpha.3?classifier=sources
 - pkg:maven/com.github.leeonky/jfactory-repo-jpa@0.8.1-alpha.4?classifier=sources

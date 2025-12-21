@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/babel-plugin-react-compiler@19.1.0-rc.2
+- pkg:maven/org.mvnpm/babel-plugin-react-compiler@19.1.0-rc.2?classifier=sources

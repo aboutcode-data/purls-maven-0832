@@ -402,6 +402,12 @@
 - pkg:maven/com.google.cloud/google-cloud-automl@2.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-automl@2.70.0
 - pkg:maven/com.google.cloud/google-cloud-automl@2.70.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-automl@2.71.0
+- pkg:maven/com.google.cloud/google-cloud-automl@2.71.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-automl@2.72.0
+- pkg:maven/com.google.cloud/google-cloud-automl@2.72.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-automl@2.73.0
+- pkg:maven/com.google.cloud/google-cloud-automl@2.73.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-automl@2.8.0
 - pkg:maven/com.google.cloud/google-cloud-automl@2.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-automl@2.9.0

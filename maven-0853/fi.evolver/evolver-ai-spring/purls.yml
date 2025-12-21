@@ -100,6 +100,7 @@
 - pkg:maven/fi.evolver/evolver-ai-spring@1.1.1
 - pkg:maven/fi.evolver/evolver-ai-spring@1.1.1?classifier=sources
 - pkg:maven/fi.evolver/evolver-ai-spring@1.10.0?classifier=sources
+- pkg:maven/fi.evolver/evolver-ai-spring@1.10.1?classifier=sources
 - pkg:maven/fi.evolver/evolver-ai-spring@1.2.0
 - pkg:maven/fi.evolver/evolver-ai-spring@1.2.0?classifier=sources
 - pkg:maven/fi.evolver/evolver-ai-spring@1.3.0

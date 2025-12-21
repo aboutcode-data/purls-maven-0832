@@ -1,1 +1,2 @@
 - pkg:maven/net.webtide.tools/webtide-github-api@1.0?classifier=sources
+- pkg:maven/net.webtide.tools/webtide-github-api@1.1?classifier=sources

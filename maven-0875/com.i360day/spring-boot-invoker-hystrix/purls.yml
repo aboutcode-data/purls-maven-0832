@@ -5,3 +5,4 @@
 - pkg:maven/com.i360day/spring-boot-invoker-hystrix@3.0.2
 - pkg:maven/com.i360day/spring-boot-invoker-hystrix@3.0.2?classifier=sources
 - pkg:maven/com.i360day/spring-boot-invoker-hystrix@3.0.3?classifier=sources
+- pkg:maven/com.i360day/spring-boot-invoker-hystrix@3.0.4?classifier=sources

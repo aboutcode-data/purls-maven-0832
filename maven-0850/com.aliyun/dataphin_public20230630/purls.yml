@@ -11,3 +11,4 @@
 - pkg:maven/com.aliyun/dataphin_public20230630@1.4.0
 - pkg:maven/com.aliyun/dataphin_public20230630@1.4.0?classifier=sources
 - pkg:maven/com.aliyun/dataphin_public20230630@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/dataphin_public20230630@2.0.1?classifier=sources

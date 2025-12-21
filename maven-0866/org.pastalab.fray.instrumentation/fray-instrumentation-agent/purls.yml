@@ -15,3 +15,5 @@
 - pkg:maven/org.pastalab.fray.instrumentation/fray-instrumentation-agent@0.6.0?classifier=sources
 - pkg:maven/org.pastalab.fray.instrumentation/fray-instrumentation-agent@0.6.1?classifier=sources
 - pkg:maven/org.pastalab.fray.instrumentation/fray-instrumentation-agent@0.6.2?classifier=sources
+- pkg:maven/org.pastalab.fray.instrumentation/fray-instrumentation-agent@0.6.3?classifier=sources
+- pkg:maven/org.pastalab.fray.instrumentation/fray-instrumentation-agent@0.6.4?classifier=sources

@@ -117,3 +117,4 @@
 - pkg:maven/com.weicoder/elasticsearch@3.6.2
 - pkg:maven/com.weicoder/elasticsearch@3.6.2?classifier=sources
 - pkg:maven/com.weicoder/elasticsearch@3.7.0?classifier=sources
+- pkg:maven/com.weicoder/elasticsearch@3.7.1?classifier=sources

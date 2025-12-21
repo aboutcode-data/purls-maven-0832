@@ -1,3 +1,7 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-jaxb-plugins@3.23.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-jaxb-plugins@3.23.1?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-jaxb-plugins@3.25.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-jaxb-plugins@3.25.0?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-jaxb-plugins@3.26.0?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-jaxb-plugins@3.26.1?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-jaxb-plugins@3.26.2?classifier=sources

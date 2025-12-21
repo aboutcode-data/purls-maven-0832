@@ -1,3 +1,4 @@
+- pkg:maven/com.ritense.valtimo/documenten-api@0.1.0-RC-2?classifier=sources
 - pkg:maven/com.ritense.valtimo/documenten-api@10.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/documenten-api@10.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/documenten-api@10.2.0.RELEASE?classifier=sources
@@ -66,6 +67,9 @@
 - pkg:maven/com.ritense.valtimo/documenten-api@13.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/documenten-api@13.0.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/documenten-api@13.0.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/documenten-api@13.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/documenten-api@13.1.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/documenten-api@13.1.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/documenten-api@9.18.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/documenten-api@9.19.0?classifier=sources
 - pkg:maven/com.ritense.valtimo/documenten-api@9.20.0.RELEASE?classifier=sources

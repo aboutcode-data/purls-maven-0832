@@ -225,6 +225,8 @@
 - pkg:maven/org.terracotta/angela@3.3.4
 - pkg:maven/org.terracotta/angela@3.3.40
 - pkg:maven/org.terracotta/angela@3.3.40?classifier=sources
+- pkg:maven/org.terracotta/angela@3.3.41
+- pkg:maven/org.terracotta/angela@3.3.41?classifier=sources
 - pkg:maven/org.terracotta/angela@3.3.4?classifier=sources
 - pkg:maven/org.terracotta/angela@3.3.5
 - pkg:maven/org.terracotta/angela@3.3.5?classifier=sources

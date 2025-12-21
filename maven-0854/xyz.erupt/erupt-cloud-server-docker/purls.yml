@@ -1,1 +1,2 @@
 - pkg:maven/xyz.erupt/erupt-cloud-server-docker@1.12.21?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server-docker@1.12.23?classifier=sources

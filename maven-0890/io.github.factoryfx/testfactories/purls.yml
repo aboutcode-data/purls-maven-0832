@@ -1,1 +1,3 @@
+- pkg:maven/io.github.factoryfx/testfactories@4.0.10?classifier=sources
+- pkg:maven/io.github.factoryfx/testfactories@4.0.11?classifier=sources
 - pkg:maven/io.github.factoryfx/testfactories@4.0.9?classifier=sources

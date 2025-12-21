@@ -119,12 +119,14 @@
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.14
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.14.1
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.14.1?classifier=sources
+- pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.14.2?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.14?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.15
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.15?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.16
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.16?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.17
+- pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.17.1?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.17?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.1?classifier=sources
 - pkg:maven/net.polyv/polyv-java-vod-sdk@2.1.2

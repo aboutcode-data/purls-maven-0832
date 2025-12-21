@@ -8,3 +8,6 @@
 - pkg:maven/io.github.wasabithumb/jtoml-kotlin@0.6.3?classifier=sources
 - pkg:maven/io.github.wasabithumb/jtoml-kotlin@0.6.4?classifier=sources
 - pkg:maven/io.github.wasabithumb/jtoml-kotlin@1.0.0?classifier=sources
+- pkg:maven/io.github.wasabithumb/jtoml-kotlin@1.1.0?classifier=sources
+- pkg:maven/io.github.wasabithumb/jtoml-kotlin@1.2.0?classifier=sources
+- pkg:maven/io.github.wasabithumb/jtoml-kotlin@1.2.1?classifier=sources

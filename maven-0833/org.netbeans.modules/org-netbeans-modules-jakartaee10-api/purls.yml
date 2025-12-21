@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee10-api@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee10-api@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee10-api@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee10-api@RELEASE270?classifier=sources

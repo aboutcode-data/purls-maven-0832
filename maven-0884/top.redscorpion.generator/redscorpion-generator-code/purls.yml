@@ -1,0 +1,2 @@
+- pkg:maven/top.redscorpion.generator/redscorpion-generator-code@0.2.1
+- pkg:maven/top.redscorpion.generator/redscorpion-generator-code@0.2.1?classifier=sources

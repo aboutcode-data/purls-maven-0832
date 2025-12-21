@@ -561,5 +561,8 @@
 - pkg:maven/com.cognitect.aws/endpoints@871.2.31.64?classifier=sources
 - pkg:maven/com.cognitect.aws/endpoints@871.2.32.10?classifier=sources
 - pkg:maven/com.cognitect.aws/endpoints@871.2.32.15?classifier=sources
+- pkg:maven/com.cognitect.aws/endpoints@871.2.32.20?classifier=sources
+- pkg:maven/com.cognitect.aws/endpoints@871.2.32.21?classifier=sources
 - pkg:maven/com.cognitect.aws/endpoints@871.2.32.2?classifier=sources
+- pkg:maven/com.cognitect.aws/endpoints@871.2.32.30?classifier=sources
 - pkg:maven/com.cognitect.aws/endpoints@871.2.32.5?classifier=sources

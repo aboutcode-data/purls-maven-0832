@@ -1,0 +1,6 @@
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-promotions-v1@0.27.0
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-promotions-v1@0.27.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-promotions-v1@1.0.0
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-promotions-v1@1.0.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-promotions-v1@1.1.0
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-promotions-v1@1.1.0?classifier=sources

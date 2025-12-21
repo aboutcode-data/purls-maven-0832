@@ -1,0 +1,6 @@
+- pkg:maven/org.openpatch/scratch@4.23.0
+- pkg:maven/org.openpatch/scratch@4.23.0?classifier=sources
+- pkg:maven/org.openpatch/scratch@4.24.0
+- pkg:maven/org.openpatch/scratch@4.24.0?classifier=sources
+- pkg:maven/org.openpatch/scratch@4.24.1
+- pkg:maven/org.openpatch/scratch@4.24.1?classifier=sources

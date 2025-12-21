@@ -1,0 +1,2 @@
+- pkg:maven/com.ensody.nativebuilds/native-builds-gradle-plugin@0.1.0?classifier=sources
+- pkg:maven/com.ensody.nativebuilds/native-builds-gradle-plugin@0.3.0?classifier=sources

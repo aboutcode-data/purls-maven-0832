@@ -6,3 +6,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-dataframe-compiler-plugin@2.2.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-dataframe-compiler-plugin@2.2.10-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-dataframe-compiler-plugin@2.2.10-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-dataframe-compiler-plugin@2.2.10?classifier=sources

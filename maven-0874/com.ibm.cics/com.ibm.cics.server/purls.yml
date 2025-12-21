@@ -10,5 +10,9 @@
 - pkg:maven/com.ibm.cics/com.ibm.cics.server@1.700.1-5.4-PH25409
 - pkg:maven/com.ibm.cics/com.ibm.cics.server@1.700.1-5.5-PH11872
 - pkg:maven/com.ibm.cics/com.ibm.cics.server@1.700.1-5.5-PH25409
+- pkg:maven/com.ibm.cics/com.ibm.cics.server@1.700.100-5.5-PH63855?classifier=sources
 - pkg:maven/com.ibm.cics/com.ibm.cics.server@1.800.0-5.6
 - pkg:maven/com.ibm.cics/com.ibm.cics.server@1.800.1-5.6-PH34012
+- pkg:maven/com.ibm.cics/com.ibm.cics.server@1.800.1-5.6-PH63855?classifier=sources
+- pkg:maven/com.ibm.cics/com.ibm.cics.server@2.0.0-6.1-PH63856?classifier=sources
+- pkg:maven/com.ibm.cics/com.ibm.cics.server@2.100.0-6.2-PH63856?classifier=sources

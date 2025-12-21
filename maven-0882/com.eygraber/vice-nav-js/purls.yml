@@ -14,3 +14,4 @@
 - pkg:maven/com.eygraber/vice-nav-js@0.9.7?classifier=sources
 - pkg:maven/com.eygraber/vice-nav-js@0.9.8?classifier=sources
 - pkg:maven/com.eygraber/vice-nav-js@0.9.9?classifier=sources
+- pkg:maven/com.eygraber/vice-nav-js@1.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.free-now.sauron.plugins/maven-report@0.0.20?classifier=sources
 - pkg:maven/com.free-now.sauron.plugins/maven-report@0.0.21
 - pkg:maven/com.free-now.sauron.plugins/maven-report@0.0.21?classifier=sources
+- pkg:maven/com.free-now.sauron.plugins/maven-report@0.0.24
+- pkg:maven/com.free-now.sauron.plugins/maven-report@0.0.24?classifier=sources

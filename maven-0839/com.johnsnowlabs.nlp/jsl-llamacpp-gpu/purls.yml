@@ -1,4 +1,5 @@
 - pkg:maven/com.johnsnowlabs.nlp/jsl-llamacpp-gpu@0.6.0-rc1?classifier=sources
 - pkg:maven/com.johnsnowlabs.nlp/jsl-llamacpp-gpu@1.0.0-rc1?classifier=sources
 - pkg:maven/com.johnsnowlabs.nlp/jsl-llamacpp-gpu@1.0.1?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/jsl-llamacpp-gpu@1.0.2-compat-rc1?classifier=sources
 - pkg:maven/com.johnsnowlabs.nlp/jsl-llamacpp-gpu@1.0.2?classifier=sources

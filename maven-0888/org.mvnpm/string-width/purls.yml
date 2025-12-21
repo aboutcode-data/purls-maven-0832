@@ -9,3 +9,5 @@
 - pkg:maven/org.mvnpm/string-width@7.0.0?classifier=sources
 - pkg:maven/org.mvnpm/string-width@7.1.0?classifier=sources
 - pkg:maven/org.mvnpm/string-width@7.2.0?classifier=sources
+- pkg:maven/org.mvnpm/string-width@8.0.0
+- pkg:maven/org.mvnpm/string-width@8.0.0?classifier=sources

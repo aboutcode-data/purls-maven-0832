@@ -2,3 +2,5 @@
 - pkg:maven/org.irods/irods4j@0.1.0?classifier=sources
 - pkg:maven/org.irods/irods4j@0.2.0-java8?classifier=sources
 - pkg:maven/org.irods/irods4j@0.2.0?classifier=sources
+- pkg:maven/org.irods/irods4j@0.3.0-java8?classifier=sources
+- pkg:maven/org.irods/irods4j@0.3.0?classifier=sources

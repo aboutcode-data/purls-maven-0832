@@ -325,6 +325,12 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@11.9.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.0.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.10.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.11.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.11.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.12.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.13.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.14.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.2.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.3.0?classifier=sources
@@ -334,3 +340,4 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.6.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.7.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.8.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-framework@12.9.0?classifier=sources

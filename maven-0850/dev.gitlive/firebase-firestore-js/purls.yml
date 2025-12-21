@@ -35,3 +35,5 @@
 - pkg:maven/dev.gitlive/firebase-firestore-js@1.9.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-firestore-js@2.0.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-firestore-js@2.1.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-firestore-js@2.2.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-firestore-js@2.3.0?classifier=sources

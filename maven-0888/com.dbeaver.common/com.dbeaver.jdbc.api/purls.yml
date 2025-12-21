@@ -1,2 +1,3 @@
 - pkg:maven/com.dbeaver.common/com.dbeaver.jdbc.api@2.2.0?classifier=sources
 - pkg:maven/com.dbeaver.common/com.dbeaver.jdbc.api@2.3.0?classifier=sources
+- pkg:maven/com.dbeaver.common/com.dbeaver.jdbc.api@2.4.0?classifier=sources
