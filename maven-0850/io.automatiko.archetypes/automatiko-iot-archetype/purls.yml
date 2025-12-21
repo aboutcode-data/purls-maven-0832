@@ -31,6 +31,7 @@
 - pkg:maven/io.automatiko.archetypes/automatiko-iot-archetype@0.39.2?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-iot-archetype@0.4.0?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-iot-archetype@0.40.0?classifier=sources
+- pkg:maven/io.automatiko.archetypes/automatiko-iot-archetype@0.41.0?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-iot-archetype@0.5.0?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-iot-archetype@0.6.0?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-iot-archetype@0.7.0?classifier=sources

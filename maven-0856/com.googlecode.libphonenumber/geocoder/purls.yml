@@ -506,3 +506,5 @@
 - pkg:maven/com.googlecode.libphonenumber/geocoder@2.9?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/geocoder@3.0
 - pkg:maven/com.googlecode.libphonenumber/geocoder@3.0?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/geocoder@3.1
+- pkg:maven/com.googlecode.libphonenumber/geocoder@3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/align-text@0.1.4?classifier=sources
+- pkg:maven/org.mvnpm/align-text@1.0.2?classifier=sources

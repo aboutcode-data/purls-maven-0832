@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.nacos/nacos-maintainer-client@3.0.0-BETA
+- pkg:maven/com.alibaba.nacos/nacos-maintainer-client@3.0.0-BETA?classifier=sources

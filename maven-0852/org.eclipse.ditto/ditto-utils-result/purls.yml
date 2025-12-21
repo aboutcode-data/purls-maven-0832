@@ -98,3 +98,5 @@
 - pkg:maven/org.eclipse.ditto/ditto-utils-result@3.7.0?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-utils-result@3.7.1
 - pkg:maven/org.eclipse.ditto/ditto-utils-result@3.7.1?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-utils-result@3.7.2
+- pkg:maven/org.eclipse.ditto/ditto-utils-result@3.7.2?classifier=sources

@@ -23,6 +23,9 @@
 - pkg:maven/com.yandex.android/maps.mobile@4.12.0-full?type=aar
 - pkg:maven/com.yandex.android/maps.mobile@4.12.0-lite?type=aar
 - pkg:maven/com.yandex.android/maps.mobile@4.12.0-navikit?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.13.0-full?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.13.0-lite?type=aar
+- pkg:maven/com.yandex.android/maps.mobile@4.13.0-navikit?type=aar
 - pkg:maven/com.yandex.android/maps.mobile@4.2.0-full?type=aar
 - pkg:maven/com.yandex.android/maps.mobile@4.2.0-lite?type=aar
 - pkg:maven/com.yandex.android/maps.mobile@4.2.1-full?type=aar

@@ -26,6 +26,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@2.0.2
@@ -74,6 +75,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@3.0.2
@@ -172,6 +174,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@4.0.4

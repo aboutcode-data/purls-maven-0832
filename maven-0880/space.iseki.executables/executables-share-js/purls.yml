@@ -1,2 +1,5 @@
 - pkg:maven/space.iseki.executables/executables-share-js@0.0.13?classifier=sources
 - pkg:maven/space.iseki.executables/executables-share-js@0.0.14?classifier=sources
+- pkg:maven/space.iseki.executables/executables-share-js@0.0.16?classifier=sources
+- pkg:maven/space.iseki.executables/executables-share-js@0.0.17?classifier=sources
+- pkg:maven/space.iseki.executables/executables-share-js@0.0.18?classifier=sources

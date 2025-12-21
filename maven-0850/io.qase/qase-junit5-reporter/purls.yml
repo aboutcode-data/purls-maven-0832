@@ -2,6 +2,10 @@
 - pkg:maven/io.qase/qase-junit5-reporter@4.0.0?classifier=sources
 - pkg:maven/io.qase/qase-junit5-reporter@4.0.10
 - pkg:maven/io.qase/qase-junit5-reporter@4.0.10?classifier=sources
+- pkg:maven/io.qase/qase-junit5-reporter@4.0.11
+- pkg:maven/io.qase/qase-junit5-reporter@4.0.11?classifier=sources
+- pkg:maven/io.qase/qase-junit5-reporter@4.0.12
+- pkg:maven/io.qase/qase-junit5-reporter@4.0.12?classifier=sources
 - pkg:maven/io.qase/qase-junit5-reporter@4.0.2
 - pkg:maven/io.qase/qase-junit5-reporter@4.0.2?classifier=sources
 - pkg:maven/io.qase/qase-junit5-reporter@4.0.3

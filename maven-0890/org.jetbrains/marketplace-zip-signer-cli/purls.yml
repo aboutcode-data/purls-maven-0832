@@ -2,3 +2,4 @@
 - pkg:maven/org.jetbrains/marketplace-zip-signer-cli@0.1.23?classifier=sources
 - pkg:maven/org.jetbrains/marketplace-zip-signer-cli@0.1.24?classifier=sources
 - pkg:maven/org.jetbrains/marketplace-zip-signer-cli@0.1.29?classifier=sources
+- pkg:maven/org.jetbrains/marketplace-zip-signer-cli@0.1.34?classifier=sources

@@ -23,3 +23,4 @@
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-core@1.9.2.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-core@1.9.3.Final
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-core@1.9.3.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-core@1.9.4.Final?classifier=sources

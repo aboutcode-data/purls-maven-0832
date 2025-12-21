@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/stringstream@0.0.6?classifier=sources
+- pkg:maven/org.mvnpm/stringstream@1.0.0?classifier=sources

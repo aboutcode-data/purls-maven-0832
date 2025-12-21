@@ -11,4 +11,6 @@
 - pkg:maven/com.kodypay.grpc/kody-clientsdk-java@1.4.9?classifier=sources
 - pkg:maven/com.kodypay.grpc/kody-clientsdk-java@1.5.12?classifier=sources
 - pkg:maven/com.kodypay.grpc/kody-clientsdk-java@1.5.15?classifier=sources
+- pkg:maven/com.kodypay.grpc/kody-clientsdk-java@1.5.18?classifier=sources
 - pkg:maven/com.kodypay.grpc/kody-clientsdk-java@1.5.4?classifier=sources
+- pkg:maven/com.kodypay.grpc/kody-clientsdk-java@1.6.3?classifier=sources

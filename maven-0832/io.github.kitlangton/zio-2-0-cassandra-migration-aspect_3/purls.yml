@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kitlangton/zio-2-0-cassandra-migration-aspect_3@0.11.2
+- pkg:maven/io.github.kitlangton/zio-2-0-cassandra-migration-aspect_3@0.11.2?classifier=sources

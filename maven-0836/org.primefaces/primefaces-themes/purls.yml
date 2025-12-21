@@ -3,3 +3,9 @@
 - pkg:maven/org.primefaces/primefaces-themes@15.0.0-RC2
 - pkg:maven/org.primefaces/primefaces-themes@15.0.0-RC2?classifier=sources
 - pkg:maven/org.primefaces/primefaces-themes@15.0.0?classifier=sources
+- pkg:maven/org.primefaces/primefaces-themes@15.0.1
+- pkg:maven/org.primefaces/primefaces-themes@15.0.1?classifier=sources
+- pkg:maven/org.primefaces/primefaces-themes@15.0.2
+- pkg:maven/org.primefaces/primefaces-themes@15.0.2?classifier=sources
+- pkg:maven/org.primefaces/primefaces-themes@15.0.3
+- pkg:maven/org.primefaces/primefaces-themes@15.0.3?classifier=sources

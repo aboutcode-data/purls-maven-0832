@@ -12,3 +12,5 @@
 - pkg:maven/fr.ird.ob7/driver-anapo@4.0.1?classifier=sources
 - pkg:maven/fr.ird.ob7/driver-anapo@4.0.2
 - pkg:maven/fr.ird.ob7/driver-anapo@4.0.2?classifier=sources
+- pkg:maven/fr.ird.ob7/driver-anapo@4.0.3
+- pkg:maven/fr.ird.ob7/driver-anapo@4.0.3?classifier=sources

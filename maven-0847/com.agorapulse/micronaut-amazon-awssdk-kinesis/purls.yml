@@ -116,6 +116,8 @@
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-kinesis@3.1.9?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-kinesis@3.2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-kinesis@3.3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-kinesis@3.3.10?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-kinesis@3.3.11?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-kinesis@3.3.2?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-kinesis@3.3.3?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-kinesis@3.3.4.1?classifier=sources

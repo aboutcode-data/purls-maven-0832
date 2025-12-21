@@ -611,6 +611,8 @@
 - pkg:maven/net.n2oapp.criteria/criteria-api@7.27.26?classifier=sources
 - pkg:maven/net.n2oapp.criteria/criteria-api@7.27.27
 - pkg:maven/net.n2oapp.criteria/criteria-api@7.27.27?classifier=sources
+- pkg:maven/net.n2oapp.criteria/criteria-api@7.27.28
+- pkg:maven/net.n2oapp.criteria/criteria-api@7.27.28?classifier=sources
 - pkg:maven/net.n2oapp.criteria/criteria-api@7.27.2?classifier=sources
 - pkg:maven/net.n2oapp.criteria/criteria-api@7.27.3
 - pkg:maven/net.n2oapp.criteria/criteria-api@7.27.3?classifier=sources

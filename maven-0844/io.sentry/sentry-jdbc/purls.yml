@@ -220,6 +220,11 @@
 - pkg:maven/io.sentry/sentry-jdbc@7.21.0-beta.1?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@7.21.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@7.22.0?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@7.22.1?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@7.22.2?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@7.22.3?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@7.22.4?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@7.22.5?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@7.3.0
 - pkg:maven/io.sentry/sentry-jdbc@7.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@7.4.0
@@ -254,3 +259,6 @@
 - pkg:maven/io.sentry/sentry-jdbc@8.1.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@8.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@8.3.0?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@8.4.0?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@8.5.0?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@8.6.0?classifier=sources

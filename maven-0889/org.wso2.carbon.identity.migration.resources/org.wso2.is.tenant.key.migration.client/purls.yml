@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.tenant.key.migration.client@1.1.142
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.tenant.key.migration.client@1.1.142?classifier=sources

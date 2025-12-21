@@ -3,4 +3,5 @@
 - pkg:maven/com.himanshoe/charty-iosarm64@2.1.0-beta01?classifier=sources
 - pkg:maven/com.himanshoe/charty-iosarm64@2.1.0-beta02?classifier=sources
 - pkg:maven/com.himanshoe/charty-iosarm64@2.1.0-beta03.1?classifier=sources
+- pkg:maven/com.himanshoe/charty-iosarm64@2.1.0-beta03.2?classifier=sources
 - pkg:maven/com.himanshoe/charty-iosarm64@2.1.0-beta03?classifier=sources

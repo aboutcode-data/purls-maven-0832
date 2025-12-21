@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.financial-times/polyfill-useragent-normaliser@1.10.2?classifier=sources
+- pkg:maven/org.mvnpm.at.financial-times/polyfill-useragent-normaliser@2.0.1?classifier=sources

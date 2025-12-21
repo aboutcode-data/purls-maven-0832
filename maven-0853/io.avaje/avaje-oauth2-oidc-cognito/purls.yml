@@ -1,0 +1,2 @@
+- pkg:maven/io.avaje/avaje-oauth2-oidc-cognito@0.1
+- pkg:maven/io.avaje/avaje-oauth2-oidc-cognito@0.1?classifier=sources

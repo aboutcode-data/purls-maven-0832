@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm.at.rollup/plugin-terser@0.4.4?classifier=sources

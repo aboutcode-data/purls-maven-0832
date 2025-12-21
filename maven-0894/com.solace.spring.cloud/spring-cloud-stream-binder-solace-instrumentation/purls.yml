@@ -1,0 +1,2 @@
+- pkg:maven/com.solace.spring.cloud/spring-cloud-stream-binder-solace-instrumentation@5.8.0
+- pkg:maven/com.solace.spring.cloud/spring-cloud-stream-binder-solace-instrumentation@5.8.0?classifier=sources

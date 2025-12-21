@@ -36,3 +36,7 @@
 - pkg:maven/com.softwaremill.sttp.client4/play29-json_sjs1_2.13@4.0.0-M9?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client4/play29-json_sjs1_2.13@4.0.0-RC1
 - pkg:maven/com.softwaremill.sttp.client4/play29-json_sjs1_2.13@4.0.0-RC1?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client4/play29-json_sjs1_2.13@4.0.0-RC2
+- pkg:maven/com.softwaremill.sttp.client4/play29-json_sjs1_2.13@4.0.0-RC2?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client4/play29-json_sjs1_2.13@4.0.0-RC3
+- pkg:maven/com.softwaremill.sttp.client4/play29-json_sjs1_2.13@4.0.0-RC3?classifier=sources

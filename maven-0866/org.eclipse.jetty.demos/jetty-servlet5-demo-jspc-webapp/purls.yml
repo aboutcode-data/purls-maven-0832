@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jetty.demos/jetty-servlet5-demo-jspc-webapp@12.1.0.alpha2?classifier=sources
+- pkg:maven/org.eclipse.jetty.demos/jetty-servlet5-demo-jspc-webapp@12.1.0.alpha2?type=war

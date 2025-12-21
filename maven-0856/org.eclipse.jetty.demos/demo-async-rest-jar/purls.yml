@@ -37,6 +37,8 @@
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@10.0.23?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@10.0.24
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@10.0.24?classifier=sources
+- pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@10.0.25
+- pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@10.0.25?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@10.0.3
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@10.0.3?classifier=sources
@@ -91,6 +93,8 @@
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@11.0.23?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@11.0.24
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@11.0.24?classifier=sources
+- pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@11.0.25
+- pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@11.0.25?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@11.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@11.0.3
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-jar@11.0.3?classifier=sources

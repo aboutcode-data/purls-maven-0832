@@ -29,3 +29,4 @@
 - pkg:maven/org.hildan.har/har-parser-watchosarm32@3.4.0?classifier=sources
 - pkg:maven/org.hildan.har/har-parser-watchosarm32@3.5.0?classifier=sources
 - pkg:maven/org.hildan.har/har-parser-watchosarm32@3.6.0?classifier=sources
+- pkg:maven/org.hildan.har/har-parser-watchosarm32@3.7.0?classifier=sources

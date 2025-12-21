@@ -41,3 +41,4 @@
 - pkg:maven/dev.jonpoulton.alakazam/di-hilt@4.7.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/di-hilt@4.7.1?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/di-hilt@5.0.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/di-hilt@6.0.0?classifier=sources

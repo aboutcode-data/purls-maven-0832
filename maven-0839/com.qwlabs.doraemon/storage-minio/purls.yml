@@ -268,3 +268,5 @@
 - pkg:maven/com.qwlabs.doraemon/storage-minio@0.3.52?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/storage-minio@0.3.53?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/storage-minio@0.3.54?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/storage-minio@0.3.55?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/storage-minio@0.3.56?classifier=sources

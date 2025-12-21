@@ -1,2 +1,4 @@
 - pkg:maven/com.lucidchart/piezo-worker_3@3.0.0
 - pkg:maven/com.lucidchart/piezo-worker_3@3.0.0?classifier=sources
+- pkg:maven/com.lucidchart/piezo-worker_3@3.1.0
+- pkg:maven/com.lucidchart/piezo-worker_3@3.1.0?classifier=sources

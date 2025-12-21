@@ -6,3 +6,4 @@
 - pkg:maven/com.darkrockstudios/ComposeTextEditorSpellCheck-desktop@0.6.0?classifier=sources
 - pkg:maven/com.darkrockstudios/ComposeTextEditorSpellCheck-desktop@0.6.1?classifier=sources
 - pkg:maven/com.darkrockstudios/ComposeTextEditorSpellCheck-desktop@0.6.2?classifier=sources
+- pkg:maven/com.darkrockstudios/ComposeTextEditorSpellCheck-desktop@0.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.getelements.elements/rt-kryo@3.0.49?classifier=sources
+- pkg:maven/dev.getelements.elements/rt-kryo@3.0.52?classifier=sources

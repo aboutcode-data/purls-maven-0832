@@ -12,3 +12,5 @@
 - pkg:maven/de.fraunhofer.iem/WPDS@3.2.2?classifier=sources
 - pkg:maven/de.fraunhofer.iem/WPDS@3.2.3
 - pkg:maven/de.fraunhofer.iem/WPDS@3.2.3?classifier=sources
+- pkg:maven/de.fraunhofer.iem/WPDS@4.0.0
+- pkg:maven/de.fraunhofer.iem/WPDS@4.0.0?classifier=sources

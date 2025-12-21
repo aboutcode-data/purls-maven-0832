@@ -35,3 +35,9 @@
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m3@0.31.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m3@0.32.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m3@0.32.0-b02?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m3@0.32.0?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m3@0.33.0-b01?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m3@0.33.0-b02?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m3@0.33.0-b03?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m3@0.33.0-b04?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m3@0.33.0-b05?classifier=sources

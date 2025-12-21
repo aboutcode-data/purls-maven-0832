@@ -149,6 +149,8 @@
 - pkg:maven/com.github.yujiaao/c-tools@1.15.9.3?classifier=sources
 - pkg:maven/com.github.yujiaao/c-tools@1.15.9.5
 - pkg:maven/com.github.yujiaao/c-tools@1.15.9.5?classifier=sources
+- pkg:maven/com.github.yujiaao/c-tools@1.15.9.9
+- pkg:maven/com.github.yujiaao/c-tools@1.15.9.9?classifier=sources
 - pkg:maven/com.github.yujiaao/c-tools@1.15.9?classifier=sources
 - pkg:maven/com.github.yujiaao/c-tools@1.2.0
 - pkg:maven/com.github.yujiaao/c-tools@1.2.0?classifier=sources

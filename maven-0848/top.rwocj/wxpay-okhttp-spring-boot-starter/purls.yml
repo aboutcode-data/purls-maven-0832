@@ -26,5 +26,7 @@
 - pkg:maven/top.rwocj/wxpay-okhttp-spring-boot-starter@0.16-javax
 - pkg:maven/top.rwocj/wxpay-okhttp-spring-boot-starter@0.16-javax?classifier=sources
 - pkg:maven/top.rwocj/wxpay-okhttp-spring-boot-starter@0.16?classifier=sources
+- pkg:maven/top.rwocj/wxpay-okhttp-spring-boot-starter@0.17-javax
+- pkg:maven/top.rwocj/wxpay-okhttp-spring-boot-starter@0.17-javax?classifier=sources
 - pkg:maven/top.rwocj/wxpay-okhttp-spring-boot-starter@0.9
 - pkg:maven/top.rwocj/wxpay-okhttp-spring-boot-starter@0.9?classifier=sources

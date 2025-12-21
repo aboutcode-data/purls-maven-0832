@@ -2,3 +2,4 @@
 - pkg:maven/com.paoapps.fifi/fifi-framework-jvm@0.0.29?classifier=sources
 - pkg:maven/com.paoapps.fifi/fifi-framework-jvm@0.0.30?classifier=sources
 - pkg:maven/com.paoapps.fifi/fifi-framework-jvm@0.0.31?classifier=sources
+- pkg:maven/com.paoapps.fifi/fifi-framework-jvm@0.0.32?classifier=sources

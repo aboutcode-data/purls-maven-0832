@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.redis@2.10.0
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.redis@2.10.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.redis@2.11.0
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.redis@2.11.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.redis@2.4.0
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.redis@2.4.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.redis@2.5.0

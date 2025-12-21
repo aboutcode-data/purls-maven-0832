@@ -80,6 +80,8 @@
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@17.26.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@17.27.0-alpha.1-mcg?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@17.27.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@17.28.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@17.29.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@17.3.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@17.3.1?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api@17.3.2?classifier=sources

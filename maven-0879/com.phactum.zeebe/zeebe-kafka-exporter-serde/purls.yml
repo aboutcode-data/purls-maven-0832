@@ -1,0 +1,1 @@
+- pkg:maven/com.phactum.zeebe/zeebe-kafka-exporter-serde@8.6.0?classifier=sources

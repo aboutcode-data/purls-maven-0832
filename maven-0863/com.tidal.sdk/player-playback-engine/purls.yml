@@ -13,3 +13,4 @@
 - pkg:maven/com.tidal.sdk/player-playback-engine@0.0.51?classifier=sources
 - pkg:maven/com.tidal.sdk/player-playback-engine@0.0.52?classifier=sources
 - pkg:maven/com.tidal.sdk/player-playback-engine@0.0.53?classifier=sources
+- pkg:maven/com.tidal.sdk/player-playback-engine@0.0.54?classifier=sources

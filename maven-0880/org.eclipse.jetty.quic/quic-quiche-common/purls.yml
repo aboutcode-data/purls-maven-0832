@@ -28,6 +28,8 @@
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@10.0.23?classifier=sources
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@10.0.24
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@10.0.24?classifier=sources
+- pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@10.0.25
+- pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@10.0.25?classifier=sources
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@10.0.8
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@10.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@10.0.9
@@ -62,6 +64,8 @@
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@11.0.23?classifier=sources
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@11.0.24
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@11.0.24?classifier=sources
+- pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@11.0.25
+- pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@11.0.25?classifier=sources
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@11.0.8
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@11.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty.quic/quic-quiche-common@11.0.9

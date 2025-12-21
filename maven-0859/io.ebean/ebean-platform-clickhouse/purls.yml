@@ -204,6 +204,14 @@
 - pkg:maven/io.ebean/ebean-platform-clickhouse@14.1.0-javax
 - pkg:maven/io.ebean/ebean-platform-clickhouse@14.1.0-javax?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-clickhouse@14.1.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@14.10.0
+- pkg:maven/io.ebean/ebean-platform-clickhouse@14.10.0-javax
+- pkg:maven/io.ebean/ebean-platform-clickhouse@14.10.0-javax?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@14.10.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@14.11.0
+- pkg:maven/io.ebean/ebean-platform-clickhouse@14.11.0-javax
+- pkg:maven/io.ebean/ebean-platform-clickhouse@14.11.0-javax?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@14.11.0?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-clickhouse@14.3.0
 - pkg:maven/io.ebean/ebean-platform-clickhouse@14.3.0-javax
 - pkg:maven/io.ebean/ebean-platform-clickhouse@14.3.0-javax?classifier=sources
@@ -260,6 +268,10 @@
 - pkg:maven/io.ebean/ebean-platform-clickhouse@15.0.2?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-clickhouse@15.1.0
 - pkg:maven/io.ebean/ebean-platform-clickhouse@15.1.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@15.10.0
+- pkg:maven/io.ebean/ebean-platform-clickhouse@15.10.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@15.11.0
+- pkg:maven/io.ebean/ebean-platform-clickhouse@15.11.0?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-clickhouse@15.3.0
 - pkg:maven/io.ebean/ebean-platform-clickhouse@15.3.0?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-clickhouse@15.3.1
@@ -284,3 +296,5 @@
 - pkg:maven/io.ebean/ebean-platform-clickhouse@15.8.2?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-clickhouse@15.9.0
 - pkg:maven/io.ebean/ebean-platform-clickhouse@15.9.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-clickhouse@17.0.0-beta1
+- pkg:maven/io.ebean/ebean-platform-clickhouse@17.0.0-beta1?classifier=sources

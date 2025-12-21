@@ -120,3 +120,4 @@
 - pkg:maven/com.apihug/it-common-proto@1.1.6-RELEASE?classifier=sources
 - pkg:maven/com.apihug/it-common-proto@1.1.7-RELEASE?classifier=sources
 - pkg:maven/com.apihug/it-common-proto@1.1.8-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-proto@1.1.9-RELEASE?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.github.mxaln/core-mingwx64@1.0.4-wasmjs?classifier=sources

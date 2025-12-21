@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/accepts@1.3.8?classifier=sources
+- pkg:maven/org.mvnpm/accepts@2.0.0?classifier=sources

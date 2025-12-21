@@ -2,3 +2,4 @@
 - pkg:maven/com.mikepenz/aboutlibraries-compose-core-macosarm64@12.0.0-a02?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-core-macosarm64@12.0.0-a03?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-core-macosarm64@12.0.0-a04?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-core-macosarm64@12.0.0-a05?classifier=sources

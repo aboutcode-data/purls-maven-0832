@@ -648,3 +648,7 @@
 - pkg:maven/org.anyline/anyline-img@8.7.2-20250212?classifier=sources
 - pkg:maven/org.anyline/anyline-img@8.7.2-20250225
 - pkg:maven/org.anyline/anyline-img@8.7.2-20250225?classifier=sources
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250312
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250312?classifier=sources
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250401
+- pkg:maven/org.anyline/anyline-img@8.7.2-20250401?classifier=sources

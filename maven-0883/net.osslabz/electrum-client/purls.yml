@@ -1,0 +1,2 @@
+- pkg:maven/net.osslabz/electrum-client@0.0.1
+- pkg:maven/net.osslabz/electrum-client@0.0.1?classifier=sources

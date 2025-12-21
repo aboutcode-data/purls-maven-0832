@@ -6,3 +6,9 @@
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@2.1.0-26.0?classifier=sources
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@2.2.0-26.1
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@2.2.0-26.1?classifier=sources
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@2.3.0-26.1
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@2.3.0-26.1?classifier=sources
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@2.3.1-26.1
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@2.3.1-26.1?classifier=sources
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@2.3.2-26.1
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-bundid@2.3.2-26.1?classifier=sources

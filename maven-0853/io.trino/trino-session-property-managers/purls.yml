@@ -119,3 +119,5 @@
 - pkg:maven/io.trino/trino-session-property-managers@470?classifier=sources
 - pkg:maven/io.trino/trino-session-property-managers@471?classifier=sources
 - pkg:maven/io.trino/trino-session-property-managers@472?classifier=sources
+- pkg:maven/io.trino/trino-session-property-managers@473?classifier=sources
+- pkg:maven/io.trino/trino-session-property-managers@474?classifier=sources

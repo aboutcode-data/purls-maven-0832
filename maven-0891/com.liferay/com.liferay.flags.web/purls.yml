@@ -200,6 +200,7 @@
 - pkg:maven/com.liferay/com.liferay.flags.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.web@3.0.3
 - pkg:maven/com.liferay/com.liferay.flags.web@3.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.web@3.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.web@3.0.4
@@ -287,6 +288,7 @@
 - pkg:maven/com.liferay/com.liferay.flags.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.web@4.0.3
+- pkg:maven/com.liferay/com.liferay.flags.web@4.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.web@4.0.4
@@ -375,6 +377,7 @@
 - pkg:maven/com.liferay/com.liferay.flags.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.web@5.0.3
 - pkg:maven/com.liferay/com.liferay.flags.web@5.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.web@5.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.web@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.web@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.web@5.0.4

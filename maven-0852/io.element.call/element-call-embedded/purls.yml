@@ -1,0 +1,3 @@
+- pkg:maven/io.element.call/element-call-embedded@0.9.0-release-test.6?classifier=sources
+- pkg:maven/io.element.call/element-call-embedded@0.9.0-release-test.7?classifier=sources
+- pkg:maven/io.element.call/element-call-embedded@v0.9.0-release-test.5?classifier=sources

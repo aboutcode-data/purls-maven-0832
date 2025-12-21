@@ -511,6 +511,7 @@
 - pkg:maven/io.acryl/datahub-protobuf@1.0.0rc10?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@1.0.0rc11?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@1.0.0rc12?classifier=sources
+- pkg:maven/io.acryl/datahub-protobuf@1.0.0rc13?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@1.0.0rc2?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@1.0.0rc3?classifier=sources
 - pkg:maven/io.acryl/datahub-protobuf@1.0.0rc4?classifier=sources

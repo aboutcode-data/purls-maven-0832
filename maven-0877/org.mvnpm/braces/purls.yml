@@ -1,3 +1,4 @@
+- pkg:maven/org.mvnpm/braces@2.3.2?classifier=sources
 - pkg:maven/org.mvnpm/braces@3.0.1?classifier=sources
 - pkg:maven/org.mvnpm/braces@3.0.2?classifier=sources
 - pkg:maven/org.mvnpm/braces@3.0.3?classifier=sources

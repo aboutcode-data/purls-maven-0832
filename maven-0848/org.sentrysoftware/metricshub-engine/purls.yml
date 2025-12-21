@@ -18,3 +18,5 @@
 - pkg:maven/org.sentrysoftware/metricshub-engine@1.0.00?classifier=sources
 - pkg:maven/org.sentrysoftware/metricshub-engine@1.0.01
 - pkg:maven/org.sentrysoftware/metricshub-engine@1.0.01?classifier=sources
+- pkg:maven/org.sentrysoftware/metricshub-engine@1.0.02
+- pkg:maven/org.sentrysoftware/metricshub-engine@1.0.02?classifier=sources

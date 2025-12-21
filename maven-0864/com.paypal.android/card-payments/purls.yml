@@ -17,3 +17,4 @@
 - pkg:maven/com.paypal.android/card-payments@1.7.1?classifier=sources
 - pkg:maven/com.paypal.android/card-payments@2.0.0-beta1?classifier=sources
 - pkg:maven/com.paypal.android/card-payments@2.0.0-beta2?classifier=sources
+- pkg:maven/com.paypal.android/card-payments@2.0.0?classifier=sources

@@ -28,6 +28,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.23?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.24
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.24?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.25
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.25?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.7
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@10.0.8
@@ -64,6 +66,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.23?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.24
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.24?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.25
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.25?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.7
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@11.0.8
@@ -107,6 +111,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.0.16?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.0.17
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.0.17?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.0.18
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.0.18?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.0.2
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.0.2?classifier=sources
@@ -128,3 +134,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.1.0.alpha0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.1.0.alpha1
 - pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.1.0.alpha1?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.1.0.alpha2
+- pkg:maven/org.eclipse.jetty/jetty-unixdomain-server@12.1.0.alpha2?classifier=sources

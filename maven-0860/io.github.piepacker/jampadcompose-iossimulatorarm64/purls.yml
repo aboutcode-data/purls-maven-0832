@@ -1,1 +1,4 @@
 - pkg:maven/io.github.piepacker/jampadcompose-iossimulatorarm64@0.0.1-alpha1?classifier=sources
+- pkg:maven/io.github.piepacker/jampadcompose-iossimulatorarm64@0.1.0-alpha1?classifier=sources
+- pkg:maven/io.github.piepacker/jampadcompose-iossimulatorarm64@0.1.0-alpha2?classifier=sources
+- pkg:maven/io.github.piepacker/jampadcompose-iossimulatorarm64@0.1.0-alpha4?classifier=sources

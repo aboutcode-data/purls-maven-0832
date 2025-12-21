@@ -108,3 +108,5 @@
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@19.1.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@19.2.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-message-center@19.3.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@19.4.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-message-center@19.5.0?classifier=sources

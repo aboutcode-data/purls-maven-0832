@@ -14,3 +14,5 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-proxy-common@24.09.3
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-proxy-common@24.09.3?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-proxy-common@24.09?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-grpc-proxy-common@25.03
+- pkg:maven/com.oracle.coherence.ce/coherence-grpc-proxy-common@25.03?classifier=sources

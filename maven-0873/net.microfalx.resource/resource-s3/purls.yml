@@ -4,3 +4,5 @@
 - pkg:maven/net.microfalx.resource/resource-s3@0.8.1?classifier=sources
 - pkg:maven/net.microfalx.resource/resource-s3@0.8.2
 - pkg:maven/net.microfalx.resource/resource-s3@0.8.2?classifier=sources
+- pkg:maven/net.microfalx.resource/resource-s3@1.0.0
+- pkg:maven/net.microfalx.resource/resource-s3@1.0.0?classifier=sources

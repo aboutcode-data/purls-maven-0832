@@ -1,1 +1,2 @@
 - pkg:maven/me.hsgamer/topper-spigot-query-forward-plugin@3.8.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-spigot-query-forward-plugin@3.8.1?classifier=sources

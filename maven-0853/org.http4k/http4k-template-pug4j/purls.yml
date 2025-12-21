@@ -81,3 +81,10 @@
 - pkg:maven/org.http4k/http4k-template-pug4j@6.0.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-pug4j@6.1.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-pug4j@6.1.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-template-pug4j@6.2.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-pug4j@6.4.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-pug4j@6.4.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-pug4j@6.5.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-pug4j@6.5.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-pug4j@v6.3.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-pug4j@v6.4.1.0?classifier=sources

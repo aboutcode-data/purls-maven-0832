@@ -1,0 +1,2 @@
+- pkg:maven/de.jonasbroeckmann.ksignal/ksignal-linuxarm64@1.0.0?classifier=sources
+- pkg:maven/de.jonasbroeckmann.ksignal/ksignal-linuxarm64@1.0.1?classifier=sources

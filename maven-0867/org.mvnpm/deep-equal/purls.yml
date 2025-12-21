@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/deep-equal@1.0.1?classifier=sources
+- pkg:maven/org.mvnpm/deep-equal@2.2.3?classifier=sources

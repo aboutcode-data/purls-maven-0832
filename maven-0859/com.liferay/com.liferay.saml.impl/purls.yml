@@ -111,6 +111,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.impl@3.0.35
 - pkg:maven/com.liferay/com.liferay.saml.impl@3.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.impl@3.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.impl@3.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.impl@4.0.15
 - pkg:maven/com.liferay/com.liferay.saml.impl@4.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.impl@4.0.15?classifier=sources-commercial

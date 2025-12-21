@@ -2,3 +2,5 @@
 - pkg:maven/org.ndviet/test-libraries-office-docs@23.11.11?classifier=sources
 - pkg:maven/org.ndviet/test-libraries-office-docs@24.02.24
 - pkg:maven/org.ndviet/test-libraries-office-docs@24.02.24?classifier=sources
+- pkg:maven/org.ndviet/test-libraries-office-docs@25.3.0
+- pkg:maven/org.ndviet/test-libraries-office-docs@25.3.0?classifier=sources

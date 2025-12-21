@@ -2,3 +2,4 @@
 - pkg:maven/org.febit.boot/febit-boot-devkit-flyway@3.3.0?classifier=sources
 - pkg:maven/org.febit.boot/febit-boot-devkit-flyway@3.3.1?classifier=sources
 - pkg:maven/org.febit.boot/febit-boot-devkit-flyway@3.4.0?classifier=sources
+- pkg:maven/org.febit.boot/febit-boot-devkit-flyway@3.4.1?classifier=sources

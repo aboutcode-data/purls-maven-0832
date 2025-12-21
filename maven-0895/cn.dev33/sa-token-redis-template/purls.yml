@@ -1,0 +1,2 @@
+- pkg:maven/cn.dev33/sa-token-redis-template@1.41.0
+- pkg:maven/cn.dev33/sa-token-redis-template@1.41.0?classifier=sources

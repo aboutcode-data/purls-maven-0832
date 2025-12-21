@@ -21,6 +21,7 @@
 - pkg:maven/ch.softappeal.yass2/yass2-core-jvm@20.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-core-jvm@20.0.1?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-core-jvm@20.0.2?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-core-jvm@21.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-core-jvm@6.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-core-jvm@6.1.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-core-jvm@7.0.0?classifier=sources

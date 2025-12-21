@@ -1,0 +1,3 @@
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.51.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.52.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.53.0?classifier=sources

@@ -122,6 +122,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bare-metal-solution-v2@0.59.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bare-metal-solution-v2@0.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bare-metal-solution-v2@0.6.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bare-metal-solution-v2@0.60.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bare-metal-solution-v2@0.60.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bare-metal-solution-v2@0.7.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bare-metal-solution-v2@0.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bare-metal-solution-v2@0.8.0

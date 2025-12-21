@@ -12,3 +12,5 @@
 - pkg:maven/io.imunity/unity-server-vaadin-public-shared-endpoint@4.0.4?classifier=sources
 - pkg:maven/io.imunity/unity-server-vaadin-public-shared-endpoint@4.0.5
 - pkg:maven/io.imunity/unity-server-vaadin-public-shared-endpoint@4.0.5?classifier=sources
+- pkg:maven/io.imunity/unity-server-vaadin-public-shared-endpoint@4.0.6
+- pkg:maven/io.imunity/unity-server-vaadin-public-shared-endpoint@4.0.6?classifier=sources

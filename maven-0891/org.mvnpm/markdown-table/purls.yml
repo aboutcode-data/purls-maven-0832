@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/markdown-table@0.4.0?classifier=sources
+- pkg:maven/org.mvnpm/markdown-table@3.0.4?classifier=sources

@@ -32,6 +32,7 @@
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.20?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.21?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.22?classifier=sources
+- pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.23?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.2?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.3?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.4?classifier=sources
@@ -40,3 +41,4 @@
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.7?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.8?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.9?classifier=sources
+- pkg:maven/com.aiuta/fashionsdk-tryon-paging@4.0.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.outbrain.mobile/obsdk@5.0.4?classifier=sources
 - pkg:maven/com.outbrain.mobile/obsdk@5.0.5?classifier=sources
 - pkg:maven/com.outbrain.mobile/obsdk@5.1.0?classifier=sources
+- pkg:maven/com.outbrain.mobile/obsdk@5.1.1?classifier=sources
+- pkg:maven/com.outbrain.mobile/obsdk@5.1.2?classifier=sources

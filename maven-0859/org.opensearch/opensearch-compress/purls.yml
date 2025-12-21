@@ -11,3 +11,4 @@
 - pkg:maven/org.opensearch/opensearch-compress@2.18.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-compress@2.19.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-compress@2.19.1?classifier=sources
+- pkg:maven/org.opensearch/opensearch-compress@3.0.0-alpha1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/isbinaryfile@2.0.4?classifier=sources
+- pkg:maven/org.mvnpm/isbinaryfile@5.0.4?classifier=sources

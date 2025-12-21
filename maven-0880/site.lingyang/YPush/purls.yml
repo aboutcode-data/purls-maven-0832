@@ -1,1 +1,4 @@
 - pkg:maven/site.lingyang/YPush@2.0.0?classifier=sources
+- pkg:maven/site.lingyang/YPush@2.1.0?classifier=sources
+- pkg:maven/site.lingyang/YPush@2.2.0?classifier=sources
+- pkg:maven/site.lingyang/YPush@2.2.1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/dev.zio/zio-interop-tracer_2.13@23.1.0.3?classifier=sources
 - pkg:maven/dev.zio/zio-interop-tracer_2.13@23.1.0.4
 - pkg:maven/dev.zio/zio-interop-tracer_2.13@23.1.0.4?classifier=sources
+- pkg:maven/dev.zio/zio-interop-tracer_2.13@23.1.0.5
+- pkg:maven/dev.zio/zio-interop-tracer_2.13@23.1.0.5?classifier=sources

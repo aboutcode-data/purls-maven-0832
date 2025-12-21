@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.discoveryjs/json-ext@0.5.7?classifier=sources
+- pkg:maven/org.mvnpm.at.discoveryjs/json-ext@0.6.3?classifier=sources

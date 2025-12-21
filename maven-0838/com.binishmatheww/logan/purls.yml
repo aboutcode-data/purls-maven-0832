@@ -1,0 +1,2 @@
+- pkg:maven/com.binishmatheww/logan@1.0.0?classifier=sources
+- pkg:maven/com.binishmatheww/logan@1.0.1?classifier=sources

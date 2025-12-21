@@ -1,2 +1,8 @@
 - pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.0
 - pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.0?classifier=sources
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.1
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.1?classifier=sources
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.2
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.2?classifier=sources
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.3
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-windows-x86-64@3.7.0.3?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.vesoft/driver@5.0.0-rc2
 - pkg:maven/com.vesoft/driver@5.0.0-rc2?classifier=sources
 - pkg:maven/com.vesoft/driver@5.0.0?classifier=sources
+- pkg:maven/com.vesoft/driver@5.0.1
+- pkg:maven/com.vesoft/driver@5.0.1?classifier=sources

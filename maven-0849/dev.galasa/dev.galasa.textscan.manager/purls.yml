@@ -6,3 +6,4 @@
 - pkg:maven/dev.galasa/dev.galasa.textscan.manager@0.34.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.textscan.manager@0.38.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.textscan.manager@0.39.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.textscan.manager@0.40.0?classifier=sources

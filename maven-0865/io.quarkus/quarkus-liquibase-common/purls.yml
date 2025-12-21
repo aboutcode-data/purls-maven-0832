@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkus/quarkus-liquibase-common@3.21.0
+- pkg:maven/io.quarkus/quarkus-liquibase-common@3.21.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-liquibase-common@3.21.1
+- pkg:maven/io.quarkus/quarkus-liquibase-common@3.21.1?classifier=sources

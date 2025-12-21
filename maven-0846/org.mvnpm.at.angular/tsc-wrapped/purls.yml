@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.angular/tsc-wrapped@0.5.2?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/tsc-wrapped@4.4.6?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/dev.inmo/micro_utils.colors-jvm@0.24.9?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.colors-jvm@0.25.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.colors-jvm@0.25.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.colors-jvm@0.25.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.colors-jvm@0.25.3?classifier=sources

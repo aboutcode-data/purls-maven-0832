@@ -18,3 +18,5 @@
 - pkg:maven/us.fatehi/schemacrawler-ai@16.25.2-2?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-ai@16.25.2-3
 - pkg:maven/us.fatehi/schemacrawler-ai@16.25.2-3?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-ai@16.25.3-1
+- pkg:maven/us.fatehi/schemacrawler-ai@16.25.3-1?classifier=sources

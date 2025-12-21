@@ -6,3 +6,6 @@
 - pkg:maven/com.hexagontk.serialization/serialization_jackson_toml@4.0.0?classifier=sources
 - pkg:maven/com.hexagontk.serialization/serialization_jackson_toml@4.0.1?classifier=sources
 - pkg:maven/com.hexagontk.serialization/serialization_jackson_toml@4.0.2?classifier=sources
+- pkg:maven/com.hexagontk.serialization/serialization_jackson_toml@4.0.3?classifier=sources
+- pkg:maven/com.hexagontk.serialization/serialization_jackson_toml@4.0.4?classifier=sources
+- pkg:maven/com.hexagontk.serialization/serialization_jackson_toml@4.1.0?classifier=sources

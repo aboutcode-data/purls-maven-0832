@@ -131,6 +131,8 @@
 - pkg:maven/net.wenzuo/atom-spring-cloud-starter-nacos-discovery@2.4.32?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-cloud-starter-nacos-discovery@2.4.33
 - pkg:maven/net.wenzuo/atom-spring-cloud-starter-nacos-discovery@2.4.33?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-cloud-starter-nacos-discovery@2.4.34
+- pkg:maven/net.wenzuo/atom-spring-cloud-starter-nacos-discovery@2.4.34?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-cloud-starter-nacos-discovery@2.4.3?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-cloud-starter-nacos-discovery@2.4.4
 - pkg:maven/net.wenzuo/atom-spring-cloud-starter-nacos-discovery@2.4.4?classifier=sources

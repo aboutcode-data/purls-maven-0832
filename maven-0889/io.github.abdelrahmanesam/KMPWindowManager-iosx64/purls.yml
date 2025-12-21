@@ -1,1 +1,3 @@
 - pkg:maven/io.github.abdelrahmanesam/KMPWindowManager-iosx64@0.5.0?classifier=sources
+- pkg:maven/io.github.abdelrahmanesam/KMPWindowManager-iosx64@0.6.0?classifier=sources
+- pkg:maven/io.github.abdelrahmanesam/KMPWindowManager-iosx64@io.github.abdelrahmanesam:KMPWindowManager:0.6.0?classifier=sources

@@ -53,3 +53,4 @@
 - pkg:maven/org.opensearch/custom-settings@2.7.0?classifier=sources
 - pkg:maven/org.opensearch/custom-settings@2.8.0?classifier=sources
 - pkg:maven/org.opensearch/custom-settings@2.9.0?classifier=sources
+- pkg:maven/org.opensearch/custom-settings@3.0.0-alpha1?classifier=sources

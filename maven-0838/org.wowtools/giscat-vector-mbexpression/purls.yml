@@ -7,3 +7,4 @@
 - pkg:maven/org.wowtools/giscat-vector-mbexpression@g1.7.0
 - pkg:maven/org.wowtools/giscat-vector-mbexpression@g1.7.0?classifier=sources
 - pkg:maven/org.wowtools/giscat-vector-mbexpression@g1.7.2?classifier=sources
+- pkg:maven/org.wowtools/giscat-vector-mbexpression@g1.7.3?classifier=sources

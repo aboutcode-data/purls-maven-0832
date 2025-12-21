@@ -101,6 +101,7 @@
 - pkg:maven/org.webjars.npm/babel__types@7.25.8
 - pkg:maven/org.webjars.npm/babel__types@7.25.9
 - pkg:maven/org.webjars.npm/babel__types@7.26.0
+- pkg:maven/org.webjars.npm/babel__types@7.26.10
 - pkg:maven/org.webjars.npm/babel__types@7.26.3
 - pkg:maven/org.webjars.npm/babel__types@7.26.5
 - pkg:maven/org.webjars.npm/babel__types@7.26.7

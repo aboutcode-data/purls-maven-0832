@@ -1,3 +1,5 @@
 - pkg:maven/se.alipsa.matrix/matrix-core@2.2.0?classifier=sources
 - pkg:maven/se.alipsa.matrix/matrix-core@2.3.0?classifier=sources
 - pkg:maven/se.alipsa.matrix/matrix-core@2.3.1?classifier=sources
+- pkg:maven/se.alipsa.matrix/matrix-core@3.0.0?classifier=sources
+- pkg:maven/se.alipsa.matrix/matrix-core@3.1.0?classifier=sources

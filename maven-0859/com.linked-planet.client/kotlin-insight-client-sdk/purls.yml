@@ -58,3 +58,5 @@
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-sdk@0.14.7?classifier=sources
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-sdk@0.14.8
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-sdk@0.14.8?classifier=sources
+- pkg:maven/com.linked-planet.client/kotlin-insight-client-sdk@0.14.9
+- pkg:maven/com.linked-planet.client/kotlin-insight-client-sdk@0.14.9?classifier=sources

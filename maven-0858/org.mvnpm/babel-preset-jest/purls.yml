@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/babel-preset-jest@26.6.2?classifier=sources
+- pkg:maven/org.mvnpm/babel-preset-jest@29.6.3?classifier=sources

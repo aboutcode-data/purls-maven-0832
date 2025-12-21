@@ -61,6 +61,10 @@
 - pkg:maven/com.puppycrawl.tools/checkstyle@10.21.3?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@10.21.4
 - pkg:maven/com.puppycrawl.tools/checkstyle@10.21.4?classifier=sources
+- pkg:maven/com.puppycrawl.tools/checkstyle@10.22.0
+- pkg:maven/com.puppycrawl.tools/checkstyle@10.22.0?classifier=sources
+- pkg:maven/com.puppycrawl.tools/checkstyle@10.23.0
+- pkg:maven/com.puppycrawl.tools/checkstyle@10.23.0?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@10.2?classifier=sources
 - pkg:maven/com.puppycrawl.tools/checkstyle@10.3
 - pkg:maven/com.puppycrawl.tools/checkstyle@10.3.1

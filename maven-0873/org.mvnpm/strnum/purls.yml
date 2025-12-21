@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/strnum@1.1.2?classifier=sources
+- pkg:maven/org.mvnpm/strnum@2.0.5?classifier=sources

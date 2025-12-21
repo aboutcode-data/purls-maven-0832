@@ -92,9 +92,13 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.18.4?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.19.0
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.19.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.19.1
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.19.1?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.2.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.20.0
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.20.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.21.2
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.21.2?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.3.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.3.1?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@5.4.0?classifier=sources
@@ -153,6 +157,8 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@6.7.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@6.8.0
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@6.8.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@6.8.1
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@6.8.1?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.0.0
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.0.0-alpha.1
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.0.0-alpha.10
@@ -193,3 +199,5 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.0.6?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.0.7
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.0.7?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.0.8
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.0.8?classifier=sources

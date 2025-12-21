@@ -1120,3 +1120,5 @@
 - pkg:maven/io.mangoo/mangooio-maven-archetype@9.3.0-Beta3
 - pkg:maven/io.mangoo/mangooio-maven-archetype@9.3.0-Beta3?classifier=sources
 - pkg:maven/io.mangoo/mangooio-maven-archetype@9.3.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-maven-archetype@9.4.0-Beta1
+- pkg:maven/io.mangoo/mangooio-maven-archetype@9.4.0-Beta1?classifier=sources

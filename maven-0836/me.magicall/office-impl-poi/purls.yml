@@ -1,2 +1,4 @@
 - pkg:maven/me.magicall/office-impl-poi@3.0.0?classifier=sources
 - pkg:maven/me.magicall/office-impl-poi@3.0.1?classifier=sources
+- pkg:maven/me.magicall/office-impl-poi@3.1.0?classifier=sources
+- pkg:maven/me.magicall/office-impl-poi@3.2.0?classifier=sources

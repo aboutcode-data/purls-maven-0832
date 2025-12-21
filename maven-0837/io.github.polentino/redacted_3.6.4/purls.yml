@@ -1,0 +1,2 @@
+- pkg:maven/io.github.polentino/redacted_3.6.4@0.7.1
+- pkg:maven/io.github.polentino/redacted_3.6.4@0.7.1?classifier=sources
