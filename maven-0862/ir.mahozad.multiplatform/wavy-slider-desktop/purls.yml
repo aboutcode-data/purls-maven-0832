@@ -16,3 +16,4 @@
 - pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@2.0.0-alpha?classifier=sources
 - pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@2.0.0-beta?classifier=sources
 - pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@2.0.0?classifier=sources
+- pkg:maven/ir.mahozad.multiplatform/wavy-slider-desktop@2.1.0-rc?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20250326-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20250409-2.0.0
 - pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20250409-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20250504-2.0.0
+- pkg:maven/com.google.apis/google-api-services-chromepolicy@v1-rev20250504-2.0.0?classifier=sources

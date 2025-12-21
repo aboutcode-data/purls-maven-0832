@@ -9,3 +9,4 @@
 - pkg:maven/com.hexagontk.http/http_server_jdk@4.0.4?classifier=sources
 - pkg:maven/com.hexagontk.http/http_server_jdk@4.1.0?classifier=sources
 - pkg:maven/com.hexagontk.http/http_server_jdk@4.1.1?classifier=sources
+- pkg:maven/com.hexagontk.http/http_server_jdk@4.2.0?classifier=sources

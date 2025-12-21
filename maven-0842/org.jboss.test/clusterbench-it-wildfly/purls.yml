@@ -5,3 +5,4 @@
 - pkg:maven/org.jboss.test/clusterbench-it-wildfly@11.0.1.Final
 - pkg:maven/org.jboss.test/clusterbench-it-wildfly@12.0.0.Final
 - pkg:maven/org.jboss.test/clusterbench-it-wildfly@12.0.1.Final
+- pkg:maven/org.jboss.test/clusterbench-it-wildfly@13.0.0.Final

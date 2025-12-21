@@ -1,0 +1,2 @@
+- pkg:maven/li.songe/json5-iossimulatorarm64@0.3.0?classifier=sources
+- pkg:maven/li.songe/json5-iossimulatorarm64@0.3.1?classifier=sources

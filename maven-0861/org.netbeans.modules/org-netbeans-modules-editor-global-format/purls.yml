@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-global-format@RELEASE90?classifier=sources

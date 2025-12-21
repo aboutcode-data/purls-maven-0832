@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.ai.mcp.tools@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.ai.mcp.tools@1.1.0?classifier=sources

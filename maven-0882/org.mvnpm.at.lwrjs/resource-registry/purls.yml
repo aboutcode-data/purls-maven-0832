@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.lwrjs/resource-registry@0.18.1?classifier=sources
 - pkg:maven/org.mvnpm.at.lwrjs/resource-registry@0.18.2
 - pkg:maven/org.mvnpm.at.lwrjs/resource-registry@0.18.2?classifier=sources
+- pkg:maven/org.mvnpm.at.lwrjs/resource-registry@0.18.3
+- pkg:maven/org.mvnpm.at.lwrjs/resource-registry@0.18.3?classifier=sources

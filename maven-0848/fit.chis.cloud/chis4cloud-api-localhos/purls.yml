@@ -20,3 +20,4 @@
 - pkg:maven/fit.chis.cloud/chis4cloud-api-localhos@3.6.0.9?classifier=sources
 - pkg:maven/fit.chis.cloud/chis4cloud-api-localhos@3.6.1.9
 - pkg:maven/fit.chis.cloud/chis4cloud-api-localhos@3.6.1.9?classifier=sources
+- pkg:maven/fit.chis.cloud/chis4cloud-api-localhos@3.6.2.9?classifier=sources

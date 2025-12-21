@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/postcss-unique-selectors@2.0.2?classifier=sources
 - pkg:maven/org.mvnpm/postcss-unique-selectors@7.0.3?classifier=sources
+- pkg:maven/org.mvnpm/postcss-unique-selectors@7.0.4
+- pkg:maven/org.mvnpm/postcss-unique-selectors@7.0.4?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.8?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@1.2.9?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-paging@4.0.0?classifier=sources
+- pkg:maven/com.aiuta/fashionsdk-tryon-paging@4.1.0?classifier=sources

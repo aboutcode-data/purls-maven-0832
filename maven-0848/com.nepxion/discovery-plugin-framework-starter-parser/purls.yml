@@ -44,6 +44,8 @@
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.39.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.40.0
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.40.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.41.0
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@3.41.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.10.0
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.10.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.11.0
@@ -57,6 +59,8 @@
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.12.11?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.12.12
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.12.12?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.12.13
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.12.13?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.12.1?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.12.2
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.12.2?classifier=sources
@@ -100,6 +104,8 @@
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.21.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.22.0
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.23.0
+- pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.23.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.5.0
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.5.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-framework-starter-parser@6.6.0

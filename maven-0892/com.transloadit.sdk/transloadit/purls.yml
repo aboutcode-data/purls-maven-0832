@@ -31,3 +31,4 @@
 - pkg:maven/com.transloadit.sdk/transloadit@1.0.0?classifier=sources
 - pkg:maven/com.transloadit.sdk/transloadit@1.0.1?classifier=sources
 - pkg:maven/com.transloadit.sdk/transloadit@2.0.0?classifier=sources
+- pkg:maven/com.transloadit.sdk/transloadit@2.0.1?classifier=sources

@@ -166,6 +166,7 @@
 - pkg:maven/org.infinispan/infinispan-logging-annotations@15.0.13.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-logging-annotations@15.0.14.Final
 - pkg:maven/org.infinispan/infinispan-logging-annotations@15.0.14.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-logging-annotations@15.0.15.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-logging-annotations@15.0.2.Final
 - pkg:maven/org.infinispan/infinispan-logging-annotations@15.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-logging-annotations@15.0.3.Final
@@ -218,3 +219,5 @@
 - pkg:maven/org.infinispan/infinispan-logging-annotations@15.2.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-logging-annotations@15.2.1.Final
 - pkg:maven/org.infinispan/infinispan-logging-annotations@15.2.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-logging-annotations@15.2.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-logging-annotations@16.0.0.Dev01?classifier=sources

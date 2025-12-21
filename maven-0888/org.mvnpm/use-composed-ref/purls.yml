@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/use-composed-ref@1.4.0
+- pkg:maven/org.mvnpm/use-composed-ref@1.4.0?classifier=sources

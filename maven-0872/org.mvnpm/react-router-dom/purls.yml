@@ -44,3 +44,5 @@
 - pkg:maven/org.mvnpm/react-router-dom@7.5.2?classifier=sources
 - pkg:maven/org.mvnpm/react-router-dom@7.5.3
 - pkg:maven/org.mvnpm/react-router-dom@7.5.3?classifier=sources
+- pkg:maven/org.mvnpm/react-router-dom@7.6.0
+- pkg:maven/org.mvnpm/react-router-dom@7.6.0?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/org.obolibrary.robot/robot-core@1.9.6?classifier=sources
 - pkg:maven/org.obolibrary.robot/robot-core@1.9.7
 - pkg:maven/org.obolibrary.robot/robot-core@1.9.7?classifier=sources
+- pkg:maven/org.obolibrary.robot/robot-core@1.9.8
+- pkg:maven/org.obolibrary.robot/robot-core@1.9.8?classifier=sources

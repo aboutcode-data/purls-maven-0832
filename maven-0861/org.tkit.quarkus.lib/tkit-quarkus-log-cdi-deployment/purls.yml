@@ -136,3 +136,7 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-cdi-deployment@2.8.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-cdi-deployment@2.9.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-cdi-deployment@2.9.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-cdi-deployment@3.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-cdi-deployment@3.1.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-cdi-deployment@3.2.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-cdi-deployment@3.3.0?classifier=sources

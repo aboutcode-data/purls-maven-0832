@@ -16,3 +16,7 @@
 - pkg:maven/com.power4j.fist3/fist-boot-security-oauth2-server@3.5.0?classifier=sources
 - pkg:maven/com.power4j.fist3/fist-boot-security-oauth2-server@3.6.0
 - pkg:maven/com.power4j.fist3/fist-boot-security-oauth2-server@3.6.0?classifier=sources
+- pkg:maven/com.power4j.fist3/fist-boot-security-oauth2-server@3.7.0
+- pkg:maven/com.power4j.fist3/fist-boot-security-oauth2-server@3.7.0?classifier=sources
+- pkg:maven/com.power4j.fist3/fist-boot-security-oauth2-server@3.7.1
+- pkg:maven/com.power4j.fist3/fist-boot-security-oauth2-server@3.7.1?classifier=sources

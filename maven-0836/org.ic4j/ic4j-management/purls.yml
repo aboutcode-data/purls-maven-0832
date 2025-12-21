@@ -24,3 +24,5 @@
 - pkg:maven/org.ic4j/ic4j-management@0.7.2?classifier=sources
 - pkg:maven/org.ic4j/ic4j-management@0.7.4
 - pkg:maven/org.ic4j/ic4j-management@0.7.4?classifier=sources
+- pkg:maven/org.ic4j/ic4j-management@0.7.5
+- pkg:maven/org.ic4j/ic4j-management@0.7.5?classifier=sources

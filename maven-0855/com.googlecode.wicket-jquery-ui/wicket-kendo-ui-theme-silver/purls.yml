@@ -190,6 +190,7 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-silver@9.2.1?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-silver@9.20.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-silver@9.20.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-silver@9.21.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-silver@9.3.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-silver@9.3.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-silver@9.3.1

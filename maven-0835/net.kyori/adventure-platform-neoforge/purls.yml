@@ -3,3 +3,4 @@
 - pkg:maven/net.kyori/adventure-platform-neoforge@6.1.0?classifier=sources
 - pkg:maven/net.kyori/adventure-platform-neoforge@6.2.0?classifier=sources
 - pkg:maven/net.kyori/adventure-platform-neoforge@6.3.0?classifier=sources
+- pkg:maven/net.kyori/adventure-platform-neoforge@6.4.0?classifier=sources

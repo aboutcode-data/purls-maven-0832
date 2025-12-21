@@ -4,3 +4,16 @@
 - pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.124.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.125.0-M1?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.125.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.125.1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.126.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.127.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.127.0-M2?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.127.0-M3?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.127.0-M4?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.127.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.128.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.129.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.129.0-M2?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.129.0-M3?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.129.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.130.0?classifier=sources

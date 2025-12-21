@@ -82,5 +82,6 @@
 - pkg:maven/com.51degrees/geo-location.core@4.4.33?classifier=sources
 - pkg:maven/com.51degrees/geo-location.core@4.4.34
 - pkg:maven/com.51degrees/geo-location.core@4.4.34?classifier=sources
+- pkg:maven/com.51degrees/geo-location.core@4.4.35?classifier=sources
 - pkg:maven/com.51degrees/geo-location.core@4.4.7
 - pkg:maven/com.51degrees/geo-location.core@4.4.7?classifier=sources

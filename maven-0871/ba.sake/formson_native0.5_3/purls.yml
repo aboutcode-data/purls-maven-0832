@@ -1,0 +1,2 @@
+- pkg:maven/ba.sake/formson_native0.5_3@0.10.0
+- pkg:maven/ba.sake/formson_native0.5_3@0.10.0?classifier=sources

@@ -116,5 +116,7 @@
 - pkg:maven/org.apache.camel/camel-aws-cloudtrail@4.8.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-aws-cloudtrail@4.8.6
 - pkg:maven/org.apache.camel/camel-aws-cloudtrail@4.8.6?classifier=sources
+- pkg:maven/org.apache.camel/camel-aws-cloudtrail@4.8.7
+- pkg:maven/org.apache.camel/camel-aws-cloudtrail@4.8.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-aws-cloudtrail@4.9.0
 - pkg:maven/org.apache.camel/camel-aws-cloudtrail@4.9.0?classifier=sources

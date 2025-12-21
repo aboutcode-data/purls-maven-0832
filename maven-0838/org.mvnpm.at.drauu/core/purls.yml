@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.drauu/core@0.4.3
+- pkg:maven/org.mvnpm.at.drauu/core@0.4.3?classifier=sources

@@ -15,6 +15,7 @@
 - pkg:maven/org.webjars.npm/babel__helper-validator-option@7.23.5
 - pkg:maven/org.webjars.npm/babel__helper-validator-option@7.23.5?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-validator-option@7.25.9
+- pkg:maven/org.webjars.npm/babel__helper-validator-option@7.27.1
 - pkg:maven/org.webjars.npm/babel__helper-validator-option@8.0.0-alpha.12
 - pkg:maven/org.webjars.npm/babel__helper-validator-option@8.0.0-alpha.4
 - pkg:maven/org.webjars.npm/babel__helper-validator-option@8.0.0-alpha.4?classifier=sources

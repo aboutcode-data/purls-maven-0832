@@ -1,0 +1,2 @@
+- pkg:maven/com.smartling.api/smartling-mt-router-api@1.18.0
+- pkg:maven/com.smartling.api/smartling-mt-router-api@1.18.0?classifier=sources

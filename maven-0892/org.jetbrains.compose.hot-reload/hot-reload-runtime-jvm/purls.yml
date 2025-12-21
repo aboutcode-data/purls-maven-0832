@@ -1,1 +1,2 @@
 - pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-jvm@1.0.0-alpha09?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-jvm@1.0.0-alpha10?classifier=sources

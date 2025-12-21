@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-examples@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-examples@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-examples@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-examples@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-examples@RELEASE90?classifier=sources

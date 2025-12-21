@@ -36,3 +36,4 @@
 - pkg:maven/com.limemojito.oss.github/github-utilities@15.2.7?classifier=sources
 - pkg:maven/com.limemojito.oss.github/github-utilities@15.2.8
 - pkg:maven/com.limemojito.oss.github/github-utilities@15.2.8?classifier=sources
+- pkg:maven/com.limemojito.oss.github/github-utilities@15.3.0?classifier=sources

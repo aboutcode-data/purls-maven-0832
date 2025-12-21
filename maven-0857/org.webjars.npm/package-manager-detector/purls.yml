@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/package-manager-detector@0.2.0
 - pkg:maven/org.webjars.npm/package-manager-detector@0.2.2
+- pkg:maven/org.webjars.npm/package-manager-detector@1.3.0

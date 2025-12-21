@@ -20,3 +20,7 @@
 - pkg:maven/dev.soundness/zeppelin-core@0.25.0?classifier=sources
 - pkg:maven/dev.soundness/zeppelin-core@0.26.0
 - pkg:maven/dev.soundness/zeppelin-core@0.26.0?classifier=sources
+- pkg:maven/dev.soundness/zeppelin-core@0.27.0
+- pkg:maven/dev.soundness/zeppelin-core@0.27.0?classifier=sources
+- pkg:maven/dev.soundness/zeppelin-core@0.30.0
+- pkg:maven/dev.soundness/zeppelin-core@0.30.0?classifier=sources

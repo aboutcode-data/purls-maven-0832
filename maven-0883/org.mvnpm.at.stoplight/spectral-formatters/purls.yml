@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.stoplight/spectral-formatters@1.5.0
+- pkg:maven/org.mvnpm.at.stoplight/spectral-formatters@1.5.0?classifier=sources

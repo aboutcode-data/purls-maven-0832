@@ -1,1 +1,2 @@
 - pkg:maven/com.liferay/org.apache.aries.cdi.extender@1.1.5.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/org.apache.aries.cdi.extender@1.1.5.LIFERAY-PATCHED-2?classifier=sources

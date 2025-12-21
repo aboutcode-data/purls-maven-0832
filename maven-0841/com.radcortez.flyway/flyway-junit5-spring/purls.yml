@@ -12,3 +12,4 @@
 - pkg:maven/com.radcortez.flyway/flyway-junit5-spring@1.4.0?classifier=sources
 - pkg:maven/com.radcortez.flyway/flyway-junit5-spring@1.4.1
 - pkg:maven/com.radcortez.flyway/flyway-junit5-spring@1.4.1?classifier=sources
+- pkg:maven/com.radcortez.flyway/flyway-junit5-spring@2.2.0?classifier=sources

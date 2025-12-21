@@ -37,4 +37,5 @@
 - pkg:maven/org.apache.kafka/kafka-raft@3.8.0?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-raft@3.8.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-raft@3.9.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-raft@3.9.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-raft@4.0.0?classifier=sources

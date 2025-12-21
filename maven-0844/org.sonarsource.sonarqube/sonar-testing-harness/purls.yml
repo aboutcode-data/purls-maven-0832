@@ -16,6 +16,7 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@25.2.0.102705?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@25.3.0.104237?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@25.4.0.105899?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@25.5.0.107428?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@5.2
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@5.2-RC2
 - pkg:maven/org.sonarsource.sonarqube/sonar-testing-harness@5.2-RC2?classifier=sources

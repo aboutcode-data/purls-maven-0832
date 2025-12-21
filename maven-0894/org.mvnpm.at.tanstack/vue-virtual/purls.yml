@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.tanstack/vue-virtual@3.13.8
+- pkg:maven/org.mvnpm.at.tanstack/vue-virtual@3.13.8?classifier=sources

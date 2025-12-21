@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.types/es-aggregate-error@1.0.6
+- pkg:maven/org.mvnpm.at.types/es-aggregate-error@1.0.6?classifier=sources

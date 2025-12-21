@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-angular@RELEASE260?classifier=sources

@@ -130,6 +130,7 @@
 - pkg:maven/org.jboss.weld.module/weld-ejb@5.1.4.Final?classifier=sources
 - pkg:maven/org.jboss.weld.module/weld-ejb@5.1.5.Final
 - pkg:maven/org.jboss.weld.module/weld-ejb@5.1.5.Final?classifier=sources
+- pkg:maven/org.jboss.weld.module/weld-ejb@5.1.6.Final?classifier=sources
 - pkg:maven/org.jboss.weld.module/weld-ejb@6.0.0.Alpha1
 - pkg:maven/org.jboss.weld.module/weld-ejb@6.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.weld.module/weld-ejb@6.0.0.Beta1
@@ -150,3 +151,4 @@
 - pkg:maven/org.jboss.weld.module/weld-ejb@6.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.weld.module/weld-ejb@6.0.2.Final
 - pkg:maven/org.jboss.weld.module/weld-ejb@6.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.weld.module/weld-ejb@6.0.3.Final?classifier=sources

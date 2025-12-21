@@ -48,3 +48,4 @@
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-spring-boot-starter-rest-client@3.3.1?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-spring-boot-starter-rest-client@3.4.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-spring-boot-starter-rest-client@3.5.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-spring-boot-starter-rest-client@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.antonbutov/dagger-dsl-processor@1.0.0-alpha?classifier=sources
+- pkg:maven/io.github.antonbutov/dagger-dsl-processor@1.1.0-alpha?classifier=sources

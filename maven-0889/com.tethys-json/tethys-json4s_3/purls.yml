@@ -18,3 +18,5 @@
 - pkg:maven/com.tethys-json/tethys-json4s_3@0.29.3?classifier=sources
 - pkg:maven/com.tethys-json/tethys-json4s_3@0.29.4
 - pkg:maven/com.tethys-json/tethys-json4s_3@0.29.4?classifier=sources
+- pkg:maven/com.tethys-json/tethys-json4s_3@0.29.5
+- pkg:maven/com.tethys-json/tethys-json4s_3@0.29.5?classifier=sources

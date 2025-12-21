@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ignf/geoxygene-matching@1.10.1?classifier=sources
+- pkg:maven/io.github.ignf/geoxygene-matching@1.10?classifier=sources

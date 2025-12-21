@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-executable@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-executable@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-executable@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-executable@RELEASE260?classifier=sources

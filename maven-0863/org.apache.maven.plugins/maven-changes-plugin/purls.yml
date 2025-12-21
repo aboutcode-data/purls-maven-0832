@@ -51,3 +51,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-changes-plugin@3.0.0-M2
 - pkg:maven/org.apache.maven.plugins/maven-changes-plugin@3.0.0-M2?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-changes-plugin@3.0.0-M2?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-changes-plugin@3.0.0-M3
+- pkg:maven/org.apache.maven.plugins/maven-changes-plugin@3.0.0-M3?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-changes-plugin@3.0.0-M3?classifier=sources

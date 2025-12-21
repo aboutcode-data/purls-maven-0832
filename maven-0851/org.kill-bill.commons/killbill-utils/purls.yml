@@ -10,3 +10,5 @@
 - pkg:maven/org.kill-bill.commons/killbill-utils@0.26.4?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-utils@0.26.5
 - pkg:maven/org.kill-bill.commons/killbill-utils@0.26.5?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-utils@0.26.6
+- pkg:maven/org.kill-bill.commons/killbill-utils@0.26.6?classifier=sources

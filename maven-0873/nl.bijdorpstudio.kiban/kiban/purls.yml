@@ -1,1 +1,2 @@
 - pkg:maven/nl.bijdorpstudio.kiban/kiban@0.1.0?classifier=sources
+- pkg:maven/nl.bijdorpstudio.kiban/kiban@0.2.0?classifier=sources

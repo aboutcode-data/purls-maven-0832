@@ -1,0 +1,2 @@
+- pkg:maven/it.pagopa.io.app.cie/cie@0.1.0?classifier=sources
+- pkg:maven/it.pagopa.io.app.cie/cie@0.1.2?classifier=sources

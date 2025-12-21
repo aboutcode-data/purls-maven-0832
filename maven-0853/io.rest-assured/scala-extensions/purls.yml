@@ -2,3 +2,5 @@
 - pkg:maven/io.rest-assured/scala-extensions@5.5.0?classifier=sources
 - pkg:maven/io.rest-assured/scala-extensions@5.5.1
 - pkg:maven/io.rest-assured/scala-extensions@5.5.1?classifier=sources
+- pkg:maven/io.rest-assured/scala-extensions@5.5.2
+- pkg:maven/io.rest-assured/scala-extensions@5.5.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-iron_native0.5_3@1.11.28
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-iron_native0.5_3@1.11.28?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-iron_native0.5_3@1.11.29
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-iron_native0.5_3@1.11.29?classifier=sources

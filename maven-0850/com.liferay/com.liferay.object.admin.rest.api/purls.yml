@@ -105,6 +105,7 @@
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@20.4.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@21.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@21.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.api@21.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.api@3.0.0?classifier=sources-commercial

@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacup@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacup@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacup@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javacup@RELEASE260?classifier=sources

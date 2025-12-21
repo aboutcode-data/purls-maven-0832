@@ -1,1 +1,2 @@
 - pkg:maven/dev.restate/sdk-kotlin-http@2.0.0?classifier=sources
+- pkg:maven/dev.restate/sdk-kotlin-http@2.1.0?classifier=sources

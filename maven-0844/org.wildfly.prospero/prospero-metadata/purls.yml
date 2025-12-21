@@ -26,6 +26,8 @@
 - pkg:maven/org.wildfly.prospero/prospero-metadata@1.1.11.Final?classifier=sources
 - pkg:maven/org.wildfly.prospero/prospero-metadata@1.1.16.Final
 - pkg:maven/org.wildfly.prospero/prospero-metadata@1.1.16.Final?classifier=sources
+- pkg:maven/org.wildfly.prospero/prospero-metadata@1.1.18.Final
+- pkg:maven/org.wildfly.prospero/prospero-metadata@1.1.18.Final?classifier=sources
 - pkg:maven/org.wildfly.prospero/prospero-metadata@1.1.2.Final
 - pkg:maven/org.wildfly.prospero/prospero-metadata@1.1.2.Final?classifier=sources
 - pkg:maven/org.wildfly.prospero/prospero-metadata@1.1.3.Final

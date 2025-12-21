@@ -22,6 +22,8 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans-slf4j@2.0.26?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-slf4j@2.0.27
 - pkg:maven/org.apache.openwebbeans/openwebbeans-slf4j@2.0.27?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-slf4j@2.0.28
+- pkg:maven/org.apache.openwebbeans/openwebbeans-slf4j@2.0.28?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-slf4j@4.0.0
 - pkg:maven/org.apache.openwebbeans/openwebbeans-slf4j@4.0.0?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-slf4j@4.0.1

@@ -6,3 +6,6 @@
 - pkg:maven/fr.ifpen.allotropeconverters/gc2asm@2.1?classifier=sources
 - pkg:maven/fr.ifpen.allotropeconverters/gc2asm@3.0
 - pkg:maven/fr.ifpen.allotropeconverters/gc2asm@3.0?classifier=sources
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@3.1
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@3.1?classifier=sources
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@3.2?classifier=sources

@@ -7,6 +7,7 @@
 - pkg:maven/io.telereso.kmp/annotations-watchosarm64@0.0.39?classifier=sources
 - pkg:maven/io.telereso.kmp/annotations-watchosarm64@0.1.0?classifier=sources
 - pkg:maven/io.telereso.kmp/annotations-watchosarm64@0.10.0-alpha.1?classifier=sources
+- pkg:maven/io.telereso.kmp/annotations-watchosarm64@0.10.0?classifier=sources
 - pkg:maven/io.telereso.kmp/annotations-watchosarm64@0.2.0?classifier=sources
 - pkg:maven/io.telereso.kmp/annotations-watchosarm64@0.2.1?classifier=sources
 - pkg:maven/io.telereso.kmp/annotations-watchosarm64@0.20.0-wasm.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/eu.vendeli/aide@8.0.0?classifier=sources
+- pkg:maven/eu.vendeli/aide@8.1.0?classifier=sources

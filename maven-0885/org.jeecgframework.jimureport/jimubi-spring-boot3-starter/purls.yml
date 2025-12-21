@@ -1,1 +1,2 @@
 - pkg:maven/org.jeecgframework.jimureport/jimubi-spring-boot3-starter@1.9.4?classifier=sources
+- pkg:maven/org.jeecgframework.jimureport/jimubi-spring-boot3-starter@1.9.5?classifier=sources

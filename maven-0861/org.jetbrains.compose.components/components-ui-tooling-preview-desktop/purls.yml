@@ -30,3 +30,5 @@
 - pkg:maven/org.jetbrains.compose.components/components-ui-tooling-preview-desktop@1.8.0-beta01?classifier=sources
 - pkg:maven/org.jetbrains.compose.components/components-ui-tooling-preview-desktop@1.8.0-beta02?classifier=sources
 - pkg:maven/org.jetbrains.compose.components/components-ui-tooling-preview-desktop@1.8.0-rc01?classifier=sources
+- pkg:maven/org.jetbrains.compose.components/components-ui-tooling-preview-desktop@1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.compose.components/components-ui-tooling-preview-desktop@1.8.1?classifier=sources

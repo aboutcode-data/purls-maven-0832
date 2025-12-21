@@ -1,3 +1,11 @@
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.10
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.10?classifier=sources
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.11
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.11?classifier=sources
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.12
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.12?classifier=sources
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.13
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.13?classifier=sources
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.3?classifier=sources
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.4?classifier=sources
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@19.2.5?classifier=sources

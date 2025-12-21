@@ -1,4 +1,5 @@
 - pkg:maven/org.webjars.npm/npm@10.8.2
+- pkg:maven/org.webjars.npm/npm@10.9.2
 - pkg:maven/org.webjars.npm/npm@2.14.8
 - pkg:maven/org.webjars.npm/npm@2.14.8?classifier=sources
 - pkg:maven/org.webjars.npm/npm@3.10.6

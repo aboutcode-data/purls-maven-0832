@@ -2,3 +2,5 @@
 - pkg:maven/com.jeliuc/turso-sdk-jvm@0.1.11?classifier=sources
 - pkg:maven/com.jeliuc/turso-sdk-jvm@0.2.0
 - pkg:maven/com.jeliuc/turso-sdk-jvm@0.2.0?classifier=sources
+- pkg:maven/com.jeliuc/turso-sdk-jvm@0.3.0
+- pkg:maven/com.jeliuc/turso-sdk-jvm@0.3.0?classifier=sources

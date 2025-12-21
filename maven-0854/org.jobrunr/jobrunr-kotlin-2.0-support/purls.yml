@@ -7,3 +7,5 @@
 - pkg:maven/org.jobrunr/jobrunr-kotlin-2.0-support@7.4.0?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr-kotlin-2.0-support@7.4.1?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr-kotlin-2.0-support@7.5.0?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr-kotlin-2.0-support@7.5.1?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr-kotlin-2.0-support@8.0.0-beta.1?classifier=sources

@@ -5,3 +5,7 @@
 - pkg:maven/io.github.mictaege/jitter-api@2024.2-rc3?classifier=sources
 - pkg:maven/io.github.mictaege/jitter-api@2024.2?classifier=sources
 - pkg:maven/io.github.mictaege/jitter-api@2024.3?classifier=sources
+- pkg:maven/io.github.mictaege/jitter-api@2025.1?classifier=sources
+- pkg:maven/io.github.mictaege/jitter-api@2025.2-rc1?classifier=sources
+- pkg:maven/io.github.mictaege/jitter-api@2025.2-rc2?classifier=sources
+- pkg:maven/io.github.mictaege/jitter-api@2025.2-rc3?classifier=sources

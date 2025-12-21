@@ -74,3 +74,6 @@
 - pkg:maven/com.openai/openai-java-core@1.3.1?classifier=sources
 - pkg:maven/com.openai/openai-java-core@1.4.1?classifier=sources
 - pkg:maven/com.openai/openai-java-core@1.5.0?classifier=sources
+- pkg:maven/com.openai/openai-java-core@1.5.1?classifier=sources
+- pkg:maven/com.openai/openai-java-core@1.6.0?classifier=sources
+- pkg:maven/com.openai/openai-java-core@1.6.1?classifier=sources

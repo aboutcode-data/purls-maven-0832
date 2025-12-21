@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-markdown-core@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-markdown-core@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-markdown-core@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-markdown-core@RELEASE260?classifier=sources

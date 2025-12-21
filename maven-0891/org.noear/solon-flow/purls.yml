@@ -63,3 +63,8 @@
 - pkg:maven/org.noear/solon-flow@3.2.1-M3?classifier=sources
 - pkg:maven/org.noear/solon-flow@3.2.1-RC?classifier=sources
 - pkg:maven/org.noear/solon-flow@3.2.1?classifier=sources
+- pkg:maven/org.noear/solon-flow@3.3.0?classifier=sources
+- pkg:maven/org.noear/solon-flow@3.3.1-M2?classifier=sources
+- pkg:maven/org.noear/solon-flow@3.3.1-M3?classifier=sources
+- pkg:maven/org.noear/solon-flow@3.3.1-RC?classifier=sources
+- pkg:maven/org.noear/solon-flow@3.3.1?classifier=sources

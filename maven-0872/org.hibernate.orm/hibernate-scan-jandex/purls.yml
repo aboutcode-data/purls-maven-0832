@@ -2,3 +2,5 @@
 - pkg:maven/org.hibernate.orm/hibernate-scan-jandex@7.0.0.Beta4?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-scan-jandex@7.0.0.Beta5?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-scan-jandex@7.0.0.CR1?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-scan-jandex@7.0.0.CR2?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-scan-jandex@7.0.0.Final?classifier=sources

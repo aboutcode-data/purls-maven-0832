@@ -1,3 +1,11 @@
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.10.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.11.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.11.1?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.11.2?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.11.3?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.12.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.12.1?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.12.2?classifier=sources
 - pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.4.0?classifier=sources
 - pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.5.0?classifier=sources
 - pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-chat@0.6.0?classifier=sources

@@ -5,3 +5,5 @@
 - pkg:maven/tech.beshu.ror/audit_3@1.61.1?classifier=sources
 - pkg:maven/tech.beshu.ror/audit_3@1.62.0?classifier=sources
 - pkg:maven/tech.beshu.ror/audit_3@1.63.0?classifier=sources
+- pkg:maven/tech.beshu.ror/audit_3@1.64.1?classifier=sources
+- pkg:maven/tech.beshu.ror/audit_3@1.64.2?classifier=sources

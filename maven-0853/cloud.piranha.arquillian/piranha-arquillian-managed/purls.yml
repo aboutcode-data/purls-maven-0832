@@ -12,3 +12,5 @@
 - pkg:maven/cloud.piranha.arquillian/piranha-arquillian-managed@25.3.0?classifier=sources
 - pkg:maven/cloud.piranha.arquillian/piranha-arquillian-managed@25.4.0
 - pkg:maven/cloud.piranha.arquillian/piranha-arquillian-managed@25.4.0?classifier=sources
+- pkg:maven/cloud.piranha.arquillian/piranha-arquillian-managed@25.5.0
+- pkg:maven/cloud.piranha.arquillian/piranha-arquillian-managed@25.5.0?classifier=sources

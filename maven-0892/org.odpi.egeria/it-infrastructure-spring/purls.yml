@@ -81,3 +81,4 @@
 - pkg:maven/org.odpi.egeria/it-infrastructure-spring@5.1?classifier=sources
 - pkg:maven/org.odpi.egeria/it-infrastructure-spring@5.2.1?classifier=sources
 - pkg:maven/org.odpi.egeria/it-infrastructure-spring@5.2?classifier=sources
+- pkg:maven/org.odpi.egeria/it-infrastructure-spring@5.3?classifier=sources

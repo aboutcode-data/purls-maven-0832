@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-hapi@0.45.1?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-hapi@0.45.2?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-hapi@0.46.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-hapi@0.47.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-hapi@0.47.0?classifier=sources

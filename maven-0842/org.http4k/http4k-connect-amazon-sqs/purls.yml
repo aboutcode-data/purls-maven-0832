@@ -287,5 +287,10 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-sqs@6.6.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sqs@6.6.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sqs@6.7.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sqs@6.8.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sqs@6.8.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sqs@6.9.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sqs@6.9.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sqs@6.9.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sqs@v6.3.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sqs@v6.4.1.0?classifier=sources

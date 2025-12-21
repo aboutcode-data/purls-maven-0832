@@ -220,3 +220,7 @@
 - pkg:maven/uk.gov.justice.service.hmpps/hmpps-digital-prison-reporting-lib@8.0.8?classifier=sources
 - pkg:maven/uk.gov.justice.service.hmpps/hmpps-digital-prison-reporting-lib@8.0.9-alpha.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.hmpps/hmpps-digital-prison-reporting-lib@8.0.9?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-digital-prison-reporting-lib@8.1.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-digital-prison-reporting-lib@8.2.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-digital-prison-reporting-lib@8.3.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-digital-prison-reporting-lib@8.3.1?classifier=sources

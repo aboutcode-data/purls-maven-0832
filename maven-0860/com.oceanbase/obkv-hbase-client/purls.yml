@@ -16,5 +16,7 @@
 - pkg:maven/com.oceanbase/obkv-hbase-client@0.1.5?classifier=sources
 - pkg:maven/com.oceanbase/obkv-hbase-client@1.0.0?classifier=sources
 - pkg:maven/com.oceanbase/obkv-hbase-client@1.1.0?classifier=sources
+- pkg:maven/com.oceanbase/obkv-hbase-client@1.2.0?classifier=sources
 - pkg:maven/com.oceanbase/obkv-hbase-client@2.0.0?classifier=sources
 - pkg:maven/com.oceanbase/obkv-hbase-client@2.1.0?classifier=sources
+- pkg:maven/com.oceanbase/obkv-hbase-client@2.2.0?classifier=sources

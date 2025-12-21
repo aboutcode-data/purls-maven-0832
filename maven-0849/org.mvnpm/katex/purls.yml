@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/katex@0.16.22
+- pkg:maven/org.mvnpm/katex@0.16.22?classifier=sources
