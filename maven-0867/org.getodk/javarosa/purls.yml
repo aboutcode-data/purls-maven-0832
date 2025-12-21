@@ -72,6 +72,8 @@
 - pkg:maven/org.getodk/javarosa@5.1.0-SNAPSHOT-57b978c?classifier=sources
 - pkg:maven/org.getodk/javarosa@5.1.0-SNAPSHOT-65b52b3
 - pkg:maven/org.getodk/javarosa@5.1.0-SNAPSHOT-65b52b3?classifier=sources
+- pkg:maven/org.getodk/javarosa@5.1.0-SNAPSHOT-6fcc5e2
+- pkg:maven/org.getodk/javarosa@5.1.0-SNAPSHOT-6fcc5e2?classifier=sources
 - pkg:maven/org.getodk/javarosa@5.1.0-SNAPSHOT-7986aba
 - pkg:maven/org.getodk/javarosa@5.1.0-SNAPSHOT-7986aba?classifier=sources
 - pkg:maven/org.getodk/javarosa@5.1.0-SNAPSHOT-7f8494a

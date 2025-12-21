@@ -332,6 +332,8 @@
 - pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-client@1.24.4?classifier=sources
 - pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-client@1.25.0
 - pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-client@1.25.0?classifier=sources
+- pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-client@1.25.2
+- pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-client@1.25.2?classifier=sources
 - pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-client@1.26.0
 - pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-client@1.26.0?classifier=sources
 - pkg:maven/io.joynr.java.messaging.websocket/joynr-websocket-client@1.3.0

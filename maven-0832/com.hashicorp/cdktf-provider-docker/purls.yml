@@ -1034,6 +1034,14 @@
 - pkg:maven/com.hashicorp/cdktf-provider-docker@10.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-docker@11.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-docker@11.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-docker@11.1.0
+- pkg:maven/com.hashicorp/cdktf-provider-docker@11.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-docker@11.2.0
+- pkg:maven/com.hashicorp/cdktf-provider-docker@11.2.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-docker@11.3.0
+- pkg:maven/com.hashicorp/cdktf-provider-docker@11.3.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-docker@11.4.0
+- pkg:maven/com.hashicorp/cdktf-provider-docker@11.4.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-docker@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-docker@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-docker@2.0.1

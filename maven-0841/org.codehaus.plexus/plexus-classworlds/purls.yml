@@ -63,3 +63,6 @@
 - pkg:maven/org.codehaus.plexus/plexus-classworlds@2.8.0
 - pkg:maven/org.codehaus.plexus/plexus-classworlds@2.8.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-classworlds@2.8.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-classworlds@2.9.0
+- pkg:maven/org.codehaus.plexus/plexus-classworlds@2.9.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus-classworlds@2.9.0?classifier=sources

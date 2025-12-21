@@ -1,3 +1,4 @@
+- pkg:maven/org.mvnpm/nanoid@2.1.11?classifier=sources
 - pkg:maven/org.mvnpm/nanoid@3.3.11?classifier=sources
 - pkg:maven/org.mvnpm/nanoid@3.3.3?classifier=sources
 - pkg:maven/org.mvnpm/nanoid@3.3.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.nvidia/rapids-4-spark-hybrid_2.13@25.02.0
 - pkg:maven/com.nvidia/rapids-4-spark-hybrid_2.13@25.02.0?classifier=sources
+- pkg:maven/com.nvidia/rapids-4-spark-hybrid_2.13@25.04.0
+- pkg:maven/com.nvidia/rapids-4-spark-hybrid_2.13@25.04.0?classifier=sources

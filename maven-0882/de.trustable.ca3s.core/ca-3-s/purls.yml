@@ -143,3 +143,6 @@
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.7g?classifier=sources
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.9
 - pkg:maven/de.trustable.ca3s.core/ca-3-s@1.1.9?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.2.0
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.2.0?classifier=sources
+- pkg:maven/de.trustable.ca3s.core/ca-3-s@1.2.1?classifier=sources

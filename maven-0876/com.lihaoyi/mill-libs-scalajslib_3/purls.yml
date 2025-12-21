@@ -1,0 +1,2 @@
+- pkg:maven/com.lihaoyi/mill-libs-scalajslib_3@0.13.0-M2
+- pkg:maven/com.lihaoyi/mill-libs-scalajslib_3@0.13.0-M2?classifier=sources

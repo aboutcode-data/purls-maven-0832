@@ -2,3 +2,7 @@
 - pkg:maven/dev.ikm.jpms/httpcore5-h2@5.3.3-r1?classifier=sources
 - pkg:maven/dev.ikm.jpms/httpcore5-h2@5.3.3-r2
 - pkg:maven/dev.ikm.jpms/httpcore5-h2@5.3.3-r2?classifier=sources
+- pkg:maven/dev.ikm.jpms/httpcore5-h2@5.3.4-r3
+- pkg:maven/dev.ikm.jpms/httpcore5-h2@5.3.4-r3?classifier=sources
+- pkg:maven/dev.ikm.jpms/httpcore5-h2@5.3.4-r4
+- pkg:maven/dev.ikm.jpms/httpcore5-h2@5.3.4-r4?classifier=sources

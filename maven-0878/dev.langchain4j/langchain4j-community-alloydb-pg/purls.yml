@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-community-alloydb-pg@1.0.0-beta3
+- pkg:maven/dev.langchain4j/langchain4j-community-alloydb-pg@1.0.0-beta3?classifier=sources

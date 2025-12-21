@@ -1,0 +1,4 @@
+- pkg:maven/dev.kaccelero/jobs-rabbitmq-jvm@0.4.6?classifier=sources
+- pkg:maven/dev.kaccelero/jobs-rabbitmq-jvm@0.4.7?classifier=sources
+- pkg:maven/dev.kaccelero/jobs-rabbitmq-jvm@0.4.8?classifier=sources
+- pkg:maven/dev.kaccelero/jobs-rabbitmq-jvm@0.4.9?classifier=sources

@@ -18,3 +18,8 @@
 - pkg:maven/io.airlift/jetty-memory@326?classifier=sources
 - pkg:maven/io.airlift/jetty-memory@327?classifier=sources
 - pkg:maven/io.airlift/jetty-memory@328?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@329?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@330?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@331?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@332?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@333?classifier=sources

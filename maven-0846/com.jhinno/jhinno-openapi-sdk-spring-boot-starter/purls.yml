@@ -1,2 +1,3 @@
 - pkg:maven/com.jhinno/jhinno-openapi-sdk-spring-boot-starter@2.0.3?classifier=sources
 - pkg:maven/com.jhinno/jhinno-openapi-sdk-spring-boot-starter@2.0.4?classifier=sources
+- pkg:maven/com.jhinno/jhinno-openapi-sdk-spring-boot-starter@2.0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/tech.smartboot.mqtt/smart-mqtt-common@1.0.0?classifier=sources
+- pkg:maven/tech.smartboot.mqtt/smart-mqtt-common@1.1.0?classifier=sources

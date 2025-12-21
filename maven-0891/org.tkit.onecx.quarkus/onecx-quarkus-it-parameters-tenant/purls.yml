@@ -1,0 +1,4 @@
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-parameters-tenant@0.36.0
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-parameters-tenant@0.36.0?classifier=sources
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-parameters-tenant@0.37.0
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-parameters-tenant@0.37.0?classifier=sources

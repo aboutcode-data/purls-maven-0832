@@ -58,8 +58,14 @@
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.15.0?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.15.2
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.15.2?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.16.0
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.16.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.16.2
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.16.2?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.2.0
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.2.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.27.0
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.27.0?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.3.0
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.3.0?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-core@2.3.1

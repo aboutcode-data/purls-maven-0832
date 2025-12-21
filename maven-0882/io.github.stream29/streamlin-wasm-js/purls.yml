@@ -1,2 +1,8 @@
 - pkg:maven/io.github.stream29/streamlin-wasm-js@2.5.1?classifier=sources
 - pkg:maven/io.github.stream29/streamlin-wasm-js@2.5.2?classifier=sources
+- pkg:maven/io.github.stream29/streamlin-wasm-js@2.5.3?classifier=sources
+- pkg:maven/io.github.stream29/streamlin-wasm-js@2.5.4?classifier=sources
+- pkg:maven/io.github.stream29/streamlin-wasm-js@3.0.0?classifier=sources
+- pkg:maven/io.github.stream29/streamlin-wasm-js@3.0.1?classifier=sources
+- pkg:maven/io.github.stream29/streamlin-wasm-js@3.0.2?classifier=sources
+- pkg:maven/io.github.stream29/streamlin-wasm-js@3.1.0?classifier=sources

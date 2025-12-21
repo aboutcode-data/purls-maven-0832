@@ -1,3 +1,5 @@
+- pkg:maven/org.rocksdb/rocksdbjni@10.0.1
+- pkg:maven/org.rocksdb/rocksdbjni@10.0.1?classifier=sources
 - pkg:maven/org.rocksdb/rocksdbjni@3.10.0
 - pkg:maven/org.rocksdb/rocksdbjni@3.10.0?classifier=sources
 - pkg:maven/org.rocksdb/rocksdbjni@3.10.1

@@ -9,3 +9,4 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-zio2-api_2.13@8.17.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-zio2-api_2.13@8.18.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-zio2-api_2.13@8.19.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-scala-zio2-api_2.13@8.20.0?classifier=sources

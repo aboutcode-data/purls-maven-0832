@@ -22,3 +22,5 @@
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-event-handler@2.2.0?classifier=sources
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-event-handler@2.3.0
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-event-handler@2.3.0?classifier=sources
+- pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-event-handler@2.4.0
+- pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-event-handler@2.4.0?classifier=sources

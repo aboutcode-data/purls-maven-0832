@@ -6,3 +6,4 @@
 - pkg:maven/nl.basjes.collections/prefixmap@1.2?classifier=sources
 - pkg:maven/nl.basjes.collections/prefixmap@2.0
 - pkg:maven/nl.basjes.collections/prefixmap@2.0?classifier=sources
+- pkg:maven/nl.basjes.collections/prefixmap@2.1.0?classifier=sources

@@ -25,6 +25,8 @@
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.4.13?classifier=sources
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.4.14?classifier=sources
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.4.15?classifier=sources
+- pkg:maven/dev.morphia.morphia/morphia-validation@2.4.16?classifier=sources
+- pkg:maven/dev.morphia.morphia/morphia-validation@2.4.17?classifier=sources
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.4.1?classifier=sources
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.4.2
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.4.2?classifier=sources
@@ -35,3 +37,4 @@
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.4.7?classifier=sources
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.4.8?classifier=sources
 - pkg:maven/dev.morphia.morphia/morphia-validation@2.4.9?classifier=sources
+- pkg:maven/dev.morphia.morphia/morphia-validation@2.5.0?classifier=sources

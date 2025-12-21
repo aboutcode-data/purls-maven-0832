@@ -584,6 +584,12 @@
 - pkg:maven/org.gedcomx/gedcomx-rt-support@3.42.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-rt-support@3.43.0
 - pkg:maven/org.gedcomx/gedcomx-rt-support@3.43.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-rt-support@3.44.0
+- pkg:maven/org.gedcomx/gedcomx-rt-support@3.44.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-rt-support@3.45.0
+- pkg:maven/org.gedcomx/gedcomx-rt-support@3.45.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-rt-support@3.46.0
+- pkg:maven/org.gedcomx/gedcomx-rt-support@3.46.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-rt-support@3.5.0
 - pkg:maven/org.gedcomx/gedcomx-rt-support@3.5.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-rt-support@3.6.0

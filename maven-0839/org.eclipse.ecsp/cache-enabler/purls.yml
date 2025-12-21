@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.ecsp/cache-enabler@1.0.0
+- pkg:maven/org.eclipse.ecsp/cache-enabler@1.0.0?classifier=sources

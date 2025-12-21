@@ -3,3 +3,4 @@
 - pkg:maven/org.webjars.npm/radix-ui__react-focus-scope@1.0.4-rc.6?classifier=sources
 - pkg:maven/org.webjars.npm/radix-ui__react-focus-scope@1.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/radix-ui__react-focus-scope@1.1.0
+- pkg:maven/org.webjars.npm/radix-ui__react-focus-scope@1.1.2

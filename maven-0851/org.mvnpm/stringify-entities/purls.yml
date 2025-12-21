@@ -1,4 +1,5 @@
 - pkg:maven/org.mvnpm/stringify-entities@1.3.2?classifier=sources
+- pkg:maven/org.mvnpm/stringify-entities@3.1.0?classifier=sources
 - pkg:maven/org.mvnpm/stringify-entities@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/stringify-entities@4.0.1?classifier=sources
 - pkg:maven/org.mvnpm/stringify-entities@4.0.2?classifier=sources

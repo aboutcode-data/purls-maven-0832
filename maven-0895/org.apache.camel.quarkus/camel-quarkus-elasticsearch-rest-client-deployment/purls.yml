@@ -26,6 +26,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-elasticsearch-rest-client-deployment@3.19.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-elasticsearch-rest-client-deployment@3.20.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-elasticsearch-rest-client-deployment@3.20.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-elasticsearch-rest-client-deployment@3.22.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-elasticsearch-rest-client-deployment@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-elasticsearch-rest-client-deployment@3.8.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-elasticsearch-rest-client-deployment@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-elasticsearch-rest-client-deployment@3.8.1

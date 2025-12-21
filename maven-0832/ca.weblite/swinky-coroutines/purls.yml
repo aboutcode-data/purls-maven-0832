@@ -1,0 +1,2 @@
+- pkg:maven/ca.weblite/swinky-coroutines@0.0.17
+- pkg:maven/ca.weblite/swinky-coroutines@0.0.17?classifier=sources

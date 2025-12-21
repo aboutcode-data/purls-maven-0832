@@ -42,3 +42,4 @@
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.2.4?classifier=sources
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.3.0?classifier=sources
 - pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.3.1?classifier=sources
+- pkg:maven/io.quarkiverse.mybatis/quarkus-mybatis-plus-deployment@2.3.2?classifier=sources

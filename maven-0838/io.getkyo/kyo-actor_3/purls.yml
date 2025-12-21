@@ -1,0 +1,2 @@
+- pkg:maven/io.getkyo/kyo-actor_3@0.18.0
+- pkg:maven/io.getkyo/kyo-actor_3@0.18.0?classifier=sources

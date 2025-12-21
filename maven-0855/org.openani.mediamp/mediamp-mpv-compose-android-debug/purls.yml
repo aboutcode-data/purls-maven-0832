@@ -1,1 +1,4 @@
 - pkg:maven/org.openani.mediamp/mediamp-mpv-compose-android-debug@0.0.23?classifier=sources
+- pkg:maven/org.openani.mediamp/mediamp-mpv-compose-android-debug@0.0.24?classifier=sources
+- pkg:maven/org.openani.mediamp/mediamp-mpv-compose-android-debug@0.0.25?classifier=sources
+- pkg:maven/org.openani.mediamp/mediamp-mpv-compose-android-debug@0.0.26?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.mvnpm/tough-cookie@2.3.4?classifier=sources
 - pkg:maven/org.mvnpm/tough-cookie@2.5.0?classifier=sources
+- pkg:maven/org.mvnpm/tough-cookie@4.1.4?classifier=sources
 - pkg:maven/org.mvnpm/tough-cookie@5.1.2?classifier=sources

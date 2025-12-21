@@ -1,1 +1,4 @@
 - pkg:maven/org.czeal/json-filter@0.0.1?classifier=sources
+- pkg:maven/org.czeal/json-filter@v0.0.2-rc12?classifier=sources
+- pkg:maven/org.czeal/json-filter@v0.0.2-rc13?classifier=sources
+- pkg:maven/org.czeal/json-filter@v0.0.2?classifier=sources

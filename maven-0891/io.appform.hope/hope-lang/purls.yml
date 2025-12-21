@@ -39,4 +39,6 @@
 - pkg:maven/io.appform.hope/hope-lang@2.0.6?classifier=sources
 - pkg:maven/io.appform.hope/hope-lang@2.0.7
 - pkg:maven/io.appform.hope/hope-lang@2.0.7?classifier=sources
+- pkg:maven/io.appform.hope/hope-lang@2.0.8
+- pkg:maven/io.appform.hope/hope-lang@2.0.8?classifier=sources
 - pkg:maven/io.appform.hope/hope-lang@2.0?classifier=sources

@@ -287,6 +287,7 @@
 - pkg:maven/org.craftercms/crafter-profile-admin-console@4.2.1?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@4.2.2?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@4.3.0?type=war
+- pkg:maven/org.craftercms/crafter-profile-admin-console@4.3.1?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@v2.4.1-RC2?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@v2.4.1-RC3?type=war
 - pkg:maven/org.craftercms/crafter-profile-admin-console@v2.4.2?type=war

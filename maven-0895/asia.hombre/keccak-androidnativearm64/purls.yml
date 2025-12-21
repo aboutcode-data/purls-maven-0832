@@ -1,1 +1,2 @@
 - pkg:maven/asia.hombre/keccak-androidnativearm64@1.1.0?classifier=sources
+- pkg:maven/asia.hombre/keccak-androidnativearm64@2.0.0?classifier=sources

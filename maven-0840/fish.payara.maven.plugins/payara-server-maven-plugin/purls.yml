@@ -1,0 +1,2 @@
+- pkg:maven/fish.payara.maven.plugins/payara-server-maven-plugin@1.0.0-Alpha1
+- pkg:maven/fish.payara.maven.plugins/payara-server-maven-plugin@1.0.0-Alpha1?classifier=sources

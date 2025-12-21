@@ -23,3 +23,4 @@
 - pkg:maven/io.joyfill/manager-jvm@1.1.9?classifier=sources
 - pkg:maven/io.joyfill/manager-jvm@2.0.0-Beta01?classifier=sources
 - pkg:maven/io.joyfill/manager-jvm@2.0.0-Beta02?classifier=sources
+- pkg:maven/io.joyfill/manager-jvm@2.0.0-Beta03?classifier=sources

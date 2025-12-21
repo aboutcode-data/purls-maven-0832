@@ -28,6 +28,10 @@
 - pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.1.0?classifier=sources
 - pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.10.0
 - pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.10.0?classifier=sources
+- pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.11.0
+- pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.11.0-A2
+- pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.11.0-A2?classifier=sources
+- pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.11.0?classifier=sources
 - pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.2.0
 - pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.2.0?classifier=sources
 - pkg:maven/org.alfresco.maven.plugin/alfresco-maven-plugin@4.3.0

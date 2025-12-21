@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.smithy.java/aws-sigv4@0.0.2?classifier=sources

@@ -81,6 +81,8 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.7.20?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.7.21
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.7.21?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.7.22
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.7.22?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.7.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.7.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds@3.7.3?classifier=sources

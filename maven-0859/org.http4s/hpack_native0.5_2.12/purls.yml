@@ -1,0 +1,2 @@
+- pkg:maven/org.http4s/hpack_native0.5_2.12@1.1.0
+- pkg:maven/org.http4s/hpack_native0.5_2.12@1.1.0?classifier=sources

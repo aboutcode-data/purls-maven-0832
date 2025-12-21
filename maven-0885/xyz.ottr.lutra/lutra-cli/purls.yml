@@ -18,5 +18,6 @@
 - pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.18?classifier=sources
 - pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.19
 - pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.19?classifier=sources
+- pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.20?classifier=sources
 - pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.9
 - pkg:maven/xyz.ottr.lutra/lutra-cli@0.6.9?classifier=sources

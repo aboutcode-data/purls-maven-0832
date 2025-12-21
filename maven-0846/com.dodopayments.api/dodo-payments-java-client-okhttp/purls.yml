@@ -1,0 +1,7 @@
+- pkg:maven/com.dodopayments.api/dodo-payments-java-client-okhttp@1.14.1?classifier=sources
+- pkg:maven/com.dodopayments.api/dodo-payments-java-client-okhttp@1.14.2?classifier=sources
+- pkg:maven/com.dodopayments.api/dodo-payments-java-client-okhttp@1.16.1?classifier=sources
+- pkg:maven/com.dodopayments.api/dodo-payments-java-client-okhttp@1.17.0?classifier=sources
+- pkg:maven/com.dodopayments.api/dodo-payments-java-client-okhttp@1.18.0?classifier=sources
+- pkg:maven/com.dodopayments.api/dodo-payments-java-client-okhttp@1.18.1?classifier=sources
+- pkg:maven/com.dodopayments.api/dodo-payments-java-client-okhttp@1.18.3?classifier=sources

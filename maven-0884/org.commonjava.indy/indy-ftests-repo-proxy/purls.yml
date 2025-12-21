@@ -80,3 +80,5 @@
 - pkg:maven/org.commonjava.indy/indy-ftests-repo-proxy@3.4.3?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-ftests-repo-proxy@3.4.4
 - pkg:maven/org.commonjava.indy/indy-ftests-repo-proxy@3.4.4?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-ftests-repo-proxy@3.4.5
+- pkg:maven/org.commonjava.indy/indy-ftests-repo-proxy@3.4.5?classifier=sources

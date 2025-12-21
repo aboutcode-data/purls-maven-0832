@@ -1,0 +1,4 @@
+- pkg:maven/io.vertx/vertx-grpc-reflection@5.0.0.CR6
+- pkg:maven/io.vertx/vertx-grpc-reflection@5.0.0.CR6?classifier=sources
+- pkg:maven/io.vertx/vertx-grpc-reflection@5.0.0.CR7
+- pkg:maven/io.vertx/vertx-grpc-reflection@5.0.0.CR7?classifier=sources

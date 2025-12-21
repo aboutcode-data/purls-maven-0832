@@ -1,3 +1,4 @@
 - pkg:maven/com.sdv291/sdv291-common@1.0.3?classifier=sources
 - pkg:maven/com.sdv291/sdv291-common@1.0.4?classifier=sources
 - pkg:maven/com.sdv291/sdv291-common@1.0.5?classifier=sources
+- pkg:maven/com.sdv291/sdv291-common@2.0.3?classifier=sources

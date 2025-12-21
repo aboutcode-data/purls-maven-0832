@@ -22,6 +22,9 @@
 - pkg:maven/dev.j-a.ide/lsp-core@0.2.14.242?classifier=sources
 - pkg:maven/dev.j-a.ide/lsp-core@0.2.14.243?classifier=sources
 - pkg:maven/dev.j-a.ide/lsp-core@0.2.14.251?classifier=sources
+- pkg:maven/dev.j-a.ide/lsp-core@0.2.15.242?classifier=sources
+- pkg:maven/dev.j-a.ide/lsp-core@0.2.15.243?classifier=sources
+- pkg:maven/dev.j-a.ide/lsp-core@0.2.15.251?classifier=sources
 - pkg:maven/dev.j-a.ide/lsp-core@0.2.2.242?classifier=sources
 - pkg:maven/dev.j-a.ide/lsp-core@0.2.2.243?classifier=sources
 - pkg:maven/dev.j-a.ide/lsp-core@0.2.2.251?classifier=sources

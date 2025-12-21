@@ -902,7 +902,13 @@
 - pkg:maven/com.yahoo.vespa/jrt@8.502.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/jrt@8.503.27?classifier=sources
 - pkg:maven/com.yahoo.vespa/jrt@8.504.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@8.506.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@8.507.34?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@8.508.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@8.509.33?classifier=sources
 - pkg:maven/com.yahoo.vespa/jrt@8.51.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@8.510.84?classifier=sources
+- pkg:maven/com.yahoo.vespa/jrt@8.511.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/jrt@8.52.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/jrt@8.53.21?classifier=sources
 - pkg:maven/com.yahoo.vespa/jrt@8.54.61?classifier=sources

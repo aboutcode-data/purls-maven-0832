@@ -12,3 +12,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-idp-apple@6.22?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-idp-apple@6.23
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-idp-apple@6.23?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-idp-apple@7.1
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-idp-apple@7.1?classifier=sources

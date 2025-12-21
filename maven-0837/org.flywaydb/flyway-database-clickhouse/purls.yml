@@ -16,6 +16,8 @@
 - pkg:maven/org.flywaydb/flyway-database-clickhouse@10.16.4?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-clickhouse@10.17.0
 - pkg:maven/org.flywaydb/flyway-database-clickhouse@10.17.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-clickhouse@10.18.0
+- pkg:maven/org.flywaydb/flyway-database-clickhouse@10.18.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-clickhouse@10.7.0
 - pkg:maven/org.flywaydb/flyway-database-clickhouse@10.7.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-clickhouse@10.7.2

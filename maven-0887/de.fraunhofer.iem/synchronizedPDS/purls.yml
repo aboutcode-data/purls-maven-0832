@@ -14,3 +14,5 @@
 - pkg:maven/de.fraunhofer.iem/synchronizedPDS@3.2.3?classifier=sources
 - pkg:maven/de.fraunhofer.iem/synchronizedPDS@4.0.0
 - pkg:maven/de.fraunhofer.iem/synchronizedPDS@4.0.0?classifier=sources
+- pkg:maven/de.fraunhofer.iem/synchronizedPDS@4.1.0
+- pkg:maven/de.fraunhofer.iem/synchronizedPDS@4.1.0?classifier=sources

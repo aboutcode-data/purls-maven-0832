@@ -1,0 +1,2 @@
+- pkg:maven/eu.codlab/kotlin-file-access-macosarm64@1.16.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-file-access-macosarm64@1.16.1?classifier=sources

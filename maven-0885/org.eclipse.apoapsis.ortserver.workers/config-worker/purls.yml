@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/config-worker@0.1.0-RC9?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/config-worker@0.1.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/config-worker@0.2.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/config-worker@0.3.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/config-worker@0.4.0?classifier=sources

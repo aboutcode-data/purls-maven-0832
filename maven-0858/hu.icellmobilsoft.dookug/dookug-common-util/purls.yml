@@ -6,3 +6,7 @@
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-common-util@0.6.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-common-util@1.0.0
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-common-util@1.0.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-common-util@1.1.0
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-common-util@1.1.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-common-util@1.2.0
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-common-util@1.2.0?classifier=sources

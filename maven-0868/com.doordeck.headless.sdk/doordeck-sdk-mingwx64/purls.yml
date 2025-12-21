@@ -1,3 +1,5 @@
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.100.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.101.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.38.0-dev.18%2Bd9d9475?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.38.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.39.0?classifier=sources
@@ -42,3 +44,18 @@
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.82.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.83.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.84.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.85.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.86.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.87.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.88.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.89.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.90.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.91.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.92.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.93.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.94.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.95.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.96.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.97.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.98.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-mingwx64@0.99.0?classifier=sources

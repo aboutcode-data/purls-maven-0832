@@ -615,6 +615,12 @@
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.22?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.23
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.23?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.24
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.24?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.25
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.25?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.26
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.26?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.2?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.3
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.4.3?classifier=sources
@@ -641,6 +647,12 @@
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.11?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.12
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.12?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.13
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.13?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.14
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.14?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.15
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.15?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.2
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.5.2?classifier=sources
@@ -663,6 +675,8 @@
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.0-alpha.3?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.0?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.1
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.10
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.10?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.2
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.2?classifier=sources
@@ -676,6 +690,10 @@
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.6?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.7
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.7?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.8
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.8?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.9
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.6.9?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.0
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.0-alpha.1
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.0-alpha.1?classifier=sources
@@ -684,3 +702,11 @@
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.0-alpha.3
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.0-alpha.3?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.0?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.1
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.1?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.2
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.2?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.3
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.3?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.4
+- pkg:maven/io.gravitee.apim.rest.api.standalone/gravitee-apim-rest-api-standalone-bootstrap@4.7.4?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/amis-formula@6.1.0
 - pkg:maven/org.webjars.npm/amis-formula@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/amis-formula@6.12.0
 - pkg:maven/org.webjars.npm/amis-formula@6.3.0

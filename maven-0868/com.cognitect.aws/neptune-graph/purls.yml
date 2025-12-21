@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/neptune-graph@871.2.29.35?classifier=sources
 - pkg:maven/com.cognitect.aws/neptune-graph@871.2.30.22
 - pkg:maven/com.cognitect.aws/neptune-graph@871.2.30.22?classifier=sources
+- pkg:maven/com.cognitect.aws/neptune-graph@871.2.31.23
+- pkg:maven/com.cognitect.aws/neptune-graph@871.2.31.23?classifier=sources

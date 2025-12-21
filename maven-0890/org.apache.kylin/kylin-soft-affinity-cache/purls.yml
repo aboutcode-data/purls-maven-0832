@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.kylin/kylin-soft-affinity-cache@5.0.0-beta
 - pkg:maven/org.apache.kylin/kylin-soft-affinity-cache@5.0.0-beta?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-soft-affinity-cache@5.0.0?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-soft-affinity-cache@5.0.2
+- pkg:maven/org.apache.kylin/kylin-soft-affinity-cache@5.0.2?classifier=sources

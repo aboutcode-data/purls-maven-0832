@@ -11,3 +11,5 @@
 - pkg:maven/tw.com.ecpay/ECPayPaymentGatewayKit@1.4.0?classifier=sources
 - pkg:maven/tw.com.ecpay/ECPayPaymentGatewayKit@1.5.0?classifier=sources
 - pkg:maven/tw.com.ecpay/ECPayPaymentGatewayKit@1.6.0?classifier=sources
+- pkg:maven/tw.com.ecpay/ECPayPaymentGatewayKit@1.7.0?classifier=sources
+- pkg:maven/tw.com.ecpay/ECPayPaymentGatewayKit@1.7.0?type=aar

@@ -20,3 +20,7 @@
 - pkg:maven/com.github.jobservice/job-service-testing-worker-shared@9.1.1-554?classifier=sources
 - pkg:maven/com.github.jobservice/job-service-testing-worker-shared@9.2.0-566
 - pkg:maven/com.github.jobservice/job-service-testing-worker-shared@9.2.0-566?classifier=sources
+- pkg:maven/com.github.jobservice/job-service-testing-worker-shared@9.2.1-577
+- pkg:maven/com.github.jobservice/job-service-testing-worker-shared@9.2.1-577?classifier=sources
+- pkg:maven/com.github.jobservice/job-service-testing-worker-shared@9.2.2-581
+- pkg:maven/com.github.jobservice/job-service-testing-worker-shared@9.2.2-581?classifier=sources

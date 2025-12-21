@@ -158,6 +158,8 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-spring-boot@4.10.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-spring-boot@4.10.2?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-spring-boot@4.10.3?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-spring-boot@4.10.4?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-spring-boot@4.11.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-spring-boot@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-spring-boot@4.3.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-spring-boot@4.4.0?classifier=sources

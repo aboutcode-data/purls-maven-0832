@@ -306,6 +306,8 @@
 - pkg:maven/io.ebean/ebean-redis@14.11.0-javax
 - pkg:maven/io.ebean/ebean-redis@14.11.0-javax?classifier=sources
 - pkg:maven/io.ebean/ebean-redis@14.11.0?classifier=sources
+- pkg:maven/io.ebean/ebean-redis@14.11.1
+- pkg:maven/io.ebean/ebean-redis@14.11.1?classifier=sources
 - pkg:maven/io.ebean/ebean-redis@14.3.0
 - pkg:maven/io.ebean/ebean-redis@14.3.0-javax
 - pkg:maven/io.ebean/ebean-redis@14.3.0-javax?classifier=sources
@@ -388,5 +390,11 @@
 - pkg:maven/io.ebean/ebean-redis@15.8.2?classifier=sources
 - pkg:maven/io.ebean/ebean-redis@15.9.0
 - pkg:maven/io.ebean/ebean-redis@15.9.0?classifier=sources
+- pkg:maven/io.ebean/ebean-redis@16.0.0-beta1
+- pkg:maven/io.ebean/ebean-redis@16.0.0-beta1?classifier=sources
+- pkg:maven/io.ebean/ebean-redis@16.0.0-rc1
+- pkg:maven/io.ebean/ebean-redis@16.0.0-rc1?classifier=sources
+- pkg:maven/io.ebean/ebean-redis@17.0.0-RC1
+- pkg:maven/io.ebean/ebean-redis@17.0.0-RC1?classifier=sources
 - pkg:maven/io.ebean/ebean-redis@17.0.0-beta1
 - pkg:maven/io.ebean/ebean-redis@17.0.0-beta1?classifier=sources

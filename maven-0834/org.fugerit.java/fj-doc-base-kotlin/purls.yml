@@ -1,3 +1,4 @@
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@3.13.8?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.10.0
 - pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.10.0?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.10.1
@@ -54,3 +55,18 @@
 - pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.12.6?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.12.7
 - pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.12.7?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.12.8
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.12.8?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.0
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.1
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.10?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.3
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.3?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.4
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.4?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.5
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.5?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.8?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-base-kotlin@8.13.9?classifier=sources

@@ -46,6 +46,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-inmethod-grid@10.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-inmethod-grid@10.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-inmethod-grid@10.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-inmethod-grid@10.5.0
+- pkg:maven/org.wicketstuff/wicketstuff-inmethod-grid@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-inmethod-grid@6.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-inmethod-grid@6.0.0-beta1
 - pkg:maven/org.wicketstuff/wicketstuff-inmethod-grid@6.0.0-beta1.1

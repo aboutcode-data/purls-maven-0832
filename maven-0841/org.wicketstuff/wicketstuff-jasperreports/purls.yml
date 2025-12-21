@@ -46,6 +46,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.5.0
+- pkg:maven/org.wicketstuff/wicketstuff-jasperreports@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@6.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@6.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jasperreports@6.11.0

@@ -76,6 +76,10 @@
 - pkg:maven/com.github.javen205/IJPay-Core@2.9.12
 - pkg:maven/com.github.javen205/IJPay-Core@2.9.12-17
 - pkg:maven/com.github.javen205/IJPay-Core@2.9.12-17?classifier=sources
+- pkg:maven/com.github.javen205/IJPay-Core@2.9.12.1
+- pkg:maven/com.github.javen205/IJPay-Core@2.9.12.1-17
+- pkg:maven/com.github.javen205/IJPay-Core@2.9.12.1-17?classifier=sources
+- pkg:maven/com.github.javen205/IJPay-Core@2.9.12.1?classifier=sources
 - pkg:maven/com.github.javen205/IJPay-Core@2.9.12?classifier=sources
 - pkg:maven/com.github.javen205/IJPay-Core@2.9.1?classifier=sources
 - pkg:maven/com.github.javen205/IJPay-Core@2.9.2

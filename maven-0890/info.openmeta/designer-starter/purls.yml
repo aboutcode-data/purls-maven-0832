@@ -29,6 +29,7 @@
 - pkg:maven/info.openmeta/designer-starter@0.8.36?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.37?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.38?classifier=sources
+- pkg:maven/info.openmeta/designer-starter@0.8.39?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.4?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.5?classifier=sources
 - pkg:maven/info.openmeta/designer-starter@0.8.6?classifier=sources

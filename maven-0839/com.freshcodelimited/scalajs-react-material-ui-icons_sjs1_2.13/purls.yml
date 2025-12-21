@@ -22,5 +22,7 @@
 - pkg:maven/com.freshcodelimited/scalajs-react-material-ui-icons_sjs1_2.13@0.1.8?classifier=sources
 - pkg:maven/com.freshcodelimited/scalajs-react-material-ui-icons_sjs1_2.13@0.1.9
 - pkg:maven/com.freshcodelimited/scalajs-react-material-ui-icons_sjs1_2.13@0.1.9?classifier=sources
+- pkg:maven/com.freshcodelimited/scalajs-react-material-ui-icons_sjs1_2.13@0.2.0-rc2
+- pkg:maven/com.freshcodelimited/scalajs-react-material-ui-icons_sjs1_2.13@0.2.0-rc2?classifier=sources
 - pkg:maven/com.freshcodelimited/scalajs-react-material-ui-icons_sjs1_2.13@dev
 - pkg:maven/com.freshcodelimited/scalajs-react-material-ui-icons_sjs1_2.13@dev?classifier=sources

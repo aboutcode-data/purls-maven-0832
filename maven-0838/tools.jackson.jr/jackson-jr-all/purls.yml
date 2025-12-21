@@ -2,3 +2,5 @@
 - pkg:maven/tools.jackson.jr/jackson-jr-all@3.0.0-rc1?classifier=sources
 - pkg:maven/tools.jackson.jr/jackson-jr-all@3.0.0-rc2
 - pkg:maven/tools.jackson.jr/jackson-jr-all@3.0.0-rc2?classifier=sources
+- pkg:maven/tools.jackson.jr/jackson-jr-all@3.0.0-rc3
+- pkg:maven/tools.jackson.jr/jackson-jr-all@3.0.0-rc3?classifier=sources

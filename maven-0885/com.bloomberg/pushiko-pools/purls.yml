@@ -1,0 +1,2 @@
+- pkg:maven/com.bloomberg/pushiko-pools@1.0.0?classifier=sources
+- pkg:maven/com.bloomberg/pushiko-pools@1.0.1?classifier=sources

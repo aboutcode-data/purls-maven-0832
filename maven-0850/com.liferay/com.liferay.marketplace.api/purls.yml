@@ -4,6 +4,7 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.api@11.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@12.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@12.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.api@12.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.marketplace.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.api@3.0.0

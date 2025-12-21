@@ -4,3 +4,4 @@
 - pkg:maven/fr.inria.corese/corese-command@4.4.1?classifier=sources
 - pkg:maven/fr.inria.corese/corese-command@4.5.0
 - pkg:maven/fr.inria.corese/corese-command@4.5.0?classifier=sources
+- pkg:maven/fr.inria.corese/corese-command@4.6.0?classifier=sources

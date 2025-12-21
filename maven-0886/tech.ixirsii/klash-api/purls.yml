@@ -5,3 +5,4 @@
 - pkg:maven/tech.ixirsii/klash-api@1.1.1?classifier=sources
 - pkg:maven/tech.ixirsii/klash-api@1.1.2?classifier=sources
 - pkg:maven/tech.ixirsii/klash-api@1.1.4?classifier=sources
+- pkg:maven/tech.ixirsii/klash-api@1.1.5?classifier=sources

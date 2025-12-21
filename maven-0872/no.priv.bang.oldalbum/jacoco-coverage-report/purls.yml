@@ -75,3 +75,5 @@
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@2.1.7
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@2.1.8
 - pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@2.2.0
+- pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@2.2.1
+- pkg:maven/no.priv.bang.oldalbum/jacoco-coverage-report@2.2.2

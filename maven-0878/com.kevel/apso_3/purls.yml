@@ -1,0 +1,2 @@
+- pkg:maven/com.kevel/apso_3@0.22.0
+- pkg:maven/com.kevel/apso_3@0.22.0?classifier=sources

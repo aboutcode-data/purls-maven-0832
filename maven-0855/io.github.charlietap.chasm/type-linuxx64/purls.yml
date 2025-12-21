@@ -8,4 +8,5 @@
 - pkg:maven/io.github.charlietap.chasm/type-linuxx64@0.9.63?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/type-linuxx64@0.9.64?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/type-linuxx64@0.9.65?classifier=sources
+- pkg:maven/io.github.charlietap.chasm/type-linuxx64@0.9.66?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/type-linuxx64@0.9.6?classifier=sources

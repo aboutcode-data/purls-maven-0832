@@ -8,3 +8,5 @@
 - pkg:maven/org.verapdf/core-jakarta@1.26.2?classifier=sources
 - pkg:maven/org.verapdf/core-jakarta@1.26.5
 - pkg:maven/org.verapdf/core-jakarta@1.26.5?classifier=sources
+- pkg:maven/org.verapdf/core-jakarta@1.28.1
+- pkg:maven/org.verapdf/core-jakarta@1.28.1?classifier=sources

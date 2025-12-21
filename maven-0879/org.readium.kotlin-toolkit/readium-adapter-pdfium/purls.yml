@@ -10,3 +10,4 @@
 - pkg:maven/org.readium.kotlin-toolkit/readium-adapter-pdfium@3.0.0?classifier=sources
 - pkg:maven/org.readium.kotlin-toolkit/readium-adapter-pdfium@3.0.2?classifier=sources
 - pkg:maven/org.readium.kotlin-toolkit/readium-adapter-pdfium@3.0.3?classifier=sources
+- pkg:maven/org.readium.kotlin-toolkit/readium-adapter-pdfium@3.1.0?classifier=sources

@@ -21,3 +21,8 @@
 - pkg:maven/org.openrewrite/rewrite-csharp-remote@0.22.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-csharp-remote@0.22.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-csharp-remote@0.23.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-csharp-remote@0.24.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-csharp-remote@0.24.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-csharp-remote@0.24.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-csharp-remote@0.24.4?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-csharp-remote@0.25.0?classifier=sources

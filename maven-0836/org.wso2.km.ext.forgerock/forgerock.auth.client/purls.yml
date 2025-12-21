@@ -4,3 +4,4 @@
 - pkg:maven/org.wso2.km.ext.forgerock/forgerock.auth.client@1.1.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.km.ext.forgerock/forgerock.auth.client@1.1.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.km.ext.forgerock/forgerock.auth.client@1.1.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.km.ext.forgerock/forgerock.auth.client@1.1.6?classifier=source-release&type=zip

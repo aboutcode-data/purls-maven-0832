@@ -4,6 +4,10 @@
 - pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.11?classifier=sources
 - pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.12
 - pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.12?classifier=sources
+- pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.13
+- pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.13?classifier=sources
+- pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.14
+- pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.14?classifier=sources
 - pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.8
 - pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.8?classifier=sources
 - pkg:maven/io.github.wangtianruipopo/tr-core-auth-config@1.1.9

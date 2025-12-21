@@ -79,6 +79,11 @@
 - pkg:maven/org.ossreviewtoolkit/evaluator@54.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@55.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@55.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/evaluator@55.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/evaluator@55.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/evaluator@56.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/evaluator@56.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/evaluator@57.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/evaluator@6.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.1.0?classifier=sources
+- pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.1.1?classifier=sources

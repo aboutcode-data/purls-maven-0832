@@ -54,6 +54,8 @@
 - pkg:maven/io.circe/circe-generic-extras_2.12@0.14.3?classifier=sources
 - pkg:maven/io.circe/circe-generic-extras_2.12@0.14.4
 - pkg:maven/io.circe/circe-generic-extras_2.12@0.14.4?classifier=sources
+- pkg:maven/io.circe/circe-generic-extras_2.12@0.14.5-RC1
+- pkg:maven/io.circe/circe-generic-extras_2.12@0.14.5-RC1?classifier=sources
 - pkg:maven/io.circe/circe-generic-extras_2.12@0.6.0
 - pkg:maven/io.circe/circe-generic-extras_2.12@0.6.0?classifier=sources
 - pkg:maven/io.circe/circe-generic-extras_2.12@0.6.1

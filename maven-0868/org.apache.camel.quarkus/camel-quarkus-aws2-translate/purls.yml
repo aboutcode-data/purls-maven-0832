@@ -124,6 +124,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-translate@3.2.3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-translate@3.20.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-translate@3.20.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-translate@3.22.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-translate@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-translate@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-translate@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-translate@3.5.0

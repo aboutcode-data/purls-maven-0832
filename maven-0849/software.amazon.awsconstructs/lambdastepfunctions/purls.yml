@@ -320,5 +320,15 @@
 - pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.80.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.81.0
 - pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.81.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.82.0
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.82.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.83.0
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.83.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.84.0
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.84.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.85.0
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.85.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.85.1
+- pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.85.1?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.9.0
 - pkg:maven/software.amazon.awsconstructs/lambdastepfunctions@2.9.0?classifier=sources

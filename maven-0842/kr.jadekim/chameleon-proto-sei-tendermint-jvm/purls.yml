@@ -1,1 +1,2 @@
 - pkg:maven/kr.jadekim/chameleon-proto-sei-tendermint-jvm@0.3.8-4?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-sei-tendermint-jvm@0.5.4-5?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250408?classifier=sources
+- pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250409?classifier=sources
+- pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250411?classifier=sources
+- pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250413?classifier=sources
+- pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250416?classifier=sources
+- pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250423?classifier=sources

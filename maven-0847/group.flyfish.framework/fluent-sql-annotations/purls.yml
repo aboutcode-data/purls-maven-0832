@@ -10,3 +10,5 @@
 - pkg:maven/group.flyfish.framework/fluent-sql-annotations@0.1.0?classifier=sources
 - pkg:maven/group.flyfish.framework/fluent-sql-annotations@1.0.0
 - pkg:maven/group.flyfish.framework/fluent-sql-annotations@1.0.0?classifier=sources
+- pkg:maven/group.flyfish.framework/fluent-sql-annotations@1.0.1
+- pkg:maven/group.flyfish.framework/fluent-sql-annotations@1.0.1?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.0.2Test4?classifier=sources
 - pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.0.2Test5?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.0.6R1F1?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.0.7?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.0.8?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.1.0?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.1.0R1?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.1.1?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.1.2?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-ui-lib-jvm@0.1.2F1?classifier=sources

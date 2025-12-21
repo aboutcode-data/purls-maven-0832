@@ -424,6 +424,8 @@
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.7.27?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.7.28
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.7.28?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.7.29
+- pkg:maven/io.shiftleft/codepropertygraph_3@1.7.29?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.7.3
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.7.3?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph_3@1.7.4

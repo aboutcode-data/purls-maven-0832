@@ -262,6 +262,8 @@
 - pkg:maven/org.neo4j/neo4j-udc@2025.02.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-udc@2025.03.0
 - pkg:maven/org.neo4j/neo4j-udc@2025.03.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-udc@2025.04.0
+- pkg:maven/org.neo4j/neo4j-udc@2025.04.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-udc@3.0.0
 - pkg:maven/org.neo4j/neo4j-udc@3.0.0-M01
 - pkg:maven/org.neo4j/neo4j-udc@3.0.0-M01?classifier=sources
@@ -630,3 +632,5 @@
 - pkg:maven/org.neo4j/neo4j-udc@5.26.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-udc@5.26.4
 - pkg:maven/org.neo4j/neo4j-udc@5.26.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-udc@5.26.5
+- pkg:maven/org.neo4j/neo4j-udc@5.26.5?classifier=sources

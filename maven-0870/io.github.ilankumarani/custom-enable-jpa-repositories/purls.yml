@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ilankumarani/custom-enable-jpa-repositories@0.1.0?classifier=sources
+- pkg:maven/io.github.ilankumarani/custom-enable-jpa-repositories@0.2.0?classifier=sources

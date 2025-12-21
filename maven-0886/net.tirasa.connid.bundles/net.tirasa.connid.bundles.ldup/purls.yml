@@ -1,0 +1,2 @@
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.ldup@0.1.0
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.ldup@0.1.0?classifier=sources

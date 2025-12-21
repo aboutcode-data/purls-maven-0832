@@ -56,3 +56,14 @@
 - pkg:maven/it.unibo.collektive/stdlib-jvm@17.1.3?classifier=sources
 - pkg:maven/it.unibo.collektive/stdlib-jvm@17.2.0?classifier=sources
 - pkg:maven/it.unibo.collektive/stdlib-jvm@17.2.1?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@17.2.2?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@18.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@19.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@19.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@20.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@20.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@20.2.0?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@20.2.1?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@20.2.2?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@20.2.3?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-jvm@21.0.0?classifier=sources
