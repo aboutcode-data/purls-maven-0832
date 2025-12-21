@@ -74,3 +74,4 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.jpa.test.framework@5.0.0-B09?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.jpa.test.framework@5.0.0-B10
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.jpa.test.framework@5.0.0-B10?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.jpa.test.framework@5.0.0-B11?classifier=sources

@@ -28,6 +28,7 @@
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@9.6.0?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@9.7.0?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@9.8.0?classifier=sources
+- pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@9.9.0-beta0?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@untagged-07877868007dd359bc82?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@v9.0.0-beta?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-extras-circe_2.13@v9.0.1?classifier=sources

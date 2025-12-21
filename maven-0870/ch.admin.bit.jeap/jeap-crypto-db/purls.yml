@@ -26,3 +26,4 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.9.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@4.0.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@4.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@4.2.0?classifier=sources

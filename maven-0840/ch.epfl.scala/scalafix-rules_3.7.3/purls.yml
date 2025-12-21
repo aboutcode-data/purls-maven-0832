@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/scalafix-rules_3.7.3@0.14.4
+- pkg:maven/ch.epfl.scala/scalafix-rules_3.7.3@0.14.4?classifier=sources

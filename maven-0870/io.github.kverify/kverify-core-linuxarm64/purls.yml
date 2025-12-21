@@ -20,6 +20,12 @@
 - pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-1?classifier=sources
 - pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a0?classifier=sources
 - pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a1?classifier=sources
+- pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a21?classifier=sources
+- pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a22?classifier=sources
+- pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a23-experimental?classifier=sources
+- pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a23?classifier=sources
+- pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a24?classifier=sources
+- pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a25?classifier=sources
 - pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a2?classifier=sources
 - pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a3?classifier=sources
 - pkg:maven/io.github.kverify/kverify-core-linuxarm64@2.0.0-rc-2a4?classifier=sources

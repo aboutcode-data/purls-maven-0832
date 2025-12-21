@@ -14,3 +14,4 @@
 - pkg:maven/org.treblereel.j2cl.processors/common@0.7?classifier=sources
 - pkg:maven/org.treblereel.j2cl.processors/common@0.8
 - pkg:maven/org.treblereel.j2cl.processors/common@0.8?classifier=sources
+- pkg:maven/org.treblereel.j2cl.processors/common@0.9?classifier=sources

@@ -55,3 +55,4 @@
 - pkg:maven/com.kuflow/kuflow-temporal-activity-uivision@3.4.0
 - pkg:maven/com.kuflow/kuflow-temporal-activity-uivision@3.4.0?classifier=sources
 - pkg:maven/com.kuflow/kuflow-temporal-activity-uivision@3.5.0?classifier=sources
+- pkg:maven/com.kuflow/kuflow-temporal-activity-uivision@3.5.1?classifier=sources

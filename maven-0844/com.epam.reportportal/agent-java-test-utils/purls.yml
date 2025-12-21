@@ -11,3 +11,4 @@
 - pkg:maven/com.epam.reportportal/agent-java-test-utils@0.0.7?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-test-utils@0.0.8?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-test-utils@0.0.9?classifier=sources
+- pkg:maven/com.epam.reportportal/agent-java-test-utils@0.1.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.mvnpm.at.supabase/functions-js@2.4.6?classifier=sources
 - pkg:maven/org.mvnpm.at.supabase/functions-js@2.5.0
 - pkg:maven/org.mvnpm.at.supabase/functions-js@2.5.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.75.0
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.75.0?classifier=sources

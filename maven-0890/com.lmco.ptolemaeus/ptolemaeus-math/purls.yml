@@ -11,3 +11,4 @@
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.1.0?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.2.0?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@5.0.0?classifier=sources

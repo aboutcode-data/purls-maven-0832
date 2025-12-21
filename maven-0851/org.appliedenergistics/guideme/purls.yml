@@ -39,6 +39,7 @@
 - pkg:maven/org.appliedenergistics/guideme@21.1.7?classifier=sources
 - pkg:maven/org.appliedenergistics/guideme@21.1.8?classifier=sources
 - pkg:maven/org.appliedenergistics/guideme@21.1.9?classifier=sources
+- pkg:maven/org.appliedenergistics/guideme@21.10.1-beta?classifier=sources
 - pkg:maven/org.appliedenergistics/guideme@21.5.1-beta?classifier=sources
 - pkg:maven/org.appliedenergistics/guideme@21.5.2-beta?classifier=sources
 - pkg:maven/org.appliedenergistics/guideme@21.5.3-beta?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.gravitino/gravitino-catalog-jdbc-starrocks@1.0.0?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/org.springblade/blade-starter-swagger@4.5.0
 - pkg:maven/org.springblade/blade-starter-swagger@4.5.0?classifier=sources
 - pkg:maven/org.springblade/blade-starter-swagger@4.6.0?classifier=sources
+- pkg:maven/org.springblade/blade-starter-swagger@4.7.0?classifier=sources

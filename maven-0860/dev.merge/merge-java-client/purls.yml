@@ -26,5 +26,6 @@
 - pkg:maven/dev.merge/merge-java-client@2.0.0?classifier=sources
 - pkg:maven/dev.merge/merge-java-client@3.0.0?classifier=sources
 - pkg:maven/dev.merge/merge-java-client@4.0.0?classifier=sources
+- pkg:maven/dev.merge/merge-java-client@5.0.0?classifier=sources
 - pkg:maven/dev.merge/merge-java-client@v1.0.13?classifier=sources
 - pkg:maven/dev.merge/merge-java-client@v1.0.14?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/com.apadmi/mockzilla-management-jvm@2.2.2?classifier=sources
 - pkg:maven/com.apadmi/mockzilla-management-jvm@2.2.3?classifier=sources
 - pkg:maven/com.apadmi/mockzilla-management-jvm@2.3.2?classifier=sources
+- pkg:maven/com.apadmi/mockzilla-management-jvm@2.4.1?classifier=sources

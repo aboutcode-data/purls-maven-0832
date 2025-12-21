@@ -1,0 +1,2 @@
+- pkg:maven/com.aurelian2842.nbapi/NeoBotAPI@1.0.0?classifier=sources
+- pkg:maven/com.aurelian2842.nbapi/NeoBotAPI@1.0.1?classifier=sources

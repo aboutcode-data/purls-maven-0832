@@ -4,6 +4,9 @@
 - pkg:maven/cn.miniants/storm-boot-toolkit@1.1.113?classifier=sources
 - pkg:maven/cn.miniants/storm-boot-toolkit@1.1.114?classifier=sources
 - pkg:maven/cn.miniants/storm-boot-toolkit@1.1.115?classifier=sources
+- pkg:maven/cn.miniants/storm-boot-toolkit@1.1.116?classifier=sources
+- pkg:maven/cn.miniants/storm-boot-toolkit@1.1.117?classifier=sources
+- pkg:maven/cn.miniants/storm-boot-toolkit@1.1.118?classifier=sources
 - pkg:maven/cn.miniants/storm-boot-toolkit@1.1.93?classifier=sources
 - pkg:maven/cn.miniants/storm-boot-toolkit@1.1.95?classifier=sources
 - pkg:maven/cn.miniants/storm-boot-toolkit@1.1.96?classifier=sources

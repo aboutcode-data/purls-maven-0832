@@ -82,3 +82,4 @@
 - pkg:maven/cn.fossc.polaris.toolkit/polaris-core-apt@3.4.8?classifier=sources
 - pkg:maven/cn.fossc.polaris.toolkit/polaris-core-apt@3.5.0?classifier=sources
 - pkg:maven/cn.fossc.polaris.toolkit/polaris-core-apt@3.5.1?classifier=sources
+- pkg:maven/cn.fossc.polaris.toolkit/polaris-core-apt@3.5.2?classifier=sources

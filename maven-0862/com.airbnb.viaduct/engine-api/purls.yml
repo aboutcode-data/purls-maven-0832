@@ -1,2 +1,4 @@
 - pkg:maven/com.airbnb.viaduct/engine-api@0.2.3-airbnb-5?classifier=sources
 - pkg:maven/com.airbnb.viaduct/engine-api@0.3.0?classifier=sources
+- pkg:maven/com.airbnb.viaduct/engine-api@0.4.0?classifier=sources
+- pkg:maven/com.airbnb.viaduct/engine-api@0.5.0?classifier=sources

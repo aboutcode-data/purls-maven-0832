@@ -180,6 +180,10 @@
 - pkg:maven/org.mvnpm/svelte@5.38.9
 - pkg:maven/org.mvnpm/svelte@5.38.9?classifier=sources
 - pkg:maven/org.mvnpm/svelte@5.39.1
+- pkg:maven/org.mvnpm/svelte@5.39.10
+- pkg:maven/org.mvnpm/svelte@5.39.10?classifier=sources
+- pkg:maven/org.mvnpm/svelte@5.39.11
+- pkg:maven/org.mvnpm/svelte@5.39.11?classifier=sources
 - pkg:maven/org.mvnpm/svelte@5.39.1?classifier=sources
 - pkg:maven/org.mvnpm/svelte@5.39.2
 - pkg:maven/org.mvnpm/svelte@5.39.2?classifier=sources
@@ -191,3 +195,9 @@
 - pkg:maven/org.mvnpm/svelte@5.39.5?classifier=sources
 - pkg:maven/org.mvnpm/svelte@5.39.6
 - pkg:maven/org.mvnpm/svelte@5.39.6?classifier=sources
+- pkg:maven/org.mvnpm/svelte@5.39.7
+- pkg:maven/org.mvnpm/svelte@5.39.7?classifier=sources
+- pkg:maven/org.mvnpm/svelte@5.39.8
+- pkg:maven/org.mvnpm/svelte@5.39.8?classifier=sources
+- pkg:maven/org.mvnpm/svelte@5.39.9
+- pkg:maven/org.mvnpm/svelte@5.39.9?classifier=sources

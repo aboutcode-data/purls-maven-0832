@@ -44,6 +44,10 @@
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.11-dev0e%2B1e62354?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.11-dev0f%2B3dd1be8?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.11-dev0i%2B91da8e2?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.11-dev0k%2B68a269e?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.11-dev0l%2Bfbca2b8?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.11-dev0m%2Beaa4a2a?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.11-dev0n%2B6c8405d?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.1?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.2?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-applications-watchosarm32@1.0.3?classifier=sources

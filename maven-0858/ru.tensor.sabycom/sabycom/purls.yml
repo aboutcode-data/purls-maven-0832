@@ -17,3 +17,4 @@
 - pkg:maven/ru.tensor.sabycom/sabycom@25.3206.34?classifier=sources
 - pkg:maven/ru.tensor.sabycom/sabycom@25.4104.23?classifier=sources
 - pkg:maven/ru.tensor.sabycom/sabycom@25.4134.56?classifier=sources
+- pkg:maven/ru.tensor.sabycom/sabycom@25.5211.37?classifier=sources

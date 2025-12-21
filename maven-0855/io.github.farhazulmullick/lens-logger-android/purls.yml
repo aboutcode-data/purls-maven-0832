@@ -2,3 +2,4 @@
 - pkg:maven/io.github.farhazulmullick/lens-logger-android@0.0.1-alpha02?classifier=sources
 - pkg:maven/io.github.farhazulmullick/lens-logger-android@0.1.0?classifier=sources
 - pkg:maven/io.github.farhazulmullick/lens-logger-android@1.0.0?classifier=sources
+- pkg:maven/io.github.farhazulmullick/lens-logger-android@1.1.0-alpha01?classifier=sources

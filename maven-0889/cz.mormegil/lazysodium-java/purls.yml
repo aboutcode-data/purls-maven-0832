@@ -1,1 +1,2 @@
 - pkg:maven/cz.mormegil/lazysodium-java@6.0.0?classifier=sources
+- pkg:maven/cz.mormegil/lazysodium-java@6.1.0?classifier=sources

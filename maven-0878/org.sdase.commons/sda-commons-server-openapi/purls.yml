@@ -2706,3 +2706,7 @@
 - pkg:maven/org.sdase.commons/sda-commons-server-openapi@8.0.1?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-openapi@8.0.2
 - pkg:maven/org.sdase.commons/sda-commons-server-openapi@8.0.2?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-openapi@8.0.4
+- pkg:maven/org.sdase.commons/sda-commons-server-openapi@8.0.4?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-openapi@8.0.5
+- pkg:maven/org.sdase.commons/sda-commons-server-openapi@8.0.5?classifier=sources

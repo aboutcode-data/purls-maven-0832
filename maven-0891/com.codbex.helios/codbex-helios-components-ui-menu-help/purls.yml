@@ -2,3 +2,5 @@
 - pkg:maven/com.codbex.helios/codbex-helios-components-ui-menu-help@2.63.0?classifier=sources
 - pkg:maven/com.codbex.helios/codbex-helios-components-ui-menu-help@2.64.0?classifier=sources
 - pkg:maven/com.codbex.helios/codbex-helios-components-ui-menu-help@2.65.0?classifier=sources
+- pkg:maven/com.codbex.helios/codbex-helios-components-ui-menu-help@2.66.0?classifier=sources
+- pkg:maven/com.codbex.helios/codbex-helios-components-ui-menu-help@2.67.0?classifier=sources

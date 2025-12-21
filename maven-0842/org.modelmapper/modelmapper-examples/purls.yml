@@ -62,3 +62,4 @@
 - pkg:maven/org.modelmapper/modelmapper-examples@3.2.3?classifier=sources
 - pkg:maven/org.modelmapper/modelmapper-examples@3.2.4
 - pkg:maven/org.modelmapper/modelmapper-examples@3.2.4?classifier=sources
+- pkg:maven/org.modelmapper/modelmapper-examples@3.2.5?classifier=sources

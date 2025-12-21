@@ -11,6 +11,7 @@
 - pkg:maven/com.marcnuri.helm-java/darwin-amd64@0.0.14?classifier=sources
 - pkg:maven/com.marcnuri.helm-java/darwin-amd64@0.0.15
 - pkg:maven/com.marcnuri.helm-java/darwin-amd64@0.0.15?classifier=sources
+- pkg:maven/com.marcnuri.helm-java/darwin-amd64@0.0.16?classifier=sources
 - pkg:maven/com.marcnuri.helm-java/darwin-amd64@0.0.1?classifier=sources
 - pkg:maven/com.marcnuri.helm-java/darwin-amd64@0.0.2
 - pkg:maven/com.marcnuri.helm-java/darwin-amd64@0.0.2?classifier=sources

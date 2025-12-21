@@ -4,6 +4,7 @@
 - pkg:maven/org.xmlunit/xmlunit-placeholders@2.10.2?classifier=sources
 - pkg:maven/org.xmlunit/xmlunit-placeholders@2.10.3?classifier=sources
 - pkg:maven/org.xmlunit/xmlunit-placeholders@2.10.4?classifier=sources
+- pkg:maven/org.xmlunit/xmlunit-placeholders@2.11.0?classifier=sources
 - pkg:maven/org.xmlunit/xmlunit-placeholders@2.6.0
 - pkg:maven/org.xmlunit/xmlunit-placeholders@2.6.0?classifier=sources
 - pkg:maven/org.xmlunit/xmlunit-placeholders@2.6.1

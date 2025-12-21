@@ -25,3 +25,5 @@
 - pkg:maven/com.queue-it.connector/jakarta@4.0.8?classifier=sources
 - pkg:maven/com.queue-it.connector/jakarta@4.0.9
 - pkg:maven/com.queue-it.connector/jakarta@4.0.9?classifier=sources
+- pkg:maven/com.queue-it.connector/jakarta@4.2.6?classifier=sources
+- pkg:maven/com.queue-it.connector/jakarta@4.4.0?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/org.http4s/http4s-laws_sjs1_2.13@1.0.0-M44?classifier=sources
 - pkg:maven/org.http4s/http4s-laws_sjs1_2.13@1.0.0-M45
 - pkg:maven/org.http4s/http4s-laws_sjs1_2.13@1.0.0-M45?classifier=sources
+- pkg:maven/org.http4s/http4s-laws_sjs1_2.13@1.0.0-M46
+- pkg:maven/org.http4s/http4s-laws_sjs1_2.13@1.0.0-M46?classifier=sources

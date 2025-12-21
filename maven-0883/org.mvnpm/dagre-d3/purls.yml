@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/dagre-d3@0.6.4
+- pkg:maven/org.mvnpm/dagre-d3@0.6.4?classifier=sources

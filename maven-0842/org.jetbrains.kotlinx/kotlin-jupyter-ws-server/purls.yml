@@ -91,3 +91,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ws-server@0.15.0-637?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ws-server@0.15.0-638?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ws-server@0.15.0-639?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ws-server@0.15.0-648?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ws-server@0.15.0-649?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.neo4j.gds/scaling-utils@2.20.0?classifier=sources
 - pkg:maven/org.neo4j.gds/scaling-utils@2.21.0
 - pkg:maven/org.neo4j.gds/scaling-utils@2.21.0?classifier=sources
+- pkg:maven/org.neo4j.gds/scaling-utils@2.22.0
+- pkg:maven/org.neo4j.gds/scaling-utils@2.22.0?classifier=sources

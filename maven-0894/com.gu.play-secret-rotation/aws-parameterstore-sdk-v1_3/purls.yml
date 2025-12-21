@@ -96,6 +96,12 @@
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@15.0.0?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@15.1.0
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@15.1.0?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@15.2.0
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@15.2.0?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@15.2.1
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@15.2.1?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@15.2.2
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@15.2.2?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@2.0.0
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@2.0.0?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_3@3.0.0

@@ -859,6 +859,7 @@
 - pkg:maven/org.anyline/anyline-mail@8.7.2-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-20250903?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-mail@8.7.2-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk11-20240820
@@ -911,6 +912,7 @@
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk11-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk11-20250903?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk11-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-mail@8.7.2-jdk11-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk17-20240501
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk17-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk17-20240505
@@ -1069,6 +1071,7 @@
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk17-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk17-20250903?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk17-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-mail@8.7.2-jdk17-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk21-20240501
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk21-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk21-20240505
@@ -1235,3 +1238,8 @@
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk21-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk21-20250903?classifier=sources
 - pkg:maven/org.anyline/anyline-mail@8.7.2-jdk21-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-mail@8.7.2-jdk21-20250918?classifier=sources
+- pkg:maven/org.anyline/anyline-mail@8.7.3-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-mail@8.7.3-jdk11-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-mail@8.7.3-jdk17-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-mail@8.7.3-jdk21-20251011?classifier=sources

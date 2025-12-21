@@ -11,3 +11,4 @@
 - pkg:maven/com.solace.microintegration.core.archetype/micro-integration-archetype@2.18.0?classifier=sources
 - pkg:maven/com.solace.microintegration.core.archetype/micro-integration-archetype@2.18.1?classifier=sources
 - pkg:maven/com.solace.microintegration.core.archetype/micro-integration-archetype@2.18.2?classifier=sources
+- pkg:maven/com.solace.microintegration.core.archetype/micro-integration-archetype@2.18.3?classifier=sources

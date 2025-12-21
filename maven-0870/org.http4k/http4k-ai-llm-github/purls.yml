@@ -6,3 +6,4 @@
 - pkg:maven/org.http4k/http4k-ai-llm-github@6.17.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-ai-llm-github@6.18.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-ai-llm-github@6.18.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-ai-llm-github@6.19.0.0?classifier=sources

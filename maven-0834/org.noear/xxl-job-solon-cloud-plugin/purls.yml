@@ -755,4 +755,8 @@
 - pkg:maven/org.noear/xxl-job-solon-cloud-plugin@3.5.2?classifier=sources
 - pkg:maven/org.noear/xxl-job-solon-cloud-plugin@3.5.3?classifier=sources
 - pkg:maven/org.noear/xxl-job-solon-cloud-plugin@3.5.4?classifier=sources
+- pkg:maven/org.noear/xxl-job-solon-cloud-plugin@3.5.5?classifier=sources
 - pkg:maven/org.noear/xxl-job-solon-cloud-plugin@3.6.0-M1?classifier=sources
+- pkg:maven/org.noear/xxl-job-solon-cloud-plugin@3.6.0-M2?classifier=sources
+- pkg:maven/org.noear/xxl-job-solon-cloud-plugin@3.6.0-RC?classifier=sources
+- pkg:maven/org.noear/xxl-job-solon-cloud-plugin@3.6.0?classifier=sources

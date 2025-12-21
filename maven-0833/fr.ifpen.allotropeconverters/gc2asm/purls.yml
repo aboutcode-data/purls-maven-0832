@@ -10,3 +10,9 @@
 - pkg:maven/fr.ifpen.allotropeconverters/gc2asm@3.1?classifier=sources
 - pkg:maven/fr.ifpen.allotropeconverters/gc2asm@3.2?classifier=sources
 - pkg:maven/fr.ifpen.allotropeconverters/gc2asm@3.3?classifier=sources
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@4.1?classifier=sources
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@4.2?classifier=sources
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@4.3?classifier=sources
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@4.4.1?classifier=sources
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@4.4.2?classifier=sources
+- pkg:maven/fr.ifpen.allotropeconverters/gc2asm@4.4?classifier=sources

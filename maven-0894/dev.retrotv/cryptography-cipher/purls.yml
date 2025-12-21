@@ -2,3 +2,5 @@
 - pkg:maven/dev.retrotv/cryptography-cipher@0.51.0-alpha?classifier=sources
 - pkg:maven/dev.retrotv/cryptography-cipher@0.51.1-alpha?classifier=sources
 - pkg:maven/dev.retrotv/cryptography-cipher@0.51.2-alpha?classifier=sources
+- pkg:maven/dev.retrotv/cryptography-cipher@0.60.0-alpha?classifier=sources
+- pkg:maven/dev.retrotv/cryptography-cipher@0.61.0-alpha?classifier=sources

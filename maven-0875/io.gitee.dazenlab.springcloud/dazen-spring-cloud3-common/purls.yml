@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.dazenlab.springcloud/dazen-spring-cloud3-common@3.0.1
+- pkg:maven/io.gitee.dazenlab.springcloud/dazen-spring-cloud3-common@3.0.1?classifier=sources

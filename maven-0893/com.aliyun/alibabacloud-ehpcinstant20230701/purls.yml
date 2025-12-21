@@ -33,3 +33,4 @@
 - pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@3.0.0?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@3.0.1?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@3.0.2?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@3.0.3?classifier=sources

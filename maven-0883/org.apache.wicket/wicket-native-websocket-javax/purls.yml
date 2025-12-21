@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.wicket/wicket-native-websocket-javax@10.5.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-javax@10.6.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-javax@10.6.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-javax@10.7.0
+- pkg:maven/org.apache.wicket/wicket-native-websocket-javax@10.7.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-javax@7.0.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-javax@7.0.0-M1
 - pkg:maven/org.apache.wicket/wicket-native-websocket-javax@7.0.0-M1?classifier=sources

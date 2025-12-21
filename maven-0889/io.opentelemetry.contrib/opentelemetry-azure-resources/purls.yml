@@ -5,3 +5,4 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-azure-resources@1.47.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-azure-resources@1.48.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-azure-resources@1.49.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-azure-resources@1.50.0-alpha?classifier=sources

@@ -9,3 +9,7 @@
 - pkg:maven/com.steamstreet/serialization-iosarm64@2.1.29?classifier=sources
 - pkg:maven/com.steamstreet/serialization-iosarm64@2.1.30?classifier=sources
 - pkg:maven/com.steamstreet/serialization-iosarm64@2.1.31?classifier=sources
+- pkg:maven/com.steamstreet/serialization-iosarm64@2.2.0?classifier=sources
+- pkg:maven/com.steamstreet/serialization-iosarm64@2.2.1?classifier=sources
+- pkg:maven/com.steamstreet/serialization-iosarm64@2.2.2?classifier=sources
+- pkg:maven/com.steamstreet/serialization-iosarm64@2.2.3?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/dev.schlaubi/stdx-serialization-wasm-wasi@2.0.0?classifier=sources

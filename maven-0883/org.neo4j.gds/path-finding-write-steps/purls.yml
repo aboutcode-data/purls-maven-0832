@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.gds/path-finding-write-steps@2.22.0
+- pkg:maven/org.neo4j.gds/path-finding-write-steps@2.22.0?classifier=sources

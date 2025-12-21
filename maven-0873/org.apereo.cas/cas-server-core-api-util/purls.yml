@@ -350,5 +350,6 @@
 - pkg:maven/org.apereo.cas/cas-server-core-api-util@7.3.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-api-util@7.3.0-RC3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-api-util@7.3.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-core-api-util@7.3.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-api-util@v6.4.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-api-util@v6.4.0-RC6?classifier=sources

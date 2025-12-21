@@ -4,3 +4,4 @@
 - pkg:maven/org.quickfixj.orchestra/quickfixj-from-fix-orchestra-dictionary-generator-maven-plugin@1.0.1?classifier=sources
 - pkg:maven/org.quickfixj.orchestra/quickfixj-from-fix-orchestra-dictionary-generator-maven-plugin@1.0.2
 - pkg:maven/org.quickfixj.orchestra/quickfixj-from-fix-orchestra-dictionary-generator-maven-plugin@1.0.2?classifier=sources
+- pkg:maven/org.quickfixj.orchestra/quickfixj-from-fix-orchestra-dictionary-generator-maven-plugin@1.0.3?classifier=sources

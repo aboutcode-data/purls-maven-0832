@@ -137,3 +137,4 @@
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.5.0-beta6?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.5.0-beta7?classifier=sources
 - pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.5.0-beta8?classifier=sources
+- pkg:maven/org.igniterealtime.smack/smack-resolver-minidns@4.5.0-beta9?classifier=sources

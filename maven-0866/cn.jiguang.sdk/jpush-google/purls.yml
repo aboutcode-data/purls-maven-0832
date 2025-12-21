@@ -48,3 +48,4 @@
 - pkg:maven/cn.jiguang.sdk/jpush-google@5.7.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush-google@5.7.3?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush-google@5.8.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jpush-google@5.9.0?classifier=sources

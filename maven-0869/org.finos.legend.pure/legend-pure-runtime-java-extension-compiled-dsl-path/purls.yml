@@ -153,6 +153,7 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-compiled-dsl-path@5.61.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-compiled-dsl-path@5.61.1?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-compiled-dsl-path@5.61.2?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-compiled-dsl-path@5.62.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-compiled-dsl-path@5.7.0
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-compiled-dsl-path@5.7.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-compiled-dsl-path@5.8.0

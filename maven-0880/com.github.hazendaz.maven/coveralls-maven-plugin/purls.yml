@@ -7,3 +7,4 @@
 - pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@4.5.0?classifier=sources
 - pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@4.6.0?classifier=sources
 - pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@4.7.0?classifier=sources
+- pkg:maven/com.github.hazendaz.maven/coveralls-maven-plugin@5.0.0?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/st.orm/storm-mysql@1.4.0?classifier=sources
 - pkg:maven/st.orm/storm-mysql@1.5.0?classifier=sources
 - pkg:maven/st.orm/storm-mysql@1.6.0?classifier=sources
+- pkg:maven/st.orm/storm-mysql@1.6.1?classifier=sources

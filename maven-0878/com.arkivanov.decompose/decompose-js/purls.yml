@@ -140,3 +140,4 @@
 - pkg:maven/com.arkivanov.decompose/decompose-js@3.4.0-alpha04?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-js@3.4.0-alpha05?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-js@3.4.0-beta01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/decompose-js@3.4.0?classifier=sources

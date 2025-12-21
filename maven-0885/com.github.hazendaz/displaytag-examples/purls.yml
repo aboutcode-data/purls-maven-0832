@@ -32,6 +32,7 @@
 - pkg:maven/com.github.hazendaz/displaytag-examples@2.6.0?classifier=sources
 - pkg:maven/com.github.hazendaz/displaytag-examples@2.7.0?classifier=sources
 - pkg:maven/com.github.hazendaz/displaytag-examples@2.8.0?classifier=sources
+- pkg:maven/com.github.hazendaz/displaytag-examples@2.9.0?classifier=sources
 - pkg:maven/com.github.hazendaz/displaytag-examples@3.0.0-M1?classifier=sources
 - pkg:maven/com.github.hazendaz/displaytag-examples@3.0.0-M2?classifier=sources
 - pkg:maven/com.github.hazendaz/displaytag-examples@3.0.0?classifier=sources
@@ -41,3 +42,4 @@
 - pkg:maven/com.github.hazendaz/displaytag-examples@3.1.0?classifier=sources
 - pkg:maven/com.github.hazendaz/displaytag-examples@3.2.0?classifier=sources
 - pkg:maven/com.github.hazendaz/displaytag-examples@3.3.0?classifier=sources
+- pkg:maven/com.github.hazendaz/displaytag-examples@3.4.0?classifier=sources

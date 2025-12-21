@@ -1,2 +1,6 @@
 - pkg:maven/fr.janalyse/sotohp-gui_3@0.0.15
 - pkg:maven/fr.janalyse/sotohp-gui_3@0.0.15?classifier=sources
+- pkg:maven/fr.janalyse/sotohp-gui_3@1.0.16
+- pkg:maven/fr.janalyse/sotohp-gui_3@1.0.16?classifier=sources
+- pkg:maven/fr.janalyse/sotohp-gui_3@1.0.17
+- pkg:maven/fr.janalyse/sotohp-gui_3@1.0.17?classifier=sources

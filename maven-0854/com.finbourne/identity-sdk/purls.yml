@@ -178,6 +178,9 @@
 - pkg:maven/com.finbourne/identity-sdk@2.0.193?classifier=sources
 - pkg:maven/com.finbourne/identity-sdk@2.0.194?classifier=sources
 - pkg:maven/com.finbourne/identity-sdk@2.0.195?classifier=sources
+- pkg:maven/com.finbourne/identity-sdk@2.0.196?classifier=sources
+- pkg:maven/com.finbourne/identity-sdk@2.0.197?classifier=sources
+- pkg:maven/com.finbourne/identity-sdk@2.0.198?classifier=sources
 - pkg:maven/com.finbourne/identity-sdk@2.0.19?classifier=sources
 - pkg:maven/com.finbourne/identity-sdk@2.0.1?classifier=sources
 - pkg:maven/com.finbourne/identity-sdk@2.0.2

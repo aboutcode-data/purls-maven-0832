@@ -1,1 +1,2 @@
 - pkg:maven/org.machanism.macha.machaon.faas.oci1.backend/machaon-sl-oci1-backend-user@0.0.2?classifier=sources
+- pkg:maven/org.machanism.macha.machaon.faas.oci1.backend/machaon-sl-oci1-backend-user@0.0.3?classifier=sources

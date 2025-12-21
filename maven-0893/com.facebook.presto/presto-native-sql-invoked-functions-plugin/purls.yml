@@ -1,0 +1,1 @@
+- pkg:maven/com.facebook.presto/presto-native-sql-invoked-functions-plugin@0.295?classifier=sources

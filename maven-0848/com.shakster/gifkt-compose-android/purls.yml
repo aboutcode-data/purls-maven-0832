@@ -1,0 +1,2 @@
+- pkg:maven/com.shakster/gifkt-compose-android@0.2.0?classifier=sources
+- pkg:maven/com.shakster/gifkt-compose-android@0.3.0?classifier=sources

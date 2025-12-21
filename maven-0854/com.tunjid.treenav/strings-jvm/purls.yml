@@ -18,6 +18,7 @@
 - pkg:maven/com.tunjid.treenav/strings-jvm@0.0.41?classifier=sources
 - pkg:maven/com.tunjid.treenav/strings-jvm@0.0.42?classifier=sources
 - pkg:maven/com.tunjid.treenav/strings-jvm@0.0.43?classifier=sources
+- pkg:maven/com.tunjid.treenav/strings-jvm@0.0.44?classifier=sources
 - pkg:maven/com.tunjid.treenav/strings-jvm@0.0.4?classifier=sources
 - pkg:maven/com.tunjid.treenav/strings-jvm@0.0.5?classifier=sources
 - pkg:maven/com.tunjid.treenav/strings-jvm@0.0.6?classifier=sources

@@ -138,6 +138,10 @@
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.13.3-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.13.4-preview
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.13.4-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.13.5-preview
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.13.5-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.13.6-preview
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.13.6-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.2.0-preview
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.2.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@5.2.1-preview
@@ -190,6 +194,10 @@
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@6.3.3-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@6.3.4-preview
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@6.3.4-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@6.4.0-preview
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@6.4.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@6.5.0-preview
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@6.5.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.0.0-preview
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.0.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.1.0-preview
@@ -200,3 +208,7 @@
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.3.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.3.1-preview
 - pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.3.1-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.3.2-preview
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.3.2-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.4.0-preview
+- pkg:maven/com.google.cloud/google-cloud-dataproc-spring-starter@7.4.0-preview?classifier=sources

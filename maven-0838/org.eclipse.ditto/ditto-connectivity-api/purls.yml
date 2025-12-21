@@ -154,3 +154,4 @@
 - pkg:maven/org.eclipse.ditto/ditto-connectivity-api@3.8.0-M4?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-connectivity-api@3.8.0-M5?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-connectivity-api@3.8.0-M6?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-connectivity-api@3.8.0?classifier=sources

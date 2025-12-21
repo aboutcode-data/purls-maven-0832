@@ -28,3 +28,4 @@
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Map-Navi@7.6.3?type=aar
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Map-Navi@7.6.4?classifier=sources
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Map-Navi@7.6.4?type=aar
+- pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Map-Navi@7.6.6?classifier=sources

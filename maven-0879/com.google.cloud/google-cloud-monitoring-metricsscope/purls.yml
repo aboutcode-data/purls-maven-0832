@@ -118,8 +118,14 @@
 - pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.67.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.68.0
 - pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.68.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.69.0
+- pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.69.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.7.0
 - pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.7.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.70.0
+- pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.70.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.71.0
+- pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.71.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.8.0
 - pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring-metricsscope@0.9.0

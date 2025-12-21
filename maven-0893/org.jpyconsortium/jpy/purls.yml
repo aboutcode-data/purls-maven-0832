@@ -22,3 +22,4 @@
 - pkg:maven/org.jpyconsortium/jpy@1.0.0?classifier=sources
 - pkg:maven/org.jpyconsortium/jpy@1.1.0
 - pkg:maven/org.jpyconsortium/jpy@1.1.0?classifier=sources
+- pkg:maven/org.jpyconsortium/jpy@1.2.0?classifier=sources

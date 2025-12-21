@@ -42,3 +42,4 @@
 - pkg:maven/com.mailjet/mailjet-client@5.2.6?classifier=sources
 - pkg:maven/com.mailjet/mailjet-client@6.0.0
 - pkg:maven/com.mailjet/mailjet-client@6.0.0?classifier=sources
+- pkg:maven/com.mailjet/mailjet-client@6.0.1?classifier=sources

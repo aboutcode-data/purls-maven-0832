@@ -1,3 +1,6 @@
+- pkg:maven/top.uhyils.usher/usher-common-util-rule-database-jdbc@2.1.0.10.usher?classifier=sources
+- pkg:maven/top.uhyils.usher/usher-common-util-rule-database-jdbc@2.1.0.11.usher?classifier=sources
 - pkg:maven/top.uhyils.usher/usher-common-util-rule-database-jdbc@2.1.0.5.usher?classifier=sources
 - pkg:maven/top.uhyils.usher/usher-common-util-rule-database-jdbc@2.1.0.7.usher?classifier=sources
 - pkg:maven/top.uhyils.usher/usher-common-util-rule-database-jdbc@2.1.0.8.usher?classifier=sources
+- pkg:maven/top.uhyils.usher/usher-common-util-rule-database-jdbc@2.1.0.9.usher?classifier=sources

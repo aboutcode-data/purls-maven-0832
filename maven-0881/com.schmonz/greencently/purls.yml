@@ -15,3 +15,5 @@
 - pkg:maven/com.schmonz/greencently@20250814091134.0.0-g795f07b-16960960130-1?classifier=sources
 - pkg:maven/com.schmonz/greencently@20250910084639.0.0-g2b34a06-17608338099-1?classifier=sources
 - pkg:maven/com.schmonz/greencently@20250918182849.0.0-g8db7ecf-17837952894-1?classifier=sources
+- pkg:maven/com.schmonz/greencently@20250924084233.0.0-g6e71930-17971315722-1?classifier=sources
+- pkg:maven/com.schmonz/greencently@20250930101212.0.0-g0ccd138-18126414247-1?classifier=sources

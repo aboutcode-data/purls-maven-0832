@@ -5,3 +5,4 @@
 - pkg:maven/io.github.shadmanadman/kwebview-desktop@1.31.0?classifier=sources
 - pkg:maven/io.github.shadmanadman/kwebview-desktop@1.31.5?classifier=sources
 - pkg:maven/io.github.shadmanadman/kwebview-desktop@1.60.0?classifier=sources
+- pkg:maven/io.github.shadmanadman/kwebview-desktop@1.61.0?classifier=sources

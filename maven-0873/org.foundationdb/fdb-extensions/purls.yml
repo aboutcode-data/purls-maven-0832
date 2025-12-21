@@ -75,3 +75,7 @@
 - pkg:maven/org.foundationdb/fdb-extensions@4.6.2.0?classifier=sources
 - pkg:maven/org.foundationdb/fdb-extensions@4.6.3.0?classifier=sources
 - pkg:maven/org.foundationdb/fdb-extensions@4.6.4.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-extensions@4.6.5.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-extensions@4.7.1.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-extensions@4.7.2.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-extensions@4.7.3.0?classifier=sources

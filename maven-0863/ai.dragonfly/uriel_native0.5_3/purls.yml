@@ -1,4 +1,6 @@
 - pkg:maven/ai.dragonfly/uriel_native0.5_3@0.1
 - pkg:maven/ai.dragonfly/uriel_native0.5_3@0.11
 - pkg:maven/ai.dragonfly/uriel_native0.5_3@0.11?classifier=sources
+- pkg:maven/ai.dragonfly/uriel_native0.5_3@0.12
+- pkg:maven/ai.dragonfly/uriel_native0.5_3@0.12?classifier=sources
 - pkg:maven/ai.dragonfly/uriel_native0.5_3@0.1?classifier=sources

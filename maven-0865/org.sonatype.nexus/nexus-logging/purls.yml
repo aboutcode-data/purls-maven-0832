@@ -8,3 +8,4 @@
 - pkg:maven/org.sonatype.nexus/nexus-logging@3.83.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-logging@3.84.0-03?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-logging@3.84.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-logging@3.85.0-03?classifier=sources

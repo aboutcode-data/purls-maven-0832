@@ -1,1 +1,2 @@
 - pkg:maven/io.github.gpc/grails-cache-guava@2.0.0?classifier=sources
+- pkg:maven/io.github.gpc/grails-cache-guava@7.0.0-RC1?classifier=sources

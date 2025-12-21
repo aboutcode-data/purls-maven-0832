@@ -9,3 +9,4 @@
 - pkg:maven/com.opencqrs/esdb-client@1.0-rc7?classifier=sources
 - pkg:maven/com.opencqrs/esdb-client@1.0-rc8?classifier=sources
 - pkg:maven/com.opencqrs/esdb-client@1.0-rc9?classifier=sources
+- pkg:maven/com.opencqrs/esdb-client@1.0.0?classifier=sources

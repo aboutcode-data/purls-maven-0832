@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.knox/gateway-provider-security-authz-path-acls@2.1.0
+- pkg:maven/org.apache.knox/gateway-provider-security-authz-path-acls@2.1.0?classifier=sources

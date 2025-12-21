@@ -1,0 +1,2 @@
+- pkg:maven/io.dekorate/spring-boot-on-kubernetes-with-jib-custom-registry-example@4.1.6?classifier=sources
+- pkg:maven/io.dekorate/spring-boot-on-kubernetes-with-jib-custom-registry-example@4.1.7?classifier=sources

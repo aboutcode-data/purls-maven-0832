@@ -19,3 +19,4 @@
 - pkg:maven/com.resend/resend-java@4.4.0?classifier=sources
 - pkg:maven/com.resend/resend-java@4.5.0?classifier=sources
 - pkg:maven/com.resend/resend-java@4.5.1?classifier=sources
+- pkg:maven/com.resend/resend-java@4.6.0?classifier=sources

@@ -129,3 +129,4 @@
 - pkg:maven/org.faktorips/faktorips-runtime-jakarta-xml@26.1.0.a20250801-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-jakarta-xml@26.1.0.a20250829-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-jakarta-xml@26.1.0.a20250924-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-jakarta-xml@26.1.0.a20251001-01?classifier=sources

@@ -34,3 +34,6 @@
 - pkg:maven/com.salesforce.datacloud/jdbc-grpc@0.33.1?classifier=sources
 - pkg:maven/com.salesforce.datacloud/jdbc-grpc@0.33.2?classifier=sources
 - pkg:maven/com.salesforce.datacloud/jdbc-grpc@0.34.0?classifier=sources
+- pkg:maven/com.salesforce.datacloud/jdbc-grpc@0.35.0?classifier=sources
+- pkg:maven/com.salesforce.datacloud/jdbc-grpc@0.36.0?classifier=sources
+- pkg:maven/com.salesforce.datacloud/jdbc-grpc@0.37.0?classifier=sources

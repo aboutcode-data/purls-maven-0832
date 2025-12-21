@@ -78,3 +78,5 @@
 - pkg:maven/com.commercetools/sphere-mongo-core_2.13@0.15.9?classifier=sources
 - pkg:maven/com.commercetools/sphere-mongo-core_2.13@0.16.0
 - pkg:maven/com.commercetools/sphere-mongo-core_2.13@0.16.0?classifier=sources
+- pkg:maven/com.commercetools/sphere-mongo-core_2.13@0.17.0
+- pkg:maven/com.commercetools/sphere-mongo-core_2.13@0.17.0?classifier=sources

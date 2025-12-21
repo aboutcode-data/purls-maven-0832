@@ -145,3 +145,7 @@
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-macosarm64@0.3.4-dev0h%2Bfae6a7d?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-macosarm64@0.3.4-dev0j%2B6f80973?classifier=sources
 - pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-macosarm64@0.3.4-dev0n%2Bbee34bc?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-macosarm64@0.3.4-dev0p%2B996febb?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-macosarm64@0.3.4-dev0q%2B9249207?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-macosarm64@0.3.4-dev0r%2B3b5eeb7?classifier=sources
+- pkg:maven/org.danilopianini/template-for-kotlin-multiplatform-projects-macosarm64@0.3.4-dev0s%2B0f8f99f?classifier=sources

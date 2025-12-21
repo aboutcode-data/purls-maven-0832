@@ -158,6 +158,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@3.3.7?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@3.3.8
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@3.3.8?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-aerospike@3.3.9
+- pkg:maven/org.apache.pulsar/pulsar-io-aerospike@3.3.9?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.0.0
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.0.0-preview.1
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.0.0-preview.1?classifier=sources
@@ -174,5 +176,9 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.0.5?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.0.6
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.0.6?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.0.7
+- pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.0.7?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.1.0
 - pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.1.0?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.1.1
+- pkg:maven/org.apache.pulsar/pulsar-io-aerospike@4.1.1?classifier=sources

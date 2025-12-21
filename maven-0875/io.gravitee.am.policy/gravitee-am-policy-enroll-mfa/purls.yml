@@ -274,6 +274,8 @@
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.5.24?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.5.25?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.5.26?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.5.27?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.5.28?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.5.2?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.5.3?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.5.4?classifier=sources
@@ -298,6 +300,8 @@
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.6.1?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.6.20?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.6.21?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.6.22?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.6.23?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.6.2?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.6.3?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.6.4?classifier=sources
@@ -317,6 +321,9 @@
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.7.12?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.7.13?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.7.14?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.7.15?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.7.16?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.7.17?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.7.1?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.7.2?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.7.3?classifier=sources
@@ -331,4 +338,7 @@
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.8.4?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.8.5?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.8.6?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.8.7?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.8.8?classifier=sources
+- pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.8.9?classifier=sources
 - pkg:maven/io.gravitee.am.policy/gravitee-am-policy-enroll-mfa@4.9.0-alpha.1?classifier=sources

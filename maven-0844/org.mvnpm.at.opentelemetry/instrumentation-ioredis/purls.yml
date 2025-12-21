@@ -13,3 +13,7 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-ioredis@0.52.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-ioredis@0.53.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-ioredis@0.53.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-ioredis@0.53.3
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-ioredis@0.53.3?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-ioredis@0.54.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-ioredis@0.54.0?classifier=sources
