@@ -164,6 +164,8 @@
 - pkg:maven/io.spinnaker.kayenta/kayenta-influxdb@main-120?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-influxdb@main-121?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-influxdb@main-122?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-influxdb@main-123?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-influxdb@main-124?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-influxdb@main-12?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-influxdb@main-13?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-influxdb@main-14?classifier=sources

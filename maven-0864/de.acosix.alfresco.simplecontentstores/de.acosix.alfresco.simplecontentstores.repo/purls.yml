@@ -12,3 +12,4 @@
 - pkg:maven/de.acosix.alfresco.simplecontentstores/de.acosix.alfresco.simplecontentstores.repo@1.2.3?classifier=sources
 - pkg:maven/de.acosix.alfresco.simplecontentstores/de.acosix.alfresco.simplecontentstores.repo@1.2.4
 - pkg:maven/de.acosix.alfresco.simplecontentstores/de.acosix.alfresco.simplecontentstores.repo@1.2.4?classifier=sources
+- pkg:maven/de.acosix.alfresco.simplecontentstores/de.acosix.alfresco.simplecontentstores.repo@1.2.5?classifier=sources

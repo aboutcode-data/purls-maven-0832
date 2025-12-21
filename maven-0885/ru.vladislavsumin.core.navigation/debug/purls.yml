@@ -15,3 +15,5 @@
 - pkg:maven/ru.vladislavsumin.core.navigation/debug@0.6.1?classifier=sources
 - pkg:maven/ru.vladislavsumin.core.navigation/debug@0.7.0?classifier=sources
 - pkg:maven/ru.vladislavsumin.core.navigation/debug@0.8.0?classifier=sources
+- pkg:maven/ru.vladislavsumin.core.navigation/debug@1.0.2?classifier=sources
+- pkg:maven/ru.vladislavsumin.core.navigation/debug@v0.9.0?classifier=sources

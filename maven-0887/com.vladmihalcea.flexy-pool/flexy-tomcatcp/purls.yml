@@ -48,3 +48,4 @@
 - pkg:maven/com.vladmihalcea.flexy-pool/flexy-tomcatcp@3.0.1?classifier=sources
 - pkg:maven/com.vladmihalcea.flexy-pool/flexy-tomcatcp@3.0.2
 - pkg:maven/com.vladmihalcea.flexy-pool/flexy-tomcatcp@3.0.2?classifier=sources
+- pkg:maven/com.vladmihalcea.flexy-pool/flexy-tomcatcp@3.1.0?classifier=sources

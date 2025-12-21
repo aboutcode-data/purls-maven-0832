@@ -51,3 +51,11 @@
 - pkg:maven/org.mvnpm/next@16.0.0?classifier=sources
 - pkg:maven/org.mvnpm/next@16.0.1
 - pkg:maven/org.mvnpm/next@16.0.1?classifier=sources
+- pkg:maven/org.mvnpm/next@16.0.2
+- pkg:maven/org.mvnpm/next@16.0.2?classifier=sources
+- pkg:maven/org.mvnpm/next@16.0.3
+- pkg:maven/org.mvnpm/next@16.0.3?classifier=sources
+- pkg:maven/org.mvnpm/next@16.0.4
+- pkg:maven/org.mvnpm/next@16.0.4?classifier=sources
+- pkg:maven/org.mvnpm/next@16.0.5
+- pkg:maven/org.mvnpm/next@16.0.5?classifier=sources

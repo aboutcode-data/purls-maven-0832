@@ -446,6 +446,8 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-core@5.64.1?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-core@5.64.2?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-core@5.65.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-core@5.66.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-core@5.67.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-core@5.7.0
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-core@5.7.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-core@5.8.0

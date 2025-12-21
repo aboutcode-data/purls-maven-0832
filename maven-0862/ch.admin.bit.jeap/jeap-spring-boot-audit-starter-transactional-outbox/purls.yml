@@ -1,0 +1,4 @@
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-audit-starter-transactional-outbox@1.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-audit-starter-transactional-outbox@2.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-audit-starter-transactional-outbox@2.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-audit-starter-transactional-outbox@2.2.0?classifier=sources

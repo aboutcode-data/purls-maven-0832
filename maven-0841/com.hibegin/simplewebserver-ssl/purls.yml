@@ -9,3 +9,4 @@
 - pkg:maven/com.hibegin/simplewebserver-ssl@4.0.114?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver-ssl@4.0.115?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver-ssl@4.0.116?classifier=sources
+- pkg:maven/com.hibegin/simplewebserver-ssl@4.0.117?classifier=sources

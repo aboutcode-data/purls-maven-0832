@@ -54,3 +54,5 @@
 - pkg:maven/dev.soundness/zeppelin-core@0.44.0?classifier=sources
 - pkg:maven/dev.soundness/zeppelin-core@0.45.0
 - pkg:maven/dev.soundness/zeppelin-core@0.45.0?classifier=sources
+- pkg:maven/dev.soundness/zeppelin-core@0.46.0
+- pkg:maven/dev.soundness/zeppelin-core@0.46.0?classifier=sources

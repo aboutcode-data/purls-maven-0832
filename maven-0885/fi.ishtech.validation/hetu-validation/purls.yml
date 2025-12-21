@@ -1,2 +1,5 @@
 - pkg:maven/fi.ishtech.validation/hetu-validation@1.0.0
 - pkg:maven/fi.ishtech.validation/hetu-validation@1.0.0?classifier=sources
+- pkg:maven/fi.ishtech.validation/hetu-validation@2.0.0?classifier=sources
+- pkg:maven/fi.ishtech.validation/hetu-validation@3.0.0?classifier=sources
+- pkg:maven/fi.ishtech.validation/hetu-validation@4.0.0?classifier=sources

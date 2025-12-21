@@ -4,4 +4,5 @@
 - pkg:maven/io.github.factoryfx/testfactories@4.0.13?classifier=sources
 - pkg:maven/io.github.factoryfx/testfactories@4.0.14?classifier=sources
 - pkg:maven/io.github.factoryfx/testfactories@4.0.15?classifier=sources
+- pkg:maven/io.github.factoryfx/testfactories@4.0.16?classifier=sources
 - pkg:maven/io.github.factoryfx/testfactories@4.0.9?classifier=sources

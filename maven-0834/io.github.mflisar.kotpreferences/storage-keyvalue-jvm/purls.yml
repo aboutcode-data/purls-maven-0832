@@ -22,3 +22,5 @@
 - pkg:maven/io.github.mflisar.kotpreferences/storage-keyvalue-jvm@1.0.4?classifier=sources
 - pkg:maven/io.github.mflisar.kotpreferences/storage-keyvalue-jvm@2.0.0?classifier=sources
 - pkg:maven/io.github.mflisar.kotpreferences/storage-keyvalue-jvm@2.0.1?classifier=sources
+- pkg:maven/io.github.mflisar.kotpreferences/storage-keyvalue-jvm@3.0.0?classifier=sources
+- pkg:maven/io.github.mflisar.kotpreferences/storage-keyvalue-jvm@3.0.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.google.apis/google-api-services-securityposture@v1-rev20250624-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securityposture@v1-rev20250819-2.0.0
 - pkg:maven/com.google.apis/google-api-services-securityposture@v1-rev20250819-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securityposture@v1-rev20251028-2.0.0
+- pkg:maven/com.google.apis/google-api-services-securityposture@v1-rev20251028-2.0.0?classifier=sources

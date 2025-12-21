@@ -8,6 +8,7 @@
 - pkg:maven/fr.aneo/armonik-worker-api@3.28.0-grpcchannelbuilder.8.b56d199?classifier=sources
 - pkg:maven/fr.aneo/armonik-worker-api@3.28.0-logbackfix.2.2535ac6?classifier=sources
 - pkg:maven/fr.aneo/armonik-worker-api@3.28.0-logbackfix.2.72624b9?classifier=sources
+- pkg:maven/fr.aneo/armonik-worker-api@3.28.0?classifier=sources
 - pkg:maven/fr.aneo/armonik-worker-api@4.0.0-adresultretrieve.2.11f54e0?classifier=sources
 - pkg:maven/fr.aneo/armonik-worker-api@4.0.0-adresultretrieve.2.be83cc6?classifier=sources
 - pkg:maven/fr.aneo/armonik-worker-api@4.0.0-adresultretrieve.2.d7575ba?classifier=sources

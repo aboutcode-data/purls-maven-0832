@@ -64,3 +64,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-datastore-v1@2.32.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-datastore-v1@2.32.3
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-datastore-v1@2.32.3?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-datastore-v1@2.33.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-datastore-v1@2.33.0?classifier=sources

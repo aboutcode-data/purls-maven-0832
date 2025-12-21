@@ -1,5 +1,6 @@
 - pkg:maven/org.factcast/factcast-store-redis@0.9.10?classifier=sources
 - pkg:maven/org.factcast/factcast-store-redis@0.9.11?classifier=sources
+- pkg:maven/org.factcast/factcast-store-redis@0.9.12?classifier=sources
 - pkg:maven/org.factcast/factcast-store-redis@0.9.5
 - pkg:maven/org.factcast/factcast-store-redis@0.9.5?classifier=sources
 - pkg:maven/org.factcast/factcast-store-redis@0.9.6

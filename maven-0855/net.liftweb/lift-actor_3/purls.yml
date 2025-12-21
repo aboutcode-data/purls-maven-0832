@@ -1,0 +1,2 @@
+- pkg:maven/net.liftweb/lift-actor_3@4.0.0-M3
+- pkg:maven/net.liftweb/lift-actor_3@4.0.0-M3?classifier=sources

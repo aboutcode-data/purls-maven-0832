@@ -8,6 +8,7 @@
 - pkg:maven/org.eclipse.tractusx.edc/bpn-validation-api@0.11.0-RC3?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/bpn-validation-api@0.11.0-rc4?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/bpn-validation-api@0.11.0?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/bpn-validation-api@0.11.1?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/bpn-validation-api@0.5.1?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/bpn-validation-api@0.5.2?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/bpn-validation-api@0.5.3?classifier=sources

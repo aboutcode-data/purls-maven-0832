@@ -31,3 +31,4 @@
 - pkg:maven/dev.dsf/dsf-fhir-validation@1.8.0?classifier=sources
 - pkg:maven/dev.dsf/dsf-fhir-validation@1.9.0?classifier=sources
 - pkg:maven/dev.dsf/dsf-fhir-validation@2.0.0-M4?classifier=sources
+- pkg:maven/dev.dsf/dsf-fhir-validation@2.0.0-RC1?classifier=sources

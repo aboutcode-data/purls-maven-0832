@@ -77,3 +77,8 @@
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@8.0.2?classifier=sources
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@8.1.0?classifier=sources
 - pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@8.2.0?classifier=sources
+- pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@8.2.1?classifier=sources
+- pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@8.2.2?classifier=sources
+- pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@8.2.3?classifier=sources
+- pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@8.2.4?classifier=sources
+- pkg:maven/org.jobrunr/quarkus-jobrunr-deployment@8.3.0?classifier=sources

@@ -22,6 +22,7 @@
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.6.4?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.6.5?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.6.6?classifier=sources
+- pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.6.7?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.7.0?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.7.1?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.7.2?classifier=sources
@@ -32,3 +33,4 @@
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.8.0?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.8.1?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.8.2?classifier=sources
+- pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin-flow@2.8.3?classifier=sources

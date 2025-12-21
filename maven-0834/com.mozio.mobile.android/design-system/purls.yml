@@ -1,1 +1,2 @@
 - pkg:maven/com.mozio.mobile.android/design-system@0.12.2?classifier=sources
+- pkg:maven/com.mozio.mobile.android/design-system@0.13.0?classifier=sources

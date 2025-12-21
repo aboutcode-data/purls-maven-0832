@@ -215,3 +215,5 @@
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@5.2.0-RC5?classifier=sources
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@5.2.0?classifier=sources
 - pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@5.2.1?classifier=sources
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@5.2.2?classifier=sources
+- pkg:maven/org.zowe.client.java.sdk/zowe-client-java-sdk@5.2.3?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.jeecgframework.boot3/hibernate-re@3.8.2.2
 - pkg:maven/org.jeecgframework.boot3/hibernate-re@3.8.2.2?classifier=sources
 - pkg:maven/org.jeecgframework.boot3/hibernate-re@3.8.2?classifier=sources
+- pkg:maven/org.jeecgframework.boot3/hibernate-re@3.9.0
+- pkg:maven/org.jeecgframework.boot3/hibernate-re@3.9.0?classifier=sources

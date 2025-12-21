@@ -18,3 +18,4 @@
 - pkg:maven/org.webjars.npm/tabbable@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/tabbable@6.2.0
 - pkg:maven/org.webjars.npm/tabbable@6.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/tabbable@6.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.godotengine/godot-openxr-vendors-androidxr-debug@4.2.0-stable?classifier=sources
+- pkg:maven/org.godotengine/godot-openxr-vendors-androidxr-debug@4.2.1-stable?classifier=sources

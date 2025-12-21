@@ -4,3 +4,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-dashboard@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-dashboard@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-dashboard@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-dashboard@RELEASE280?classifier=sources

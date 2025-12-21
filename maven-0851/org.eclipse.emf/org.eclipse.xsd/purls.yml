@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.xsd@2.20.0?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.xsd@2.21.0
 - pkg:maven/org.eclipse.emf/org.eclipse.xsd@2.21.0?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.xsd@2.22.0
+- pkg:maven/org.eclipse.emf/org.eclipse.xsd@2.22.0?classifier=sources

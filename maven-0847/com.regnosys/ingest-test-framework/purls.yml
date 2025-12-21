@@ -293,3 +293,8 @@
 - pkg:maven/com.regnosys/ingest-test-framework@11.9.0
 - pkg:maven/com.regnosys/ingest-test-framework@11.9.0?classifier=sources
 - pkg:maven/com.regnosys/ingest-test-framework@11.90.2?classifier=sources
+- pkg:maven/com.regnosys/ingest-test-framework@11.90.3?classifier=sources
+- pkg:maven/com.regnosys/ingest-test-framework@11.90.5?classifier=sources
+- pkg:maven/com.regnosys/ingest-test-framework@11.91.0?classifier=sources
+- pkg:maven/com.regnosys/ingest-test-framework@11.91.2?classifier=sources
+- pkg:maven/com.regnosys/ingest-test-framework@11.91.3?classifier=sources

@@ -60,3 +60,7 @@
 - pkg:maven/org.scala-native/scalalib_native0.5_3@3.7.4-RC2%2B0.5.9?classifier=sources
 - pkg:maven/org.scala-native/scalalib_native0.5_3@3.7.4-RC3%2B0.5.9
 - pkg:maven/org.scala-native/scalalib_native0.5_3@3.7.4-RC3%2B0.5.9?classifier=sources
+- pkg:maven/org.scala-native/scalalib_native0.5_3@3.8.0-RC1%2B0.5.9
+- pkg:maven/org.scala-native/scalalib_native0.5_3@3.8.0-RC1%2B0.5.9?classifier=sources
+- pkg:maven/org.scala-native/scalalib_native0.5_3@3.8.0-RC2%2B0.5.9
+- pkg:maven/org.scala-native/scalalib_native0.5_3@3.8.0-RC2%2B0.5.9?classifier=sources

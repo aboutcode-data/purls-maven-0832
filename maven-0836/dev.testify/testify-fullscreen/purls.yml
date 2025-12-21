@@ -21,3 +21,5 @@
 - pkg:maven/dev.testify/testify-fullscreen@3.2.1?classifier=sources
 - pkg:maven/dev.testify/testify-fullscreen@3.2.2-alpha01?classifier=sources
 - pkg:maven/dev.testify/testify-fullscreen@3.2.2?classifier=sources
+- pkg:maven/dev.testify/testify-fullscreen@3.2.3?classifier=sources
+- pkg:maven/dev.testify/testify-fullscreen@4.0.0?classifier=sources

@@ -40,3 +40,4 @@
 - pkg:maven/site.addzero/gradle-tool@2025.10.07?classifier=sources
 - pkg:maven/site.addzero/gradle-tool@2025.10.19?classifier=sources
 - pkg:maven/site.addzero/gradle-tool@2025.10.20?classifier=sources
+- pkg:maven/site.addzero/gradle-tool@2025.11.29?classifier=sources

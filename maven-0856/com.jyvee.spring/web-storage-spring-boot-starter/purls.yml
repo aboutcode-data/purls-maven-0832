@@ -25,6 +25,7 @@
 - pkg:maven/com.jyvee.spring/web-storage-spring-boot-starter@1.0.24?classifier=sources
 - pkg:maven/com.jyvee.spring/web-storage-spring-boot-starter@1.0.25?classifier=sources
 - pkg:maven/com.jyvee.spring/web-storage-spring-boot-starter@1.0.26?classifier=sources
+- pkg:maven/com.jyvee.spring/web-storage-spring-boot-starter@1.0.27?classifier=sources
 - pkg:maven/com.jyvee.spring/web-storage-spring-boot-starter@1.0.2?classifier=sources
 - pkg:maven/com.jyvee.spring/web-storage-spring-boot-starter@1.0.3
 - pkg:maven/com.jyvee.spring/web-storage-spring-boot-starter@1.0.3?classifier=sources

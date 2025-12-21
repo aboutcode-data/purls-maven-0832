@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.react-native-community/cli-config-apple@20.0.2
+- pkg:maven/org.mvnpm.at.react-native-community/cli-config-apple@20.0.2?classifier=sources

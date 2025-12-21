@@ -4,3 +4,5 @@
 - pkg:maven/io.github.shadmanadman/KSensor-iossimulatorarm64@1.2.20?classifier=sources
 - pkg:maven/io.github.shadmanadman/KSensor-iossimulatorarm64@1.2.22?classifier=sources
 - pkg:maven/io.github.shadmanadman/KSensor-iossimulatorarm64@1.50.34?classifier=sources
+- pkg:maven/io.github.shadmanadman/KSensor-iossimulatorarm64@1.90.30?classifier=sources
+- pkg:maven/io.github.shadmanadman/KSensor-iossimulatorarm64@1.90.40?classifier=sources

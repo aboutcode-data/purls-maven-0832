@@ -1,0 +1,1 @@
+- pkg:maven/org.wildfly.clustering.spring/wildfly-clustering-spring-session-core@18.0.0.Final?classifier=sources

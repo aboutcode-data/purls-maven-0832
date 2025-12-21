@@ -1,2 +1,4 @@
 - pkg:maven/io.h8/stages-lib_2.13@0.0.2
 - pkg:maven/io.h8/stages-lib_2.13@0.0.2?classifier=sources
+- pkg:maven/io.h8/stages-lib_2.13@0.0.3
+- pkg:maven/io.h8/stages-lib_2.13@0.0.3?classifier=sources

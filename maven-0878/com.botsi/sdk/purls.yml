@@ -8,3 +8,5 @@
 - pkg:maven/com.botsi/sdk@0.0.7-beta?classifier=sources
 - pkg:maven/com.botsi/sdk@0.0.8-beta?classifier=sources
 - pkg:maven/com.botsi/sdk@0.0.9-beta?classifier=sources
+- pkg:maven/com.botsi/sdk@1.0.0?classifier=sources
+- pkg:maven/com.botsi/sdk@1.0.1?classifier=sources

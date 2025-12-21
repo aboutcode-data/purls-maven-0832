@@ -231,4 +231,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@8.2.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@8.2.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@8.2.1?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@8.2.2?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2@8.4.0?classifier=sources

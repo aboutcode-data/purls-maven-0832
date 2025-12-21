@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-mylyn-util@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-mylyn-util@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-mylyn-util@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-mylyn-util@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-mylyn-util@RELEASE90?classifier=sources

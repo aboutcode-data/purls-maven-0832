@@ -6,3 +6,5 @@
 - pkg:maven/org.mvnpm/path-scurry@1.11.1?classifier=sources
 - pkg:maven/org.mvnpm/path-scurry@2.0.0
 - pkg:maven/org.mvnpm/path-scurry@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm/path-scurry@2.0.1
+- pkg:maven/org.mvnpm/path-scurry@2.0.1?classifier=sources

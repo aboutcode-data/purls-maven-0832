@@ -18,3 +18,4 @@
 - pkg:maven/org.congocc/org.congocc.parser.generator@2.0.0-RC9
 - pkg:maven/org.congocc/org.congocc.parser.generator@2.0.0-RC9?classifier=sources
 - pkg:maven/org.congocc/org.congocc.parser.generator@2.0.0?classifier=sources
+- pkg:maven/org.congocc/org.congocc.parser.generator@2.1.0?classifier=sources

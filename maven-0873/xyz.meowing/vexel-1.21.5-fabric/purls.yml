@@ -28,3 +28,7 @@
 - pkg:maven/xyz.meowing/vexel-1.21.5-fabric@119?classifier=sources
 - pkg:maven/xyz.meowing/vexel-1.21.5-fabric@120?classifier=sources
 - pkg:maven/xyz.meowing/vexel-1.21.5-fabric@121?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.5-fabric@122?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.5-fabric@123?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.5-fabric@124?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.5-fabric@125?classifier=sources

@@ -1,0 +1,11 @@
+- pkg:maven/io.github.scarlet-pan/logger-js@1.0.0-rc01?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.0.0-rc02?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.0.0?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.0.1?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.1.0-alpha01?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.1.0-alpha02?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.1.0-beta?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.1.0-rc01?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.1.0-rc02?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.1.0?classifier=sources
+- pkg:maven/io.github.scarlet-pan/logger-js@1.2.0?classifier=sources

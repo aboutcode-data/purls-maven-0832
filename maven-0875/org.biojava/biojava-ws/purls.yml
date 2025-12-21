@@ -126,3 +126,4 @@
 - pkg:maven/org.biojava/biojava-ws@7.2.1?classifier=sources
 - pkg:maven/org.biojava/biojava-ws@7.2.2
 - pkg:maven/org.biojava/biojava-ws@7.2.2?classifier=sources
+- pkg:maven/org.biojava/biojava-ws@7.2.3?classifier=sources

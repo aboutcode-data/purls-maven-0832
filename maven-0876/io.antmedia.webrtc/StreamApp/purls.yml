@@ -25,6 +25,7 @@
 - pkg:maven/io.antmedia.webrtc/StreamApp@2.14.0?classifier=sources
 - pkg:maven/io.antmedia.webrtc/StreamApp@2.14.0?type=war
 - pkg:maven/io.antmedia.webrtc/StreamApp@2.15.0?classifier=sources
+- pkg:maven/io.antmedia.webrtc/StreamApp@2.16.0?classifier=sources
 - pkg:maven/io.antmedia.webrtc/StreamApp@2.2.0?classifier=sources
 - pkg:maven/io.antmedia.webrtc/StreamApp@2.2.0?type=war
 - pkg:maven/io.antmedia.webrtc/StreamApp@2.2.1?classifier=sources

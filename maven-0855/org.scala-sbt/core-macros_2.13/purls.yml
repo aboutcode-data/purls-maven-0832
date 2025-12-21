@@ -50,6 +50,8 @@
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.11.7?classifier=sources
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.12.0-M1
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.12.0-M1?classifier=sources
+- pkg:maven/org.scala-sbt/core-macros_2.13@1.12.0-M2
+- pkg:maven/org.scala-sbt/core-macros_2.13@1.12.0-M2?classifier=sources
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.4.0
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.4.0-RC2
 - pkg:maven/org.scala-sbt/core-macros_2.13@1.4.0-RC2?classifier=sources

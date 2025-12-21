@@ -236,3 +236,5 @@
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.9.3?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.9.4
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.9.4?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@1.0.0
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@1.0.0?classifier=sources

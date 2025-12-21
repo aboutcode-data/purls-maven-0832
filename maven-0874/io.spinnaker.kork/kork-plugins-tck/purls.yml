@@ -285,6 +285,8 @@
 - pkg:maven/io.spinnaker.kork/kork-plugins-tck@main-120?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-tck@main-121?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-tck@main-122?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-plugins-tck@main-123?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-plugins-tck@main-124?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-tck@main-12?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-tck@main-13?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-tck@main-14?classifier=sources

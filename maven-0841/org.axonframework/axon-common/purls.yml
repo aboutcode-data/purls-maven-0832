@@ -1,1 +1,2 @@
 - pkg:maven/org.axonframework/axon-common@5.0.0-RC3?classifier=sources
+- pkg:maven/org.axonframework/axon-common@5.0.0?classifier=sources

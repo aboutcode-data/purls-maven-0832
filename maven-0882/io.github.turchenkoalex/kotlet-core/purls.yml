@@ -57,5 +57,9 @@
 - pkg:maven/io.github.turchenkoalex/kotlet-core@0.71.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-core@0.72.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-core@0.73.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-core@0.74.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-core@0.75.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-core@0.76.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-core@0.77.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-core@0.9.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-core@1.0.0-dev?classifier=sources

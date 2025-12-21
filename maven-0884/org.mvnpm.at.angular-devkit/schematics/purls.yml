@@ -54,6 +54,8 @@
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.0
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.0?classifier=sources
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.1
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.10
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.10?classifier=sources
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.1?classifier=sources
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.2
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.2?classifier=sources
@@ -71,3 +73,7 @@
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.8?classifier=sources
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.9
 - pkg:maven/org.mvnpm.at.angular-devkit/schematics@20.3.9?classifier=sources
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@21.0.0
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@21.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@21.0.1
+- pkg:maven/org.mvnpm.at.angular-devkit/schematics@21.0.1?classifier=sources

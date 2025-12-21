@@ -1,0 +1,2 @@
+- pkg:maven/best.agently/agently-sdk_2.13@1.1.9
+- pkg:maven/best.agently/agently-sdk_2.13@1.1.9?classifier=sources

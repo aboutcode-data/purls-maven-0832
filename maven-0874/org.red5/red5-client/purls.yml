@@ -215,6 +215,7 @@
 - pkg:maven/org.red5/red5-client@2.0.2
 - pkg:maven/org.red5/red5-client@2.0.22?classifier=sources
 - pkg:maven/org.red5/red5-client@2.0.23?classifier=sources
+- pkg:maven/org.red5/red5-client@2.0.24?classifier=sources
 - pkg:maven/org.red5/red5-client@2.0.2?classifier=sources
 - pkg:maven/org.red5/red5-client@2.0.6
 - pkg:maven/org.red5/red5-client@2.0.6?classifier=sources

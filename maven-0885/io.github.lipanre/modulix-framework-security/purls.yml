@@ -1,3 +1,10 @@
 - pkg:maven/io.github.lipanre/modulix-framework-security@0.0.13?classifier=sources
 - pkg:maven/io.github.lipanre/modulix-framework-security@0.0.14?classifier=sources
 - pkg:maven/io.github.lipanre/modulix-framework-security@0.0.15?classifier=sources
+- pkg:maven/io.github.lipanre/modulix-framework-security@0.0.17?classifier=sources
+- pkg:maven/io.github.lipanre/modulix-framework-security@0.0.18?classifier=sources
+- pkg:maven/io.github.lipanre/modulix-framework-security@0.0.19?classifier=sources
+- pkg:maven/io.github.lipanre/modulix-framework-security@0.0.20?classifier=sources
+- pkg:maven/io.github.lipanre/modulix-framework-security@0.0.21?classifier=sources
+- pkg:maven/io.github.lipanre/modulix-framework-security@0.0.22?classifier=sources
+- pkg:maven/io.github.lipanre/modulix-framework-security@0.0.23?classifier=sources

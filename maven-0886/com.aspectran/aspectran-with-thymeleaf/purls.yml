@@ -31,3 +31,4 @@
 - pkg:maven/com.aspectran/aspectran-with-thymeleaf@9.2.0?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-thymeleaf@9.2.1?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-thymeleaf@9.2.2?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-thymeleaf@9.3.0?classifier=sources

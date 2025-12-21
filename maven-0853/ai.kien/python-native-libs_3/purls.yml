@@ -16,3 +16,5 @@
 - pkg:maven/ai.kien/python-native-libs_3@0.2.3?classifier=sources
 - pkg:maven/ai.kien/python-native-libs_3@0.2.4
 - pkg:maven/ai.kien/python-native-libs_3@0.2.4?classifier=sources
+- pkg:maven/ai.kien/python-native-libs_3@0.2.5
+- pkg:maven/ai.kien/python-native-libs_3@0.2.5?classifier=sources

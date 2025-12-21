@@ -162,6 +162,8 @@
 - pkg:maven/io.spinnaker.front50/front50-oracle@main-120?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-oracle@main-121?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-oracle@main-122?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-oracle@main-123?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-oracle@main-124?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-oracle@main-12?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-oracle@main-13?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-oracle@main-14?classifier=sources

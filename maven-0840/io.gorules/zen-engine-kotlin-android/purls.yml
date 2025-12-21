@@ -1,0 +1,7 @@
+- pkg:maven/io.gorules/zen-engine-kotlin-android@0.4.1?classifier=sources
+- pkg:maven/io.gorules/zen-engine-kotlin-android@0.4.2?classifier=sources
+- pkg:maven/io.gorules/zen-engine-kotlin-android@0.4.3?classifier=sources
+- pkg:maven/io.gorules/zen-engine-kotlin-android@0.4.4?classifier=sources
+- pkg:maven/io.gorules/zen-engine-kotlin-android@0.4.5?classifier=sources
+- pkg:maven/io.gorules/zen-engine-kotlin-android@0.4.6?classifier=sources
+- pkg:maven/io.gorules/zen-engine-kotlin-android@0.4.7?classifier=sources

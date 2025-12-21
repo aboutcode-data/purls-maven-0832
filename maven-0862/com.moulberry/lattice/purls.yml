@@ -6,6 +6,7 @@
 - pkg:maven/com.moulberry/lattice@1.2.11?classifier=sources
 - pkg:maven/com.moulberry/lattice@1.2.13?classifier=sources
 - pkg:maven/com.moulberry/lattice@1.2.14?classifier=sources
+- pkg:maven/com.moulberry/lattice@1.2.18?classifier=sources
 - pkg:maven/com.moulberry/lattice@1.2.1?classifier=sources
 - pkg:maven/com.moulberry/lattice@1.2.2?classifier=sources
 - pkg:maven/com.moulberry/lattice@1.2.3?classifier=sources

@@ -1,1 +1,14 @@
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.100?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.101?classifier=sources
 - pkg:maven/com.pulumi/provider-boilerplate@0.0.4?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.86?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.87?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.89?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.90?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.91?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.92?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.93?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.94?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.95?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.98?classifier=sources
+- pkg:maven/com.pulumi/provider-boilerplate@0.0.99?classifier=sources

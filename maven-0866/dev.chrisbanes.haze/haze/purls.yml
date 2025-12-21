@@ -68,3 +68,4 @@
 - pkg:maven/dev.chrisbanes.haze/haze@1.6.7?classifier=sources
 - pkg:maven/dev.chrisbanes.haze/haze@1.6.8?classifier=sources
 - pkg:maven/dev.chrisbanes.haze/haze@1.6.9?classifier=sources
+- pkg:maven/dev.chrisbanes.haze/haze@1.7.0?classifier=sources

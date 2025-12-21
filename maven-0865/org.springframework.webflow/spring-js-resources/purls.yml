@@ -23,3 +23,4 @@
 - pkg:maven/org.springframework.webflow/spring-js-resources@2.5.1.RELEASE
 - pkg:maven/org.springframework.webflow/spring-js-resources@3.0.0
 - pkg:maven/org.springframework.webflow/spring-js-resources@3.0.1
+- pkg:maven/org.springframework.webflow/spring-js-resources@4.0.0-RC1

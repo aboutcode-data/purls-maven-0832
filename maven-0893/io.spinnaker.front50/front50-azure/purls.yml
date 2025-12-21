@@ -162,6 +162,8 @@
 - pkg:maven/io.spinnaker.front50/front50-azure@main-120?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-azure@main-121?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-azure@main-122?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-azure@main-123?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-azure@main-124?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-azure@main-12?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-azure@main-13?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-azure@main-14?classifier=sources

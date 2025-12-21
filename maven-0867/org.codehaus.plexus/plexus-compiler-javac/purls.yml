@@ -54,6 +54,7 @@
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac@2.15.0
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac@2.15.0?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac@2.16.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-compiler-javac@2.16.1?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac@2.1?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac@2.2
 - pkg:maven/org.codehaus.plexus/plexus-compiler-javac@2.2?classifier=sources

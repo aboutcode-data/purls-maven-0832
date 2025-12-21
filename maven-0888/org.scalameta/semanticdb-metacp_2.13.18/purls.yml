@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/semanticdb-metacp_2.13.18@4.14.2
+- pkg:maven/org.scalameta/semanticdb-metacp_2.13.18@4.14.2?classifier=sources

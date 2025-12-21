@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.maven/synapse-static-code-analysis-plugin@5.4.12
+- pkg:maven/org.wso2.maven/synapse-static-code-analysis-plugin@5.4.12?classifier=sources

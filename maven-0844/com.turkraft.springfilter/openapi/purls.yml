@@ -1,0 +1,2 @@
+- pkg:maven/com.turkraft.springfilter/openapi@3.2.3?classifier=sources
+- pkg:maven/com.turkraft.springfilter/openapi@3.2.4?classifier=sources

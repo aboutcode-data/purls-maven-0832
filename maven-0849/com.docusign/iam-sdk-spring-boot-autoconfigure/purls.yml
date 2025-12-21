@@ -1,1 +1,2 @@
 - pkg:maven/com.docusign/iam-sdk-spring-boot-autoconfigure@1.0.0-beta.6?classifier=sources
+- pkg:maven/com.docusign/iam-sdk-spring-boot-autoconfigure@1.0.0-beta.7?classifier=sources

@@ -120,6 +120,7 @@
 - pkg:maven/me.proton.core/metrics-data@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/metrics-data@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/metrics-data@35.2.0?classifier=sources
+- pkg:maven/me.proton.core/metrics-data@36.0.0?classifier=sources
 - pkg:maven/me.proton.core/metrics-data@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/metrics-data@7.1.11?classifier=sources
 - pkg:maven/me.proton.core/metrics-data@7.1.1?classifier=sources

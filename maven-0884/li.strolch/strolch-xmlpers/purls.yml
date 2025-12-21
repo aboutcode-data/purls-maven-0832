@@ -10,3 +10,4 @@
 - pkg:maven/li.strolch/strolch-xmlpers@2.6.0?classifier=sources
 - pkg:maven/li.strolch/strolch-xmlpers@2.6.1?classifier=sources
 - pkg:maven/li.strolch/strolch-xmlpers@2.6.2?classifier=sources
+- pkg:maven/li.strolch/strolch-xmlpers@2.6.4?classifier=sources

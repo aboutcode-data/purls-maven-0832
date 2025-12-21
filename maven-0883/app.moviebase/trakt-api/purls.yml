@@ -12,3 +12,4 @@
 - pkg:maven/app.moviebase/trakt-api@0.7.0?classifier=sources
 - pkg:maven/app.moviebase/trakt-api@0.7.1?classifier=sources
 - pkg:maven/app.moviebase/trakt-api@1.0.0?classifier=sources
+- pkg:maven/app.moviebase/trakt-api@1.1.0?classifier=sources

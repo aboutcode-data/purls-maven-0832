@@ -40,3 +40,5 @@
 - pkg:maven/software.amazon.lambda/powertools-serialization@2.4.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-serialization@2.5.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-serialization@2.6.0?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-serialization@2.7.0?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-serialization@2.8.0?classifier=sources

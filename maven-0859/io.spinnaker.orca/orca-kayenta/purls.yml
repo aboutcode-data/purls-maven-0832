@@ -196,6 +196,8 @@
 - pkg:maven/io.spinnaker.orca/orca-kayenta@main-120?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-kayenta@main-121?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-kayenta@main-122?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-kayenta@main-123?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-kayenta@main-124?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-kayenta@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-kayenta@main-13?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-kayenta@main-14?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qhsword.agileway.oauth2/agileway-oauth2-client-spingboot-starter@5.3.3?classifier=sources
+- pkg:maven/io.github.qhsword.agileway.oauth2/agileway-oauth2-client-spingboot-starter@5.3.4?classifier=sources

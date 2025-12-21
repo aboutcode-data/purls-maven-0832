@@ -40,3 +40,4 @@
 - pkg:maven/ru.vyarus/guice-persist-orient@3.3.2?classifier=sources
 - pkg:maven/ru.vyarus/guice-persist-orient@4.0.0?classifier=sources
 - pkg:maven/ru.vyarus/guice-persist-orient@4.1.0?classifier=sources
+- pkg:maven/ru.vyarus/guice-persist-orient@5.0.0?classifier=sources

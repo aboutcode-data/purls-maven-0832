@@ -43,6 +43,7 @@
 - pkg:maven/io.github.listenzz/AndroidNavigation@12.5.9?classifier=sources
 - pkg:maven/io.github.listenzz/AndroidNavigation@13.0.0?classifier=sources
 - pkg:maven/io.github.listenzz/AndroidNavigation@13.1.0?classifier=sources
+- pkg:maven/io.github.listenzz/AndroidNavigation@13.10.0?classifier=sources
 - pkg:maven/io.github.listenzz/AndroidNavigation@13.2.0?classifier=sources
 - pkg:maven/io.github.listenzz/AndroidNavigation@13.3.0?classifier=sources
 - pkg:maven/io.github.listenzz/AndroidNavigation@13.4.0?classifier=sources

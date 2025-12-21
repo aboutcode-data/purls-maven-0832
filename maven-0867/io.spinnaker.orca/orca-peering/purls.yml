@@ -196,6 +196,8 @@
 - pkg:maven/io.spinnaker.orca/orca-peering@main-120?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-peering@main-121?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-peering@main-122?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-peering@main-123?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-peering@main-124?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-peering@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-peering@main-13?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-peering@main-14?classifier=sources

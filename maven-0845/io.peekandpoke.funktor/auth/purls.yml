@@ -4,3 +4,5 @@
 - pkg:maven/io.peekandpoke.funktor/auth@0.96.2?classifier=sources
 - pkg:maven/io.peekandpoke.funktor/auth@0.97.0?classifier=sources
 - pkg:maven/io.peekandpoke.funktor/auth@0.98.0?classifier=sources
+- pkg:maven/io.peekandpoke.funktor/auth@0.98.2?classifier=sources
+- pkg:maven/io.peekandpoke.funktor/auth@0.99.0?classifier=sources

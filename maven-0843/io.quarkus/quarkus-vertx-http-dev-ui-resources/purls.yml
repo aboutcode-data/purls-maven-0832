@@ -192,6 +192,7 @@
 - pkg:maven/io.quarkus/quarkus-vertx-http-dev-ui-resources@3.20.2.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-vertx-http-dev-ui-resources@3.20.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-vertx-http-dev-ui-resources@3.20.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-vertx-http-dev-ui-resources@3.20.4?classifier=sources
 - pkg:maven/io.quarkus/quarkus-vertx-http-dev-ui-resources@3.21.0
 - pkg:maven/io.quarkus/quarkus-vertx-http-dev-ui-resources@3.21.0.CR1
 - pkg:maven/io.quarkus/quarkus-vertx-http-dev-ui-resources@3.21.0.CR1?classifier=sources

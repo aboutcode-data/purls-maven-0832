@@ -6,3 +6,7 @@
 - pkg:maven/com.xmlcalabash/app@3.0.20?classifier=sources
 - pkg:maven/com.xmlcalabash/app@3.0.21?classifier=sources
 - pkg:maven/com.xmlcalabash/app@3.0.22?classifier=sources
+- pkg:maven/com.xmlcalabash/app@3.0.23?classifier=sources
+- pkg:maven/com.xmlcalabash/app@3.0.24?classifier=sources
+- pkg:maven/com.xmlcalabash/app@3.0.25?classifier=sources
+- pkg:maven/com.xmlcalabash/app@3.0.26?classifier=sources

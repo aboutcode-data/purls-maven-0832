@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.mcp/quarkus-mcp-server-http-deployment@1.8.0?classifier=sources

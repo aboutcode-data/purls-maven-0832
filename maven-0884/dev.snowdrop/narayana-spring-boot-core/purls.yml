@@ -33,3 +33,4 @@
 - pkg:maven/dev.snowdrop/narayana-spring-boot-core@3.4.2?classifier=sources
 - pkg:maven/dev.snowdrop/narayana-spring-boot-core@3.4.3?classifier=sources
 - pkg:maven/dev.snowdrop/narayana-spring-boot-core@3.5.0?classifier=sources
+- pkg:maven/dev.snowdrop/narayana-spring-boot-core@4.0.0.Beta1?classifier=sources

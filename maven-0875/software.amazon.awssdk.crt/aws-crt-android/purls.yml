@@ -6,3 +6,5 @@
 - pkg:maven/software.amazon.awssdk.crt/aws-crt-android@0.39.2?classifier=sources
 - pkg:maven/software.amazon.awssdk.crt/aws-crt-android@0.39.3?classifier=sources
 - pkg:maven/software.amazon.awssdk.crt/aws-crt-android@0.39.4?classifier=sources
+- pkg:maven/software.amazon.awssdk.crt/aws-crt-android@0.40.0?classifier=sources
+- pkg:maven/software.amazon.awssdk.crt/aws-crt-android@0.40.1?classifier=sources

@@ -160,6 +160,8 @@
 - pkg:maven/io.spinnaker.gate/gate-web@main-120?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-web@main-121?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-web@main-122?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-web@main-123?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-web@main-124?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-web@main-12?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-web@main-13?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-web@main-14?classifier=sources

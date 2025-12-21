@@ -106,3 +106,4 @@
 - pkg:maven/me.proton.core/util-android-sentry@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-sentry@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-sentry@35.2.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-sentry@36.0.0?classifier=sources

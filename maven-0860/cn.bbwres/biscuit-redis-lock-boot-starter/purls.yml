@@ -2,3 +2,4 @@
 - pkg:maven/cn.bbwres/biscuit-redis-lock-boot-starter@0.0.6?classifier=sources
 - pkg:maven/cn.bbwres/biscuit-redis-lock-boot-starter@0.0.7?classifier=sources
 - pkg:maven/cn.bbwres/biscuit-redis-lock-boot-starter@3.0.0?classifier=sources
+- pkg:maven/cn.bbwres/biscuit-redis-lock-boot-starter@3.0.1?classifier=sources

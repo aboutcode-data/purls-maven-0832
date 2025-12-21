@@ -415,6 +415,7 @@
 - pkg:maven/org.infinispan/infinispan-server-router@16.0.0.Dev08?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@16.0.0?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@16.0.1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-router@16.0.2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@9.0.0.Beta2
 - pkg:maven/org.infinispan/infinispan-server-router@9.0.0.Beta2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-router@9.0.0.CR1

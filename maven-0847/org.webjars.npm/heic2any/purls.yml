@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/heic2any@0.0.3
 - pkg:maven/org.webjars.npm/heic2any@0.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/heic2any@0.0.4

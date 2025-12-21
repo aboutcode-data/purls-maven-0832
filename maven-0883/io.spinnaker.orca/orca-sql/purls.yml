@@ -196,6 +196,8 @@
 - pkg:maven/io.spinnaker.orca/orca-sql@main-120?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql@main-121?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql@main-122?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-sql@main-123?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-sql@main-124?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql@main-13?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql@main-14?classifier=sources

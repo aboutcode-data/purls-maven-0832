@@ -54,6 +54,7 @@
 - pkg:maven/org.opendaylight.openflowplugin.openflowjava/openflowjava-util@0.20.0
 - pkg:maven/org.opendaylight.openflowplugin.openflowjava/openflowjava-util@0.20.1
 - pkg:maven/org.opendaylight.openflowplugin.openflowjava/openflowjava-util@0.21.0
+- pkg:maven/org.opendaylight.openflowplugin.openflowjava/openflowjava-util@0.21.1
 - pkg:maven/org.opendaylight.openflowplugin.openflowjava/openflowjava-util@0.5.0
 - pkg:maven/org.opendaylight.openflowplugin.openflowjava/openflowjava-util@0.5.0?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.openflowjava/openflowjava-util@0.5.1

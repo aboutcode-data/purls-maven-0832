@@ -1,0 +1,4 @@
+- pkg:maven/com.palantir.baseline/baseline-module-jvm-args-compiler-plugins@6.68.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-module-jvm-args-compiler-plugins@6.69.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-module-jvm-args-compiler-plugins@6.70.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-module-jvm-args-compiler-plugins@6.71.0?classifier=sources

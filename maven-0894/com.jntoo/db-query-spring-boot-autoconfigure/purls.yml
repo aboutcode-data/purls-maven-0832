@@ -7,3 +7,4 @@
 - pkg:maven/com.jntoo/db-query-spring-boot-autoconfigure@1.2.19
 - pkg:maven/com.jntoo/db-query-spring-boot-autoconfigure@1.2.19?classifier=sources
 - pkg:maven/com.jntoo/db-query-spring-boot-autoconfigure@1.2.20?classifier=sources
+- pkg:maven/com.jntoo/db-query-spring-boot-autoconfigure@1.2.21?classifier=sources

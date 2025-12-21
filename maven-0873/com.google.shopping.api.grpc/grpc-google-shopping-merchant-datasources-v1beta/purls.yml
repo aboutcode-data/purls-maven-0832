@@ -60,3 +60,7 @@
 - pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-datasources-v1beta@1.5.0?classifier=sources
 - pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-datasources-v1beta@1.6.0
 - pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-datasources-v1beta@1.6.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-datasources-v1beta@1.7.0
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-datasources-v1beta@1.7.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-datasources-v1beta@1.8.0
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-datasources-v1beta@1.8.0?classifier=sources

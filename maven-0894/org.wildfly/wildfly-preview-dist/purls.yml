@@ -189,3 +189,6 @@
 - pkg:maven/org.wildfly/wildfly-preview-dist@38.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-preview-dist@38.0.0.Final?classifier=src&type=tar.gz
 - pkg:maven/org.wildfly/wildfly-preview-dist@38.0.0.Final?classifier=src&type=zip
+- pkg:maven/org.wildfly/wildfly-preview-dist@38.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-preview-dist@38.0.1.Final?classifier=src&type=tar.gz
+- pkg:maven/org.wildfly/wildfly-preview-dist@38.0.1.Final?classifier=src&type=zip

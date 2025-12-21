@@ -7,3 +7,4 @@
 - pkg:maven/org.jboss.narayana.lra/lra-proxy-api@1.0.1.Final
 - pkg:maven/org.jboss.narayana.lra/lra-proxy-api@1.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.lra/lra-proxy-api@1.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.lra/lra-proxy-api@1.0.3.Final?classifier=sources

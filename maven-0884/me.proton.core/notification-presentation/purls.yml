@@ -108,3 +108,4 @@
 - pkg:maven/me.proton.core/notification-presentation@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/notification-presentation@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/notification-presentation@35.2.0?classifier=sources
+- pkg:maven/me.proton.core/notification-presentation@36.0.0?classifier=sources

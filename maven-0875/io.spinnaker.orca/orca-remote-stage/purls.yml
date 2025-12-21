@@ -196,6 +196,8 @@
 - pkg:maven/io.spinnaker.orca/orca-remote-stage@main-120?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-remote-stage@main-121?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-remote-stage@main-122?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-remote-stage@main-123?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-remote-stage@main-124?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-remote-stage@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-remote-stage@main-13?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-remote-stage@main-14?classifier=sources

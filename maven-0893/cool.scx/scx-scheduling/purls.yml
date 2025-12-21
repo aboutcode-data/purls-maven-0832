@@ -77,3 +77,5 @@
 - pkg:maven/cool.scx/scx-scheduling@3.8.7?classifier=sources
 - pkg:maven/cool.scx/scx-scheduling@3.8.8?classifier=sources
 - pkg:maven/cool.scx/scx-scheduling@3.8.9?classifier=sources
+- pkg:maven/cool.scx/scx-scheduling@3.9.0?classifier=sources
+- pkg:maven/cool.scx/scx-scheduling@4.0.0?classifier=sources

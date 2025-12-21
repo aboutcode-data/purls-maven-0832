@@ -196,6 +196,8 @@
 - pkg:maven/io.spinnaker.orca/orca-flex@main-120?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-flex@main-121?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-flex@main-122?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-flex@main-123?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-flex@main-124?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-flex@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-flex@main-13?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-flex@main-14?classifier=sources

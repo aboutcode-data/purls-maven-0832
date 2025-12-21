@@ -13,3 +13,10 @@
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.2.0?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@5.0.0?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@5.1.0?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@5.2.0?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@6.0.0-beta-2?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@6.0.0-beta-3?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@6.0.0-beta-4?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@6.0.0-beta-5?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@6.0.0-beta.6?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@6.0.0-beta?classifier=sources

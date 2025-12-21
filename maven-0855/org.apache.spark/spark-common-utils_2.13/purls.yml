@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.spark/spark-common-utils_2.13@4.1.0-preview2?classifier=sources
 - pkg:maven/org.apache.spark/spark-common-utils_2.13@4.1.0-preview3
 - pkg:maven/org.apache.spark/spark-common-utils_2.13@4.1.0-preview3?classifier=sources
+- pkg:maven/org.apache.spark/spark-common-utils_2.13@4.1.0-preview4
+- pkg:maven/org.apache.spark/spark-common-utils_2.13@4.1.0-preview4?classifier=sources

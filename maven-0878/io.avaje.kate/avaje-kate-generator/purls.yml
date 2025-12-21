@@ -1,1 +1,2 @@
 - pkg:maven/io.avaje.kate/avaje-kate-generator@0.10?classifier=sources
+- pkg:maven/io.avaje.kate/avaje-kate-generator@0.11?classifier=sources

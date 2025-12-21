@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rzo1.org.apache.cxf/apache-cxf@4.2.0-tomee-m0-071068f?classifier=src&type=tar.gz
+- pkg:maven/io.github.rzo1.org.apache.cxf/apache-cxf@4.2.0-tomee-m0-071068f?classifier=src&type=zip

@@ -27,3 +27,4 @@
 - pkg:maven/fr.alexpado/jda-interactions-extension@1.0.0-rc.2?classifier=sources
 - pkg:maven/fr.alexpado/jda-interactions-extension@1.0.1?classifier=sources
 - pkg:maven/fr.alexpado/jda-interactions-extension@1.1.0?classifier=sources
+- pkg:maven/fr.alexpado/jda-interactions-extension@1.2.0?classifier=sources

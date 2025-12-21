@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-hcl@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-hcl@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-hcl@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-hcl@RELEASE280?classifier=sources

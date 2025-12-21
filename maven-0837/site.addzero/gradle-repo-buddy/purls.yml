@@ -1,0 +1,2 @@
+- pkg:maven/site.addzero/gradle-repo-buddy@2025.11.29?classifier=sources
+- pkg:maven/site.addzero/gradle-repo-buddy@2025.11.30?classifier=sources

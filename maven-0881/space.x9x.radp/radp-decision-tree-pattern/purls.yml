@@ -21,6 +21,10 @@
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@2.23?classifier=sources
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@2.24?classifier=sources
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@2.25?classifier=sources
+- pkg:maven/space.x9x.radp/radp-decision-tree-pattern@2.26.1?classifier=sources
+- pkg:maven/space.x9x.radp/radp-decision-tree-pattern@2.26.2?classifier=sources
+- pkg:maven/space.x9x.radp/radp-decision-tree-pattern@2.26.3?classifier=sources
+- pkg:maven/space.x9x.radp/radp-decision-tree-pattern@2.26?classifier=sources
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@3.12?classifier=sources
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@3.13?classifier=sources
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@3.14?classifier=sources
@@ -41,4 +45,6 @@
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@3.23?classifier=sources
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@3.24?classifier=sources
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@3.25?classifier=sources
+- pkg:maven/space.x9x.radp/radp-decision-tree-pattern@3.26.2?classifier=sources
+- pkg:maven/space.x9x.radp/radp-decision-tree-pattern@3.26?classifier=sources
 - pkg:maven/space.x9x.radp/radp-decision-tree-pattern@v2.22?classifier=sources

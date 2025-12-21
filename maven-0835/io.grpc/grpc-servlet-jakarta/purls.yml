@@ -42,3 +42,5 @@
 - pkg:maven/io.grpc/grpc-servlet-jakarta@1.74.0?classifier=sources
 - pkg:maven/io.grpc/grpc-servlet-jakarta@1.75.0?classifier=sources
 - pkg:maven/io.grpc/grpc-servlet-jakarta@1.76.0?classifier=sources
+- pkg:maven/io.grpc/grpc-servlet-jakarta@1.76.1?classifier=sources
+- pkg:maven/io.grpc/grpc-servlet-jakarta@1.77.0?classifier=sources

@@ -1,4 +1,7 @@
 - pkg:maven/io.github.santimattius/kvs-iosarm64@1.0.0-ALPHA03?classifier=sources
 - pkg:maven/io.github.santimattius/kvs-iosarm64@1.0.0-ALPHA09?classifier=sources
 - pkg:maven/io.github.santimattius/kvs-iosarm64@1.0.0?classifier=sources
+- pkg:maven/io.github.santimattius/kvs-iosarm64@1.1.0-ALPHA01?classifier=sources
 - pkg:maven/io.github.santimattius/kvs-iosarm64@1.1.0?classifier=sources
+- pkg:maven/io.github.santimattius/kvs-iosarm64@1.2.0-ALPHA01?classifier=sources
+- pkg:maven/io.github.santimattius/kvs-iosarm64@1.2.0?classifier=sources

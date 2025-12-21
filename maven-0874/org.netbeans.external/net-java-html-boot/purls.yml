@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.external/net-java-html-boot@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.external/net-java-html-boot@RELEASE280?classifier=sources

@@ -191,6 +191,8 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-saga-test@main-120?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-saga-test@main-121?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-saga-test@main-122?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-saga-test@main-123?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-saga-test@main-124?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-saga-test@main-12?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-saga-test@main-13?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-saga-test@main-14?classifier=sources
