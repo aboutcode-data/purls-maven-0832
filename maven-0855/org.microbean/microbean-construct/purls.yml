@@ -2,6 +2,8 @@
 - pkg:maven/org.microbean/microbean-construct@0.0.10?classifier=sources
 - pkg:maven/org.microbean/microbean-construct@0.0.11
 - pkg:maven/org.microbean/microbean-construct@0.0.11?classifier=sources
+- pkg:maven/org.microbean/microbean-construct@0.0.14?classifier=sources
+- pkg:maven/org.microbean/microbean-construct@0.0.15?classifier=sources
 - pkg:maven/org.microbean/microbean-construct@0.0.3
 - pkg:maven/org.microbean/microbean-construct@0.0.3?classifier=sources
 - pkg:maven/org.microbean/microbean-construct@0.0.4

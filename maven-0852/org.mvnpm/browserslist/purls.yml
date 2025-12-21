@@ -18,3 +18,5 @@
 - pkg:maven/org.mvnpm/browserslist@4.24.5?classifier=sources
 - pkg:maven/org.mvnpm/browserslist@4.25.0
 - pkg:maven/org.mvnpm/browserslist@4.25.0?classifier=sources
+- pkg:maven/org.mvnpm/browserslist@4.25.1
+- pkg:maven/org.mvnpm/browserslist@4.25.1?classifier=sources

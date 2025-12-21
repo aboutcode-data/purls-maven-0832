@@ -32,3 +32,4 @@
 - pkg:maven/io.micronaut.email/micronaut-email-javamail@2.6.0?classifier=sources
 - pkg:maven/io.micronaut.email/micronaut-email-javamail@2.7.0?classifier=sources
 - pkg:maven/io.micronaut.email/micronaut-email-javamail@2.8.0?classifier=sources
+- pkg:maven/io.micronaut.email/micronaut-email-javamail@2.9.0?classifier=sources

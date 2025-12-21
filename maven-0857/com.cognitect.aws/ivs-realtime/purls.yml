@@ -18,3 +18,4 @@
 - pkg:maven/com.cognitect.aws/ivs-realtime@871.2.29.35?classifier=sources
 - pkg:maven/com.cognitect.aws/ivs-realtime@871.2.31.23
 - pkg:maven/com.cognitect.aws/ivs-realtime@871.2.31.23?classifier=sources
+- pkg:maven/com.cognitect.aws/ivs-realtime@871.2.31.64?classifier=sources

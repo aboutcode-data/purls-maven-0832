@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/i18next-chained-backend@4.6.2
+- pkg:maven/org.mvnpm/i18next-chained-backend@4.6.2?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.devsisters/shardcake-entities_2.12@2.5.1?classifier=sources
 - pkg:maven/com.devsisters/shardcake-entities_2.12@2.5.2
 - pkg:maven/com.devsisters/shardcake-entities_2.12@2.5.2?classifier=sources
+- pkg:maven/com.devsisters/shardcake-entities_2.12@2.6.0
+- pkg:maven/com.devsisters/shardcake-entities_2.12@2.6.0?classifier=sources

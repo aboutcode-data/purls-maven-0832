@@ -42,3 +42,4 @@
 - pkg:maven/org.faktorips/org.faktorips.eclipse.emf.codegen@25.7.0.rc01?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.eclipse.emf.codegen@25.7.0.rc02?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.eclipse.emf.codegen@25.7.0.rc03?classifier=sources
+- pkg:maven/org.faktorips/org.faktorips.eclipse.emf.codegen@25.7.0.release?classifier=sources

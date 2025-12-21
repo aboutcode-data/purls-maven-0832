@@ -5,6 +5,7 @@
 - pkg:maven/com.heroku/heroku-jvm-application-deployer@4.0.0-RC2?classifier=sources
 - pkg:maven/com.heroku/heroku-jvm-application-deployer@4.0.0?classifier=sources
 - pkg:maven/com.heroku/heroku-jvm-application-deployer@4.0.1
+- pkg:maven/com.heroku/heroku-jvm-application-deployer@4.0.10?classifier=sources
 - pkg:maven/com.heroku/heroku-jvm-application-deployer@4.0.1?classifier=sources
 - pkg:maven/com.heroku/heroku-jvm-application-deployer@4.0.2
 - pkg:maven/com.heroku/heroku-jvm-application-deployer@4.0.2?classifier=sources

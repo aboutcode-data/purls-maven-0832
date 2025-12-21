@@ -47,3 +47,4 @@
 - pkg:maven/com.password4j/password4j@1.8.2
 - pkg:maven/com.password4j/password4j@1.8.2?classifier=sources
 - pkg:maven/com.password4j/password4j@1.8.3?classifier=sources
+- pkg:maven/com.password4j/password4j@1.8.4?classifier=sources

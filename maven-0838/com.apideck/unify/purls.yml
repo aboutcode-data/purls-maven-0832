@@ -14,6 +14,9 @@
 - pkg:maven/com.apideck/unify@0.14.0?classifier=sources
 - pkg:maven/com.apideck/unify@0.14.1?classifier=sources
 - pkg:maven/com.apideck/unify@0.14.2?classifier=sources
+- pkg:maven/com.apideck/unify@0.15.0?classifier=sources
+- pkg:maven/com.apideck/unify@0.16.0?classifier=sources
+- pkg:maven/com.apideck/unify@0.17.0?classifier=sources
 - pkg:maven/com.apideck/unify@0.2.0?classifier=sources
 - pkg:maven/com.apideck/unify@0.2.1?classifier=sources
 - pkg:maven/com.apideck/unify@0.3.0?classifier=sources

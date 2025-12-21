@@ -14,3 +14,5 @@
 - pkg:maven/com.github.burrunan.s3cache/s3-build-cache@1.8.5?classifier=sources
 - pkg:maven/com.github.burrunan.s3cache/s3-build-cache@1.8?classifier=sources
 - pkg:maven/com.github.burrunan.s3cache/s3-build-cache@1.9.0?classifier=sources
+- pkg:maven/com.github.burrunan.s3cache/s3-build-cache@1.9.1?classifier=sources
+- pkg:maven/com.github.burrunan.s3cache/s3-build-cache@1.9.2?classifier=sources

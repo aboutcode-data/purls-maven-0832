@@ -1,4 +1,5 @@
 - pkg:maven/dev.icerock.moko/graphics-android-debug@0.10.0?classifier=sources
+- pkg:maven/dev.icerock.moko/graphics-android-debug@0.10.1?classifier=sources
 - pkg:maven/dev.icerock.moko/graphics-android-debug@0.6.1?classifier=sources
 - pkg:maven/dev.icerock.moko/graphics-android-debug@0.7.0?classifier=sources
 - pkg:maven/dev.icerock.moko/graphics-android-debug@0.8.0?classifier=sources

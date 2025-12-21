@@ -64,6 +64,12 @@
 - pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.5.0?classifier=sources
 - pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.50.0
 - pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.50.0?classifier=sources
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.51.0
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.51.0?classifier=sources
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.52.0?classifier=sources
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.53.0?classifier=sources
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.54.0?classifier=sources
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.55.0?classifier=sources
 - pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.7.0
 - pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.7.0?classifier=sources
 - pkg:maven/com.codbex.iapetus/codbex-iapetus-application@2.8.0

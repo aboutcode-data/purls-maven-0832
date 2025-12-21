@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.antora/quarkus-antora-quarkiverse-deployment@2.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.antora/quarkus-antora-quarkiverse-deployment@2.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.mcarr.d253/library-android@1.0.0?classifier=sources
+- pkg:maven/dev.mcarr.d253/library-android@1.0.1?classifier=sources

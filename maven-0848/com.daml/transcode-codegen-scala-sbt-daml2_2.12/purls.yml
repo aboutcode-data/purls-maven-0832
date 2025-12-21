@@ -1,0 +1,8 @@
+- pkg:maven/com.daml/transcode-codegen-scala-sbt-daml2_2.12@0.0.1-adhoc.20250709.119.620.ve703f87
+- pkg:maven/com.daml/transcode-codegen-scala-sbt-daml2_2.12@0.0.1-adhoc.20250709.119.620.ve703f87?classifier=sources
+- pkg:maven/com.daml/transcode-codegen-scala-sbt-daml2_2.12@0.0.1-adhoc.20250709.121.621.vd4d5830
+- pkg:maven/com.daml/transcode-codegen-scala-sbt-daml2_2.12@0.0.1-adhoc.20250709.121.621.vd4d5830?classifier=sources
+- pkg:maven/com.daml/transcode-codegen-scala-sbt-daml2_2.12@0.0.1-main.20250709.98.622.v9a5a6bf
+- pkg:maven/com.daml/transcode-codegen-scala-sbt-daml2_2.12@0.0.1-main.20250709.98.622.v9a5a6bf?classifier=sources
+- pkg:maven/com.daml/transcode-codegen-scala-sbt-daml2_2.12@0.0.1-main.20250709.99.625.vd2c458c
+- pkg:maven/com.daml/transcode-codegen-scala-sbt-daml2_2.12@0.0.1-main.20250709.99.625.vd2c458c?classifier=sources

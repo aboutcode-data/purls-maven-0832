@@ -19,6 +19,7 @@
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M19?classifier=sources
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M20?classifier=sources
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M21?classifier=sources
+- pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M22?classifier=sources
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M4
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M4?classifier=sources
 - pkg:maven/org.dromara.hutool/hutool-setting@6.0.0-M5

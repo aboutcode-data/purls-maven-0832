@@ -58,3 +58,5 @@
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.4.2?classifier=sources
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.4.3
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.4.3?classifier=sources
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.4.4
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_3@1.4.4?classifier=sources

@@ -80,6 +80,7 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-transformer@0.27.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-transformer@0.28.0-beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-transformer@0.28.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-transformer@0.29.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-transformer@0.7
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-transformer@0.7?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-transformer@0.8

@@ -104,3 +104,6 @@
 - pkg:maven/com.aliyun/cdn20180510@4.2.2?classifier=sources
 - pkg:maven/com.aliyun/cdn20180510@5.0.0
 - pkg:maven/com.aliyun/cdn20180510@5.0.0?classifier=sources
+- pkg:maven/com.aliyun/cdn20180510@6.0.0
+- pkg:maven/com.aliyun/cdn20180510@6.0.0?classifier=sources
+- pkg:maven/com.aliyun/cdn20180510@7.0.0?classifier=sources

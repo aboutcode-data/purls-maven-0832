@@ -4,6 +4,7 @@
 - pkg:maven/cn.rongcloud.sdk.push/honor@5.10.2.116?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/honor@5.10.2.117?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/honor@5.10.2.118?type=aar
+- pkg:maven/cn.rongcloud.sdk.push/honor@5.10.2.120?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/honor@5.10.3?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/honor@5.12.0?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/honor@5.12.1?type=aar

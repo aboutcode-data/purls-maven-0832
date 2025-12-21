@@ -120,3 +120,5 @@
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.notifications.bo@3.0.0?classifier=sources
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.notifications.bo@3.0.1
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.notifications.bo@3.0.1?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.notifications.bo@3.0.2
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.notifications.bo@3.0.2?classifier=sources

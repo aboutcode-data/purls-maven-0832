@@ -22,3 +22,4 @@
 - pkg:maven/io.kestra.plugin/plugin-script-julia@0.21.1?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-script-julia@0.21.2?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-script-julia@0.22.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-script-julia@0.23.0?classifier=sources

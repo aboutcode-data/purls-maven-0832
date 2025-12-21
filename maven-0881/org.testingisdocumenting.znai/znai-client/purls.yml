@@ -101,3 +101,4 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-client@1.74.2?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-client@1.75?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-client@1.76?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-client@1.77.2?classifier=sources

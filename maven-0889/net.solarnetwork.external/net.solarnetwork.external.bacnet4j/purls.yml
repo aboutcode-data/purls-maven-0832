@@ -1,2 +1,4 @@
 - pkg:maven/net.solarnetwork.external/net.solarnetwork.external.bacnet4j@6.0.0.SN01
 - pkg:maven/net.solarnetwork.external/net.solarnetwork.external.bacnet4j@6.0.0.SN01?classifier=sources
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.bacnet4j@6.0.1.SN01
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.bacnet4j@6.0.1.SN01?classifier=sources

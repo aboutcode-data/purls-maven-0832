@@ -28,3 +28,4 @@
 - pkg:maven/org.jqassistant.plugin.typescript/jqassistant-typescript-plugin@1.4.0-M2
 - pkg:maven/org.jqassistant.plugin.typescript/jqassistant-typescript-plugin@1.4.0-M2?classifier=sources
 - pkg:maven/org.jqassistant.plugin.typescript/jqassistant-typescript-plugin@1.4.0?classifier=sources
+- pkg:maven/org.jqassistant.plugin.typescript/jqassistant-typescript-plugin@1.4.1?classifier=sources

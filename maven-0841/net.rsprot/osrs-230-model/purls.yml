@@ -15,3 +15,5 @@
 - pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250518?classifier=sources
 - pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250521?classifier=sources
 - pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250610?classifier=sources
+- pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250620?classifier=sources
+- pkg:maven/net.rsprot/osrs-230-model@1.0.0-ALPHA-20250708?classifier=sources

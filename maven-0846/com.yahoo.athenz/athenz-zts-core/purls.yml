@@ -271,6 +271,7 @@
 - pkg:maven/com.yahoo.athenz/athenz-zts-core@1.12.19?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zts-core@1.12.1?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zts-core@1.12.2
+- pkg:maven/com.yahoo.athenz/athenz-zts-core@1.12.20?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zts-core@1.12.2?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zts-core@1.12.3
 - pkg:maven/com.yahoo.athenz/athenz-zts-core@1.12.3?classifier=sources

@@ -284,6 +284,8 @@
 - pkg:maven/com.google.cloud/google-cloud-nio@0.127.36?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.127.37
 - pkg:maven/com.google.cloud/google-cloud-nio@0.127.37?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio@0.127.38
+- pkg:maven/com.google.cloud/google-cloud-nio@0.127.38?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.127.3?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio@0.127.4
 - pkg:maven/com.google.cloud/google-cloud-nio@0.127.4?classifier=sources

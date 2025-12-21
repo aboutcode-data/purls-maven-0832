@@ -1,0 +1,1 @@
+- pkg:maven/net.nmoncho/cassandra-unit@3.11.19.0?classifier=sources

@@ -57,4 +57,9 @@
 - pkg:maven/com.truvity/sdk@0.35.1?classifier=sources
 - pkg:maven/com.truvity/sdk@0.36.2?classifier=sources
 - pkg:maven/com.truvity/sdk@0.36.8?classifier=sources
+- pkg:maven/com.truvity/sdk@0.37.0?classifier=sources
+- pkg:maven/com.truvity/sdk@0.37.2?classifier=sources
+- pkg:maven/com.truvity/sdk@0.37.4?classifier=sources
+- pkg:maven/com.truvity/sdk@0.37.6?classifier=sources
+- pkg:maven/com.truvity/sdk@0.37.7?classifier=sources
 - pkg:maven/com.truvity/sdk@v0.0.0-c535a6c4f895%2Blocal?classifier=sources

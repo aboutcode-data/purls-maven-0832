@@ -1,2 +1,3 @@
 - pkg:maven/com.aiuta/fashionsdk-tryon-compose-uikit-iosarm64@4.1.0?classifier=sources
 - pkg:maven/com.aiuta/fashionsdk-tryon-compose-uikit-iosarm64@4.2.0?classifier=sources
+- pkg:maven/com.aiuta/fashionsdk-tryon-compose-uikit-iosarm64@4.2.1?classifier=sources

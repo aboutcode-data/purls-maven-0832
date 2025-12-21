@@ -2,3 +2,7 @@
 - pkg:maven/net.ruippeixotog/akka-testkit-specs2_3@0.3.2?classifier=sources
 - pkg:maven/net.ruippeixotog/akka-testkit-specs2_3@0.3.3
 - pkg:maven/net.ruippeixotog/akka-testkit-specs2_3@0.3.3?classifier=sources
+- pkg:maven/net.ruippeixotog/akka-testkit-specs2_3@0.3.4
+- pkg:maven/net.ruippeixotog/akka-testkit-specs2_3@0.3.4?classifier=sources
+- pkg:maven/net.ruippeixotog/akka-testkit-specs2_3@0.3.5
+- pkg:maven/net.ruippeixotog/akka-testkit-specs2_3@0.3.5?classifier=sources

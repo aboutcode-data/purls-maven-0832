@@ -1,3 +1,4 @@
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0-beta.10?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0-beta.2?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0-beta.3?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0-beta.4?classifier=sources
@@ -5,4 +6,5 @@
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0-beta.6?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0-beta.7?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0-beta.8?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0-beta.9?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/ptolemaeus-math@4.0.0-beta?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.supabase/functions-js@2.4.4
 - pkg:maven/org.mvnpm.at.supabase/functions-js@2.4.4?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.4.5
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.4.5?classifier=sources

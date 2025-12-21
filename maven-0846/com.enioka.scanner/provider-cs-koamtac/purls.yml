@@ -20,3 +20,4 @@
 - pkg:maven/com.enioka.scanner/provider-cs-koamtac@2.4.8?classifier=sources
 - pkg:maven/com.enioka.scanner/provider-cs-koamtac@3.0.0?classifier=sources
 - pkg:maven/com.enioka.scanner/provider-cs-koamtac@3.0.1?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-koamtac@3.0.2?classifier=sources

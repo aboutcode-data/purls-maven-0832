@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/hast-util-to-parse5@6.0.0?classifier=sources
+- pkg:maven/org.mvnpm/hast-util-to-parse5@7.1.0
+- pkg:maven/org.mvnpm/hast-util-to-parse5@7.1.0?classifier=sources
 - pkg:maven/org.mvnpm/hast-util-to-parse5@8.0.0?classifier=sources

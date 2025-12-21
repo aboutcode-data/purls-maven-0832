@@ -1,0 +1,3 @@
+- pkg:maven/com.volcengine/volcengine-java-sdk-ga@0.2.20
+- pkg:maven/com.volcengine/volcengine-java-sdk-ga@0.2.20?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-ga@0.2.21?classifier=sources

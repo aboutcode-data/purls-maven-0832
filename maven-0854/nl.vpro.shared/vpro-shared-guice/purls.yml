@@ -198,6 +198,8 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-guice@5.0.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-guice@5.1.0
 - pkg:maven/nl.vpro.shared/vpro-shared-guice@5.1.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-guice@5.10.0
+- pkg:maven/nl.vpro.shared/vpro-shared-guice@5.10.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-guice@5.2.0
 - pkg:maven/nl.vpro.shared/vpro-shared-guice@5.2.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-guice@5.3.0

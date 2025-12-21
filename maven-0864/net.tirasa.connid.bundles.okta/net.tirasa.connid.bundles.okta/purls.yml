@@ -32,3 +32,4 @@
 - pkg:maven/net.tirasa.connid.bundles.okta/net.tirasa.connid.bundles.okta@3.0.6?classifier=sources
 - pkg:maven/net.tirasa.connid.bundles.okta/net.tirasa.connid.bundles.okta@3.0.7
 - pkg:maven/net.tirasa.connid.bundles.okta/net.tirasa.connid.bundles.okta@3.0.7?classifier=sources
+- pkg:maven/net.tirasa.connid.bundles.okta/net.tirasa.connid.bundles.okta@3.0.8?classifier=sources

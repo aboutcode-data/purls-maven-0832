@@ -68,3 +68,5 @@
 - pkg:maven/com.aliyun/cams20200606@2.0.0?classifier=sources
 - pkg:maven/com.aliyun/cams20200606@2.1.0
 - pkg:maven/com.aliyun/cams20200606@2.1.0?classifier=sources
+- pkg:maven/com.aliyun/cams20200606@2.2.0
+- pkg:maven/com.aliyun/cams20200606@2.2.0?classifier=sources

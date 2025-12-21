@@ -44,6 +44,7 @@
 - pkg:maven/com.discord4j/discord-json@1.6.24?classifier=sources
 - pkg:maven/com.discord4j/discord-json@1.6.25?classifier=sources
 - pkg:maven/com.discord4j/discord-json@1.6.26?classifier=sources
+- pkg:maven/com.discord4j/discord-json@1.6.27-test?classifier=sources
 - pkg:maven/com.discord4j/discord-json@1.6.2?classifier=sources
 - pkg:maven/com.discord4j/discord-json@1.6.3?classifier=sources
 - pkg:maven/com.discord4j/discord-json@1.6.4?classifier=sources

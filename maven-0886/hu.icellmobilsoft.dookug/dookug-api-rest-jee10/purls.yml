@@ -10,3 +10,5 @@
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-api-rest-jee10@1.1.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-api-rest-jee10@1.2.0
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-api-rest-jee10@1.2.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-api-rest-jee10@2.0.0
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-api-rest-jee10@2.0.0?classifier=sources

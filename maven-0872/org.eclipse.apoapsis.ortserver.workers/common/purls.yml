@@ -20,6 +20,11 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.10.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.11.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.12.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.14.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.15.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.16.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.17.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.18.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/common@0.4.0?classifier=sources

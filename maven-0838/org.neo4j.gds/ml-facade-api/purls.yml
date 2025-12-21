@@ -8,3 +8,5 @@
 - pkg:maven/org.neo4j.gds/ml-facade-api@2.16.0?classifier=sources
 - pkg:maven/org.neo4j.gds/ml-facade-api@2.18.0
 - pkg:maven/org.neo4j.gds/ml-facade-api@2.18.0?classifier=sources
+- pkg:maven/org.neo4j.gds/ml-facade-api@2.19.0
+- pkg:maven/org.neo4j.gds/ml-facade-api@2.19.0?classifier=sources

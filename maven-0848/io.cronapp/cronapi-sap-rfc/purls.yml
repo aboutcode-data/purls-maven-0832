@@ -368,3 +368,7 @@
 - pkg:maven/io.cronapp/cronapi-sap-rfc@4.0.4?classifier=sources
 - pkg:maven/io.cronapp/cronapi-sap-rfc@4.0.5
 - pkg:maven/io.cronapp/cronapi-sap-rfc@4.0.5?classifier=sources
+- pkg:maven/io.cronapp/cronapi-sap-rfc@4.0.6
+- pkg:maven/io.cronapp/cronapi-sap-rfc@4.0.6?classifier=sources
+- pkg:maven/io.cronapp/cronapi-sap-rfc@4.1.0
+- pkg:maven/io.cronapp/cronapi-sap-rfc@4.1.0?classifier=sources

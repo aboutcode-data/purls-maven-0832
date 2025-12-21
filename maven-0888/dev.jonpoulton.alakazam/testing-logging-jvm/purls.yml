@@ -1,1 +1,2 @@
 - pkg:maven/dev.jonpoulton.alakazam/testing-logging-jvm@6.0.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/testing-logging-jvm@6.1.0?classifier=sources

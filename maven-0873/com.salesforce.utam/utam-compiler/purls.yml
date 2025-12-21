@@ -120,3 +120,4 @@
 - pkg:maven/com.salesforce.utam/utam-compiler@4.0.2?classifier=sources
 - pkg:maven/com.salesforce.utam/utam-compiler@4.0.3
 - pkg:maven/com.salesforce.utam/utam-compiler@4.0.3?classifier=sources
+- pkg:maven/com.salesforce.utam/utam-compiler@4.0.4?classifier=sources

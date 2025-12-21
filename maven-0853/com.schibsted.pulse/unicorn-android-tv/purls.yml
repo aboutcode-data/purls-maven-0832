@@ -1,2 +1,4 @@
 - pkg:maven/com.schibsted.pulse/unicorn-android-tv@1.2.0-alpha06?classifier=sources
 - pkg:maven/com.schibsted.pulse/unicorn-android-tv@1.2.0-alpha07?classifier=sources
+- pkg:maven/com.schibsted.pulse/unicorn-android-tv@1.2.0-alpha10?classifier=sources
+- pkg:maven/com.schibsted.pulse/unicorn-android-tv@1.2.0-alpha13?classifier=sources

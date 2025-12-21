@@ -10,6 +10,8 @@
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.16.0?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.18.0
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.18.0?classifier=sources
+- pkg:maven/org.neo4j.gds/similarity-algorithms@2.19.0
+- pkg:maven/org.neo4j.gds/similarity-algorithms@2.19.0?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.7.0?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.8.0?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.9.0?classifier=sources

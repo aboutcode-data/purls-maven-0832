@@ -44,3 +44,9 @@
 - pkg:maven/com.fluxtion/serverconnector-file@0.1.43?classifier=sources
 - pkg:maven/com.fluxtion/serverconnector-file@0.1.44
 - pkg:maven/com.fluxtion/serverconnector-file@0.1.44?classifier=sources
+- pkg:maven/com.fluxtion/serverconnector-file@0.1.45
+- pkg:maven/com.fluxtion/serverconnector-file@0.1.45?classifier=sources
+- pkg:maven/com.fluxtion/serverconnector-file@0.1.46
+- pkg:maven/com.fluxtion/serverconnector-file@0.1.46?classifier=sources
+- pkg:maven/com.fluxtion/serverconnector-file@0.1.47
+- pkg:maven/com.fluxtion/serverconnector-file@0.1.47?classifier=sources

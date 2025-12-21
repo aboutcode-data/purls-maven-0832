@@ -82,6 +82,10 @@
 - pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.48.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.5.0
 - pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.5.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.50.0
+- pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.50.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.51.0
+- pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.51.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.6.0
 - pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-cloudsupport@0.7.0

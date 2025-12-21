@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.paimon/paimon-iceberg@1.2.0
+- pkg:maven/org.apache.paimon/paimon-iceberg@1.2.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/me.tbsten.compose.preview.lab/core-iossimulatorarm64@0.1.0-dev02?classifier=sources
+- pkg:maven/me.tbsten.compose.preview.lab/core-iossimulatorarm64@0.1.0-dev03?classifier=sources
+- pkg:maven/me.tbsten.compose.preview.lab/core-iossimulatorarm64@0.1.0-dev04?classifier=sources
+- pkg:maven/me.tbsten.compose.preview.lab/core-iossimulatorarm64@0.1.0-dev05?classifier=sources
+- pkg:maven/me.tbsten.compose.preview.lab/core-iossimulatorarm64@0.1.0-dev06?classifier=sources

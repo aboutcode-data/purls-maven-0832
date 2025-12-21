@@ -207,6 +207,7 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.1.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.1.1
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.1.1?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.10.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.2.0
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.2.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.3.0
@@ -231,3 +232,7 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.8.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.8.1
 - pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.8.1?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.9.0
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.9.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.9.1
+- pkg:maven/io.gravitee.node/gravitee-node-cache-common@7.9.1?classifier=sources

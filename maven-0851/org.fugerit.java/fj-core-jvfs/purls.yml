@@ -183,3 +183,4 @@
 - pkg:maven/org.fugerit.java/fj-core-jvfs@8.6.8
 - pkg:maven/org.fugerit.java/fj-core-jvfs@8.6.8?classifier=sources
 - pkg:maven/org.fugerit.java/fj-core-jvfs@8.6.9?classifier=sources
+- pkg:maven/org.fugerit.java/fj-core-jvfs@8.7.0?classifier=sources

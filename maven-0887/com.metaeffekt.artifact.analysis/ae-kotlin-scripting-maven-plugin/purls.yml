@@ -52,3 +52,10 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.136.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.137.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.137.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.138.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.138.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.139.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.139.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.140.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.141.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-kotlin-scripting-maven-plugin@0.142.0?classifier=sources

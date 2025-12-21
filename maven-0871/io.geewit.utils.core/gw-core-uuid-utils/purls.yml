@@ -103,3 +103,4 @@
 - pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@2.0.9?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@3.0.0?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@3.0.1?classifier=sources
+- pkg:maven/io.geewit.utils.core/gw-core-uuid-utils@3.0.3?classifier=sources

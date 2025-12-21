@@ -13,3 +13,4 @@
 - pkg:maven/app.lexilabs.basic/basic-ads-android@0.2.6?classifier=sources
 - pkg:maven/app.lexilabs.basic/basic-ads-android@0.2.7-beta01?classifier=sources
 - pkg:maven/app.lexilabs.basic/basic-ads-android@0.2.7-beta02?classifier=sources
+- pkg:maven/app.lexilabs.basic/basic-ads-android@0.2.7-beta03?classifier=sources

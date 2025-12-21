@@ -11,4 +11,11 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.19.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.20.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.21.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.22.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.22.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.23.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.24.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.24.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.24.2?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.24.3?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-db@3.9.0?classifier=sources

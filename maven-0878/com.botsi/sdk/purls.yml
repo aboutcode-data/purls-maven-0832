@@ -1,2 +1,5 @@
 - pkg:maven/com.botsi/sdk@0.0.1-beta?classifier=sources
 - pkg:maven/com.botsi/sdk@0.0.2-beta?classifier=sources
+- pkg:maven/com.botsi/sdk@0.0.5-beta?classifier=sources
+- pkg:maven/com.botsi/sdk@0.0.6-beta?classifier=sources
+- pkg:maven/com.botsi/sdk@0.0.7-beta?classifier=sources

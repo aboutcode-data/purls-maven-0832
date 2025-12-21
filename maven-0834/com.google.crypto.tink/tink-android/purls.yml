@@ -22,6 +22,8 @@
 - pkg:maven/com.google.crypto.tink/tink-android@1.16.0?classifier=sources
 - pkg:maven/com.google.crypto.tink/tink-android@1.17.0
 - pkg:maven/com.google.crypto.tink/tink-android@1.17.0?classifier=sources
+- pkg:maven/com.google.crypto.tink/tink-android@1.18.0
+- pkg:maven/com.google.crypto.tink/tink-android@1.18.0?classifier=sources
 - pkg:maven/com.google.crypto.tink/tink-android@1.2.0
 - pkg:maven/com.google.crypto.tink/tink-android@1.2.0-rc2
 - pkg:maven/com.google.crypto.tink/tink-android@1.2.0-rc2?classifier=sources

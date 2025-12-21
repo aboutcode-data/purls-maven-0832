@@ -1,4 +1,6 @@
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@2025.0-10?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@2025.0-11?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0-1?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0-2?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0-3?classifier=sources
@@ -6,10 +8,13 @@
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0-5?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0-6?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0-7?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@2025.0-8?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@2025.0-9?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0.2?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@2025.0.3?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@2025.0.4?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@6.63.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@6.64.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@6.64.1?classifier=sources
@@ -38,6 +43,15 @@
 - pkg:maven/io.spinnaker.gate/gate-integration@main-20?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@main-21?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@main-22?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@main-23?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@main-24?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@main-30?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@main-31?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@main-32?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@main-33?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@main-34?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@main-35?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integration@main-36?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@main-5?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@main-6?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integration@main-7?classifier=sources

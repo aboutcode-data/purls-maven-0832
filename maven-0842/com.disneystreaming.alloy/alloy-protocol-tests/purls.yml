@@ -81,6 +81,16 @@
 - pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.20?classifier=sources
 - pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.21
 - pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.21?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.25-1-60f724
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.25-1-60f724?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.25-1-a45a22
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.25-1-a45a22?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.26
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.26?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.27
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.27?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.28
+- pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.28?classifier=sources
 - pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.2?classifier=sources
 - pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.3
 - pkg:maven/com.disneystreaming.alloy/alloy-protocol-tests@0.3.3?classifier=sources

@@ -99,3 +99,4 @@
 - pkg:maven/com.tryfinch.api/finch-java@6.0.0?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java@7.0.0?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java@7.1.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java@7.3.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/org.bremersee/common-xml-spring-boot-web-starter@3.1.0?classifier=sources
 - pkg:maven/org.bremersee/common-xml-spring-boot-web-starter@3.1.1
 - pkg:maven/org.bremersee/common-xml-spring-boot-web-starter@3.1.1?classifier=sources
+- pkg:maven/org.bremersee/common-xml-spring-boot-web-starter@3.2.0?classifier=sources

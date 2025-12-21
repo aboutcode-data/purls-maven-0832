@@ -6,3 +6,7 @@
 - pkg:maven/com.basebeta/trackparser-iossimulatorarm64@0.5.0?classifier=sources
 - pkg:maven/com.basebeta/trackparser-iossimulatorarm64@0.5.1?classifier=sources
 - pkg:maven/com.basebeta/trackparser-iossimulatorarm64@0.5.2?classifier=sources
+- pkg:maven/com.basebeta/trackparser-iossimulatorarm64@0.6.0?classifier=sources
+- pkg:maven/com.basebeta/trackparser-iossimulatorarm64@0.7.1?classifier=sources
+- pkg:maven/com.basebeta/trackparser-iossimulatorarm64@0.8.0?classifier=sources
+- pkg:maven/com.basebeta/trackparser-iossimulatorarm64@0.8.1?classifier=sources

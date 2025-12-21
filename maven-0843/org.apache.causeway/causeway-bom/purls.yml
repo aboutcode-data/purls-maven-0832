@@ -8,3 +8,4 @@
 - pkg:maven/org.apache.causeway/causeway-bom@3.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.causeway/causeway-bom@3.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.causeway/causeway-bom@3.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.causeway/causeway-bom@3.4.0?classifier=source-release&type=zip

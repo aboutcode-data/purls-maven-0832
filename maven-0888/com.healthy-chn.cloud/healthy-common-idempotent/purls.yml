@@ -82,3 +82,5 @@
 - pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@2.0.0-M1?classifier=sources
 - pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@2.0.0-M2
 - pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@2.0.0-M2?classifier=sources
+- pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@2.0.0-M3
+- pkg:maven/com.healthy-chn.cloud/healthy-common-idempotent@2.0.0-M3?classifier=sources

@@ -34,3 +34,6 @@
 - pkg:maven/org.openrewrite/rewrite-toml@8.55.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-toml@8.55.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-toml@8.55.3?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-toml@8.56.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-toml@8.56.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-toml@8.57.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.scalamolecule/molecule-db-common_sjs1_3@0.24.0
+- pkg:maven/org.scalamolecule/molecule-db-common_sjs1_3@0.24.0?classifier=sources

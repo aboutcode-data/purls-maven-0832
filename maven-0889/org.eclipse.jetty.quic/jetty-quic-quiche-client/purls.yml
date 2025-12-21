@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.jetty.quic/jetty-quic-quiche-client@12.1.0.beta0?classifier=sources
+- pkg:maven/org.eclipse.jetty.quic/jetty-quic-quiche-client@12.1.0.beta1?classifier=sources

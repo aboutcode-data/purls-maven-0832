@@ -4,6 +4,7 @@
 - pkg:maven/com.moloco.sdk/moloco-sdk@3.0.2?classifier=sources
 - pkg:maven/com.moloco.sdk/moloco-sdk@3.1.0?classifier=sources
 - pkg:maven/com.moloco.sdk/moloco-sdk@3.10.0?classifier=sources
+- pkg:maven/com.moloco.sdk/moloco-sdk@3.11.0?classifier=sources
 - pkg:maven/com.moloco.sdk/moloco-sdk@3.2.0?classifier=sources
 - pkg:maven/com.moloco.sdk/moloco-sdk@3.3.0?classifier=sources
 - pkg:maven/com.moloco.sdk/moloco-sdk@3.4.0?classifier=sources

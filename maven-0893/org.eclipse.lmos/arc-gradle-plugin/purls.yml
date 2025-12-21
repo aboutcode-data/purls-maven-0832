@@ -27,3 +27,10 @@
 - pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.134.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.135.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.136.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.137.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.138.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.138.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.139.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.140.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.141.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-gradle-plugin@0.141.0-M2?classifier=sources

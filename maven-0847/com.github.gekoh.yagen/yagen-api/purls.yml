@@ -187,6 +187,8 @@
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.0-alpha7?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.0?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.1
+- pkg:maven/com.github.gekoh.yagen/yagen-api@6.10
+- pkg:maven/com.github.gekoh.yagen/yagen-api@6.10?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.1?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.2
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.2?classifier=sources
@@ -198,3 +200,7 @@
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.6?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.7
 - pkg:maven/com.github.gekoh.yagen/yagen-api@6.7?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-api@6.8
+- pkg:maven/com.github.gekoh.yagen/yagen-api@6.8?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-api@6.9
+- pkg:maven/com.github.gekoh.yagen/yagen-api@6.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-oracle-deployment@3.24.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-oracle-deployment@3.24.0?classifier=sources

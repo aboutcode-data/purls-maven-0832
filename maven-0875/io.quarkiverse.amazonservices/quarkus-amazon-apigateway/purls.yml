@@ -1,1 +1,2 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apigateway@3.8.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-apigateway@3.9.0?classifier=sources

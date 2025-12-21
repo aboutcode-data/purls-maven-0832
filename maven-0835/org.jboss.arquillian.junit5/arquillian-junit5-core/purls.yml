@@ -1,3 +1,4 @@
+- pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-core@1.10.0.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-core@1.7.0.Alpha10?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-core@1.7.0.Alpha11?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-core@1.7.0.Alpha12?classifier=sources

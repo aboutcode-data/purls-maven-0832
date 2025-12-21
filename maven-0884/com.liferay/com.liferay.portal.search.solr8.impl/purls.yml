@@ -245,6 +245,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@5.0.4
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@5.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@5.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.solr8.impl@5.0.5

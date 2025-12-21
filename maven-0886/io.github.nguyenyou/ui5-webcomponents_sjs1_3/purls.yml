@@ -24,5 +24,7 @@
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents_sjs1_3@2.10.2?classifier=sources
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents_sjs1_3@2.11.0
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents_sjs1_3@2.11.0?classifier=sources
+- pkg:maven/io.github.nguyenyou/ui5-webcomponents_sjs1_3@2.12.0
+- pkg:maven/io.github.nguyenyou/ui5-webcomponents_sjs1_3@2.12.0?classifier=sources
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents_sjs1_3@2.9.0
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents_sjs1_3@2.9.0?classifier=sources

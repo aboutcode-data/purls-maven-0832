@@ -1,3 +1,4 @@
 - pkg:maven/network.chaintech/cmp-easy-permission-iosarm64@1.0.0?classifier=sources
 - pkg:maven/network.chaintech/cmp-easy-permission-iosarm64@1.0.1?classifier=sources
 - pkg:maven/network.chaintech/cmp-easy-permission-iosarm64@1.0.2?classifier=sources
+- pkg:maven/network.chaintech/cmp-easy-permission-iosarm64@1.0.3?classifier=sources

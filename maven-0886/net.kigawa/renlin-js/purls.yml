@@ -1,1 +1,2 @@
 - pkg:maven/net.kigawa/renlin-js@1.0.0?classifier=sources
+- pkg:maven/net.kigawa/renlin-js@1.0.1?classifier=sources

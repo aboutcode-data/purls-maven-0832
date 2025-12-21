@@ -166,6 +166,8 @@
 - pkg:maven/org.apache.servicecomb/java-chassis-core@2.8.8?classifier=sources
 - pkg:maven/org.apache.servicecomb/java-chassis-core@2.8.9
 - pkg:maven/org.apache.servicecomb/java-chassis-core@2.8.9?classifier=sources
+- pkg:maven/org.apache.servicecomb/java-chassis-core@2.9.0
+- pkg:maven/org.apache.servicecomb/java-chassis-core@2.9.0?classifier=sources
 - pkg:maven/org.apache.servicecomb/java-chassis-core@3.0.0
 - pkg:maven/org.apache.servicecomb/java-chassis-core@3.0.0?classifier=sources
 - pkg:maven/org.apache.servicecomb/java-chassis-core@3.0.1
@@ -192,3 +194,5 @@
 - pkg:maven/org.apache.servicecomb/java-chassis-core@3.2.5?classifier=sources
 - pkg:maven/org.apache.servicecomb/java-chassis-core@3.2.6
 - pkg:maven/org.apache.servicecomb/java-chassis-core@3.2.6?classifier=sources
+- pkg:maven/org.apache.servicecomb/java-chassis-core@3.3.0
+- pkg:maven/org.apache.servicecomb/java-chassis-core@3.3.0?classifier=sources

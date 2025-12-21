@@ -1,0 +1,4 @@
+- pkg:maven/io.github.sovedus/fs2-socks5_native0.4_2.13@0.1.0
+- pkg:maven/io.github.sovedus/fs2-socks5_native0.4_2.13@0.1.0-alpha
+- pkg:maven/io.github.sovedus/fs2-socks5_native0.4_2.13@0.1.0-alpha?classifier=sources
+- pkg:maven/io.github.sovedus/fs2-socks5_native0.4_2.13@0.1.0?classifier=sources

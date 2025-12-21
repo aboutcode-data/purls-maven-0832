@@ -1,0 +1,3 @@
+- pkg:maven/io.availe/model-ksp-annotations@1.0.0?classifier=sources
+- pkg:maven/io.availe/model-ksp-annotations@2.0.0?classifier=sources
+- pkg:maven/io.availe/model-ksp-annotations@3.0.0?classifier=sources

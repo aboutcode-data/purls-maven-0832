@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.kudu/kudu-subprocess@1.18.0?classifier=sources

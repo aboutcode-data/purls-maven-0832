@@ -1,0 +1,5 @@
+- pkg:maven/cafe.jeffrey-analyst/jeffrey-events@0.0.1?classifier=sources
+- pkg:maven/cafe.jeffrey-analyst/jeffrey-events@0.0.2?classifier=sources
+- pkg:maven/cafe.jeffrey-analyst/jeffrey-events@0.1?classifier=sources
+- pkg:maven/cafe.jeffrey-analyst/jeffrey-events@0.2.0?classifier=sources
+- pkg:maven/cafe.jeffrey-analyst/jeffrey-events@0.2.1?classifier=sources

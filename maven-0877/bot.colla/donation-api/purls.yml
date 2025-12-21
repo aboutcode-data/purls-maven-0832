@@ -1,0 +1,2 @@
+- pkg:maven/bot.colla/donation-api@2.0.1?classifier=sources
+- pkg:maven/bot.colla/donation-api@2.0?classifier=sources

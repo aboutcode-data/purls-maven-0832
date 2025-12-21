@@ -22,3 +22,4 @@
 - pkg:maven/io.uhndata.cards/lfs-resources-clinical-data@0.9.29?classifier=sources
 - pkg:maven/io.uhndata.cards/lfs-resources-clinical-data@0.9.30
 - pkg:maven/io.uhndata.cards/lfs-resources-clinical-data@0.9.30?classifier=sources
+- pkg:maven/io.uhndata.cards/lfs-resources-clinical-data@0.9.31?classifier=sources

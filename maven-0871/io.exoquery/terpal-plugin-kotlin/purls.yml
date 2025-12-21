@@ -42,3 +42,4 @@
 - pkg:maven/io.exoquery/terpal-plugin-kotlin@2.0.20-1.0.0.PL?classifier=sources
 - pkg:maven/io.exoquery/terpal-plugin-kotlin@2.1.0-2.0.0.PL?classifier=sources
 - pkg:maven/io.exoquery/terpal-plugin-kotlin@2.1.20-2.0.0.PL?classifier=sources
+- pkg:maven/io.exoquery/terpal-plugin-kotlin@2.2.0-2.0.0.PL?classifier=sources

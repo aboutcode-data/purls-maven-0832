@@ -10,3 +10,5 @@
 - pkg:maven/org.keycloak.testframework/keycloak-test-framework-junit5-config@26.2.4?classifier=sources
 - pkg:maven/org.keycloak.testframework/keycloak-test-framework-junit5-config@26.2.5
 - pkg:maven/org.keycloak.testframework/keycloak-test-framework-junit5-config@26.2.5?classifier=sources
+- pkg:maven/org.keycloak.testframework/keycloak-test-framework-junit5-config@26.3.0?classifier=sources
+- pkg:maven/org.keycloak.testframework/keycloak-test-framework-junit5-config@26.3.1?classifier=sources

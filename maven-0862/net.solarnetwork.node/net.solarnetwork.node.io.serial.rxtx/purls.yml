@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.serial.rxtx@3.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.serial.rxtx@4.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.serial.rxtx@4.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.serial.rxtx@5.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.serial.rxtx@5.0.0?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/com.sap.cloud.security.ams.client/spring-boot-starter-ams-test@2.5.0?classifier=sources
 - pkg:maven/com.sap.cloud.security.ams.client/spring-boot-starter-ams-test@2.7.0
 - pkg:maven/com.sap.cloud.security.ams.client/spring-boot-starter-ams-test@2.7.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.ams.client/spring-boot-starter-ams-test@3.1.0
+- pkg:maven/com.sap.cloud.security.ams.client/spring-boot-starter-ams-test@3.1.0?classifier=sources

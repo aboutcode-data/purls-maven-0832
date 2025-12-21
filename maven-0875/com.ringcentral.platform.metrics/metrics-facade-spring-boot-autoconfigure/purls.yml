@@ -16,3 +16,5 @@
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-spring-boot-autoconfigure@4.0.0-RELEASE?classifier=sources
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-spring-boot-autoconfigure@4.1.0-RELEASE
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-spring-boot-autoconfigure@4.1.0-RELEASE?classifier=sources
+- pkg:maven/com.ringcentral.platform.metrics/metrics-facade-spring-boot-autoconfigure@4.2.0-RELEASE
+- pkg:maven/com.ringcentral.platform.metrics/metrics-facade-spring-boot-autoconfigure@4.2.0-RELEASE?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/ai.chronon/api_2.11@0.0.1
 - pkg:maven/ai.chronon/api_2.11@0.0.10
+- pkg:maven/ai.chronon/api_2.11@0.0.100
+- pkg:maven/ai.chronon/api_2.11@0.0.100?classifier=sources
 - pkg:maven/ai.chronon/api_2.11@0.0.10?classifier=sources
 - pkg:maven/ai.chronon/api_2.11@0.0.11
 - pkg:maven/ai.chronon/api_2.11@0.0.11?classifier=sources
@@ -177,6 +179,10 @@
 - pkg:maven/ai.chronon/api_2.11@0.0.95?classifier=sources
 - pkg:maven/ai.chronon/api_2.11@0.0.96
 - pkg:maven/ai.chronon/api_2.11@0.0.96?classifier=sources
+- pkg:maven/ai.chronon/api_2.11@0.0.97
+- pkg:maven/ai.chronon/api_2.11@0.0.97?classifier=sources
+- pkg:maven/ai.chronon/api_2.11@0.0.99
+- pkg:maven/ai.chronon/api_2.11@0.0.99?classifier=sources
 - pkg:maven/ai.chronon/api_2.11@0.0.9?classifier=sources
 - pkg:maven/ai.chronon/api_2.11@13_publish-0.0.12
 - pkg:maven/ai.chronon/api_2.11@13_publish-0.0.12?classifier=sources

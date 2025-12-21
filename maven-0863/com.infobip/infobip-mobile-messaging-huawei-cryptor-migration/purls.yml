@@ -54,6 +54,9 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@6.9.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.1.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.10.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.11.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.11.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.2.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.2.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.3.0?classifier=sources
@@ -66,3 +69,4 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.7.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.8.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.8.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-cryptor-migration@7.9.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.nhn.gameanvil/gameanvil-core@2.0.0-jdk21?classifier=sources
+- pkg:maven/com.nhn.gameanvil/gameanvil-core@2.1.0-jdk21?classifier=sources

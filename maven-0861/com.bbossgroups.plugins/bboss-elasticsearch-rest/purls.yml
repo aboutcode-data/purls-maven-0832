@@ -411,3 +411,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@7.3.7-jdk17?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@7.3.7?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@7.3.8?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest@7.3.9?classifier=sources

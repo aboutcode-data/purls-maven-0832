@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/react-magnetic-di@3.2.3
+- pkg:maven/org.mvnpm/react-magnetic-di@3.2.3?classifier=sources

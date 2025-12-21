@@ -1,1 +1,2 @@
 - pkg:maven/com.ganteater/ae-maven-plugin@1.2.0?classifier=sources
+- pkg:maven/com.ganteater/ae-maven-plugin@1.2.1?classifier=sources

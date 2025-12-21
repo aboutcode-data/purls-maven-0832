@@ -22,3 +22,5 @@
 - pkg:maven/org.ikasan/ikasan-job-orchestration-provision@4.0.2?classifier=sources
 - pkg:maven/org.ikasan/ikasan-job-orchestration-provision@4.0.3
 - pkg:maven/org.ikasan/ikasan-job-orchestration-provision@4.0.3?classifier=sources
+- pkg:maven/org.ikasan/ikasan-job-orchestration-provision@4.1.0
+- pkg:maven/org.ikasan/ikasan-job-orchestration-provision@4.1.0?classifier=sources

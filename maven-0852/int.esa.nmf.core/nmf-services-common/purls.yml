@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.nmf.core/nmf-services-common@4.0
+- pkg:maven/int.esa.nmf.core/nmf-services-common@4.0?classifier=sources
