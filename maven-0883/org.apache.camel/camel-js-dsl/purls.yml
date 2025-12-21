@@ -166,3 +166,7 @@
 - pkg:maven/org.apache.camel/camel-js-dsl@4.8.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-js-dsl@4.8.3
 - pkg:maven/org.apache.camel/camel-js-dsl@4.8.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-js-dsl@4.8.4
+- pkg:maven/org.apache.camel/camel-js-dsl@4.8.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-js-dsl@4.8.5
+- pkg:maven/org.apache.camel/camel-js-dsl@4.8.5?classifier=sources

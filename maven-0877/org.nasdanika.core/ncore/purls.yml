@@ -166,3 +166,5 @@
 - pkg:maven/org.nasdanika.core/ncore@2024.9.0?classifier=sources
 - pkg:maven/org.nasdanika.core/ncore@2025.1.0
 - pkg:maven/org.nasdanika.core/ncore@2025.1.0?classifier=sources
+- pkg:maven/org.nasdanika.core/ncore@2025.2.0
+- pkg:maven/org.nasdanika.core/ncore@2025.2.0?classifier=sources

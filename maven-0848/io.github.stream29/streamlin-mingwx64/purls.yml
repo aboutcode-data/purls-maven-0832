@@ -1,1 +1,2 @@
 - pkg:maven/io.github.stream29/streamlin-mingwx64@2.5.1?classifier=sources
+- pkg:maven/io.github.stream29/streamlin-mingwx64@2.5.2?classifier=sources

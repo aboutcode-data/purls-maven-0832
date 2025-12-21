@@ -17,3 +17,7 @@
 - pkg:maven/io.github.tianhaocui/loghelper-spring-boot-start@2.0.9-pre?classifier=sources
 - pkg:maven/io.github.tianhaocui/loghelper-spring-boot-start@2.1.0-pre-java8?classifier=sources
 - pkg:maven/io.github.tianhaocui/loghelper-spring-boot-start@2.1.0-pre?classifier=sources
+- pkg:maven/io.github.tianhaocui/loghelper-spring-boot-start@2.1.1-RELEASE-fix?classifier=sources
+- pkg:maven/io.github.tianhaocui/loghelper-spring-boot-start@2.1.1-RELEASE-java8?classifier=sources
+- pkg:maven/io.github.tianhaocui/loghelper-spring-boot-start@2.1.1-RELEASE?classifier=sources
+- pkg:maven/io.github.tianhaocui/loghelper-spring-boot-start@2.1.1-pre?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-weilingwith@3.1.1208
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-weilingwith@3.1.1208?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-weilingwith@3.1.871
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-weilingwith@3.1.871?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-weilingwith@3.1.872

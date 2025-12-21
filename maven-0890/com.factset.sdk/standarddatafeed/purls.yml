@@ -15,6 +15,7 @@
 - pkg:maven/com.factset.sdk/standarddatafeed@0.21.9?classifier=sources
 - pkg:maven/com.factset.sdk/standarddatafeed@0.22.0?classifier=sources
 - pkg:maven/com.factset.sdk/standarddatafeed@0.22.1?classifier=sources
+- pkg:maven/com.factset.sdk/standarddatafeed@0.22.2?classifier=sources
 - pkg:maven/com.factset.sdk/standarddatafeed@0.40.0?classifier=sources
 - pkg:maven/com.factset.sdk/standarddatafeed@0.40.1?classifier=sources
 - pkg:maven/com.factset.sdk/standarddatafeed@0.40.2?classifier=sources
@@ -23,3 +24,4 @@
 - pkg:maven/com.factset.sdk/standarddatafeed@1.0.0?classifier=sources
 - pkg:maven/com.factset.sdk/standarddatafeed@1.0.1?classifier=sources
 - pkg:maven/com.factset.sdk/standarddatafeed@1.0.2?classifier=sources
+- pkg:maven/com.factset.sdk/standarddatafeed@1.0.3?classifier=sources

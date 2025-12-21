@@ -47,3 +47,5 @@
 - pkg:maven/net.rsprot/osrs-222-common@1.0.0-ALPHA-20250219?classifier=sources
 - pkg:maven/net.rsprot/osrs-222-common@1.0.0-ALPHA-20250220?classifier=sources
 - pkg:maven/net.rsprot/osrs-222-common@1.0.0-ALPHA-20250222?classifier=sources
+- pkg:maven/net.rsprot/osrs-222-common@1.0.0-ALPHA-20250224?classifier=sources
+- pkg:maven/net.rsprot/osrs-222-common@1.0.0-ALPHA-20250301?classifier=sources

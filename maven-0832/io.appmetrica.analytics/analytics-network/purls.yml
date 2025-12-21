@@ -15,3 +15,4 @@
 - pkg:maven/io.appmetrica.analytics/analytics-network@7.4.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-network@7.5.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-network@7.6.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-network@7.7.0?classifier=sources

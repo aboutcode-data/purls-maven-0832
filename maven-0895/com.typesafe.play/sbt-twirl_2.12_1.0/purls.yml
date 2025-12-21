@@ -20,3 +20,5 @@
 - pkg:maven/com.typesafe.play/sbt-twirl_2.12_1.0@1.6.7?classifier=sources
 - pkg:maven/com.typesafe.play/sbt-twirl_2.12_1.0@1.6.8
 - pkg:maven/com.typesafe.play/sbt-twirl_2.12_1.0@1.6.8?classifier=sources
+- pkg:maven/com.typesafe.play/sbt-twirl_2.12_1.0@1.6.9
+- pkg:maven/com.typesafe.play/sbt-twirl_2.12_1.0@1.6.9?classifier=sources

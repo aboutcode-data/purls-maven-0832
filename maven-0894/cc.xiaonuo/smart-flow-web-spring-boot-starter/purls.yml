@@ -1,2 +1,5 @@
 - pkg:maven/cc.xiaonuo/smart-flow-web-spring-boot-starter@0.5.0-SNAPSHOP?classifier=sources
 - pkg:maven/cc.xiaonuo/smart-flow-web-spring-boot-starter@0.5.1-SNAPSHOP?classifier=sources
+- pkg:maven/cc.xiaonuo/smart-flow-web-spring-boot-starter@0.6.0-SNAPSHOP?classifier=sources
+- pkg:maven/cc.xiaonuo/smart-flow-web-spring-boot-starter@0.6.0?classifier=sources
+- pkg:maven/cc.xiaonuo/smart-flow-web-spring-boot-starter@0.7.0-alpha?classifier=sources

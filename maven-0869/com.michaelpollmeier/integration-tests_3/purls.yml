@@ -1,2 +1,4 @@
 - pkg:maven/com.michaelpollmeier/integration-tests_3@0.3.10
 - pkg:maven/com.michaelpollmeier/integration-tests_3@0.3.10?classifier=sources
+- pkg:maven/com.michaelpollmeier/integration-tests_3@0.3.11
+- pkg:maven/com.michaelpollmeier/integration-tests_3@0.3.11?classifier=sources

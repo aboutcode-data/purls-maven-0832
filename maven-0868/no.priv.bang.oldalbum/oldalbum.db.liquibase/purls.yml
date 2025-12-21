@@ -150,3 +150,5 @@
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@2.1.7?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@2.1.8
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@2.1.8?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@2.2.0
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.db.liquibase@2.2.0?classifier=sources

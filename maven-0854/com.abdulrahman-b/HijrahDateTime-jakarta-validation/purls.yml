@@ -3,3 +3,4 @@
 - pkg:maven/com.abdulrahman-b/HijrahDateTime-jakarta-validation@1.0.0-beta.5?classifier=sources
 - pkg:maven/com.abdulrahman-b/HijrahDateTime-jakarta-validation@1.0.0-rc.1?classifier=sources
 - pkg:maven/com.abdulrahman-b/HijrahDateTime-jakarta-validation@1.0.0?classifier=sources
+- pkg:maven/com.abdulrahman-b/HijrahDateTime-jakarta-validation@1.0.1?classifier=sources

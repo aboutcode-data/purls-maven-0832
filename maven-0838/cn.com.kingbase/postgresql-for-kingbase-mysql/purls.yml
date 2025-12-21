@@ -1,0 +1,6 @@
+- pkg:maven/cn.com.kingbase/postgresql-for-kingbase-mysql@9.0.0
+- pkg:maven/cn.com.kingbase/postgresql-for-kingbase-mysql@9.0.0.jre6
+- pkg:maven/cn.com.kingbase/postgresql-for-kingbase-mysql@9.0.0.jre6?classifier=sources
+- pkg:maven/cn.com.kingbase/postgresql-for-kingbase-mysql@9.0.0.jre7
+- pkg:maven/cn.com.kingbase/postgresql-for-kingbase-mysql@9.0.0.jre7?classifier=sources
+- pkg:maven/cn.com.kingbase/postgresql-for-kingbase-mysql@9.0.0?classifier=sources

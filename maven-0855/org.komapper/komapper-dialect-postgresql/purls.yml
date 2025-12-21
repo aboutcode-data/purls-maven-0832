@@ -63,3 +63,5 @@
 - pkg:maven/org.komapper/komapper-dialect-postgresql@5.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-postgresql@5.1.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-postgresql@5.2.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-postgresql@5.2.1?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-postgresql@RELEASE_VERSION?classifier=sources

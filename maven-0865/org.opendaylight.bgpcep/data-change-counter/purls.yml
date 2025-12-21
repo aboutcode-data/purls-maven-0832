@@ -156,6 +156,8 @@
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.22.7?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.22.8
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.22.8?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.22.9
+- pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.22.9?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.3.1-Helium
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.3.1-Helium?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/data-change-counter@0.3.2-Helium-SR1

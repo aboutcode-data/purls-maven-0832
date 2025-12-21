@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-google-ai-gemini-spring-boot-starter@1.0.0-beta1
+- pkg:maven/dev.langchain4j/langchain4j-google-ai-gemini-spring-boot-starter@1.0.0-beta1?classifier=sources

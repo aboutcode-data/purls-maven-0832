@@ -1,0 +1,9 @@
+- pkg:maven/io.github.pro4d/QuickMC-Utils@1.0-beta-21.0?classifier=sources
+- pkg:maven/io.github.pro4d/QuickMC-Utils@1.0.1-beta-21?classifier=sources
+- pkg:maven/io.github.pro4d/QuickMC-Utils@1.1.0-beta20?classifier=sources
+- pkg:maven/io.github.pro4d/QuickMC-Utils@1.1.0-beta21?classifier=sources
+- pkg:maven/io.github.pro4d/QuickMC-Utils@1.1.1-beta21?classifier=sources
+- pkg:maven/io.github.pro4d/QuickMC-Utils@1.1.2-beta20?classifier=sources
+- pkg:maven/io.github.pro4d/QuickMC-Utils@1.1.2-beta21?classifier=sources
+- pkg:maven/io.github.pro4d/QuickMC-Utils@1.1.3-beta20?classifier=sources
+- pkg:maven/io.github.pro4d/QuickMC-Utils@1.1.3-beta21?classifier=sources

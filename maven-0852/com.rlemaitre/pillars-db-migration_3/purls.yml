@@ -104,3 +104,5 @@
 - pkg:maven/com.rlemaitre/pillars-db-migration_3@0.4.3?classifier=sources
 - pkg:maven/com.rlemaitre/pillars-db-migration_3@0.4.4
 - pkg:maven/com.rlemaitre/pillars-db-migration_3@0.4.4?classifier=sources
+- pkg:maven/com.rlemaitre/pillars-db-migration_3@0.4.5
+- pkg:maven/com.rlemaitre/pillars-db-migration_3@0.4.5?classifier=sources

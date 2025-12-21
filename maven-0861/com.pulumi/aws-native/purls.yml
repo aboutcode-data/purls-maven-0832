@@ -407,6 +407,7 @@
 - pkg:maven/com.pulumi/aws-native@1.21.0?classifier=sources
 - pkg:maven/com.pulumi/aws-native@1.23.0?classifier=sources
 - pkg:maven/com.pulumi/aws-native@1.24.0?classifier=sources
+- pkg:maven/com.pulumi/aws-native@1.25.0?classifier=sources
 - pkg:maven/com.pulumi/aws-native@1.3.0-alpha.1728935629?classifier=sources
 - pkg:maven/com.pulumi/aws-native@1.3.0-alpha.1729153019?classifier=sources
 - pkg:maven/com.pulumi/aws-native@1.3.0-alpha.1729176871?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@1.0.7?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@1.0.8
 - pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@1.0.8?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@2.0.0
+- pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@2.0.1
+- pkg:maven/com.aliyun/alibabacloud-ehpcinstant20230701@2.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/br.com.colman.simplecpfvalidator/simple-cpf-validator-linuxx64@2.7.0?classifier=sources
+- pkg:maven/br.com.colman.simplecpfvalidator/simple-cpf-validator-linuxx64@2.8.0?classifier=sources

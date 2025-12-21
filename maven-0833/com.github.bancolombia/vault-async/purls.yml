@@ -24,6 +24,7 @@
 - pkg:maven/com.github.bancolombia/vault-async@4.4.28?classifier=sources
 - pkg:maven/com.github.bancolombia/vault-async@4.4.29?classifier=sources
 - pkg:maven/com.github.bancolombia/vault-async@4.4.2?classifier=sources
+- pkg:maven/com.github.bancolombia/vault-async@4.4.30?classifier=sources
 - pkg:maven/com.github.bancolombia/vault-async@4.4.3?classifier=sources
 - pkg:maven/com.github.bancolombia/vault-async@4.4.4?classifier=sources
 - pkg:maven/com.github.bancolombia/vault-async@4.4.5?classifier=sources

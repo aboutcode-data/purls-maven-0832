@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bsautner.kobold/kobold-ksp@0.0.12?classifier=sources
+- pkg:maven/io.github.bsautner.kobold/kobold-ksp@0.0.8?classifier=sources

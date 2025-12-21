@@ -1,0 +1,2 @@
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-simple-test-v2-event@1.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-simple-test-v2-event@2.0.0?classifier=sources

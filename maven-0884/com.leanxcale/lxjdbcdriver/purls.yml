@@ -48,6 +48,16 @@
 - pkg:maven/com.leanxcale/lxjdbcdriver@2.4.2412200859?classifier=sources
 - pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2410141459
 - pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2410141459?classifier=sources
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502191321
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502191321?classifier=sources
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502211205
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502211205?classifier=sources
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502240930
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502240930?classifier=sources
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502241006
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502241006?classifier=sources
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502241620
+- pkg:maven/com.leanxcale/lxjdbcdriver@2.5.2502241620?classifier=sources
 - pkg:maven/com.leanxcale/lxjdbcdriver@3.0.2402221012?classifier=sources
 - pkg:maven/com.leanxcale/lxjdbcdriver@3.0.2403151200?classifier=sources
 - pkg:maven/com.leanxcale/lxjdbcdriver@3.0.2403181620?classifier=sources

@@ -14,6 +14,7 @@
 - pkg:maven/io.quarkiverse.authzed/quarkus-authzed-grpc-client@0.0.7?classifier=sources
 - pkg:maven/io.quarkiverse.authzed/quarkus-authzed-grpc-client@0.1.0
 - pkg:maven/io.quarkiverse.authzed/quarkus-authzed-grpc-client@0.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.authzed/quarkus-authzed-grpc-client@0.10.0?classifier=sources
 - pkg:maven/io.quarkiverse.authzed/quarkus-authzed-grpc-client@0.2.0
 - pkg:maven/io.quarkiverse.authzed/quarkus-authzed-grpc-client@0.2.0?classifier=sources
 - pkg:maven/io.quarkiverse.authzed/quarkus-authzed-grpc-client@0.2.1

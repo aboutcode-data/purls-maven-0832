@@ -1,1 +1,2 @@
+- pkg:maven/io.github.evanmi/zk-springboot-starter-example@0.0.2-jdk8?classifier=sources
 - pkg:maven/io.github.evanmi/zk-springboot-starter-example@0.0.2?classifier=sources

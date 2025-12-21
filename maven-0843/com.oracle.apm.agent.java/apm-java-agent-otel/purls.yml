@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-otel@1.15.0.516
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-otel@1.15.0.516?classifier=sources
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-otel@1.16.0.585
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-otel@1.16.0.585?classifier=sources

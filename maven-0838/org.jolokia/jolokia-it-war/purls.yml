@@ -92,3 +92,7 @@
 - pkg:maven/org.jolokia/jolokia-it-war@2.2.1?type=war
 - pkg:maven/org.jolokia/jolokia-it-war@2.2.2?classifier=sources
 - pkg:maven/org.jolokia/jolokia-it-war@2.2.2?type=war
+- pkg:maven/org.jolokia/jolokia-it-war@2.2.3?classifier=sources
+- pkg:maven/org.jolokia/jolokia-it-war@2.2.3?type=war
+- pkg:maven/org.jolokia/jolokia-it-war@2.2.4?classifier=sources
+- pkg:maven/org.jolokia/jolokia-it-war@2.2.4?type=war

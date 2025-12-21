@@ -12,6 +12,7 @@
 - pkg:maven/com.trulioo/docv-capture@2.14.1?classifier=sources
 - pkg:maven/com.trulioo/docv-capture@2.15.0?classifier=sources
 - pkg:maven/com.trulioo/docv-capture@2.15.1?classifier=sources
+- pkg:maven/com.trulioo/docv-capture@2.15.2?classifier=sources
 - pkg:maven/com.trulioo/docv-capture@2.9.3-beta.1?classifier=sources
 - pkg:maven/com.trulioo/docv-capture@2.9.3-beta.2?classifier=sources
 - pkg:maven/com.trulioo/docv-capture@2.9.3-beta.3?classifier=sources

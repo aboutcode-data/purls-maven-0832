@@ -64,3 +64,9 @@
 - pkg:maven/com.helger.photon/ph-oton-bootstrap4-uictrls@9.2.7?classifier=sources
 - pkg:maven/com.helger.photon/ph-oton-bootstrap4-uictrls@9.2.8
 - pkg:maven/com.helger.photon/ph-oton-bootstrap4-uictrls@9.2.8?classifier=sources
+- pkg:maven/com.helger.photon/ph-oton-bootstrap4-uictrls@9.2.9
+- pkg:maven/com.helger.photon/ph-oton-bootstrap4-uictrls@9.2.9?classifier=sources
+- pkg:maven/com.helger.photon/ph-oton-bootstrap4-uictrls@9.3.0
+- pkg:maven/com.helger.photon/ph-oton-bootstrap4-uictrls@9.3.0?classifier=sources
+- pkg:maven/com.helger.photon/ph-oton-bootstrap4-uictrls@9.3.1
+- pkg:maven/com.helger.photon/ph-oton-bootstrap4-uictrls@9.3.1?classifier=sources

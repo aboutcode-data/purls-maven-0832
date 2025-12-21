@@ -151,6 +151,7 @@
 - pkg:maven/com.pulumi/kafka@3.8.0-alpha.1724660670?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.8.0?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.8.2?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.8.3?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.9.0-alpha.1724910220?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.9.0-alpha.1724996621?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.9.0-alpha.1725601450?classifier=sources
@@ -177,3 +178,4 @@
 - pkg:maven/com.pulumi/kafka@3.9.0-alpha.1732600318?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.9.0-alpha.1732686461?classifier=sources
 - pkg:maven/com.pulumi/kafka@3.9.0-alpha.1732772775?classifier=sources
+- pkg:maven/com.pulumi/kafka@3.9.0?classifier=sources

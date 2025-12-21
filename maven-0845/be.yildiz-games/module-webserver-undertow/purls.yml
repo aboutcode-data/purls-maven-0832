@@ -50,3 +50,5 @@
 - pkg:maven/be.yildiz-games/module-webserver-undertow@2.0.7?classifier=sources
 - pkg:maven/be.yildiz-games/module-webserver-undertow@2.0.8
 - pkg:maven/be.yildiz-games/module-webserver-undertow@2.0.8?classifier=sources
+- pkg:maven/be.yildiz-games/module-webserver-undertow@2.0.9
+- pkg:maven/be.yildiz-games/module-webserver-undertow@2.0.9?classifier=sources

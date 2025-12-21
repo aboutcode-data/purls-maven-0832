@@ -1,0 +1,1 @@
+- pkg:maven/io.github.0kt12/gradle-sonatype-upload@0.0.1?classifier=sources

@@ -98,3 +98,4 @@
 - pkg:maven/com.imsweb/layout@5.7?classifier=sources
 - pkg:maven/com.imsweb/layout@6.0?classifier=sources
 - pkg:maven/com.imsweb/layout@6.1?classifier=sources
+- pkg:maven/com.imsweb/layout@6.2?classifier=sources

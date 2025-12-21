@@ -1,0 +1,2 @@
+- pkg:maven/com.njalabs.utils/nja-json@0.1.0-alpha.1?classifier=sources
+- pkg:maven/com.njalabs.utils/nja-json@0.1.0-alpha.4?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.neo4j.gds/node-embeddings-params@2.13.1?classifier=sources
 - pkg:maven/org.neo4j.gds/node-embeddings-params@2.13.2?classifier=sources
 - pkg:maven/org.neo4j.gds/node-embeddings-params@2.14.0?classifier=sources
+- pkg:maven/org.neo4j.gds/node-embeddings-params@2.15.0?classifier=sources

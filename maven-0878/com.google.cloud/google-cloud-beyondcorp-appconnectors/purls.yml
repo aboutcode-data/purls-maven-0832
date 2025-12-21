@@ -92,6 +92,12 @@
 - pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.53.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.54.0
 - pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.54.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.55.0
+- pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.55.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.56.0
+- pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.56.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.57.0
+- pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.57.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.6.0
 - pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-beyondcorp-appconnectors@0.7.0

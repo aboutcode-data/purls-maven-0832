@@ -42,3 +42,7 @@
 - pkg:maven/io.spinnaker.gate/gate-web@6.64.1?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-web@6.65.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-web@6.66.0?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-web@6.66.1?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-web@6.66.2?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-web@6.66.3?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-web@6.66.4?classifier=sources

@@ -5,3 +5,6 @@
 - pkg:maven/io.embrace/embrace-android-api@6.12.2?classifier=sources
 - pkg:maven/io.embrace/embrace-android-api@6.13.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-api@6.14.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-api@7.0.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-api@7.1.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-api@7.2.0?classifier=sources

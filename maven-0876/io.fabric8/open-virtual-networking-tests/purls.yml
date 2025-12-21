@@ -6,3 +6,4 @@
 - pkg:maven/io.fabric8/open-virtual-networking-tests@6.13.2
 - pkg:maven/io.fabric8/open-virtual-networking-tests@6.13.3
 - pkg:maven/io.fabric8/open-virtual-networking-tests@6.13.4
+- pkg:maven/io.fabric8/open-virtual-networking-tests@6.13.5

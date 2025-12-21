@@ -4,9 +4,13 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-filters@8.0.29?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-filters@8.0.30?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-filters@8.0.30?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-filters@8.0.31?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-filters@8.0.31?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.17?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.17?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.18?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.18?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.19?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.19?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.20?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-filters@9.0.20?type=war

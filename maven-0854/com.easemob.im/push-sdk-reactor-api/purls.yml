@@ -22,3 +22,5 @@
 - pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.4.1
 - pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.4.1?classifier=sources
 - pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.4?classifier=sources
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.5
+- pkg:maven/com.easemob.im/push-sdk-reactor-api@0.1.5?classifier=sources

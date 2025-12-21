@@ -1,2 +1,4 @@
 - pkg:maven/io.github.mores/java-shopify-graphql-admin@2024.10.001
 - pkg:maven/io.github.mores/java-shopify-graphql-admin@2024.10.001?classifier=sources
+- pkg:maven/io.github.mores/java-shopify-graphql-admin@2025.01.001
+- pkg:maven/io.github.mores/java-shopify-graphql-admin@2025.01.001?classifier=sources

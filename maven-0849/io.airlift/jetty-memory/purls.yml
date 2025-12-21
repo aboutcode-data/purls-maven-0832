@@ -1,0 +1,5 @@
+- pkg:maven/io.airlift/jetty-memory@309?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@310?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@311?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@312?classifier=sources
+- pkg:maven/io.airlift/jetty-memory@313?classifier=sources

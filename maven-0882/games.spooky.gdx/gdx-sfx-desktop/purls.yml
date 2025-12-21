@@ -1,2 +1,3 @@
 - pkg:maven/games.spooky.gdx/gdx-sfx-desktop@2.1.1?classifier=sources
 - pkg:maven/games.spooky.gdx/gdx-sfx-desktop@3.0.0?classifier=sources
+- pkg:maven/games.spooky.gdx/gdx-sfx-desktop@3.1.0?classifier=sources

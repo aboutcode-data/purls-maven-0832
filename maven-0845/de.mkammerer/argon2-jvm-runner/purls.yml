@@ -1,3 +1,4 @@
 - pkg:maven/de.mkammerer/argon2-jvm-runner@2.10.1?classifier=sources
 - pkg:maven/de.mkammerer/argon2-jvm-runner@2.10?classifier=sources
 - pkg:maven/de.mkammerer/argon2-jvm-runner@2.11?classifier=sources
+- pkg:maven/de.mkammerer/argon2-jvm-runner@2.12?classifier=sources

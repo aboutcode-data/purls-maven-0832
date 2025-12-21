@@ -54,6 +54,8 @@
 - pkg:maven/io.kestra/jdbc@0.15.32?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.15.33?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.15.34?classifier=sources
+- pkg:maven/io.kestra/jdbc@0.15.35?classifier=sources
+- pkg:maven/io.kestra/jdbc@0.15.36?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.15.3?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.15.4?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.15.5?classifier=sources
@@ -134,6 +136,7 @@
 - pkg:maven/io.kestra/jdbc@0.19.18?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.19.19?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.19.1?classifier=sources
+- pkg:maven/io.kestra/jdbc@0.19.20?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.19.2?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.19.3?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.19.4?classifier=sources
@@ -150,6 +153,8 @@
 - pkg:maven/io.kestra/jdbc@0.20.14?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.20.15?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.20.16?classifier=sources
+- pkg:maven/io.kestra/jdbc@0.20.17?classifier=sources
+- pkg:maven/io.kestra/jdbc@0.20.18?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.20.1?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.20.2?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.20.3?classifier=sources
@@ -163,6 +168,8 @@
 - pkg:maven/io.kestra/jdbc@0.21.1?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.21.2?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.21.3?classifier=sources
+- pkg:maven/io.kestra/jdbc@0.21.4?classifier=sources
+- pkg:maven/io.kestra/jdbc@0.21.5?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.5.0-BETA?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.5.0?classifier=sources
 - pkg:maven/io.kestra/jdbc@0.5.1?classifier=sources

@@ -24,6 +24,10 @@
 - pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.19?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.20
 - pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.20?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.21
+- pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.21?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.22
+- pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.22?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.5
 - pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.5?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/foundation-types@0.40.6

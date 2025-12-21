@@ -22,3 +22,4 @@
 - pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-test-framework@4.0.2
 - pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-test-framework@4.0.2?classifier=sources
 - pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-test-framework@4.0.3?classifier=sources
+- pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-test-framework@4.1.0?classifier=sources

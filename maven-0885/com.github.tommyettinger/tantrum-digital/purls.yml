@@ -9,3 +9,5 @@
 - pkg:maven/com.github.tommyettinger/tantrum-digital@0.5.3.5?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-digital@0.5.4.6?classifier=sources
 - pkg:maven/com.github.tommyettinger/tantrum-digital@0.6.0.6?classifier=sources
+- pkg:maven/com.github.tommyettinger/tantrum-digital@0.6.1.6?classifier=sources
+- pkg:maven/com.github.tommyettinger/tantrum-digital@0.6.1.7?classifier=sources

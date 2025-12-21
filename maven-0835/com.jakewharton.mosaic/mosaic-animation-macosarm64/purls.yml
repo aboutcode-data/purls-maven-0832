@@ -1,1 +1,2 @@
 - pkg:maven/com.jakewharton.mosaic/mosaic-animation-macosarm64@0.15.0?classifier=sources
+- pkg:maven/com.jakewharton.mosaic/mosaic-animation-macosarm64@0.16.0?classifier=sources

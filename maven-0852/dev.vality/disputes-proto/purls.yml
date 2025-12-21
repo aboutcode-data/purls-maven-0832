@@ -34,3 +34,11 @@
 - pkg:maven/dev.vality/disputes-proto@1.38-8d4b4a5?classifier=sources
 - pkg:maven/dev.vality/disputes-proto@1.39-6a37bd9
 - pkg:maven/dev.vality/disputes-proto@1.39-6a37bd9?classifier=sources
+- pkg:maven/dev.vality/disputes-proto@1.40-530bfeb
+- pkg:maven/dev.vality/disputes-proto@1.40-530bfeb?classifier=sources
+- pkg:maven/dev.vality/disputes-proto@1.42-09fc0fe
+- pkg:maven/dev.vality/disputes-proto@1.42-09fc0fe?classifier=sources
+- pkg:maven/dev.vality/disputes-proto@1.43-a3f3f4c
+- pkg:maven/dev.vality/disputes-proto@1.43-a3f3f4c?classifier=sources
+- pkg:maven/dev.vality/disputes-proto@1.44-d99340e
+- pkg:maven/dev.vality/disputes-proto@1.44-d99340e?classifier=sources

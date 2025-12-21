@@ -3,6 +3,7 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/file@0.1.0-RC12?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/file@0.1.0-RC13?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/file@0.1.0-RC14?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.secrets/file@0.1.0-RC15?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/file@0.1.0-RC1?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/file@0.1.0-RC2?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/file@0.1.0-RC3?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.10.0
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.10.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-cli@4.10.1
+- pkg:maven/org.apache.camel/camel-test-infra-cli@4.10.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.4.0
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.4.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.4.1
@@ -26,5 +28,9 @@
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.8.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.8.3
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.8.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-cli@4.8.4
+- pkg:maven/org.apache.camel/camel-test-infra-cli@4.8.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-cli@4.8.5
+- pkg:maven/org.apache.camel/camel-test-infra-cli@4.8.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.9.0
 - pkg:maven/org.apache.camel/camel-test-infra-cli@4.9.0?classifier=sources

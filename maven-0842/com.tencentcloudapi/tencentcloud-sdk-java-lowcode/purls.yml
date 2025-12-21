@@ -1,3 +1,5 @@
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lowcode@3.1.1207
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lowcode@3.1.1207?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lowcode@3.1.444
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lowcode@3.1.444?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lowcode@3.1.445

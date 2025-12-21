@@ -1,0 +1,4 @@
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-androidx@9.373.02192?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-androidx@9.373.02192?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-androidx@9.373.02193?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-androidx@9.373.02193?type=aar

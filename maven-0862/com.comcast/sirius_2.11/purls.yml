@@ -4,3 +4,9 @@
 - pkg:maven/com.comcast/sirius_2.11@2.2.0?classifier=sources
 - pkg:maven/com.comcast/sirius_2.11@2.2.1
 - pkg:maven/com.comcast/sirius_2.11@2.2.1?classifier=sources
+- pkg:maven/com.comcast/sirius_2.11@2.5.0
+- pkg:maven/com.comcast/sirius_2.11@2.5.0?classifier=sources
+- pkg:maven/com.comcast/sirius_2.11@2.5.1
+- pkg:maven/com.comcast/sirius_2.11@2.5.1?classifier=sources
+- pkg:maven/com.comcast/sirius_2.11@2.5.2
+- pkg:maven/com.comcast/sirius_2.11@2.5.2?classifier=sources

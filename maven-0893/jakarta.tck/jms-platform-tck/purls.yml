@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.tck/jms-platform-tck@11.0.0-M14
+- pkg:maven/jakarta.tck/jms-platform-tck@11.0.0-M14?classifier=sources

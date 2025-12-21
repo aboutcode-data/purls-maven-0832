@@ -21,3 +21,5 @@
 - pkg:maven/de.c-otto/java-conventions@2024.02.13?classifier=sources
 - pkg:maven/de.c-otto/java-conventions@2024.02.13_2?classifier=sources
 - pkg:maven/de.c-otto/java-conventions@2024.06.07?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2025.02.08?classifier=sources
+- pkg:maven/de.c-otto/java-conventions@2025.02.16?classifier=sources

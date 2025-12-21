@@ -1,2 +1,4 @@
 - pkg:maven/com.mdsol/mauth-sender-sttp-http4s-http_2.12@18.0.0
 - pkg:maven/com.mdsol/mauth-sender-sttp-http4s-http_2.12@18.0.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-sender-sttp-http4s-http_2.12@18.1.0
+- pkg:maven/com.mdsol/mauth-sender-sttp-http4s-http_2.12@18.1.0?classifier=sources

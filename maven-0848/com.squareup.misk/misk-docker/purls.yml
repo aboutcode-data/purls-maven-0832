@@ -1,0 +1,8 @@
+- pkg:maven/com.squareup.misk/misk-docker@2025.03.06.160140-7bca413?classifier=sources
+- pkg:maven/com.squareup.misk/misk-docker@2025.03.07.034245-87257e4?classifier=sources
+- pkg:maven/com.squareup.misk/misk-docker@2025.03.07.050352-9fc23f7?classifier=sources
+- pkg:maven/com.squareup.misk/misk-docker@2025.03.07.151417-f5b7317?classifier=sources
+- pkg:maven/com.squareup.misk/misk-docker@2025.03.07.152727-5eb2c85?classifier=sources
+- pkg:maven/com.squareup.misk/misk-docker@2025.03.07.185615-8827216?classifier=sources
+- pkg:maven/com.squareup.misk/misk-docker@2025.03.07.190552-4b62959?classifier=sources
+- pkg:maven/com.squareup.misk/misk-docker@2025.03.09.155609-976c894?classifier=sources

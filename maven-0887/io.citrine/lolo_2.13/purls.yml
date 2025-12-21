@@ -50,3 +50,7 @@
 - pkg:maven/io.citrine/lolo_2.13@6.5.0?classifier=sources
 - pkg:maven/io.citrine/lolo_2.13@6.6.0
 - pkg:maven/io.citrine/lolo_2.13@6.6.0?classifier=sources
+- pkg:maven/io.citrine/lolo_2.13@6.6.1
+- pkg:maven/io.citrine/lolo_2.13@6.6.1?classifier=sources
+- pkg:maven/io.citrine/lolo_2.13@6.6.2
+- pkg:maven/io.citrine/lolo_2.13@6.6.2?classifier=sources

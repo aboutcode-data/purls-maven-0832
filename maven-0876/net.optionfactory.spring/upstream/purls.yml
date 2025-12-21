@@ -101,6 +101,8 @@
 - pkg:maven/net.optionfactory.spring/upstream@21.11?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@21.12
 - pkg:maven/net.optionfactory.spring/upstream@21.12?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream@21.13
+- pkg:maven/net.optionfactory.spring/upstream@21.13?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@21.1?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream@21.2
 - pkg:maven/net.optionfactory.spring/upstream@21.2?classifier=sources

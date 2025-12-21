@@ -1,5 +1,8 @@
 - pkg:maven/com.seanproctor/data-table-jvm@0.10.0?classifier=sources
 - pkg:maven/com.seanproctor/data-table-jvm@0.10.1?classifier=sources
+- pkg:maven/com.seanproctor/data-table-jvm@0.11.0?classifier=sources
+- pkg:maven/com.seanproctor/data-table-jvm@0.11.2?classifier=sources
+- pkg:maven/com.seanproctor/data-table-jvm@0.11.3?classifier=sources
 - pkg:maven/com.seanproctor/data-table-jvm@0.6.0?classifier=sources
 - pkg:maven/com.seanproctor/data-table-jvm@0.7.0?classifier=sources
 - pkg:maven/com.seanproctor/data-table-jvm@0.7.1?classifier=sources

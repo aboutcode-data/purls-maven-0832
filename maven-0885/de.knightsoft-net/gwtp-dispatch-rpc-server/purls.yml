@@ -1,0 +1,2 @@
+- pkg:maven/de.knightsoft-net/gwtp-dispatch-rpc-server@1.7
+- pkg:maven/de.knightsoft-net/gwtp-dispatch-rpc-server@1.7?classifier=sources

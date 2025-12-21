@@ -282,3 +282,5 @@
 - pkg:maven/com.google.api-ads/ads-lib@5.6.0?classifier=sources
 - pkg:maven/com.google.api-ads/ads-lib@5.7.0
 - pkg:maven/com.google.api-ads/ads-lib@5.7.0?classifier=sources
+- pkg:maven/com.google.api-ads/ads-lib@5.8.0
+- pkg:maven/com.google.api-ads/ads-lib@5.8.0?classifier=sources

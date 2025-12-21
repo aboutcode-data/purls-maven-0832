@@ -1,2 +1,5 @@
 - pkg:maven/com.xemantic.ai/anthropic-sdk-kotlin-watchosx64@0.12?classifier=sources
 - pkg:maven/com.xemantic.ai/anthropic-sdk-kotlin-watchosx64@0.13?classifier=sources
+- pkg:maven/com.xemantic.ai/anthropic-sdk-kotlin-watchosx64@0.15?classifier=sources
+- pkg:maven/com.xemantic.ai/anthropic-sdk-kotlin-watchosx64@0.17.0?classifier=sources
+- pkg:maven/com.xemantic.ai/anthropic-sdk-kotlin-watchosx64@0.17.1?classifier=sources

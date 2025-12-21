@@ -1,2 +1,6 @@
+- pkg:maven/com.github.likavn/eventbus-spring-boot3-starter@2.5.0
 - pkg:maven/com.github.likavn/eventbus-spring-boot3-starter@2.5.0-RC3
 - pkg:maven/com.github.likavn/eventbus-spring-boot3-starter@2.5.0-RC3?classifier=sources
+- pkg:maven/com.github.likavn/eventbus-spring-boot3-starter@2.5.0?classifier=sources
+- pkg:maven/com.github.likavn/eventbus-spring-boot3-starter@2.5.1
+- pkg:maven/com.github.likavn/eventbus-spring-boot3-starter@2.5.1?classifier=sources

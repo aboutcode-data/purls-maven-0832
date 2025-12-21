@@ -24,3 +24,4 @@
 - pkg:maven/com.ashampoo/xmpcore-macosarm64@1.4.2?classifier=sources
 - pkg:maven/com.ashampoo/xmpcore-macosarm64@1.4.3?classifier=sources
 - pkg:maven/com.ashampoo/xmpcore-macosarm64@1.5.0?classifier=sources
+- pkg:maven/com.ashampoo/xmpcore-macosarm64@1.5.1?classifier=sources

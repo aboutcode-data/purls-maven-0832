@@ -1,1 +1,2 @@
 - pkg:maven/com.michaeltroger/latin-to-cyrillic@1.0.0?classifier=sources
+- pkg:maven/com.michaeltroger/latin-to-cyrillic@2.0.0?classifier=sources

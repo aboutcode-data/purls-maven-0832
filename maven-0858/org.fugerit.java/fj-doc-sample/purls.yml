@@ -474,6 +474,8 @@
 - pkg:maven/org.fugerit.java/fj-doc-sample@8.12.0?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-sample@8.12.1
 - pkg:maven/org.fugerit.java/fj-doc-sample@8.12.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-sample@8.12.2
+- pkg:maven/org.fugerit.java/fj-doc-sample@8.12.2?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-sample@8.4.6
 - pkg:maven/org.fugerit.java/fj-doc-sample@8.4.6?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-sample@8.5.0

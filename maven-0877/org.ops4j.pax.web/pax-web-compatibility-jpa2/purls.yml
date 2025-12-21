@@ -22,6 +22,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@8.0.29
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@8.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@8.0.30
+- pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@8.0.31
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@8.0.4
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@8.0.5
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@8.0.6
@@ -41,6 +42,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@9.0.18
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@9.0.19
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@9.0.2
+- pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@9.0.20
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@9.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@9.0.4
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-jpa2@9.0.5

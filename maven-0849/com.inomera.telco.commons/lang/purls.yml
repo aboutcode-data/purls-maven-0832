@@ -1,2 +1,4 @@
 - pkg:maven/com.inomera.telco.commons/lang@1.1.1?classifier=sources
 - pkg:maven/com.inomera.telco.commons/lang@2.0.2?classifier=sources
+- pkg:maven/com.inomera.telco.commons/lang@3.0.0?classifier=sources
+- pkg:maven/com.inomera.telco.commons/lang@3.1.0?classifier=sources

@@ -33,6 +33,7 @@
 - pkg:maven/com.weclassroom.liveui/liveui@0.5.19.ef?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.5.1?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.5.2.yach?classifier=sources
+- pkg:maven/com.weclassroom.liveui/liveui@0.5.20.ef?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.5.2?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.5.3.yach?classifier=sources
 - pkg:maven/com.weclassroom.liveui/liveui@0.5.3?classifier=sources

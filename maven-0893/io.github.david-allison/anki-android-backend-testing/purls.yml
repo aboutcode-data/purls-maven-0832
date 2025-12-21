@@ -19,3 +19,6 @@
 - pkg:maven/io.github.david-allison/anki-android-backend-testing@0.1.47-anki24.11rc2?classifier=sources
 - pkg:maven/io.github.david-allison/anki-android-backend-testing@0.1.48-anki24.11?classifier=sources
 - pkg:maven/io.github.david-allison/anki-android-backend-testing@0.1.48-anki25.01beta1?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend-testing@0.1.49-anki25.01rc1?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend-testing@0.1.50-anki25.02?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend-testing@0.1.51-anki25.02?classifier=sources

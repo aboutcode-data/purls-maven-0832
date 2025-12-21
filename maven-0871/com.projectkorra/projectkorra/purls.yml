@@ -1,0 +1,2 @@
+- pkg:maven/com.projectkorra/projectkorra@1.12.0-PRE-RELEASE-1
+- pkg:maven/com.projectkorra/projectkorra@1.12.0-PRE-RELEASE-1?classifier=sources
