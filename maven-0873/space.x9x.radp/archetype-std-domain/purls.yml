@@ -1,3 +1,5 @@
 - pkg:maven/space.x9x.radp/archetype-std-domain@2.20.2?classifier=sources
+- pkg:maven/space.x9x.radp/archetype-std-domain@2.21?classifier=sources
 - pkg:maven/space.x9x.radp/archetype-std-domain@3.20.1?classifier=sources
 - pkg:maven/space.x9x.radp/archetype-std-domain@3.20.2?classifier=sources
+- pkg:maven/space.x9x.radp/archetype-std-domain@3.21?classifier=sources

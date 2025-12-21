@@ -4,6 +4,16 @@
 - pkg:maven/dev.ikm.tinkar/collection@1.101.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/collection@1.102.0
 - pkg:maven/dev.ikm.tinkar/collection@1.102.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/collection@1.103.0
+- pkg:maven/dev.ikm.tinkar/collection@1.103.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/collection@1.104.0
+- pkg:maven/dev.ikm.tinkar/collection@1.104.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/collection@1.105.0
+- pkg:maven/dev.ikm.tinkar/collection@1.105.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/collection@1.106.0
+- pkg:maven/dev.ikm.tinkar/collection@1.106.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/collection@1.107.0
+- pkg:maven/dev.ikm.tinkar/collection@1.107.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/collection@1.26.0
 - pkg:maven/dev.ikm.tinkar/collection@1.26.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/collection@1.34.0

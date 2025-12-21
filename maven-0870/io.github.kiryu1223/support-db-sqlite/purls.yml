@@ -1,0 +1,6 @@
+- pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.15
+- pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.15?classifier=sources
+- pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.16
+- pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.16?classifier=sources
+- pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.17
+- pkg:maven/io.github.kiryu1223/support-db-sqlite@1.0.17?classifier=sources

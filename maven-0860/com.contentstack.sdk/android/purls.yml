@@ -36,3 +36,4 @@
 - pkg:maven/com.contentstack.sdk/android@3.9.0?classifier=sources
 - pkg:maven/com.contentstack.sdk/android@3.9.0?type=aar
 - pkg:maven/com.contentstack.sdk/android@4.0.0?classifier=sources
+- pkg:maven/com.contentstack.sdk/android@4.0.1?classifier=sources

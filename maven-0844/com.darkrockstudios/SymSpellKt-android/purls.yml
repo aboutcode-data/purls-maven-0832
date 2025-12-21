@@ -10,3 +10,4 @@
 - pkg:maven/com.darkrockstudios/SymSpellKt-android@3.3.0?classifier=sources
 - pkg:maven/com.darkrockstudios/SymSpellKt-android@3.3.1?classifier=sources
 - pkg:maven/com.darkrockstudios/SymSpellKt-android@3.3.3?classifier=sources
+- pkg:maven/com.darkrockstudios/SymSpellKt-android@3.4.0?classifier=sources

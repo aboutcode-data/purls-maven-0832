@@ -1,0 +1,4 @@
+- pkg:maven/com.dilivva.blueline/basic-builder-iosx64@2.0.0?classifier=sources
+- pkg:maven/com.dilivva.blueline/basic-builder-iosx64@2.0.1?classifier=sources
+- pkg:maven/com.dilivva.blueline/basic-builder-iosx64@unspecified?classifier=sources
+- pkg:maven/com.dilivva.blueline/basic-builder-iosx64@v2.0.1?classifier=sources

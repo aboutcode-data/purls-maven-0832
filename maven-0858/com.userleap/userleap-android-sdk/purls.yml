@@ -22,3 +22,5 @@
 - pkg:maven/com.userleap/userleap-android-sdk@2.17.6?classifier=sources
 - pkg:maven/com.userleap/userleap-android-sdk@2.17.7?classifier=sources
 - pkg:maven/com.userleap/userleap-android-sdk@2.17.8?classifier=sources
+- pkg:maven/com.userleap/userleap-android-sdk@2.18.0?classifier=sources
+- pkg:maven/com.userleap/userleap-android-sdk@2.18.1?classifier=sources

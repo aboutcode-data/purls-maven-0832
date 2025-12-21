@@ -1,1 +1,5 @@
+- pkg:maven/org.mvnpm/jstransform@11.0.3
+- pkg:maven/org.mvnpm/jstransform@11.0.3?classifier=sources
+- pkg:maven/org.mvnpm/jstransform@6.1.0
+- pkg:maven/org.mvnpm/jstransform@6.1.0?classifier=sources
 - pkg:maven/org.mvnpm/jstransform@7.0.0?classifier=sources

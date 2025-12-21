@@ -4,3 +4,5 @@
 - pkg:maven/com.alibaba/qlexpress4@4.0.0-beta.6?classifier=sources
 - pkg:maven/com.alibaba/qlexpress4@4.0.0-beta.7
 - pkg:maven/com.alibaba/qlexpress4@4.0.0-beta.7?classifier=sources
+- pkg:maven/com.alibaba/qlexpress4@4.0.0-beta.8
+- pkg:maven/com.alibaba/qlexpress4@4.0.0-beta.8?classifier=sources

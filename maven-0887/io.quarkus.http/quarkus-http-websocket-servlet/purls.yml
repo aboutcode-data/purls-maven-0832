@@ -68,3 +68,4 @@
 - pkg:maven/io.quarkus.http/quarkus-http-websocket-servlet@5.3.3?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-websocket-servlet@5.3.4
 - pkg:maven/io.quarkus.http/quarkus-http-websocket-servlet@5.3.4?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-websocket-servlet@5.3.5?classifier=sources

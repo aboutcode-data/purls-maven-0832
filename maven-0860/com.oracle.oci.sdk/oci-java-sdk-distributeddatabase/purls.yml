@@ -1,0 +1,8 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-distributeddatabase@3.65.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-distributeddatabase@3.65.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-distributeddatabase@3.66.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-distributeddatabase@3.66.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-distributeddatabase@3.67.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-distributeddatabase@3.67.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-distributeddatabase@3.67.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-distributeddatabase@3.67.1?classifier=sources

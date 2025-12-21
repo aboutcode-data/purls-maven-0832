@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/weaver-core_3@0.9.0
+- pkg:maven/org.typelevel/weaver-core_3@0.9.0?classifier=sources

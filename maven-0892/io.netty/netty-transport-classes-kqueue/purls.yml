@@ -42,6 +42,7 @@
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.120.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.121.Final
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.121.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.122.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.70.Final
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.70.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.1.71.Final
@@ -126,3 +127,4 @@
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.2.0.RC4?classifier=sources
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.2.1.Final
 - pkg:maven/io.netty/netty-transport-classes-kqueue@4.2.1.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-classes-kqueue@4.2.2.Final?classifier=sources

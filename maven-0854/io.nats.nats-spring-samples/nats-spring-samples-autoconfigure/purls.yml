@@ -16,3 +16,4 @@
 - pkg:maven/io.nats.nats-spring-samples/nats-spring-samples-autoconfigure@0.6.0-3.1?classifier=sources
 - pkg:maven/io.nats.nats-spring-samples/nats-spring-samples-autoconfigure@0.6.1%2B3.1
 - pkg:maven/io.nats.nats-spring-samples/nats-spring-samples-autoconfigure@0.6.1%2B3.1?classifier=sources
+- pkg:maven/io.nats.nats-spring-samples/nats-spring-samples-autoconfigure@0.6.2%2B3.5?classifier=sources

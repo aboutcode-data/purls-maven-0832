@@ -112,6 +112,8 @@
 - pkg:maven/org.flywaydb/flyway-database-oracle@11.8.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-oracle@11.8.2
 - pkg:maven/org.flywaydb/flyway-database-oracle@11.8.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-oracle@11.9.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-oracle@11.9.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-oracle@9.19.0
 - pkg:maven/org.flywaydb/flyway-database-oracle@9.19.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-oracle@9.19.1

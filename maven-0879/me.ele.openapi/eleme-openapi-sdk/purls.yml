@@ -281,6 +281,8 @@
 - pkg:maven/me.ele.openapi/eleme-openapi-sdk@1.30.82?classifier=sources
 - pkg:maven/me.ele.openapi/eleme-openapi-sdk@1.30.83
 - pkg:maven/me.ele.openapi/eleme-openapi-sdk@1.30.83?classifier=sources
+- pkg:maven/me.ele.openapi/eleme-openapi-sdk@1.30.85
+- pkg:maven/me.ele.openapi/eleme-openapi-sdk@1.30.85?classifier=sources
 - pkg:maven/me.ele.openapi/eleme-openapi-sdk@1.30.8?classifier=sources
 - pkg:maven/me.ele.openapi/eleme-openapi-sdk@1.30.9
 - pkg:maven/me.ele.openapi/eleme-openapi-sdk@1.30.9?classifier=sources

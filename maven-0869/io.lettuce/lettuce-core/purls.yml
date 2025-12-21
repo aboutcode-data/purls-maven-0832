@@ -168,3 +168,7 @@
 - pkg:maven/io.lettuce/lettuce-core@6.6.0.BETA4?classifier=sources
 - pkg:maven/io.lettuce/lettuce-core@6.6.0.RELEASE
 - pkg:maven/io.lettuce/lettuce-core@6.6.0.RELEASE?classifier=sources
+- pkg:maven/io.lettuce/lettuce-core@6.7.0.RELEASE
+- pkg:maven/io.lettuce/lettuce-core@6.7.0.RELEASE?classifier=sources
+- pkg:maven/io.lettuce/lettuce-core@6.7.1.RELEASE
+- pkg:maven/io.lettuce/lettuce-core@6.7.1.RELEASE?classifier=sources

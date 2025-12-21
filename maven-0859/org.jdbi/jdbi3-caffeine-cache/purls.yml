@@ -71,3 +71,4 @@
 - pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.49.3
 - pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.49.3?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.49.4?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-caffeine-cache@3.49.5?classifier=sources

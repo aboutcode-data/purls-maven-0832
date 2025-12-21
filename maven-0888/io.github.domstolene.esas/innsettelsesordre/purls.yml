@@ -17,6 +17,8 @@
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@03102024.42cf288
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@04032025.307aacf
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@04042025.ffb6808
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@04062025.2b58a58
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@04062025.4ae7fab
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@04072024.3e4ba11
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@04092023.7d74078
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@04102023.ebf9459
@@ -76,6 +78,8 @@
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@10082023.eaebf9f
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@11032024.5e6618d
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@11032025.7660e4a
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@11062025.3e935d2
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@11062025.be857af
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@11082023.428b5d4
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@11092024.006eaf7
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@11092024.15fecc6
@@ -85,6 +89,11 @@
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@11112024.af01eb6
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@11122024.cb3a97b
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@12022024.7cee216
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@12062025.01182ab
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@12062025.10b9038
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@12062025.19e01a4
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@12062025.35eb7da
+- pkg:maven/io.github.domstolene.esas/innsettelsesordre@12062025.570310e
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@12082024.bb73262
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@12102023.c90582a
 - pkg:maven/io.github.domstolene.esas/innsettelsesordre@12122023.262f23b

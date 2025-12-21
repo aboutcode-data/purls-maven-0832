@@ -1,0 +1,2 @@
+- pkg:maven/com.alcosi/alcosi-template-service-communication@2.00-RELEASE
+- pkg:maven/com.alcosi/alcosi-template-service-communication@2.00-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.felte/core@1.4.4
+- pkg:maven/org.mvnpm.at.felte/core@1.4.4?classifier=sources

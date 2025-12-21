@@ -4,3 +4,9 @@
 - pkg:maven/com.google.cloud/google-cloud-datastore-utils@2.28.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datastore-utils@2.28.2
 - pkg:maven/com.google.cloud/google-cloud-datastore-utils@2.28.2?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastore-utils@2.29.0
+- pkg:maven/com.google.cloud/google-cloud-datastore-utils@2.29.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastore-utils@2.29.1
+- pkg:maven/com.google.cloud/google-cloud-datastore-utils@2.29.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastore-utils@2.29.2
+- pkg:maven/com.google.cloud/google-cloud-datastore-utils@2.29.2?classifier=sources

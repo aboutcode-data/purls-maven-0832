@@ -15,6 +15,7 @@
 - pkg:maven/com.mobaijun/quartz-spring-boot-starter@3.0.18?classifier=sources
 - pkg:maven/com.mobaijun/quartz-spring-boot-starter@3.0.19?classifier=sources
 - pkg:maven/com.mobaijun/quartz-spring-boot-starter@3.0.20?classifier=sources
+- pkg:maven/com.mobaijun/quartz-spring-boot-starter@3.0.21?classifier=sources
 - pkg:maven/com.mobaijun/quartz-spring-boot-starter@3.0.4
 - pkg:maven/com.mobaijun/quartz-spring-boot-starter@3.0.4?classifier=sources
 - pkg:maven/com.mobaijun/quartz-spring-boot-starter@3.0.5

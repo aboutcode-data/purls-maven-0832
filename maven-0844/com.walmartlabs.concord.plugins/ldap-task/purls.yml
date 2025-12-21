@@ -74,3 +74,4 @@
 - pkg:maven/com.walmartlabs.concord.plugins/ldap-task@2.5.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/ldap-task@2.6.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/ldap-task@2.7.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/ldap-task@2.8.0?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/com.yodo1.plugin.4399/4399-gdt-ad@4.542.1412?classifier=sources
+- pkg:maven/com.yodo1.plugin.4399/4399-gdt-ad@4.620.1490?classifier=sources
+- pkg:maven/com.yodo1.plugin.4399/4399-gdt-ad@4.640.1510?classifier=sources

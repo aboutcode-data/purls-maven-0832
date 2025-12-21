@@ -1,0 +1,2 @@
+- pkg:maven/io.github.uniclog/config-validator-maven-plugin@1.0
+- pkg:maven/io.github.uniclog/config-validator-maven-plugin@1.0?classifier=sources

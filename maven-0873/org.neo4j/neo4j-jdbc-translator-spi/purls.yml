@@ -38,3 +38,4 @@
 - pkg:maven/org.neo4j/neo4j-jdbc-translator-spi@6.4.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-translator-spi@6.4.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-translator-spi@6.5.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc-translator-spi@6.5.1?classifier=sources

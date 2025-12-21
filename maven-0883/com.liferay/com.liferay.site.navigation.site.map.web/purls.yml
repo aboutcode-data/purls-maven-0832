@@ -400,6 +400,7 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@6.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@6.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@6.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@6.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.site.map.web@6.0.4

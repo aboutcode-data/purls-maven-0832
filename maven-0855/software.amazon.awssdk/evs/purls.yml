@@ -1,0 +1,16 @@
+- pkg:maven/software.amazon.awssdk/evs@2.31.57
+- pkg:maven/software.amazon.awssdk/evs@2.31.57?classifier=sources
+- pkg:maven/software.amazon.awssdk/evs@2.31.58
+- pkg:maven/software.amazon.awssdk/evs@2.31.58?classifier=sources
+- pkg:maven/software.amazon.awssdk/evs@2.31.59
+- pkg:maven/software.amazon.awssdk/evs@2.31.59?classifier=sources
+- pkg:maven/software.amazon.awssdk/evs@2.31.60
+- pkg:maven/software.amazon.awssdk/evs@2.31.60?classifier=sources
+- pkg:maven/software.amazon.awssdk/evs@2.31.61
+- pkg:maven/software.amazon.awssdk/evs@2.31.61?classifier=sources
+- pkg:maven/software.amazon.awssdk/evs@2.31.62
+- pkg:maven/software.amazon.awssdk/evs@2.31.62?classifier=sources
+- pkg:maven/software.amazon.awssdk/evs@2.31.63
+- pkg:maven/software.amazon.awssdk/evs@2.31.63?classifier=sources
+- pkg:maven/software.amazon.awssdk/evs@2.31.64
+- pkg:maven/software.amazon.awssdk/evs@2.31.64?classifier=sources

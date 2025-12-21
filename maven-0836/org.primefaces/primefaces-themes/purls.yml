@@ -11,3 +11,4 @@
 - pkg:maven/org.primefaces/primefaces-themes@15.0.3?classifier=sources
 - pkg:maven/org.primefaces/primefaces-themes@15.0.4
 - pkg:maven/org.primefaces/primefaces-themes@15.0.4?classifier=sources
+- pkg:maven/org.primefaces/primefaces-themes@15.0.5?classifier=sources

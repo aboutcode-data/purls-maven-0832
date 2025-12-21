@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.patternfly/react-table@5.2.4?classifier=sources
 - pkg:maven/org.mvnpm.at.patternfly/react-table@5.4.8?classifier=sources
 - pkg:maven/org.mvnpm.at.patternfly/react-table@6.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.patternfly/react-table@6.2.2
+- pkg:maven/org.mvnpm.at.patternfly/react-table@6.2.2?classifier=sources

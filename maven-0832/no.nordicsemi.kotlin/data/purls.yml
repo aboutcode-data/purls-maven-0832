@@ -1,3 +1,4 @@
 - pkg:maven/no.nordicsemi.kotlin/data@0.1.0?classifier=sources
 - pkg:maven/no.nordicsemi.kotlin/data@0.2.0?classifier=sources
 - pkg:maven/no.nordicsemi.kotlin/data@0.3.0?classifier=sources
+- pkg:maven/no.nordicsemi.kotlin/data@0.4.0?classifier=sources

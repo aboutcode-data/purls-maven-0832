@@ -116,3 +116,5 @@
 - pkg:maven/io.shiftleft/overflowdb-formats_2.13@1.192?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-formats_2.13@1.193
 - pkg:maven/io.shiftleft/overflowdb-formats_2.13@1.193?classifier=sources
+- pkg:maven/io.shiftleft/overflowdb-formats_2.13@1.194
+- pkg:maven/io.shiftleft/overflowdb-formats_2.13@1.194?classifier=sources

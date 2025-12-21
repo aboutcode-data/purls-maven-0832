@@ -4,3 +4,5 @@
 - pkg:maven/org.nervos.ckb/light-client@2.1.1?classifier=sources
 - pkg:maven/org.nervos.ckb/light-client@3.0.0-alpha?classifier=sources
 - pkg:maven/org.nervos.ckb/light-client@3.0.1?classifier=sources
+- pkg:maven/org.nervos.ckb/light-client@4.0.0-alpha?classifier=sources
+- pkg:maven/org.nervos.ckb/light-client@4.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.kalin-rudnicki/oxygen-sql_3@0.0.10
+- pkg:maven/io.github.kalin-rudnicki/oxygen-sql_3@0.0.10?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/oxygen-sql_3@0.0.11
+- pkg:maven/io.github.kalin-rudnicki/oxygen-sql_3@0.0.11?classifier=sources

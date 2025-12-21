@@ -1,0 +1,1 @@
+- pkg:maven/org.grails.plugins/grails-cache-redis@6.0.0-RC1?classifier=sources

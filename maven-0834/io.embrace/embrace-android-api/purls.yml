@@ -10,3 +10,4 @@
 - pkg:maven/io.embrace/embrace-android-api@7.2.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-api@7.3.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-api@7.4.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-api@7.5.0?classifier=sources

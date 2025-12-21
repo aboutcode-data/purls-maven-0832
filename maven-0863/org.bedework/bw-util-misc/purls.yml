@@ -76,3 +76,4 @@
 - pkg:maven/org.bedework/bw-util-misc@5.0.8?classifier=sources
 - pkg:maven/org.bedework/bw-util-misc@5.0.9
 - pkg:maven/org.bedework/bw-util-misc@5.0.9?classifier=sources
+- pkg:maven/org.bedework/bw-util-misc@6.0.0?classifier=sources

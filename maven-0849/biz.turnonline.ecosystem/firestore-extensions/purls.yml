@@ -6,3 +6,5 @@
 - pkg:maven/biz.turnonline.ecosystem/firestore-extensions@1.2?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/firestore-extensions@1.3
 - pkg:maven/biz.turnonline.ecosystem/firestore-extensions@1.3?classifier=sources
+- pkg:maven/biz.turnonline.ecosystem/firestore-extensions@1.4
+- pkg:maven/biz.turnonline.ecosystem/firestore-extensions@1.4?classifier=sources

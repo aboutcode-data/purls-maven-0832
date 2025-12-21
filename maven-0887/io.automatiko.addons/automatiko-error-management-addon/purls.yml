@@ -42,3 +42,4 @@
 - pkg:maven/io.automatiko.addons/automatiko-error-management-addon@0.42.2?classifier=sources
 - pkg:maven/io.automatiko.addons/automatiko-error-management-addon@0.43.0
 - pkg:maven/io.automatiko.addons/automatiko-error-management-addon@0.43.0?classifier=sources
+- pkg:maven/io.automatiko.addons/automatiko-error-management-addon@0.44.0?classifier=sources

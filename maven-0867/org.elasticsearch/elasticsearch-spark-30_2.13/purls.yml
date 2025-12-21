@@ -89,10 +89,14 @@
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.17.5?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.17.6
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.17.6?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.17.7
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.17.7?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.18.0
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.18.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.18.1
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.18.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.18.2
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.18.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.2.0
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.2.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@8.2.1
@@ -155,3 +159,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@9.0.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@9.0.1
 - pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@9.0.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@9.0.2
+- pkg:maven/org.elasticsearch/elasticsearch-spark-30_2.13@9.0.2?classifier=sources

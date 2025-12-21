@@ -15,3 +15,5 @@
 - pkg:maven/com.helger.peppol/peppol-mls@10.4.2?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mls@10.4.3?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mls@10.5.0?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mls@10.5.1?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mls@11.0.0?classifier=sources

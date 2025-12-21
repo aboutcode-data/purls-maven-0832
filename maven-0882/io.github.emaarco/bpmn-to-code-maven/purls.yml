@@ -3,3 +3,4 @@
 - pkg:maven/io.github.emaarco/bpmn-to-code-maven@0.0.3-alpha?classifier=sources
 - pkg:maven/io.github.emaarco/bpmn-to-code-maven@0.0.4-alpha?classifier=sources
 - pkg:maven/io.github.emaarco/bpmn-to-code-maven@0.0.5-alpha?classifier=sources
+- pkg:maven/io.github.emaarco/bpmn-to-code-maven@0.0.6?classifier=sources

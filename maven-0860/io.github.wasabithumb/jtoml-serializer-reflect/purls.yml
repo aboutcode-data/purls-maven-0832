@@ -16,3 +16,9 @@
 - pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect@0.3.1?classifier=sources
 - pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect@0.4.0
 - pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect@0.4.0?classifier=sources
+- pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect@0.5.0
+- pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect@0.5.0?classifier=sources
+- pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect@0.6.0
+- pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect@0.6.0?classifier=sources
+- pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect@0.6.1
+- pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect@0.6.1?classifier=sources

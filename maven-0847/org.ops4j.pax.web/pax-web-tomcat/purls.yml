@@ -1,3 +1,5 @@
+- pkg:maven/org.ops4j.pax.web/pax-web-tomcat@10.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-tomcat@11.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@3.0.0
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@3.0.0.M1
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@3.0.0.M1?classifier=sources
@@ -347,6 +349,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@8.0.30?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@8.0.31
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@8.0.31?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-tomcat@8.0.32?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@8.0.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@8.0.4
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@8.0.4?classifier=sources
@@ -387,6 +390,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@9.0.2
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@9.0.20
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@9.0.20?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-tomcat@9.0.21?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@9.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@9.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat@9.0.3?classifier=sources

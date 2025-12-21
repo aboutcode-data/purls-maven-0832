@@ -2,3 +2,5 @@
 - pkg:maven/com.hivemq/hivemq-enterprise-security-extension-customization-sdk@4.37.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-enterprise-security-extension-customization-sdk@4.38.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-enterprise-security-extension-customization-sdk@4.39.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-enterprise-security-extension-customization-sdk@4.40.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-enterprise-security-extension-customization-sdk@4.40.1?classifier=sources

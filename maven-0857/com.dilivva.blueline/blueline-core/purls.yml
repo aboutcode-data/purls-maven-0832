@@ -1,0 +1,3 @@
+- pkg:maven/com.dilivva.blueline/blueline-core@2.0.1?classifier=sources
+- pkg:maven/com.dilivva.blueline/blueline-core@unspecified?classifier=sources
+- pkg:maven/com.dilivva.blueline/blueline-core@v2.0.1?classifier=sources

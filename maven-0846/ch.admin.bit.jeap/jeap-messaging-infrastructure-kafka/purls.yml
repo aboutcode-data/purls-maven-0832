@@ -28,3 +28,11 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.35.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.36.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.37.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.38.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.38.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.39.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.40.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.41.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.42.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.43.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-infrastructure-kafka@8.44.0?classifier=sources

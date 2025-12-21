@@ -8,3 +8,5 @@
 - pkg:maven/int.esa.ccsds.mo/simple-mo-provider@11.3?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/simple-mo-provider@12.0
 - pkg:maven/int.esa.ccsds.mo/simple-mo-provider@12.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/simple-mo-provider@12.1
+- pkg:maven/int.esa.ccsds.mo/simple-mo-provider@12.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.microsoft.azure.functions/azure-functions-java-opentelemetry@1.0.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.mvnpm.at.graphiql/toolkit@0.11.1?classifier=sources
 - pkg:maven/org.mvnpm.at.graphiql/toolkit@0.11.2
 - pkg:maven/org.mvnpm.at.graphiql/toolkit@0.11.2?classifier=sources
+- pkg:maven/org.mvnpm.at.graphiql/toolkit@0.11.3
+- pkg:maven/org.mvnpm.at.graphiql/toolkit@0.11.3?classifier=sources
 - pkg:maven/org.mvnpm.at.graphiql/toolkit@0.8.4?classifier=sources
 - pkg:maven/org.mvnpm.at.graphiql/toolkit@0.9.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.mvnpm.at.react-aria/ssr@3.9.4?classifier=sources
 - pkg:maven/org.mvnpm.at.react-aria/ssr@3.9.7?classifier=sources
 - pkg:maven/org.mvnpm.at.react-aria/ssr@3.9.8?classifier=sources
+- pkg:maven/org.mvnpm.at.react-aria/ssr@3.9.9
+- pkg:maven/org.mvnpm.at.react-aria/ssr@3.9.9?classifier=sources

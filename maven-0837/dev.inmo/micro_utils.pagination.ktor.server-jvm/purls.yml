@@ -170,6 +170,7 @@
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.25.3?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.25.4?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.25.5?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.25.7?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.4.24?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.4.25?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.server-jvm@0.4.26?classifier=sources

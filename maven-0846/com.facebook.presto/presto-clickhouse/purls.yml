@@ -27,3 +27,4 @@
 - pkg:maven/com.facebook.presto/presto-clickhouse@0.290?classifier=sources
 - pkg:maven/com.facebook.presto/presto-clickhouse@0.291?classifier=sources
 - pkg:maven/com.facebook.presto/presto-clickhouse@0.292?classifier=sources
+- pkg:maven/com.facebook.presto/presto-clickhouse@0.293?classifier=sources

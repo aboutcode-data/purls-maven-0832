@@ -134,3 +134,6 @@
 - pkg:maven/net.mingsoft/ms-mdiy@2.2.8
 - pkg:maven/net.mingsoft/ms-mdiy@2.2.8?classifier=sources
 - pkg:maven/net.mingsoft/ms-mdiy@2.2.9?classifier=sources
+- pkg:maven/net.mingsoft/ms-mdiy@3.0.0.1?classifier=sources
+- pkg:maven/net.mingsoft/ms-mdiy@3.0.0.3?classifier=sources
+- pkg:maven/net.mingsoft/ms-mdiy@3.0.0?classifier=sources

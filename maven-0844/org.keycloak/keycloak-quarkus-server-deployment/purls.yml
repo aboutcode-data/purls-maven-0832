@@ -164,3 +164,5 @@
 - pkg:maven/org.keycloak/keycloak-quarkus-server-deployment@26.2.3?classifier=sources
 - pkg:maven/org.keycloak/keycloak-quarkus-server-deployment@26.2.4
 - pkg:maven/org.keycloak/keycloak-quarkus-server-deployment@26.2.4?classifier=sources
+- pkg:maven/org.keycloak/keycloak-quarkus-server-deployment@26.2.5
+- pkg:maven/org.keycloak/keycloak-quarkus-server-deployment@26.2.5?classifier=sources

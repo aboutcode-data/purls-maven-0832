@@ -26,3 +26,5 @@
 - pkg:maven/com.getansa/sdk-ui-components-android@1.9.24-0.30.3?classifier=sources
 - pkg:maven/com.getansa/sdk-ui-components-android@1.9.24-0.30.4?classifier=sources
 - pkg:maven/com.getansa/sdk-ui-components-android@1.9.24-0.31.0?classifier=sources
+- pkg:maven/com.getansa/sdk-ui-components-android@1.9.24-0.31.5?classifier=sources
+- pkg:maven/com.getansa/sdk-ui-components-android@2.0.0-0.31.4?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.0-K2.0.0?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.0-K2.1.0?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.0-K2.1.21?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.0-K2.2.0-RC?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.1-K2.0.0?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.1-K2.1.0?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.1-K2.1.21?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.1-K2.2.0-RC?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.2-K2.0.0?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.2-K2.1.0?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.2-K2.1.21?classifier=sources
+- pkg:maven/de.infix.testBalloon/testBalloon-integration-blocking-detection-js@0.3.2-K2.2.0-RC?classifier=sources

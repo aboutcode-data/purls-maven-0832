@@ -10,3 +10,5 @@
 - pkg:maven/com.walmartlabs.concord.runtime.v1/concord-runtime-model-v1@1.39.3?classifier=sources
 - pkg:maven/com.walmartlabs.concord.runtime.v1/concord-runtime-model-v1@1.40.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.runtime.v1/concord-runtime-model-v1@1.41.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.runtime.v1/concord-runtime-model-v1@2.28.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.runtime.v1/concord-runtime-model-v1@2.29.0?classifier=sources

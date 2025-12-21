@@ -52,6 +52,8 @@
 - pkg:maven/org.opendaylight.yangtools/rfc6536-model-api@14.0.12
 - pkg:maven/org.opendaylight.yangtools/rfc6536-model-api@14.0.12?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc6536-model-api@14.0.13?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc6536-model-api@14.0.14
+- pkg:maven/org.opendaylight.yangtools/rfc6536-model-api@14.0.14?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc6536-model-api@14.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc6536-model-api@14.0.2
 - pkg:maven/org.opendaylight.yangtools/rfc6536-model-api@14.0.2?classifier=sources

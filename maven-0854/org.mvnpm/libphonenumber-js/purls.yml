@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm/libphonenumber-js@1.12.7?classifier=sources
 - pkg:maven/org.mvnpm/libphonenumber-js@1.12.8
 - pkg:maven/org.mvnpm/libphonenumber-js@1.12.8?classifier=sources
+- pkg:maven/org.mvnpm/libphonenumber-js@1.12.9
+- pkg:maven/org.mvnpm/libphonenumber-js@1.12.9?classifier=sources

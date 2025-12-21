@@ -20,8 +20,10 @@
 - pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.17.0?classifier=sources
 - pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.18.0
 - pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.18.0?classifier=sources
+- pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.19.0?classifier=sources
 - pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.2.0
 - pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.2.0?classifier=sources
+- pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.20.0?classifier=sources
 - pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.4.0
 - pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.4.0?classifier=sources
 - pkg:maven/com.farao-community.farao/cse-valid-adapter-app@1.5.0

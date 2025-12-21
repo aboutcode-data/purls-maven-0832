@@ -7,3 +7,4 @@
 - pkg:maven/org.antbiz.antbiz-framework/framework@0.1.6?classifier=sources
 - pkg:maven/org.antbiz.antbiz-framework/framework@0.1.7?classifier=sources
 - pkg:maven/org.antbiz.antbiz-framework/framework@0.2.0?classifier=sources
+- pkg:maven/org.antbiz.antbiz-framework/framework@0.2.1?classifier=sources

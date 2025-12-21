@@ -1,0 +1,5 @@
+- pkg:maven/io.github.cponfick/komp-geom@0.1.0-rc15?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom@0.1.0-rc16?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom@0.1.0-rc17?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom@0.1.0-rc18?classifier=sources
+- pkg:maven/io.github.cponfick/komp-geom@0.1.0-rc29?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/io.github.mictaege/jitter-api@2025.2-rc1?classifier=sources
 - pkg:maven/io.github.mictaege/jitter-api@2025.2-rc2?classifier=sources
 - pkg:maven/io.github.mictaege/jitter-api@2025.2-rc3?classifier=sources
+- pkg:maven/io.github.mictaege/jitter-api@2025.2?classifier=sources
+- pkg:maven/io.github.mictaege/jitter-api@2025.3-rc1?classifier=sources

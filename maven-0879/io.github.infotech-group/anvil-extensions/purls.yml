@@ -7,3 +7,4 @@
 - pkg:maven/io.github.infotech-group/anvil-extensions@1.1.7?classifier=sources
 - pkg:maven/io.github.infotech-group/anvil-extensions@1.1.8?classifier=sources
 - pkg:maven/io.github.infotech-group/anvil-extensions@1.2.8?classifier=sources
+- pkg:maven/io.github.infotech-group/anvil-extensions@1.2.9?classifier=sources

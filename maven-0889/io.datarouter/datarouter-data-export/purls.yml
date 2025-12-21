@@ -14,3 +14,5 @@
 - pkg:maven/io.datarouter/datarouter-data-export@0.0.125?classifier=sources
 - pkg:maven/io.datarouter/datarouter-data-export@0.0.126
 - pkg:maven/io.datarouter/datarouter-data-export@0.0.126?classifier=sources
+- pkg:maven/io.datarouter/datarouter-data-export@0.0.127
+- pkg:maven/io.datarouter/datarouter-data-export@0.0.127?classifier=sources

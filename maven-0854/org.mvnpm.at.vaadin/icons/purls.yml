@@ -4,6 +4,8 @@
 - pkg:maven/org.mvnpm.at.vaadin/icons@23.3.7?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/icons@23.3.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/icons@23.5.12?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/icons@23.6.0
+- pkg:maven/org.mvnpm.at.vaadin/icons@23.6.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/icons@24.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/icons@24.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/icons@24.0.5?classifier=sources
@@ -77,3 +79,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/icons@24.7.6?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/icons@24.7.7
 - pkg:maven/org.mvnpm.at.vaadin/icons@24.7.7?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/icons@24.7.8
+- pkg:maven/org.mvnpm.at.vaadin/icons@24.7.8?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/icons@24.8.0
+- pkg:maven/org.mvnpm.at.vaadin/icons@24.8.0?classifier=sources

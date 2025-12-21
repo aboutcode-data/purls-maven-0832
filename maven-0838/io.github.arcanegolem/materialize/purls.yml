@@ -1,1 +1,2 @@
 - pkg:maven/io.github.arcanegolem/materialize@1.0.0?classifier=sources
+- pkg:maven/io.github.arcanegolem/materialize@1.1.0?classifier=sources

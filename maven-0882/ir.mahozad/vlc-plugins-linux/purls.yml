@@ -1,1 +1,2 @@
+- pkg:maven/ir.mahozad/vlc-plugins-linux@3.0.20-2?classifier=sources
 - pkg:maven/ir.mahozad/vlc-plugins-linux@3.0.20?classifier=sources

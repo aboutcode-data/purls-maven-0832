@@ -6,6 +6,8 @@
 - pkg:maven/org.neo4j/neo4j-kernel-test@2025.03.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-test@2025.04.0
 - pkg:maven/org.neo4j/neo4j-kernel-test@2025.04.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-kernel-test@2025.05.0
+- pkg:maven/org.neo4j/neo4j-kernel-test@2025.05.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-test@5.10.0
 - pkg:maven/org.neo4j/neo4j-kernel-test@5.10.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-test@5.11.0
@@ -60,6 +62,10 @@
 - pkg:maven/org.neo4j/neo4j-kernel-test@5.26.5?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-test@5.26.6
 - pkg:maven/org.neo4j/neo4j-kernel-test@5.26.6?classifier=sources
+- pkg:maven/org.neo4j/neo4j-kernel-test@5.26.7
+- pkg:maven/org.neo4j/neo4j-kernel-test@5.26.7?classifier=sources
+- pkg:maven/org.neo4j/neo4j-kernel-test@5.26.8
+- pkg:maven/org.neo4j/neo4j-kernel-test@5.26.8?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-test@5.5.0
 - pkg:maven/org.neo4j/neo4j-kernel-test@5.5.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-test@5.6.0

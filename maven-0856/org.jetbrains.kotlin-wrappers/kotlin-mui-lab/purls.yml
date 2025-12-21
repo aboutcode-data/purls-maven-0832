@@ -71,6 +71,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.4.9-5.0.0-alpha.176?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.0-5.0.0-alpha.176?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.1-5.0.0-alpha.176?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.10-5.0.0-alpha.176?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.11-5.0.0-alpha.176?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.2-5.0.0-alpha.176?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.3-5.0.0-alpha.176?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.4-5.0.0-alpha.176?classifier=sources
@@ -78,6 +80,13 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.6-5.0.0-alpha.176?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.7-5.0.0-alpha.176?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.8-5.0.0-alpha.176?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.5.9-5.0.0-alpha.176?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.6.0-5.0.0-alpha.176?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.6.1-5.0.0-alpha.176?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.6.2-5.0.0-alpha.176?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.6.3-5.0.0-alpha.176?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.6.4-5.0.0-alpha.176?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@2025.6.5-5.0.0-alpha.176?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@5.0.0-alpha.142-pre.629?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@5.0.0-alpha.142-pre.630?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab@5.0.0-alpha.145-pre.631?classifier=sources

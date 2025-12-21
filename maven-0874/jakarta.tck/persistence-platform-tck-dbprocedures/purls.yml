@@ -1,2 +1,4 @@
 - pkg:maven/jakarta.tck/persistence-platform-tck-dbprocedures@11.0.0-M14
 - pkg:maven/jakarta.tck/persistence-platform-tck-dbprocedures@11.0.0-M14?classifier=sources
+- pkg:maven/jakarta.tck/persistence-platform-tck-dbprocedures@11.0.1-RC1
+- pkg:maven/jakarta.tck/persistence-platform-tck-dbprocedures@11.0.1-RC1?classifier=sources

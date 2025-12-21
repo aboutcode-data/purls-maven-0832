@@ -1,1 +1,7 @@
 - pkg:maven/com.cloudflare.realtimekit/proto-entities-jvm@2.108.2?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/proto-entities-jvm@2.109.0?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/proto-entities-jvm@2.109.1?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/proto-entities-jvm@2.110.0?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/proto-entities-jvm@2.110.1?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/proto-entities-jvm@2.110.2?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/proto-entities-jvm@2.110.3?classifier=sources

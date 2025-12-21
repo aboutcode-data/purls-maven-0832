@@ -161,3 +161,4 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@7.1.1.202505221757-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@7.2.0.202503040940-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@7.2.1.202505142326-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.pgm@7.3.0.202506031305-r?classifier=sources

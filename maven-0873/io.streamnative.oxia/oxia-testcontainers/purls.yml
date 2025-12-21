@@ -38,3 +38,5 @@
 - pkg:maven/io.streamnative.oxia/oxia-testcontainers@0.4.9?classifier=sources
 - pkg:maven/io.streamnative.oxia/oxia-testcontainers@0.5.0
 - pkg:maven/io.streamnative.oxia/oxia-testcontainers@0.5.0?classifier=sources
+- pkg:maven/io.streamnative.oxia/oxia-testcontainers@0.5.1
+- pkg:maven/io.streamnative.oxia/oxia-testcontainers@0.5.1?classifier=sources

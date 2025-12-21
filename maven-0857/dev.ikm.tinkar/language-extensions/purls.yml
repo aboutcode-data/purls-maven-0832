@@ -1,6 +1,11 @@
 - pkg:maven/dev.ikm.tinkar/language-extensions@1.100.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/language-extensions@1.101.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/language-extensions@1.102.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/language-extensions@1.103.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/language-extensions@1.104.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/language-extensions@1.105.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/language-extensions@1.106.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/language-extensions@1.107.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/language-extensions@1.26.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/language-extensions@1.34.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/language-extensions@1.37.0?classifier=sources

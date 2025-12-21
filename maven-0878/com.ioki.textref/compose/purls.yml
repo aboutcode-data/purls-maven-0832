@@ -1,1 +1,2 @@
 - pkg:maven/com.ioki.textref/compose@3.0.0?classifier=sources
+- pkg:maven/com.ioki.textref/compose@3.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.stuebingerb/kgraphql-ktor-stitched@0.28.0?classifier=sources
 - pkg:maven/de.stuebingerb/kgraphql-ktor-stitched@0.29.0?classifier=sources
+- pkg:maven/de.stuebingerb/kgraphql-ktor-stitched@0.30.0?classifier=sources
+- pkg:maven/de.stuebingerb/kgraphql-ktor-stitched@0.31.0?classifier=sources

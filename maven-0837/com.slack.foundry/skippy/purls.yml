@@ -42,3 +42,4 @@
 - pkg:maven/com.slack.foundry/skippy@0.27.1?classifier=sources
 - pkg:maven/com.slack.foundry/skippy@0.27.2?classifier=sources
 - pkg:maven/com.slack.foundry/skippy@0.27.3?classifier=sources
+- pkg:maven/com.slack.foundry/skippy@0.27.4?classifier=sources

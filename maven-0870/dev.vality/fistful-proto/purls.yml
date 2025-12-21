@@ -96,3 +96,5 @@
 - pkg:maven/dev.vality/fistful-proto@1.178-704a6d4?classifier=sources
 - pkg:maven/dev.vality/fistful-proto@1.179-54f1d58
 - pkg:maven/dev.vality/fistful-proto@1.179-54f1d58?classifier=sources
+- pkg:maven/dev.vality/fistful-proto@1.180-8b04c7f
+- pkg:maven/dev.vality/fistful-proto@1.180-8b04c7f?classifier=sources

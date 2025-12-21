@@ -47,3 +47,5 @@
 - pkg:maven/com.iodesystems.selenium-jquery/selenium-jquery@3.2.2?classifier=sources
 - pkg:maven/com.iodesystems.selenium-jquery/selenium-jquery@4.0.0?classifier=sources
 - pkg:maven/com.iodesystems.selenium-jquery/selenium-jquery@4.0.3?classifier=sources
+- pkg:maven/com.iodesystems.selenium-jquery/selenium-jquery@4.1.0?classifier=sources
+- pkg:maven/com.iodesystems.selenium-jquery/selenium-jquery@4.1.2?classifier=sources

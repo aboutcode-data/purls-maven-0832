@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/mdast-util-math@2.0.2
+- pkg:maven/org.mvnpm/mdast-util-math@2.0.2?classifier=sources
+- pkg:maven/org.mvnpm/mdast-util-math@3.0.0
+- pkg:maven/org.mvnpm/mdast-util-math@3.0.0?classifier=sources

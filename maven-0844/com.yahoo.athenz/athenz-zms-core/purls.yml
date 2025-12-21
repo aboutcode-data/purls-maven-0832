@@ -265,6 +265,10 @@
 - pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.16?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.17
 - pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.17?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.18
+- pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.18?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.19
+- pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.19?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.1?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.2
 - pkg:maven/com.yahoo.athenz/athenz-zms-core@1.12.2?classifier=sources

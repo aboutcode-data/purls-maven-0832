@@ -24,3 +24,4 @@
 - pkg:maven/com.telesign/telesign@2.3.0?classifier=sources
 - pkg:maven/com.telesign/telesign@2.3.1?classifier=sources
 - pkg:maven/com.telesign/telesign@2.4.0?classifier=sources
+- pkg:maven/com.telesign/telesign@2.5.0?classifier=sources

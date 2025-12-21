@@ -50,3 +50,7 @@
 - pkg:maven/com.scayle.adminapi/AdminAPI@2.7.0?classifier=sources
 - pkg:maven/com.scayle.adminapi/AdminAPI@2.8.0
 - pkg:maven/com.scayle.adminapi/AdminAPI@2.8.0?classifier=sources
+- pkg:maven/com.scayle.adminapi/AdminAPI@3.0.0
+- pkg:maven/com.scayle.adminapi/AdminAPI@3.0.0?classifier=sources
+- pkg:maven/com.scayle.adminapi/AdminAPI@3.0.1
+- pkg:maven/com.scayle.adminapi/AdminAPI@3.0.1?classifier=sources

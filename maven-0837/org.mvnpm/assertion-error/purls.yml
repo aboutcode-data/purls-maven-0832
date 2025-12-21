@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/assertion-error@2.0.1
+- pkg:maven/org.mvnpm/assertion-error@2.0.1?classifier=sources

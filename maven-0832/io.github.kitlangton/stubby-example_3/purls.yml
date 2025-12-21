@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kitlangton/stubby-example_3@0.1.5
+- pkg:maven/io.github.kitlangton/stubby-example_3@0.1.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.agents4j/agents4j-core@0.2.7?classifier=sources
+- pkg:maven/dev.agents4j/agents4j-core@0.2.9?classifier=sources

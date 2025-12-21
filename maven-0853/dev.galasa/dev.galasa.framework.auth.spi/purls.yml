@@ -2,3 +2,4 @@
 - pkg:maven/dev.galasa/dev.galasa.framework.auth.spi@0.39.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.auth.spi@0.40.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.auth.spi@0.41.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework.auth.spi@0.42.0?classifier=sources
