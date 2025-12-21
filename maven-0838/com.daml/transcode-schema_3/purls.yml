@@ -100,3 +100,9 @@
 - pkg:maven/com.daml/transcode-schema_3@0.1.1-main.20251112.144.829.v5cc568a?classifier=sources
 - pkg:maven/com.daml/transcode-schema_3@0.1.1-main.20251117.145.832.vb556e01
 - pkg:maven/com.daml/transcode-schema_3@0.1.1-main.20251117.145.832.vb556e01?classifier=sources
+- pkg:maven/com.daml/transcode-schema_3@0.1.1-pr.20251202.148.859.ve7dbcb9
+- pkg:maven/com.daml/transcode-schema_3@0.1.1-pr.20251202.148.859.ve7dbcb9?classifier=sources
+- pkg:maven/com.daml/transcode-schema_3@2.10.0
+- pkg:maven/com.daml/transcode-schema_3@2.10.0?classifier=sources
+- pkg:maven/com.daml/transcode-schema_3@2.10.1-snapshot.20251202.149.866.vb6f6274
+- pkg:maven/com.daml/transcode-schema_3@2.10.1-snapshot.20251202.149.866.vb6f6274?classifier=sources

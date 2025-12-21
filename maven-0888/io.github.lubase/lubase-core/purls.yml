@@ -59,4 +59,7 @@
 - pkg:maven/io.github.lubase/lubase-core@2.1.4?classifier=sources
 - pkg:maven/io.github.lubase/lubase-core@2.1.5?classifier=sources
 - pkg:maven/io.github.lubase/lubase-core@2.1.6?classifier=sources
+- pkg:maven/io.github.lubase/lubase-core@2.1.7?classifier=sources
 - pkg:maven/io.github.lubase/lubase-core@2.2.0?classifier=sources
+- pkg:maven/io.github.lubase/lubase-core@2.2.2?classifier=sources
+- pkg:maven/io.github.lubase/lubase-core@3.0.0?classifier=sources

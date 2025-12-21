@@ -10,3 +10,4 @@
 - pkg:maven/com.netease.yunxin.kit.localconversation/localconversationkit-ui@10.8.8?classifier=sources
 - pkg:maven/com.netease.yunxin.kit.localconversation/localconversationkit-ui@10.8.9?classifier=sources
 - pkg:maven/com.netease.yunxin.kit.localconversation/localconversationkit-ui@10.9.0?classifier=sources
+- pkg:maven/com.netease.yunxin.kit.localconversation/localconversationkit-ui@10.9.1?classifier=sources

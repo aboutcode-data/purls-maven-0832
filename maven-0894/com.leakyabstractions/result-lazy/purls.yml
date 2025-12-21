@@ -12,3 +12,4 @@
 - pkg:maven/com.leakyabstractions/result-lazy@0.6.2.0?classifier=sources
 - pkg:maven/com.leakyabstractions/result-lazy@0.6.3.0?classifier=sources
 - pkg:maven/com.leakyabstractions/result-lazy@1.0.0.0?classifier=sources
+- pkg:maven/com.leakyabstractions/result-lazy@1.0.1.0?classifier=sources

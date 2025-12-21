@@ -57,6 +57,7 @@
 - pkg:maven/com.ritense.valtimo/core@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@12.20.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/core@12.20.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@12.3.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@12.3.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@12.4.0.RELEASE?classifier=sources
@@ -85,6 +86,7 @@
 - pkg:maven/com.ritense.valtimo/core@13.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@13.4.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@13.5.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/core@13.6.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@9.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/core@9.11.0.RELEASE?classifier=sources

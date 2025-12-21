@@ -1,0 +1,2 @@
+- pkg:maven/com.kroegerama.openapi-kmp-gen/companion-jvm@1.0.0-rc01?classifier=sources
+- pkg:maven/com.kroegerama.openapi-kmp-gen/companion-jvm@1.0.0-rc02?classifier=sources

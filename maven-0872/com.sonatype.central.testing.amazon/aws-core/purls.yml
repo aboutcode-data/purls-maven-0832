@@ -14,6 +14,7 @@
 - pkg:maven/com.sonatype.central.testing.amazon/aws-core@1.5.70?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/aws-core@1.5.71?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/aws-core@1.5.72?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/aws-core@1.5.73?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/aws-core@12.12.12?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/aws-core@12.12.13?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/aws-core@12.12.14?classifier=sources

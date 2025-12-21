@@ -1,6 +1,7 @@
 - pkg:maven/io.gitee.zhangbinhub.acp/acp-spring-boot-warm-flow-mybatis-flex@2025.10.0?classifier=sources
 - pkg:maven/io.gitee.zhangbinhub.acp/acp-spring-boot-warm-flow-mybatis-flex@2025.10.1?classifier=sources
 - pkg:maven/io.gitee.zhangbinhub.acp/acp-spring-boot-warm-flow-mybatis-flex@2025.11.0?classifier=sources
+- pkg:maven/io.gitee.zhangbinhub.acp/acp-spring-boot-warm-flow-mybatis-flex@2025.11.1?classifier=sources
 - pkg:maven/io.gitee.zhangbinhub.acp/acp-spring-boot-warm-flow-mybatis-flex@2025.3.2?classifier=sources
 - pkg:maven/io.gitee.zhangbinhub.acp/acp-spring-boot-warm-flow-mybatis-flex@2025.3.3?classifier=sources
 - pkg:maven/io.gitee.zhangbinhub.acp/acp-spring-boot-warm-flow-mybatis-flex@2025.4.0?classifier=sources

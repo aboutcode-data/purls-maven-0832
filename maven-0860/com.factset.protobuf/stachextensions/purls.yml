@@ -18,3 +18,4 @@
 - pkg:maven/com.factset.protobuf/stachextensions@1.5.0?classifier=sources
 - pkg:maven/com.factset.protobuf/stachextensions@1.6.0
 - pkg:maven/com.factset.protobuf/stachextensions@1.6.0?classifier=sources
+- pkg:maven/com.factset.protobuf/stachextensions@1.6.1?classifier=sources

@@ -15,6 +15,8 @@
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@2.10.0-rc5?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@2.10.0-rc6?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@2.10.0-rc7?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@2.10.0?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@2.10.1-rc1?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@2.2.0?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@2.3.0?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk@2.3.1?classifier=sources

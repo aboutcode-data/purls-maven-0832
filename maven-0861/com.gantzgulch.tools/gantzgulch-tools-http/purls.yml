@@ -40,6 +40,8 @@
 - pkg:maven/com.gantzgulch.tools/gantzgulch-tools-http@1.0.29
 - pkg:maven/com.gantzgulch.tools/gantzgulch-tools-http@1.0.29?classifier=sources
 - pkg:maven/com.gantzgulch.tools/gantzgulch-tools-http@1.0.2?classifier=sources
+- pkg:maven/com.gantzgulch.tools/gantzgulch-tools-http@1.0.30?classifier=sources
+- pkg:maven/com.gantzgulch.tools/gantzgulch-tools-http@1.0.31?classifier=sources
 - pkg:maven/com.gantzgulch.tools/gantzgulch-tools-http@1.0.4
 - pkg:maven/com.gantzgulch.tools/gantzgulch-tools-http@1.0.4?classifier=sources
 - pkg:maven/com.gantzgulch.tools/gantzgulch-tools-http@1.0.5

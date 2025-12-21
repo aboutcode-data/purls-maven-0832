@@ -6,3 +6,4 @@
 - pkg:maven/io.github.padreati/rapaio-jmh@7.0.0?classifier=sources
 - pkg:maven/io.github.padreati/rapaio-jmh@7.0.1
 - pkg:maven/io.github.padreati/rapaio-jmh@7.0.1?classifier=sources
+- pkg:maven/io.github.padreati/rapaio-jmh@8.1.0?classifier=sources

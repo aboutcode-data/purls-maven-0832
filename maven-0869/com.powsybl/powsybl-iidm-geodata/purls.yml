@@ -30,3 +30,4 @@
 - pkg:maven/com.powsybl/powsybl-iidm-geodata@7.0.0-RC1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-iidm-geodata@7.0.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-iidm-geodata@7.0.1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-iidm-geodata@7.1.0-RC1?classifier=sources

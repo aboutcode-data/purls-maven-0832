@@ -1,1 +1,2 @@
 - pkg:maven/com.bigid/consent-sdk-android@0.10.3-alpha?classifier=sources
+- pkg:maven/com.bigid/consent-sdk-android@0.10.4-alpha?classifier=sources

@@ -30,3 +30,6 @@
 - pkg:maven/io.github.kevenzxd/OxSdk-Game@1.3.4.0-RC02-202511031800?classifier=sources
 - pkg:maven/io.github.kevenzxd/OxSdk-Game@1.3.4.0-RC03-202511061400?classifier=sources
 - pkg:maven/io.github.kevenzxd/OxSdk-Game@1.3.4.0-RC04-202511132110?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Game@1.3.4.0-RC06-202511211100?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Game@1.3.4.0-RC07-202511241600?classifier=sources
+- pkg:maven/io.github.kevenzxd/OxSdk-Game@1.3.4.0-RC07-202511242100?classifier=sources

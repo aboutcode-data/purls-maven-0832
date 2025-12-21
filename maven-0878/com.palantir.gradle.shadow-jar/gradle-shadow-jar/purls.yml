@@ -22,5 +22,9 @@
 - pkg:maven/com.palantir.gradle.shadow-jar/gradle-shadow-jar@2.8.0?classifier=sources
 - pkg:maven/com.palantir.gradle.shadow-jar/gradle-shadow-jar@3.0.0?classifier=sources
 - pkg:maven/com.palantir.gradle.shadow-jar/gradle-shadow-jar@3.1.0?classifier=sources
+- pkg:maven/com.palantir.gradle.shadow-jar/gradle-shadow-jar@3.2.0?classifier=sources
+- pkg:maven/com.palantir.gradle.shadow-jar/gradle-shadow-jar@3.3.0?classifier=sources
+- pkg:maven/com.palantir.gradle.shadow-jar/gradle-shadow-jar@3.4.0?classifier=sources
+- pkg:maven/com.palantir.gradle.shadow-jar/gradle-shadow-jar@3.5.0?classifier=sources
 - pkg:maven/com.palantir.gradle.shadow-jar/gradle-shadow-jar@88eab43
 - pkg:maven/com.palantir.gradle.shadow-jar/gradle-shadow-jar@88eab43?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/edu.gemini/lucuma-typed-csstype_sjs1_3@0.7.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-typed-csstype_sjs1_3@0.8.0
 - pkg:maven/edu.gemini/lucuma-typed-csstype_sjs1_3@0.8.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-typed-csstype_sjs1_3@0.9.0
+- pkg:maven/edu.gemini/lucuma-typed-csstype_sjs1_3@0.9.0?classifier=sources

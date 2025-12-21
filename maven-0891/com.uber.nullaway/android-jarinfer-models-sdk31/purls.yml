@@ -33,6 +33,7 @@
 - pkg:maven/com.uber.nullaway/android-jarinfer-models-sdk31@0.12.10?classifier=sources
 - pkg:maven/com.uber.nullaway/android-jarinfer-models-sdk31@0.12.11?classifier=sources
 - pkg:maven/com.uber.nullaway/android-jarinfer-models-sdk31@0.12.12?classifier=sources
+- pkg:maven/com.uber.nullaway/android-jarinfer-models-sdk31@0.12.13?classifier=sources
 - pkg:maven/com.uber.nullaway/android-jarinfer-models-sdk31@0.12.1?classifier=sources
 - pkg:maven/com.uber.nullaway/android-jarinfer-models-sdk31@0.12.2?classifier=sources
 - pkg:maven/com.uber.nullaway/android-jarinfer-models-sdk31@0.12.3?classifier=sources

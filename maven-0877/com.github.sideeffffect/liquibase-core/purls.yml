@@ -10,3 +10,5 @@
 - pkg:maven/com.github.sideeffffect/liquibase-core@4.1.0?classifier=sources
 - pkg:maven/com.github.sideeffffect/liquibase-core@5.0.0
 - pkg:maven/com.github.sideeffffect/liquibase-core@5.0.0?classifier=sources
+- pkg:maven/com.github.sideeffffect/liquibase-core@6.0.0
+- pkg:maven/com.github.sideeffffect/liquibase-core@6.0.0?classifier=sources

@@ -4,6 +4,7 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.106?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.107?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.108?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.11
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.12
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.j2eemanagement@1.1.13

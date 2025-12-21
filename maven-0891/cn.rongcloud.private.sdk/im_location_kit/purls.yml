@@ -1,4 +1,5 @@
 - pkg:maven/cn.rongcloud.private.sdk/im_location_kit@5.12.0.50?type=aar
+- pkg:maven/cn.rongcloud.private.sdk/im_location_kit@5.12.0.54?type=aar
 - pkg:maven/cn.rongcloud.private.sdk/im_location_kit@5.2.1.52?type=aar
 - pkg:maven/cn.rongcloud.private.sdk/im_location_kit@5.20.0.50?type=aar
 - pkg:maven/cn.rongcloud.private.sdk/im_location_kit@5.3.3.52?type=aar

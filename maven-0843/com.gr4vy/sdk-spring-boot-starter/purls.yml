@@ -13,3 +13,6 @@
 - pkg:maven/com.gr4vy/sdk-spring-boot-starter@2.13.7?classifier=sources
 - pkg:maven/com.gr4vy/sdk-spring-boot-starter@2.13.8?classifier=sources
 - pkg:maven/com.gr4vy/sdk-spring-boot-starter@2.13.9?classifier=sources
+- pkg:maven/com.gr4vy/sdk-spring-boot-starter@2.14.0?classifier=sources
+- pkg:maven/com.gr4vy/sdk-spring-boot-starter@2.15.0?classifier=sources
+- pkg:maven/com.gr4vy/sdk-spring-boot-starter@2.15.1?classifier=sources

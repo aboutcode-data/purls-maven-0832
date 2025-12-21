@@ -7,4 +7,6 @@
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-fragment-protobuf@0.16?classifier=sources
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-fragment-protobuf@0.17?classifier=sources
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-fragment-protobuf@0.18?classifier=sources
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-fragment-protobuf@0.19?classifier=sources
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-fragment-protobuf@0.20?classifier=sources
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-fragment-protobuf@0.9?classifier=sources

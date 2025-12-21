@@ -3,6 +3,7 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.106?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.107?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.108?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.17
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.18
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.collectivePlugins@2.0.19

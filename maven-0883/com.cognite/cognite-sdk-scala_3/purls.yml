@@ -284,6 +284,16 @@
 - pkg:maven/com.cognite/cognite-sdk-scala_3@2.32.936?classifier=sources
 - pkg:maven/com.cognite/cognite-sdk-scala_3@2.32.937
 - pkg:maven/com.cognite/cognite-sdk-scala_3@2.32.937?classifier=sources
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.32.939
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.32.939?classifier=sources
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.33.941
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.33.941?classifier=sources
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.34.944
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.34.944?classifier=sources
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.34.946
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.34.946?classifier=sources
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.34.947
+- pkg:maven/com.cognite/cognite-sdk-scala_3@2.34.947?classifier=sources
 - pkg:maven/com.cognite/cognite-sdk-scala_3@2.4.0
 - pkg:maven/com.cognite/cognite-sdk-scala_3@2.4.0?classifier=sources
 - pkg:maven/com.cognite/cognite-sdk-scala_3@2.4.1

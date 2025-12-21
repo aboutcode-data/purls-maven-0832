@@ -57,3 +57,4 @@
 - pkg:maven/com.linkedin.iceberg/iceberg-mr@1.2.0.0-rc2?classifier=sources
 - pkg:maven/com.linkedin.iceberg/iceberg-mr@1.5.2.0-rc1?classifier=sources
 - pkg:maven/com.linkedin.iceberg/iceberg-mr@1.5.2.1?classifier=sources
+- pkg:maven/com.linkedin.iceberg/iceberg-mr@1.5.2.2?classifier=sources

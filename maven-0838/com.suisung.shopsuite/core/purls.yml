@@ -7,3 +7,4 @@
 - pkg:maven/com.suisung.shopsuite/core@1.0.279?classifier=sources
 - pkg:maven/com.suisung.shopsuite/core@1.0.2?classifier=sources
 - pkg:maven/com.suisung.shopsuite/core@3.0.27906?classifier=sources
+- pkg:maven/com.suisung.shopsuite/core@3.0.27907?classifier=sources

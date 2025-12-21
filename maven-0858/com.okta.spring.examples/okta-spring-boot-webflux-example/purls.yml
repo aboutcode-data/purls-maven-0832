@@ -48,3 +48,4 @@
 - pkg:maven/com.okta.spring.examples/okta-spring-boot-webflux-example@3.0.6?classifier=sources
 - pkg:maven/com.okta.spring.examples/okta-spring-boot-webflux-example@3.0.7
 - pkg:maven/com.okta.spring.examples/okta-spring-boot-webflux-example@3.0.7?classifier=sources
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-webflux-example@3.0.8?classifier=sources

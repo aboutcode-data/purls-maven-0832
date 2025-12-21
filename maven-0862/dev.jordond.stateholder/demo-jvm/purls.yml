@@ -1,0 +1,2 @@
+- pkg:maven/dev.jordond.stateholder/demo-jvm@2.0.0-rc07?classifier=sources
+- pkg:maven/dev.jordond.stateholder/demo-jvm@2.0.0-rc08?classifier=sources

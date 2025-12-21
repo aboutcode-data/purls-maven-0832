@@ -5,3 +5,4 @@
 - pkg:maven/eu.soft-pol.lib.nullaudit/nullaudit-maven-plugin@0.5.0?classifier=sources
 - pkg:maven/eu.soft-pol.lib.nullaudit/nullaudit-maven-plugin@0.6.0?classifier=sources
 - pkg:maven/eu.soft-pol.lib.nullaudit/nullaudit-maven-plugin@0.7.0?classifier=sources
+- pkg:maven/eu.soft-pol.lib.nullaudit/nullaudit-maven-plugin@0.8.0?classifier=sources

@@ -12,6 +12,7 @@
 - pkg:maven/eu.codlab/kotlin-file-access-jvm@1.16.1?classifier=sources
 - pkg:maven/eu.codlab/kotlin-file-access-jvm@1.16.2?classifier=sources
 - pkg:maven/eu.codlab/kotlin-file-access-jvm@1.16.3?classifier=sources
+- pkg:maven/eu.codlab/kotlin-file-access-jvm@1.17.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-file-access-jvm@1.3.1?classifier=sources
 - pkg:maven/eu.codlab/kotlin-file-access-jvm@1.4.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-file-access-jvm@1.5.1?classifier=sources

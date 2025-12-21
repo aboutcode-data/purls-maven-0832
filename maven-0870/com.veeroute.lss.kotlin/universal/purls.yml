@@ -2,3 +2,5 @@
 - pkg:maven/com.veeroute.lss.kotlin/universal@7.22.2904?classifier=sources
 - pkg:maven/com.veeroute.lss.kotlin/universal@7.23.2926?classifier=sources
 - pkg:maven/com.veeroute.lss.kotlin/universal@7.24.2983?classifier=sources
+- pkg:maven/com.veeroute.lss.kotlin/universal@7.25.3009?classifier=sources
+- pkg:maven/com.veeroute.lss.kotlin/universal@7.26.3024?classifier=sources

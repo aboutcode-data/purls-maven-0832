@@ -96,6 +96,7 @@
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.3?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.4
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.40?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.41?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.4?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.5
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.5?classifier=sources
@@ -107,3 +108,6 @@
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.8?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.9
 - pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@1.53.9?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@2.0.1?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dms_enterprise20181101@2.0.2?classifier=sources

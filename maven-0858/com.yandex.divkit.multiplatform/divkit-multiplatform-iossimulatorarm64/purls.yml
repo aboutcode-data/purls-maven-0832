@@ -1,3 +1,5 @@
 - pkg:maven/com.yandex.divkit.multiplatform/divkit-multiplatform-iossimulatorarm64@32.23.0?classifier=sources
 - pkg:maven/com.yandex.divkit.multiplatform/divkit-multiplatform-iossimulatorarm64@32.25.0?classifier=sources
 - pkg:maven/com.yandex.divkit.multiplatform/divkit-multiplatform-iossimulatorarm64@32.26.0?classifier=sources
+- pkg:maven/com.yandex.divkit.multiplatform/divkit-multiplatform-iossimulatorarm64@32.27.0?classifier=sources
+- pkg:maven/com.yandex.divkit.multiplatform/divkit-multiplatform-iossimulatorarm64@32.28.0?classifier=sources

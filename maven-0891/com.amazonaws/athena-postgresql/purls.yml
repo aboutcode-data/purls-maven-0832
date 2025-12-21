@@ -2,3 +2,4 @@
 - pkg:maven/com.amazonaws/athena-postgresql@2025.37.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-postgresql@2025.41.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-postgresql@2025.43.1?classifier=sources
+- pkg:maven/com.amazonaws/athena-postgresql@2025.46.1?classifier=sources

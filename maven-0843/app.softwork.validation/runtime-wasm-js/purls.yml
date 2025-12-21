@@ -3,3 +3,4 @@
 - pkg:maven/app.softwork.validation/runtime-wasm-js@0.0.13?classifier=sources
 - pkg:maven/app.softwork.validation/runtime-wasm-js@0.0.14?classifier=sources
 - pkg:maven/app.softwork.validation/runtime-wasm-js@0.0.15?classifier=sources
+- pkg:maven/app.softwork.validation/runtime-wasm-js@0.0.16?classifier=sources
