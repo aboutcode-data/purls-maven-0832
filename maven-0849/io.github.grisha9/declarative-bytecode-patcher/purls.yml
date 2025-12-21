@@ -1,3 +1,4 @@
 - pkg:maven/io.github.grisha9/declarative-bytecode-patcher@0.1?classifier=sources
 - pkg:maven/io.github.grisha9/declarative-bytecode-patcher@0.2?classifier=sources
 - pkg:maven/io.github.grisha9/declarative-bytecode-patcher@0.3?classifier=sources
+- pkg:maven/io.github.grisha9/declarative-bytecode-patcher@0.4?classifier=sources

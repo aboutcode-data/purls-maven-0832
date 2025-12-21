@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/regl-error2d@2.0.12
+- pkg:maven/org.mvnpm/regl-error2d@2.0.12?classifier=sources

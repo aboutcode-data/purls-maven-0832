@@ -1,4 +1,5 @@
 - pkg:maven/de.comahe.i18n4k/i18n4k-core-watchosx64@0.10.0?classifier=sources
+- pkg:maven/de.comahe.i18n4k/i18n4k-core-watchosx64@0.11.0?classifier=sources
 - pkg:maven/de.comahe.i18n4k/i18n4k-core-watchosx64@0.4.0?classifier=sources
 - pkg:maven/de.comahe.i18n4k/i18n4k-core-watchosx64@0.5.0?classifier=sources
 - pkg:maven/de.comahe.i18n4k/i18n4k-core-watchosx64@0.6.0?classifier=sources

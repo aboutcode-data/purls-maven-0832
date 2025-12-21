@@ -23,6 +23,7 @@
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-contract@3.18.1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-contract@3.19.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-contract@3.19.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-contract@3.19.2?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-contract@3.8.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-contract@3.8.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-contract@3.9.0

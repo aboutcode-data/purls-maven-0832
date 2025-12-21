@@ -111,3 +111,4 @@
 - pkg:maven/com.pdfcrowd/pdfcrowd@6.5.0
 - pkg:maven/com.pdfcrowd/pdfcrowd@6.5.0?classifier=sources
 - pkg:maven/com.pdfcrowd/pdfcrowd@6.5.1?classifier=sources
+- pkg:maven/com.pdfcrowd/pdfcrowd@6.5.2?classifier=sources

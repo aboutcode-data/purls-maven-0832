@@ -234,6 +234,7 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.selenium@25.1.6
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.selenium@25.1.6?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.selenium@25.2.0-beta.0?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.selenium@25.2.0-beta.2?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.selenium@6.1.0.B006
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.selenium@6.1.0.B006?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.selenium@6.1.0.B009

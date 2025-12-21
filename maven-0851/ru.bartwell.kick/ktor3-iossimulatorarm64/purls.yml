@@ -1,0 +1,2 @@
+- pkg:maven/ru.bartwell.kick/ktor3-iossimulatorarm64@1.0.0?classifier=sources
+- pkg:maven/ru.bartwell.kick/ktor3-iossimulatorarm64@1.1.0?classifier=sources

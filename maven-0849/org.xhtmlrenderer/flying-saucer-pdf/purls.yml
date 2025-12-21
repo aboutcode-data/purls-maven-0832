@@ -86,6 +86,7 @@
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.12.1?classifier=sources
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.13.0
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.13.0?classifier=sources
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.13.1?classifier=sources
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.2.0
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.2.0?classifier=sources
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf@9.2.1

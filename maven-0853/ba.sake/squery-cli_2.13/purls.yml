@@ -1,0 +1,4 @@
+- pkg:maven/ba.sake/squery-cli_2.13@0.8.0
+- pkg:maven/ba.sake/squery-cli_2.13@0.8.0?classifier=sources
+- pkg:maven/ba.sake/squery-cli_2.13@0.8.1
+- pkg:maven/ba.sake/squery-cli_2.13@0.8.1?classifier=sources

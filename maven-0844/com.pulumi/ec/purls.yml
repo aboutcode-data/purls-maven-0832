@@ -14,6 +14,7 @@
 - pkg:maven/com.pulumi/ec@0.10.4?classifier=sources
 - pkg:maven/com.pulumi/ec@0.10.5?classifier=sources
 - pkg:maven/com.pulumi/ec@0.10.6?classifier=sources
+- pkg:maven/com.pulumi/ec@0.10.7?classifier=sources
 - pkg:maven/com.pulumi/ec@0.11.0-alpha.1727846852?classifier=sources
 - pkg:maven/com.pulumi/ec@0.11.0-alpha.1727875886?classifier=sources
 - pkg:maven/com.pulumi/ec@0.11.0-alpha.1728106361?classifier=sources

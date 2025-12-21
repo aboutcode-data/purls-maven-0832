@@ -274,6 +274,7 @@
 - pkg:maven/io.sentry/sentry-jdbc@8.16.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@8.16.1-alpha.2?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@8.17.0?classifier=sources
+- pkg:maven/io.sentry/sentry-jdbc@8.18.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@8.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@8.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jdbc@8.4.0?classifier=sources

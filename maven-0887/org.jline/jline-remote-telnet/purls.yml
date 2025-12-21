@@ -69,6 +69,7 @@
 - pkg:maven/org.jline/jline-remote-telnet@3.30.2?classifier=sources
 - pkg:maven/org.jline/jline-remote-telnet@3.30.3?classifier=sources
 - pkg:maven/org.jline/jline-remote-telnet@3.30.4?classifier=sources
+- pkg:maven/org.jline/jline-remote-telnet@3.30.5?classifier=sources
 - pkg:maven/org.jline/jline-remote-telnet@3.4.0
 - pkg:maven/org.jline/jline-remote-telnet@3.4.0?classifier=sources
 - pkg:maven/org.jline/jline-remote-telnet@3.5.0

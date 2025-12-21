@@ -24,3 +24,5 @@
 - pkg:maven/com.github.mjakubowski84/parquet4s-pekko_2.12@2.21.0?classifier=sources
 - pkg:maven/com.github.mjakubowski84/parquet4s-pekko_2.12@2.22.0
 - pkg:maven/com.github.mjakubowski84/parquet4s-pekko_2.12@2.22.0?classifier=sources
+- pkg:maven/com.github.mjakubowski84/parquet4s-pekko_2.12@2.23.0
+- pkg:maven/com.github.mjakubowski84/parquet4s-pekko_2.12@2.23.0?classifier=sources

@@ -45,3 +45,4 @@
 - pkg:maven/eu.maveniverse.maven.mimir/daemon@0.7.8?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir/daemon@0.7.9?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir/daemon@0.8.0?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir/daemon@0.8.1?classifier=sources

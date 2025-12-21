@@ -1,3 +1,11 @@
 - pkg:maven/in.payu/threeds-sdk@1.0.29-alpha1?classifier=sources
 - pkg:maven/in.payu/threeds-sdk@1.0.29-alpha2?classifier=sources
+- pkg:maven/in.payu/threeds-sdk@1.0.29-alpha3?classifier=sources
+- pkg:maven/in.payu/threeds-sdk@1.0.29-alpha4?classifier=sources
+- pkg:maven/in.payu/threeds-sdk@1.0.29-alpha5?classifier=sources
+- pkg:maven/in.payu/threeds-sdk@1.0.29-alpha6?classifier=sources
+- pkg:maven/in.payu/threeds-sdk@1.0.29-alpha7?classifier=sources
+- pkg:maven/in.payu/threeds-sdk@1.0.29-alpha8?classifier=sources
+- pkg:maven/in.payu/threeds-sdk@1.0.29-alpha9?classifier=sources
 - pkg:maven/in.payu/threeds-sdk@1.1.1?classifier=sources
+- pkg:maven/in.payu/threeds-sdk@1.1.2?classifier=sources

@@ -153,6 +153,7 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-store-mongo@2.7.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-store-mongo@2.70.1?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-store-mongo@2.70?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-store-mongo@2.71.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-store-mongo@2.8.0
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-store-mongo@2.8.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-store-mongo@2.9.0

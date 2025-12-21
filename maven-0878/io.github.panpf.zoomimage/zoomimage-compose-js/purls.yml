@@ -16,3 +16,4 @@
 - pkg:maven/io.github.panpf.zoomimage/zoomimage-compose-js@1.4.0-beta01?classifier=sources
 - pkg:maven/io.github.panpf.zoomimage/zoomimage-compose-js@1.4.0-beta02?classifier=sources
 - pkg:maven/io.github.panpf.zoomimage/zoomimage-compose-js@1.4.0-beta03?classifier=sources
+- pkg:maven/io.github.panpf.zoomimage/zoomimage-compose-js@1.4.0-beta04?classifier=sources

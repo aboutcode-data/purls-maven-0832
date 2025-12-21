@@ -1,0 +1,4 @@
+- pkg:maven/com.xiaoyudeguang/mybatis-plus-apt-support@1.0.10?classifier=sources
+- pkg:maven/com.xiaoyudeguang/mybatis-plus-apt-support@1.0.11?classifier=sources
+- pkg:maven/com.xiaoyudeguang/mybatis-plus-apt-support@1.0.6?classifier=sources
+- pkg:maven/com.xiaoyudeguang/mybatis-plus-apt-support@1.0.7?classifier=sources

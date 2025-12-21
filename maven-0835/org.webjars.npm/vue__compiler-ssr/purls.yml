@@ -101,6 +101,7 @@
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.5.15
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.5.16
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.5.17
+- pkg:maven/org.webjars.npm/vue__compiler-ssr@3.5.18
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.5.2
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.5.3
 - pkg:maven/org.webjars.npm/vue__compiler-ssr@3.5.4

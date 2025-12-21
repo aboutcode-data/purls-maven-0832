@@ -327,6 +327,16 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@11.9.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@11.9.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.2.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.2.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.4.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.6.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.7.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@12.8.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@8.16.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@8.16.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-engine-python@8.16.1

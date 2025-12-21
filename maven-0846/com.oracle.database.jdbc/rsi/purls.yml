@@ -18,6 +18,8 @@
 - pkg:maven/com.oracle.database.jdbc/rsi@21.17.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/rsi@21.18.0.0
 - pkg:maven/com.oracle.database.jdbc/rsi@21.18.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/rsi@21.19.0.0
+- pkg:maven/com.oracle.database.jdbc/rsi@21.19.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/rsi@21.3.0.0
 - pkg:maven/com.oracle.database.jdbc/rsi@21.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/rsi@21.4.0.0
@@ -50,3 +52,5 @@
 - pkg:maven/com.oracle.database.jdbc/rsi@23.7.0.25.01?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/rsi@23.8.0.25.04
 - pkg:maven/com.oracle.database.jdbc/rsi@23.8.0.25.04?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/rsi@23.9.0.25.07
+- pkg:maven/com.oracle.database.jdbc/rsi@23.9.0.25.07?classifier=sources

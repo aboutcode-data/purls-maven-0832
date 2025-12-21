@@ -42,3 +42,4 @@
 - pkg:maven/za.co.absa.spline/commons@0.7.8?classifier=sources
 - pkg:maven/za.co.absa.spline/commons@0.7.9
 - pkg:maven/za.co.absa.spline/commons@0.7.9?classifier=sources
+- pkg:maven/za.co.absa.spline/commons@0.8.1?classifier=sources

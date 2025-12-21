@@ -86,6 +86,12 @@
 - pkg:maven/org.neo4j.test/neo4j-harness@2025.06.0?classifier=sources
 - pkg:maven/org.neo4j.test/neo4j-harness@2025.06.1
 - pkg:maven/org.neo4j.test/neo4j-harness@2025.06.1?classifier=sources
+- pkg:maven/org.neo4j.test/neo4j-harness@2025.06.2
+- pkg:maven/org.neo4j.test/neo4j-harness@2025.06.2?classifier=sources
+- pkg:maven/org.neo4j.test/neo4j-harness@2025.07.0
+- pkg:maven/org.neo4j.test/neo4j-harness@2025.07.0?classifier=sources
+- pkg:maven/org.neo4j.test/neo4j-harness@2025.07.1
+- pkg:maven/org.neo4j.test/neo4j-harness@2025.07.1?classifier=sources
 - pkg:maven/org.neo4j.test/neo4j-harness@3.0.0
 - pkg:maven/org.neo4j.test/neo4j-harness@3.0.0-M01
 - pkg:maven/org.neo4j.test/neo4j-harness@3.0.0-M01?classifier=sources
@@ -709,6 +715,8 @@
 - pkg:maven/org.neo4j.test/neo4j-harness@5.26.0
 - pkg:maven/org.neo4j.test/neo4j-harness@5.26.0?classifier=sources
 - pkg:maven/org.neo4j.test/neo4j-harness@5.26.1
+- pkg:maven/org.neo4j.test/neo4j-harness@5.26.10
+- pkg:maven/org.neo4j.test/neo4j-harness@5.26.10?classifier=sources
 - pkg:maven/org.neo4j.test/neo4j-harness@5.26.1?classifier=sources
 - pkg:maven/org.neo4j.test/neo4j-harness@5.26.2
 - pkg:maven/org.neo4j.test/neo4j-harness@5.26.2?classifier=sources

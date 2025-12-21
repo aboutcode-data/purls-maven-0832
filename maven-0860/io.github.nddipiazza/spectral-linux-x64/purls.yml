@@ -1,0 +1,4 @@
+- pkg:maven/io.github.nddipiazza/spectral-linux-x64@6.15.0-rc2?classifier=sources
+- pkg:maven/io.github.nddipiazza/spectral-linux-x64@6.15.0-rc3?classifier=sources
+- pkg:maven/io.github.nddipiazza/spectral-linux-x64@6.15.0-rc4?classifier=sources
+- pkg:maven/io.github.nddipiazza/spectral-linux-x64@6.15.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.test-data@2.0.0
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.test-data@2.0.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.test-data@3.0.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.test-data@3.0.1?classifier=sources

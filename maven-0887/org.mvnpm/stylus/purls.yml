@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/stylus@0.0.1-security
+- pkg:maven/org.mvnpm/stylus@0.0.1-security?classifier=sources
 - pkg:maven/org.mvnpm/stylus@0.54.8?classifier=sources
 - pkg:maven/org.mvnpm/stylus@0.63.0?classifier=sources
 - pkg:maven/org.mvnpm/stylus@0.64.0?classifier=sources

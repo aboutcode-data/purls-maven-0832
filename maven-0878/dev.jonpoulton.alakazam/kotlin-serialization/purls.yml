@@ -29,3 +29,4 @@
 - pkg:maven/dev.jonpoulton.alakazam/kotlin-serialization@5.0.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/kotlin-serialization@6.0.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/kotlin-serialization@6.1.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/kotlin-serialization@6.2.0?classifier=sources

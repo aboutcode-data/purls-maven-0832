@@ -128,3 +128,4 @@
 - pkg:maven/io.github.odys-z/semantics.transact@1.5.5?classifier=sources
 - pkg:maven/io.github.odys-z/semantics.transact@1.5.60?classifier=sources
 - pkg:maven/io.github.odys-z/semantics.transact@1.5.61?classifier=sources
+- pkg:maven/io.github.odys-z/semantics.transact@1.5.63?classifier=sources

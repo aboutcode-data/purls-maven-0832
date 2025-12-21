@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/headers-polyfill@4.0.3
+- pkg:maven/org.mvnpm/headers-polyfill@4.0.3?classifier=sources

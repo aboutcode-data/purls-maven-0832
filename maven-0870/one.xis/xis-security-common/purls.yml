@@ -1,0 +1,2 @@
+- pkg:maven/one.xis/xis-security-common@0.1.2
+- pkg:maven/one.xis/xis-security-common@0.1.2?classifier=sources

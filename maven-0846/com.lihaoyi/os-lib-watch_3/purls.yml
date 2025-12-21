@@ -48,6 +48,7 @@
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.4-M6
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.4-M6?classifier=sources
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.4?classifier=sources
+- pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.5
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.5-M1
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.5-M10
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.5-M10?classifier=sources
@@ -66,6 +67,7 @@
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.5-M8?classifier=sources
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.5-M9
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.5-M9?classifier=sources
+- pkg:maven/com.lihaoyi/os-lib-watch_3@0.11.5?classifier=sources
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.7.7
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.7.7?classifier=sources
 - pkg:maven/com.lihaoyi/os-lib-watch_3@0.7.8

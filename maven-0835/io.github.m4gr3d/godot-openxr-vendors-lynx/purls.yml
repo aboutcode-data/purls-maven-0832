@@ -1,1 +1,2 @@
 - pkg:maven/io.github.m4gr3d/godot-openxr-vendors-lynx@3.1.1-stable?classifier=sources
+- pkg:maven/io.github.m4gr3d/godot-openxr-vendors-lynx@4.1.0-dev?classifier=sources

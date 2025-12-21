@@ -7,3 +7,4 @@
 - pkg:maven/org.hibernate.models/hibernate-models-jandex@1.0.0.CR2?classifier=sources
 - pkg:maven/org.hibernate.models/hibernate-models-jandex@1.0.0.CR3?classifier=sources
 - pkg:maven/org.hibernate.models/hibernate-models-jandex@1.0.0?classifier=sources
+- pkg:maven/org.hibernate.models/hibernate-models-jandex@1.0.1?classifier=sources

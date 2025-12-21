@@ -1,4 +1,5 @@
 - pkg:maven/com.open-elements/recordstore-runtime@0.1.0?classifier=sources
+- pkg:maven/com.open-elements/recordstore-runtime@0.10.0?classifier=sources
 - pkg:maven/com.open-elements/recordstore-runtime@0.2.0?classifier=sources
 - pkg:maven/com.open-elements/recordstore-runtime@0.3.0?classifier=sources
 - pkg:maven/com.open-elements/recordstore-runtime@0.4.0?classifier=sources
@@ -6,3 +7,4 @@
 - pkg:maven/com.open-elements/recordstore-runtime@0.6.0?classifier=sources
 - pkg:maven/com.open-elements/recordstore-runtime@0.7.0?classifier=sources
 - pkg:maven/com.open-elements/recordstore-runtime@0.8.0?classifier=sources
+- pkg:maven/com.open-elements/recordstore-runtime@0.9.0?classifier=sources

@@ -2,6 +2,9 @@
 - pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.1.1?classifier=sources
 - pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.10.0?classifier=sources
 - pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.11.0?classifier=sources
+- pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.12.0?classifier=sources
+- pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.13.0?classifier=sources
+- pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.14.0?classifier=sources
 - pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.2.0?classifier=sources
 - pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.3.0?classifier=sources
 - pkg:maven/nl.basjes.modbus/modbus-schema-reference@0.4.0?classifier=sources

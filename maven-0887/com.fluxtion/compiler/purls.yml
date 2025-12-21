@@ -443,6 +443,8 @@
 - pkg:maven/com.fluxtion/compiler@9.7.11?classifier=sources
 - pkg:maven/com.fluxtion/compiler@9.7.12
 - pkg:maven/com.fluxtion/compiler@9.7.12?classifier=sources
+- pkg:maven/com.fluxtion/compiler@9.7.13?classifier=sources
+- pkg:maven/com.fluxtion/compiler@9.7.14?classifier=sources
 - pkg:maven/com.fluxtion/compiler@9.7.1?classifier=sources
 - pkg:maven/com.fluxtion/compiler@9.7.2
 - pkg:maven/com.fluxtion/compiler@9.7.2?classifier=sources

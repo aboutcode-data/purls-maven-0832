@@ -112,6 +112,8 @@
 - pkg:maven/org.scala-sbt/util-interface@1.11.2?classifier=sources
 - pkg:maven/org.scala-sbt/util-interface@1.11.3
 - pkg:maven/org.scala-sbt/util-interface@1.11.3?classifier=sources
+- pkg:maven/org.scala-sbt/util-interface@1.11.4
+- pkg:maven/org.scala-sbt/util-interface@1.11.4?classifier=sources
 - pkg:maven/org.scala-sbt/util-interface@1.2.0
 - pkg:maven/org.scala-sbt/util-interface@1.2.0-M1
 - pkg:maven/org.scala-sbt/util-interface@1.2.0-M1?classifier=sources
@@ -292,6 +294,8 @@
 - pkg:maven/org.scala-sbt/util-interface@2.0.0-M3?classifier=sources
 - pkg:maven/org.scala-sbt/util-interface@2.0.0-M4
 - pkg:maven/org.scala-sbt/util-interface@2.0.0-M4?classifier=sources
+- pkg:maven/org.scala-sbt/util-interface@2.0.0-M5
+- pkg:maven/org.scala-sbt/util-interface@2.0.0-M5?classifier=sources
 - pkg:maven/org.scala-sbt/util-interface@2.0.0-alpha1
 - pkg:maven/org.scala-sbt/util-interface@2.0.0-alpha10
 - pkg:maven/org.scala-sbt/util-interface@2.0.0-alpha10?classifier=sources

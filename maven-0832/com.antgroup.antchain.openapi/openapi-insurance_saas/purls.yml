@@ -1,6 +1,10 @@
+- pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.10.0?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.7.10
 - pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.7.10?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.8.13
 - pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.8.13?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.8.14
 - pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.8.14?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.9.2?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.9.3?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas@1.9.4?classifier=sources

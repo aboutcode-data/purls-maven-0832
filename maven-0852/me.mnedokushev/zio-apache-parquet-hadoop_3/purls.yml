@@ -1,2 +1,4 @@
 - pkg:maven/me.mnedokushev/zio-apache-parquet-hadoop_3@0.3.0
 - pkg:maven/me.mnedokushev/zio-apache-parquet-hadoop_3@0.3.0?classifier=sources
+- pkg:maven/me.mnedokushev/zio-apache-parquet-hadoop_3@0.3.1
+- pkg:maven/me.mnedokushev/zio-apache-parquet-hadoop_3@0.3.1?classifier=sources

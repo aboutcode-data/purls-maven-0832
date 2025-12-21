@@ -20,6 +20,8 @@
 - pkg:maven/com.google.apis/google-api-services-dataportability@v1-rev20250305-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataportability@v1-rev20250605-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dataportability@v1-rev20250605-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataportability@v1-rev20250715-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataportability@v1-rev20250715-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataportability@v1beta-rev20240130-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dataportability@v1beta-rev20240130-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataportability@v1beta-rev20240204-2.0.0
@@ -50,3 +52,5 @@
 - pkg:maven/com.google.apis/google-api-services-dataportability@v1beta-rev20250305-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataportability@v1beta-rev20250605-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dataportability@v1beta-rev20250605-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataportability@v1beta-rev20250715-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataportability@v1beta-rev20250715-2.0.0?classifier=sources

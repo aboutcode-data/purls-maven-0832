@@ -91,3 +91,4 @@
 - pkg:maven/org.kiwiproject/registry-aware-jersey-client@2.2.0?classifier=sources
 - pkg:maven/org.kiwiproject/registry-aware-jersey-client@2.3.0
 - pkg:maven/org.kiwiproject/registry-aware-jersey-client@2.3.0?classifier=sources
+- pkg:maven/org.kiwiproject/registry-aware-jersey-client@2.3.1?classifier=sources

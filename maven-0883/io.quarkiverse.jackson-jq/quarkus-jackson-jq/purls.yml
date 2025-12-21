@@ -16,3 +16,4 @@
 - pkg:maven/io.quarkiverse.jackson-jq/quarkus-jackson-jq@2.0.2?classifier=sources
 - pkg:maven/io.quarkiverse.jackson-jq/quarkus-jackson-jq@2.1.0?classifier=sources
 - pkg:maven/io.quarkiverse.jackson-jq/quarkus-jackson-jq@2.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.jackson-jq/quarkus-jackson-jq@2.3.0?classifier=sources

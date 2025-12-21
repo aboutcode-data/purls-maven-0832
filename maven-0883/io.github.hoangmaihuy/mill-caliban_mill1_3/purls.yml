@@ -1,4 +1,6 @@
 - pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.0
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.0-2-78f24b
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.0-2-78f24b?classifier=sources
 - pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.0-RC1
 - pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.0-RC1-4-baa780
 - pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.0-RC1-4-baa780?classifier=sources
@@ -10,3 +12,11 @@
 - pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.0-RC2-2-b78d3a?classifier=sources
 - pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.0-RC2?classifier=sources
 - pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.0?classifier=sources
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.1
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.1-1-73d746
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.1-1-73d746?classifier=sources
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.1-2-c7ee06
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.1-2-c7ee06?classifier=sources
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.3.1?classifier=sources
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.4.0
+- pkg:maven/io.github.hoangmaihuy/mill-caliban_mill1_3@0.4.0?classifier=sources

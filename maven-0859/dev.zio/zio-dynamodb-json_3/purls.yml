@@ -18,6 +18,8 @@
 - pkg:maven/dev.zio/zio-dynamodb-json_3@1.0.0-RC18?classifier=sources
 - pkg:maven/dev.zio/zio-dynamodb-json_3@1.0.0-RC19
 - pkg:maven/dev.zio/zio-dynamodb-json_3@1.0.0-RC19?classifier=sources
+- pkg:maven/dev.zio/zio-dynamodb-json_3@1.0.0-RC20
+- pkg:maven/dev.zio/zio-dynamodb-json_3@1.0.0-RC20?classifier=sources
 - pkg:maven/dev.zio/zio-dynamodb-json_3@1.0.0-RC3
 - pkg:maven/dev.zio/zio-dynamodb-json_3@1.0.0-RC3?classifier=sources
 - pkg:maven/dev.zio/zio-dynamodb-json_3@1.0.0-RC4

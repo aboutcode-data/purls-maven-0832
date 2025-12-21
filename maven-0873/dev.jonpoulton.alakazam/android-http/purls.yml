@@ -44,3 +44,4 @@
 - pkg:maven/dev.jonpoulton.alakazam/android-http@5.0.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/android-http@6.0.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/android-http@6.1.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/android-http@6.2.0?classifier=sources

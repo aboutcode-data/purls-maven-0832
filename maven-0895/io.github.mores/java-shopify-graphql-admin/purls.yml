@@ -6,3 +6,5 @@
 - pkg:maven/io.github.mores/java-shopify-graphql-admin@2025.01.002?classifier=sources
 - pkg:maven/io.github.mores/java-shopify-graphql-admin@2025.04.001
 - pkg:maven/io.github.mores/java-shopify-graphql-admin@2025.04.001?classifier=sources
+- pkg:maven/io.github.mores/java-shopify-graphql-admin@2025.07.001
+- pkg:maven/io.github.mores/java-shopify-graphql-admin@2025.07.001?classifier=sources

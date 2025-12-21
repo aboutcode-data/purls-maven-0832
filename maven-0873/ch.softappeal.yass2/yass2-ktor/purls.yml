@@ -28,6 +28,7 @@
 - pkg:maven/ch.softappeal.yass2/yass2-ktor@22.0.2?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-ktor@23.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-ktor@23.0.1?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-ktor@24.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-ktor@7.0.2?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-ktor@7.1.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-ktor@8.0.0?classifier=sources

@@ -80,3 +80,4 @@
 - pkg:maven/com.aliyun/pai_dlc20201203@1.5.3?classifier=sources
 - pkg:maven/com.aliyun/pai_dlc20201203@1.5.4
 - pkg:maven/com.aliyun/pai_dlc20201203@1.5.4?classifier=sources
+- pkg:maven/com.aliyun/pai_dlc20201203@1.5.5?classifier=sources

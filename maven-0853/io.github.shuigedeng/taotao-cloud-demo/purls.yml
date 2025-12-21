@@ -16,3 +16,4 @@
 - pkg:maven/io.github.shuigedeng/taotao-cloud-demo@2025.05?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-demo@2025.06?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-demo@2025.07?classifier=sources
+- pkg:maven/io.github.shuigedeng/taotao-cloud-demo@2025.08?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gabrielittner.khonshu/state-machine-wasm-wasi@0.32.0?classifier=sources
+- pkg:maven/com.gabrielittner.khonshu/state-machine-wasm-wasi@0.32.1?classifier=sources

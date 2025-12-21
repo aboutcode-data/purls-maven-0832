@@ -19,6 +19,8 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@25.5.0.107428?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@25.6.0.109173?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@25.7.0.110598?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@25.8.0.111929?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@25.8.0.112029?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@5.5
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@5.5-RC1
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine@5.5-RC1?classifier=sources

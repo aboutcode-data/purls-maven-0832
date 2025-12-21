@@ -54,3 +54,5 @@
 - pkg:maven/org.springframework.restdocs/spring-restdocs-core@3.0.3?classifier=sources
 - pkg:maven/org.springframework.restdocs/spring-restdocs-core@3.0.4
 - pkg:maven/org.springframework.restdocs/spring-restdocs-core@3.0.4?classifier=sources
+- pkg:maven/org.springframework.restdocs/spring-restdocs-core@4.0.0-M1
+- pkg:maven/org.springframework.restdocs/spring-restdocs-core@4.0.0-M1?classifier=sources

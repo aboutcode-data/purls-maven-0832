@@ -1,1 +1,2 @@
+- pkg:maven/com.microblink/blinkid-verify-core@3.14.0?type=aar
 - pkg:maven/com.microblink/blinkid-verify-core@3.9.0?type=aar

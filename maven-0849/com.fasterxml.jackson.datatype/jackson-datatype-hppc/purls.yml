@@ -93,6 +93,7 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.19.0-rc2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.19.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.19.1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.19.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.2.0
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.2.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.2.1
@@ -101,6 +102,7 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.2.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.2.3
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.2.3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.20.0-rc1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.3.0
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.3.0-rc1
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hppc@2.3.0-rc1?classifier=sources

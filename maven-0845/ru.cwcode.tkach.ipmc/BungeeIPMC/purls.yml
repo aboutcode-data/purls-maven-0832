@@ -1,0 +1,2 @@
+- pkg:maven/ru.cwcode.tkach.ipmc/BungeeIPMC@1.4.0?classifier=sources
+- pkg:maven/ru.cwcode.tkach.ipmc/BungeeIPMC@1.5.0?classifier=sources

@@ -129,3 +129,5 @@
 - pkg:maven/com.couchbase.client/tracing-opentracing@1.6.1
 - pkg:maven/com.couchbase.client/tracing-opentracing@1.6.1?classifier=sources
 - pkg:maven/com.couchbase.client/tracing-opentracing@1.6.2?classifier=sources
+- pkg:maven/com.couchbase.client/tracing-opentracing@1.6.3?classifier=sources
+- pkg:maven/com.couchbase.client/tracing-opentracing@3.9.0?classifier=sources

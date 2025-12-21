@@ -1,1 +1,2 @@
 - pkg:maven/cl.emilym.compose/errorwidget-macosx64@2.0.2?classifier=sources
+- pkg:maven/cl.emilym.compose/errorwidget-macosx64@2.0.3?classifier=sources

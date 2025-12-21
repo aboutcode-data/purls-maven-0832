@@ -24,3 +24,4 @@
 - pkg:maven/chat.dim/Common@0.3.0?classifier=sources
 - pkg:maven/chat.dim/Common@0.3.2
 - pkg:maven/chat.dim/Common@0.3.2?classifier=sources
+- pkg:maven/chat.dim/Common@0.5.0?classifier=sources

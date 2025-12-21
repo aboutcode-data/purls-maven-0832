@@ -7,6 +7,9 @@
 - pkg:maven/com.affixapi/api@1.1.108?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.109?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.110?classifier=sources
+- pkg:maven/com.affixapi/api@1.1.111?classifier=sources
+- pkg:maven/com.affixapi/api@1.1.112?classifier=sources
+- pkg:maven/com.affixapi/api@1.1.113?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.40?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.42?classifier=sources
 - pkg:maven/com.affixapi/api@1.1.43?classifier=sources

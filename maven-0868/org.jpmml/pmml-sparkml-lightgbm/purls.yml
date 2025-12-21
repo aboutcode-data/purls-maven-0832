@@ -72,5 +72,8 @@
 - pkg:maven/org.jpmml/pmml-sparkml-lightgbm@2.5.3?classifier=sources
 - pkg:maven/org.jpmml/pmml-sparkml-lightgbm@3.0.0
 - pkg:maven/org.jpmml/pmml-sparkml-lightgbm@3.0.0?classifier=sources
+- pkg:maven/org.jpmml/pmml-sparkml-lightgbm@3.0.1?classifier=sources
 - pkg:maven/org.jpmml/pmml-sparkml-lightgbm@3.1.0
 - pkg:maven/org.jpmml/pmml-sparkml-lightgbm@3.1.0?classifier=sources
+- pkg:maven/org.jpmml/pmml-sparkml-lightgbm@3.1.1?classifier=sources
+- pkg:maven/org.jpmml/pmml-sparkml-lightgbm@3.2.0?classifier=sources

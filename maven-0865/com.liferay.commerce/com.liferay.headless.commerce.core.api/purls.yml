@@ -143,3 +143,4 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.core.api@6.1.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.core.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.core.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.core.api@8.0.1?classifier=sources

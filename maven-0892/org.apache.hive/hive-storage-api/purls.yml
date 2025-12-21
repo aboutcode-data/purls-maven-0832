@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.hive/hive-storage-api@4.0.0?classifier=sources
 - pkg:maven/org.apache.hive/hive-storage-api@4.0.1
 - pkg:maven/org.apache.hive/hive-storage-api@4.0.1?classifier=sources
+- pkg:maven/org.apache.hive/hive-storage-api@4.1.0
+- pkg:maven/org.apache.hive/hive-storage-api@4.1.0?classifier=sources

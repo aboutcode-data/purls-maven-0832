@@ -96,6 +96,7 @@
 - pkg:maven/io.ably/ably-java@1.2.51?classifier=sources
 - pkg:maven/io.ably/ably-java@1.2.52?classifier=sources
 - pkg:maven/io.ably/ably-java@1.2.53?classifier=sources
+- pkg:maven/io.ably/ably-java@1.2.54?classifier=sources
 - pkg:maven/io.ably/ably-java@1.2.5?classifier=sources
 - pkg:maven/io.ably/ably-java@1.2.6
 - pkg:maven/io.ably/ably-java@1.2.6?classifier=sources

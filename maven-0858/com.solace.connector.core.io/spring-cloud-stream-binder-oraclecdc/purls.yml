@@ -1,0 +1,1 @@
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-oraclecdc@1.4.5?classifier=sources

@@ -14,3 +14,13 @@
 - pkg:maven/com.madgag.play-git-hub/testkit_2.13@6.1.0?classifier=sources
 - pkg:maven/com.madgag.play-git-hub/testkit_2.13@7.0.0
 - pkg:maven/com.madgag.play-git-hub/testkit_2.13@7.0.0?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@7.0.2
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@7.0.2?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@7.0.3-PREVIEW.add-support-for-getting-authenticated-github-app.2025-07-25T1048.285e20d4
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@7.0.3-PREVIEW.add-support-for-getting-authenticated-github-app.2025-07-25T1048.285e20d4?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@7.0.3-PREVIEW.add-support-for-getting-authenticated-github-app.2025-07-25T1118.a6497ce8
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@7.0.3-PREVIEW.add-support-for-getting-authenticated-github-app.2025-07-25T1118.a6497ce8?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@8.0.0-PREVIEW.add-support-for-getting-authenticated-github-app.2025-08-02T1715.4f38c47f
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@8.0.0-PREVIEW.add-support-for-getting-authenticated-github-app.2025-08-02T1715.4f38c47f?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@8.0.0-PREVIEW.add-support-for-getting-authenticated-github-app.2025-08-02T1821.298572ed
+- pkg:maven/com.madgag.play-git-hub/testkit_2.13@8.0.0-PREVIEW.add-support-for-getting-authenticated-github-app.2025-08-02T1821.298572ed?classifier=sources

@@ -11,4 +11,5 @@
 - pkg:maven/io.github.toxicity188/BetterHud-bukkit-api@1.12?classifier=sources
 - pkg:maven/io.github.toxicity188/BetterHud-bukkit-api@1.13.0?classifier=sources
 - pkg:maven/io.github.toxicity188/BetterHud-bukkit-api@1.13.1?classifier=sources
+- pkg:maven/io.github.toxicity188/BetterHud-bukkit-api@1.13.2?classifier=sources
 - pkg:maven/io.github.toxicity188/BetterHud-bukkit-api@1.9.2?classifier=sources

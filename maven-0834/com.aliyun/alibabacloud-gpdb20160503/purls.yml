@@ -79,6 +79,10 @@
 - pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.22?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.23
 - pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.23?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.24?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.25?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.26?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.27?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.3
 - pkg:maven/com.aliyun/alibabacloud-gpdb20160503@2.0.3?classifier=sources

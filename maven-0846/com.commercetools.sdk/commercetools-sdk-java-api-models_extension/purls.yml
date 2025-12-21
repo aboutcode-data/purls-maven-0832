@@ -2,3 +2,5 @@
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_extension@18.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_extension@18.2.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_extension@18.3.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_extension@19.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-api-models_extension@19.1.0?classifier=sources

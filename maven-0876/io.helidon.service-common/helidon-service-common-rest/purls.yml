@@ -81,6 +81,8 @@
 - pkg:maven/io.helidon.service-common/helidon-service-common-rest@3.2.11?classifier=sources
 - pkg:maven/io.helidon.service-common/helidon-service-common-rest@3.2.12
 - pkg:maven/io.helidon.service-common/helidon-service-common-rest@3.2.12?classifier=sources
+- pkg:maven/io.helidon.service-common/helidon-service-common-rest@3.2.13
+- pkg:maven/io.helidon.service-common/helidon-service-common-rest@3.2.13?classifier=sources
 - pkg:maven/io.helidon.service-common/helidon-service-common-rest@3.2.1?classifier=sources
 - pkg:maven/io.helidon.service-common/helidon-service-common-rest@3.2.2
 - pkg:maven/io.helidon.service-common/helidon-service-common-rest@3.2.2?classifier=sources

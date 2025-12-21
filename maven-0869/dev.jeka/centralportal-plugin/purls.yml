@@ -20,3 +20,15 @@
 - pkg:maven/dev.jeka/centralportal-plugin@0.11.45?classifier=sources
 - pkg:maven/dev.jeka/centralportal-plugin@0.11.47
 - pkg:maven/dev.jeka/centralportal-plugin@0.11.47?classifier=sources
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.48
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.48?classifier=sources
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.49
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.49?classifier=sources
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.50
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.50?classifier=sources
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.51
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.51?classifier=sources
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.52
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.52?classifier=sources
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.53
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.53?classifier=sources

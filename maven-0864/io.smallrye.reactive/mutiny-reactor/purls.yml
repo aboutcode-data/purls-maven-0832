@@ -165,3 +165,4 @@
 - pkg:maven/io.smallrye.reactive/mutiny-reactor@2.9.1?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-reactor@2.9.2?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-reactor@2.9.3?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-reactor@2.9.4?classifier=sources

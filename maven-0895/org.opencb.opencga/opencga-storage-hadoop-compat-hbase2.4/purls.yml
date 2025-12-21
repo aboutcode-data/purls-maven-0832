@@ -22,5 +22,6 @@
 - pkg:maven/org.opencb.opencga/opencga-storage-hadoop-compat-hbase2.4@3.4.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-hadoop-compat-hbase2.4@3.5.0
 - pkg:maven/org.opencb.opencga/opencga-storage-hadoop-compat-hbase2.4@3.5.0?classifier=sources
+- pkg:maven/org.opencb.opencga/opencga-storage-hadoop-compat-hbase2.4@3.6.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-hadoop-compat-hbase2.4@4.0.0
 - pkg:maven/org.opencb.opencga/opencga-storage-hadoop-compat-hbase2.4@4.0.0?classifier=sources

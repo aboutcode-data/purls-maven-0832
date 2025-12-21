@@ -1,2 +1,3 @@
 - pkg:maven/com.jakewharton.confundus/confundus-gradle@1.0.0
 - pkg:maven/com.jakewharton.confundus/confundus-gradle@1.0.0?classifier=sources
+- pkg:maven/com.jakewharton.confundus/confundus-gradle@1.1.0?classifier=sources

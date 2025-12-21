@@ -33,6 +33,8 @@
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.20?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.21
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.21?classifier=sources
+- pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.22
+- pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.22?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.2?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.3
 - pkg:maven/org.glassfish.tyrus.bundles/websocket-ri-bundle@1.3.1

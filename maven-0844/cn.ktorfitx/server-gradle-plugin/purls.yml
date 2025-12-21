@@ -1,0 +1,2 @@
+- pkg:maven/cn.ktorfitx/server-gradle-plugin@3.2.3-3.0.4?classifier=sources
+- pkg:maven/cn.ktorfitx/server-gradle-plugin@3.2.3-3.0.5?classifier=sources

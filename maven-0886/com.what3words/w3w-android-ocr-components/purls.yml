@@ -10,3 +10,4 @@
 - pkg:maven/com.what3words/w3w-android-ocr-components@1.1.1?classifier=sources
 - pkg:maven/com.what3words/w3w-android-ocr-components@2.0.0?classifier=sources
 - pkg:maven/com.what3words/w3w-android-ocr-components@2.0.1?classifier=sources
+- pkg:maven/com.what3words/w3w-android-ocr-components@3.0.0?classifier=sources

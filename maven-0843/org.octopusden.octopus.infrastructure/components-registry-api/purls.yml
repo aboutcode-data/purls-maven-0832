@@ -49,7 +49,13 @@
 - pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.53?classifier=sources
 - pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.54?classifier=sources
 - pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.55?classifier=sources
+- pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.56?classifier=sources
+- pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.57?classifier=sources
+- pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.58?classifier=sources
+- pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.59?classifier=sources
 - pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.5?classifier=sources
+- pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.60?classifier=sources
+- pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.61?classifier=sources
 - pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.6?classifier=sources
 - pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.7?classifier=sources
 - pkg:maven/org.octopusden.octopus.infrastructure/components-registry-api@2.0.8?classifier=sources

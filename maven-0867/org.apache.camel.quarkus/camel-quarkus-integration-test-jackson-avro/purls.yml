@@ -104,6 +104,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jackson-avro@3.23.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jackson-avro@3.24.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jackson-avro@3.24.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jackson-avro@3.25.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jackson-avro@3.25.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jackson-avro@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jackson-avro@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jackson-avro@3.5.0

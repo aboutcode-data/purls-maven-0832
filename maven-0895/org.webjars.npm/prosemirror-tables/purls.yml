@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars.npm/prosemirror-tables@1.3.2
 - pkg:maven/org.webjars.npm/prosemirror-tables@1.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/prosemirror-tables@1.6.4
+- pkg:maven/org.webjars.npm/prosemirror-tables@1.7.1

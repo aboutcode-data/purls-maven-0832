@@ -36,3 +36,5 @@
 - pkg:maven/com.google.mug/mug-protobuf@8.6?classifier=sources
 - pkg:maven/com.google.mug/mug-protobuf@8.7
 - pkg:maven/com.google.mug/mug-protobuf@8.7?classifier=sources
+- pkg:maven/com.google.mug/mug-protobuf@9.0?classifier=sources
+- pkg:maven/com.google.mug/mug-protobuf@9.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.swiftleap/safer-maven-plugin@2.0.21-0.3.1?classifier=sources
 - pkg:maven/com.swiftleap/safer-maven-plugin@2.1.0-0.3.1?classifier=sources
 - pkg:maven/com.swiftleap/safer-maven-plugin@2.1.20-0.3.1?classifier=sources
+- pkg:maven/com.swiftleap/safer-maven-plugin@2.2.0-0.3.2?classifier=sources
