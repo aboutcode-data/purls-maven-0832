@@ -52,6 +52,7 @@
 - pkg:maven/com.vaadin/vaadin-cdi@15.1.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-cdi@15.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-cdi@15.2.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-cdi@16.0.0-beta1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-cdi@2.0.0
 - pkg:maven/com.vaadin/vaadin-cdi@2.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-cdi@3.0.0

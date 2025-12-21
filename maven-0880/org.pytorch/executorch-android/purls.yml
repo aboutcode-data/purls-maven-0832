@@ -11,3 +11,6 @@
 - pkg:maven/org.pytorch/executorch-android@0.7.0?classifier=sources
 - pkg:maven/org.pytorch/executorch-android@1.0.0-rc1?classifier=sources
 - pkg:maven/org.pytorch/executorch-android@1.0.0-rc2?classifier=sources
+- pkg:maven/org.pytorch/executorch-android@1.0.0-rc3?classifier=sources
+- pkg:maven/org.pytorch/executorch-android@1.0.0-rc5?classifier=sources
+- pkg:maven/org.pytorch/executorch-android@1.0.0?classifier=sources

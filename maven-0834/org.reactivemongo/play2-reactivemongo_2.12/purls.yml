@@ -324,6 +324,8 @@
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play26.RC17?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play26.RC18
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play26.RC18?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play26.RC19
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play26.RC19?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play27-RC10
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play27-RC10?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play27-RC11
@@ -356,6 +358,8 @@
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play27.RC17?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play27.RC18
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play27.RC18?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play27.RC19
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play27.RC19?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play28-RC10
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play28-RC10?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play28-RC11
@@ -388,6 +392,8 @@
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play28.RC17?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play28.RC18
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play28.RC18?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play28.RC19
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0-play28.RC19?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0.play26-RC12
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0.play26-RC12?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.12@1.1.0.play27-RC12

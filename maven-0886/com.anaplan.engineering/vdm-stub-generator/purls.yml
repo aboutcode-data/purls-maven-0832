@@ -35,6 +35,7 @@
 - pkg:maven/com.anaplan.engineering/vdm-stub-generator@0.4.0-alpha.26?classifier=sources
 - pkg:maven/com.anaplan.engineering/vdm-stub-generator@0.4.0-alpha.27?classifier=sources
 - pkg:maven/com.anaplan.engineering/vdm-stub-generator@0.4.0-alpha.28?classifier=sources
+- pkg:maven/com.anaplan.engineering/vdm-stub-generator@0.4.0-alpha.29?classifier=sources
 - pkg:maven/com.anaplan.engineering/vdm-stub-generator@0.4.0-alpha.2?classifier=sources
 - pkg:maven/com.anaplan.engineering/vdm-stub-generator@0.4.0-alpha.3?classifier=sources
 - pkg:maven/com.anaplan.engineering/vdm-stub-generator@0.4.0-alpha.5?classifier=sources

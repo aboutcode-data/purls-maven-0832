@@ -1,0 +1,2 @@
+- pkg:maven/org.business4s/workflows4s-web-ui_sjs1_3@0.4.1
+- pkg:maven/org.business4s/workflows4s-web-ui_sjs1_3@0.4.1?classifier=sources

@@ -76,3 +76,4 @@
 - pkg:maven/com.yomahub/liteflow-script-aviator@2.15.0.2?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-aviator@2.15.0.3?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-aviator@2.15.0?classifier=sources
+- pkg:maven/com.yomahub/liteflow-script-aviator@2.15.1?classifier=sources

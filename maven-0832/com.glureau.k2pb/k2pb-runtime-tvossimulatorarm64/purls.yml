@@ -3,3 +3,4 @@
 - pkg:maven/com.glureau.k2pb/k2pb-runtime-tvossimulatorarm64@0.9.22?classifier=sources
 - pkg:maven/com.glureau.k2pb/k2pb-runtime-tvossimulatorarm64@0.9.23?classifier=sources
 - pkg:maven/com.glureau.k2pb/k2pb-runtime-tvossimulatorarm64@0.9.24?classifier=sources
+- pkg:maven/com.glureau.k2pb/k2pb-runtime-tvossimulatorarm64@0.9.25?classifier=sources

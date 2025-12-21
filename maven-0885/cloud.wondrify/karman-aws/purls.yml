@@ -1,1 +1,2 @@
 - pkg:maven/cloud.wondrify/karman-aws@2.4.0?classifier=sources
+- pkg:maven/cloud.wondrify/karman-aws@2.4.1?classifier=sources

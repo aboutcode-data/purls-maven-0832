@@ -28,3 +28,4 @@
 - pkg:maven/com.helger.peppol/peppol-mls@12.0.2?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mls@12.0.3?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mls@12.0.4?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mls@12.0.5?classifier=sources

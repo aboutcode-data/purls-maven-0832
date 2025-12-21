@@ -22,3 +22,5 @@
 - pkg:maven/org.neo4j.gds/ml-facade-api@2.21.0?classifier=sources
 - pkg:maven/org.neo4j.gds/ml-facade-api@2.22.0
 - pkg:maven/org.neo4j.gds/ml-facade-api@2.22.0?classifier=sources
+- pkg:maven/org.neo4j.gds/ml-facade-api@2.23.0
+- pkg:maven/org.neo4j.gds/ml-facade-api@2.23.0?classifier=sources

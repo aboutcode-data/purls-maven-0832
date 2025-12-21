@@ -19,3 +19,4 @@
 - pkg:maven/net.hyshan/hou-starter-seata@1.8.0.7?classifier=sources
 - pkg:maven/net.hyshan/hou-starter-seata@1.8.0.8?classifier=sources
 - pkg:maven/net.hyshan/hou-starter-seata@1.8.0.9?classifier=sources
+- pkg:maven/net.hyshan/hou-starter-seata@1.8.1?classifier=sources

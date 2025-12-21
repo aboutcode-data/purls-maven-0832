@@ -1,1 +1,2 @@
 - pkg:maven/dev.g000sha256/tdl-coroutines-iosarm64simulator@4.1.0?classifier=sources
+- pkg:maven/dev.g000sha256/tdl-coroutines-iosarm64simulator@5.0.0?classifier=sources

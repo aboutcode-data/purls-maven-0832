@@ -55,3 +55,7 @@
 - pkg:maven/dev.pumpo5/core@0.8.70?classifier=sources
 - pkg:maven/dev.pumpo5/core@0.8.71?classifier=sources
 - pkg:maven/dev.pumpo5/core@0.8.72?classifier=sources
+- pkg:maven/dev.pumpo5/core@0.8.73?classifier=sources
+- pkg:maven/dev.pumpo5/core@0.8.74?classifier=sources
+- pkg:maven/dev.pumpo5/core@0.8.75?classifier=sources
+- pkg:maven/dev.pumpo5/core@0.8.76?classifier=sources

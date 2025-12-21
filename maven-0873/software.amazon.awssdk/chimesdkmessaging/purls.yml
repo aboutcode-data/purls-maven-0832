@@ -2014,3 +2014,13 @@
 - pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.36.0?classifier=sources
 - pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.36.1?classifier=sources
 - pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.36.2?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.36.3?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.37.0?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.37.1?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.37.2?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.37.3?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.37.4?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.37.5?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.38.0?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.38.1?classifier=sources
+- pkg:maven/software.amazon.awssdk/chimesdkmessaging@2.38.2?classifier=sources

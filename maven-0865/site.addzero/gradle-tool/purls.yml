@@ -35,6 +35,8 @@
 - pkg:maven/site.addzero/gradle-tool@0.0.655?classifier=sources
 - pkg:maven/site.addzero/gradle-tool@0.0.656?classifier=sources
 - pkg:maven/site.addzero/gradle-tool@0.0.657?classifier=sources
+- pkg:maven/site.addzero/gradle-tool@0.0.667?classifier=sources
+- pkg:maven/site.addzero/gradle-tool@0.0.672?classifier=sources
 - pkg:maven/site.addzero/gradle-tool@2025.10.07?classifier=sources
 - pkg:maven/site.addzero/gradle-tool@2025.10.19?classifier=sources
 - pkg:maven/site.addzero/gradle-tool@2025.10.20?classifier=sources

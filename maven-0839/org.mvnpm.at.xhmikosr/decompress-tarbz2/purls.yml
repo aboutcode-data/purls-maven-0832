@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.xhmikosr/decompress-tarbz2@8.0.2
 - pkg:maven/org.mvnpm.at.xhmikosr/decompress-tarbz2@8.0.2?classifier=sources
+- pkg:maven/org.mvnpm.at.xhmikosr/decompress-tarbz2@8.1.0
+- pkg:maven/org.mvnpm.at.xhmikosr/decompress-tarbz2@8.1.0?classifier=sources

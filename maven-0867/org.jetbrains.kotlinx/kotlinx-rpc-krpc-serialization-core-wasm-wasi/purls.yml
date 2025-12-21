@@ -1,1 +1,2 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-krpc-serialization-core-wasm-wasi@0.10.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-krpc-serialization-core-wasm-wasi@0.10.1?classifier=sources

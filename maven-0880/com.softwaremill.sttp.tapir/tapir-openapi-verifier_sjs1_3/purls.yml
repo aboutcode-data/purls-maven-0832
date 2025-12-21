@@ -70,3 +70,5 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-verifier_sjs1_3@1.11.48?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-verifier_sjs1_3@1.11.49
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-verifier_sjs1_3@1.11.49?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-verifier_sjs1_3@1.11.50
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-openapi-verifier_sjs1_3@1.11.50?classifier=sources

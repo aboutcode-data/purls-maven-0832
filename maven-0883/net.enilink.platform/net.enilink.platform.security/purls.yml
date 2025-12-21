@@ -24,3 +24,4 @@
 - pkg:maven/net.enilink.platform/net.enilink.platform.security@1.5.3?classifier=sources
 - pkg:maven/net.enilink.platform/net.enilink.platform.security@1.5.4
 - pkg:maven/net.enilink.platform/net.enilink.platform.security@1.5.4?classifier=sources
+- pkg:maven/net.enilink.platform/net.enilink.platform.security@1.6.0?classifier=sources

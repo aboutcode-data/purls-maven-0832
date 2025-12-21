@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.babel/helper-member-expression-to-functions@7.25.9?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/helper-member-expression-to-functions@7.27.1
 - pkg:maven/org.mvnpm.at.babel/helper-member-expression-to-functions@7.27.1?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/helper-member-expression-to-functions@7.28.5
+- pkg:maven/org.mvnpm.at.babel/helper-member-expression-to-functions@7.28.5?classifier=sources

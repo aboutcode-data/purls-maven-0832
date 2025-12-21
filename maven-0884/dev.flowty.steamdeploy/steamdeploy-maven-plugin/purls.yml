@@ -1,0 +1,2 @@
+- pkg:maven/dev.flowty.steamdeploy/steamdeploy-maven-plugin@0.0.2?classifier=sources
+- pkg:maven/dev.flowty.steamdeploy/steamdeploy-maven-plugin@0.0.3?classifier=sources

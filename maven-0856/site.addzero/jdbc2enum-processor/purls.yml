@@ -1,0 +1,2 @@
+- pkg:maven/site.addzero/jdbc2enum-processor@0.0.672?classifier=sources
+- pkg:maven/site.addzero/jdbc2enum-processor@2025.09.30?classifier=sources

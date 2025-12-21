@@ -38,3 +38,7 @@
 - pkg:maven/dev.soundness/anthology-java@0.42.0?classifier=sources
 - pkg:maven/dev.soundness/anthology-java@0.43.0
 - pkg:maven/dev.soundness/anthology-java@0.43.0?classifier=sources
+- pkg:maven/dev.soundness/anthology-java@0.44.0
+- pkg:maven/dev.soundness/anthology-java@0.44.0?classifier=sources
+- pkg:maven/dev.soundness/anthology-java@0.45.0
+- pkg:maven/dev.soundness/anthology-java@0.45.0?classifier=sources

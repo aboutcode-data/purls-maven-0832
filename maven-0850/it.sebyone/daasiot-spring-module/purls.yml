@@ -1,0 +1,2 @@
+- pkg:maven/it.sebyone/daasiot-spring-module@0.0.2
+- pkg:maven/it.sebyone/daasiot-spring-module@0.0.2?classifier=sources

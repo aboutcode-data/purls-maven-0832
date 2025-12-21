@@ -1,2 +1,3 @@
 - pkg:maven/nl.ncaj.theme.win9x/ico-resource@0.0.3?classifier=sources
+- pkg:maven/nl.ncaj.theme.win9x/ico-resource@0.0.4?classifier=sources
 - pkg:maven/nl.ncaj.theme.win9x/ico-resource@1.0.0?classifier=sources

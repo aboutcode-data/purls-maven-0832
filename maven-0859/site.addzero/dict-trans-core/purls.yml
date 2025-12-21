@@ -34,6 +34,14 @@
 - pkg:maven/site.addzero/dict-trans-core@0.0.655?classifier=sources
 - pkg:maven/site.addzero/dict-trans-core@0.0.656?classifier=sources
 - pkg:maven/site.addzero/dict-trans-core@0.0.657?classifier=sources
+- pkg:maven/site.addzero/dict-trans-core@0.0.665?classifier=sources
+- pkg:maven/site.addzero/dict-trans-core@0.0.666?classifier=sources
+- pkg:maven/site.addzero/dict-trans-core@0.0.667?classifier=sources
+- pkg:maven/site.addzero/dict-trans-core@0.0.668?classifier=sources
+- pkg:maven/site.addzero/dict-trans-core@0.0.669?classifier=sources
+- pkg:maven/site.addzero/dict-trans-core@0.0.670?classifier=sources
+- pkg:maven/site.addzero/dict-trans-core@0.0.671?classifier=sources
+- pkg:maven/site.addzero/dict-trans-core@0.0.672?classifier=sources
 - pkg:maven/site.addzero/dict-trans-core@2025.10.07?classifier=sources
 - pkg:maven/site.addzero/dict-trans-core@2025.10.19?classifier=sources
 - pkg:maven/site.addzero/dict-trans-core@2025.10.20?classifier=sources

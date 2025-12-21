@@ -1,0 +1,2 @@
+- pkg:maven/com.izivia/ocpi-2-2-1-jackson@0.0.55?classifier=sources
+- pkg:maven/com.izivia/ocpi-2-2-1-jackson@0.0.56?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.rust-nostr/nostr-sdk-kmp-iossimulatorarm64@0.44.0?classifier=sources

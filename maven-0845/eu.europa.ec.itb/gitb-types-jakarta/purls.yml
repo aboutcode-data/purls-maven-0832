@@ -41,3 +41,4 @@
 - pkg:maven/eu.europa.ec.itb/gitb-types-jakarta@1.27.3?classifier=sources
 - pkg:maven/eu.europa.ec.itb/gitb-types-jakarta@1.27.4?classifier=sources
 - pkg:maven/eu.europa.ec.itb/gitb-types-jakarta@1.28.0?classifier=sources
+- pkg:maven/eu.europa.ec.itb/gitb-types-jakarta@1.28.1?classifier=sources

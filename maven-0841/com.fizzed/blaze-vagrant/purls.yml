@@ -26,6 +26,7 @@
 - pkg:maven/com.fizzed/blaze-vagrant@1.0.2?classifier=sources
 - pkg:maven/com.fizzed/blaze-vagrant@1.1.0
 - pkg:maven/com.fizzed/blaze-vagrant@1.1.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-vagrant@1.10.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-vagrant@1.2.0
 - pkg:maven/com.fizzed/blaze-vagrant@1.2.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-vagrant@1.2.1
@@ -50,3 +51,6 @@
 - pkg:maven/com.fizzed/blaze-vagrant@1.8.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-vagrant@1.9.0
 - pkg:maven/com.fizzed/blaze-vagrant@1.9.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-vagrant@2.0.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-vagrant@2.0.1?classifier=sources
+- pkg:maven/com.fizzed/blaze-vagrant@2.0.2?classifier=sources

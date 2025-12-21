@@ -4082,6 +4082,10 @@
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20250829-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20250910-2.0.0
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev20250910-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20251013-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20251013-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20251019-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drive@v3-rev20251019-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drive@v3-rev21-1.19.1

@@ -17,3 +17,7 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.58.3?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.59.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.59.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.60.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.60.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.61.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-mongodb@0.61.0?classifier=sources

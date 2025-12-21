@@ -25,3 +25,4 @@
 - pkg:maven/com.synerset/unitility-spring@2.8.0
 - pkg:maven/com.synerset/unitility-spring@2.8.0?classifier=sources
 - pkg:maven/com.synerset/unitility-spring@2.9.0?classifier=sources
+- pkg:maven/com.synerset/unitility-spring@3.0.0?classifier=sources

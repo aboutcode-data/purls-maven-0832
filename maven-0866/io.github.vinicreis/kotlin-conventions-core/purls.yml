@@ -33,3 +33,7 @@
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.0.7?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.1.0-alpha0?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.1.0-alpha1?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.1.0-alpha2?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.1.0-rc.0?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.1.0?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-core@0.2.0?classifier=sources

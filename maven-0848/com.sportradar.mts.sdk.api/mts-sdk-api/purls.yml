@@ -5,3 +5,4 @@
 - pkg:maven/com.sportradar.mts.sdk.api/mts-sdk-api@2.4.1.2
 - pkg:maven/com.sportradar.mts.sdk.api/mts-sdk-api@2.4.1.2?classifier=sources
 - pkg:maven/com.sportradar.mts.sdk.api/mts-sdk-api@2.4.2.0-17?classifier=sources
+- pkg:maven/com.sportradar.mts.sdk.api/mts-sdk-api@2.4.2.1-17?classifier=sources

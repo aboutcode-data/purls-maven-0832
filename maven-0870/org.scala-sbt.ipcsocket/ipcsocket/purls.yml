@@ -24,3 +24,7 @@
 - pkg:maven/org.scala-sbt.ipcsocket/ipcsocket@1.6.2?classifier=sources
 - pkg:maven/org.scala-sbt.ipcsocket/ipcsocket@1.6.3
 - pkg:maven/org.scala-sbt.ipcsocket/ipcsocket@1.6.3?classifier=sources
+- pkg:maven/org.scala-sbt.ipcsocket/ipcsocket@2.0.0-M1
+- pkg:maven/org.scala-sbt.ipcsocket/ipcsocket@2.0.0-M1?classifier=sources
+- pkg:maven/org.scala-sbt.ipcsocket/ipcsocket@2.0.0-M2
+- pkg:maven/org.scala-sbt.ipcsocket/ipcsocket@2.0.0-M2?classifier=sources

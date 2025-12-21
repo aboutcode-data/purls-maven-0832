@@ -8,3 +8,17 @@
 - pkg:maven/org.mvnpm.at.supabase/functions-js@2.5.0?classifier=sources
 - pkg:maven/org.mvnpm.at.supabase/functions-js@2.75.0
 - pkg:maven/org.mvnpm.at.supabase/functions-js@2.75.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.75.1
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.75.1?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.76.0
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.76.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.76.1
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.76.1?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.77.0
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.77.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.78.0
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.78.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.79.0
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.79.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.80.0
+- pkg:maven/org.mvnpm.at.supabase/functions-js@2.80.0?classifier=sources

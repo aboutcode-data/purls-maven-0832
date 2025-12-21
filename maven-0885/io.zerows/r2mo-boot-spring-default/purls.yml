@@ -1,0 +1,4 @@
+- pkg:maven/io.zerows/r2mo-boot-spring-default@1.0-M25?classifier=sources
+- pkg:maven/io.zerows/r2mo-boot-spring-default@1.0-M26?classifier=sources
+- pkg:maven/io.zerows/r2mo-boot-spring-default@1.0-M27?classifier=sources
+- pkg:maven/io.zerows/r2mo-boot-spring-default@1.0.28?classifier=sources

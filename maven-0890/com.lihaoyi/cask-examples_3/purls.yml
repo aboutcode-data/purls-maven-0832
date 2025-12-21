@@ -1,0 +1,2 @@
+- pkg:maven/com.lihaoyi/cask-examples_3@0.11.1
+- pkg:maven/com.lihaoyi/cask-examples_3@0.11.1?classifier=sources

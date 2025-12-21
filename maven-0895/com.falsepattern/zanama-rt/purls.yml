@@ -1,1 +1,2 @@
 - pkg:maven/com.falsepattern/zanama-rt@0.1.0?classifier=sources
+- pkg:maven/com.falsepattern/zanama-rt@0.2.0?classifier=sources

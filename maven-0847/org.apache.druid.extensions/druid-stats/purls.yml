@@ -78,3 +78,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-stats@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-stats@34.0.0
 - pkg:maven/org.apache.druid.extensions/druid-stats@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-stats@35.0.0
+- pkg:maven/org.apache.druid.extensions/druid-stats@35.0.0?classifier=sources

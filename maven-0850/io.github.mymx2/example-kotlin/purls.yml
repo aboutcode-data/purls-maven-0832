@@ -1,0 +1,4 @@
+- pkg:maven/io.github.mymx2/example-kotlin@1.1.251022001?classifier=sources
+- pkg:maven/io.github.mymx2/example-kotlin@1.2.0?classifier=sources
+- pkg:maven/io.github.mymx2/example-kotlin@1.2.1?classifier=sources
+- pkg:maven/io.github.mymx2/example-kotlin@1.2.2?classifier=sources

@@ -23,3 +23,4 @@
 - pkg:maven/com.github.stephengold/jolt-jni-Linux_ARM32hf@3.2.0?classifier=sources
 - pkg:maven/com.github.stephengold/jolt-jni-Linux_ARM32hf@3.3.0?classifier=sources
 - pkg:maven/com.github.stephengold/jolt-jni-Linux_ARM32hf@3.4.0?classifier=sources
+- pkg:maven/com.github.stephengold/jolt-jni-Linux_ARM32hf@3.5.0?classifier=sources

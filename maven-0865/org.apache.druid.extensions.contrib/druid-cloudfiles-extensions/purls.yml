@@ -78,3 +78,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/druid-cloudfiles-extensions@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/druid-cloudfiles-extensions@34.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/druid-cloudfiles-extensions@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/druid-cloudfiles-extensions@35.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/druid-cloudfiles-extensions@35.0.0?classifier=sources

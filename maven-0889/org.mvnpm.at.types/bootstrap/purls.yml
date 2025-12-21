@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.types/bootstrap@5.2.10
+- pkg:maven/org.mvnpm.at.types/bootstrap@5.2.10?classifier=sources

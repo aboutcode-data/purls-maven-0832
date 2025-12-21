@@ -147,7 +147,9 @@
 - pkg:maven/io.lighty.models.test/example-data-center@21.1.0?classifier=sources
 - pkg:maven/io.lighty.models.test/example-data-center@21.2.0
 - pkg:maven/io.lighty.models.test/example-data-center@21.2.0?classifier=sources
+- pkg:maven/io.lighty.models.test/example-data-center@21.3.0?classifier=sources
 - pkg:maven/io.lighty.models.test/example-data-center@22.0.0?classifier=sources
+- pkg:maven/io.lighty.models.test/example-data-center@22.1.0?classifier=sources
 - pkg:maven/io.lighty.models.test/example-data-center@9.1.2
 - pkg:maven/io.lighty.models.test/example-data-center@9.1.2?classifier=sources
 - pkg:maven/io.lighty.models.test/example-data-center@9.1.3

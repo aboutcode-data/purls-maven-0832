@@ -38,3 +38,4 @@
 - pkg:maven/dev.langchain4j/langchain4j-azure-ai-search-spring-boot-starter@1.6.0-beta12?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-azure-ai-search-spring-boot-starter@1.7.0-beta13?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-azure-ai-search-spring-boot-starter@1.7.1-beta14?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-azure-ai-search-spring-boot-starter@1.8.0-beta15?classifier=sources

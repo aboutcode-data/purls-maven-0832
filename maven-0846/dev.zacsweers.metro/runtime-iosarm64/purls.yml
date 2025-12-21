@@ -44,3 +44,6 @@
 - pkg:maven/dev.zacsweers.metro/runtime-iosarm64@0.7.0-2.2.20-RC-alpha04?classifier=sources
 - pkg:maven/dev.zacsweers.metro/runtime-iosarm64@0.7.0-2.2.20-RC-alpha05?classifier=sources
 - pkg:maven/dev.zacsweers.metro/runtime-iosarm64@0.7.0-2.2.20-RC2-alpha06?classifier=sources
+- pkg:maven/dev.zacsweers.metro/runtime-iosarm64@0.7.0?classifier=sources
+- pkg:maven/dev.zacsweers.metro/runtime-iosarm64@0.7.1?classifier=sources
+- pkg:maven/dev.zacsweers.metro/runtime-iosarm64@0.7.2?classifier=sources

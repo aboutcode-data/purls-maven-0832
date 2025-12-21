@@ -26,3 +26,4 @@
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@6.1.1?classifier=sources
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@7.0.0?classifier=sources
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@8.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.alloy.portlet@8.0.1?classifier=sources

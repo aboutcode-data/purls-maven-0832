@@ -101,3 +101,4 @@
 - pkg:maven/io.avaje/avaje-jex-mustache@3.3-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-mustache@3.3-RC4?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-mustache@3.3-RC5?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-mustache@3.3?classifier=sources

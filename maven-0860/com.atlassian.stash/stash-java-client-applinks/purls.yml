@@ -18,3 +18,4 @@
 - pkg:maven/com.atlassian.stash/stash-java-client-applinks@2.3.8?classifier=sources
 - pkg:maven/com.atlassian.stash/stash-java-client-applinks@2.3.9
 - pkg:maven/com.atlassian.stash/stash-java-client-applinks@2.3.9?classifier=sources
+- pkg:maven/com.atlassian.stash/stash-java-client-applinks@3.0.0-60876ce?classifier=sources

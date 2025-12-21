@@ -20,3 +20,5 @@
 - pkg:maven/io.mokamint/io-mokamint-application-remote@1.5.0?classifier=sources
 - pkg:maven/io.mokamint/io-mokamint-application-remote@1.6.0
 - pkg:maven/io.mokamint/io-mokamint-application-remote@1.6.0?classifier=sources
+- pkg:maven/io.mokamint/io-mokamint-application-remote@1.6.1
+- pkg:maven/io.mokamint/io-mokamint-application-remote@1.6.1?classifier=sources

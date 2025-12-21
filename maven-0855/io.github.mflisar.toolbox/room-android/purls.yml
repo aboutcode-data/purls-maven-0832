@@ -23,3 +23,5 @@
 - pkg:maven/io.github.mflisar.toolbox/room-android@2.8.8?classifier=sources
 - pkg:maven/io.github.mflisar.toolbox/room-android@2.8.9?classifier=sources
 - pkg:maven/io.github.mflisar.toolbox/room-android@3.0.0?classifier=sources
+- pkg:maven/io.github.mflisar.toolbox/room-android@3.0.1?classifier=sources
+- pkg:maven/io.github.mflisar.toolbox/room-android@3.0.2?classifier=sources

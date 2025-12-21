@@ -1,1 +1,2 @@
 - pkg:maven/com.vmlens/test-cases-jdk23@1.2.14?classifier=sources
+- pkg:maven/com.vmlens/test-cases-jdk23@1.2.20?classifier=sources

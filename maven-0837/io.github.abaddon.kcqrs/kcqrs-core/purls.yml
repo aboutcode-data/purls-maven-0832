@@ -15,5 +15,7 @@
 - pkg:maven/io.github.abaddon.kcqrs/kcqrs-core@0.2.3?classifier=sources
 - pkg:maven/io.github.abaddon.kcqrs/kcqrs-core@0.2.4?classifier=sources
 - pkg:maven/io.github.abaddon.kcqrs/kcqrs-core@0.2.7?classifier=sources
+- pkg:maven/io.github.abaddon.kcqrs/kcqrs-core@0.2.8?classifier=sources
+- pkg:maven/io.github.abaddon.kcqrs/kcqrs-core@0.2.9?classifier=sources
 - pkg:maven/io.github.abaddon.kcqrs/kcqrs-core@1fc9ef?classifier=sources
 - pkg:maven/io.github.abaddon.kcqrs/kcqrs-core@e9ae08?classifier=sources

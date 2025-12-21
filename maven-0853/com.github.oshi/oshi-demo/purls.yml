@@ -202,3 +202,4 @@
 - pkg:maven/com.github.oshi/oshi-demo@6.8.2?classifier=sources
 - pkg:maven/com.github.oshi/oshi-demo@6.8.3?classifier=sources
 - pkg:maven/com.github.oshi/oshi-demo@6.9.0?classifier=sources
+- pkg:maven/com.github.oshi/oshi-demo@6.9.1?classifier=sources

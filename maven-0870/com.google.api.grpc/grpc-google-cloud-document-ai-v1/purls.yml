@@ -220,5 +220,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1@2.80.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1@2.81.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1@2.81.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1@2.82.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1@2.82.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1@2.9.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1@2.9.0?classifier=sources

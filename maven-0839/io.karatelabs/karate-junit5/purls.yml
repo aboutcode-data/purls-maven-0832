@@ -21,3 +21,4 @@
 - pkg:maven/io.karatelabs/karate-junit5@1.5.2.RC4
 - pkg:maven/io.karatelabs/karate-junit5@1.5.2.RC4?classifier=sources
 - pkg:maven/io.karatelabs/karate-junit5@1.5.2.RC5?classifier=sources
+- pkg:maven/io.karatelabs/karate-junit5@1.5.2.RC6?classifier=sources

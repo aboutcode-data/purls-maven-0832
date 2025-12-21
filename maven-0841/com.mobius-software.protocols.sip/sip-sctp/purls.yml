@@ -16,6 +16,10 @@
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-15?classifier=sources
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-16-java11?classifier=sources
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-16?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-19-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-19?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-20-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-20?classifier=sources
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-6-java11
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-6-java11?classifier=sources
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.0.1-7
@@ -25,6 +29,14 @@
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-1
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-1?classifier=sources
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-2
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-21-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-21?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-22?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-23?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-24-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-24?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-25-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-25?classifier=sources
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-2?classifier=sources
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-3
 - pkg:maven/com.mobius-software.protocols.sip/sip-sctp@10.1.0-3-java11

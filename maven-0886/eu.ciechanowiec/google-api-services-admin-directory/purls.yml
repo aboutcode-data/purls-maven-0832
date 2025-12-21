@@ -1,2 +1,3 @@
 - pkg:maven/eu.ciechanowiec/google-api-services-admin-directory@20250616?classifier=sources
 - pkg:maven/eu.ciechanowiec/google-api-services-admin-directory@20250804?classifier=sources
+- pkg:maven/eu.ciechanowiec/google-api-services-admin-directory@20250930?classifier=sources

@@ -8,3 +8,9 @@
 - pkg:maven/org.flinkextended/flink-scala-api-1_2.13@1.2.8?classifier=sources
 - pkg:maven/org.flinkextended/flink-scala-api-1_2.13@1.2.9
 - pkg:maven/org.flinkextended/flink-scala-api-1_2.13@1.2.9?classifier=sources
+- pkg:maven/org.flinkextended/flink-scala-api-1_2.13@2.0.1
+- pkg:maven/org.flinkextended/flink-scala-api-1_2.13@2.0.1?classifier=sources
+- pkg:maven/org.flinkextended/flink-scala-api-1_2.13@2.0.2
+- pkg:maven/org.flinkextended/flink-scala-api-1_2.13@2.0.2?classifier=sources
+- pkg:maven/org.flinkextended/flink-scala-api-1_2.13@2.0.4
+- pkg:maven/org.flinkextended/flink-scala-api-1_2.13@2.0.4?classifier=sources

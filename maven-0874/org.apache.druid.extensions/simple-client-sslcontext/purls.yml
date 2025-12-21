@@ -78,3 +78,5 @@
 - pkg:maven/org.apache.druid.extensions/simple-client-sslcontext@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions/simple-client-sslcontext@34.0.0
 - pkg:maven/org.apache.druid.extensions/simple-client-sslcontext@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/simple-client-sslcontext@35.0.0
+- pkg:maven/org.apache.druid.extensions/simple-client-sslcontext@35.0.0?classifier=sources

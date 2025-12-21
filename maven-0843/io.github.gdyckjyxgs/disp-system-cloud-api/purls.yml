@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gdyckjyxgs/disp-system-cloud-api@1.0.0-disp-test?classifier=sources
+- pkg:maven/io.github.gdyckjyxgs/disp-system-cloud-api@1.0.0-disp?classifier=sources

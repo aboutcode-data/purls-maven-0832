@@ -90,3 +90,6 @@
 - pkg:maven/com.agentsflex/agents-flex-store-elasticsearch@1.3.6?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-store-elasticsearch@1.3.7?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-store-elasticsearch@1.3.8?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-store-elasticsearch@1.3.9?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-store-elasticsearch@1.4.0?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-store-elasticsearch@1.4.1?classifier=sources

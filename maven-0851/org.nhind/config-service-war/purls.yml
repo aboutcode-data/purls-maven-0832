@@ -11,3 +11,4 @@
 - pkg:maven/org.nhind/config-service-war@8.0.4?classifier=sources
 - pkg:maven/org.nhind/config-service-war@8.0.4?type=war
 - pkg:maven/org.nhind/config-service-war@8.1.0?classifier=sources
+- pkg:maven/org.nhind/config-service-war@8.1.1?classifier=sources

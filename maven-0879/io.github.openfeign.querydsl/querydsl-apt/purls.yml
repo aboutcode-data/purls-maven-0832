@@ -62,3 +62,5 @@
 - pkg:maven/io.github.openfeign.querydsl/querydsl-apt@6.9?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-apt@7.0
 - pkg:maven/io.github.openfeign.querydsl/querydsl-apt@7.0?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-apt@7.1
+- pkg:maven/io.github.openfeign.querydsl/querydsl-apt@7.1?classifier=sources

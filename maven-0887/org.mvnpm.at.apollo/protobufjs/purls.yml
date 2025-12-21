@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.apollo/protobufjs@1.2.7
+- pkg:maven/org.mvnpm.at.apollo/protobufjs@1.2.7?classifier=sources

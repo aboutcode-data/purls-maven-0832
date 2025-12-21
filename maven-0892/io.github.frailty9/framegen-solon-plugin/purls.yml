@@ -5,3 +5,4 @@
 - pkg:maven/io.github.frailty9/framegen-solon-plugin@0.2.2?classifier=sources
 - pkg:maven/io.github.frailty9/framegen-solon-plugin@0.3.0?classifier=sources
 - pkg:maven/io.github.frailty9/framegen-solon-plugin@0.3.1?classifier=sources
+- pkg:maven/io.github.frailty9/framegen-solon-plugin@0.4.0-snapshot?classifier=sources

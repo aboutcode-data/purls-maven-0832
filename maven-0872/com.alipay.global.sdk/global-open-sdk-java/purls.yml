@@ -153,6 +153,7 @@
 - pkg:maven/com.alipay.global.sdk/global-open-sdk-java@2.0.66?classifier=sources
 - pkg:maven/com.alipay.global.sdk/global-open-sdk-java@2.0.67?classifier=sources
 - pkg:maven/com.alipay.global.sdk/global-open-sdk-java@2.0.68?classifier=sources
+- pkg:maven/com.alipay.global.sdk/global-open-sdk-java@2.0.69?classifier=sources
 - pkg:maven/com.alipay.global.sdk/global-open-sdk-java@2.0.6?classifier=sources
 - pkg:maven/com.alipay.global.sdk/global-open-sdk-java@2.0.7
 - pkg:maven/com.alipay.global.sdk/global-open-sdk-java@2.0.7?classifier=sources

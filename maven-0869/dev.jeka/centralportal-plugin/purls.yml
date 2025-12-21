@@ -38,3 +38,5 @@
 - pkg:maven/dev.jeka/centralportal-plugin@0.11.55?classifier=sources
 - pkg:maven/dev.jeka/centralportal-plugin@0.11.56
 - pkg:maven/dev.jeka/centralportal-plugin@0.11.56?classifier=sources
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.57
+- pkg:maven/dev.jeka/centralportal-plugin@0.11.57?classifier=sources

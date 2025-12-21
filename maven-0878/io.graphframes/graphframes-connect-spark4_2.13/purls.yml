@@ -1,3 +1,5 @@
+- pkg:maven/io.graphframes/graphframes-connect-spark4_2.13@0.10.0
+- pkg:maven/io.graphframes/graphframes-connect-spark4_2.13@0.10.0?classifier=sources
 - pkg:maven/io.graphframes/graphframes-connect-spark4_2.13@0.9.2
 - pkg:maven/io.graphframes/graphframes-connect-spark4_2.13@0.9.2?classifier=sources
 - pkg:maven/io.graphframes/graphframes-connect-spark4_2.13@0.9.3

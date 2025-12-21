@@ -38,5 +38,7 @@
 - pkg:maven/org.jitsi/libjitsi@1.1-34-gb93ce2ee?classifier=sources
 - pkg:maven/org.jitsi/libjitsi@1.1-4-gfb6b03ff
 - pkg:maven/org.jitsi/libjitsi@1.1-4-gfb6b03ff?classifier=sources
+- pkg:maven/org.jitsi/libjitsi@1.1-46-gb4710e18
+- pkg:maven/org.jitsi/libjitsi@1.1-46-gb4710e18?classifier=sources
 - pkg:maven/org.jitsi/libjitsi@1.1-7-gbd220eef
 - pkg:maven/org.jitsi/libjitsi@1.1-7-gbd220eef?classifier=sources

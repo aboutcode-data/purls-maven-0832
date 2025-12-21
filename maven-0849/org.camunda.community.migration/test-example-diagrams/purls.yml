@@ -12,6 +12,8 @@
 - pkg:maven/org.camunda.community.migration/test-example-diagrams@0.11.0?classifier=sources
 - pkg:maven/org.camunda.community.migration/test-example-diagrams@0.11.1
 - pkg:maven/org.camunda.community.migration/test-example-diagrams@0.11.1?classifier=sources
+- pkg:maven/org.camunda.community.migration/test-example-diagrams@0.12.0
+- pkg:maven/org.camunda.community.migration/test-example-diagrams@0.12.0?classifier=sources
 - pkg:maven/org.camunda.community.migration/test-example-diagrams@0.4.4
 - pkg:maven/org.camunda.community.migration/test-example-diagrams@0.4.4?classifier=sources
 - pkg:maven/org.camunda.community.migration/test-example-diagrams@0.5.0

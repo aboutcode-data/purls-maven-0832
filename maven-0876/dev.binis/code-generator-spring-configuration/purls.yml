@@ -151,6 +151,8 @@
 - pkg:maven/dev.binis/code-generator-spring-configuration@1.2.29?classifier=sources
 - pkg:maven/dev.binis/code-generator-spring-configuration@1.2.2?classifier=sources
 - pkg:maven/dev.binis/code-generator-spring-configuration@1.2.3
+- pkg:maven/dev.binis/code-generator-spring-configuration@1.2.30
+- pkg:maven/dev.binis/code-generator-spring-configuration@1.2.30?classifier=sources
 - pkg:maven/dev.binis/code-generator-spring-configuration@1.2.3?classifier=sources
 - pkg:maven/dev.binis/code-generator-spring-configuration@1.2.4
 - pkg:maven/dev.binis/code-generator-spring-configuration@1.2.4?classifier=sources

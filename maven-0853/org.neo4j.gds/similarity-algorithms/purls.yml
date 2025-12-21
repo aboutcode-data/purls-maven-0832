@@ -24,6 +24,8 @@
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.21.0?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.22.0
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.22.0?classifier=sources
+- pkg:maven/org.neo4j.gds/similarity-algorithms@2.23.0
+- pkg:maven/org.neo4j.gds/similarity-algorithms@2.23.0?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.7.0?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.8.0?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-algorithms@2.9.0?classifier=sources

@@ -133,3 +133,7 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.314?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.315?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.316?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.317?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.318?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.319?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ide-classes@3.320?classifier=sources

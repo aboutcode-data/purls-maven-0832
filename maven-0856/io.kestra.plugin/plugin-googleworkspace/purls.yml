@@ -31,3 +31,4 @@
 - pkg:maven/io.kestra.plugin/plugin-googleworkspace@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-googleworkspace@0.9.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-googleworkspace@1.0.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-googleworkspace@1.1.0?classifier=sources

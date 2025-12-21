@@ -18,3 +18,4 @@
 - pkg:maven/org.apache.inlong/inlong@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.inlong/inlong@2.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.inlong/inlong@2.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.inlong/inlong@2.3.0?classifier=source-release&type=zip

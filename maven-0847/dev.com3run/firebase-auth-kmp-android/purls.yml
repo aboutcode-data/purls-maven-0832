@@ -1,2 +1,5 @@
 - pkg:maven/dev.com3run/firebase-auth-kmp-android@1.0.0?classifier=sources
 - pkg:maven/dev.com3run/firebase-auth-kmp-android@1.0.1?classifier=sources
+- pkg:maven/dev.com3run/firebase-auth-kmp-android@1.0.2?classifier=sources
+- pkg:maven/dev.com3run/firebase-auth-kmp-android@1.0.3?classifier=sources
+- pkg:maven/dev.com3run/firebase-auth-kmp-android@1.0.4?classifier=sources

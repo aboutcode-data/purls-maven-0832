@@ -148,3 +148,5 @@
 - pkg:maven/org.openurp.degree/openurp-degree-api@0.46.0?classifier=sources
 - pkg:maven/org.openurp.degree/openurp-degree-api@0.47.0
 - pkg:maven/org.openurp.degree/openurp-degree-api@0.47.0?classifier=sources
+- pkg:maven/org.openurp.degree/openurp-degree-api@0.48.0
+- pkg:maven/org.openurp.degree/openurp-degree-api@0.48.0?classifier=sources

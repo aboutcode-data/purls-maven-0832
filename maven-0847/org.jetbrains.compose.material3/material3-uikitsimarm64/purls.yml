@@ -1,5 +1,7 @@
 - pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.10.0-alpha01?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.10.0-alpha02?classifier=sources
+- pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.10.0-alpha03?classifier=sources
+- pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.10.0-alpha04?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.2.0-beta01?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.2.0?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.2.1?classifier=sources
@@ -66,3 +68,4 @@
 - pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.9.0-beta04?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.9.0-beta05?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.9.0-beta06?classifier=sources
+- pkg:maven/org.jetbrains.compose.material3/material3-uikitsimarm64@1.9.0?classifier=sources

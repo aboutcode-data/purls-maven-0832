@@ -3,3 +3,4 @@
 - pkg:maven/io.github.habedi/multi-vector-hnsw@0.1.3-beta?classifier=sources
 - pkg:maven/io.github.habedi/multi-vector-hnsw@0.1.4-beta?classifier=sources
 - pkg:maven/io.github.habedi/multi-vector-hnsw@0.2.0-beta?classifier=sources
+- pkg:maven/io.github.habedi/multi-vector-hnsw@0.2.1?classifier=sources

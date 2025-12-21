@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mullerhai/torch4s_3@0.7.6-1.5.12
+- pkg:maven/io.github.mullerhai/torch4s_3@0.7.6-1.5.12?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.solanamobile/web3-mwa-signer@0.3.0-beta5?classifier=sources
 - pkg:maven/com.solanamobile/web3-mwa-signer@0.3.0-beta6?classifier=sources
 - pkg:maven/com.solanamobile/web3-mwa-signer@0.3.0?classifier=sources
+- pkg:maven/com.solanamobile/web3-mwa-signer@0.3.1-beta1?classifier=sources
+- pkg:maven/com.solanamobile/web3-mwa-signer@0.3.1?classifier=sources

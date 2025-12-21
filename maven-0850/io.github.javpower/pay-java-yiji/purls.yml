@@ -1,1 +1,2 @@
 - pkg:maven/io.github.javpower/pay-java-yiji@1.0.0-M4?classifier=sources
+- pkg:maven/io.github.javpower/pay-java-yiji@1.0.0?classifier=sources

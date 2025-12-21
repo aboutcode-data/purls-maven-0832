@@ -1,0 +1,2 @@
+- pkg:maven/com.lihaoyi/ammonite-repl-api_3.3.7@3.0.4
+- pkg:maven/com.lihaoyi/ammonite-repl-api_3.3.7@3.0.4?classifier=sources

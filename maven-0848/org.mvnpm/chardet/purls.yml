@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/chardet@0.7.0?classifier=sources
 - pkg:maven/org.mvnpm/chardet@2.1.0?classifier=sources
+- pkg:maven/org.mvnpm/chardet@2.1.1
+- pkg:maven/org.mvnpm/chardet@2.1.1?classifier=sources

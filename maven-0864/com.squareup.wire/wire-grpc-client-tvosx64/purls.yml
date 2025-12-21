@@ -45,3 +45,4 @@
 - pkg:maven/com.squareup.wire/wire-grpc-client-tvosx64@5.3.8?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-tvosx64@5.3.9?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-tvosx64@5.4.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-client-tvosx64@6.0.0-alpha01?classifier=sources
